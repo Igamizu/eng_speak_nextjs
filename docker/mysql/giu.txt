@@ -1,0 +1,1107 @@
+key_value	cited	unit	genre	japanese	eng1	eng2	eng3
+GU001S001	1	1	01_Past and Present	彼女は車で仕事に行っています。	She is (She's) driving to work.		
+GU001S002	1	1	01_Past and Present	彼女は写真を撮っています。	She is (She's) taking a picture.		
+GU001S003	1	1	01_Past and Present	彼は靴紐を結んでいます。	He is (He's) tying his shoelace.		
+GU001S004	1	1	01_Past and Present	彼らは道路を横断中です。	They're crossing the road.		
+GU001S005	1	1	01_Past and Present	彼は頭をかいている。	He is (He's) scratching his head.		
+GU001S006	1	1	01_Past and Present	彼らは誰かに手を振っている。	They're waving to somebody.		
+GU001S007	1	1	01_Past and Present	彼女は木の後ろに隠れています。	She is (She's) hiding behind a tree.		
+GU001S008	1	1	01_Past and Present	あまり騒がないでください。 私は仕事をしようとしています。	Please don't make so much noise. I'm trying to work.		
+GU001S009	1	1	01_Past and Present	彼はシャワーを浴びています。	He is (He's) having a shower.		
+GU001S010	1	1	01_Past and Present	さあ、出かけましょう。 もう雨は降っていません。	Let's go out now. It isn't raining any more.		
+GU001S011	1	1	01_Past and Present	新しい仕事はどうですか? 楽しいですか？	How is (How's) your new job? Are you enjoying it?		
+GU001S012	1	1	01_Past and Present	あの騒音は何ですか? 何が起こっているのですか?	What is (What's) all that noise? What is (What's) going on?	What is (What's) all that noise? What is (What's) happening?	
+GU001S013	1	1	01_Past and Present	<電話中> 私は今、とても良い本を読んでいます。	<On the phone> I'm reading a really good book at the moment.		
+GU001S014	1	1	01_Past and Present	ケイトはイタリアで働きたいので、イタリア語を勉強しています。	"Kate wants to work in Italy, so she is (she's) learning Italian."		
+GU001S015	1	1	01_Past and Present	私の友人の中には自分の家を建てている人もいます。 彼らは来年の夏に完成させたいと考えている。	Some friends of mine are building their own house. They hope to finish it next summer.		
+GU001S016	1	1	01_Past and Present	これでラジオを消しても大丈夫です。 聞いてないよ。	You can turn off the radio now. I'm not listening to it.		
+GU001S017	1	1	01_Past and Present	彼女は休暇中で、とても楽しい時間を過ごしています。	She is (She's) on holiday and she is (she's) having a great time.		
+GU001S018	1	1	01_Past and Present	彼は日本に興味があるので、日本語を勉強しています。	"He is (He's) interested in Japan, so he is (he's) learning Japanese."		
+GU001S019	1	1	01_Past and Present	ポールとサラは口論をしました。 彼らはお互いに話していません。	Paul and Sarah have had an argument. They're not speaking to each other.		
+GU001S020	1	1	01_Past and Present	ソフィーを探しています。 彼女がどこにいるか知っていますか？	I'm looking for Sophie. Do you know where she is?		
+GU001S021	1	1	01_Past and Present	このライトは機能していません。 何が間違っているのでしょうか？	This light isn't working. What's wrong with it?		
+GU001S022	1	1	01_Past and Present	仕事を見つけようとしていますが、今は簡単ではありません。	"I'm trying to find a job, but it's not easy right now."		
+GU001S023	1	1	01_Past and Present	彼らは新しい病院を建設中です。 もうすぐ完成します。	They're building a new hospital. It will be finished soon.		
+GU001S024	1	1	01_Past and Present	なぜ泣いているのですか？	Why are you crying?		
+GU001S025	1	1	01_Past and Present	彼女は働いていますか？	Is she working?		
+GU001S026	1	1	01_Past and Present	何してるの？	What are you doing?		
+GU001S027	1	1	01_Past and Present	あなたの友達はどのホテルに泊まっていますか?	Which hotel are your friends staying at?		
+GU001S028	1	1	01_Past and Present	なぜそんなに速く運転しているのですか？	Why are you driving so fast?		
+GU001S029	1	1	01_Past and Present	彼らは誰かを待っていますか？	Are they waiting for somebody?		
+GU001S030	1	1	01_Past and Present	ジェスは大学で何を勉強していますか?	What is Jess studying at college?		
+GU001S031	1	1	01_Past and Present	彼らには今、住むところがありません。 彼らは友達の家に泊まっています。	They don't have anywhere to live right now. They're staying with friends.		
+GU001S032	1	1	01_Past and Present	エミリーは新しい仕事を始めたばかりです。 彼女はコーヒーショップで働いています。	Emiliy has just started a new job. She is (She's) working in a coffee shop.		
+GU001S033	1	1	01_Past and Present	もうここに住むのは嫌です。 引っ越しを考えています。	I don't like living here any more. I'm thinking of moving.		
+GU001S034	1	1	01_Past and Present	仕事はあまりうまくいきません。 会社は損失を出しています。	Things are not so good at work. The company is losing money.		
+GU001S035	1	1	01_Past and Present	急いで、サリー！ みんながあなたを待っています。	"Hurry up, Sally! Everybody is waiting for you."		
+GU001S036	1	1	01_Past and Present	リサは来週試験があります。 彼女はそのために一生懸命勉強しています。	Lisa has an exam next week. She's studying hard for it.		
+GU001S037	1	1	01_Past and Present	彼らはもう車を必要としません。 彼らはそれを売ろうとしているのです。	They don't need their car any more. They're trying to sell it.		
+GU001S038	1	1	01_Past and Present	来週は休暇を取る予定です。 私は本当にそれを楽しみにしています。	I'm going on holiday next week. I'm really looking forward to it.		
+GU001S039	1	1	01_Past and Present	今日も頑張っていますね。	You're working hard today.		
+GU001S040	1	1	01_Past and Present	私が働いている会社は今年あまりうまくいきません。	The company I work for isn't doing so well this year.		
+GU001S041	1	1	01_Past and Present	あなたの英語は良くなっています？	Is your English getting better?		
+GU001S042	1	1	01_Past and Present	最初は仕事が好きではありませんでしたが、今では楽しくなってきました。	"At first I didn't like my job, but I'm beginning to enjoy it now."		
+GU001S043	1	1	01_Past and Present	すぐに何か食べなければなりません。 お腹が空いてきました。	I need to eat something soon. I'm getting hungry.		
+GU001S044	1	1	01_Past and Present	ライトをつけてみます。 暗くなってきました。	I'm going to turn the light on. It's getting dark.		
+GU001S045	1	1	01_Past and Present	天気は以前ほど悪くありません。 快方に向かっている。	The weather isn't as bad as it was. It's getting better.		
+GU001S046	1	1	01_Past and Present	すぐに寝なければなりません。 疲れてきました。	I'll have to go to bed soon. I'm getting tired.		
+GU001S047	1	1	01_Past and Present	すぐに出発しなければなりません。 遅くなりました。	We need to leave soon. It is (It's) getting late.		
+GU001S048	1	1	01_Past and Present	私の世話をしてくれる人が必要です。 私は年をとりました。	I need somebody to look after me. I'm getting old.		
+GU001S049	1	1	01_Past and Present	雨が降り始めていますが、傘を持っていません。	It is starting to rain and we don't have an umbrella.		
+GU001S050	1	1	01_Past and Present	テレビを消してもいいですか、それとも見ていますか？	Can I turn off the TV or are you watching it?		
+GU001S051	1	1	01_Past and Present	状況はすでに悪化しており、さらに悪化しています。	"The situation is already bad, and It is getting worse."		
+GU001S052	1	1	01_Past and Present	トムは今日仕事をしていません。 彼はその日休みを取りました。	Tom is not working today. He has (He's) taken the day off.		
+GU001S053	1	1	01_Past and Present	ケイトは新しい仕事を楽しんでいますか?	Is Kate enjoying her new job?		
+GU001S054	1	1	01_Past and Present	ローラはキッチンにいます。 彼女は洗い物をしています。	Laura is in the kitchen. She is doing the washing-up.		
+GU001S055	1	1	01_Past and Present	失業率はすでに非常に高く、さらに増加している。	"Unemployment is already very high, and it is increasing."		
+GU001S056	1	1	01_Past and Present	なぜあなたは笑っているのですか？ 何がそんなに面白いのですか？	Why are you laughing? What is (What's) so funny?		
+GU001S057	1	1	01_Past and Present	体重を減らしたいので、今週は昼食を食べません。	"I want to lose weight, so this week I am not eating lunch."		
+GU001S058	1	1	01_Past and Present	ジョンは長い間同じ仕事に就いています。 彼はそれに飽き始めている。	John has been in the same job for a long time. He is beginning to get bored with it.		
+GU002S001	1	2	01_Past and Present	彼はバスを運転します。	He drives a bus.		
+GU002S002	1	2	01_Past and Present	看護師は病院で患者の世話をします。	Nurses look after patients in hospitals.		
+GU002S003	1	2	01_Past and Present	私はたいてい週末に出かけます。	I usually go away at weekends.		
+GU002S004	1	2	01_Past and Present	地球は太陽の周りを回ります。	The earth goes round the sun.		
+GU002S005	1	2	01_Past and Present	カフェは朝7時半からオープンします。	The cafe opens at 7.30 in the morning.		
+GU002S006	1	2	01_Past and Present	ターニャはドイツ語をとても上手に話します。	Tanya speaks German very well.		
+GU002S007	1	2	01_Past and Present	私の両親はとても小さなアパートに住んでいます。	My parents live in a very small flat.		
+GU002S008	1	2	01_Past and Present	博物館は日曜日は 4 時に閉まります。	The museum closes at 4 o'clock on Sundays.		
+GU002S009	1	2	01_Past and Present	悪質な運転は多くの事故を引き起こす。	Bad driving causes many accidents.		
+GU002S010	1	2	01_Past and Present	ベンとジャックは同じ学校に通っています。	Ben and Jack go to the same school.		
+GU002S011	1	2	01_Past and Present	オリンピックは 4 年ごとに開催されます。	The Olympic Games take place every four years.		
+GU002S012	1	2	01_Past and Present	市内中心部はそれほど遠くありません。 そこに着くまでにわずか20分しかかかりません。	The city centre isn't far. It only takes 20 minutes to get there.		
+GU002S013	1	2	01_Past and Present	ジェスはとても素敵です。 彼女は決して文句を言いません。	Jess is very nice. She never complains.		
+GU002S014	1	2	01_Past and Present	常に不平不満を言っている人もいます。	Some people complain all the time.		
+GU002S015	1	2	01_Past and Present	パナマ運河は大西洋と太平洋を結びます。	The Panama Canal connects the Atlantic and Pacific Oceans.		
+GU002S016	1	2	01_Past and Present	エヴリンは良い先生です。 彼女は物事をとてもよく説明します。	Evelyn is a good teacher. She explains things very well.		
+GU002S017	1	2	01_Past and Present	彼はとても興味深い人です。 彼と話すのはいつも楽しいです。	He is (He's) a very interesting man. I always enjoy talking to him.		
+GU002S018	1	2	01_Past and Present	多くの観光客がこの地域を訪れます。 それはとても美しいです。	Many tourists come to visit this region.  It is (It's) very beautiful.		
+GU002S019	1	2	01_Past and Present	ベンと私がテニスをすると、いつも彼が勝ちます。	"When Ben and I play tennis, he always wins."		
+GU002S020	1	2	01_Past and Present	ここの天気はひどいです。 ほぼ毎日雨が降ります。	The weather is horrible here. It rains nearly every day.		
+GU002S021	1	2	01_Past and Present	エドは現在シニアマネージャーです。 彼はたくさんお金を稼いでいます。	Ed is now a senior manager. He earns a lot of money.		
+GU002S022	1	2	01_Past and Present	夕方はお店が開いていません。 彼らは6時に閉まります。	The shops aren't open in the evening. They close at 6 o'clock.		
+GU002S023	1	2	01_Past and Present	レベッカは毎日泳ぎます。 彼女はとても健康です。	Rebecca swims every day. She is very fit.		
+GU002S024	1	2	01_Past and Present	彼らは良い友達です。 彼らはできるだけ頻繁に会います。	They're good friends. They meet as often as they can.		
+GU002S025	1	2	01_Past and Present	あまり頻繁には行かないんです。	I don't go away very often.		
+GU002S026	1	2	01_Past and Present	お米は寒冷地では育ちません。	Rice doesn't grow in cold climates.		
+GU002S027	1	2	01_Past and Present	私はカナダから来ました。 あなたの出身はどこですか？	I come from Canada. Where do you come from?		
+GU002S028	1	2	01_Past and Present	この言葉の意味は何ですか？	What does this word mean?		
+GU002S029	1	2	01_Past and Present	職業はなんですか？ 私は店で働いています。	What do you do?    I work in a shop.		
+GU002S030	1	2	01_Past and Present	彼はいつもとても怠け者です。 彼は何も助けてくれません。	He is (He's) always so lazy. He doesn't do anything to help.		
+GU002S031	1	2	01_Past and Present	日は東から昇る。	The sun rises in the east.		
+GU002S032	1	2	01_Past and Present	ミツバチは蜂蜜を作ります。	Bees make honey.		
+GU002S033	1	2	01_Past and Present	ベジタリアンは肉を食べません。	Vegetarians don't eat meat.		
+GU002S034	1	2	01_Past and Present	無神論者は神を信じません。	An atheist doesn't believe in God.		
+GU002S035	1	2	01_Past and Present	通訳者は、ある言語から別の言語に翻訳します。	An interpreter translates from one language into another.		
+GU002S036	1	2	01_Past and Present	嘘つきとは真実を語らない人のことです。	Liars are people who don't tell the truth.		
+GU002S037	1	2	01_Past and Present	アマゾンは大西洋に流れ込みます。	The Amazon flows into the Atlantic Ocean.		
+GU002S038	1	2	01_Past and Present	太陽は地球の周りを回っていません。	The sun doesn't go round the earth.		
+GU002S039	1	2	01_Past and Present	あなたはどのぐらいの頻度で映画を見に行きますか？	How often do you go to the cinema?		
+GU002S040	1	2	01_Past and Present	あなたは他の言語を話せますか？	Do you speak any other languages?		
+GU002S041	1	2	01_Past and Present	彼はいつも夕食を何時に食べますか?	What time does he usually have dinner?		
+GU002S042	1	2	01_Past and Present	あまり費用はかかりません。	It doesn't cost much.		
+GU002S043	1	2	01_Past and Present	週末はいつも何をしますか?	What do you usually do at weekends?		
+GU002S044	1	2	01_Past and Present	彼は何もしません。	He doesn't do anything.		
+GU002S045	1	2	01_Past and Present	この言葉の意味は何ですか？	What does this word mean?		
+GU002S046	1	2	01_Past and Present	私の妹は教師です。 彼女は何を教えるの？	My sister is a teacher.    What does she teach?		
+GU002S047	1	2	01_Past and Present	銀行は何時に閉まりますか?	What time do the banks close?		
+GU002S048	1	2	01_Past and Present	私は車を持っていますが、あまり使いません。	"I have a car, but I don't use it much."		
+GU002S049	1	2	01_Past and Present	ジュリアはあまりお茶を飲みません。	Julia doesn't drink tea very often.		
+GU002S050	1	2	01_Past and Present	マリアはどこから来たのですか？ 彼女はスペイン人ですか？	Where does Maria come from? Is she Spanish?		
+GU002S051	1	2	01_Past and Present	職業はなんですか？ 私は先生です。	What do you do?    I'm a teacher.		
+GU002S052	1	2	01_Past and Present	仕事に行くまでどれくらいかかりますか?	How long does it take you to get to work?		
+GU002S053	1	2	01_Past and Present	デビッドはあまり健康ではありません。 彼はスポーツを何もしません。	David isn't very fit. He doesn't do any sport.		
+GU002S054	1	2	01_Past and Present	あなたは果物をたくさん食べますか？	Do you eat a lot of fruit?		
+GU002S055	1	2	01_Past and Present	この言葉を知りません。 それはどういう意味ですか？	I don't know this word. What does it mean?		
+GU002S056	1	2	01_Past and Present	私は毎朝8時に起きます。	I get up at 8 o'clock every morning.		
+GU002S057	1	2	01_Past and Present	どのくらいの頻度で歯医者に行きますか？	How often do you go to the dentist?		
+GU002S058	1	2	01_Past and Present	ジュリーはあまりお茶を飲みません。	Julie doesn't drink tea very often.		
+GU002S059	1	2	01_Past and Present	ロバートは通常、年に 2 回か 3 回家を空けます。	Robert usually goes away two or three times a year.		
+GU002S060	1	2	01_Past and Present	ジェスはいつも素敵な服を着ています。	Jess always wears nice clothes.		
+GU002S061	1	2	01_Past and Present	私はいつも朝コーヒーを飲みます。	I always drink coffee in the morning.		
+GU002S062	1	2	01_Past and Present	私たちが海に行くときはいつも雨が降ります。	It always rains when we go to the beach.		
+GU002S063	1	2	01_Past and Present	職場まで行くのにいつも40分くらいかかります。	It usually takes me about 40 minutes to get to work.		
+GU002S064	1	2	01_Past and Present	ベンは外出するときはいつも傘を持っていきます。	Ben usually takes an umbrella with him when he goes out.		
+GU002S065	1	2	01_Past and Present	あなたはいつも同じ間違いを犯します。	You always make the same mistake.		
+GU002S066	1	2	01_Past and Present	彼らはテレビをほとんど見ません。	They hardly ever watch TV.		
+GU002S067	1	2	01_Past and Present	遅刻しないと約束します	I promise I won't be late		
+GU002S068	1	2	01_Past and Present	私に何をしたらいいと思いますか？ 〜を提案します	What do you suggest I do?    I suggest that you ~		
+GU002S069	1	2	01_Past and Present	ベイカーストリートの新しいレストランはとてもおいしいです。 私はそれをお勧めします。	The new restaurant in Baker Street is very good. I recommend it.		
+GU002S070	1	2	01_Past and Present	食事代は私に支払わせてください。 私は主張します。	You must let me pay for the meal. I insist.		
+GU002S071	1	2	01_Past and Present	私がしたことについて謝罪します。 もう二度と起こらないでしょう。	I apologise for what I did. It won't happen again.		
+GU002S072	1	2	01_Past and Present	あなたは全く正しいと思います。 私はあなたに同意します。	I think you're quite right. I agree with you.		
+GU002S073	1	2	01_Past and Present	あなたが言ったことは誰にも言いません。 約束します。	I won't tell anybody what you said. I promise.		
+GU003S001	1	3	01_Past and Present	水が沸騰しています。 消してもらえますか？	The water is boiling. Can you turn it off?		
+GU003S002	1	3	01_Past and Present	水は摂氏100度で沸騰します。	Water boils at 100 degrees Celsius.		
+GU003S003	1	3	01_Past and Present	その人たちの話を聞いてください。 彼らは何語を話していますか?	Listen to those people. What language are they speaking?		
+GU003S004	1	3	01_Past and Present	すみません、英語を話せますか？	"Excuse me, do you speak English?"		
+GU003S005	1	3	01_Past and Present	出かけましょう。 今は雨は降っていません。	Let's go out. It isn't raining now.		
+GU003S006	1	3	01_Past and Present	夏にはあまり雨が降りません。	It doesn't rain very much in summer.		
+GU003S007	1	3	01_Past and Present	私は忙しいです。 何してるの？	I'm busy.    What are you doing?		
+GU003S008	1	3	01_Past and Present	週末はいつも何をしますか?	What do you usually do at weekends?		
+GU003S009	1	3	01_Past and Present	ケイトはイタリアで働きたいので、イタリア語を勉強しています。	"Kate wants to work in Italy, so she's learning Italian."		
+GU003S010	1	3	01_Past and Present	ほとんどの人は子供の頃に水泳を習います。	Most people learn to swim when they are children.		
+GU003S011	1	3	01_Past and Present	あの人たちの声が聞こえますか？ 彼らは何を話している？	Can you hear those people? What are they talking about?		
+GU003S012	1	3	01_Past and Present	月は約27日で地球の周りを一周します。	The moon goes round the earth in about 27 days.		
+GU003S013	1	3	01_Past and Present	ベンは仕事を見つけようとしていますが、まだうまくいきません。	"Ben is trying to find a job, but he hasn't had any luck yet."		
+GU003S014	1	3	01_Past and Present	私はいつも午後にお腹が空くのです。	I usually get hungry in the afternoon.		
+GU003S015	1	3	01_Past and Present	お腹が空いてきました。 食べに行きましょう。	I'm getting hungry. Let's go and eat.		
+GU003S016	1	3	01_Past and Present	私は魚が好き。 よく食べます。	I like fish. I eat it a lot.		
+GU003S017	1	3	01_Past and Present	マルティナは毎日母親に電話します。	Every day Martina phones her mother.		
+GU003S018	1	3	01_Past and Present	来て！ そろそろ時間です。 わかりました、今行きます。	"Come on! It's time to go.    OK, I'm coming."		
+GU003S019	1	3	01_Past and Present	新しい仕事があると聞いています。 調子はどうだい？	I hear you have a new job. How is it going?		
+GU003S020	1	3	01_Past and Present	リサは決して遅刻しません。 彼女はいつも時間通りに仕事を始めます。	Lisa is never late. She always starts work on time.		
+GU003S021	1	3	01_Past and Present	急いで！ みんながあなたを待っています。	Hurry up! Everybody is waiting for you.		
+GU003S022	1	3	01_Past and Present	ジュリアは語学が得意です。 彼女は 4 か国語をとても上手に話します。	Julia is good at languages. She speaks four languages very well.		
+GU003S023	1	3	01_Past and Present	私の英語は上達しています。 自分の進歩に満足しています。	My English is getting better. I'm pleased with my progress.		
+GU003S024	1	3	01_Past and Present	お父さんの職業はなんですか？ 彼は建築家です。	What does your father do?    He is (He's) an architect.		
+GU003S025	1	3	01_Past and Present	そろそろ歩くのをやめてもいいですか？ 疲れを感じ始めています。	"Can we stop walking soon, please? I'm starting to feel tired."		
+GU003S026	1	3	01_Past and Present	この言葉は今まで聞いたことがありません。 どう発音しますか？	I've never heard this word before. How do you pronounce it?		
+GU003S027	1	3	01_Past and Present	運転できる？ 勉強中です。 私の運転試験は来月です。	Can you drive?    I'm learning. My driving test is next month.		
+GU003S028	1	3	01_Past and Present	今朝、仕事に行くのに1時間かかりました。 通常はそれほど時間はかかりません。	It took me an hour to get to work this morning. It doesn't usually take so long.		
+GU003S029	1	3	01_Past and Present	ラジオを聞いていますか？ いいえ、オフにすることができます。	"Are you listening to the radio?    No, you can turn it off."		
+GU003S030	1	3	01_Past and Present	あなたは毎日ラジオを聞きますか? いいえ、たまにだけです。	"Do you listen to the radio every day?    No, just occasionally."		
+GU003S031	1	3	01_Past and Present	私はあまり活動的ではありません。 私は何もスポーツをしません。	I'm not very active. I don't do any sports.		
+GU003S032	1	3	01_Past and Present	なんでこんな人たちがここにいるの？ 何が起こっているのですか?	Why are all these people here? What is (What's) happening?		
+GU003S033	1	3	01_Past and Present	自分の住む場所を見つけるまで、何人かの友達と一緒に住んでいます。	I'm living with some friends until I find a place of my own.		
+GU003S034	1	3	01_Past and Present	私の両親はロンドンに住んでいます。 彼らは一生そこに住んでいます。	My parents live in London. They have lived there all their lives.		
+GU003S035	1	3	01_Past and Present	今日も頑張っていますね。 はい、やるべきことがたくさんあります。	"You're working hard today.    Yes, I have a lot to do."		
+GU003S036	1	3	01_Past and Present	ジョーは怠け者ではありません。 彼はほとんどの時間、一生懸命働きます。	Joe isn't lazy. He works hard most of the time.		
+GU003S037	1	3	01_Past and Present	ニコラはマンチェスターに住んでいます。 彼女はそこで生まれ、他の場所に住んだことはありません。	Nicola lives in Manchester. She was born there and has never lived anywhere else.		
+GU003S038	1	3	01_Past and Present	ゲイリーは現在スーパーマーケットで働いていますが、そこには長くは続かないと思います。	"Gary is working in a supermarket at the moment, but I don't think he'll stay there long."		
+GU003S039	1	3	01_Past and Present	ケイトは今週仕事をしていません。 彼女は休暇中です。	Kate isn't working this week. She's on holiday.		
+GU003S040	1	3	01_Past and Present	クリスは週末には決して仕事をしません。	Chris never works at weekends.		
+GU003S041	1	3	01_Past and Present	あなたはあなたの空き時間に何をしますか？ あなたは何に興味がありますか？	What do you do in your spare time? What are you interested in?		
+GU003S042	1	3	01_Past and Present	サラとティナは今マドリッドにいます。 彼らは友人を訪ねています。	Sarah and Tina are in Madrid right now. They are visiting a friend of theirs.		
+GU003S043	1	3	01_Past and Present	彼らは友人と一緒に滞在していますか、それともホテルに滞在していますか?	"Are they staying with their friend, or in a hotel?"		
+GU003S044	1	3	01_Past and Present	サラはベジタリアンなので肉を食べません。	"Sarah is a vegetarian, so she does not eat meat."		
+GU003S045	1	3	01_Past and Present	ナイル川は地中海に流れ込みます。	The River Nile flows into the Mediterranean Sea.		
+GU003S046	1	3	01_Past and Present	今日の川の流れはとても速く、いつもよりずっと速いです。	The river is flowing very fast today - much faster than usual.		
+GU003S047	1	3	01_Past and Present	私はいつも車で仕事に行きます。	I always go to work by car.		
+GU003S048	1	3	01_Past and Present	私はいつも物を失くしてしまいます。	I'm always losing things.		
+GU003S049	1	3	01_Past and Present	ポールは決して満足しません。 彼はいつも不平を言っている。	Paul is never satisfied. He's always complaining.	Paul is never satisfied. He complains too much.	
+GU003S050	1	3	01_Past and Present	あなたはいつもコンピューターゲームをしています。 もっとアクティブなことをしてください！	You're always playing computer games. Do something more active!	You play these games too often. Do something more active!	
+GU003S051	1	3	01_Past and Present	記憶力が悪くなってきています。 私はいつも物事を忘れてしまいます。	My memory is getting worse. I'm always forgetting to do things.		
+GU003S052	1	3	01_Past and Present	あなたは不注意です。 あなたはいつも同じ間違いを犯します。	You're careless. You're always making the same mistake.		
+GU003S053	1	3	01_Past and Present	メガネがまた見つからない。 私はいつもそれらを失ってしまいます。	I can't find my glasses again. I'm always losing them.		
+GU003S054	1	3	01_Past and Present	彼らは一緒にうまくいきません。 彼らはいつもお互いに口論している。	They don't get on well together. They're always arguing with each other.		
+GU003S055	1	3	01_Past and Present	私の車は役に立たない。 それは常に壊れています。	My car is useless. It's always breaking down.		
+GU003S056	1	3	01_Past and Present	ウェインは携帯電話が大好きです。 彼はいつもそれを見ています。	Wayne loves his phone. He's always looking at it.		
+GU004S001	1	4	01_Past and Present	お腹が空きました。 私は何か食べたい。	I'm hungry. I want something to eat.		
+GU004S002	1	4	01_Past and Present	私の言っている意味が分かりますか？	Do you understand what I mean?		
+GU004S003	1	4	01_Past and Present	アンナは今あまり幸せそうに見えません。	Anna doesn't seem very happy right now.		
+GU004S004	1	4	01_Past and Present	夕食に何かを作っています。	I'm cooking something for dinner.		
+GU004S005	1	4	01_Past and Present	聞いてる？	Are you listening to me?		
+GU004S006	1	4	01_Past and Present	アンナは今笑っていません。	Anna isn't smiling right now.		
+GU004S007	1	4	01_Past and Present	辞書を片づけないでください。 私はそれが必要です。	Don't put the dictionary away. I need it.		
+GU004S008	1	4	01_Past and Present	辞書を片づけないでください。 使ってますよ。	Don't put the dictionary away. I'm using it.		
+GU004S009	1	4	01_Past and Present	あの男は誰ですか？ 彼を知っていますか？	Who is that man? Do you recognise him?		
+GU004S010	1	4	01_Past and Present	あの男は誰ですか？ なぜ彼は私たちを見ているのですか？	Who is that man? Why is he looking at us?		
+GU004S011	1	4	01_Past and Present	アランは自分は80歳だと言うが、誰も信じてくれない。	"Alan says he's 80 years old, but nobody believes him."		
+GU004S012	1	4	01_Past and Present	その騒音は何ですか？ 何が起こっていますか？	What's that noise? What's happening?		
+GU004S013	1	4	01_Past and Present	彼女は私に名前を教えてくれましたが、今は覚えていません。	"She told me her name, but I don't remember it now."		
+GU004S014	1	4	01_Past and Present	来週の休暇を楽しみにしていますか？	Are you looking forward to your holiday next week?		
+GU004S015	1	4	01_Past and Present	ゲイリーは以前は体調が悪かったですが、今は大丈夫のようです。	"Gary wasn't well earlier, but he seems OK now."		
+GU004S016	1	4	01_Past and Present	空気は主に窒素と酸素で構成されています。	Air consists mainly of nitrogen and oxygen.		
+GU004S017	1	4	01_Past and Present	メアリーはカナダ人だと思いますが、確信はありません。	"I think Mary is Canadian, but I'm not sure."		
+GU004S018	1	4	01_Past and Present	私の考えについてどう思いますか?	What do you think of my idea?		
+GU004S019	1	4	01_Past and Present	何が起こったのか考えています。 よく考えます。	I'm thinking about what happened. I often think about it.		
+GU004S020	1	4	01_Past and Present	ニッキーは仕事を辞めようと考えています。	Nicky is thinking of giving up her job.		
+GU004S021	1	4	01_Past and Present	あなたはとても静かです。 あなたは何を考えている？	You're very quiet. What are you thinking about?		
+GU004S022	1	4	01_Past and Present	決心がつきません。 私は何をすべきだと思いますか？	I can't make up my mind. What do you think I should do?		
+GU004S023	1	4	01_Past and Present	彼女が何をしているのか分かりません。 彼女はお店で働いていると思います。	I'm not sure what she does. I think she works in a shop.		
+GU004S024	1	4	01_Past and Present	私たちは今年の休暇にノルウェーに行くことを考えています。	We're thinking of going to Norway for our holiday this year.		
+GU004S025	1	4	01_Past and Present	雨が降るでしょう？ 私はそうは思わない。	Is it going to rain?    I don't think so.		
+GU004S026	1	4	01_Past and Present	車を売ろうと考えています。 購入することに興味がありますか?	I'm thinking of selling my car. Would you be interested in buying it?		
+GU004S027	1	4	01_Past and Present	車を売ったほうがいいと思います。 あまり使わないですね。	I think you should sell your car. You don't use it much.		
+GU004S028	1	4	01_Past and Present	あそこにあの人が見えますか？ 彼を知っていますか？	Do you see that man over there? Do you recognise him?		
+GU004S029	1	4	01_Past and Present	この部屋は臭いです。 窓を開けましょう。	This room smells. Let's open a window.		
+GU004S030	1	4	01_Past and Present	奇妙な音が聞こえます。 聞こえますか？	I can hear a strange noise. Can you hear it?		
+GU004S031	1	4	01_Past and Present	今日は元気そうだね。	You look well today.	You're looking well today.	
+GU004S032	1	4	01_Past and Present	あなたは今どのように感じていますか？	How do you feel now?	How are you feeling now?	
+GU004S033	1	4	01_Past and Present	朝はたいてい疲れを感じます。	I usually feel tired in the morning.		
+GU004S034	1	4	01_Past and Present	このソースは最高です。 本当においしいです。	This sauce is great. It tastes really good.		
+GU004S035	1	4	01_Past and Present	リサは新しいアパートに引っ越そうと考えています。	Lisa is thinking of moving to a new apartment.		
+GU004S036	1	4	01_Past and Present	これらの花はいい香りがします。 彼らは何ですか？	These flowers smell nice. What are they?		
+GU004S037	1	4	01_Past and Present	それは本当ではありません。 信じられないよ。	It can't be true. I don't believe it.		
+GU004S038	1	4	01_Past and Present	この言葉の意味は何ですか？ わからない。	What does this word mean?    I don't know.		
+GU004S039	1	4	01_Past and Present	この靴を買おうか買わないか? どう思いますか？	Shall I buy these shoes or not? What do you think?		
+GU004S040	1	4	01_Past and Present	このジャケットは私には似合わない。 きつ過ぎです。	This jacket doesn't fit me. It's too tight.		
+GU004S041	1	4	01_Past and Present	向こうを見て。 何が見えますか？	Look over there. What do you see?		
+GU004S042	1	4	01_Past and Present	私はその果物を食べたことがありません。 どんな味がしますか？	I've never eaten that fruit. What does it taste like?		
+GU004S043	1	4	01_Past and Present	お腹が空いてきました。 何か食べるものはありますか？	I'm feeling hungry. Is there anything to eat?		
+GU004S044	1	4	01_Past and Present	あなたが泊まったホテルの名前は何ですか? 覚えていない。	What's the name of the hotel you stayed at?    I don't remember.		
+GU004S045	1	4	01_Past and Present	大丈夫ですか？ いいえ、あまり気分が良くありません。	"Are you OK?    No, I don't feel very well."		
+GU004S046	1	4	01_Past and Present	あまり幸せそうには見えませんね。 いいえ、悪い日を過ごしています。	"You don't seem very happy.    No, I'm having a bad day."		
+GU004S047	1	4	01_Past and Present	心配そうに見えますね。 何か考え中です。	You look worried.    I'm thinking about something.		
+GU004S048	1	4	01_Past and Present	この傘は誰のものですか? わからない。	Who does this umbrella belong to?    I have no idea.		
+GU004S049	1	4	01_Past and Present	お食事をお楽しみください。 良い香りがします。	Enjoy your meal.    It smells good.		
+GU004S050	1	4	01_Past and Present	すみません、そこに座っている人はいますか？ いいえ、空いています。	"Excuse me, is anybody sitting there?    No, It's free."		
+GU004S051	1	4	01_Past and Present	その手袋は大丈夫ですか？ いいえ、私には合いません。	"Are those gloves OK?    No, they don't fit me."		
+GU004S052	1	4	01_Past and Present	なぜ彼がそんなに利己的なのか理解できません。 彼は普段はそんな人ではない。	I can't understand why he's being so selfish. He isn't usually like that.		
+GU004S053	1	4	01_Past and Present	彼は他人のことを決して考えません。 彼はとても利己的です。	He never thinks about other people. He's very selfish.		
+GU004S054	1	4	01_Past and Present	今日は暑い。	It's hot today.		
+GU004S055	1	4	01_Past and Present	彼らは今とても疲れています。	They are very tired now.		
+GU004S056	1	4	01_Past and Present	サラは今のところ私にとても優しくしてくれています。 なぜだろう。	Sarah is being very nice to me at the moment. I wonder why.		
+GU004S057	1	4	01_Past and Present	ソフィーに会うと、きっとあなたもソフィーのことが好きになるでしょう。 彼女はとても素敵です。	You'll like Sophie when you meet her. She's very nice.		
+GU004S058	1	4	01_Past and Present	スティーブはなぜ今日仕事にいないのですか? 彼は病気ですか？	Why isn't Steve at work today? Is he ill?		
+GU004S059	1	4	01_Past and Present	あなたは普段とても忍耐強いのに、なぜあと10分も待つなんて無茶なことをするのですか？	"You're usually very patient, so why are you being so unreasonable about waiting ten more minutes?"		
+GU004S060	1	4	01_Past and Present	道が凍ってます。 滑らないでください、心配しないでください。 気をつけてますよ。	The path is icy. Don't slip    Don't worry. I'm being careful.		
+GU004S061	1	4	01_Past and Present	彼らは結婚したばかりです。 彼らはとても幸せです。	They've just got married. They're very happy.		
+GU005S001	1	5	01_Past and Present	ヴォルフガング・アマデウス・モーツァルトはオーストリアの音楽家、作曲家でした。	Wolfgang Amadeus Mozart was an Austrian musician and composer.		
+GU005S002	1	5	01_Past and Present	彼は 1756 年から 1791 年まで生きました。	He lived from 1756 to 1791.		
+GU005S003	1	5	01_Past and Present	彼は5歳から作曲を始め、600曲以上の曲を書いた。	He started composing at the age of five and wrote more than 600 pieces of music.		
+GU005S004	1	5	01_Past and Present	彼が亡くなったとき、彼はわずか35歳でした。	He was only 35 years old when he died.		
+GU005S005	1	5	01_Past and Present	ジース・オーエンスは1913年生まれの米国のスポーツ選手。	"Jeese Owens was a US athlete, born in 1913."		
+GU005S006	1	5	01_Past and Present	1935 年に彼は 4 つの世界記録を破り、翌年のベルリンオリンピックでは 4 つの金メダルを獲得しました。	"In 1935 he broke four world records, and in the following year he won four gold medals at the Olympic Games in Berlin."		
+GU005S007	1	5	01_Past and Present	彼の走り幅跳びの世界記録は25年間も続いた。	His world record for the long jump lasted 25 years.		
+GU005S008	1	5	01_Past and Present	彼は1980年に66歳で亡くなった。	He died in 1980 at the age of 66.		
+GU005S009	1	5	01_Past and Present	マリー・キュリーは1867年にポーランドで生まれた科学者です。	"Marie Curie was a scientist, born in Poland in 1867."		
+GU005S010	1	5	01_Past and Present	彼女は 1891 年にフランスに移住しました。	She emigrated to France in 1891.		
+GU005S011	1	5	01_Past and Present	彼女はラジウムを発見し、1911 年にノーベル化学賞を受賞しました。	"She discovered radium, and in 1911 she won the Nobel Prize for Chemistry."		
+GU005S012	1	5	01_Past and Present	彼女は 1934 年にフランスで亡くなりました。	She died in France in 1934.		
+GU005S013	1	5	01_Past and Present	エルヴィス・プレスリーは、1935年にアメリカのミシシッピ州で生まれたロック歌手です。	"Elvis Presley was a rock singer, born in 1935 in Mississippi, USA."		
+GU005S014	1	5	01_Past and Present	彼は教会の聖歌隊で歌い始め、独学でギターを弾くことを学びました。	He began singing in his church choir and taught himself to play the guitar.		
+GU005S015	1	5	01_Past and Present	1950 年代に、彼は当時最大のスターの一人になりました。	In the 1950s he became one of the biggest stars of his time.		
+GU005S016	1	5	01_Past and Present	彼の多くのヒット曲には、「ジェイルハウス ロック」、「ハウンド ドッグ」、「ブルー スエード シューズ」などが含まれます。	"His many hits included Jailhouse Rock, Hound Dog and Blue Suede Shoes."		
+GU005S017	1	5	01_Past and Present	彼は映画にも出演しました。	He also appeared in movies.		
+GU005S018	1	5	01_Past and Present	彼は健康上の問題を抱えており、1977年に心臓発作により42歳で亡くなった。	He had health problems and in 1977 he died of a heart attack at the age of 42.		
+GU005S019	1	5	01_Past and Present	私は今ホテルで働いています。 その前は百貨店で働いていました。	I work in a hotel now. Before that I worked in a department store.		
+GU005S020	1	5	01_Past and Present	彼らは私たちをパーティーに招待しましたが、私たちは行かないことにしました。	"They invited us to their party, but we decided not to go."		
+GU005S021	1	5	01_Past and Present	ローラは一生懸命勉強したので試験に合格しました。	Laura passed her exam because she studied very hard.		
+GU005S022	1	5	01_Past and Present	車が汚れていたので洗った。	"The car was dirty, so I washed it."		
+GU005S023	1	5	01_Past and Present	私は2年前にここで働き始めました。	I started working here two years ago.		
+GU005S024	1	5	01_Past and Present	その事故は昨夜10時ごろ起こりました。	The accident happened at about ten o'clock last night.		
+GU005S025	1	5	01_Past and Present	ローラはバスに乗り遅れたので遅れました。	Laura was late because she missed the bus.		
+GU005S026	1	5	01_Past and Present	遅い電車でした。 各駅に止まりました。	It was a slow train. It stopped at every station.		
+GU005S027	1	5	01_Past and Present	ホテルはとても高かったので、そこには泊まらないことにしました。	"The hotel was very expensive, so we decided not to stay there."		
+GU005S028	1	5	01_Past and Present	素晴らしいパーティーでした。 わたしはそれを楽しみました。	It was a great party. I enjoyed it.		
+GU005S029	1	5	01_Past and Present	私たちは子供の頃、仲の良い友達でした。 私たちはお互いの近くに住んでいました。	We were good friends when we were children. We lived near each other.		
+GU005S030	1	5	01_Past and Present	私は今何時かを確認するために時計を見た。	I looked at my watch to see what time it was.		
+GU005S031	1	5	01_Past and Present	バスがなかったので歩いて帰りました。	We walked home because there was no bus.		
+GU005S032	1	5	01_Past and Present	モーツァルトは600以上の音楽を書きました。	Mozart wrote more than 600 pieces of music.		
+GU005S033	1	5	01_Past and Present	私は数日前にターニャに会った。	I saw Tanya a few days ago.		
+GU005S034	1	5	01_Past and Present	私たちは先週３回映画館に行きました。	We went to the cinema three times last week.		
+GU005S035	1	5	01_Past and Present	寒かったので窓を閉めました。	"It was cold, so I shut the window."		
+GU005S036	1	5	01_Past and Present	ベンは昨日私に電話するのを忘れました。	Ben forgot to call me yesterday.		
+GU005S037	1	5	01_Past and Present	昨夜は家にいました。	I stayed at home last night.		
+GU005S038	1	5	01_Past and Present	窓が開いていて、鳥が部屋に飛んできました。	The window was open and a bird flew into the room.		
+GU005S039	1	5	01_Past and Present	ジムはスーにボールを投げ、スーはそれをキャッチした。	"Jim threw the ball to Sue, who caught it."		
+GU005S040	1	5	01_Past and Present	疲れたので早く寝ました。	"I felt tired, so I went to bed early."		
+GU005S041	1	5	01_Past and Present	先週のパーティーは楽しかったです。 わたしはそれを楽しみました。	The party last week was fun. Ienjoyed it.		
+GU005S042	1	5	01_Past and Present	ポールは昨日フットボールをしていて足を痛めた。	Paul hurt his leg playing football yesterday.		
+GU005S043	1	5	01_Past and Present	携帯電話を紛失してしまいました。 どこにも見つかりませんでした。	I lost my phone. I couldn't find it anywhere.		
+GU005S044	1	5	01_Past and Present	私たちは車を維持する余裕がなかったので、車を売りました。	"We couldn't afford to keep our car, so we sold it."		
+GU005S045	1	5	01_Past and Present	私は水に飛び込み、プールの反対側まで泳ぎました。	I dived into the water and swam to the other end of the pool.		
+GU005S046	1	5	01_Past and Present	パーティーを楽しみました。 楽しかったですか？	I enjoyed the party. Did you enjoy it?		
+GU005S047	1	5	01_Past and Present	トムはなぜ早く家に帰りましたか。	Why did Tom go home early?		
+GU005S048	1	5	01_Past and Present	彼らは何人をパーティーに招待しましたか?	How many people did they invite to their party?		
+GU005S049	1	5	01_Past and Present	私たちはパーティーに行きましたが、楽しめませんでした。	"We went to the party, but we didn't enjoy it."		
+GU005S050	1	5	01_Past and Present	お金がなかったので何も買わなかった。	I didn't buy anything because I didn't have any money.		
+GU005S051	1	5	01_Past and Present	「出かけたんですか？」 「いいえ、しませんでした。」	"'Did you go out?' 'No, I didn't.'"		
+GU005S052	1	5	01_Past and Present	週末は何をしましたか?	What did you do at the weekend?		
+GU005S053	1	5	01_Past and Present	私は何もしませんでした。	I didn't do anything.		
+GU005S054	1	5	01_Past and Present	彼らは私をパーティーに招待しましたが、私は行きませんでした。	"They invited me to their party, but I didn't go."		
+GU005S055	1	5	01_Past and Present	買い物をする時間がなかったと思います。	I'm afraid I didn't have time to do the shopping.		
+GU005S056	1	5	01_Past and Present	今朝はあまり気分が良くありません。 昨夜はよく眠れませんでした。	I don't feel very good this morning. I didn't sleep well last night.		
+GU005S057	1	5	01_Past and Present	天気は乾燥していました。 雨は全く降りませんでした。	The weather was dry. It didn't rain at all.		
+GU005S058	1	5	01_Past and Present	週末は楽しかったですが、特別なことは何もしませんでした。	"I enjoyed the weekend, but I didn't do anything special."		
+GU005S059	1	5	01_Past and Present	この時計は高価ではありませんでした。 それほど費用はかかりませんでした。	This watch wasn't expensive. It didn't cost much.		
+GU005S060	1	5	01_Past and Present	私は彼らに何が起こったのかを話しましたが、彼らは私の言うことを信じませんでした。	"I told them what happened, but they didn't believe me."		
+GU005S061	1	5	01_Past and Present	サラは運転試験に合格しましたか? いいえ、彼女はもう一度やらなければなりません。	"Did Sarah pass her driving test?    No, she'll have to do it again."		
+GU005S062	1	5	01_Past and Present	昨夜でかけましたか？ いいえ、家に居ました。	"Did you go out last night?    No, I stayed at home."		
+GU005S063	1	5	01_Past and Present	そのシャツはどこで手に入れましたか? それはプレゼントでした。	Where did you get that shirt?    It was a present.		
+GU005S064	1	5	01_Past and Present	昨日は雨が降りましたか？ いや、天気はよかったですよ。	"Did it rain yesterday?    No, the weather was good."		
+GU005S065	1	5	01_Past and Present	ホテルに泊まるのにいくらかかりましたか? たくさん。 とても高価でした。	How much did it cost to stay at the hotel?    A lot. It was very expensive.		
+GU005S066	1	5	01_Past and Present	先週末なにをしましたか？ 私は何人かの友達を訪ねに行きました。	What did you do last weekend?    I went to visit some friends of mine.		
+GU005S067	1	5	01_Past and Present	「どうやって運転を覚えたんですか？」 「父が教えてくれました。」	'How did you learn to drive?' 'My father taught me.'		
+GU005S068	1	5	01_Past and Present	「どうやって腕を怪我したの？」 「いくつかの段から落ちました。」	'How did you hurt your arm?' 'I fell down some steps.'		
+GU005S069	1	5	01_Past and Present	「今朝買い物に行きました。」 'あなたは何を買ったの？'	'I went shopping this morning.' 'What did you buy?'		
+GU005S070	1	5	01_Past and Present	「窓を割ったのは誰ですか？」 「それは私ではありませんでした。 私はしませんでした。』	'Who broke the window?' 'It wasn't me. I didn't do it.'		
+GU005S071	1	5	01_Past and Present	「私たちは休暇から戻ってきたところです。」 'あなたは？ 良い時間をお過ごしできましたか？'	'We're just back from holiday.' 'Are you? Did you have a nice time?'		
+GU005S072	1	5	01_Past and Present	彼らが遅かったので私はイライラしました。	I was annoyed because they were late.		
+GU005S073	1	5	01_Past and Present	あなたが休暇をとったとき、天気はよかったですか?	Was the weather nice when you were on holiday?		
+GU005S074	1	5	01_Past and Present	私たちはお腹が空いていなかったので何も食べませんでした。	We didn't eat anything because we weren't hungry.		
+GU005S075	1	5	01_Past and Present	昨夜は外出しましたか、それとも疲れすぎましたか？	Did you go out last night or were you too tired?		
+GU005S076	1	5	01_Past and Present	「家のすぐ外で事故がありました。」 'があった？ どうやってそうなった？'	'There was an accident just outside my house.' 'Was there? How did it happen?'		
+GU005S077	1	5	01_Past and Present	「ジャックはまだ別の仕事を探していますか?」 「いいえ、彼は今の場所に留まることに決めました。」	"'Is Jack still looking for another job?' 'No, he decided to stay where he is.'"		
+GU005S078	1	5	01_Past and Present	「なぜサラはパーティーに来なかったのですか?」 「彼女は来たくなかった。」	'Why wasn't Sarah at the party?' 'She didn't want to come.'		
+GU005S079	1	5	01_Past and Present	「彼らはパリからベルリンに行きました。」 '彼らはどうやって旅行したの？ 電車で？	'They went from Paris to Berlin.' 'How did they travel? By train?		
+GU005S080	1	5	01_Past and Present	'旅どうだった？ 大丈夫でしたか？ '大丈夫。 何も問題はありませんでした。」	'How was your trip? Was everything OK?' 'Fine. We didn't have any problems.'		
+GU005S081	1	5	01_Past and Present	今日も寒いですが、昨日はもっと寒かったです。	"It's cold today, but it was colder yesterday."		
+GU005S082	1	5	01_Past and Present	私たちは彼らの家に行きましたが、彼らは家にいませんでした。	"We went to their house, but they weren't at home."		
+GU005S083	1	5	01_Past and Present	なぜ彼女は怒っていたのでしょうか? 私が何か間違ったことを言ったでしょうか？	Why was she angry? Did I say something wrong?		
+GU005S084	1	5	01_Past and Present	ホテルが気に入らなかった。 部屋はあまりきれいではありませんでした。	I didn't like the hotel. The room wasn't very clean.		
+GU005S085	1	5	01_Past and Present	何が起こったのかどうやってわかりますか? あなたはここにはいませんでした。	How do you know what happened? You weren't here.		
+GU005S086	1	5	01_Past and Present	あなたの休日について教えてください。 それはどんなかんじでしたか？	Tell me about your holiday. What was itlike?		
+GU005S087	1	5	01_Past and Present	あなたを見つけることができませんでした。 どこにいましたか？	I couldn't find you. Where were you?		
+GU005S088	1	5	01_Past and Present	あなたの新しい靴が気に入っています。 高価なものでしたか？	I like your new shoes. Were they expensive?		
+GU005S089	1	5	01_Past and Present	アンナは早く寝ました。 彼女はとても疲れていました。	Anna went to bed early. She was very tired.		
+GU005S090	1	5	01_Past and Present	映画はあまり良くなかった。 あまり楽しめませんでした。	The film wasn't very good. I didn't enjoy it very much.		
+GU005S091	1	5	01_Past and Present	暖かかったのでコートを脱ぎました。	"It was warm, so I took off my coat."		
+GU005S092	1	5	01_Past and Present	サラが忙しいのはわかっていたので、邪魔はしませんでした。	"I knew Sarah was busy, so I didn't disturb her."		
+GU005S093	1	5	01_Past and Present	ベッドの寝心地が悪く、よく眠れませんでした。	"The bed was uncomfortable, and I didn't sleep well."		
+GU005S094	1	5	01_Past and Present	私たちのホテルは駅からそれほど遠くなかったので、そこまで歩いて行きました。	"Our hotel wasn't very far from the station, so we walked there."		
+GU005S095	1	5	01_Past and Present	急いでいたので、あなたに電話する時間がありませんでした。	"I was in a hurry, so I didn't have time to call you."		
+GU005S096	1	5	01_Past and Present	荷物を運ぶのが大変でした。 とても重かったです。	It was hard carrying the bags. They were very heavy.		
+GU005S097	1	5	01_Past and Present	食事はそれほど高価ではありませんでした。 それほど費用はかかりませんでした。	The meal wasn't so expensive. It didn't cost very much.		
+GU005S098	1	5	01_Past and Present	私たちはお腹が空いていたので、何か食べるものを求めてレストランに行きました。	"We were hungry, so we went to a restaurant to get something to eat."		
+GU006S001	1	6	01_Past and Present	それで、10時半に彼らはテニスをしていました。	"So, at 10.30 they were playing tennis."		
+GU006S002	1	6	01_Past and Present	去年の今頃、私は香港に住んでいました。	This time last year I was living in Hong Kong.		
+GU006S003	1	6	01_Past and Present	昨日の夜10時に何をしていましたか？	What were you doing at 10 o'clock last night?		
+GU006S004	1	6	01_Past and Present	私はヘレンに手を振りましたが、彼女は見ていませんでした。	"I waved to Helen, but she wasn't looking."		
+GU006S005	1	6	01_Past and Present	今日ヘレンはスカートを履いています。 昨日、彼女はズボンを履いていました。	Today Helen is wearing a skirt. Yesterday she was wearing trousers.		
+GU006S006	1	6	01_Past and Present	彼が何を言ったの？ わからない。 聞いていませんでした。	What did he say?    I don't know. I wasn't listening.		
+GU006S007	1	6	01_Past and Present	私たちは劇場の後ろに座っていました。 あまりよく聞こえませんでした。	We were sitting at the back of the theatre. We couldn't hear very well.		
+GU006S008	1	6	01_Past and Present	去年の今頃、スティーブは農場で働いていました。	This time last year Steve was working on a farm.		
+GU006S009	1	6	01_Past and Present	彼らは私を見ていませんでした。 彼らは私の方向を見ていませんでした。	They didn't see me. They weren't looking in my direction.		
+GU006S010	1	6	01_Past and Present	天気が悪かったです。 とても寒くて雪が降っていました。	The weather was bad. It was very cold and it was snowing.		
+GU006S011	1	6	01_Past and Present	車の中であなたを見ました。 どこへ行こうとしていたの？	I saw you in your car. Where were you going?		
+GU006S012	1	6	01_Past and Present	数分前にケイトに会った。 彼女はあなたを探していました。	I saw Kate a few minutes ago. She was looking for you.		
+GU006S013	1	6	01_Past and Present	私たちが家に向かって歩いていたとき、ダンに会った。	We were walking home when we met Dan.		
+GU006S014	1	6	01_Past and Present	昨夜のパーティーの後、私たちは歩いて家に帰りました。	We walked home after the party last night.		
+GU006S015	1	6	01_Past and Present	私たちが到着したとき、ケイトはテレビを見ていました。	Kate was watching TV when we arrived.		
+GU006S016	1	6	01_Past and Present	ケイトは昨年病気だったとき、テレビをよく見ました。	Kate watched TV a lot when she was ill last year.		
+GU006S017	1	6	01_Past and Present	私たちが夕食をとっている間にマットから電話がありました。	Matt phoned while we were having dinner.		
+GU006S018	1	6	01_Past and Present	起きたら雨が降っていた。	It was raining when I got up.		
+GU006S019	1	6	01_Past and Present	昨日公園であなたを見かけました。 あなたは芝生の上に座って本を読んでいました。	I saw you in the park yesterday. You were sitting on the grass and reading a book.		
+GU006S020	1	6	01_Past and Present	庭仕事をしているときに腰を痛めてしまいました。	I hurt my back while I was working in the garden.		
+GU006S021	1	6	01_Past and Present	私が道を歩いているとダンを見かけました。 そこで私は立ち止まり、しばらく話し合った。	"I was walking along the road when I saw Dan. So I stopped, and we talked for a while."		
+GU006S022	1	6	01_Past and Present	カレンが到着したとき、私たちは夕食をとっていました。	"When Karen arrived, we were having dinner."		
+GU006S023	1	6	01_Past and Present	カレンが到着したとき、私たちは夕食を食べました。	"When Karen arrived, we had dinner."		
+GU006S024	1	6	01_Past and Present	カフェに着くと友達が待っていました。	"When I got to the cafe, my friends were waiting for me."		
+GU006S025	1	6	01_Past and Present	私たちは映画を見ている間に眠ってしまいました。	We fell asleep while we were watching a film.		
+GU006S026	1	6	01_Past and Present	エイミーはローマに住んでいたときにイタリア語を学びました。	Amy learnt Italian when she was living in Rome.		
+GU006S027	1	6	01_Past and Present	トムは気分が悪かったので私たちと一緒に出てきませんでした。	Tom didn't come out with us because he wasn't feeling well.		
+GU006S028	1	6	01_Past and Present	私が家に帰る途中、車から異音がし始めました。	The car began to make a strange noise when I was driving home.		
+GU006S029	1	6	01_Past and Present	テレビはついていましたが、誰も見ていませんでした。	"The TV was on, but nobody was watching it."		
+GU006S030	1	6	01_Past and Present	私が初めてジェシカに会ったとき、彼女は衣料品店で働いていました。	"When I first met Jessica, she was working in a clothes shop."		
+GU006S031	1	6	01_Past and Present	昨日街でスーを見ましたが、彼女は私に気づきませんでした。 彼女は違う方向を見ていました。	"I saw Sue in town yesterday, but she didn't see me. She was looking the other way."		
+GU006S032	1	6	01_Past and Present	数週間前、私は空港でトムとジェーンに会った。 彼らはパリへ行く予定で、私はローマへ行く予定でした。 飛行機を待っている間、カフェに行っておしゃべりをしました。	"I met Tom and Jane at the airport a few weeks ago. They were going to Paris, and I was going to Rome. We went to a cafe and had a chat while we were waiting for our flights."		
+GU006S033	1	6	01_Past and Present	昨日、私が自転車で帰宅していたとき、一人の男性が私の前から道路に出てきました。 かなりのスピードで走っていましたが、幸いにも間に合うように停止できたので、ぶつかる事はありませんでした。	"I was cycling home yesterday when a man stepped out into the road in front of me. I was going quite fast, but fortunately I managed to stop in time and I didn't hit him."		
+GU006S034	1	6	01_Past and Present	私たちは良い友達でした。 私たちはお互いをよく知っていました。	We were good friends. We knew each other well.		
+GU006S035	1	6	01_Past and Present	私はパーティーを楽しんでいたが、クリスは家に帰りたがった。	"I was enjoying the party, but Chris wanted to go home."		
+GU006S036	1	6	01_Past and Present	私が到着したとき、ジェニーが私を待っていました。	Jenny was waiting for me when I arrived.		
+GU006S037	1	6	01_Past and Present	サムは私が見ていない間に私の写真を撮りました。	Sam took a picture of me while I wasn't looking.		
+GU006S038	1	6	01_Past and Present	昨日の今頃何をしていましたか？ 私は家にいた。 私は映画を見ていました。	What were you doing at this time yesterday?     I was at home. I was watching a film.		
+GU006S039	1	6	01_Past and Present	昨夜でかけましたか？ いいえ、家に居ました。	"Did you go out last night?    No, I stayed at home."		
+GU006S040	1	6	01_Past and Present	若い頃はパイロットになりたいと思っていました。 その後、考えが変わりました。	"When I was young, I wanted to be a pilot. Later I changed my mind."		
+GU006S041	1	6	01_Past and Present	アランにはもう何年も会っていない。 私が最後に彼に会ったとき、彼は仕事を探そうとしていました。	"I haven't seen Alan for ages. When I last saw him, he was trying to find a job."		
+GU006S042	1	6	01_Past and Present	事故が起きたとき、どれくらいの速度で運転していましたか?	How fast were you driving when the accident happened?		
+GU006S043	1	6	01_Past and Present	私たちは難しい立場にありました。 私たちは何をすればいいのかわからず、何もしませんでした。	"We were in a difficult position. We didn't know what to do, so we did nothing."		
+GU006S044	1	6	01_Past and Present	昨日の夜、洗い物をしているときにお皿を落としてしまいました。 幸いなことに壊れませんでした。	Last night I dropped a plate when I was doing the washing-up. Fortunately it didn't break.		
+GU006S045	1	6	01_Past and Present	道に沿って歩いていると、突然後ろから何か音が聞こえました。 誰かが私を追ってきました。 怖くなって走り始めました。	I was walking along the street when suddenly I heard something behind me. Somebody was following me. I was scared and I started to run.		
+GU007S001	1	7	02_Present perfect and past 1	天気が変わりました。 今はもっと寒いです。	The weather has changed. It's colder now.		
+GU007S002	1	7	02_Present perfect and past 1	ウェブサイトが使えません。 私は自分のパスワードを忘れました。	I can't use the website. I've forgotten my password.		
+GU007S003	1	7	02_Present perfect and past 1	彼は何が起こったのか知りません。 私は彼に言っていません。	He doesn't know what happened. I haven't told him.		
+GU007S004	1	7	02_Present perfect and past 1	まだ雨が降っていますか？ 止まっていると思います。	Is it still raining?    I think it's stopped.		
+GU007S005	1	7	02_Present perfect and past 1	彼らはまだここにいますか、それとも家に帰りましたか？	"Are they still here, or have they gone home?"		
+GU007S006	1	7	02_Present perfect and past 1	彼は何をすればいいのか分かりません。 彼はまだ決めていません。	He doesn't know what to do. He hasn't decided.		
+GU007S007	1	7	02_Present perfect and past 1	ローラはどこですか？ 彼女は家に帰ってしまったと思います。	Where's Laura?    I think she's gone home.		
+GU007S008	1	7	02_Present perfect and past 1	すみません、手袋を落としてしまいました。	"Excuse me, you've dropped a glove."		
+GU007S009	1	7	02_Present perfect and past 1	うわー！ 指を切ってしまいました。	Ow! I've cut my finger.		
+GU007S010	1	7	02_Present perfect and past 1	道路は閉鎖されています。 事故が起きたんです。	The road is closed. There's been an accident.		
+GU007S011	1	7	02_Present perfect and past 1	警察は強盗の疑いで男２人を逮捕した。	Police have arrested two men in connection with the robbery.		
+GU007S012	1	7	02_Present perfect and past 1	サリーはここにいますか？ いいえ、彼女は出かけました。	"Is Sally here?    No, she's gone out."		
+GU007S013	1	7	02_Present perfect and past 1	彼は私に名前を教えてくれましたが、忘れてしまいました。	"He told me his name, but I've forgotten it."		
+GU007S014	1	7	02_Present perfect and past 1	カバンが見つかりません。 見たことありますか？	I can't find my bag. Have you seen it?		
+GU007S015	1	7	02_Present perfect and past 1	ジェームスは休暇中です。 彼はイタリアに行ってしまった。	James is on holiday. He has gone to Italy.		
+GU007S016	1	7	02_Present perfect and past 1	エイミーは今家に帰っています。 彼女はイタリアに行ったことがあります。	Amy is back home now. She has been to Italy.		
+GU007S017	1	7	02_Present perfect and past 1	ケーキを作りました。 いくつかいかがでしょうか？	I've made a cake. Would you like some?		
+GU007S018	1	7	02_Present perfect and past 1	手を怪我してしまいました。 指が動かないんです。	I've hurt my hand. I can't move my fingers.		
+GU007S019	1	7	02_Present perfect and past 1	首相が辞任した。 彼はとても不人気でした。	The prime minister has resigned. He was very unpopular.		
+GU007S020	1	7	02_Present perfect and past 1	ターニャには女の子の赤ちゃんが生まれました。 二人とも元気です。	Tanya has had a baby girl. They're both well.		
+GU007S021	1	7	02_Present perfect and past 1	ビルは新しいアパートに引っ越しました。 彼の新しい住所はまだ分かりません。	Bill has moved to a new flat. I don't know his new address yet.		
+GU007S022	1	7	02_Present perfect and past 1	同社は工場を閉鎖すると発表した。 多くの人が職を失うことになるだろう。	The company has announced it will close the factory. Many people will lose their jobs.		
+GU007S023	1	7	02_Present perfect and past 1	私は去ることに決めました。 変化が必要です。	I've decided to go away. I need a change.		
+GU007S024	1	7	02_Present perfect and past 1	セーターを洗濯したら縮んでしまいました。 今の私には小さすぎます。	I washed my sweater and it's shrunk. It's too small for me now.		
+GU007S025	1	7	02_Present perfect and past 1	気温も上がりましたね だいぶ暖かくなりましたね。	The temperature has risen. It's much warmer now.		
+GU007S026	1	7	02_Present perfect and past 1	ベンを探しています。 どこかで彼を見たことがありますか?	I'm looking for Ben. Have you seen him anywhere?		
+GU007S027	1	7	02_Present perfect and past 1	あなたが私たちに会いに来ることは誰にも言っていないので、誰も知りません。	"I haven't told anybody that you're coming to see us, so nobody knows."		
+GU007S028	1	7	02_Present perfect and past 1	会議はまだ続いていますか、それとももう終わりましたか?	"Is the meeting still going on, or has it finished?"		
+GU007S029	1	7	02_Present perfect and past 1	マリアの英語はかなり上達しました。 以前よりもずっと良くなりました。	Maria's English has improved a lot. It's much better than it was.		
+GU007S030	1	7	02_Present perfect and past 1	とてもいい映画だったのですが、名前を忘れてしまいました。	"It was a great film, but I have forgotten the name."		
+GU007S031	1	7	02_Present perfect and past 1	昨日サラにメールを送りましたが、返事がありません。	"I sent Sarah an email yesterday, but she hasn't replied."		
+GU007S032	1	7	02_Present perfect and past 1	あなたはその手紙に署名していません。 今すぐ署名していただけますか？	You haven't signed the letter. Could you please sign it now?		
+GU007S033	1	7	02_Present perfect and past 1	こんにちは！ お店に行ったことがあります。 たくさんのものを買ってきました。	Hi! I've been to the shops. I've bought lots of things.		
+GU007S034	1	7	02_Present perfect and past 1	サラはここにはいません、そしてどこに行ったのかわかりません。	"Sarah isn't here, and I don't know where she's gone."		
+GU007S035	1	7	02_Present perfect and past 1	私の両親は休暇で不在です。 彼らはイタリアに行ってしまったのです。	My parents are away on holiday. They've gone to Italy.		
+GU007S036	1	7	02_Present perfect and past 1	遅いです！ どこにいましたか？	You're late! Where have you been?		
+GU007S037	1	7	02_Present perfect and past 1	銀行に行くのを忘れないでください。 もう行ったことがあります。	Don't forget to go to the bank.    I've already been.		
+GU007S038	1	7	02_Present perfect and past 1	トムは出かけました。 彼は1時間ほどで戻ってくるでしょう。	Tom has gone out. He'll be back in about an hour.		
+GU007S039	1	7	02_Present perfect and past 1	コーヒーはいかがですか？ 結構です。 ちょっと食べたところです。	"Would you like some coffee?    No, thanks. I've just had some."		
+GU007S040	1	7	02_Present perfect and past 1	デビッドは何時に出発する予定ですか。 彼はもう出発しました。	What time is David going to leave?    He's already left.		
+GU007S041	1	7	02_Present perfect and past 1	今日の新聞には何が載っていますか? わからない。 まだ読んでいません。	What's in the newspaper today?    I don't know. I haven't read it yet.		
+GU007S042	1	7	02_Present perfect and past 1	ジュリアがどこにいるか知っていますか？ はい、ちょうど彼女に会ったところです。	"Do you know where Julia is?    Yes, I've just seen her."		
+GU007S043	1	7	02_Present perfect and past 1	スーは私たちと一緒に映画館に来ますか? いいえ、彼女はすでにその映画を見ました。	"Is Sue coming to the cinema with us?    No, she's already seen the film."		
+GU007S044	1	7	02_Present perfect and past 1	友達はもうここにいますか？ はい、彼らはちょうど到着したところです。	"Are your friends here yet?    Yes, they've just arrived."		
+GU007S045	1	7	02_Present perfect and past 1	トムはあなたの計画についてどう思いますか? 私たちはまだ彼にそのことを話していません。	What does Tom think about your plan?    We haven't told him yet.		
+GU007S046	1	7	02_Present perfect and past 1	お腹がすきましたか？ いいえ、ちょうど昼食を食べたところです。	"Are you hungry?    No, I've just had lunch."		
+GU007S047	1	7	02_Present perfect and past 1	こんにちは。 到着したばかりですか？	Hello. Have you just arrived?		
+GU007S048	1	7	02_Present perfect and past 1	電気代の支払いも忘れずに。 もう支払いました。	Don't forget to pay your electricity bill.    I've already paid it.		
+GU007S049	1	7	02_Present perfect and past 1	マークは何時に出発しますか? 彼はもう出発しました。	What time is Mark leaving?    He's already left.		
+GU007S050	1	7	02_Present perfect and past 1	雨はもう止みましたか？	Has it stopped raining yet?		
+GU007S051	1	7	02_Present perfect and past 1	メールを書きましたが、まだ送信していません。	"I've written the email, but I haven't sent it yet."		
+GU007S052	1	7	02_Present perfect and past 1	残念ですが、彼はちょうど出かけたばかりのようです。	I'm afraind he has just gone out.		
+GU007S053	1	7	02_Present perfect and past 1	もう始まったんですか？	Has it started yet?		
+GU007S054	1	7	02_Present perfect and past 1	すでにやりました。	I have already done it.		
+GU007S055	1	7	02_Present perfect and past 1	もう決めましたか？	Have you decided yet?		
+GU007S056	1	7	02_Present perfect and past 1	ちょっと待って！ まだ終わってないんです。	Wait a minute! I haven't finished yet.		
+GU007S057	1	7	02_Present perfect and past 1	彼女はちょうど戻ってきたところです。	She's just come back.		
+GU007S058	1	7	02_Present perfect and past 1	サリーはここにいますか？ いいえ、彼女は出かけました。	"Is Sally here?    No, she went out."	"Is Sally here?    No, she's gone out."	
+GU007S059	1	7	02_Present perfect and past 1	お腹がすきましたか？ いいえ、ちょうど昼食をとったところです。	"Are you hungry?    No, I just had lunch."	"Are you hungry?    No, I've just had lunch."	
+GU008S001	1	8	02_Present perfect and past 1	ジェーン、たくさん旅行しましたか？ はい、たくさんの場所に行ってきました。	"Have you travelled a lot, Jane?    Yes, I've been to lots of places."		
+GU008S002	1	8	02_Present perfect and past 1	本当に？ 中国に行ったことがありますか? はい、私は中国に2回行ったことがあります。	"Really? Have you ever been to China?    Yes, I've been to China twice."		
+GU008S003	1	8	02_Present perfect and past 1	インドはどうですか？ いいえ、インドには行ったことがありません。	"What about India?    No, I haven't been to India."		
+GU008S004	1	8	02_Present perfect and past 1	キャビアを食べたことがありますか？	Have you ever eaten caviar?		
+GU008S005	1	8	02_Present perfect and past 1	私たちは車を持ったことはありません。	We've never had a car.		
+GU008S006	1	8	02_Present perfect and past 1	スーザンはその映画が本当に大好きです。 彼女はそれを8回も見ました！	Susan really loves that movie. She's seen it eight times!		
+GU008S007	1	8	02_Present perfect and past 1	それはとても長い本でした - 私が今まで読んだ中で最も長い本でした。	It was a very long book - the longest book I've ever read.		
+GU008S008	1	8	02_Present perfect and past 1	私は中国に行ったことはありません。 そこへ行ったことはありますか？	I've never been to China. Have you been there?		
+GU008S009	1	8	02_Present perfect and past 1	私はマラソンを走ったことがありません。 体力が足りません。	I've never run a marathon. I'm not fit enough.		
+GU008S010	1	8	02_Present perfect and past 1	私はニューヨークに数回行ったことがあります。 前回は2年前でした。	I've been to New York a few times. The last time was two years ago.		
+GU008S011	1	8	02_Present perfect and past 1	私はオーストラリアに行ったことはありません。 でも、いつかは行ってみたいです。	I've never been to Australia. I'd like to go there one day though.		
+GU008S012	1	8	02_Present perfect and past 1	映画については何も言えません。 見たことがありません。	I can't tell you anything about the film. I haven't seen it.		
+GU008S013	1	8	02_Present perfect and past 1	ベンの妻を知りません。 私は彼女に会ったことがありません。	I don't know Ben's wife. I've never met her.		
+GU008S014	1	8	02_Present perfect and past 1	もうその映画は見たくない。 もう２回も見てしまった。	I don't want to see the film again. I've already seen it twice.		
+GU008S015	1	8	02_Present perfect and past 1	私はパリをよく知っています。 何度か行ったことがあります。	I know Paris quite well. I've been there a few times.		
+GU008S016	1	8	02_Present perfect and past 1	私は車を所有したことがありません。 必要としたことはありません。	I've never owned a car. I've never needed one.		
+GU008S017	1	8	02_Present perfect and past 1	最近ベンから何か連絡がありましたか?	Have you heard anything from Ben recently?		
+GU008S018	1	8	02_Present perfect and past 1	ここ数日でたくさんの人に会った。	I've met a lot of people in the last few days.		
+GU008S019	1	8	02_Present perfect and past 1	すべてが順調に進んでいます。 これまでのところ何も問題はありません。	Everything is going well. There haven't been any problems so far.		
+GU008S020	1	8	02_Present perfect and past 1	ここのところ天気が悪いです。 到着してから毎日雨が降り続いています。	The weather is bad here. It's rained every day since I arrived.		
+GU008S021	1	8	02_Present perfect and past 1	今日はコーヒーを4杯飲みました。	I've drunk four cups of coffee today.		
+GU008S022	1	8	02_Present perfect and past 1	今年は休暇をとりましたか？	Have you had a holiday this year?		
+GU008S023	1	8	02_Present perfect and past 1	今朝はトムに会いませんでした。 ありますか？	I haven't seen Tom this morning. Have you?		
+GU008S024	1	8	02_Present perfect and past 1	サラは今日ラップトップを使用しました。	Sarah has used her laptop today.		
+GU008S025	1	8	02_Present perfect and past 1	トムは今週スーパーマーケットに行きました。	Tom has been to the supermarket this week.		
+GU008S026	1	8	02_Present perfect and past 1	サラは最近両親に会いました。	Sarah has seen her parents recently.		
+GU008S027	1	8	02_Present perfect and past 1	トムは今年アメリカに行っていません。	Tom hasn't been to the United States this year.		
+GU008S028	1	8	02_Present perfect and past 1	サラは長年何も失っていません。	Sarah hasn't lost anything for ages.		
+GU008S029	1	8	02_Present perfect and past 1	トムはここ数日間テレビを見ています。	Tom has watched TV in the last few days.		
+GU008S030	1	8	02_Present perfect and past 1	また会えて嬉しいです。 私たちは長い間会っていません。	It's good to meet again. We haven't seen each other for a long time.		
+GU008S031	1	8	02_Present perfect and past 1	昨日ティナに会ったが、今日はまだ会っていない	"I saw Tina yesterday, but I haven't seen her so far today"		
+GU008S032	1	8	02_Present perfect and past 1	今週何度か彼に連絡を取ろうとしましたが、うまくいきませんでした。	"I've tried to contact him several times this week, but with no success."		
+GU008S033	1	8	02_Present perfect and past 1	天気も良くなりました。 しばらく雨が降っていません。	The weather has been good. It hasn't rained for a while.		
+GU008S034	1	8	02_Present perfect and past 1	その映画はとても面白かったです。 もう何年もこんなに笑ったことがない。	The film was very funny. I haven't laughed so much for ages.		
+GU008S035	1	8	02_Present perfect and past 1	今年は食料品の価格が大幅に上昇しました。	Food prices have increased a lot this year.		
+GU008S036	1	8	02_Present perfect and past 1	お腹が空きました。 朝食以来何も食べていません。	I'm hungry. I haven't eaten anything since breakfast.		
+GU008S037	1	8	02_Present perfect and past 1	仕事を探していますが、今のところ何も見つかりません。	"I'm looking for a job, but I haven't found anything so far."		
+GU008S038	1	8	02_Present perfect and past 1	ここ数日で私たちはたくさんのお金を使ってしまいました。	We've spent a lot of money in the last few days.		
+GU008S039	1	8	02_Present perfect and past 1	彼が車を運転するのは初めてです。	It's the first time he has driven a car.		
+GU008S040	1	8	02_Present perfect and past 1	彼はこれまで車を運転したことがありません。	He has never driven a car before.		
+GU008S041	1	8	02_Present perfect and past 1	サラはまたパスポートを紛失してしまいました。 このようなことが起こったのはこれで 2 回目です。	Sarah has lost her passport again. This is the second time this has happened.		
+GU008S042	1	8	02_Present perfect and past 1	アンディはまたガールフレンドに電話しています。 今晩彼が彼女に電話するのはこれで3回目だ。	Andy is calling his girlfriend again. That's the third time he's called her this evening.		
+GU008S043	1	8	02_Present perfect and past 1	彼がテニスをするのは初めてです。	It's the first time he has played tennis.		
+GU008S044	1	8	02_Present perfect and past 1	彼らがブラジルを訪れるのはこれが2回目です。	This is the second time they have been to Brazil.		
+GU008S045	1	8	02_Present perfect and past 1	彼女の引っ越しは今年で3回目だ。	This is the third time she has moved this year.		
+GU008S046	1	8	02_Present perfect and past 1	彼らはキリンを見るのは初めてだ。	It's the first time they have seen a giraffe.		
+GU008S047	1	8	02_Present perfect and past 1	彼女は馬に乗るのは初めてだ。	It's the first time she has ridden a horse.		
+GU008S048	1	8	02_Present perfect and past 1	今日食べたバナナはこれで3本目です。	That's the third banana I have eaten today.		
+GU008S049	1	8	02_Present perfect and past 1	お腹がすきましたか？ はい、今日はあまり食べていません。	"Are you hungry?    Yes, I haven't eaten much today."		
+GU008S050	1	8	02_Present perfect and past 1	キャビアは好きですか？ わからない。 試したことはありません。	Do you like caviar?    I don't know. I have never tried it.		
+GU008S051	1	8	02_Present perfect and past 1	休暇を楽しんでいますか？ はい、これは私にとって長い間過ごした中で最高の休暇です。	"Are you enjoying your holiday?    Yes, it's the best holiday I have had for a long time."		
+GU008S052	1	8	02_Present perfect and past 1	あの本は何についての本ですか？ わからない。 読んだことがありません。	What's that book about?    I don't know. I haven't read it.		
+GU008S053	1	8	02_Present perfect and past 1	ブリュッセルは面白い場所ですか? わからない。 私はそこに行ったことはありません。	Is Brussels an interesting place?    I have no idea. I have not been there.		
+GU008S054	1	8	02_Present perfect and past 1	昨日あなたの車が故障したと聞きました。 はい、今月２回目です。	"I hear your car broke down yesterday.    Yes, it's the second time it has happened this month."		
+GU008S055	1	8	02_Present perfect and past 1	あなたはチェスができますか？ はい、でももう何年もプレイしていないんです。	"Can you play chess?    Yes, but I have not played for ages."		
+GU008S056	1	8	02_Present perfect and past 1	マークは今日も仕事に遅刻しました。 また？ 彼は今週毎日遅刻しています。	Mark was late for work again today.    Again? He has been late every day this week.		
+GU008S057	1	8	02_Present perfect and past 1	ドアのそばに立っているあの女性は誰ですか? わからない。 私はこれまで彼女に会ったことがありません。	Who's that woman standing by the door?    I don't know. I have never seen her before.		
+GU009S001	1	9	02_Present perfect and past 1	雨が降っています（いました）。	It's been raining.		
+GU009S002	1	9	02_Present perfect and past 1	どこにいましたか？ あなたを探していました。	Where have you been? I've been looking for you.		
+GU009S003	1	9	02_Present perfect and past 1	なぜあなたの服はそんなに汚れているのですか？ 何をしていたの？	Why are your clothes so dirty? What have you been doing?		
+GU009S004	1	9	02_Present perfect and past 1	ポールはとても疲れています。 彼は一生懸命働いてきました。	Paul is very tired. He's been working hard.		
+GU009S005	1	9	02_Present perfect and past 1	彼は走ってきました。	He has been running.		
+GU009S006	1	9	02_Present perfect and past 1	彼らはテニスをしています。	They have been playing tennis.		
+GU009S007	1	9	02_Present perfect and past 1	彼女はテレビを見ています。	She has been watching TV.		
+GU009S008	1	9	02_Present perfect and past 1	彼らは勉強してきました。	They have been studying.		
+GU009S009	1	9	02_Present perfect and past 1	ベンは新しい仕事について私に話してくれました。 それは面白そう。	Ben has been telling me about his new job. It sounds interesting.		
+GU009S010	1	9	02_Present perfect and past 1	電気技師を探してみました。 誰かお勧めできますか？	I've been trying to find an electrician. Can you recommend anyone?		
+GU009S011	1	9	02_Present perfect and past 1	エイミーは飛行のレッスンを受けています。 彼女はそれを楽しんでいます。	Amy has been having flying lessons. She's been enjoying it.		
+GU009S012	1	9	02_Present perfect and past 1	バイクを買おうか検討中です。 移動するには良い方法でしょう。	I've been thinking about getting a motorbike. It would be a good way to get around.		
+GU009S013	1	9	02_Present perfect and past 1	ヘレンはちょうど住む場所を見つけたところです。 彼女は今まで友達の家に泊まっています。	Helen has just found somewhere to live. She's been staying with friends until now.		
+GU009S014	1	9	02_Present perfect and past 1	私はその問題についてアマンダと話し合っています。 彼女も私に同意します。	I've been talking to Amanda about the problem. She agrees with me.		
+GU009S015	1	9	02_Present perfect and past 1	どれくらい雨が降っていますか？ 雨が２時間も降り続いている。	How long has it been raining? It has been raining for two hours.		
+GU009S016	1	9	02_Present perfect and past 1	どのくらいの間英語を勉強していますか？	How long have you been learning English?		
+GU009S017	1	9	02_Present perfect and past 1	ティムはテレビを見ています。 彼は一日中テレビを見ています。	Tim is watching TV. He's been watching TV all day.		
+GU009S018	1	9	02_Present perfect and past 1	どこにいましたか？ この30分ずっとあなたを探していました。	Where were you? I've been looking for you for the last half hour.		
+GU009S019	1	9	02_Present perfect and past 1	クリスは最近体調が優れません。	Chris hasn't been feeling well recently.		
+GU009S020	1	9	02_Present perfect and past 1	シルビアはとても上手なテニス選手です。 彼女は8歳の時からプレーしています。	Silvia is a very good tennis player. She's been playing since she was eight.		
+GU009S021	1	9	02_Present perfect and past 1	彼らは毎朝同じカフェに行きます。 彼らは何年もそこに通っています。	Every morning they go to the same cafe. They've been going there for years.		
+GU009S022	1	9	02_Present perfect and past 1	こんにちは！ 泳いでいたことがありますか？	Hi! Have you been swimming?		
+GU009S023	1	9	02_Present perfect and past 1	すいません遅れました。 長い間待っていましたか？	Sorry I'm late. Have you been waiting long?		
+GU009S024	1	9	02_Present perfect and past 1	いかがお過ごしでしたか？	What have you been doing?		
+GU009S025	1	9	02_Present perfect and past 1	ここでどれくらい働いていますか？	How long have you been working here?		
+GU009S026	1	9	02_Present perfect and past 1	携帯電話を販売してどれくらいですか？	How long have you been selling phones?		
+GU009S027	1	9	02_Present perfect and past 1	どのくらい日本語を勉強していますか？	How long have you been learning Japanese?		
+GU009S028	1	9	02_Present perfect and past 1	ベンとジョーはバスを待っています。 彼らは20分前から待ち始めました。 ベンとジョーは20分間待っています。	Ben and Joe are waiting for the bus. They started waiting 20 minutes ago. Ben and Joe have been waiting for 20 minutes.		
+GU009S029	1	9	02_Present perfect and past 1	私はスペイン語を勉強しています。 12月から始めました。 12月からスペイン語を勉強しています。	I'm learning Spanish. I started in December. I've been learning Spanish since December.		
+GU009S030	1	9	02_Present perfect and past 1	ジェシカはホテルで働いています。 彼女は1月18日にそこで働き始めた。 ジェシカは1月18日からそこで働いています。	Jessica is working in a hotel. She started working there on 18 January. Jessica has been working there since 18 January.		
+GU009S031	1	9	02_Present perfect and past 1	私たちの友達は休暇にはいつもイタリアに行きます。 彼らは何年も前に初めてそこに行きました。 彼らは何年もイタリアに行っています。	Our friends always go to Italy for their holidays. They first went there years ago. They've been going to Italy for years.		
+GU009S032	1	9	02_Present perfect and past 1	私は今朝早くから勉強を始めました。 今は夕方ですが、まだ勉強中です。 私は一日中勉強しています。	I started studying early this morning. It's evening now and I'm still studying. I've been studying all day.		
+GU009S033	1	9	02_Present perfect and past 1	今は邪魔しないでください。 私は働いています。	Don't disturb me now. I'm working.		
+GU009S034	1	9	02_Present perfect and past 1	傘が必要です。 雨が降っている。	We need an umbrella. It's raining.		
+GU009S035	1	9	02_Present perfect and past 1	急いで！ 私たちは待っています。	Hurry up! We're waiting.		
+GU009S036	1	9	02_Present perfect and past 1	頑張ってきました。 では、休憩に入ります。	I've been working hard. Now I'm going to have a break.		
+GU009S037	1	9	02_Present perfect and past 1	地面は濡れています。 雨が降っていました。	The ground is wet. It's been raining.		
+GU009S038	1	9	02_Present perfect and past 1	1時間も待っています。	We've been waiting for an hour.		
+GU009S039	1	9	02_Present perfect and past 1	マリアはここ 3 か月間南米を旅行しています。	Maria has been travelling in South America for the last three months.		
+GU009S040	1	9	02_Present perfect and past 1	こんにちはトム。 あなたを探していました。 聞きたいことがあります。	Hi Tom. I've been looking for you. I need to ask you something.		
+GU009S041	1	9	02_Present perfect and past 1	なぜそんな目で私を見るのですか？ やめて！	Why are you looking at me like that? Stop it!		
+GU009S042	1	9	02_Present perfect and past 1	レイチェルは教師です。 彼女は10年間教えています。	Rachel is a teacher. She's been teaching for ten years.		
+GU009S043	1	9	02_Present perfect and past 1	あなたが言ったことについてずっと考えていましたが、あなたのアドバイスに従うことにしました。	"I've been thinking about what you said, and I've decided to take your advice."		
+GU009S044	1	9	02_Present perfect and past 1	ポールは今週休みですか? いいえ、彼は働いています。	"Is Paul on holiday this week?    No, he's working."		
+GU009S045	1	9	02_Present perfect and past 1	サラはとても疲れています。 彼女は最近とても頑張っています。	Sarah is very tired. She's been working very hard recently.		
+GU009S046	1	9	02_Present perfect and past 1	運転中に携帯電話を使用するのは危険です。	It's dangerous to use your phone when you're driving.		
+GU009S047	1	9	02_Present perfect and past 1	どのくらいの間英語を勉強していますか？	How long have you been learning English?		
+GU010S001	1	10	02_Present perfect and past 1	ケイトの服にはペイントが付いています。 彼女は寝室を塗っています。	There is paint on Kate's clothes. She has been painting her bedroom.		
+GU010S002	1	10	02_Present perfect and past 1	彼女の寝室は緑だった。 今は黄色です。 彼女は寝室をペイントしました。	Her bedroom was green. Now it is yellow. She has painted her bedroom.		
+GU010S003	1	10	02_Present perfect and past 1	彼女の寝室は緑だった。 今は黄色です。 彼女は寝室をペイントしました。	Her bedroom was green. Now it is yellow. She has painted her bedroom.		
+GU010S004	1	10	02_Present perfect and past 1	手が汚れています。 自転車を修理してきました。	My hands are dirty. I've been repairing my bike.		
+GU010S005	1	10	02_Present perfect and past 1	私の自転車はまた大丈夫になりました。 修理してもらいました。	My bike is OK again now. I've repaired it.		
+GU010S006	1	10	02_Present perfect and past 1	ジョーは最近食べすぎています。 彼は食べる量を減らすべきだ。	Joe has been eating too much recently. He should eat less.		
+GU010S007	1	10	02_Present perfect and past 1	誰かがチョコレートをすべて食べてしまいました。 箱は空です。	Somebody has eaten all the chocolates. The box is empty.		
+GU010S008	1	10	02_Present perfect and past 1	どこにいましたか？ テニスをしていたのですか？	Where have you been? Have you been playing tennis?		
+GU010S009	1	10	02_Present perfect and past 1	あなたはテニスをしたことがありますか？	Have you ever played tennis?		
+GU010S010	1	10	02_Present perfect and past 1	ジャックは最近毎日ジムに行っています。 彼はもっと健康になりたいと思っています。	Jack has been going to the gym every day recently. He wants to get fitter.		
+GU010S011	1	10	02_Present perfect and past 1	ジャックはジムに行ってきました。 彼は家にいません。	Jack has gone to the gym. He isn't at home.		
+GU010S012	1	10	02_Present perfect and past 1	車を洗いました。 もうきれいになりました。	I've washed the car. It's clean now.		
+GU010S013	1	10	02_Present perfect and past 1	車を洗っています。 服が濡れてしまいました。	I've been washing the car. My clothes are wet.		
+GU010S014	1	10	02_Present perfect and past 1	彼女は本を書いています。 まだ終わっていません。 彼女は本を書きました。 今日本屋で見かけました。	She's been writing a book. It isn't finished yet. She's written a book. I saw it in a bookshop today.		
+GU010S015	1	10	02_Present perfect and past 1	私は料理の仕方を習っています。 以前よりも多くのことを知っています。	I've been learning how to cook. I know more than I did before.		
+GU010S016	1	10	02_Present perfect and past 1	私は料理の仕方を学びました。 今ならできるよ。	I've learnt how to cook. I can do it now.		
+GU010S017	1	10	02_Present perfect and past 1	彼らは道路を修復してきた。 まだ終わったかどうかわかりません。	They've been repairing the road. I don't know if they've finished yet.		
+GU010S018	1	10	02_Present perfect and past 1	彼らは道路を修復しました。 道路の状態はまた良くなりました。	They've repaired the road. The road is in good condition again.		
+GU010S019	1	10	02_Present perfect and past 1	トムは最近朝とても早く起きるようになりました。 以前彼はたいてい遅くに起きました。	Tom has been waking up very early in the morning recently. Before he usually woke up later.		
+GU010S020	1	10	02_Present perfect and past 1	トムは5分前まで眠っていましたが、目が覚めました。 彼は起きています。	Tom was asleep five minutes ago but he's woken up. He is awake.		
+GU010S021	1	10	02_Present perfect and past 1	見て！ 誰かがその窓を割った。	Look! Somebody has broken that window.		
+GU010S022	1	10	02_Present perfect and past 1	あなたが疲れて見える。 頑張ってきましたか？	You look tired. Have you been working hard?		
+GU010S023	1	10	02_Present perfect and past 1	忙しかったんですか？ いいえ、テレビを見ていました。	"Have you been busy?    No, I've been watching TV."		
+GU010S024	1	10	02_Present perfect and past 1	リサはどこですか？ 彼女はどこへ行ってしまったのでしょうか？	Where's Lisa? Where  has she gone?		
+GU010S025	1	10	02_Present perfect and past 1	もう雨は降っていません。 止まってしまった。	It's not raining any more. It's stopped.		
+GU010S026	1	10	02_Present perfect and past 1	何か悪いですか？ 泣いていましたか？	Is something wrong? Have you been crying?		
+GU010S027	1	10	02_Present perfect and past 1	鍵を紛失してしまいました。 どこに置いたのか分かりません。	I've lost my keys. I don't know where I put them.		
+GU010S028	1	10	02_Present perfect and past 1	子どもたちは疲れています。 彼らは庭で遊んでいます。	The children are tired. They've been playing in the garden.		
+GU010S029	1	10	02_Present perfect and past 1	あなたが貸してくれた本をずっと読んでいます。 ほぼ完成しました。	I've been reading the book you lent me. I've nearly finished it.		
+GU010S030	1	10	02_Present perfect and past 1	あなたが貸してくれた本を読みましたので、今すぐ返していただいても大丈夫です。	"I've read the book you lent me, so you can have it back now."		
+GU010S031	1	10	02_Present perfect and past 1	あなたはその本をどれくらい読んでいますか？	How long have you been reading that book?		
+GU010S032	1	10	02_Present perfect and past 1	あなたはその本を何ページ読みましたか。	How many pages of that book have you read?		
+GU010S033	1	10	02_Present perfect and past 1	リサは午前中ずっとメールを書いています。	Lisa has been writing emails all morning.		
+GU010S034	1	10	02_Present perfect and past 1	リサは今朝たくさんのメールを送信しました。	Lisa has sent lots of emails this morning.		
+GU010S035	1	10	02_Present perfect and past 1	彼らは2時からテニスをしています。	They've been playing tennis since 2 o'clock.		
+GU010S036	1	10	02_Present perfect and past 1	彼らは今週３回テニスをしました。	They've played tennis three times this week.		
+GU010S037	1	10	02_Present perfect and past 1	私はアラビア語を勉強していますが、まだそれほど長くは学習していません。	"I'm learning Arabic, but I haven't been learning it very long."		
+GU010S038	1	10	02_Present perfect and past 1	私はアラビア語を学んでいますが、まだあまり習得していません。	"I'm learning Arabic, but I haven't learnt very much yet."		
+GU010S039	1	10	02_Present perfect and past 1	レイチェルは3か月間旅行しています。 彼女はこれまでに6か国を訪問しました。	Rachel's been travelling for three months. She has visited six countries so far.		
+GU010S040	1	10	02_Present perfect and past 1	パトリックは全国選手権で4回優勝している。 彼は10歳の時からテニスをしています。	Patrick has won the national championship four times. He has been playing tennis since he was ten.		
+GU010S041	1	10	02_Present perfect and past 1	リサとヴィッキーは大学を卒業して以来、映画を作り続けています。 彼らは大学を卒業して以来、5本の映画を制作しました。	Lisa and Vicky have been making films since they left college. They have made five films since they left college.		
+GU010S042	1	10	02_Present perfect and past 1	ジョーは2時間本を読んでいます。 彼はこれまでに 53 ページを読みました。	Joe has been reading for two hours. He has read 53 pages so far.		
+GU010S043	1	10	02_Present perfect and past 1	どのくらいアラビア語を勉強していますか？	How long have you been learning Arabic?		
+GU010S044	1	10	02_Present perfect and past 1	長い間待っていましたか？	Have you been waiting long?		
+GU010S045	1	10	02_Present perfect and past 1	何か捕まえましたか？	Have you caught anything?		
+GU010S046	1	10	02_Present perfect and past 1	何人招待しましたか？	How many people have you invited?		
+GU010S047	1	10	02_Present perfect and past 1	どのくらいの期間教えていますか？	How long have you been teaching?		
+GU010S048	1	10	02_Present perfect and past 1	何冊本を書きましたか？	How many books have you written?		
+GU010S049	1	10	02_Present perfect and past 1	どれくらいの期間貯めていますか？	How long have you been saving?		
+GU010S050	1	10	02_Present perfect and past 1	私はその問題については長い間知っていました。	I've known about the problem for a long time.		
+GU010S051	1	10	02_Present perfect and past 1	そのカメラをどれくらい持っていますか？	How long have you had that camera?		
+GU010S052	1	10	02_Present perfect and past 1	私の兄は俳優です。 彼はいくつかの映画に出演しています。	My brother is an actor. He's appeared in several films.		
+GU010S053	1	10	02_Present perfect and past 1	忙しかったんですか？ はい、勉強してきました。	"Have you been busy?    Yes,  I've been studying."		
+GU010S054	1	10	02_Present perfect and past 1	これはとても古い本です。 子供の頃から持っていました。	This is a very old book. I've had it since I was a child.		
+GU010S055	1	10	02_Present perfect and past 1	我々は友達だ。 私たちは長い間お互いを知っています。	We're friends. We've known each other for a long time.		
+GU010S056	1	10	02_Present perfect and past 1	あなたはどれくらい運転を習っていますか？ まだ2回しかレッスンを受けていません。	How long have you been learning to drive?    I've only had two lessons.		
+GU010S057	1	10	02_Present perfect and past 1	工場で働いたことがありますか? いいえ、決してありません。	"Have you ever worked in a factory?    No, never."		
+GU010S058	1	10	02_Present perfect and past 1	学校を卒業してから何件の仕事に就きましたか?	How many jobs have you had since you left school?		
+GU010S059	1	10	02_Present perfect and past 1	またお会いできて本当に嬉しいです。 楽しみにしてきました。	It's really nice to see you again. I've been looking forward to it.		
+GU011S001	1	11	02_Present perfect and past 1	彼らは結婚してどれくらいになりますか？	How long have they been married?		
+GU011S002	1	11	02_Present perfect and past 1	彼らは結婚して20年になります。	They've been married for 20 years.		
+GU011S003	1	11	02_Present perfect and past 1	彼らは結婚してどれくらいになりますか？	How long have they been married?		
+GU011S004	1	11	02_Present perfect and past 1	彼らは結婚して20年になります。	They have been married for 20 years.		
+GU011S005	1	11	02_Present perfect and past 1	彼はどのくらい入院していますか?	How long has he been in hospital?		
+GU011S006	1	11	02_Present perfect and past 1	彼は月曜日から入院しています。	He's been in hospital since Monday.		
+GU011S007	1	11	02_Present perfect and past 1	レイチェルは警察官です。 彼女は自分の仕事が好きです。	Rachel is a police officer. She likes her job.		
+GU011S008	1	11	02_Present perfect and past 1	彼女は警察官になって5年になります。	She's been a police officer for five years.		
+GU011S009	1	11	02_Present perfect and past 1	私の兄は金曜日から休暇中です。	My brother has been on holiday since Friday.		
+GU011S010	1	11	02_Present perfect and past 1	私は月曜日からここにいます。	I've been here since Monday.		
+GU011S011	1	11	02_Present perfect and past 1	今、たくさんの人が失業しています。 彼らは仕事を見つけることができません。	A lot of people are unemployed right now. They can't find jobs.		
+GU011S012	1	11	02_Present perfect and past 1	失業してどれくらいですか？	How long have you been unemployed?		
+GU011S013	1	11	02_Present perfect and past 1	ここに来てからずっと天気が悪いです。	The weather has been bad since I arrived here.		
+GU011S014	1	11	02_Present perfect and past 1	アンは仕事中です。 彼女は5時までそこにいるでしょう。	Ann is at work. She'll be there until 5 o'clock.		
+GU011S015	1	11	02_Present perfect and past 1	私たちはお互いのことをよく知っています。	We know each other very well.		
+GU011S016	1	11	02_Present perfect and past 1	私たちは長い間お互いを知っています。	We've known each other for a long time.		
+GU011S017	1	11	02_Present perfect and past 1	彼女は誰かを待っています。	She's waiting for somebody.		
+GU011S018	1	11	02_Present perfect and past 1	彼女は朝中ずっと待っています。	She's been waiting all morning.		
+GU011S019	1	11	02_Present perfect and past 1	彼らは車を持っていますか？	Do they have a car?		
+GU011S020	1	11	02_Present perfect and past 1	彼らはどのくらい前から車を持っていますか?	How long have they had their car?		
+GU011S021	1	11	02_Present perfect and past 1	ベンは私の友達です。 私は彼のことを何年も知っています。	Ben is a friend of mine. I've known him for years.		
+GU011S022	1	11	02_Present perfect and past 1	サラとアダムは結婚しています。 彼らは7月から結婚した。	Sarah and Adam are married. They've been married since July.		
+GU011S023	1	11	02_Present perfect and past 1	外出するときは傘が必要です。 雨が降っている。	You'll need an umbrella when you go out. It's raining.		
+GU011S024	1	11	02_Present perfect and past 1	天気はひどいです。 一日中雨が降っています。	The weather is awful. It's been raining all day.		
+GU011S025	1	11	02_Present perfect and past 1	私はあなたのバイクが好きです。 どのくらいあなたはそれを持っていました？	I like your motorbike. How long have you had it?		
+GU011S026	1	11	02_Present perfect and past 1	リサはドイツにいます。 彼女は出張でそこにいます。	Lisa is in Germany. She's there on a business trip.		
+GU011S027	1	11	02_Present perfect and past 1	ケイトはオーストラリアにいます。 彼女は6月からそこにいます。	Kate is in Australia. She's been there since June.		
+GU011S028	1	11	02_Present perfect and past 1	ロバートはここに長年住んでいます。 彼はその街をよく知っています。	Robert has lived here a long time. He knows the city well.		
+GU011S029	1	11	02_Present perfect and past 1	遅くなってごめんなさい。 長い間待っていましたか？	I'm sorry I'm late. Have you been waiting long?		
+GU011S030	1	11	02_Present perfect and past 1	引っ越してしまいました。 私たちは今ニューストリートに住んでいます。	We've moved. We're living in New Street now.		
+GU011S031	1	11	02_Present perfect and past 1	この帽子をずっと前に買いました。 私は長年それを持っていました。	I bought this hat a long time ago. I've had it for ages.		
+GU011S032	1	11	02_Present perfect and past 1	私は6か月間英語を勉強しています。	I've been learning English for six months.		
+GU011S033	1	11	02_Present perfect and past 1	お昼から雨が降っています。	It's been raining since lunchtime.		
+GU011S034	1	11	02_Present perfect and past 1	リチャードは 20 年間同じ仕事をしています。	Richard has been doing the same job for 20 years.		
+GU011S035	1	11	02_Present perfect and past 1	どれくらい運転していますか？ 17歳の時から。	How long have you been driving?    Since I was 17.		
+GU011S036	1	11	02_Present perfect and past 1	ジェーンと知り合ってどれくらいですか？	How long have you known Jane?		
+GU011S037	1	11	02_Present perfect and past 1	私はこの靴を長年履いています。	I've had these shoes for ages.		
+GU011S038	1	11	02_Present perfect and past 1	ジュリアはここに長い間住んでいます。	Julia has been living here for a long time.	Julia has lived here for a long time.	
+GU011S039	1	11	02_Present perfect and past 1	ここでどれくらい働いていますか？	How long have you been working here?	How long have you worked here?	
+GU011S040	1	11	02_Present perfect and past 1	私はずっと田舎に住んでいます。	I've always lived in the country.		
+GU011S041	1	11	02_Present perfect and past 1	あなたはどれくらいテニスをしていますか？	How long have you been playing tennis?		
+GU011S042	1	11	02_Present perfect and past 1	キャサリンと知り合ってどれくらいですか？	How long have you known Katherine?		
+GU011S043	1	11	02_Present perfect and past 1	どれくらいギターのレッスンを受けていますか？	How long have you been having guitar lessons?		
+GU011S044	1	11	02_Present perfect and past 1	そのジャケットはどのくらい前から持っていますか？	How long have you had that jacket?		
+GU011S045	1	11	02_Present perfect and past 1	どのくらい英語を教えていますか?	How long have you been teaching English?		
+GU011S046	1	11	02_Present perfect and past 1	ロンドンにどれくらい住んでいますか？	How long have you lived in London?		
+GU011S047	1	11	02_Present perfect and past 1	ジョーは空港でどれくらい働いていますか?	How long has Joe been working at the airport?		
+GU011S048	1	11	02_Present perfect and past 1	月曜日以来トムに会っていません。	I haven't seen Tom since Monday.		
+GU011S049	1	11	02_Present perfect and past 1	私が彼に会ったのは月曜日が最後だった。	Monday was the last time I saw him.		
+GU011S050	1	11	02_Present perfect and past 1	サラはもう何年も電話をしていません。	Sarah hasn't phoned for ages.		
+GU011S051	1	11	02_Present perfect and past 1	彼女が最後に電話したのは何年も前のことだ。	the last time she phoned was ages ago.		
+GU011S052	1	11	02_Present perfect and past 1	ジェシカが無事であることを願っています。 もう何年も彼女から連絡がありません。	I hope Jessica is OK. I haven't heard from her for ages.		
+GU011S053	1	11	02_Present perfect and past 1	最近とても乾燥した天気が続いています。 ここ何週間も雨が降っていません。	The weather has been very dry recently. We haven't had any rain for weeks.		
+GU011S054	1	11	02_Present perfect and past 1	できれば電車で旅行したいと思っています。 長い間飛行機に乗っていません。	I prefer to travel by train if possible. I haven't flown for a long time.		
+GU011S055	1	11	02_Present perfect and past 1	お腹が空きました。 一日中何も食べていません。	I'm hungry. I haven't eaten anything all day.		
+GU011S056	1	11	02_Present perfect and past 1	部屋は本当に汚いです。 しばらく掃除されていませんでした。	The room is really dirty. It hasn't been cleaned for a while.		
+GU011S057	1	11	02_Present perfect and past 1	元気ですか？ サムのパーティー以来会っていません。	How are you? I haven't seen you since Sam's party.		
+GU011S058	1	11	02_Present perfect and past 1	あなたはまだテニスをしますか？ いいえ、私は何年もテニスをしていません。	"Do you still play tennis?    No, I haven't played tennis for years."		
+GU011S059	1	11	02_Present perfect and past 1	あなたはまだサッカーをしていますか？ いいえ、もうサッカーはしません。	"Do you still play football?    No, I don't play football any more."		
+GU011S060	1	11	02_Present perfect and past 1	バスを待っていますか？ はい、20分くらい待ってます。	"Are you waiting for the bus?    Yes, I've been waiting about 20 minutes."		
+GU011S061	1	11	02_Present perfect and past 1	あなたはテレビをよく見ますか? いいえ、もう何年もテレビを見ていません。	"Do you watch TV a lot?    No, I haven't watched TV for ages."		
+GU011S062	1	11	02_Present perfect and past 1	ジョーはテレビを見ていますか? はい、彼は夕方ずっとテレビを見ています。	"Is Joe watching TV?    Yes, he's been watching TV all evening."		
+GU011S063	1	11	02_Present perfect and past 1	会社の業績は順調ですか？ いや、長い間利益が出ていない。	"Is the company doing well?    No, it hasn't made a profit for a long time."		
+GU011S064	1	11	02_Present perfect and past 1	気分は大丈夫ですか？ いいえ、一日中気分が悪かったです。	"Are you feeling OK?    No, I've been feeling ill all day."		
+GU011S065	1	11	02_Present perfect and past 1	海のそばに住むのは好きですか？ はい、私はいつも海のそばに住んでいます。	"Do you like living by the sea?    Yes, I've always lived by the sea."		
+GU011S066	1	11	02_Present perfect and past 1	パトリックは結婚していますか？ はい、彼は結婚して10年になります。	"Is Patrick married?    Yes, he has been married for ten years."		
+GU011S067	1	11	02_Present perfect and past 1	エイミーは結婚していますか？ はい、彼女はドイツ人男性と結婚しています。	"Is Amy married?    Yes, she is married to a German guy."		
+GU011S068	1	11	02_Present perfect and past 1	アンとはよく会いますか？ いいえ、12月以来彼女に会っていません。	"Do you see Ann very often?    No, I haven't seen her since December."		
+GU011S069	1	11	02_Present perfect and past 1	メルを知っていますよね？ はい、私たちは長い間お互いを知っています。	"You know Mel, don't you?    Yes we have known each other a long time."		
+GU011S070	1	11	02_Present perfect and past 1	マーティンはイタリアに住んでいますね。 はい、そうです。 彼はミラノに住んでいます。	"Martin lives in Italy, doesn't he?    Yes, that's right. He lives in Milan."		
+GU011S071	1	11	02_Present perfect and past 1	スーはベルリンに住んでいますね。 はい、彼女はここ数年ベルリンに住んでいます。	"Sue lives in Berlin, doesn't she?    Yes, she has lived in Berlin for the last few years."		
+GU011S072	1	11	02_Present perfect and past 1	頭痛があるの？ はい、朝からずっと頭が痛かったです。	"Do you have a headache?    Yes, I have had a headache all morning."		
+GU011S073	1	11	02_Present perfect and past 1	ジャックは決して病気ではないですよね？ いいえ、私が彼を知って以来、彼は病気になっていません。	"Jack is never ill, is he?    No, he hasn't been ill since I've known him."		
+GU011S074	1	11	02_Present perfect and past 1	いつかニューヨークに行ってみたいですか？ はい、私はいつもそこに行きたいと思っていました。	"Would you like to go to New York one day?    Yes, I have always wanted to go there."		
+GU012S001	1	12	02_Present perfect and past 1	私たちは2時間も待っています。	We've been waiting for two hours.		
+GU012S002	1	12	02_Present perfect and past 1	私たちは8時から待っています。	We've been waiting since 8 o'clock.		
+GU012S003	1	12	02_Present perfect and past 1	サリーはここで 6 か月間働いています。	Sally has been working here for six months.		
+GU012S004	1	12	02_Present perfect and past 1	サリーは4月からここで働いています。	Sally has been working here since April.		
+GU012S005	1	12	02_Present perfect and past 1	私はトムに3日間会っていません。	I haven't seen Tom for three days.		
+GU012S006	1	12	02_Present perfect and past 1	月曜日以来トムに会っていません。	I haven't seen Tom since Monday.		
+GU012S007	1	12	02_Present perfect and past 1	私は一週間働いています。	I've been working for a week.		
+GU012S008	1	12	02_Present perfect and past 1	私は7時から仕事をしています。	I've been working since 7 o'clock.		
+GU012S009	1	12	02_Present perfect and past 1	私は5日間働いています。	I've been working for five days.		
+GU012S010	1	12	02_Present perfect and past 1	私は火曜日から仕事をしています。	I've been working since Tuesday.		
+GU012S011	1	12	02_Present perfect and past 1	私は長い間働いてきました。	I've been working for a long time.		
+GU012S012	1	12	02_Present perfect and past 1	2010年から働いています。	I've been working since 2010.		
+GU012S013	1	12	02_Present perfect and past 1	私は20年間働いています。	I've been working for 20 years.		
+GU012S014	1	12	02_Present perfect and past 1	あなたに出会ってからずっと働いています。	I've been working since I met you.		
+GU012S015	1	12	02_Present perfect and past 1	去年の夏から働いています。	I've been working since last summer.		
+GU012S016	1	12	02_Present perfect and past 1	30分も仕事してるんだよ。	I've been working for 30 minutes.		
+GU012S017	1	12	02_Present perfect and past 1	3時間も働いてるんだよ。	I've been working for three hours.		
+GU012S018	1	12	02_Present perfect and past 1	7月15日から勤務しています。	I've been working since 15 July.		
+GU012S019	1	12	02_Present perfect and past 1	2ヶ月間働いています。	I've been working for two months.		
+GU012S020	1	12	02_Present perfect and past 1	彼らが結婚してから私は働いています。	I've been working since they got married.		
+GU012S021	1	12	02_Present perfect and past 1	お昼から雨が降っています。	It's been raining since lunchtime.		
+GU012S022	1	12	02_Present perfect and past 1	サラは 2009 年からパリに住んでいます。	Sarah has lived in Paris since 2009.		
+GU012S023	1	12	02_Present perfect and past 1	ポールはブラジルに10年間住んでいます。	Paul has lived in Brazil for ten years.		
+GU012S024	1	12	02_Present perfect and past 1	待つのは疲れた。 私たちはここに1時間座っています。	I'm tired of waiting. We've been sitting here for an hour.		
+GU012S025	1	12	02_Present perfect and past 1	ケビンは学校を卒業して以来、仕事を探しています。	Kevin has been looking for a job since he left school.		
+GU012S026	1	12	02_Present perfect and past 1	このお店はここで50年以上続いています。	This shop has been here for more than 50 years.		
+GU012S027	1	12	02_Present perfect and past 1	ジェーンは休暇で不在です。 彼女は金曜日から不在です。	Jane is away on holiday. She's been away since Friday.		
+GU012S028	1	12	02_Present perfect and past 1	ジョーはどこにいるのだろうか。 先週以来彼に会っていません。	I wonder where Joe is. I haven't seen him since last week.		
+GU012S029	1	12	02_Present perfect and past 1	私はもう何年もパーティーに行っていません。	I haven't been to a party for ages.		
+GU012S030	1	12	02_Present perfect and past 1	私は長い間同じ仕事をしてきました。	I've been doing the same job for a long time.		
+GU012S031	1	12	02_Present perfect and past 1	彼らは結婚して10年になります。	They've been married for ten years.	They've been married ten years.	
+GU012S032	1	12	02_Present perfect and past 1	彼らには10年間休日がなかった。	They haven't had a holiday for ten years.		
+GU012S033	1	12	02_Present perfect and past 1	彼らには5年間休暇がありませんでした。	They haven't had a holiday for five years.	They haven't had a holiday in five years.	
+GU012S034	1	12	02_Present perfect and past 1	私は生まれてからずっとここに住んでいます。	I've lived here all my life.		
+GU012S035	1	12	02_Present perfect and past 1	私たちはこの家に20年以上住んでいます。	We've lived in this house for more than 20 years.		
+GU012S036	1	12	02_Present perfect and past 1	私たちはこの家に20年以上住んでいます。	We've lived in this house more than 20 years.		
+GU012S037	1	12	02_Present perfect and past 1	もう何年も雨が降っていません。	It hasn't rained for ages.		
+GU012S038	1	12	02_Present perfect and past 1	もう何年も雨が降っていません。	It hasn't rained in ages.		
+GU012S039	1	12	02_Present perfect and past 1	一日中頑張ってきました。	I've been working hard all day.		
+GU012S040	1	12	02_Present perfect and past 1	いつから雨が降り始めましたか？ 1時間前に雨が降り始めました。	When did it start raining?    It started raining an hour ago.		
+GU012S041	1	12	02_Present perfect and past 1	１時から雨が降り始めた。	It started raining at 1 o'clock.		
+GU012S042	1	12	02_Present perfect and past 1	どれくらい雨が降っていますか？ 1時間ほど雨が降っています。	How long has it been raining?    It's been raining for an hour.		
+GU012S043	1	12	02_Present perfect and past 1	1時から雨が降りました。	It's been raining since 1 o'clock.		
+GU012S044	1	12	02_Present perfect and past 1	ジョーとキャロルが初めて会ったのはいつですか? 彼らが初めて出会ったのはずっと昔のことだ。	When did Joe and Carol first meet?    They first met a long time ago.		
+GU012S045	1	12	02_Present perfect and past 1	彼らが初めて会ったのは学校にいたときでした。	They first met when they were at school.		
+GU012S046	1	12	02_Present perfect and past 1	彼らはどれくらい知り合ったんですか？ 彼らは長い間お互いを知っています。	How long have they known each other?    They've known each other for a long time.		
+GU012S047	1	12	02_Present perfect and past 1	彼らは学生時代からの知り合いです。	They've known each other since they were at school.		
+GU012S048	1	12	02_Present perfect and past 1	マークの調子が良くありません。 彼は日曜日から体調が悪くなり始めた。	Mark isn't well. He started feeling unwell on Sunday.		
+GU012S049	1	12	02_Present perfect and past 1	彼は日曜日から体調が悪くなっています。	He's been unwell since Sunday.		
+GU012S050	1	12	02_Present perfect and past 1	私の近所のボブとスーは2週間前に休暇に行きました。	"My neighbours, Bob and Sue, went on holiday two weeks ago."		
+GU012S051	1	12	02_Present perfect and past 1	ボブとスーは2週間休暇を取っています。	Bob and Sue have been on holiday for two weeks.		
+GU012S052	1	12	02_Present perfect and past 1	あなたは頭が痛い。 それはあなたが目覚めたときから始まりました。	You have a headache. It started when you woke up.		
+GU012S053	1	12	02_Present perfect and past 1	起きてから頭が痛かった。	I've had a headache since I woke up.		
+GU012S054	1	12	02_Present perfect and past 1	スーは仕事で会議中です。 9時からやってます。	Sue is in a meeting at work. It's been going on since 9 o'clock.		
+GU012S055	1	12	02_Present perfect and past 1	会議は9時に始まりました。	The meeting started at 9 o'clock.		
+GU012S056	1	12	02_Present perfect and past 1	あなたはホテルで働いています。 3週間前に始めたんですね。	You're working in a hotel. You started three weeks ago.		
+GU012S057	1	12	02_Present perfect and past 1	私は3週間ホテルで働いています。	I've been working in a hotel for three weeks.		
+GU012S058	1	12	02_Present perfect and past 1	サラは結婚しています。 彼女は結婚して1年になります。	Sarah is married. She's been married a year.		
+GU012S059	1	12	02_Present perfect and past 1	彼女は1年前に結婚しました。	She got married a year ago.		
+GU012S060	1	12	02_Present perfect and past 1	サイモンはあなたの友達です。 初めて会ったのは何年も前ですね。	Simon is a friend of yours. You first met years ago.		
+GU012S061	1	12	02_Present perfect and past 1	サイモンと私は何年も前からの知り合いです。	Simon and I have known each other for years.		
+GU012S062	1	12	02_Present perfect and past 1	ケイトは日本語を勉強しています。 彼女は9月からこれをやっています。	Kate is learning Japanese. She's been doing this since September.		
+GU012S063	1	12	02_Present perfect and past 1	彼女は9月から日本語を勉強し始めました。	She started learning Japanese in September.		
+GU012S064	1	12	02_Present perfect and past 1	彼らはいつ結婚しましたか? 10年前。	When did they get married?    Ten years ago.		
+GU012S065	1	12	02_Present perfect and past 1	この車はどのくらいの期間乗っていますか？ 5年。	How long have you had this car?    Five years.		
+GU012S066	1	12	02_Present perfect and past 1	どのくらい待ちましたか？ ほんの数分です。	How long have you been waiting?    Only a few minutes.		
+GU012S067	1	12	02_Present perfect and past 1	コースはいつ始まりましたか? 9月。	When did your course start?    September.		
+GU012S068	1	12	02_Present perfect and past 1	アンナはいつロンドンに到着しましたか。 先週。	When did Anna arrive in London?    Last week.		
+GU012S069	1	12	02_Present perfect and past 1	知り合ってどれくらいですか？ 長い間。	How long have you known each other?    A long time.		
+GU012S070	1	12	02_Present perfect and past 1	最後にジョーに会ってから2年になります。	It's two years since I last saw Joe.	It's been two years since I last saw Joe.	
+GU012S071	1	12	02_Present perfect and past 1	私たちが映画館に行ったのは何年もぶりです。	It's ages since we went to the cinema.	It's been ages since we went to the cinema.	
+GU012S072	1	12	02_Present perfect and past 1	ヒル夫人が亡くなってどれくらい経ちますか？	How long is it since Mrs Hill died?	How long has it been since Mrs Hill died?	
+GU012S073	1	12	02_Present perfect and past 1	彼女は今どんな顔をしているのだろうか。 最後に彼女に会ってから数年になります。	I wonder what she looks like now. It's a few years since I last saw her.		
+GU012S074	1	12	02_Present perfect and past 1	最近は乾燥した天気が続いていますね。 久しぶりに雨が降りました。	The weather has been dry recently. It's been a while since it rained.		
+GU012S075	1	12	02_Present perfect and past 1	私は以前ほどサッカーに興味がありません。 試合を観るのは何年ぶりだろう。	I'm not so interested in football as I used to be. It's years since I watched a game.		
+GU012S076	1	12	02_Present perfect and past 1	もうまた食べてるの？ 昼食を食べてからまだ1時間しか経っていない。	Are you eating again already? It's only an hour since you had lunch.		
+GU012S077	1	12	02_Present perfect and past 1	最近はあまり旅行しません。 どこへも行ってから何年も経ちました。	I don't travel much these days. It's been ages since I went anywhere.		
+GU012S078	1	12	02_Present perfect and past 1	コーヒーをやめようとしています。 最後に飲んでから2週間が経ちます。	I'm trying to give up coffee. It's two weeks since I last drank some.		
+GU012S079	1	12	02_Present perfect and past 1	長い間結婚式に出席していません。	I haven't been to a wedding for a long time.		
+GU012S080	1	12	02_Present perfect and past 1	久しぶりに結婚式に行ってきました。	It's a long time since I went to a wedding.		
+GU012S081	1	12	02_Present perfect and past 1	彼らには5年間休暇がありませんでした。	They haven't had a holiday for five years.		
+GU012S082	1	12	02_Present perfect and past 1	彼らが休暇を取るのは5年ぶりだ。	It has been five years since they had a holiday.		
+GU012S083	1	12	02_Present perfect and past 1	ローラとは一ヶ月以上話していません。	I haven't spoken to Laura for more than a month.		
+GU012S084	1	12	02_Present perfect and past 1	ローラと話してから1か月以上が経ちました。	It's more than a month since I spoke to Laura.		
+GU012S085	1	12	02_Present perfect and past 1	ジェームスは何年も自転車に乗っていません。 ジェームスが自転車に乗ってから何年も経ちます。	James hasn't ridden a bike for years. It's years since James rode a bike.		
+GU012S086	1	12	02_Present perfect and past 1	私たちはしばらくレストランで食事をしていません。	We haven't eaten in a restaurant for a while.		
+GU012S087	1	12	02_Present perfect and past 1	久しぶりにレストランで食事をしました。	It's a while since we ate in a restaurant.		
+GU012S088	1	12	02_Present perfect and past 1	最後に泳ぎに行ったのはいつですか?	When was the last time you went swimming?		
+GU012S089	1	12	02_Present perfect and past 1	泳ぎに行くのは何年ぶりですか？	How long has it been since you went swimming?		
+GU013S001	1	13	03_Present perfect and past 2	彼は鍵を紛失してしまいました。	He has lost his key.		
+GU013S002	1	13	03_Present perfect and past 2	今、トムは自分の鍵を見つけました。 彼は今それを手に持っています。	Now Tom has found his key. He has it in his hand now.		
+GU013S003	1	13	03_Present perfect and past 2	彼は鍵を紛失しましたか? いいえ、彼はそれを見つけました。	"Has he lost his key?    No, he has found it."		
+GU013S004	1	13	03_Present perfect and past 2	彼は鍵を紛失しましたか? はい、彼はしました。	"Did he lose his key?    Yes, he did."		
+GU013S005	1	13	03_Present perfect and past 2	彼は鍵を失くしましたが、今それを見つけました。	He lost his key but now he has found it.		
+GU013S006	1	13	03_Present perfect and past 2	彼らは去ってしまいました。 彼らは金曜日に戻ってきます。	They've gone away. They'll be back on Friday.		
+GU013S007	1	13	03_Present perfect and past 2	彼らはどこかへ行ってしまいましたが、今は家に戻っているようです。	"They went away, but I think they're back at home now."		
+GU013S008	1	13	03_Present perfect and past 2	もう雨は止んだので傘は必要ありません。	"It has stopped raining now, so we don't need the umbrella."		
+GU013S009	1	13	03_Present perfect and past 2	雨は一時止んでいましたが、また雨が降り始めました。	"It stopped raining for a while, but now it's raining again."		
+GU013S010	1	13	03_Present perfect and past 2	携帯電話を紛失してしまいました。 どこかで見たことがありますか？	I've lost my phone. Have you seen it anywhere?		
+GU013S011	1	13	03_Present perfect and past 2	スーは買い物に行きました。 彼女は4時頃に戻ってくるでしょう。	Sue has gone shopping. She'll be back around 4 o'clock.		
+GU013S012	1	13	03_Present perfect and past 2	木々がたくさん成長してきました。 彼らは今とても背が高くなりました。	The trees have grown a lot. They're very tall now.		
+GU013S013	1	13	03_Present perfect and past 2	彼の名前は忘れてしまいました。 ジョーですか、それともジャックですか？	I've forgotten his name. Is it Joe or Jack?		
+GU013S014	1	13	03_Present perfect and past 2	トムはツアーガイドの仕事に応募しました。 彼は旅行会社からの連絡を待っているところだ。	Tom has applied for a job as a tour guide. He's waiting to hear from the tour company.		
+GU013S015	1	13	03_Present perfect and past 2	サラが到着しました。 彼女は今ここにいます。	Sarah has arrived. She's here now.		
+GU013S016	1	13	03_Present perfect and past 2	警察は３人を逮捕した。 彼らは警察署にいます。	The police have arrested three people. They're at the police station.		
+GU013S017	1	13	03_Present perfect and past 2	ヘレンは足を怪我しました。 彼女はまともに歩くことができません。	Helen has hurt her foot. She can't walk properly.		
+GU013S018	1	13	03_Present perfect and past 2	私は学校でドイツ語を勉強しましたが、今ではほとんど忘れてしまいました。	"I studied German at school, but I have forgotten most of it now."		
+GU013S019	1	13	03_Present perfect and past 2	私たちが住んでいる街は大きく変わりました。 今は全く違います。	The town where we live has changed a lot. It's very different now.		
+GU013S020	1	13	03_Present perfect and past 2	窓を閉めたのですが、また開いてしまいました。	"I closed the window, but now it's open again."		
+GU013S021	1	13	03_Present perfect and past 2	私の自転車はどこですか？ 家の外にありましたが、今はありません。	"Where's my bike? It was outside the house, but it's not there now."		
+GU013S022	1	13	03_Present perfect and past 2	新聞はもらえますよ。 もう終わりました。	You can have the newspaper. I have finished with it.		
+GU013S023	1	13	03_Present perfect and past 2	私たちは車を洗ったのに、また汚れてしまった。	"We washed the car, but it's dirty again now."		
+GU013S024	1	13	03_Present perfect and past 2	洗濯機を修理しました。 今は正常に動作しています。	I've repaired the washing machine. It's working OK now.		
+GU013S025	1	13	03_Present perfect and past 2	サリーに赤ちゃんが生まれました！ それは素晴らしいことです。	Sally has had a baby!    That's great.		
+GU013S026	1	13	03_Present perfect and past 2	洗濯機を修理しました。 今は正常に動作しています。	I repaired the washing machine. It's working OK now.		
+GU013S027	1	13	03_Present perfect and past 2	モーツァルトは作曲家でした。 彼は600曲以上の音楽を書きました。	Mozart was a composer. He wrote more than 600 pieces of music.		
+GU013S028	1	13	03_Present perfect and past 2	私の母はイタリアで育ちました。	My mother grew up in Italy.		
+GU013S029	1	13	03_Present perfect and past 2	誰かが新しいタイプの洗濯機を発明しました。 テレビで見ました。	Somebody has invented a new type of washing machine. I saw it on TV.		
+GU013S030	1	13	03_Present perfect and past 2	電話を発明したのは誰ですか?	Who invented the telephone?		
+GU013S031	1	13	03_Present perfect and past 2	紙を発明したのは誰ですか?	Who invented paper?		
+GU013S032	1	13	03_Present perfect and past 2	私の英語は上達しました。 今はずっと良くなりました。	My English has improved. It's much better now.		
+GU013S033	1	13	03_Present perfect and past 2	その会社は古くから存在しています。 誰が始めたのか分かりません。	The company has existed for a long time. I don't know who started it.		
+GU013S034	1	13	03_Present perfect and past 2	タイタニック号は氷山に衝突して沈没した船でした。	The Titanic was a ship that sank after hitting an iceberg.		
+GU013S035	1	13	03_Present perfect and past 2	麻薬はどこでも大きな問題になっています。	Drugs have become a big problem everywhere.		
+GU013S036	1	13	03_Present perfect and past 2	前回のオリンピックの男子 100 メートルで優勝したのは誰ですか?	Who won the men's 100 metres at the last Olympic Games?		
+GU013S037	1	13	03_Present perfect and past 2	素早い！ 救急車を呼ばなければなりません。 事故が起きたんです。	Quick! We need to call an ambulance. There's been an accident.		
+GU013S038	1	13	03_Present perfect and past 2	アルバート・アインシュタインは相対性理論を開発した科学者です。	Albert Einstein was the scientist who developed the theory of relativity.		
+GU013S039	1	13	03_Present perfect and past 2	うわー！ 火傷してしまいました。	Ow! I've burnt myself.		
+GU013S040	1	13	03_Present perfect and past 2	うわー！ 火傷してしまいました。 どうやったの？ 温かいお料理をいただきました。	Ow! I've burnt myself.    How did you do that?    I picked up a hot dish.		
+GU013S041	1	13	03_Present perfect and past 2	ベンについて聞いたことがありますか？ 彼は腕を骨折しました。 彼はいますか？ どうしてこうなりました？ 彼ははしごから落ちた。	Have you heard about Ben? He's broken his arm.    Has he? How did that happen?    He fell off a ladder.		
+GU013S042	1	13	03_Present perfect and past 2	鍵を見つけました。 ああ、いいね。 どこで見つけましたか?	"I've found my keys.    Oh, good. Where did you find them?"		
+GU013S043	1	13	03_Present perfect and past 2	それらは私のバッグの底にありました。	They were at the bottom of my bag.		
+GU013S044	1	13	03_Present perfect and past 2	見て！ 誰かがソファーに何かをこぼしてしまいました。 それは私ではありませんでした。 私はしませんでした。 さて、それでは誰がやったのでしょうか？	"Look! Somebody has spilt something on the sofa.    It wasn't  me. I didn't do it.    Well, who did it then?"		
+GU013S045	1	13	03_Present perfect and past 2	新しい靴を買いました。 あなたはそれらを好きですか？ はい、彼らは素晴らしいです。 どこで購入しましたか? 市場で。 とても安かったです。	"I've bought some new shoes. Do you like them?    Yes, they're great. Where did you buy them?    At the market. They were very cheap."		
+GU014S001	1	14	03_Present perfect and past 2	昨日はとても寒かったです。	It was very cold yesterday.		
+GU014S002	1	14	03_Present perfect and past 2	ポールとルーシーは10分前に到着しました。	Paul and Lucy arrived ten minutes ago.		
+GU014S003	1	14	03_Present perfect and past 2	子供の頃、甘いものをたくさん食べましたか？	Did you eat a lot of sweets when you were a child?		
+GU014S004	1	14	03_Present perfect and past 2	昨夜遅くに帰宅しました。 私はとても疲れていて、すぐに寝てしまいました。	I got home late last night. I was very tired and went straight to bed.		
+GU014S005	1	14	03_Present perfect and past 2	あなたの友達はいつ到着しましたか？	When did your friends arrive?		
+GU014S006	1	14	03_Present perfect and past 2	何時に仕事を終えましたか？	What time did you finish work?		
+GU014S007	1	14	03_Present perfect and past 2	トムは鍵をなくしてしまいました。 彼は家に入ることができません。	Tom has lost his key. He can't get into the house.		
+GU014S008	1	14	03_Present perfect and past 2	トムは昨日鍵をなくしました。 彼は家に入ることができなかった。	Tom lost his key yesterday. He couldn't get into the house.		
+GU014S009	1	14	03_Present perfect and past 2	カーラはここにいますか、それとも去ってしまいましたか?	Is Carla here or has she left?		
+GU014S010	1	14	03_Present perfect and past 2	カルラは何時に出発しましたか?	What time did Carla leave?		
+GU014S011	1	14	03_Present perfect and past 2	ローラは学校を辞めました。 彼女は今大学に通っています。	Laura has left school. She's now at university.		
+GU014S012	1	14	03_Present perfect and past 2	新しい車を購入しました。 ぜひ見に来てください。	I've bought a new car. You must come and see it.		
+GU014S013	1	14	03_Present perfect and past 2	マイクを見たことがありますか？ 彼と話さなければなりません。	Have you seen Mike? I need to talk to him.		
+GU014S014	1	14	03_Present perfect and past 2	リサは運転試験に合格しました。 彼女は今、運転することを許可されています。	Lisa has passed her driving test. She's allowed to drive now.		
+GU014S015	1	14	03_Present perfect and past 2	トムは出かけました。 彼はすぐに戻ってきます。	Tom has gone out. He'll be back soon.		
+GU014S016	1	14	03_Present perfect and past 2	昨日の午後、サムから電話がありました。	Sam called me yesterday afternoon.		
+GU014S017	1	14	03_Present perfect and past 2	昨夜、面白い夢を見ました。	I had an interesting dream last night.		
+GU014S018	1	14	03_Present perfect and past 2	この橋はいつ建設されましたか?	When was this bridge built?		
+GU014S019	1	14	03_Present perfect and past 2	私が彼に会ったとき、マークは機嫌が悪かった。	Mark was in a bad mood when I saw him.		
+GU014S020	1	14	03_Present perfect and past 2	月曜日の夜、あなたはどこにいましたか？	Where were you on Monday evening?		
+GU014S021	1	14	03_Present perfect and past 2	会議は何時に終わりましたか?	What time did the meeting finish?		
+GU014S022	1	14	03_Present perfect and past 2	私は一週間前に新しい仕事を始めました。	I started my new job a week ago.		
+GU014S023	1	14	03_Present perfect and past 2	今日はたくさんの仕事をしました。	I've done a lot of work today.		
+GU014S024	1	14	03_Present perfect and past 2	昨日はたくさんの仕事をしました。	I did a lot of work yesterday.		
+GU014S025	1	14	03_Present perfect and past 2	今週は雨が降りませんでした。	It hasn't rained this week.		
+GU014S026	1	14	03_Present perfect and past 2	今朝アンナに会いましたか？	Have you seen Anna this morning?		
+GU014S027	1	14	03_Present perfect and past 2	最近ティムに会ったことがありますか？	Have you seen Tim recently?		
+GU014S028	1	14	03_Present perfect and past 2	2010年からここで働いています。	I've been working here since 2010.		
+GU014S029	1	14	03_Present perfect and past 2	先週は雨が降りませんでした。	It didn't rain last week.		
+GU014S030	1	14	03_Present perfect and past 2	今朝アンナに会いましたか？	Did you see Anna this morning?		
+GU014S031	1	14	03_Present perfect and past 2	日曜日にティムに会いましたか？	Did you see Tim on Sunday?		
+GU014S032	1	14	03_Present perfect and past 2	私たちは2010年から2012年までロンドンに住んでいました。	We lived in London from 2010 to 2012.		
+GU014S033	1	14	03_Present perfect and past 2	サラは今日果物を何も食べていません。	Sarah hasn't eaten any fruit today.		
+GU014S034	1	14	03_Present perfect and past 2	彼女は昨日何も料理しませんでした。	She didn't cook anything yesterday.		
+GU014S035	1	14	03_Present perfect and past 2	彼女は昨日ランニングに行きました。	She went for a run yesterday.		
+GU014S036	1	14	03_Present perfect and past 2	彼女はここ数日間、服を何も買っていません。	She hasn't bought any clothes in the last few days.		
+GU014S037	1	14	03_Present perfect and past 2	彼女は最近よく映画館に行っています。	She's been to the cinema a lot recently.		
+GU014S038	1	14	03_Present perfect and past 2	ピーターは家にいますか？ いいえ、彼は4時頃に出かけました。	"Is Peter at home?    No, he went out at about 4 o'clock."		
+GU014S039	1	14	03_Present perfect and past 2	ジェーンは休暇中ですか？ はい、彼女は月曜日から休暇中です。	"Is Jane on holiday?    Yes, she's been on holiday since Monday."		
+GU014S040	1	14	03_Present perfect and past 2	最近リサに会ったことがありますか？ はい、数日前に彼女に会いました。	"Have you seen Lisa recently?    Yes, I saw her a few days ago."		
+GU014S041	1	14	03_Present perfect and past 2	昨夜映画館に行きましたか？ はい、でも映画はひどかったです。	"Did you go to the cinema last night?    Yes, but the film was awful."		
+GU014S042	1	14	03_Present perfect and past 2	今日はまだあまり食べていません。 でも昨日はたくさん食べましたね。	I haven't eaten much so far today.    But you ate a lot yesterday.		
+GU014S043	1	14	03_Present perfect and past 2	週末は何をしましたか? 何か面白いことはありますか？ いいえ、私たちは家にいました。	"What did you do at the weekend? Anything interesting?    No, we stayed at home."		
+GU014S044	1	14	03_Present perfect and past 2	今週仕事に遅刻しましたか？ 遠くはありません。 しかし、先週一日遅刻してしまいました。	Have you been late for work this week?    Not so far. But I was late one day last week.		
+GU014S045	1	14	03_Present perfect and past 2	あなたはいつ泳ぎを習いましたか? 私が7歳くらいのとき。	When did you learn to swim?    When I was about seven years old.		
+GU014S046	1	14	03_Present perfect and past 2	昨夜はよく眠れましたか？ いいえ、最近よく眠れていません。	"Did you sleep well last night?    No, I haven't slept well recently."		
+GU014S047	1	14	03_Present perfect and past 2	ここに来てからとても暖かくなりました。 はい、昨日は35度でした。	"It's been very warm since we arrived here.    Yes, it was 35 degrees yesterday."		
+GU014S048	1	14	03_Present perfect and past 2	リサがどこにいるのか分かりません。 私は彼女を見たことがありません。	I don't know where Lisa is. I haven't seen her.		
+GU014S049	1	14	03_Present perfect and past 2	リサは日曜日のパーティーに出席しましたか? 私はそうは思わない。 彼女には会わなかった。	Was Lisa at the party on Sunday?    I don't think so. I didn't see her.		
+GU014S050	1	14	03_Present perfect and past 2	1時間も待っています。	We've been waiting for an hour.		
+GU014S051	1	14	03_Present perfect and past 2	1時間待ちました。	We waited for an hour.		
+GU014S052	1	14	03_Present perfect and past 2	ジャックはロサンゼルスに住んでいます。 彼はそこに7年間住んでいます。	Jack lives in Los Angeles. He has lived there for seven years.		
+GU014S053	1	14	03_Present perfect and past 2	ジャックはニューヨークに10年間住んでいました。 今、彼はロサンゼルスに住んでいます。	Jack lived in New York for ten years. Now he lives in Los Angeles.		
+GU014S054	1	14	03_Present perfect and past 2	私は馬に乗ったことがありません。	I've never ridden a horse.		
+GU014S055	1	14	03_Present perfect and past 2	私は子供の頃、一度も自転車に乗ったことがありませんでした。	I never rode a bike when I was a child.		
+GU014S056	1	14	03_Present perfect and past 2	本当に良い休日でした。 本当に楽しかったです。	It's been a really good holiday. I've really enjoyed it.		
+GU014S057	1	14	03_Present perfect and past 2	本当に良い休日でした。 すごく楽しかったです。	It was a really good holiday. I really enjoyed it.		
+GU014S058	1	14	03_Present perfect and past 2	マドリードに行ったことがありますか？ はい、去年そこに行きました。 大変有意義だった。	"Have you ever been to Madrid?    Yes, I went there last year. we had a great time."		
+GU014S059	1	14	03_Present perfect and past 2	あなたの最初の仕事は何でしたか？ 私は図書館で働いていました。	What was your first job?    I worked in a library.		
+GU014S060	1	14	03_Present perfect and past 2	どれくらいの期間それをしましたか？ 約1年。	How long did you do that?    About a year.		
+GU014S061	1	14	03_Present perfect and past 2	楽しかったですか？ いや、退屈だった。	"Did you enjoy it?    No, it was boring."		
+GU014S062	1	14	03_Present perfect and past 2	あなたは今何をしていますか？ 私は失業者です。 私はここ 6 か月間失業しています。	What do you do now?    I'm unemployed. I've been unemployed for the last six months.		
+GU014S063	1	14	03_Present perfect and past 2	どこに住んでいますか？ ボストンにて。	Where do you live?    In Boston.		
+GU014S064	1	14	03_Present perfect and past 2	そこにどのくらい住んでいますか？ 5年。	How long have you lived there?    Five years.		
+GU014S065	1	14	03_Present perfect and past 2	その前はどこに住んでいましたか？ シカゴ。	Where did you live before that?    Chicago.		
+GU014S066	1	14	03_Present perfect and past 2	どのくらいシカゴに住んでいましたか？ 私はそこに2年近くいました。	How long did you live in Chicago?    I was there nearly two years.		
+GU014S067	1	14	03_Present perfect and past 2	昨夜電話するつもりだったのですが、忘れてしまいました。 私はそのことについて申し訳ありません。	"I meant to call you last night, but I forgot. I'm sorry about that."		
+GU014S068	1	14	03_Present perfect and past 2	カレンの夫を知りません。 私は彼に会ったことがありません。	I don't know Karen's husband. I've never met him.		
+GU014S069	1	14	03_Present perfect and past 2	私の祖父は私が生まれる前に亡くなりました。 私は彼に会ったことがありません。	My grandfather died before I was born. I never met him.		
+GU014S070	1	14	03_Present perfect and past 2	メアリーはダブリンに住んでいます。 彼女は生まれてからずっとそこに住んでいます。	Mary lives in Dublin. She has lived there all her life.		
+GU014S071	1	14	03_Present perfect and past 2	昼休みが近いのに、午前中ずっとマーティンに会いませんでした。 彼はどこにいるのだろうか。	It's nearly lunchtime and I haven't seen Martin all morning. I wonder where he is.		
+GU014S072	1	14	03_Present perfect and past 2	バスの運転手たちは先週ストライキを行った。 バスがなかったので、歩いて通勤しなければなりませんでした。	"The bus drivers were on strike last week. There were no buses, so I had to walk to work."		
+GU014S073	1	14	03_Present perfect and past 2	エドワードは銀行で 15 年間働いていました。 それから彼はそれをあきらめました。 彼は今、庭師として働いています。	Edward worked in a bank for 15 years. Then he gave it up. He works as a gardener now.		
+GU014S074	1	14	03_Present perfect and past 2	今日もそのニュースを聞いていませんし、昨日もそのニュースを聞きませんでした。	"I haven't heard the news today, and I didn't hear the news yesterday either."		
+GU015S001	1	15	03_Present perfect and past 2	それで、サラがパーティーに到着したとき、ポールはそこにいませんでした。 彼は家に帰っていた。	"So, when Sarah arrived at the party, Paul wasn't there. He had gone home."		
+GU015S002	1	15	03_Present perfect and past 2	サラはパーティーに到着した。	Sarah arrived at the party.		
+GU015S003	1	15	03_Present perfect and past 2	サラがパーティーに到着したとき、ポールはすでに帰宅していました。 ポールはそこにいなかった。 彼は家に帰ってしまいました。	"When Sarah arrived at the party, Paul had already gone home. Paul wasn't there. He'd gone home."		
+GU015S004	1	15	03_Present perfect and past 2	ポールはまだパーティーにいた。 彼は家に帰っていませんでした。	Paul was still at the party. He hadn't gone home.		
+GU015S005	1	15	03_Present perfect and past 2	目が覚めたときは気分がよかったです。 よく眠れたでしょう。	I felt good when I woke up. I'd slept well.		
+GU015S006	1	15	03_Present perfect and past 2	携帯電話を持っていませんでした。 家に置いてきたのです。	I didn't have my phone with me. I'd left it at home.		
+GU015S007	1	15	03_Present perfect and past 2	私たちにはお金が残っていませんでした。 私たちはすべてを費やしてしまいました。	We had no money left. We'd spent it all.		
+GU015S008	1	15	03_Present perfect and past 2	サラはあまり上手に歩くことができませんでした。 彼女は膝を痛めていただろう。	Sarah wasn't able to walk very well. She'd hurt her knee.		
+GU015S009	1	15	03_Present perfect and past 2	ジョーは新しいジャケットを着ていました。 彼はそれを今まで着たことがありませんでした。	Joe was wearing his new jacket. He hadn't worn it before.		
+GU015S010	1	15	03_Present perfect and past 2	家には誰もいなかった。 彼らは皆出て行ってしまった。	There was nobody at home. They'd all gone out.		
+GU015S011	1	15	03_Present perfect and past 2	床に一枚の絵が横たわっていた。 それは壁から落ちていました。	There was a picture lying on the floor. It had fallen off the wall.		
+GU015S012	1	15	03_Present perfect and past 2	最近、何年も離れていた故郷に戻ってきました。 大きく変わっていました。	Recently I went back to my home town after many years away. It had changed a lot.		
+GU015S013	1	15	03_Present perfect and past 2	カレンは私たちと一緒に映画に行きたくなかった。 彼女はすでにその映画を観ていました。	Karen didn't want to go to the cinema with us. She'd already seen the movie.		
+GU015S014	1	15	03_Present perfect and past 2	飛行機で私の隣に座っていた人たちはとても緊張していました。 彼らは以前は飛んだことがなかったのです。	The people sitting next to me on the plane were very nervous. They hadn't flown before.		
+GU015S015	1	15	03_Present perfect and past 2	レイチェルをパーティーに招待しましたが、彼女は来られませんでした。 彼女は何か別のことをするつもりだった。	"I invited Rachel to the party, but she couldn't come. She'd arranged to do something else."		
+GU015S016	1	15	03_Present perfect and past 2	私は彼らに何か食べるものを勧めましたが、彼らはお腹が空いていませんでした。 彼らはちょうど昼食を食べたところだった。	"I offered them something to eat, but they weren't hungry. They'd just had lunch."		
+GU015S017	1	15	03_Present perfect and past 2	去年私たちはメキシコに行きました。 初めての訪問でした。 私たちはこれまでそこに行ったことがありませんでした。	Last year we went to Mexico. It was our first visit. We'd never been there before.		
+GU015S018	1	15	03_Present perfect and past 2	先週ダニエルとコーヒーを飲みました。 彼とは5年も会っていなかったので、久しぶりに会うことができて嬉しかったです。	"I had coffee with Daniel last week. I hadn't seen him for five years, so it was good to get together after such a long time."		
+GU015S019	1	15	03_Present perfect and past 2	最初は正しいことをしたと思っていましたが、すぐに大きな間違いを犯したことに気づきました。	"At first I thought I'd done the right thing, but I soon realised that I'd made a big mistake."		
+GU015S020	1	15	03_Present perfect and past 2	あの女性は誰ですか？ 以前に彼女に会ったことがありますが、どこでしたか思い出せません。	"Who is that woman? I've seen her before, but I can't remember where."		
+GU015S021	1	15	03_Present perfect and past 2	私たちはお腹が空いていません。 私たちはちょうど昼食を食べたところです。	We aren't hungry. We've just had lunch.		
+GU015S022	1	15	03_Present perfect and past 2	家が汚い。 彼らは何週間も掃除をしていません。	The house is dirty. They haven't cleaned it for weeks.		
+GU015S023	1	15	03_Present perfect and past 2	彼女が誰なのか分かりませんでした。 以前に彼女に会ったことがありましたが、どこでしたか思い出せませんでした。	"I wasn't sure who she was. I'd seen her before, but I couldn't remember where."		
+GU015S024	1	15	03_Present perfect and past 2	私たちはお腹が空いていませんでした。 私たちはちょうど昼食を食べたところだった。	We weren't hungry. We'd just had lunch.		
+GU015S025	1	15	03_Present perfect and past 2	家は汚れていました。 彼らは何週間も掃除をしていませんでした。	The house was dirty. They hadn't cleaned it for weeks.		
+GU015S026	1	15	03_Present perfect and past 2	天気が変わりました。 今はもっと寒いです。	The weather has changed. It's much colder now.		
+GU015S027	1	15	03_Present perfect and past 2	仕事のオファーをもらったときは驚きました。 本当に予想していませんでした。	I was surprised when I was offered the job. I really hadn't expected it.		
+GU015S028	1	15	03_Present perfect and past 2	何か食べるものはありますか？ お腹が空きました。 一日中何も食べていません。	Is there anything to eat? I'm hungry. I haven't eaten anything all day.		
+GU015S029	1	15	03_Present perfect and past 2	私は8時に建物を出ました。 私が最後に去った人でした - 他の人はすでに去っていました。	I left the building at 8 o'clock. I was the last person to leave - everybody else had already left.		
+GU015S030	1	15	03_Present perfect and past 2	この国に来るのは初めてです。 私はこれまでここに来たことがありません。	This is my first time in this country. I've never been here before.		
+GU015S031	1	15	03_Present perfect and past 2	今朝電車に乗り遅れました。 駅に着くと、ちょうど出発したところでした。	"I missed my train this morning. When I got to the station, it had just gone."		
+GU015S032	1	15	03_Present perfect and past 2	こんにちは、サムさん。 お会いできてうれしいです。 もう何年も会っていません。	"Hi, Sam. It's nice to see you. I haven?t seen you for ages."		
+GU015S033	1	15	03_Present perfect and past 2	マークは旅行が大好きです。 私が初めて彼に会ったとき、彼はすでに世界中を旅していました。	"Mark loves travelling. When I first met him, he'd already travelled round the world."		
+GU015S034	1	15	03_Present perfect and past 2	あなたが到着したとき、トムはここにいましたか? はい、でも彼はその後すぐに出て行きました。	"Was Tom here when you arrived?    Yes, but he left soon afterwards."		
+GU015S035	1	15	03_Present perfect and past 2	あなたが到着したとき、トムはここにいましたか? いいえ、彼はすでに出発していました。	"Was Tom here when you arrived?    No, he had already left."		
+GU015S036	1	15	03_Present perfect and past 2	私が電話したとき、ケイトは家にいませんでした。 彼女は母親の家にいました。	Kate wasn't at home when I phoned. She was at her mother's house.		
+GU015S037	1	15	03_Present perfect and past 2	私が電話したとき、ケイトはちょうど帰宅したところでした。 彼女は母親の家にいました。	Kate had just got home when I phoned. She'd been at her mother's house.		
+GU015S038	1	15	03_Present perfect and past 2	私たちがそこに着いたとき、ポールはパーティーにいませんでした。 彼は家に帰ってしまいました。	Paul wasn't at the party when we got there. He'd gone home.		
+GU015S039	1	15	03_Present perfect and past 2	家に帰るととても疲れていたので、すぐに寝てしまいました。	"I felt very tired when I got home, so I went straight to bed."		
+GU015S040	1	15	03_Present perfect and past 2	私が家に帰ると家はとても静かでした。 みんな寝てしまった。	The house was very quiet when I got home. Everybody had gone to bed.		
+GU015S041	1	15	03_Present perfect and past 2	私たちは映画館に行くのが遅れました。 映画はすでに始まっていました。	We were late getting to the cinema. The film had already started.		
+GU015S042	1	15	03_Present perfect and past 2	すいません遅れました。 ここに来る途中で車が故障した。	Sorry I'm late. The car broke down on my way here.		
+GU015S043	1	15	03_Present perfect and past 2	私たちは道路を車で走っていましたが、故障した車を見つけたので、助けようと車を止めました。	"We were driving along the road, when we saw a car which had broken down, so we stopped to help."		
+GU015S044	1	15	03_Present perfect and past 2	私は数日前にジェームスに会った。 彼は休暇で出かけていて、とても元気そうだった。	I met James a few days ago. He'd been away on holiday and looked very well.		
+GU015S045	1	15	03_Present perfect and past 2	私たちは先週の月曜日に職場に到着したところ、夜中に誰かがオフィスに侵入したのを発見しました。 そこで私たちは警察に電話しました。	We arrived at work last Monday and found that somebody had broken into the office during the night. So we called the police.		
+GU015S046	1	15	03_Present perfect and past 2	誰かが美しい歌を歌っているのが聞こえました。 それが何なのか分かりませんでした。 今まで聞いたことがありませんでした。	I heard somebody singing a beautiful song. I didn't know what it was. I'd never heard it before.		
+GU016S001	1	16	03_Present perfect and past 2	雨が降っていた。	It had been raining.		
+GU016S002	1	16	03_Present perfect and past 2	自転車を修理していたので手が汚れていました。	My hands were dirty because I'd been repairing my bike.		
+GU016S003	1	16	03_Present perfect and past 2	トムは家に帰ったときとても疲れていました。 彼は一日中一生懸命働いていました。	Tom was very tired when he got home. He'd been working hard all day.		
+GU016S004	1	16	03_Present perfect and past 2	数年前にマドリッドに行ったとき、友人の家に泊まりました。 彼女はそこに住んでそれほど長くはありませんでしたが、この街のことをよく知っていました。	"When I went to Madrid a few years ago, I stayed with a friend of mine. She hadn't been living there very long, but she knew the city very well."		
+GU016S005	1	16	03_Present perfect and past 2	私たちは30分ほどテニスをしていましたが、そのとき激しい雨が降り始めました。	We'd been playing tennis for about half an hour when it started to rain heavily.		
+GU016S006	1	16	03_Present perfect and past 2	私たちは良い友達でした。 私たちは何年も前からお互いを知っていました。	We were good friends. We'd known each other for years.		
+GU016S007	1	16	03_Present perfect and past 2	私が家に帰ると、リサはテレビの前に座っていました。 彼女はちょうどそれをオフにしたところだった。 彼女は映画を見ていました。	"When I got home, Lisa was sitting in front of the TV. She had just turned it off. She'd been watching a film."		
+GU016S008	1	16	03_Present perfect and past 2	休暇をキャンセルしなければならなかったときはがっかりしました。 楽しみにしてたんです。	I was disappointed when I had to cancel my holiday. I'd been looking forward to it.		
+GU016S009	1	16	03_Present perfect and past 2	バス停にいる人々は焦っていた。 バスはとても遅れました。 彼らは長い間待っていました。	The people at the bus stop were getting impatient. The bus was very late. They'd been waiting a long time.		
+GU016S010	1	16	03_Present perfect and past 2	先週医者に行きました。 しばらく体調が優れませんでした。	I went to the doctor last week. I hadn't been feeling well for some time.		
+GU016S011	1	16	03_Present perfect and past 2	私は帰宅途中のレイチェルに会いました。 彼女は買ったものでいっぱいのバッグを運んでいました。 彼女は買い物をしていました。	I met Rachel who was on her way home. She was carrying bags full of things she'd bought. She'd been shopping.		
+GU016S012	1	16	03_Present perfect and past 2	昨年地元のカフェが閉店したときは悲しかったです。 私は何年もそこに行っていました。	I was sad when my local cafe closed last year. I'd been going there for years.		
+GU016S013	1	16	03_Present perfect and past 2	アンは真夜中に目が覚めました。 彼女は怖がって、自分がどこにいるのか分かりませんでした。 彼女は夢を見ていたのです。	Ann woke up in the middle of the night. She was frightened and didn't know where she was. She'd been dreaming.		
+GU016S014	1	16	03_Present perfect and past 2	ニッキーとアンディは昨年初めて会った。 その後すぐに、彼らは結婚した。 彼らは知り合ってまだ2ヶ月しか経っていなかった。	"Nicky and Andy first met last year. Soon afterwards, they got married. They'd known each other for only two months."		
+GU016S015	1	16	03_Present perfect and past 2	バスが早く来るといいですね。 20分も待ってるんです。	I hope the bus comes soon. I've been waiting for 20 minutes.		
+GU016S016	1	16	03_Present perfect and past 2	ついにバスが来た。 20分も待ってたんです。	At last the bus came. I'd been waiting for 20 minutes.		
+GU016S017	1	16	03_Present perfect and past 2	ついにバスが来た。 20分も待ってたんです。	At last the bus came. I'd been waiting for 20 minutes.		
+GU016S018	1	16	03_Present perfect and past 2	私たちが出かけるときは雨は降っていませんでした。 太陽が輝いていました。 しかし、雨が降っていたので地面は濡れていました。	"It wasn't raining when we went out. The sun was shining. But it had been raining, so the ground was wet."		
+GU016S019	1	16	03_Present perfect and past 2	キャサリンは肘掛け椅子に座って休んでいました。 彼女は一生懸命働いたので疲れていました。	Katherine was sitting in an armchair resting. She was tired because she'd been working hard.		
+GU016S020	1	16	03_Present perfect and past 2	私たちは中心部近くのアパートに住んでいます。 私たちはそこに2年住んでいます。	We live in a flat near the centre. We've been living there for two years.		
+GU016S021	1	16	03_Present perfect and past 2	数か月前に職を失いましたが、驚きませんでした。 期待していたんです。	"I lost my job a few months ago, but I wasn't surprised. I'd been expecting it."		
+GU016S022	1	16	03_Present perfect and past 2	昨年、私が勤めていた会社が倒産しました。 しばらくの間、赤字が続いていました。	Last year the company I worked for went out of business. It had been losing money for some time.		
+GU016S023	1	16	03_Present perfect and past 2	あなたの英語は上手です。 どのくらいの期間それを習っていますか？	Your English is good. How long have you been learning it?		
+GU016S024	1	16	03_Present perfect and past 2	試験を受けたとき、どれくらい英語を勉強していましたか?	How long had you been  learning English when you did the exam?		
+GU016S025	1	16	03_Present perfect and past 2	来週マラソンを走る予定です。 そのために毎日トレーニングしてきました。	I'm running a marathon next week. I've been training for it every day.		
+GU016S026	1	16	03_Present perfect and past 2	昨日の夜、隣がとても騒がしかったです。 私たちの近所の人たちがパーティーを開いていました。	It was very noisy next door last night. Our neighbours were having a party.		
+GU016S027	1	16	03_Present perfect and past 2	旅の終わりには私たちはとても疲れていました。 私たちは24時間以上旅をしていました。	We were extremely tired at the end of the journey. We'd been travelling for more than 24 hours.		
+GU016S028	1	16	03_Present perfect and past 2	私は少し遅れたので、ケイトが私を待っていました。 彼女は長い間待っていたのでイライラしていました。	I was a little late and Kate was waiting for me. She was annoyed because she'd been waiting a long time.		
+GU016S029	1	16	03_Present perfect and past 2	ジェームズは床に四つん這いでした。 彼はコンタクトレンズを探していました。	James was on his hands and knees on the floor. He was looking for his contact lens.		
+GU016S030	1	16	03_Present perfect and past 2	昨日は長い散歩に行きました。 1時間ほど歩いていると雨が降り始めた。	I went for a long walk yesterday. I'd been walking for about an hour when it started to rain.		
+GU016S031	1	16	03_Present perfect and past 2	私たちが到着したとき、みんなは食事をしていました。 彼らはテーブルの周りに座って、口をいっぱいにしていました。	"When we arrived, everybody was eating . They were sitting round the table with their mouths full."		
+GU016S032	1	16	03_Present perfect and past 2	私たちが到着したとき、みんながテーブルの周りに座って話をしていました。 彼らの口は空っぽでしたが、お腹はいっぱいでした。 彼らは食事をしていました。	"When we arrived, everybody was sitting round the table and talking. Their mouths were empty but their stomachs were full. They'd been eating."		
+GU016S033	1	16	03_Present perfect and past 2	ジョーは私より先に会社に入社しました。 私が数年前に働き始めたとき、彼はすでにそこで働いていました。	"Joe joined the company before me. When I started a few years ago, he was already working there."		
+GU016S034	1	16	03_Present perfect and past 2	ジョーは私より先に会社に入社しました。 私が数年前に働き始めたとき、彼はそこで2年間働いていました。	"Joe joined the company before me. When I started a few years ago, he'd been working there for two years."		
+GU016S035	1	16	03_Present perfect and past 2	ジョーはまだ会社で働いています。 彼はもう長い間そこで働いています。	Joe still works for the company. He's been working there for a long time now.		
+GU017S001	1	17	03_Present perfect and past 2	私たちは新しい車を持っています。	We have a new car.	We've got a new car.	
+GU017S002	1	17	03_Present perfect and past 2	彼女には二人の兄弟がいます。	She has two brothers.	She's got two brothers.	
+GU017S003	1	17	03_Present perfect and past 2	頭痛がします。	I have a headache.	I've got a headache.	
+GU017S004	1	17	03_Present perfect and past 2	私たちの家には小さな庭があります。	Our house has a small garden.	Our house has got a small garden.	
+GU017S005	1	17	03_Present perfect and past 2	彼にはいくつか問題がある。	He has a few problems.	He's got a few problems.	
+GU017S006	1	17	03_Present perfect and past 2	私たちは休暇を楽しんでいます。 私たちはホテルに素敵な部屋を持っています。	We're enjoying our holiday. We have a nice room in the hotel.		
+GU017S007	1	17	03_Present perfect and past 2	リサは子供の頃、髪が長かったです。	Lisa had long hair when she was a child.		
+GU017S008	1	17	03_Present perfect and past 2	明日の朝は暇です。 運転教習を受けてきました。	I'm not free tomorrow morning. I've got a driving lesson.		
+GU017S009	1	17	03_Present perfect and past 2	レイチェルは一人っ子です。 彼女には兄弟も姉妹もいません。	Rachel is an only child. She's got no brothers or sisters.		
+GU017S010	1	17	03_Present perfect and past 2	時間はたっぷりあります。 急ぐ必要はありません。	We've got plenty of time. There's no need to hurry.		
+GU017S011	1	17	03_Present perfect and past 2	本当に良い声をしていますね。 私もあなたと同じように上手に歌えたらいいのにと思います。	You've got a really good voice. I wish I could sing as well as you.		
+GU017S012	1	17	03_Present perfect and past 2	今朝はあまり気分が良くありません。 のどが痛いです。	I don't feel very well this morning. I've got a sore throat.		
+GU017S013	1	17	03_Present perfect and past 2	ローラは大学で学びました。 彼女は物理学の学位を持っています。	Laura studied at university. She's got a degree in physics.		
+GU017S014	1	17	03_Present perfect and past 2	質問があります。 お聞きしたいことがあります。	I've got a question. There's something I'd like to ask you.		
+GU017S015	1	17	03_Present perfect and past 2	ジェームスはたくさんの経験を持っています。 彼はその仕事に就くべきだと思います。	James has got a lot of experience. I think he should get the job.		
+GU017S016	1	17	03_Present perfect and past 2	何か質問がありますか？	Do you have any questions?	Have you got any questions?	
+GU017S017	1	17	03_Present perfect and past 2	彼女は車を持っていますか？	Does she have a car?	Has she got a car?	
+GU017S018	1	17	03_Present perfect and past 2	質問はありません。	I don't have any questions.	I haven't got any questions.	
+GU017S019	1	17	03_Present perfect and past 2	彼女は車を持っていません。	She doesn't have a car.	She hasn't got a car.	
+GU017S020	1	17	03_Present perfect and past 2	パリに住んでいたとき、車を持っていましたか？	Did you have a car when you were living in Paris?		
+GU017S021	1	17	03_Present perfect and past 2	携帯電話を持っていなかったので、あなたに電話をかけることができませんでした。	"I didn't have my phone, so I couldn't call you."		
+GU017S022	1	17	03_Present perfect and past 2	リサは髪が長かったですね。	"Lisa had long hair, didn't she?"		
+GU017S023	1	17	03_Present perfect and past 2	屋上に上がれません。 はしごがありません。	I can't get onto the roof. I don't have a ladder.		
+GU017S024	1	17	03_Present perfect and past 2	彼は家に入ることができません。 彼は鍵を持っていません。	He can't get into the house. He hasn't got a key.		
+GU017S025	1	17	03_Present perfect and past 2	昨日はとても忙しかったです。 買い物をする時間がありませんでした。	I was very busy yesterday. I didn't have time to do the shopping.		
+GU017S026	1	17	03_Present perfect and past 2	電話はありますか？ いいえ、持ってくるのを忘れました。	"Have you got your phone?    No, I forgot to bring it."		
+GU017S027	1	17	03_Present perfect and past 2	ジャックは仕事をしていますか？ はい、彼は病院で働いています。	"Does Jack have a job?    Yes, he works at the hospital."		
+GU017S028	1	17	03_Present perfect and past 2	前職で働いていたときは、自分のオフィスを持っていましたか?	"When you worked in your last job, did you have your own office?"		
+GU017S029	1	17	03_Present perfect and past 2	ジャックは車を持っていません。 彼は運転できません。	Jack doesn't have a car. He can't drive.		
+GU017S030	1	17	03_Present perfect and past 2	私たちは雨に濡れました。 私たちは傘を持っていませんでした。	We got wet in the rain. We didn't have an umbrella.		
+GU017S031	1	17	03_Present perfect and past 2	鍵はどこですか？ わからない。 分かりません。	Where's the key?    I don't know. I haven't got it.		
+GU017S032	1	17	03_Present perfect and past 2	トムはバイクを持っていましたね。 はい、そうです。	"Tom had a motorbike, didn't he?    Yes, that's right."		
+GU017S033	1	17	03_Present perfect and past 2	ランチにサンドイッチを食べることもあります。	Sometimes I have a sandwich for my lunch.		
+GU017S034	1	17	03_Present perfect and past 2	サンドイッチをいくつか持っています。 おひとついかが？	I've got some sandwiches. Would you like one?		
+GU017S035	1	17	03_Present perfect and past 2	私たちは休暇を楽しんでいます。 我々は素晴らしい時間を過ごしています。	We're enjoying our holiday. We're having a great time.		
+GU017S036	1	17	03_Present perfect and past 2	マークはどこですか？ 彼はシャワーを浴びています。	Where's Mark?    He's having a shower.		
+GU017S037	1	17	03_Present perfect and past 2	私は毎日シャワーを浴びません。	I don't have a shower every day.		
+GU017S038	1	17	03_Present perfect and past 2	クリスはいつもどこで昼食をとりますか?	Where does Chris usually have lunch?		
+GU017S039	1	17	03_Present perfect and past 2	泊まる場所を見つけるのに問題はありましたか?	Did you have a problem finding somewhere to stay?		
+GU017S040	1	17	03_Present perfect and past 2	私の自転車に何か問題があります。 見てもらえますか？	There's something wrong with my bike. Can you have a look at it?		
+GU017S041	1	17	03_Present perfect and past 2	スザンヌは数週間前に赤ちゃんを産んだ。 彼女の第二子です。	Suzanne had a baby a few weeks ago. It's her second child.		
+GU017S042	1	17	03_Present perfect and past 2	彼に連絡するのに苦労しました。 彼は電話を持っていません。	I had trouble contacting him. He doesn't have a phone.		
+GU017S043	1	17	03_Present perfect and past 2	旅どうだった？ 良いフライトはできましたか？	How was your trip? Did you have a good flight?		
+GU017S044	1	17	03_Present perfect and past 2	日中はあまり食べません。 私は昼食を決して食べません。	I don't eat much during the day. I never have lunch.		
+GU017S045	1	17	03_Present perfect and past 2	昨日スーパーで何人かの友達に会いました。 私たちは立ち止まって話をしました。	I met some friends in the supermarket yesterday. We stopped and had a chat.		
+GU017S046	1	17	03_Present perfect and past 2	すみません、ペンを貸していただけますか？	"Excuse me, do you have a pen I could borrow?"		
+GU017S047	1	17	03_Present perfect and past 2	楽しんでいただけていますか？ あなたが楽しんでいる？	Are you enjoying yourself? Are you having fun?		
+GU017S048	1	17	03_Present perfect and past 2	今日はあまり気分が良くありません。 風邪をひいた。	I'm not feeling so good today. I've got a cold.		
+GU017S049	1	17	03_Present perfect and past 2	最後にスティーブに会ったとき、彼はひげを生やしていました。	"The last time I saw Steve, he had a beard."		
+GU017S050	1	17	03_Present perfect and past 2	午前8時、ウィルはキッチンにいます。 彼は朝食を食べています。	It's 8 a.m. and Will is in the kitchen. He's having breakfast.		
+GU017S051	1	17	03_Present perfect and past 2	あなたは朝ごはんに何を食べますか？	What do you usually have for breakfast?		
+GU017S052	1	17	03_Present perfect and past 2	私が朝食を食べているときにドアベルが鳴りました。	The doorbell rang when I was having breakfast.		
+GU017S053	1	17	03_Present perfect and past 2	今は仕事をしていません。 休憩中です。	I'm not working right now. I'm having a break.		
+GU017S054	1	17	03_Present perfect and past 2	急ぐ必要はありません。 時間はたっぷりあります。	We don't need to hurry. We have plenty of time.		
+GU017S055	1	17	03_Present perfect and past 2	デビッドは 8 時に仕事を始め、10 時半に休憩します。	David starts work at 8 o'clock and has a break at 10.30.		
+GU017S056	1	17	03_Present perfect and past 2	私たちは先週パーティーを開きました。 たくさんの方をお招きしました。	We had a party last week. We invited lots of people.		
+GU017S057	1	17	03_Present perfect and past 2	シャワーを浴びていたところ、突然電気が消えました。	I was having a shower when suddenly the light went out.		
+GU017S058	1	17	03_Present perfect and past 2	どのくらいの頻度でシャワーを浴びますか？ 毎日？	How often do you have a shower? Every day?		
+GU017S059	1	17	03_Present perfect and past 2	お休みはどうだった？ 良い時間をお過ごしできましたか？	How was your holiday? Did you have a nice time?		
+GU017S060	1	17	03_Present perfect and past 2	私には休日は必要です。 私は長い間持っていませんでした。	I need a holiday. I haven't had one for a long time.		
+GU018S001	1	18	03_Present perfect and past 2	しかし、彼女はよく旅行に行っていました。	But she used to travel a lot.		
+GU018S002	1	18	03_Present perfect and past 2	彼女は年に2、3回は家を出ていました。	She used to go away two or three times a year.		
+GU018S003	1	18	03_Present perfect and past 2	マークはコーヒーを飲みません。 彼は数年前にそれを飲むのをやめました。 彼はよくコーヒーを飲んでいました。	Mark doesn't drink coffee. He stopped drinking it a few years ago. He used to drink a lot of coffee.		
+GU018S004	1	18	03_Present perfect and past 2	リサは今本屋で働いています。 彼女は元々ホテルの受付係をしていました。	Lisa works in a bookshop now. She used to be a receptionist in a hotel.		
+GU018S005	1	18	03_Present perfect and past 2	うちでは犬を飼っていましたが、２年前に死んでしまいました。 うちには今ペットがいません。	"We used to have a dog, but it died two years ago. We don't have any pets now."		
+GU018S006	1	18	03_Present perfect and past 2	カレンは以前はピアノを弾いていましたが、もう弾いていません。 彼女は何年もピアノを弾いていません。	"Karen used to play the piano, but she doesn't play any more. She hasn't played the piano for years."		
+GU018S007	1	18	03_Present perfect and past 2	私たちは以前はよくテニスをしていましたが、今はあまりテニスをしません。	"We used to play tennis a lot, but we don't play very much now."		
+GU018S008	1	18	03_Present perfect and past 2	以前は健康でしたが、もう健康ではありません。	"I used to be fit, but I'm not any more."		
+GU018S009	1	18	03_Present perfect and past 2	この建物は現在家具店になっています。 昔は映画館だったそうです。	This building is now a furniture shop. It used to be a cinema.		
+GU018S010	1	18	03_Present perfect and past 2	デビッドは洋服にたくさんのお金を費やしていました。 最近彼にはそれを買う余裕がない。	David used to spend a lot of money on clothes. These days he can't afford it.		
+GU018S011	1	18	03_Present perfect and past 2	あなたはよく映画館に行きますか？ 今はありませんが、以前はそうでした。	"Do you go to the cinema much?    Not now, but I used to."		
+GU018S012	1	18	03_Present perfect and past 2	私たちは以前は小さな村に住んでいましたが、今はロンドンに住んでいます。	"We used to live in a small village, but now we live in London."		
+GU018S013	1	18	03_Present perfect and past 2	かつてこの町には映画館が 4 軒ありました。 今では一つしかありません。	There used to be four cinemas in the town. Now there is only one.		
+GU018S014	1	18	03_Present perfect and past 2	私は工場で働いていました。 それは私の好きな仕事ではありませんでした。	I used to work in a factory. It wasn't my favourite job.		
+GU018S015	1	18	03_Present perfect and past 2	私はほとんど毎日肉を食べていました。 私は今、ベジタリアンです。	I used to eat meat most days. I'm a vegetarian now.		
+GU018S016	1	18	03_Present perfect and past 2	私はバイクを持っていました。 去年売りました。	I used to have a motorbike. I sold it last year.		
+GU018S017	1	18	03_Present perfect and past 2	私は昔は怠け者でした。 最近、私は一生懸命働いています。	I used to be lazy. These days I work hard.		
+GU018S018	1	18	03_Present perfect and past 2	私は大都市が好きでした。 最近は田舎の方が好きです。	I used to like big cities. These days I prefer the countryside.		
+GU018S019	1	18	03_Present perfect and past 2	私はテニスをしていました。 最近は何もスポーツをしていません。	I used to play tennis. I don't do any sport these days.		
+GU018S020	1	18	03_Present perfect and past 2	私はメガネをかけていました。 私は今コンタクトレンズを持っています。	I used to wear glasses. I have contact lenses now.		
+GU018S021	1	18	03_Present perfect and past 2	マットは無愛想だと思っていました。 今では彼がとてもいい人だということが分かりました。	I used to think Matt was unfriendly. Now I realise he's a very nice person.		
+GU018S022	1	18	03_Present perfect and past 2	私たちはよくテレビを見ていました。 今ではもうテレビはありません。	We used to watch TV a lot. Now we don't have a TV any more.		
+GU018S023	1	18	03_Present perfect and past 2	私は毎日泳ぎに行っていました。 最近はあまり泳ぎません。	I used to go swimming every day. I don't swim as often these days.		
+GU018S024	1	18	03_Present perfect and past 2	ポールはかつて私の近くに住んでいました。 彼が今どこに住んでいるのか知りません。	Paul used to live near me. I don't know where he lives now.		
+GU018S025	1	18	03_Present perfect and past 2	リサはかつてとても長い髪をしていました。 彼女は数年前にそれを切ってもらいました。	Lisa used to have very long hair. She had it cut a couple of years ago.		
+GU018S026	1	18	03_Present perfect and past 2	空港の近くにホテルがありました。 少し前に閉店しました。	There used to be a hotel near the airport. It closed some time ago.		
+GU018S027	1	18	03_Present perfect and past 2	ベンは車で通勤していました。 最近彼は電車で行きます。	Ben used to drive to work. These days he goes by train.		
+GU018S028	1	18	03_Present perfect and past 2	昔は10キロも走れたんだよ。 今はそこまで走れません。	I used to be able to run ten kilometres. I can't run that far now.		
+GU018S029	1	18	03_Present perfect and past 2	私たちの車は毎週故障していました。 あまり信頼できるものではありませんでした。	Our car used to break down every week. It wasn't very reliable.		
+GU018S030	1	18	03_Present perfect and past 2	子供の頃、甘いものをよく食べていましたか?	Did you use to eat a lot of sweets when you were a child?		
+GU018S031	1	18	03_Present perfect and past 2	私は以前は彼のことが好きではありませんでした。	I didn't use to like him.		
+GU018S032	1	18	03_Present perfect and past 2	私は彼のことが好きではありませんでした。	I used not to like him.		
+GU018S033	1	18	03_Present perfect and past 2	最近は食べることが増えています。 以前よりも。 昔はそんなに食べなかったのに。	I eat more these days. More than before. I didn't use to eat so much.		
+GU018S034	1	18	03_Present perfect and past 2	最近は以前よりも外出することが多くなりました。 あまり外に出ることはなかったのですが。	These days I go out a lot more than before. I didn't use to go out so much.		
+GU018S035	1	18	03_Present perfect and past 2	私は最近お茶をよく飲みます。 昔はそんなにお茶を飲みませんでした。	I drink a lot of tea these days. I didn't use to drink so much tea.		
+GU018S036	1	18	03_Present perfect and past 2	前の仕事では、1 日に何時間働いていましたか?	"In your last job, how many hours a day did you use to work?"		
+GU018S037	1	18	03_Present perfect and past 2	子供の頃、よく遊んだゲームは何ですか?	"When you were a child, what games did you use to play?"		
+GU018S038	1	18	03_Present perfect and past 2	ニューヨークに住んでいた頃、よく脅迫所に行っていましたか？	"When you lived in New York, did you use to go to the threatre a lot?"		
+GU018S039	1	18	03_Present perfect and past 2	彼はシンガポールに住んでいます。	He lives in Singapore.		
+GU018S040	1	18	03_Present perfect and past 2	彼は以前シンガポールに住んでいました。	He used to live in Singapore.		
+GU018S041	1	18	03_Present perfect and past 2	彼はシンガポールに住んでいたわけではありません。	He didn't use to live in Singapore.		
+GU018S042	1	18	03_Present perfect and past 2	彼女はギターを弾きます。	She plays the guitar.		
+GU018S043	1	18	03_Present perfect and past 2	彼女はギターを弾きません。	She doesn't play the guitar.		
+GU018S044	1	18	03_Present perfect and past 2	彼女はギターを弾いていました。	She used to play the guitar.		
+GU018S045	1	18	03_Present perfect and past 2	彼は魚を食べません。	He doesn't eat fish.		
+GU018S046	1	18	03_Present perfect and past 2	彼は魚を食べるのが習慣ではなかった。	He didn't use to eat fish.		
+GU018S047	1	18	03_Present perfect and past 2	彼はよく魚を食べていました。	He used to eat fish.		
+GU018S048	1	18	03_Present perfect and past 2	彼女はたくさん写真を撮ります。	She takes a lot of pictures.		
+GU018S049	1	18	03_Present perfect and past 2	彼女はあまり写真を撮りませんでした。	She didn't use to take many pictures.		
+GU018S050	1	18	03_Present perfect and past 2	彼女はよく写真を撮っていました。	She used to take a lot of pictures.		
+GU018S051	1	18	03_Present perfect and past 2	彼は車を持っている。	He has a car.		
+GU018S052	1	18	03_Present perfect and past 2	彼はかつてバイクを持っていました。	He used to have a motorbike.		
+GU018S053	1	18	03_Present perfect and past 2	彼は車を持っていません。	He doesn't have a car.		
+GU018S054	1	18	03_Present perfect and past 2	彼女は猫を飼っている。	She has a cat.		
+GU018S055	1	18	03_Present perfect and past 2	彼女は以前猫を飼っていました。	She used to have a cat.		
+GU018S056	1	18	03_Present perfect and past 2	彼女は以前犬を飼っていました。	She used to have a dog.		
+GU018S057	1	18	03_Present perfect and past 2	私はよくテレビを見ていました。	I used to watch TV a lot.		
+GU018S058	1	18	03_Present perfect and past 2	昔はよくテレビを見ていましたが、もう見ません。	"I watched TV often in the past, but I don't do this any more."		
+GU018S059	1	18	03_Present perfect and past 2	ロブから電話があったとき、私はテレビを見ていました。	I was watching TV when Rob called.		
+GU018S060	1	18	03_Present perfect and past 2	私はテレビを見ている途中でした。	I was in the middle of watching TV.		
+GU018S061	1	18	03_Present perfect and past 2	以前はよく車を運転していましたが、最近はあまり車を使いません。	"I used to drive a lot, but I don't use my car so often these days."		
+GU018S062	1	18	03_Present perfect and past 2	私はタクシーの運転手に速度を落とすように頼んだ。 彼女は車の運転が速すぎました。	I asked the taxi driver to slow down. She was driving too fast.		
+GU018S063	1	18	03_Present perfect and past 2	私たちはもう何年も映画館に行っていません。 私たちはよく行っていました。	We haven't been to the cinema for ages. We used to go a lot.		
+GU018S064	1	18	03_Present perfect and past 2	私が車で通り過ぎたとき、彼らは私に気づきませんでした。 彼らは違う方向を見ていました。	They didn't see me when I drove past them. They were looking the other way.		
+GU018S065	1	18	03_Present perfect and past 2	ウェインはパーティーでとても素敵に見えました。 彼はスマートなスーツを着ていました。	Wayne looked very nice at the party. He was wearing a smart suit.		
+GU018S066	1	18	03_Present perfect and past 2	子供の頃、私はよく悪い夢を見ていました。	"When I was a child, I used to have a lot of bad dreams."		
+GU018S067	1	18	03_Present perfect and past 2	あなたは昨日の午後どこにいましたか？ 私はバレーボールをしていました。	Where were you yesterday afternoon?    I was playing volleyball.		
+GU018S068	1	18	03_Present perfect and past 2	何かスポーツをしますか？ もうない。 私はバレーボールをしていました。	Do you do any sports?    Not any more. I used to play volleyball.		
+GU018S069	1	18	03_Present perfect and past 2	私は一人暮らしをしていました。	I used to live alone.		
+GU018S070	1	18	03_Present perfect and past 2	私は一人暮らしには慣れています。	I am used to living alone.		

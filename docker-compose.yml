@@ -1,0 +1,61 @@
+# 起動したいコンテナを定義
+services:
+  # nginxコンテナ
+  nginx:
+    # nginxの公式dockerイメージを指定
+    image: nginx:1.25.3
+    container_name: nginx
+    # ホストのポート:コンテナのポート
+    ports:
+      - "80:80"
+    # nginx設定ファイルの同期
+    volumes:
+      - ./docker/nginx/:/etc/nginx/conf.d/
+
+  #Node.js(Next.js)コンテナ
+  node:
+    container_name: node
+    build:
+      # Dockerfileのパス
+      context: ./docker/node
+      # Dockerfileのファイル名
+      dockerfile: Dockerfile
+    # コンテナを起動したままにする
+    tty: true
+    # コンテナを起動したままにする
+    stdin_open: true
+    volumes:
+      # ホストの./my-appをコンテナの/var/www/htmlと同期（マウント）
+      - ./docker/node/my-app:/var/www/html/
+      - ./.env:/var/www/html/.env
+    ports:
+      - "3000:3000"
+
+  # MySQLコンテナ
+  mysql:
+    container_name: mysql
+    build:
+      # Dockerfileのパス
+      context: ./docker/mysql
+      # Dockerfileのファイル名
+      dockerfile: Dockerfile
+    # コンテナ内で使用される環境変数を定義
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    command: --default-authentication-plugin=mysql_native_password
+    volumes:
+      # 名前付きボリュームを MySQL コンテナに紐づける
+      - mysqldata:/var/lib/mysql
+      - ./docker/mysql/create_table.sh:/docker-entrypoint-initdb.d/create_table.sh
+      - ./docker/mysql/my.cnf:/etc/mysql/conf.d/my.cnf
+      - ./docker/mysql/.my.cnf:/.my.cnf
+    # ホストのポート:コンテナのポート
+    ports:
+      - 3306:3306
+
+volumes:
+  # 名前付きボリュームの作成
+  mysqldata:
