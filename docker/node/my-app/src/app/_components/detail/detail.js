@@ -3,6 +3,7 @@ import { useState } from "react";
 
 export default function Detail({ key_value, japanese, eng1, eng2, eng3 }) {
     const [isShow, setIsShow] = useState(false);
+    console.log(eng2);
 
     return (
         <div className="container mx-auto text-4xl">
@@ -14,8 +15,8 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3 }) {
             </div>
             <div className="p-10 border rounded-lg mb-4">
                 <h2 className="pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>
-                <h2 className="pb-5">{isShow && eng2 ? eng2 : <br></br>}</h2>
-                <h2 className="pb-5">{isShow && eng3 !== "\r" ? eng3 : <br></br>}</h2>
+                {/* <h2 className="pb-5">{isShow ? eng2 : <br></br>}</h2>
+                <h2 className="pb-5">{isShow ? eng3 : <br></br>}</h2> */}
             </div>
             <div className="pb-10">
                 <button onClick={() => setIsShow(prev => !prev)}

@@ -1,7 +1,7 @@
 'use client';
 import { createSlice } from "@reduxjs/toolkit";
 
-const terms = createSlice({
+const statistics = createSlice({
     name: 'statistics',
     initialState: {
         total: 0,
@@ -9,10 +9,23 @@ const terms = createSlice({
         correct: 0,
         incorrect: 0
     },
-    reducers: {}
+    reducers: {
+        setTotal(state, { payload }) {
+            state.total = payload;
+        },
+        setCurrent(state, { payload }) {
+            state.current = payload;
+        },
+        setCorrect(state, { payload }) {
+            state.correct += payload;
+        },
+        setIncorrect(state, { payload }) {
+            state.incorrect += payload;
+        }
+    }
 });
 
-const { } = statistics.actions;
+const { setTotal, setCurrent, setCorrect, setIncorrect } = statistics.actions;
 
-export { };
+export { setTotal, setCurrent, setCorrect, setIncorrect };
 export default statistics.reducer;
