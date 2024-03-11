@@ -8,46 +8,9 @@ const question = createSlice({
     name: 'question',
     initialState: {
         question: null,
-        cCorrect: false,
-        cIncorrect: false,
         status: ''
     },
-    reducers: {
-        clickCorrect ({cCorrect, cIncorrect}){
-            if(!cCorrect && !cIncorect) {
-                cCorrect = true;
-                const dispatch = useDispatch();
-                dispatch(setCorrect(1));
-            } else if(cCorrect && !cIncorrect) {
-                cCorrect = false;
-                const dispatch = useDispatch();
-                dispatch(setCorrect(-1));
-            } else if(!cCorrect && cIncorrect) {
-                cCorrect = true;
-                const dispatch = useDispatch();
-                dispatch(setCorrect(1));
-                cIncorrect = false;
-                dispatch(setIncorrect(-1));
-            }
-        },
-        clickIncorrect({ cCorrect, cIncorrect }) {
-            if(!cCorrect && !cIncorect) {
-                const dispatch = useDispatch();
-                cIncorrect = true;
-                dispatch(setIncorrect(1));
-            } else if(!cCorrect && cIncorrect) {
-                const dispatch = useDispatch();
-                cInorrect = false;
-                dispatch(setIncorrect(-1));
-            } else if(cCorrect && !cIncorrect) {
-                const dispatch = useDispatch();
-                cCorrect = false;
-                dispatch(setCorrect(-1));
-                cIncorrect = true;
-                dispatch(setIncorrect(1));
-            }            
-        }
-    },
+    reducers: {},
     extraReducers: (builder) => {
         builder.addCase(addAsyncQuestion.pending, (state) => {
             state.status = 'pending';
@@ -70,6 +33,5 @@ const addAsyncQuestion = createAsyncThunk(
     }
 );
 
-const { clickCorrect, clickIncorrect } = question.actions;
-export { addAsyncQuestion, clickCorrect, clickIncorrect };
+export { addAsyncQuestion };
 export default question.reducer;
