@@ -1,8 +1,9 @@
 'use client';
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useDispatch, useSelector } from "react-redux";
 import { setCorrect, setIncorrect } from "lib/store/modules/statistics";
+import { setQuestionCorrect, setQuestionIncorrect } from "lib/store/modules/questions";
 import Button from "../button/button";
 
 export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
@@ -16,16 +17,12 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
     const { questions } = useSelector(state => state.questions);
     const { total, current } = statistics;
 
-    const setNext = () => {
-        if (questions && total !== current) {
-            router.push(`/questions/${questions[current].key_value}`);
+    useEffect(() => {
+        if(questions && current) {
+            set_cCorrect(questions[current - 1].correct);
+            set_cIncorrect(questions[current - 1].incorrect);
         }
-    }
-    const setPrevious = () => {
-        if (questions && current !== 1) {
-            router.push(`/questions/${questions[current - 2].key_value}`);
-        }
-    }
+    }, [current])
 
     const answered = () => {
         if(!cCorrect && !cIncorrect) {
@@ -37,9 +34,11 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
         else if(!cCorrect && cIncorrect) {
             disptach(setCorrect(1));
             set_cIncorrect(prev => !prev);
+            disptach(setQuestionIncorrect(current -1));
             disptach(setIncorrect(-1));
         }
         set_cCorrect(prev => !prev);
+        disptach(setQuestionCorrect(current - 1));
     }
 
     const mistaken = () => {
@@ -52,11 +51,25 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
         else if(cCorrect && !cIncorrect) {
             disptach(setIncorrect(1));
             set_cCorrect(prev => !prev);
+            disptach(setQuestionCorrect(current - 1));
             disptach(setCorrect(-1));
         }
-        set_cIncorrect(prev => !prev)
+        set_cIncorrect(prev => !prev);
+        disptach(setQuestionIncorrect(current -1));
     }
 
+    const setNext = () => {
+        if (questions && total !== current) {
+            router.push(`/questions/${questions[current].key_value}`);
+        }
+    }
+    const setPrevious = () => {
+        if (questions && current !== 1) {
+            router.push(`/questions/${questions[current - 2].key_value}`);
+        }
+        cCorrect && answered();
+        cIncorrect && mistaken();
+    }
 
     return (
         <div className="container mx-auto text-4xl">
