@@ -74,7 +74,13 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
     return (
         <div className="container mx-auto text-4xl">
             <div className="py-7">
-                <p><span className="text-yellow-400">{cCorrect || cIncorrect ? "解答済み" : "未解答"}: </span>{key_value}</p>
+                <p>
+                    <span className="text-yellow-400">
+                        {cCorrect ? "正解: " : ""}
+                        {cIncorrect ? "不正解: " : ""}
+                    </span>
+                    {key_value}
+                </p>
             </div>
             <div className="p-10 border rounded-lg mb-4">
                 <h2 className="pb-5">{japanese}</h2>
