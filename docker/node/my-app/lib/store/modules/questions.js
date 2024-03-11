@@ -10,12 +10,12 @@ const questions = createSlice({
     },
     reducers: {
         setQuestionCorrect({ questions }, { payload }){
-            if(questions[payload]) {
+            if(questions) {
                 questions[payload].correct = !questions[payload].correct;
             }
         },
         setQuestionIncorrect({ questions }, { payload }){
-            if(questions[payload]) {
+            if(questions) {
                 questions[payload].incorrect = !questions[payload].incorrect;
             }
         },

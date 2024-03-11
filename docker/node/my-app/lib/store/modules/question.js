@@ -1,6 +1,4 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { useDispatch } from "react-redux";
-import { setCorrect, setIncorrect } from "./statistics";
 
 const ENDPOINT = "/api/giu"
 
