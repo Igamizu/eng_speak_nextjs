@@ -77,7 +77,7 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
                 <p>{key_value}</p>
             </div>
             <div className="p-10 border rounded-lg mb-4">
-                <h2>{japanese}</h2>
+                <h2 className="pb-5">{japanese}</h2>
             </div>
             <div className="p-10 border rounded-lg mb-4">
                 <h2 className="pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>

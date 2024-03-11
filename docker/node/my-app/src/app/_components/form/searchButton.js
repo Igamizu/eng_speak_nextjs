@@ -1,6 +1,7 @@
 import { useSelector, useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import { addAsyncWithStatus } from "lib/store/modules/questions";
+import { initStatistics } from "lib/store/modules/statistics";
 import { useEffect } from "react";
 
 export default function SearchButton () {
@@ -13,6 +14,7 @@ export default function SearchButton () {
         const setQuestions = async() => {
             if(questionsSelector.status === "fulfilled") {
                 const { questions } = questionsSelector;
+                dispatch(initStatistics());
                 router.push(`/questions/${questions[0].key_value}`);
             }
         }

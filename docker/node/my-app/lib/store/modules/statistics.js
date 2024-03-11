@@ -10,6 +10,10 @@ const statistics = createSlice({
         incorrect: 0
     },
     reducers: {
+        initStatistics(state) {
+            state.correct = 0;
+            state.incorrect = 0;
+        },
         setTotal(state, { payload }) {
             state.total = payload;
         },
@@ -25,7 +29,7 @@ const statistics = createSlice({
     }
 });
 
-const { setTotal, setCurrent, setCorrect, setIncorrect } = statistics.actions;
+const { initStatistics, setTotal, setCurrent, setCorrect, setIncorrect } = statistics.actions;
 
-export { setTotal, setCurrent, setCorrect, setIncorrect };
+export { initStatistics, setTotal, setCurrent, setCorrect, setIncorrect };
 export default statistics.reducer;
