@@ -61,3 +61,7 @@ INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
         'incorrect', false
     )
 ));
+
+INSERT INTO state_slot (id, current, correct, incorrect, questions) VALUES (?, ?, ?, ?, ?) ON DUPLICATE KEY UPDATE current = ?, correct = ?, incorrect = ?, questions = ?
+
+[[...queries], id, current, correct, incorrect, questions]
