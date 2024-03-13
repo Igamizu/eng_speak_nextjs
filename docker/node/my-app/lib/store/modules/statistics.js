@@ -14,6 +14,11 @@ const statistics = createSlice({
             state.correct = 0;
             state.incorrect = 0;
         },
+        loadStatistics(state, { payload }) {
+            state.current = payload.current;
+            state.correct = payload.correct;
+            state.incorrect = payload.incorrect;
+        },
         setTotal(state, { payload }) {
             state.total = payload;
         },
