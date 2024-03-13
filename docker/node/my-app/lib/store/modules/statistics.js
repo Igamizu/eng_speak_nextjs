@@ -1,5 +1,7 @@
 'use client';
-import { createSlice } from "@reduxjs/toolkit";
+import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
+
+const ENDPOINT = "/api/giu"
 
 const statistics = createSlice({
     name: 'statistics',
@@ -7,17 +9,13 @@ const statistics = createSlice({
         total: 0,
         current: 0,
         correct: 0,
-        incorrect: 0
+        incorrect: 0,
+        status: ''
     },
     reducers: {
         initStatistics(state) {
             state.correct = 0;
             state.incorrect = 0;
-        },
-        loadStatistics(state, { payload }) {
-            state.current = payload.current;
-            state.correct = payload.correct;
-            state.incorrect = payload.incorrect;
         },
         setTotal(state, { payload }) {
             state.total = payload;
@@ -31,10 +29,34 @@ const statistics = createSlice({
         setIncorrect(state, { payload }) {
             state.incorrect += payload;
         }
+    },
+    extraReducers: (builder) => {
+        builder.addCase(LoadAsyncStatistics.pending, (state) => {
+            state.status = 'pending';
+        });
+        builder.addCase(LoadAsyncStatistics.fulfilled, (state, { payload }) => {
+            console.log(payload);
+            state.current = payload[0].current;
+            state.correct = payload[0].correct;
+            state.incorrect = payload[0].incorrect;
+            state.status = 'fulfilled';
+        });
+        builder.addCase(LoadAsyncStatistics.rejected, (state) => {
+            state.status = 'rejected';
+        });
     }
 });
 
-const { initStatistics, setTotal, setCurrent, setCorrect, setIncorrect } = statistics.actions;
+const LoadAsyncStatistics = createAsyncThunk(
+    'statistics/load',
+    async (payload) => {
+        const id = payload;
+        const response = await fetch(`${ENDPOINT}/load_slot?id=${id}`);
+        const responseObj = response.json();
+        return responseObj;
+    }
+)
 
-export { initStatistics, setTotal, setCurrent, setCorrect, setIncorrect };
+const { initStatistics, setTotal, setCurrent, setCorrect, setIncorrect } = statistics.actions;
+export { LoadAsyncStatistics, initStatistics, setTotal, setCurrent, setCorrect, setIncorrect };
 export default statistics.reducer;

@@ -32,11 +32,22 @@ const questions = createSlice({
         builder.addCase(addAsyncWithStatus.rejected, (state) => {
             state.status = 'rejected';
         });
+        builder.addCase(LoadAsyncQuestions.pending, (state) => {
+            state.status = 'pending';
+        });
+        builder.addCase(LoadAsyncQuestions.fulfilled, (state, { payload }) => {
+            const { questions : loadedQuestions } = payload[0];
+            state.questions = JSON.parse(loadedQuestions);
+            state.status = 'fulfilled';
+        });
+        builder.addCase(LoadAsyncQuestions.rejected, (state) => {
+            state.status = 'rejected';
+        });
     }
 });
 
 const addAsyncWithStatus = createAsyncThunk(
-    'questions/seach',
+    'questions/search',
     async (payload) => {
         const { unit, genre } = payload;
         const response = await fetch(`${ENDPOINT}?unit=${unit}&genre=${genre}`);
@@ -44,6 +55,15 @@ const addAsyncWithStatus = createAsyncThunk(
     }
 );
 
+const LoadAsyncQuestions = createAsyncThunk(
+    'questions/load',
+    async (payload) => {
+        const id = payload;
+        const response = await fetch(`${ENDPOINT}/load_slot?id=${id}`);
+        return response.json();
+    }
+)
+
 const { setQuestionCorrect, setQuestionIncorrect } = questions.actions;
-export { addAsyncWithStatus, setQuestionCorrect, setQuestionIncorrect };
+export { addAsyncWithStatus, LoadAsyncQuestions, setQuestionCorrect, setQuestionIncorrect };
 export default questions.reducer;

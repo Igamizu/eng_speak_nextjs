@@ -2,6 +2,7 @@
 import { useSelector } from "react-redux";
 import SearchList from "./searchList";
 import SearchButton from "./searchButton";
+import Save_load from "../save_load/save_load";
 
 export default function Form() {
     const terms = useSelector(state => state.terms);
@@ -17,6 +18,7 @@ export default function Form() {
                     <SearchList />
                     <SearchButton/>
                 </form>
+                <Save_load />
             </div>
         </>
     );

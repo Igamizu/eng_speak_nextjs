@@ -25,7 +25,7 @@ LOAD DATA LOCAL INFILE '/etc/mysql/giu.txt'  INTO TABLE ENG_SPEAK.giu FIELDS TER
 DELETE from ENG_SPEAK.state_slot where id = 'test';
 INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
     JSON_OBJECT(
-        'key_value', 'GU255S001',
+        'key_value', 'GU001S001',
         'cited', 1,
         'unit', 1,
         'genre', 'poop',
@@ -37,7 +37,7 @@ INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
         'incorrect', false
     ),
     JSON_OBJECT(
-        'key_value', 'GU255S002',
+        'key_value', 'GU001S002',
         'cited', 1,
         'unit', 1,
         'genre', 'poop',
@@ -49,7 +49,7 @@ INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
         'incorrect', true
     ),
     JSON_OBJECT(
-        'key_value', 'GU255S003',
+        'key_value', 'GU001S003',
         'cited', 1,
         'unit', 1,
         'genre', 'poop',
@@ -61,7 +61,3 @@ INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
         'incorrect', false
     )
 ));
-
-INSERT INTO state_slot (id, current, correct, incorrect, questions) VALUES (?, ?, ?, ?, ?) ON DUPLICATE KEY UPDATE current = ?, correct = ?, incorrect = ?, questions = ?
-
-[[...queries], id, current, correct, incorrect, questions]

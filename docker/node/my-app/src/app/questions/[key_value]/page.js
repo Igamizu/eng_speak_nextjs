@@ -26,7 +26,6 @@ export default function Detail() {
 
     useEffect(() => {
         if(status === "fulfilled") {
-            console.log(question.key_value);
             const index = questionsKey.indexOf(question.key_value);
             dispatch(setCurrent(index + 1));
         }
