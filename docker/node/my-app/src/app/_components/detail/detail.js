@@ -60,12 +60,12 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
 
     const setNext = () => {
         if (questions && total !== current) {
-            router.push(`/questions/${questions[current].key_value}`);
+            router.push(`/questions/${questions[current].key_value}`, { scroll: false });
         }
     }
     const setPrevious = () => {
         if (questions && current !== 1) {
-            router.push(`/questions/${questions[current - 2].key_value}`);
+            router.push(`/questions/${questions[current - 2].key_value}`, { scroll: false });
         }
         cCorrect && answered();
         cIncorrect && mistaken();

@@ -17,15 +17,13 @@ export default function Save_load() {
     const questionsSelector = useSelector(state => state.questions);
     const statistics = useSelector(state => state.statistics);
     const { current, correct, incorrect } = statistics;
-    console.log(current, correct, incorrect);
     const { questions } = questionsSelector;
     const dispatch = useDispatch();
-
 
     useEffect(() => {
         const setLoad = async () => {
             if (current && questions) {
-                router.push(`/questions/${questions[current - 1].key_value}`);
+                router.push(`/questions/${questions[current - 1].key_value}`, { scroll: false });
             }
         }
         setLoad();

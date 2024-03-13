@@ -15,7 +15,7 @@ export default function SearchButton () {
             if(questionsSelector.status === "fulfilled") {
                 const { questions } = questionsSelector;
                 dispatch(initStatistics());
-                router.push(`/questions/${questions[0].key_value}`);
+                router.push(`/questions/${questions[0].key_value}`, { scroll: false });
             }
         }
         setQuestions();
@@ -24,6 +24,7 @@ export default function SearchButton () {
     const clickHandler = (e) => {
         e.preventDefault();
         dispatch(addAsyncWithStatus(terms));
+        dispatch(initStatistics());
     }
 
     return (

@@ -14,6 +14,7 @@ const statistics = createSlice({
     },
     reducers: {
         initStatistics(state) {
+            state.current = 1;
             state.correct = 0;
             state.incorrect = 0;
         },
