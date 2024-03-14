@@ -35,8 +35,8 @@ export default function SearchPullDown ({ term, actionCreator }) {
     const termUpper = term.charAt(0).toUpperCase() + term.slice(1).toLowerCase()
 
     return (
-        <div className="flex justify-center w-1/4 py-1">
-            <label htmlFor={term} className="w-1/4 text-right text-base sm:text-lg px-2">{termUpper}: </label>
+        <div className="flex justify-around sm:justify-center py-1 w-3/4 md:w-1/4">
+            <label htmlFor={term} className="w-1/2 md:w-1/4 text-right text-base sm:text-lg px-2">{termUpper}: </label>
             <div className="w-1/2 text-black">
                 <select id={term} name={term}
                     value={selected}

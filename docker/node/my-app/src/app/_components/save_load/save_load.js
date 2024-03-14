@@ -4,6 +4,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import { LoadAsyncQuestions } from "lib/store/modules/questions";
 import { LoadAsyncStatistics, initStatistics } from "lib/store/modules/statistics";
+import SlButton from "./sl_button";
 
 const ENDPOINT = "/api/giu/save_slot"
 
@@ -51,20 +52,10 @@ export default function Save_load() {
                 onChange={e => setInput(e)}
                 onBlur={e => setInput(e)}
                 onKeyDown={e => setInput(e)}
-                className="text-black p-1 mr-2"
+                className="text-black p-1 mr-2 w-1/2 md:w-1/5"
             />
-            <button
-                onClick={save}
-                className="text-lg bg-black text-white py-1 px-2 mr-2 rounded-md hover:font-bold hover:bg-black transition-all duration-300"
-            >
-                Save
-            </button>
-            <button
-                onClick={loadSlot}
-                className="text-lg bg-black text-white py-1 px-2 mr-2 rounded-md hover:font-bold hover:bg-black transition-all duration-300"
-            >
-                Load
-            </button>
+            <SlButton onClick={save}>Save</SlButton>
+            <SlButton onClick={loadSlot}>Load</SlButton>
         </>
     );
 }

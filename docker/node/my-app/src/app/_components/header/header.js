@@ -6,7 +6,7 @@ export default function Header() {
             <header className="bg-black p-8">
                 <Link href={"/"}>
                     <nav className="flex mx-auto container">
-                        <h1 className="text-4xl font-bold text-white mx-auto">
+                        <h1 className="text-2xl md:text-4xl font-bold text-white mx-auto">
                             English Speak
                         </h1>
                     </nav>

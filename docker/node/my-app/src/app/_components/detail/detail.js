@@ -72,8 +72,8 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
     }
 
     return (
-        <div className="container mx-auto text-4xl">
-            <div className="py-7">
+        <div className="container mx-auto text-xl md:text-4xl">
+            <div className="pb-2 md:py-7">
                 <p>
                     <span className="text-yellow-400">
                         {cCorrect ? "正解: " : ""}
@@ -82,20 +82,20 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
                     {key_value}
                 </p>
             </div>
-            <div className="p-10 border rounded-lg mb-4">
-                <h2 className="pb-5">{japanese}</h2>
+            <div className="p-5 md:p-10 border rounded-lg mb-4">
+                <h2 className="md:pb-5">{japanese}</h2>
             </div>
-            <div className="p-10 border rounded-lg mb-4">
-                <h2 className="pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>
+            <div className="p-5 md:p-10 border rounded-lg mb-4">
+                <h2 className="md:pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>
                 {/* <h2 className="pb-5">{isShow ? eng2 : <br></br>}</h2>
                 <h2 className="pb-5">{isShow ? eng3 : <br></br>}</h2> */}
             </div>
-            <div className="flex pb-10">
-                <Button onClick={() => setIsShow(prev => !prev)}>英文表示</Button>
-                <Button onClick={setPrevious}>前の問題</Button>
-                <Button onClick={setNext}>次の問題</Button>
-                <Button onClick={answered}>正解カウント</Button>
-                <Button onClick={mistaken}>不正解カウント</Button>
+            <div className="flex flex-row justify-center pb-10">
+                <Button onClick={() => setIsShow(prev => !prev)}>英</Button>
+                <Button onClick={setPrevious}>前</Button>
+                <Button onClick={setNext}>次</Button>
+                <Button onClick={answered}>〇</Button>
+                <Button onClick={mistaken}>×</Button>
             </div>
         </div>
     );

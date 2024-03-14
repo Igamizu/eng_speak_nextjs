@@ -10,10 +10,10 @@ export default function Form() {
 
     return (
         <>
-            <div className="container mx-auto p-5">
+            <div className="container mx-auto p-3 md:p-5">
                 <form id="searchForm">
-                    <div className="pb-5">
-                        <h2 className="text-center text-3xl font-bold">出題範囲指定</h2>
+                    <div className="pb-2 md:pb-5">
+                        <h2 className="text-center text-xl md:text-3xl font-bold">出題範囲指定</h2>
                     </div>
                     <SearchList />
                     <SearchButton/>

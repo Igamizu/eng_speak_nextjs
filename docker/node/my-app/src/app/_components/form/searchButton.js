@@ -29,10 +29,10 @@ export default function SearchButton () {
 
     return (
         <>
-            <div className="flex justify-center pt-5">
+            <div className="flex justify-center pt-2 md:pt-5">
                 <input type="submit" value="Apply"
                     onClick={(e) => clickHandler(e)}
-                    className="text-lg bg-black text-white p-3 rounded-md hover:font-bold hover:bg-black transition-all duration-300"
+                    className="text-base md:text-lg bg-black text-white p-2 md:p-3 mb-2 md:mb-3 rounded-md hover:font-bold hover:bg-black transition-all duration-300"
                 />
             </div>
         </>
