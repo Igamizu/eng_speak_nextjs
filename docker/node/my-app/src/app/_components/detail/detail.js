@@ -2,8 +2,8 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { useDispatch, useSelector } from "react-redux";
-import { setCorrect, setIncorrect } from "lib/store/modules/statistics";
-import { setQuestionCorrect, setQuestionIncorrect } from "lib/store/modules/questions";
+import { initStatistics, setCorrect, setIncorrect } from "lib/store/modules/statistics";
+import { setQuestionCorrect, setQuestionIncorrect, filterQuestionsIncorrect } from "lib/store/modules/questions";
 import Button from "../button/button";
 
 export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
@@ -71,6 +71,15 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
         cIncorrect && mistaken();
     }
 
+    const retry = () => {
+        if (questions) {
+            const payload = [...questions];
+            disptach(filterQuestionsIncorrect(payload));
+            disptach(initStatistics());
+            router.push(`/questions/${questions[0].key_value}`, { scroll: false });
+        }
+    }
+
     return (
         <div className="container mx-auto text-xl md:text-4xl">
             <div className="pb-2 md:py-7">
@@ -94,8 +103,9 @@ export default function Detail({ key_value, japanese, eng1, eng2, eng3}) {
                 <Button onClick={() => setIsShow(prev => !prev)}>英</Button>
                 <Button onClick={setPrevious}>前</Button>
                 <Button onClick={setNext}>次</Button>
-                <Button onClick={answered}>〇</Button>
-                <Button onClick={mistaken}>×</Button>
+                <Button onClick={answered} className={"text-red-600"}>〇</Button>
+                <Button onClick={mistaken} className={"text-blue-600"}>×</Button>
+                <Button onClick={retry} className={"text-blue-600"}>×復</Button>
             </div>
         </div>
     );

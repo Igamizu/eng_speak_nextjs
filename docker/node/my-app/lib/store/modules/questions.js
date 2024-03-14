@@ -19,6 +19,10 @@ const questions = createSlice({
                 questions[payload].incorrect = !questions[payload].incorrect;
             }
         },
+        filterQuestionsIncorrect(state, { payload }) {
+            const rawQuestions = [...payload];
+            state.questions = rawQuestions.filter((_question) => _question.incorrect).map((_question) => ({..._question, incorrect: false}));
+        }
     },
     extraReducers: (builder) => {
         builder.addCase(addAsyncWithStatus.pending, (state) => {
@@ -64,6 +68,6 @@ const LoadAsyncQuestions = createAsyncThunk(
     }
 )
 
-const { setQuestionCorrect, setQuestionIncorrect } = questions.actions;
-export { addAsyncWithStatus, LoadAsyncQuestions, setQuestionCorrect, setQuestionIncorrect };
+const { setQuestionCorrect, setQuestionIncorrect, filterQuestionsIncorrect } = questions.actions;
+export { filterQuestionsIncorrect , addAsyncWithStatus, LoadAsyncQuestions, setQuestionCorrect, setQuestionIncorrect };
 export default questions.reducer;
