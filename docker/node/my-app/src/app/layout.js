@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
       <StoreProvider>
         <body className={inter.className}>
           <Header />
-          <main className="bg-zinc-800">
+          <main className="bg-zinc-800 text-white">
             <Form />
             {children}
           </main>
