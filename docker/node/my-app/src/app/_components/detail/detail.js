@@ -97,7 +97,8 @@ return (
         <div className="p-5 md:p-10 border rounded-lg mb-4">
             <h2 className="md:pb-5">{japanese}</h2>
         </div>
-        <div className="p-5 md:p-10 border rounded-lg mb-4">
+        <div onClick={() => setIsShow(prev => !prev)}
+            className="p-5 md:p-10 border rounded-lg mb-4">
             <h2 className="md:pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>
             {/* <h2 className="pb-5">{isShow ? eng2 : <br></br>}</h2>
                 <h2 className="pb-5">{isShow ? eng3 : <br></br>}</h2> */}
