@@ -1,5 +1,5 @@
 'use client';
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useParams } from 'next/navigation';
 import { addAsyncQuestion } from "lib/store/modules/question";
@@ -11,6 +11,7 @@ export default function Detail() {
     const params = useParams();
     const { key_value } = params;
     const dispatch = useDispatch();
+    const [isRetry, setRetry] = useState(false);
 
     const { questions } = useSelector(state => state.questions);
     const { question, status } = useSelector(state => state.question);
@@ -29,13 +30,15 @@ export default function Detail() {
             const index = questionsKey.indexOf(question.key_value);
             dispatch(setCurrent(index + 1));
         }
-    }, [status])
+        isRetry && dispatch(setTotal(questions.length));
+        isRetry && setRetry(prev => !prev);
+    }, [status, isRetry])
 
     return (
         <>
             <Statistics />
             <h3 className="text-center mt-3 text-2xl">{status !== "pending" ? "" : "Loading..."}</h3>
-            {question && status !== "pending" ? <DetailQuestion {...question} key={question.key_value} /> : ""}
+            {question && status !== "pending" ? <DetailQuestion {...question} key={question.key_value} isRetry={isRetry} setRetry={setRetry} /> : ""}
         </>
     );
 }

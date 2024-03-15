@@ -20,8 +20,10 @@ const questions = createSlice({
             }
         },
         filterQuestionsIncorrect(state, { payload }) {
+            const newState = {...state};
             const rawQuestions = [...payload];
-            state.questions = rawQuestions.filter((_question) => _question.incorrect).map((_question) => ({..._question, incorrect: false}));
+            const filteredQuestions = rawQuestions.filter((_question) => _question.incorrect).map((_question) => ({..._question, incorrect: false}));
+            return {...newState, questions: filteredQuestions};
         }
     },
     extraReducers: (builder) => {
