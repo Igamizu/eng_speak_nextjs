@@ -13,6 +13,7 @@ export default function SearchButton () {
 
     useEffect(() => {
         const setQuestions = async() => {
+            console.log(isSearch);
             if(questionsSelector.status === "fulfilled" && isSearch) {
                 const { questions } = questionsSelector;
                 dispatch(initStatistics());
@@ -20,14 +21,13 @@ export default function SearchButton () {
             }
         }
         setQuestions();
-        isSearch && setIsSearch(prev => !prev);
-    }, [questionsSelector.status]);
+    }, [questionsSelector.status, isSearch]);
 
     const clickHandler = async (e) => {
         e.preventDefault();
         await dispatch(addAsyncWithStatus(terms));
         await dispatch(initStatistics());
-        setIsSearch(prev => !prev);
+        setIsSearch(prev => true);
     }
 
     return (
