@@ -9,21 +9,21 @@ const questions = createSlice({
         status: '',
     },
     reducers: {
-        setQuestionCorrect({ questions }, { payload }){
-            if(questions) {
+        setQuestionCorrect({ questions }, { payload }) {
+            if (questions) {
                 questions[payload].correct = !questions[payload].correct;
             }
         },
-        setQuestionIncorrect({ questions }, { payload }){
-            if(questions) {
+        setQuestionIncorrect({ questions }, { payload }) {
+            if (questions) {
                 questions[payload].incorrect = !questions[payload].incorrect;
             }
         },
         filterQuestionsIncorrect(state, { payload }) {
-            const newState = {...state};
+            const newState = { ...state };
             const rawQuestions = [...payload];
-            const filteredQuestions = rawQuestions.filter((_question) => _question.incorrect).map((_question) => ({..._question, incorrect: false}));
-            return {...newState, questions: filteredQuestions};
+            const filteredQuestions = rawQuestions.filter((_question) => _question.incorrect).map((_question) => ({ ..._question, incorrect: false }));
+            return { ...newState, questions: filteredQuestions };
         }
     },
     extraReducers: (builder) => {
@@ -32,7 +32,7 @@ const questions = createSlice({
         });
         builder.addCase(addAsyncWithStatus.fulfilled, (state, { payload }) => {
             state.questions = payload;
-            state.questions = state.questions.map(question => ({...question, correct: false, incorrect: false}));
+            state.questions = state.questions.map(question => ({ ...question, correct: false, incorrect: false }));
             state.status = 'fulfilled';
         });
         builder.addCase(addAsyncWithStatus.rejected, (state) => {
@@ -42,9 +42,11 @@ const questions = createSlice({
             state.status = 'pending';
         });
         builder.addCase(LoadAsyncQuestions.fulfilled, (state, { payload }) => {
-            const { questions : loadedQuestions } = payload[0];
-            state.questions = JSON.parse(loadedQuestions);
-            state.status = 'fulfilled';
+            if (payload[0]) {
+                const { questions: loadedQuestions } = payload[0];
+                state.questions = JSON.parse(loadedQuestions);
+                state.status = 'fulfilled';
+            }
         });
         builder.addCase(LoadAsyncQuestions.rejected, (state) => {
             state.status = 'rejected';
@@ -71,5 +73,5 @@ const LoadAsyncQuestions = createAsyncThunk(
 )
 
 const { setQuestionCorrect, setQuestionIncorrect, filterQuestionsIncorrect } = questions.actions;
-export { filterQuestionsIncorrect , addAsyncWithStatus, LoadAsyncQuestions, setQuestionCorrect, setQuestionIncorrect };
+export { filterQuestionsIncorrect, addAsyncWithStatus, LoadAsyncQuestions, setQuestionCorrect, setQuestionIncorrect };
 export default questions.reducer;

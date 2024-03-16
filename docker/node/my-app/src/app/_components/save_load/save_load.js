@@ -32,7 +32,7 @@ export default function Save_load() {
         setLoad();
     }, [isLoad])
 
-    const loadSlot = async() => {
+    const loadSlot = async () => {
         await dispatch(LoadAsyncQuestions(state));
         await dispatch(LoadAsyncStatistics(state));
         setIsLoad(prev => !prev);
@@ -44,7 +44,7 @@ export default function Save_load() {
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({id: state, current, correct, incorrect, questions})
+            body: JSON.stringify({ id: state, current, correct, incorrect, questions })
         });
     }
 

@@ -36,10 +36,12 @@ const statistics = createSlice({
             state.status = 'pending';
         });
         builder.addCase(LoadAsyncStatistics.fulfilled, (state, { payload }) => {
-            state.current = payload[0].current;
-            state.correct = payload[0].correct;
-            state.incorrect = payload[0].incorrect;
-            state.status = 'fulfilled';
+            if (payload[0]) {
+                state.current = payload[0].current;
+                state.correct = payload[0].correct;
+                state.incorrect = payload[0].incorrect;
+                state.status = 'fulfilled';
+            }
         });
         builder.addCase(LoadAsyncStatistics.rejected, (state) => {
             state.status = 'rejected';
