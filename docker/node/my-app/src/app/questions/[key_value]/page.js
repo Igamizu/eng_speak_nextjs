@@ -18,8 +18,8 @@ export default function Detail() {
     const questionsKey = questions ? questions.map(_question => _question.key_value) : [];
 
     useEffect(() => {
-        const setQuestion = () => {
-           dispatch(addAsyncQuestion(key_value)); 
+        const setQuestion = async () => {
+           await dispatch(addAsyncQuestion(key_value)); 
         }
         setQuestion();
         questions && dispatch(setTotal(questions.length));

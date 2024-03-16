@@ -30,9 +30,9 @@ export default function Save_load() {
         setLoad();
     }, [statistics.status, questionsSelector.status])
 
-    const loadSlot = () => {
-        dispatch(LoadAsyncQuestions(state));
-        dispatch(LoadAsyncStatistics(state));
+    const loadSlot = async() => {
+        await dispatch(LoadAsyncQuestions(state));
+        await dispatch(LoadAsyncStatistics(state));
     }
 
     const save = async () => {

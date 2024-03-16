@@ -6,8 +6,9 @@ import { initStatistics, setCorrect, setIncorrect } from "lib/store/modules/stat
 import { setQuestionCorrect, setQuestionIncorrect, filterQuestionsIncorrect } from "lib/store/modules/questions";
 import Button from "../button/button";
 import EmptyButton from "../button/emptyButton";
+import SentenceList from "./sentenceList";
 
-export default function Detail({ key_value, japanese, eng1, eng2, eng3, isRetry, setRetry }) {
+export default function Detail({ key_value, isRetry, setRetry }) {
     const router = useRouter();
     const disptach = useDispatch();
     const [isShow, setIsShow] = useState(false);
@@ -94,15 +95,8 @@ return (
                 {key_value}
             </p>
         </div>
-        <div className="p-5 md:p-10 border rounded-lg mb-4">
-            <h2 className="md:pb-5">{japanese}</h2>
-        </div>
-        <div onClick={() => setIsShow(prev => !prev)}
-            className="p-5 md:p-10 border rounded-lg mb-4">
-            <h2 className="md:pb-5">{isShow && eng1 ? eng1 : <br></br>}</h2>
-            {/* <h2 className="pb-5">{isShow ? eng2 : <br></br>}</h2>
-                <h2 className="pb-5">{isShow ? eng3 : <br></br>}</h2> */}
-        </div>
+        <SentenceList lang="ja" />
+        <SentenceList lang="en" onClick={() => setIsShow(prev => !prev)} isShow={isShow} />
         <div className="flex flex-row justify-center pb-10">
             <Button onClick={() => setIsShow(prev => !prev)}>英</Button>
             {current > 1 ? <Button onClick={setPrevious}>前</Button> : <EmptyButton />}

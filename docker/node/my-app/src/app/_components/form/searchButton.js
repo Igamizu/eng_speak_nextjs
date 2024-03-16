@@ -21,9 +21,9 @@ export default function SearchButton () {
         setQuestions();
     }, [questionsSelector.status]);
 
-    const clickHandler = (e) => {
+    const clickHandler = async (e) => {
         e.preventDefault();
-        dispatch(addAsyncWithStatus(terms));
+        await dispatch(addAsyncWithStatus(terms));
         dispatch(initStatistics());
     }
 
