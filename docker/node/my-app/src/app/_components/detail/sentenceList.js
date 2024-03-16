@@ -11,8 +11,8 @@ export default function SentenceList({ lang, onClick, isShow }) {
             <div onClick={onClick}
                 className="p-5 md:p-10 border rounded-lg mb-4"
             >
-            {lang === "ja" && <SentenceItem>{japanese}</SentenceItem>}
-            {lang === "en" && eng.map(_eng => <SentenceItem isShow={isShow}>{_eng}</SentenceItem>)}
+            {lang === "ja" && <SentenceItem key="ja">{japanese}</SentenceItem>}
+            {lang === "en" && eng.map(_eng => <SentenceItem key={_eng} isShow={isShow}>{_eng}</SentenceItem>)}
             </div>
         </>
     );

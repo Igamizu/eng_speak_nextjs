@@ -2,29 +2,32 @@ import { useSelector, useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import { addAsyncWithStatus } from "lib/store/modules/questions";
 import { initStatistics } from "lib/store/modules/statistics";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function SearchButton () {
     const router = useRouter();
     const terms = useSelector(state => state.terms);
     const questionsSelector = useSelector(state => state.questions);
     const dispatch = useDispatch();
+    const [isSearch, setIsSearch] = useState(false);
 
     useEffect(() => {
         const setQuestions = async() => {
-            if(questionsSelector.status === "fulfilled") {
+            if(questionsSelector.status === "fulfilled" && isSearch) {
                 const { questions } = questionsSelector;
                 dispatch(initStatistics());
                 router.push(`/questions/${questions[0].key_value}`, { scroll: false });
             }
         }
         setQuestions();
+        isSearch && setIsSearch(prev => !prev);
     }, [questionsSelector.status]);
 
     const clickHandler = async (e) => {
         e.preventDefault();
         await dispatch(addAsyncWithStatus(terms));
-        dispatch(initStatistics());
+        await dispatch(initStatistics());
+        setIsSearch(prev => !prev);
     }
 
     return (

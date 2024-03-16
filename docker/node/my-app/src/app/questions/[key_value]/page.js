@@ -9,6 +9,7 @@ import Statistics from "@/app/_components/detail/statistics";
 
 export default function Detail() {
     const params = useParams();
+
     const { key_value } = params;
     const dispatch = useDispatch();
     const [isRetry, setRetry] = useState(false);
@@ -16,10 +17,11 @@ export default function Detail() {
     const { questions } = useSelector(state => state.questions);
     const { question, status } = useSelector(state => state.question);
     const questionsKey = questions ? questions.map(_question => _question.key_value) : [];
+    const statistics = useSelector(state => state.statistics);
 
     useEffect(() => {
         const setQuestion = async () => {
-           await dispatch(addAsyncQuestion(key_value)); 
+            await dispatch(addAsyncQuestion(key_value));
         }
         setQuestion();
         questions && dispatch(setTotal(questions.length));

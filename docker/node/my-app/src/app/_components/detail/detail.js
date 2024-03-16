@@ -95,8 +95,8 @@ return (
                 {key_value}
             </p>
         </div>
-        <SentenceList lang="ja" />
-        <SentenceList lang="en" onClick={() => setIsShow(prev => !prev)} isShow={isShow} />
+        <SentenceList lang="ja" key="ja" />
+        <SentenceList lang="en" key="en" onClick={() => setIsShow(prev => !prev)} isShow={isShow} />
         <div className="flex flex-row justify-center pb-10">
             <Button onClick={() => setIsShow(prev => !prev)}>英</Button>
             {current > 1 ? <Button onClick={setPrevious}>前</Button> : <EmptyButton />}

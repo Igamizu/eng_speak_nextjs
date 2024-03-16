@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { useRouter } from "next/navigation";
 import { LoadAsyncQuestions } from "lib/store/modules/questions";
-import { LoadAsyncStatistics, initStatistics } from "lib/store/modules/statistics";
+import { LoadAsyncStatistics } from "lib/store/modules/statistics";
 import SlButton from "./sl_button";
 
 const ENDPOINT = "/api/giu/save_slot"
@@ -13,6 +13,7 @@ export default function Save_load() {
     const setInput = (e) => {
         setState(prev => e.target.value);
     }
+    const [isLoad, setIsLoad] = useState(false);
 
     const router = useRouter();
     const questionsSelector = useSelector(state => state.questions);
@@ -23,16 +24,18 @@ export default function Save_load() {
 
     useEffect(() => {
         const setLoad = async () => {
-            if (current && questions) {
+            if (current && questions && isLoad) {
                 router.push(`/questions/${questions[current - 1].key_value}`, { scroll: false });
             }
+            isLoad && setIsLoad(prev => !prev);
         }
         setLoad();
-    }, [statistics.status, questionsSelector.status])
+    }, [isLoad])
 
     const loadSlot = async() => {
         await dispatch(LoadAsyncQuestions(state));
         await dispatch(LoadAsyncStatistics(state));
+        setIsLoad(prev => !prev);
     }
 
     const save = async () => {
