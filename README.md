@@ -63,3 +63,8 @@ $ docker-compose down
 $ docker system prune -a
 ~~~
 停止しているコンテナの他にイメージとキャッシュが削除されます。作業終わりなどの時に使用してください。
+
+## 文字コード変換
+~~~
+$ iconv -f sjis -t utf8 docker/mysql/giu_shift-jis.txt > docker/mysql/giu.txt
+~~~
