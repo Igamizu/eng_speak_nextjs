@@ -960,7 +960,7 @@ GU016S017	1	16	03_Present perfect and past 2	ついにバスが来た。 20分�
 GU016S018	1	16	03_Present perfect and past 2	私たちが出かけるときは雨は降っていませんでした。 太陽が輝いていました。 しかし、雨が降っていたので地面は濡れていました。	"It wasn't raining when we went out. The sun was shining. But it had been raining, so the ground was wet."		
 GU016S019	1	16	03_Present perfect and past 2	キャサリンは肘掛け椅子に座って休んでいました。 彼女は一生懸命働いたので疲れていました。	Katherine was sitting in an armchair resting. She was tired because she'd been working hard.		
 GU016S020	1	16	03_Present perfect and past 2	私たちは中心部近くのアパートに住んでいます。 私たちはそこに2年住んでいます。	We live in a flat near the centre. We've been living there for two years.		
-GU016S021	1	16	03_Present perfect and past 2	数か月前に職を失いましたが、驚きませんでした。 期待していたんです。	"I lost my job a few months ago, but I wasn't surprised. I'd been expecting it."		
+GU016S021	1	16	03_Present perfect and past 2	数か月前に職を失いましたが、驚きませんでした。 予期していました。	"I lost my job a few months ago, but I wasn't surprised. I'd been expecting it."		
 GU016S022	1	16	03_Present perfect and past 2	昨年、私が勤めていた会社が倒産しました。 しばらくの間、赤字が続いていました。	Last year the company I worked for went out of business. It had been losing money for some time.		
 GU016S023	1	16	03_Present perfect and past 2	あなたの英語は上手です。 どのくらいの期間それを習っていますか？	Your English is good. How long have you been learning it?		
 GU016S024	1	16	03_Present perfect and past 2	試験を受けたとき、どれくらい英語を勉強していましたか?	How long had you been  learning English when you did the exam?		
@@ -982,7 +982,7 @@ GU017S004	1	17	03_Present perfect and past 2	私たちの家には小さな庭�
 GU017S005	1	17	03_Present perfect and past 2	彼にはいくつか問題がある。	He has a few problems.	He's got a few problems.	
 GU017S006	1	17	03_Present perfect and past 2	私たちは休暇を楽しんでいます。 私たちはホテルに素敵な部屋を持っています。	We're enjoying our holiday. We have a nice room in the hotel.		
 GU017S007	1	17	03_Present perfect and past 2	リサは子供の頃、髪が長かったです。	Lisa had long hair when she was a child.		
-GU017S008	1	17	03_Present perfect and past 2	明日の朝は暇です。 運転教習を受けてきました。	I'm not free tomorrow morning. I've got a driving lesson.		
+GU017S008	1	17	03_Present perfect and past 2	明日の朝は暇ではありません。 運転教習があります。	I'm not free tomorrow morning. I've got a driving lesson.		
 GU017S009	1	17	03_Present perfect and past 2	レイチェルは一人っ子です。 彼女には兄弟も姉妹もいません。	Rachel is an only child. She's got no brothers or sisters.		
 GU017S010	1	17	03_Present perfect and past 2	時間はたっぷりあります。 急ぐ必要はありません。	We've got plenty of time. There's no need to hurry.		
 GU017S011	1	17	03_Present perfect and past 2	本当に良い声をしていますね。 私もあなたと同じように上手に歌えたらいいのにと思います。	You've got a really good voice. I wish I could sing as well as you.		
@@ -997,7 +997,7 @@ GU017S019	1	17	03_Present perfect and past 2	彼女は車を持っていませ�
 GU017S020	1	17	03_Present perfect and past 2	パリに住んでいたとき、車を持っていましたか？	Did you have a car when you were living in Paris?		
 GU017S021	1	17	03_Present perfect and past 2	携帯電話を持っていなかったので、あなたに電話をかけることができませんでした。	"I didn't have my phone, so I couldn't call you."		
 GU017S022	1	17	03_Present perfect and past 2	リサは髪が長かったですね。	"Lisa had long hair, didn't she?"		
-GU017S023	1	17	03_Present perfect and past 2	屋上に上がれません。 はしごがありません。	I can't get onto the roof. I don't have a ladder.		
+GU017S023	1	17	03_Present perfect and past 2	屋上に上がれません。 はしごを持っていません。	I can't get onto the roof. I don't have a ladder.		
 GU017S024	1	17	03_Present perfect and past 2	彼は家に入ることができません。 彼は鍵を持っていません。	He can't get into the house. He hasn't got a key.		
 GU017S025	1	17	03_Present perfect and past 2	昨日はとても忙しかったです。 買い物をする時間がありませんでした。	I was very busy yesterday. I didn't have time to do the shopping.		
 GU017S026	1	17	03_Present perfect and past 2	電話はありますか？ いいえ、持ってくるのを忘れました。	"Have you got your phone?    No, I forgot to bring it."		
@@ -1005,7 +1005,7 @@ GU017S027	1	17	03_Present perfect and past 2	ジャックは仕事をしてい�
 GU017S028	1	17	03_Present perfect and past 2	前職で働いていたときは、自分のオフィスを持っていましたか?	"When you worked in your last job, did you have your own office?"		
 GU017S029	1	17	03_Present perfect and past 2	ジャックは車を持っていません。 彼は運転できません。	Jack doesn't have a car. He can't drive.		
 GU017S030	1	17	03_Present perfect and past 2	私たちは雨に濡れました。 私たちは傘を持っていませんでした。	We got wet in the rain. We didn't have an umbrella.		
-GU017S031	1	17	03_Present perfect and past 2	鍵はどこですか？ わからない。 分かりません。	Where's the key?    I don't know. I haven't got it.		
+GU017S031	1	17	03_Present perfect and past 2	鍵はどこですか？ 分かりません。 持っていません。	Where's the key?    I don't know. I haven't got it.		
 GU017S032	1	17	03_Present perfect and past 2	トムはバイクを持っていましたね。 はい、そうです。	"Tom had a motorbike, didn't he?    Yes, that's right."		
 GU017S033	1	17	03_Present perfect and past 2	ランチにサンドイッチを食べることもあります。	Sometimes I have a sandwich for my lunch.		
 GU017S034	1	17	03_Present perfect and past 2	サンドイッチをいくつか持っています。 おひとついかが？	I've got some sandwiches. Would you like one?		
@@ -1025,7 +1025,7 @@ GU017S047	1	17	03_Present perfect and past 2	楽しんでいただけていま�
 GU017S048	1	17	03_Present perfect and past 2	今日はあまり気分が良くありません。 風邪をひいた。	I'm not feeling so good today. I've got a cold.		
 GU017S049	1	17	03_Present perfect and past 2	最後にスティーブに会ったとき、彼はひげを生やしていました。	"The last time I saw Steve, he had a beard."		
 GU017S050	1	17	03_Present perfect and past 2	午前8時、ウィルはキッチンにいます。 彼は朝食を食べています。	It's 8 a.m. and Will is in the kitchen. He's having breakfast.		
-GU017S051	1	17	03_Present perfect and past 2	あなたは朝ごはんに何を食べますか？	What do you usually have for breakfast?		
+GU017S051	1	17	03_Present perfect and past 2	たいていあなたは朝ごはんに何を食べますか？	What do you usually have for breakfast?		
 GU017S052	1	17	03_Present perfect and past 2	私が朝食を食べているときにドアベルが鳴りました。	The doorbell rang when I was having breakfast.		
 GU017S053	1	17	03_Present perfect and past 2	今は仕事をしていません。 休憩中です。	I'm not working right now. I'm having a break.		
 GU017S054	1	17	03_Present perfect and past 2	急ぐ必要はありません。 時間はたっぷりあります。	We don't need to hurry. We have plenty of time.		
@@ -1081,7 +1081,7 @@ GU018S043	1	18	03_Present perfect and past 2	彼女はギターを弾きませ�
 GU018S044	1	18	03_Present perfect and past 2	彼女はギターを弾いていました。	She used to play the guitar.		
 GU018S045	1	18	03_Present perfect and past 2	彼は魚を食べません。	He doesn't eat fish.		
 GU018S046	1	18	03_Present perfect and past 2	彼は魚を食べるのが習慣ではなかった。	He didn't use to eat fish.		
-GU018S047	1	18	03_Present perfect and past 2	彼はよく魚を食べていました。	He used to eat fish.		
+GU018S047	1	18	03_Present perfect and past 2	彼はかつて魚を食べていました。	He used to eat fish.		
 GU018S048	1	18	03_Present perfect and past 2	彼女はたくさん写真を撮ります。	She takes a lot of pictures.		
 GU018S049	1	18	03_Present perfect and past 2	彼女はあまり写真を撮りませんでした。	She didn't use to take many pictures.		
 GU018S050	1	18	03_Present perfect and past 2	彼女はよく写真を撮っていました。	She used to take a lot of pictures.		
@@ -1102,18 +1102,18 @@ GU018S064	1	18	03_Present perfect and past 2	私が車で通り過ぎたとき�
 GU018S065	1	18	03_Present perfect and past 2	ウェインはパーティーでとても素敵に見えました。 彼はスマートなスーツを着ていました。	Wayne looked very nice at the party. He was wearing a smart suit.		
 GU018S066	1	18	03_Present perfect and past 2	子供の頃、私はよく悪い夢を見ていました。	"When I was a child, I used to have a lot of bad dreams."		
 GU018S067	1	18	03_Present perfect and past 2	あなたは昨日の午後どこにいましたか？ 私はバレーボールをしていました。	Where were you yesterday afternoon?    I was playing volleyball.		
-GU018S068	1	18	03_Present perfect and past 2	何かスポーツをしますか？ もうない。 私はバレーボールをしていました。	Do you do any sports?    Not any more. I used to play volleyball.		
+GU018S068	1	18	03_Present perfect and past 2	何かスポーツをしますか？ もうしません。 私はかつてバレーボールをしていました。	Do you do any sports?    Not any more. I used to play volleyball.		
 GU018S069	1	18	03_Present perfect and past 2	私は一人暮らしをしていました。	I used to live alone.		
 GU018S070	1	18	03_Present perfect and past 2	私は一人暮らしには慣れています。	I am used to living alone.		
-GU019S001	1	19	04_Future	彼は月曜日の午後にテニスをしています。	He's playing tennis on Monday afternoon.		
+GU019S001	1	19	04_Future	彼は月曜日の午後にテニスをする予定です。	He's playing tennis on Monday afternoon.		
 GU019S002	1	19	04_Future	彼は火曜日の朝に歯医者に行く予定です。	He's going to the dentist on Tuesday morning.		
 GU019S003	1	19	4_Future	彼は金曜日にケイトに会う予定です。	He's meeting Kate on Friday.		
 GU019S004	1	19	4_Future	彼女は２週間イタリアへ行く予定です。	She's going to Italy for two weeks.		
 GU019S005	1	19	4_Future	彼は電車でロンドンへ行くつもりです。	He's going to London by train.		
-GU019S006	1	19	4_Future	ジョーは土曜日は仕事をしていません。	Joe isn't working on Saturday.		
+GU019S006	1	19	4_Future	ジョーは土曜日は仕事をしない予定です。	Joe isn't working on Saturday.		
 GU019S007	1	19	4_Future	彼女は火曜日に誰かと会う予定です。	She's meeting someone on Tuesday.		
 GU019S008	1	19	4_Future	A: 土曜の夜は何をしていますか? B: 劇場に行くつもりです。	A: What are you doing on Saturday evening? B: I'm going to the theatre.		
-GU019S009	1	19	4_Future	明日は仕事が休みなので、どこかに出かけましょう。	"I'm not working tomorrow, so we can go out somewhere."		
+GU019S009	1	19	4_Future	明日は働かない予定なので、どこかに出かけることができます。	"I'm not working tomorrow, so we can go out somewhere."		
 GU019S010	1	19	4_Future	アレックスは来月結婚します。	Alex is getting married next month.		
 GU019S011	1	19	4_Future	スティーブは来週の土曜日にフットボールをしません。 彼は足を怪我しています。	Steve isn't playing football next Saturday. He's hurt his leg.		
 GU019S012	1	19	4_Future	A: ジェス、もう準備はできた? B: はい、行きます。	"A: Jess, are you ready yet? B: Yes, I'm coming."		
@@ -1126,9 +1126,9 @@ GU019S018	1	19	4_Future	私はニューヨークが大好きです。 もうす�
 GU019S019	1	19	4_Future	金曜日にサラに会います。 また彼女に会えるのを楽しみにしています。	I'm meeting Sarah on Friday. I'm looking forward to seeing her again.		
 GU019S020	1	19	4_Future	今から出発します。 別れを告げに来たのです。	I'm leaving now. I've come to say goodbye.		
 GU019S021	1	19	4_Future	ヘレン、散歩に出かけます。 あなたは私と来るか？	"Helen, I'm going out for a walk. Are you coming with me?"		
-GU019S022	1	19	4_Future	タクシーに乗りましょう。 歩いてないんです。 疲れすぎました。	Let's get a taxi. I'm not walking. I'm too tired.		
-GU019S023	1	19	4_Future	デイブは今夜は外出しないことに決めました。 彼は家にいます。	Dave has decided not to go out tonight. He is staying at home.		
-GU019S024	1	19	4_Future	駅までどうやって行くの？ 運転中ですか？	How are you going to the station? Are you driving?		
+GU019S022	1	19	4_Future	タクシーに乗りましょう。 歩かない予定です。 疲れすぎました。	Let's get a taxi. I'm not walking. I'm too tired.		
+GU019S023	1	19	4_Future	デイブは今夜は外出しないことに決めました。 彼は家に滞在する予定です。	Dave has decided not to go out tonight. He is staying at home.		
+GU019S024	1	19	4_Future	駅までどうやって行くの？ 運転する予定ですか？	How are you going to the station? Are you driving?		
 GU019S025	1	19	4_Future	今夜テレビでフットボールの大きな試合がありますが、私はそれを見ません。 興味ないです。	"There's a big football match on TV tonight, but I'm not watching it. I'm not interested."		
 GU019S026	1	19	4_Future	ローラは明日のパーティーに来ません。 彼女の体調は良くありません。	Laura isn't coming to the party tomorrow. She isn't well.		
 GU019S027	1	19	4_Future	遅いです。 もう寝るところです。 おやすみ。	It's late. I'm going to bed now. Goodnight.		
@@ -1185,7 +1185,7 @@ GU020S022	1	20	4_Future	それは大きな問題です。 何をするのか分�
 GU020S023	1	20	4_Future	私たちは来週の月曜日にお休みをいただきます。 私たちはスペインに行くつもりです。	We're going on holiday next Monday. We're going to Spain.		
 GU020S024	1	20	4_Future	ケイトはもうすぐ学校を卒業します。 彼女は大学に行くことを望んでいます。	Kate is leaving school soon. She hopes to go to university.		
 GU020S025	1	20	4_Future	明日トムに会う予定です。 しばらく彼に会っていません。	I'm meeting Tom tomorrow. I haven't seen him for a while.		
-GU020S026	1	20	4_Future	ルーシーは明日仕事をしません。 今日は彼女の休日です。	Lucy isn't working tomorrow. It's her day off.		
+GU020S026	1	20	4_Future	ルーシーは明日仕事をしません。 （明日は）彼女の休日です。	Lucy isn't working tomorrow. It's her day off.		
 GU020S027	1	20	4_Future	彼らは10月に結婚する予定です。 結婚式に行きます。	They're getting married in October. I'm going to the wedding.		
 GU020S028	1	20	4_Future	ベンは来週マラソンに出場します。 彼はそのために一生懸命トレーニングをしてきた。	Ben is running in a marathon next week. He's been training hard for it.		
 GU020S029	1	20	4_Future	努力が足りませんでした。 もっと努力するつもりです。	I haven't been trying hard enough. I'm going to try harder.		
@@ -1193,7 +1193,7 @@ GU020S030	1	20	4_Future	明日スピーチをしなければならないので�
 GU020S031	1	20	4_Future	お金がないんです。 何しようか？	We've got no money. What are we going to do?		
 GU020S032	1	20	4_Future	A: 車はとても汚れています。 B: わかっています。 洗います。	A: The car is very dirty. B: I know. I'm going to wash it.		
 GU020S033	1	20	4_Future	外国語を勉強するつもりですが、どれがいいのか分かりません。	"I'm going to learn a foreign language, but I don't know which one."		
-GU020S034	1	20	4_Future	ある日、マラソンに出場することになりました。 それが私の野心です。	One day I'm going to run in a marathon. It's my ambition.		
+GU020S034	1	20	4_Future	いつか私はマラソンに出場するつもりです。 それが私の野心です。	One day I'm going to run in a marathon. It's my ambition.		
 GU020S035	1	20	4_Future	彼は壁に向かって歩いて行こうとしています。	He is going to walk into the wall.		
 GU020S036	1	20	4_Future	あの黒い雲を見てください！ 雨が降りそうです。	Look at those black clouds! It's going to rain.		
 GU020S037	1	20	4_Future	気分最悪。 病気になると思います。	I feel terrible. I think I'm going to be sick.		
@@ -1204,7 +1204,7 @@ GU020S041	1	20	4_Future	ルーシーとトムは運転しています。 タン�
 GU020S042	1	20	4_Future	ロバートは出かけます。 空には黒い雲があります。 彼は傘が必要になるだろう。	Robert is going out. There are black clouds in the sky. He's going to need an umbrella.		
 GU020S043	1	20	4_Future	サラの車は事故で損傷しました。 今、それを修理しなければなりません。 かなりの費用がかかります。	Sarah's car was damaged in an accident. Now it has to be repaired. It's going to cost a lot.		
 GU020S044	1	20	4_Future	グラハムは病気になり、病院に運ばれました。 当初、彼の状態は非常に深刻でしたが、今は良くなりました。 彼はきっと大丈夫だよ。	"Graham became ill and was taken to hospital. At first his condition was very serious, but now it is better. He's going to be OK."		
-GU020S045	1	20	4_Future	電車で行く予定でしたが、車で行くことにしました。	"We were going to travel by train, but then we decided to go by car instead."		
+GU020S045	1	20	4_Future	電車で旅行するつもりでしたが、代わりに車で行くことに決めました。	"We were going to travel by train, but then we decided to go by car instead."		
 GU020S046	1	20	4_Future	ピーターは試験を受けるつもりだったが、気が変わった。	"Peter was going to do the exam, but he changed his mind."		
 GU020S047	1	20	4_Future	道路を渡ろうとしたところ、誰かが「止まれ！」と叫びました。	I was just going to cross the road when somebody shouted 'Stop!'		
 GU020S048	1	20	4_Future	雨が降るかと思ったが、降らなかった。	"I thought it was going to rain, but it didn't."		
@@ -1228,7 +1228,7 @@ GU021S011	1	21	4_Future	A: この部屋は寒いです。 B：そうですか？
 GU021S012	1	21	4_Future	A: お茶かコーヒーはいかがですか。 B: コーヒーをください。	"A: Would you like tea or coffee? B: I'Il have coffee, please."		
 GU021S013	1	21	4_Future	A: どうやって家に帰るの？ B: タクシーに乗ろうかと思います。	A: How are you going to get home? B: I think I'Il take a taxi.		
 GU021S014	1	21	4_Future	A: 一緒に来ますか？ B: いいえ、ここに残ると思います。	"A: Are you coming with us? B: No, I think I'Il stay here."		
-GU021S015	1	21	4_Future	A: 来週の金曜日は空いていますか? B: 見てみましょう。 日記をチェックしてみます。	A: Are you free next Friday? B: Let me see. I'll check my diary.		
+GU021S015	1	21	4_Future	A: 来週の金曜日は空いていますか? B: ええと。 日記をチェックしてみます。	A: Are you free next Friday? B: Let me see. I'll check my diary.		
 GU021S016	1	21	4_Future	さよなら！ 明日の朝電話しますね、いいですか？	"Bye! I'll phone you tomorrow morning, OK?"		
 GU021S017	1	21	4_Future	両親にはあまり会いませんが、毎週電話しています。	"I don't see my parents very often, but I phone them every week."		
 GU021S018	1	21	4_Future	まだ決断できません。 考えておく。	I can't make a decision yet. I'll think about it.		
@@ -1273,28 +1273,28 @@ GU021S056	1	21	4_Future	一緒に来てほしいですか、それともここ�
 GU021S057	1	21	4_Future	今晩は何をしましょうか？ どこかに行きたいですか？	What shall we do this evening? Do you want to go somewhere?		
 GU021S058	1	21	4_Future	ヘレンに誕生日プレゼントを買わなければなりません。 何を手に入れましょうか？ 何か案は？	I have to buy a birthday present for Helen. What shall I get? Any ideas?		
 GU021S059	1	21	4_Future	レストランまでタクシーに乗りますか、それとも歩きましょうか?	"Do you want to get a taxi to the restaurant, or shall we walk?"		
-GU021S060	1	21	4_Future	この花をどこに置きましょうか? 花瓶はありますか？	Where shall I put these flowers? Do you have a vase?		
+GU021S060	1	21	4_Future	これらの花をどこに置きましょうか? 花瓶を持っていますか？	Where shall I put these flowers? Do you have a vase?		
 GU022S001	1	22	4_Future	彼らは長い間離れていたんです。 彼らが戻ってきたら、ここで多くの変化が見られるでしょう。	"They've been away a long time. When they return, they'll find a lot of changes here."		
 GU022S002	1	22	4_Future	A: 来年の今頃はどこにいるの？ B: 日本にいます。	A: Where will you be this time next year? B: I'll be in Japan.		
 GU022S003	1	22	4_Future	その皿は熱いです。 触ると火傷します。	"That plate is hot. If you touch it, you'll burn yourself."		
-GU022S004	1	22	4_Future	アンナは今ではまったく違った表情をしています。 あなたは彼女を認識できないでしょう。	Anna looks completely different now. You won't recognise her.		
+GU022S004	1	22	4_Future	アンナは今ではまったく違って見えます。 あなたは彼女を認識できないでしょう。	Anna looks completely different now. You won't recognise her.		
 GU022S005	1	22	4_Future	今はアンに電話しないでください。 彼女は忙しいでしょう。	Don't phone Ann now. She'll be busy.		
 GU022S006	1	22	4_Future	私はこの本をマークに貸すつもりです。 彼は楽しんで読んでくれると思います。	I'm going to lend this book to Mark. I think he'll enjoy reading it.		
 GU022S007	1	22	4_Future	トムの傘を貸してもらえます。 きっと彼は気にしないでしょう。	You can borrow Tom's umbrella. I'm sure he won't mind.		
 GU022S008	1	22	4_Future	このジャケットを着てみてください。 きっと素敵に見えると思います。	Try this jacket on. I think it will look nice on you.		
 GU022S009	1	22	4_Future	今朝はとても寒いです。 外出するときはコートが必要です。	It's very cold this morning. You'll need your coat when you go out.		
-GU022S010	1	22	4_Future	レストランはここから遠くないところにあります。 そこに着くまでにそれほど時間はかかりません。	The restaurant isn't far from here. It won't take long to get there.		
+GU022S010	1	22	4_Future	レストランはここから遠くありません。 そこに着くまでにそれほど時間はかからないでしょう。	The restaurant isn't far from here. It won't take long to get there.		
 GU022S011	1	22	4_Future	とても面白いことが起こりました。 そのことを話したら笑うでしょう。	Something very funny happened. You'll laugh when I tell you about it.		
 GU022S012	1	22	4_Future	ジェームズは腕を怪我しました。 彼はしばらくテニスをすることができなくなるだろう。	James has hurt his arm. He won't be able to play tennis for a while.		
-GU022S013	1	22	4_Future	私たちはちょうど最終バスに乗り遅れてしまいました。 タクシーを拾わなければなりません。	We've just missed the last bus. We'll have to get a taxi.		
+GU022S013	1	22	4_Future	私たちはちょうど最終バスに乗り遅れてしまいました。 タクシーを拾わないといけないでしょう。	We've just missed the last bus. We'll have to get a taxi.		
 GU022S014	1	22	4_Future	私を待っていてくれますか？ 長くはかからないよ。	Can you wait for me? I won't be long.		
-GU022S015	1	22	4_Future	明日エミリーに会えて嬉しいです。 彼女にまた会えると嬉しいです。	I'm glad I'm meeting Emily tomorrow. It will be good to see her again.		
-GU022S016	1	22	4_Future	エイミーにアドバイスを求めるのは無駄だ。 彼女は何をすればいいのか分からないだろう。	It's no good asking Amy for advice. She won't know what to do.		
-GU022S017	1	22	4_Future	何が起こったのか申し訳ありません。 もう二度と起こらないでしょう。	I'm sorry about what happened. It won't happen again.		
+GU022S015	1	22	4_Future	私は明日エミリーに会う予定なのが嬉しいです。 彼女にまた会えるのはいいことでしょう。	I'm glad I'm meeting Emily tomorrow. It will be good to see her again.		
+GU022S016	1	22	4_Future	エイミーにアドバイスを求めることにいいことはありません。 彼女は何をすればいいのか分からないだろう。	It's no good asking Amy for advice. She won't know what to do.		
+GU022S017	1	22	4_Future	起こったことについて申し訳ありません。 もう二度と起こらないでしょう。	I'm sorry about what happened. It won't happen again.		
 GU022S018	1	22	4_Future	私たちは傘を持っていく必要はありません。 雨は降らないと思います。	We don't need to take an umbrella. I don't think it will rain.		
 GU022S019	1	22	4_Future	信じられないニュースがあります。 信じられないでしょう。	I've got some incredible news. You won't believe it.		
 GU022S020	1	22	4_Future	とても素敵なホテルです。 ここでの滞在をお楽しみいただけます。	It's a very nice hotel. You'll enjoy your stay here.		
-GU022S021	1	22	4_Future	明日は会えません。 時間がありません。	I can't meet you tomorrow. I won't have time.		
+GU022S021	1	22	4_Future	明日はあなたに会えません。 私は時間がないでしょう。	I can't meet you tomorrow. I won't have time.		
 GU022S022	1	22	4_Future	おそらく今夜は遅くまで帰宅するでしょう。	I'll probably be home late tonight.		
 GU022S023	1	22	4_Future	試験のことは心配しないでください。 きっと合格しますよ。	Don't worry about the exam. I'm sure you'll pass.		
 GU022S024	1	22	4_Future	サラは私たちが買ったプレゼントを気に入ってくれると思いますか?	Do you think Sarah will like the present we bought her?		
@@ -1312,7 +1312,7 @@ GU022S035	1	22	4_Future	このボタンを押すと何が起こりますか?	Wha
 GU022S036	1	22	4_Future	アンナをパーティーに招待しましたが、彼女は来ないと思います。	"I've invited Anna to the party, but I don't think she'll come."		
 GU022S037	1	22	4_Future	空港まではおそらく 20 分ほどかかります。	The journey to the airport will probably take about 20 minutes.		
 GU022S038	1	22	4_Future	ロバートは私に電話すると言った。 彼がそうするかどうかは疑問だ。	Robert said he would call me. I wonder whether he will.		
-GU022S039	1	22	4_Future	急げば遅れませんよ。	"If we hurry, we won?t be late."		
+GU022S039	1	22	4_Future	急げば遅れませんよ。	"If we hurry, we won't be late."		
 GU022S040	1	22	4_Future	天気はあまり良くないようです。 雨が降ると思いますか？	The weather doesn't look very good. Do you think it will rain?		
 GU022S041	1	22	4_Future	会議はまだ続いています。 いつ終わると思いますか？	The meeting is still going on. When do you think it will end?		
 GU022S042	1	22	4_Future	私の車は修理する必要があります。 いくらくらいかかると思いますか？	My car needs to be repaired. How much do you think it will cost?		
@@ -1326,42 +1326,42 @@ GU022S049	1	22	4_Future	ジェームズは招待されればパーティーに�
 GU022S050	1	22	4_Future	私たちは土曜日にパーティーを開きます。 来てみませんか？	We're having a party on Saturday. Would you like to come?		
 GU022S051	1	22	4_Future	今晩は会えません。 私の友人が私に会いに来ます。	I can't meet you this evening. A friend of mine is coming to see me.		
 GU022S052	1	22	4_Future	エイミーは来週試験があります。 彼女はきっとうまくやってくれると思います。	Amy has her exams next week. I'm sure she'll do very well.		
-GU022S053	1	22	4_Future	ベンは土曜日は暇です。 彼は働いています	Ben isn't free on Saturday. He's working		
+GU022S053	1	22	4_Future	ベンは土曜日暇ではありません。 彼は働く予定です。	Ben isn't free on Saturday. He's working		
 GU022S054	1	22	4_Future	明日の試合は誰が勝つと思いますか?	Who do you think will win the game tomorrow?		
 GU022S055	1	22	4_Future	犬を怖がらないでください。 それはあなたを傷つけません。	Don't be afraid of the dog. It won't hurt you.		
 GU022S056	1	22	4_Future	A: 休暇にどこに行くか決めましたか? B: はい、イタリアに行きます。	"A: Have you decided where to go for your holiday? B: Yes, I'm going to Italy."		
 GU022S057	1	22	4_Future	A: 鍵をなくしてしまいました。 B: 心配しないでください。 私たちが見つけます。	A: I've lost my keys. B: Don't worry. We'll find them.		
-GU022S058	1	22	4_Future	今晩は遅くなる予定です。	I shall be late this evening.	I will be late this evening.	
+GU022S058	1	22	4_Future	今晩は遅くなるでしょう。	I shall be late this evening.	I will be late this evening.	
 GU022S059	1	22	4_Future	おそらく6月には出発するでしょう。	We shall probably go away in June.	We will probably go away in June.	
 GU022S060	1	22	4_Future	私たちはおそらくフランスに行くでしょう。	We'll probably go to France.		
 GU022S061	1	22	4_Future	明日はここにいないでしょう。	I shan't be here tomorrow.	I won't be here tomorrow.	
 GU022S062	1	22	4_Future	彼女はとても怒るでしょう。	She will be very angry.		
 GU022S063	1	22	4_Future	素晴らしい経験でした。 決して忘れることはありません。	It was an amazing experience. I shall never forget it.		
-GU022S064	1	22	4_Future	ここで待っていてください。 もう長くはないだろう。	Wait here for me. I shan't be long.		
+GU022S064	1	22	4_Future	私をここで待っていてください。 長くはかけないでしょう。	Wait here for me. I shan't be long.		
 GU022S065	1	22	4_Future	彼は試験に合格するとは思えません。 もし彼がそうしたら私は驚くだろう。	I don't think he'll pass the exam. I shall be surprised if he does.		
-GU022S066	1	22	4_Future	事故の原因は謎だ。 何が起こったのかは決して分かりません。	The cause of the accident is a mystery. We shall never know what happened.		
+GU022S066	1	22	4_Future	事故の原因は謎だ。 我々は何が起こったのかを決して知ることはないでしょう。	The cause of the accident is a mystery. We shall never know what happened.		
 GU022S067	1	22	4_Future	あなたは明日その車を使うことができます。 要らないよ。	You can use the car tomorrow. I shan't need it.		
 GU023S001	1	23	4_Future	A: ゲイリーがあなたに連絡しようとしています。 B: そうだったの？ わかりました、彼に電話してみます。	"A: Gary has been trying to contact you. B: Has he? OK, I'll call him."		
 GU023S002	1	23	4_Future	A: ゲイリーがあなたに連絡しようとしています。 B: はい、知っています。 彼に電話するつもりです。	"A: Gary has been trying to contact you. B: Yes, I know. I'm going to call him."		
 GU023S003	1	23	4_Future	A: アンナは入院しています。 B: 本当ですか？ 知りませんでした。 彼女を訪ねて行きます。	A: Anna is in hospital. B: Really? I didn't know. I'll go and visit her.		
 GU023S004	1	23	4_Future	A: アンナは入院しています。 B: はい、知っています。 今晩彼女を訪ねるつもりです。	"A: Anna is in hospital. B: Yes, I know. I'm going to visit her this evening."		
-GU023S005	1	23	4_Future	A: どうしてテレビをつけるの? B: ニュースを見るつもりです。	A: Why are you turning on the TV? B: I'm going to watch the news.		
+GU023S005	1	23	4_Future	A: どうしてあなたはテレビをつけているのですか? B: ニュースを見るつもりです。	A: Why are you turning on the TV? B: I'm going to watch the news.		
 GU023S006	1	23	4_Future	A: 財布を忘れてしまい、お金がありません。 B: 心配しないでください。 ちょっと貸してあげるよ。	A: I forgot my wallet and don't have any money. B: Not to worry. I'Il lend you some.		
 GU023S007	1	23	4_Future	A: スーに電話しましたか？ B: いや、すっかり忘れてました。 今から彼女に電話します。	"A: Did you call Sue? B: Oh no, I completely forgot. I'll call her now."		
 GU023S008	1	23	4_Future	A: なぜそのバケツに水を入れるのですか? B: 車を洗います。	A: Why are you filling that bucket with water? B: I'm going to wash the car.		
-GU023S009	1	23	4_Future	A: この部屋にペンキを塗ることにしました。 B: ありますか？ 何色に塗るつもりですか？	A: I've decided to paint this room. B: Have you? What colour are you going to paint it?		
+GU023S009	1	23	4_Future	A: この部屋にペンキを塗ることにしました。 B: そうなのですか？ 何色に塗るつもりですか？	A: I've decided to paint this room. B: Have you? What colour are you going to paint it?		
 GU023S010	1	23	4_Future	A: 洗濯機の使い方がわかりません。 B: 簡単だよ。 見せてあげるよ。	A: I don't know how to use the washing machine. B: It's easy. I'Il show you.		
 GU023S011	1	23	4_Future	A: 何を食べたいですか? B: ピザをお願いします。	"A: What would you like to eat? B: I'll have a pizza, please."		
 GU023S012	1	23	4_Future	A: 出かけるんですか？ B: はい。 今夜の夕食に何か買うつもりです。	A: Are you going out? B: Yes. I'm going to buy something for dinner tonight.		
 GU023S013	1	23	4_Future	10時半にホテルのロビーでお会いしましょう、いいですか？	"I will see you at 10.30 in the hotel lobby, OK?"		
 GU023S014	1	23	4_Future	このカメラはもう動作しません。 捨てるつもりです。	This camera doesn't work any more. I'm going to throw it away.		
-GU023S015	1	23	4_Future	捨てないでください。 いただきます。	Don't throw it away. I'll have it.		
+GU023S015	1	23	4_Future	それを捨てないでください。 私はそれをもらいます。	Don't throw it away. I'll have it.		
 GU023S016	1	23	4_Future	A: 私たちは来週末パリに行きます。 B: それはいいですね。 どのようにして旅行にいくのか？ 電車で？	A: We're going to Paris next weekend. B: That's nice. How are you going to travel? By train?		
-GU023S017	1	23	4_Future	A: この食べ物はおいしくないですよね？ B: いいえ、終わらせるつもりはありません。	"A: This food doesn't taste good, does it? B: No, I'm not going to finish it."		
-GU023S018	1	23	4_Future	A: 頭が痛いんです。 何かありますか？ B: そうですね。 アスピリンを持ってきます。	A: I've got a headache. Have you got something for it? B: Sure. I'll get an aspirin for you.		
+GU023S017	1	23	4_Future	A: この食べ物はおいしくないですよね？ B: いいえ、食べ終えるつもりはありません。	"A: This food doesn't taste good, does it? B: No, I'm not going to finish it."		
+GU023S018	1	23	4_Future	A: 頭が痛いんです。 それ用に何か持っていますか？ B: そうですね。 アスピリンをあなたに処方します。	A: I've got a headache. Have you got something for it? B: Sure. I'll get an aspirin for you.		
 GU023S019	1	23	4_Future	A: ダンは大学を卒業したら何をするか決めましたか? B: はい。 彼は管理者研修コースを受講する予定です。	A: Has Dan decided what he's going to do when he finishes college? B: Yes. He's going to do a management training course.		
 GU023S020	1	23	4_Future	A: この部屋はとても暖かいです。 B：そうですか？ それなら窓を開けます。	A: It's very warm in this room. B: Is it? I'Il open the window then.		
-GU023S021	1	23	4_Future	A: トムは来月から夜のクラスが始まります。 B: 彼ですか？ 彼は何を勉強するつもりですか?	A: Tom is starting evening classes next month. B: Is he? What is he going to study?		
+GU023S021	1	23	4_Future	A: トムは来月から夜のクラスを始める予定です。 B: そうなのですか？ 彼は何を勉強するつもりですか?	A: Tom is starting evening classes next month. B: Is he? What is he going to study?		
 GU023S022	1	23	4_Future	A: 出かけます。 私達と一緒にいらっしゃいますか？ B: いいえ、ここに残ると思います。	"A: We're going out. Do you want to come with us? B: No, I think I'll stay here."		
 GU023S023	1	23	4_Future	A：どこへ行くの？ B: キッチンへ。 コーヒーを作るつもりです。 はいかがでしょうか？	A: Where are you going? B: To the kitchen. I'm going to make some coffee. Would you like some?		
 GU023S024	1	23	4_Future	この後は天気も良くなると思います。	I think the weather will be nice later.	I think the weather is going to be nice later.	
@@ -1370,7 +1370,7 @@ GU023S026	1	23	4_Future	あの黒い雲を見てください。 雨が降りそ�
 GU023S027	1	23	4_Future	私たちは会議に遅れそうです。 5分で始まり、到着まで20分かかります。	We're going to be late for the meeting. It starts in five minutes and it takes 20 minutes to get there.		
 GU023S028	1	23	4_Future	ジェーンは会議に遅れます。 彼女はいつも遅刻します。	Jane will be late for the meeting. She's always late.		
 GU023S029	1	23	4_Future	私たちと一緒にパーティーに来ませんか? きっとお楽しみいただけます。	Why don't you come to the party with us? You'll enjoy it.		
-GU023S030	1	23	4_Future	あの天井は危なそうです。 倒れてしまいそうです。	That ceiling looks dangerous. It looks as if it's going to fall down.		
+GU023S030	1	23	4_Future	あの天井は危なそうです。 落ちてきてしまいそうです。	That ceiling looks dangerous. It looks as if it's going to fall down.		
 GU023S031	1	23	4_Future	彼はとても疲れているようだ。 彼は眠ってしまうと思います。	He's looking very tired. I think he's going to fall asleep.		
 GU023S032	1	23	4_Future	このテーブルは部屋に合わないと思います。 大きすぎます。	I don't think this table will fit in the room. It's too big.		
 GU023S033	1	23	4_Future	もうすぐお金がなくなってしまいます。 持っていたもののほとんどを使ってしまいました。	I'm going to run out of money soon. I've spent most of what I had.		
@@ -1487,3 +1487,370 @@ GU025S060	1	25	4_Future	私は今テレビで番組を見ています。 それ�
 GU025S061	1	25	4_Future	明日会えなかったら、いつまた会えますか？	"If I don't see you tomorrow, when will I see you again?"		
 GU025S062	1	25	4_Future	家で食べることもできますし、ご希望であればレストランに行くこともできます。	"We can eat at home or, if you prefer, we can go to a restaurant."		
 GU025S063	1	25	4_Future	A: 来週ローマに行きます。 B: それはいいですね。 そこにいるときは何をするつもりですか？	A: I'm going to Rome next week. B: That's nice. What are you going to do when you're there?		
+GU026S001	1	26	5_Modals 1	私たちのホテルから湖が見えます。	We can see the lake from our hotel.		
+GU026S002	1	26	5_Modals 1	ペンをお持ちでない場合は、私のペンを使ってください。	"If you don't have a pen, you can use mine."		
+GU026S003	1	26	5_Modals 1	もしよかったら、明日会いに来てもいいよ。	I can come and see you tomorrow if you like.		
+GU026S004	1	26	5_Modals 1	「夢」という言葉は名詞でも動詞でも構いません。	The word 'dream' can be a noun or a verb.		
+GU026S005	1	26	5_Modals 1	あなたは何か外国語を話せますか？	Can you speak any foreign languages?		
+GU026S006	1	26	5_Modals 1	金曜日のパーティーには行けません。	I can't come to the party on Friday.		
+GU026S007	1	26	5_Modals 1	急いでいません。 私は待つことができる。	I'm in no hurry. I can wait.		
+GU026S008	1	26	5_Modals 1	彼らは休暇には行かないんです。 彼らにはそれを買う余裕がないのです。	They're not going on holiday. They can't afford it.		
+GU026S009	1	26	5_Modals 1	どちらのジャケットも素敵ですね。 どれを買うか決められません。	Both these jackets are nice. I can't decide which one to buy.		
+GU026S010	1	26	5_Modals 1	ロバートは良い声を持っています。 彼はとても上手に歌うことができます。	Robert has a good voice. He can sing very well.		
+GU026S011	1	26	5_Modals 1	彼らは非常に異なる考えを持っています。 彼らは何についても同意できない。	They have very different ideas. They can't agree about anything.		
+GU026S012	1	26	5_Modals 1	市内のこの地域では注意が必要です。 危険な場合があります。	You have to be careful in this part of the city. It can be dangerous.		
+GU026S013	1	26	5_Modals 1	私の父は腰を痛めました。 彼は何も持ち上げることができません。	My father has hurt his back. He can't lift anything.		
+GU026S014	1	26	5_Modals 1	空港行きのバスは30分おきにあります。 または、タクシーをご利用ください。	There's a bus to the airport every 30 minutes. Or you can take a taxi.		
+GU026S015	1	26	5_Modals 1	私たちのホテルからは湖が見えます。	We're able to see the lake from our hotel.	We can see the lake from our hotel.	
+GU026S016	1	26	5_Modals 1	眠れません。	I can't sleep.		
+GU026S017	1	26	5_Modals 1	最近眠れないんです。	I haven't been able to sleep recently.		
+GU026S018	1	26	5_Modals 1	トムは明日来ることができます。	Tom can come tomorrow.		
+GU026S019	1	26	5_Modals 1	トムは明日来られるかもしれない。	Tom might be able to come tomorrow.		
+GU026S020	1	26	5_Modals 1	マリアはフランス語とドイツ語を話すことができます。	Maria can speak French and German.		
+GU026S021	1	26	5_Modals 1	この仕事への応募者は 2 つの外国語を話せる必要があります。	Applicants for the job must be able to speak two foreign languages.		
+GU026S022	1	26	5_Modals 1	あなたの問題について教えてください。 お手伝いできるかもしれません。	Tell me about your problem. I might be able to help you.		
+GU026S023	1	26	5_Modals 1	以前は逆立ちすることができましたが、今は逆立ちできません。	"I used to be able to stand on my head, but I can't do it now."		
+GU026S024	1	26	5_Modals 1	マークのことが理解できません。 私は彼のことを決して理解できませんでした。	I can't understand Mark. I've never been able to understand him.		
+GU026S025	1	26	5_Modals 1	ダンはイタリアに長く住んでいるので、イタリア語を話せるはずです。	"Dan has lived in Italy for a long time, so he should be able to speak Italian."		
+GU026S026	1	26	5_Modals 1	ベンとは連絡が取れません。 何度も試しました。	I haven't been able to contact Ben. I've tried many times.		
+GU026S027	1	26	5_Modals 1	しばらく会っていません。 近いうちに彼らを訪問できることを願っています。	I haven't seen them for a while. I hope to be able to visit them soon.		
+GU026S028	1	26	5_Modals 1	ホテルには素敵な部屋がありました。 湖が見えました。	We had a lovely room in the hotel. We could see the lake.		
+GU026S029	1	26	5_Modals 1	部屋に入るとすぐにガスの匂いがしました。	"As soon as I walked into the room, I could smell gas."		
+GU026S030	1	26	5_Modals 1	私は劇場の後ろに座っていたので、よく聞こえませんでした。	I was sitting at the back of the theatre and couldn't hear very well.		
+GU026S031	1	26	5_Modals 1	私の祖父は5か国語を話すことができました。	My grandfather could speak five languages.		
+GU026S032	1	26	5_Modals 1	私たちは完全に自由でした。 私たちはやりたいことをすることができました。	We were totally free. We could do what we wanted.		
+GU026S033	1	26	5_Modals 1	残念ですが来週のあなたのパーティーには行けません。	I'm afraid I can't come to your party next week.		
+GU026S034	1	26	5_Modals 1	ダンは 16 歳のとき、100 メートルを 11 秒で走ることができました。	"When Dan was 16, he could run 100 metres in 11 seconds."		
+GU026S035	1	26	5_Modals 1	私は運転できますが、車を持っていません。	"I can drive, but I don't have a car."		
+GU026S036	1	26	5_Modals 1	昨日は気分が悪かった。 何も食べられませんでした。	I was feeling sick yesterday. I couldn't eat anything.		
+GU026S037	1	26	5_Modals 1	完全によく聞こえます。 そんなに大声で話す必要はありません。	I can hear you perfectly well. You don't need to speak so loud.		
+GU026S038	1	26	5_Modals 1	よく見ると、遠くに誰かが見えました。	"I looked very carefully, and I could see somebody in the distance."		
+GU026S039	1	26	5_Modals 1	このソファを手伝ってください。 一人では動かせません。	Help me with this sofa. I can't move it alone.		
+GU026S040	1	26	5_Modals 1	そのニュースを聞いて私は驚きました。 信じられませんでした。	I was amazed when I heard the news. I couldn't believe it.		
+GU026S041	1	26	5_Modals 1	私の祖父は5か国語を話すことができました。	My grandfather could speak five languages.		
+GU026S042	1	26	5_Modals 1	それらは見えましたが、あまりはっきりとは見えませんでした。	"I could see them, but not very clearly."		
+GU026S043	1	26	5_Modals 1	火はすぐに建物内に広がりましたが、幸いなことに全員が逃げることができました。	"The fire spread through the building very quickly, but fortunately everybody was able to escape."		
+GU026S044	1	26	5_Modals 1	火はすぐに建物内に広がりましたが、幸いなことに全員が逃げ出すことができました。	"The fire spread through the building very quickly, but fortunately everybody managed to escape."		
+GU026S045	1	26	5_Modals 1	デビッドがどこにいるのか分かりませんでしたが、最終的にはなんとか見つけることができました。	"We didn't know where David was, but we managed to find him in the end."		
+GU026S046	1	26	5_Modals 1	デビッドがどこにいるのか分かりませんでしたが、最終的には見つけることができました。	"We didn't know where David was, but we were able to find him in the end."		
+GU026S047	1	26	5_Modals 1	ジャックは若い頃、優れたテニス選手でした。 彼は誰にでも勝つことができた。	Jack was an excellent tennis player when he was younger. He could beat anybody.		
+GU026S048	1	26	5_Modals 1	ジャックとアンディは昨日試合をしました。 アンディは良いプレーをしましたが、ジャックはなんとかアンディを打ち負かしました。	"Jack and Andy played a match yesterday. Andy played well, but Jack managed to beat him."		
+GU026S049	1	26	5_Modals 1	私の祖父は泳げませんでした。	My grandfather couldn't swim.		
+GU026S050	1	26	5_Modals 1	私たちはデイビッドをあちこち探しましたが、見つかりませんでした。	"We looked for David everywhere, but we couldn't find him."		
+GU026S051	1	26	5_Modals 1	アンディは良いプレーをしたが、ジャックには勝てなかった。	"Andy played well, but he couldn't beat Jack."		
+GU026S052	1	26	5_Modals 1	女の子が川に落ちましたが、幸いなことに私たちは彼女を引き上げることができました。	"A girl fell into the river, but fortunately we managed to pull her out."		
+GU026S053	1	26	5_Modals 1	最近初めてマラソンを走りました。 とても大変でしたが、終えることができました。	"I ran my first marathon recently. It was very hard, but I was able to finish."		
+GU026S054	1	26	5_Modals 1	若い頃は速く走れましたが、今は走れません。	"When I was younger I could run fast, but I can't now."		
+GU026S055	1	26	5_Modals 1	仕事を見つけるのは簡単ではありませんでしたが、最終的には工場での仕事を見つけることができました。	"It wasn't easy finding work, but in the end I was able to find a job in a factory."		
+GU026S056	1	26	5_Modals 1	ショーはとても人気がありましたが、チケットを入手することができました。	"The show was very popular, but we were able to get tickets."		
+GU026S057	1	26	5_Modals 1	私の祖母は音楽が大好きでした。 彼女はとても上手にピアノを弾くことができました。	My grandmother loved music. She could play the piano very well.		
+GU026S058	1	26	5_Modals 1	難しい問題でしたが、なんとか解決することができました。	"It was a difficult problem, but we managed to solve it."		
+GU026S059	1	26	5_Modals 1	部屋の間の壁はとても薄かったです。 隣の部屋で人々が話しているのが聞こえました。	The wall between the rooms was very thin. I could hear people talking in the next room.		
+GU026S060	1	26	5_Modals 1	キッチンで小さな火事がありましたが、なんとか消し止めました。	"There was a small fire in the kitchen, but I managed to put it out."		
+GU026S061	1	26	5_Modals 1	とても面白かったです。 笑いが止まらなかった。	It was so funny. I couldn't stop laughing.		
+GU026S062	1	26	5_Modals 1	鍵を探してあちこち探しましたが、見つかりませんでした。	"I looked everywhere for my keys, but couldn't find them."		
+GU026S063	1	26	5_Modals 1	ローラはお腹が空いていませんでした。 彼女は何も食べることができませんでした。	Laura wasn't hungry. She couldn't eat anything.		
+GU026S064	1	26	5_Modals 1	私は夜中ほとんど起きていました。 眠れなかった。	I was awake most of the night. I couldn't sleep.		
+GU026S065	1	26	5_Modals 1	私たちは彼らをパーティーに招待しましたが、彼らは来ることができませんでした。	"We invited them to the party, but they couldn't come."		
+GU026S066	1	26	5_Modals 1	カメラを忘れたので写真が撮れませんでした。	"I'd forgotten my camera, so I couldn't take any pictures."		
+GU026S067	1	26	5_Modals 1	ジェシカは足を痛めて、あまり上手に歩くことができませんでした。	Jessica had hurt her foot and couldn't walk very well.		
+GU026S068	1	26	5_Modals 1	私たちはコンサートに行きたかったのですが、チケットを入手できませんでした。	"We wanted to go to the concert, but we couldn't get tickets."		
+GU027S001	1	27	5_Modals 1	聞く。 何かが聞こえます。	Listen. I can hear something.		
+GU027S002	1	27	5_Modals 1	私は聞いた。 何かが聞こえました。	I listened. I could hear something.		
+GU027S003	1	27	5_Modals 1	A: 今夜は何をしましょうか？ B: 映画館に行ってもいいよ。	A: What shall we do tonight? B: We could go to the cinema.		
+GU027S004	1	27	5_Modals 1	A: 来月パリに行くとき、サラの家に泊まってもいいよ。 B: はい、できると思います。	"A: When you go to Paris next month, you could stay with Sarah. B: Yes, I suppose I could."		
+GU027S005	1	27	5_Modals 1	私たちは映画館に行くことができます。	We can go to the cinema.		
+GU027S006	1	27	5_Modals 1	A: 今夜は何を食べましょうか? B: 魚を食べてもいいよ。	A: What shall we eat tonight? B: We could have fish.		
+GU027S007	1	27	5_Modals 1	A: いつかヴィッキーに電話する必要があるんだ。 B: 今ならできるよ。	A: I need to phone Vicky sometime. B: You could do it now.		
+GU027S008	1	27	5_Modals 1	A: アンの誕生日に何をあげましょうか? B: 彼女に本をあげてもいいよ。	A: What shall I get Ann for her birthday? B: You could give her a book.		
+GU027S009	1	27	5_Modals 1	A: この写真をどこに置きましょうか? B: キッチンに吊るしてもいいですね。	A: Where shall we put this picture? B: We could hang it in the kitchen.		
+GU027S010	1	27	5_Modals 1	A: 週末に何をしたいですか? B: どこかに行ってもいいよ。	A: What would you like to do at the weekend? B: We could go away somewhere.		
+GU027S011	1	27	5_Modals 1	A: 結婚式に何を着ていけばいいのか分かりません。 B: 茶色のスーツを着てもいいよ。	A: I don't know what to wear to the wedding. B: You could wear your brown suit.		
+GU027S012	1	27	5_Modals 1	私はとても疲れている。 一週間は眠れました。	I'm so tired. I could sleep for a week.		
+GU027S013	1	27	5_Modals 1	パリに行くときはサラと一緒にいられるよ。	I can stay with Sarah when I go to Paris.		
+GU027S014	1	27	5_Modals 1	パリに行くときはサラと一緒にいてもいいかもしれない。	Maybe I could stay with Sarah when I go to Paris.		
+GU027S015	1	27	5_Modals 1	ここは素晴らしい場所です。 永遠にここにいてもいいよ。	This is a wonderful place. I could stay here for ever.		
+GU027S016	1	27	5_Modals 1	私は彼にとても腹が立っています。 彼を殺せるかもしれない！	I'm so angry with him. I could kill him!		
+GU027S017	1	27	5_Modals 1	奇妙な音が聞こえます。 それは何ですか？	I can hear a strange noise. What is it?		
+GU027S018	1	27	5_Modals 1	私はこれらのビスケットが大好きです。 一袋全部食べられました。	I love these biscuits. I could eat the whole packet.		
+GU027S019	1	27	5_Modals 1	ここはとても素敵です。 一日中ここに座っていても良かったのですが、残念ながら行かなければなりません。	"It's so nice here. I could sit here all day, but unfortunately I have to go."		
+GU027S020	1	27	5_Modals 1	あなたの意見は理解できますが、あなたには同意しません。	"I can understand your point of view, but I don't agree with you."		
+GU027S021	1	27	5_Modals 1	ピーターは熱心な音楽家です。 彼はフルートを吹きますし、ピアノも弾くことができます。	Peter is a keen musician. He plays the flute and he can also play the piano.		
+GU027S022	1	27	5_Modals 1	運が悪い人もいます。 人生は非常に不公平になる可能性があります。	Some people are unlucky. Life can be very unfair.		
+GU027S023	1	27	5_Modals 1	私は本当に愚かでした。 私は自分自身を蹴ることができました。	I've been really stupid. I could kick myself.		
+GU027S024	1	27	5_Modals 1	その話は本当かもしれないが、私はそうではないと思う。	"The story could be true, but I don't think it is."		
+GU027S025	1	27	5_Modals 1	リサが何時に来るか分かりません。 彼女はいつでもここに着くことができた。	I don't know what time Lisa is coming. She could get here at any time.		
+GU027S026	1	27	5_Modals 1	その話は本当かもしれないが、私はそうではないと思う。	"The story might be true, but I don't think it is."		
+GU027S027	1	27	5_Modals 1	山では天気が非常に早く変わることがあります。	The weather can change very quickly in the mountains.		
+GU027S028	1	27	5_Modals 1	今はいい天気ですが、これから天気が変わるかもしれません。	"The weather is nice now, but it could change later."		
+GU027S029	1	27	5_Modals 1	カバンをどこに置いたのかわかりません。 車の中かもしれない。	I'm not sure where I left my bag. It could be in the car.		
+GU027S030	1	27	5_Modals 1	あの木に気をつけて登ってください。 落ちる可能性があります。	Be careful climbing that tree. You could fall.		
+GU027S031	1	27	5_Modals 1	彼女が何歳なのかわかりません。 彼女は30歳かもしれない。	I'm not sure how old she is. She could be 30.		
+GU027S032	1	27	5_Modals 1	良い日になるとは思えない。 雨が降るかもしれない。	I don't think it's going to be a nice day. It could rain.		
+GU027S033	1	27	5_Modals 1	今はハイシーズンです。 宿泊先を見つけるのが難しいかもしれません。	It's high season right now. It could be difficult to find a place to stay.		
+GU027S034	1	27	5_Modals 1	エイミーが働いている会社の業績はあまり良くありません。 彼女は職を失うかもしれない。	The company Amy works for isn't doing well. She could lose her job.		
+GU027S035	1	27	5_Modals 1	とても疲れているので、一週間くらい寝ていられそうです。	"I'm so tired, I could sleep for a week."		
+GU027S036	1	27	5_Modals 1	とても疲れていたので、一週間寝ていられそうなほどだった。	"I was so tired, I could have slept for a week."		
+GU027S037	1	27	5_Modals 1	状況は悪いが、さらに悪化する可能性もある。	"The situation is bad, but it could be worse."		
+GU027S038	1	27	5_Modals 1	状況は最悪でしたが、さらに悪化する可能性もありました。	"The situation was bad, but it could have been worse."		
+GU027S039	1	27	5_Modals 1	なぜホテルに泊まったのですか？ あなたは私と一緒にいたかもしれないのに。	Why did you stay at a hotel? You could have stayed with me.		
+GU027S040	1	27	5_Modals 1	デビッドは幸運でした。 落ちたら怪我をするかも知れませんが、大丈夫です。	"David was lucky. He could have hurt himself when he fell, but he's OK."		
+GU027S041	1	27	5_Modals 1	A: 昨日は家でとても退屈な夜を過ごしました。 B: どうして家にいたの? 一緒に出てくることもできたのに。	A: I spent a very boring evening at home yesterday. B: Why did you stay at home? You could have come out with us.		
+GU027S042	1	27	5_Modals 1	A: この手紙を開いてもいいですか？ B: はい。 それは重要なことかもしれません。	A: Shall I open this letter? B: Yes. It could be important.		
+GU027S043	1	27	5_Modals 1	A: 試験はどうでしたか? 難しかった？ B: それほど悪くはなかったです。 もっとひどいことになっていたかもしれない。	A: How was your exam? Was it difficult? B: It wasn't so bad. It could have been worse.		
+GU027S044	1	27	5_Modals 1	A: 雨の中家まで歩いていたらとても濡れてしまいました。 B: どうして歩いたの？ タクシーに乗ってもよかったかもしれない。	A: I got very wet walking home in the rain. B: Why did you walk? You could have taken a taxi.		
+GU027S045	1	27	5_Modals 1	A: 何時に出発したいですか? B: 準備ができたら、今から行ってもいいよ。	A: What time do you want to leave? B: We could go now if you're ready.		
+GU027S046	1	27	5_Modals 1	A: 明日はどこで会いましょう? B: そうですね、もしよかったら、あなたの家にお伺いしてもいいですか。	"A: Where shall we meet tomorrow? B: Well, I could come to your house if you like."		
+GU027S047	1	27	5_Modals 1	A: トムは今も同じ場所に住んでいますか? B: 分かりません。 彼は動くこともできたかもしれない。	A: Does Tom still live in the same place? B: I'm not sure. He could have moved.		
+GU027S048	1	27	5_Modals 1	A: 大学に行ったんですか？ B: いいえ、行くこともできましたが、行きたくなかったのです。	"A: Did you go to university? B: No. I could have gone, but I didn't want to."		
+GU027S049	1	27	5_Modals 1	大都市には住めなかった。 それは嫌でしょうね。	I couldn't live in a big city. I'd hate it.		
+GU027S050	1	27	5_Modals 1	今はすべて順調です。 これ以上ないほど状況は良くなりました。	Everything is fine right now. Things couldn't be better.		
+GU027S051	1	27	5_Modals 1	本当に良い休日を過ごさせていただきました。 これ以上に素晴らしいものはありませんでした。	We had a really good holiday. It couldn't have been better.		
+GU027S052	1	27	5_Modals 1	先週旅行はキャンセルされました。 ポールは病気だったので、とにかく行くことはできなかった。	The trip was cancelled last week. Paul couldn't have gone anyway because he was ill.		
+GU027S053	1	27	5_Modals 1	もう10キロも走れませんでした。	I couldn't run ten kilometres now.		
+GU027S054	1	27	5_Modals 1	昨日は足を痛めたので走れませんでした。	I couldn't run yesterday because I'd hurt my leg.		
+GU027S055	1	27	5_Modals 1	私はその帽子をかぶることができませんでした。 人々は私を笑うでしょう。	I couldn't wear that hat. People would laugh at me.		
+GU027S056	1	27	5_Modals 1	とても助かりました。 あなたなしでは私はやっていけませんでした。	You helped me a lot. I couldn't have managed without you.		
+GU027S057	1	27	5_Modals 1	私たちが宿泊したホテルのスタッフは本当に良かったです。 彼らはこれ以上役に立ちませんでした。	The staff at the hotel we stayed at were really good. They couldn't have been more helpful.		
+GU027S058	1	27	5_Modals 1	ポールは毎朝午前4時に仕事に行きます。 彼はどうやってやるのでしょうか？ そんなに早く起きることができなかった。	Paul goes to work at 4 a.m. every morning. How does he do it? I couldn't get up so early.		
+GU027S059	1	27	5_Modals 1	今では車を買うことはできません。 余裕がなかったのです。	There's no way we could buy a car now. We couldn't afford it.		
+GU027S060	1	27	5_Modals 1	ジャックはできる限り試験の準備をしました。 彼はこれ以上熱心に勉強することはできなかったでしょう。	Jack prepared for the exam as well as he could. He couldn't have studied harder.		
+GU027S061	1	27	5_Modals 1	高速道路の近くには住みたくないです。 車の騒音に耐えられなかった。	I wouldn't like to live so near the motorway. I couldn't stand the noise of the traffic.		
+GU027S062	1	27	5_Modals 1	彼らは私をパーティーに招待しませんでしたが、とにかく行くわけにはいきませんでした。 その時私は休暇中で不在でした。	"They didn't invite me to their party, but I couldn't have gone anyway. I was away on holiday at the time."		
+GU028S001	1	28	5_Modals 1	あなたはちょうど昼食を食べたところです。 もうお腹が空いてはいけません。	You've just had lunch. You can't be hungry already.		
+GU028S002	1	28	5_Modals 1	彼らはここに長く住んでいません。 彼らは多くの人を知ることができません。	They haven't lived here long. They can't know many people.		
+GU028S003	1	28	5_Modals 1	試験に合格したことおめでとうございます。 きっととても喜ばれるはずです。	Congratulations on passing your exam. You must be very pleased.		
+GU028S004	1	28	5_Modals 1	あなたは今朝何も食べていません。 お腹が空いているはずです。	You haven't eaten anything this morning. You must be hungry.		
+GU028S005	1	28	5_Modals 1	もうすぐ休暇に入る予定です。 きっと楽しみにしているはずです。	You're going on holiday soon. You must be looking forward to it.		
+GU028S006	1	28	5_Modals 1	レイチェルは本をたくさん持っています。 彼女は読書を楽しんでいるに違いない。	Rachel has lots of books. She must enjoy reading.		
+GU028S007	1	28	5_Modals 1	泊まる場所が必要だ。 この近くのどこかにホテルがあるはずです。	We need somewhere to stay. There must be a hotel somewhere near here.		
+GU028S008	1	28	5_Modals 1	確かサリーが住所を教えてくれたと思います。 きっとどこかにあるはずだ。	I'm sure Sally gave me her address. I must have it somewhere.		
+GU028S009	1	28	5_Modals 1	カレンはまだオフィスを出ていません。 彼女は遅くまで仕事をしているに違いない。	Karen hasn't left the office yet. She must be working late.		
+GU028S010	1	28	5_Modals 1	あなたはここに長い間住んでいます。 皆さんもご存知のはずです。	You've lived here a long time. You must know everybody.		
+GU028S011	1	28	5_Modals 1	またお会いできて嬉しいです。 最後に会ってからもう2年になるはずだ。	It's nice to see you again. It must be two years since we last met.		
+GU028S012	1	28	5_Modals 1	あなたは一日中旅行をしていました。 疲れているでしょ。	You've been travelling all day. You must be tired.		
+GU028S013	1	28	5_Modals 1	A: ジョーは働き者です。 B: ジョー？ 冗談じゃないわ。 彼は何もしません。	A: Joe is a hard worker. B: Joe? You must be joking. He doesn't do anything.		
+GU028S014	1	28	5_Modals 1	ルイーズは仕事にとても退屈しているに違いない。 彼女は毎日同じことをします。	Louise must get very bored in her job. She does the same thing every day.		
+GU028S015	1	28	5_Modals 1	A: あのレストランはいつも人でいっぱいです。 B: はい、きっといいですね。	"A: That restaurant is always full of people. B: Yes, it must be good."		
+GU028S016	1	28	5_Modals 1	A: そのレストランはあまりおいしいとは言えません。 B: いいえ、いつも空いています。	"A: That restaurant can't be very good. B: No, it's always empty."		
+GU028S017	1	28	5_Modals 1	A: この通りであの男性をよく見かけます。 B: 私もそうです。彼はこの近くに住んでいるに違いないと思います。	A: I often see that man in this street. B: So do I. I think he must live near here.		
+GU028S018	1	28	5_Modals 1	A: ビルとスーはいつも高級ホテルに滞在します。 B: はい、お金が足りないはずがありません。	"A: Bill and Sue always stay in luxury hotels. B: Yes, they can't be short of money."		
+GU028S019	1	28	5_Modals 1	A: ベンは今日は仕事だと思います。 B: いいえ、彼は今日は仕事ができません。 オフィスは閉まっています。	"A: I think Ben is working today. B: No, he can't be working today. The office is closed."		
+GU028S020	1	28	5_Modals 1	A: 鍵を持っていません。 きっと持っているはずです。 B: いいえ、確かにあげたと思います。	"A: I don't have the key. You must have it. B: No, I'm sure I gave it to you."		
+GU028S021	1	28	5_Modals 1	A: 空港に行くのに時間がかかりますか? B: いいえ、それほど遠くありません。 30分以上かかることはありません。	"A: Will it take long to get to the airport? B: No, it isn't very far. It can't take more than 30 minutes."		
+GU028S022	1	28	5_Modals 1	A: エドは何歳ですか? B: 私より年上です。 彼は少なくとも40歳でなければなりません。	A: How old is Ed? B: Older than me. He must be at least 40.		
+GU028S023	1	28	5_Modals 1	彼らの友達は出かけたに違いない。	Their friends must have gone out.		
+GU028S024	1	28	5_Modals 1	手袋を片方紛失してしまいました。 きっとどこかに落としてしまったのでしょう。	I've lost one of my gloves. I must have dropped it somewhere.		
+GU028S025	1	28	5_Modals 1	A: 私たちは高速道路の近くに住んでいました。 B: そうでしたか？ 騒がしかったでしょうね。	A: We used to live near the motorway. B: Did you? It must have been noisy.		
+GU028S026	1	28	5_Modals 1	車に戻るとロックが解除されていました。 きっと鍵をかけ忘れたのでしょう。	"When I got back to my car, it was unlocked. I must have forgotten to lock it."		
+GU028S027	1	28	5_Modals 1	最近近所の人に会っていません。 彼らは去ってしまったに違いない。	I haven't seen our neighbours recently. They must have gone away.		
+GU028S028	1	28	5_Modals 1	今朝、カフェの外に男が立っていた。 彼は誰かを待っていたに違いない。	There was a man standing outside the cafe this morning. He must have been waiting for somebody.		
+GU028S029	1	28	5_Modals 1	傘が見つかりません。 昨夜レストランに忘れてきたに違いない。	I can't find my umbrella. I must have left it in the restaurant last night.		
+GU028S030	1	28	5_Modals 1	あなたが購入したジャケットはとても品質が良いです。 きっと高価だったのでしょう。	The jacket you bought is very good quality. It must have been expensive.		
+GU028S031	1	28	5_Modals 1	この曲はきっとご存知だと思います。 きっと聞いたことがあるはずです。	I'm sure you know this song. You must have heard it before.		
+GU028S032	1	28	5_Modals 1	夜中に隣からの騒音で目が覚めました。 近所の人たちがパーティーをしていたに違いない。	I was woken up in the night by noise from next door. My neighbours must have been having a party.		
+GU028S033	1	28	5_Modals 1	財布を持っていません。 きっと家に置いていったのでしょう。	I don't have my wallet with me. I must have left it at home.		
+GU028S034	1	28	5_Modals 1	彼女は有名な作家です。 あなたも彼女のことを聞いたことがあるはずです。	She's a famous writer. You must have heard of her.		
+GU028S035	1	28	5_Modals 1	電話が聞こえませんでした。 きっと眠っていたのでしょう。	I didn't hear the phone. I must have been asleep.		
+GU028S036	1	28	5_Modals 1	窓はまだ開いています。 きっと閉め忘れたのでしょう。	The window is still open. I must have forgotten to shut it.		
+GU028S037	1	28	5_Modals 1	彼は電話に出ません。 彼は運転しているに違いない。	He isn't answering his phone. He must be driving.		
+GU028S038	1	28	5_Modals 1	ダンはよくスポーツをします。 彼はとても健康なはずだ。	Dan does a lot of sport. He must be very fit.		
+GU028S039	1	28	5_Modals 1	さすが五つ星ホテルです。 そこに滞在するにはかなりのお金がかかるはずです。	It's a five-star hotel. It must cost a lot of money to stay there.		
+GU028S040	1	28	5_Modals 1	彼の言ったことは真実であるはずがない。 彼は嘘をついていたに違いない。	What he said can't be true. He must have been lying.		
+GU028S041	1	28	5_Modals 1	サラからは連絡がありません。 彼女が私のメッセージを受け取ったはずがない。	Sarah hasn't contacted me. She can't have got my message.		
+GU028S042	1	28	5_Modals 1	トムは壁の中へ入っていった。 彼がどこへ行くのか探していたはずがない。	Tom walked into the wall. He can't have been looking where he was going.		
+GU028S043	1	28	5_Modals 1	サラが私のメッセージを理解できなかったはずはありません。	Sarah couldn't have got my message.		
+GU028S044	1	28	5_Modals 1	トムがどこへ行くのか見ていなかったはずがない。	Tom couldn't have been looking where he was going.		
+GU028S045	1	28	5_Modals 1	彼らの休暇中は毎日雨が降りました。 彼らはとても楽しい時間を過ごしたはずがない。	It rained every day during their holiday. They can't have had a very nice time.		
+GU028S046	1	28	5_Modals 1	信号は赤だったが、車は止まらなかった。 運転手は赤信号が見えなかったはずだ。	"The traffic light was red, but the car didn't stop. The driver can't have seen the red light."		
+GU028S047	1	28	5_Modals 1	レイチェルは私が彼女にしてほしいと頼んだことの逆をしました。 彼女は私の言ったことを理解できなかったはずだ。	Rachel did the opposite of what I asked her to do. She can't have understood what I said.		
+GU028S048	1	28	5_Modals 1	エイミーは非常に困難な状況にありました。 彼女にとってそれは簡単なことではなかったでしょう。	Amy was in a very difficult situation. It can't have been easy for her.		
+GU028S049	1	28	5_Modals 1	ポールはこれらの靴を何年も履いていますが、新品のように見えます。 彼は何度もそれを着ることはできなかったでしょう。	"Paul has had these shoes for years, but they look new. He can't have worn them many times."		
+GU028S050	1	28	5_Modals 1	事故が起きたとき、私は非常にゆっくり運転していました。 時速20マイル以上のスピードを出すことはできませんでした。	"When the accident happened, I was driving very slowly. I can't have been going faster than 20 miles an hour."		
+GU028S051	1	28	5_Modals 1	A: とても早くここに着きましたね。 あなたはとても速く運転したに違いありません。 B: いいえ、しませんでした。	"A: You got here very quickly. You must have driven very fast. B: No, I didn't."		
+GU028S052	1	28	5_Modals 1	A: 私の自転車はどこですか？ 消えてしまった！ B: 誰かが持って行ったに違いない。	A: Where's my bike? It's disappeared! B: Somebody must have taken it.		
+GU028S053	1	28	5_Modals 1	A: この法案が正しいはずはありません。 あまりにも高すぎます。 B: その通りです。 ウェイターに伝えておきます。	A: This bill can't be correct. It's much too high. B: You're right. I'll tell the waiter.		
+GU028S054	1	28	5_Modals 1	A: サラはよく旅行します。 B: はい。 彼女はたくさんの場所に行ったに違いありません。	A: Sarah travels a lot. B: Yes. She must have been to lots of places.		
+GU028S055	1	28	5_Modals 1	A: あなたは一日中一生懸命働いてきました。 疲れているでしょ。 B: はい、疲れました。	"A: You've been working hard all day. You must be tired. B: Yes, I'm exhausted."		
+GU028S056	1	28	5_Modals 1	A: 地面はとても乾いています。 B: はい、最近雨が降ったはずがありません。	"A: The ground is very dry. B: Yes, it can't have rained recently."		
+GU028S057	1	28	5_Modals 1	A: 来月から大学での授業が始まります。 B: それはいいですね。 きっと楽しみにしているはずです。	A: I start my course at university next month. B: That's good. You must be looking forward to it.		
+GU028S058	1	28	5_Modals 1	A: デビッドは大企業の常務取締役です。 B: 彼ですか？ そうすれば彼はかなり高い給料をもらっているに違いない。	A: David is the managing director of a large company. B: Is he? He must get quite a high salary then.		
+GU028S059	1	28	5_Modals 1	A: 車を買うつもりですか？ B: 冗談でしょうね。 どうすれば車を買う余裕があるでしょうか？	A: Are you going to buy a car? B: You must be joking. How could I afford a car?		
+GU028S060	1	28	5_Modals 1	A: 残念ながらビスケットを全部食べてしまいました。 B: でも、一袋丸ごとあったよ。 全部は食べられないでしょう！	A: I'm afraid I ate all the biscuits. B: But there was a whole packet. You can't have eaten all of them!		
+GU029S001	1	29	5_Modals 1	それは本当かもしれません。	It may be true.	It might be true.	
+GU029S002	1	29	5_Modals 1	彼女は知っているかもしれない。	She might know.	She may know.	
+GU029S003	1	29	5_Modals 1	それは真実ではないかもしれません。	It may not be true.		
+GU029S004	1	29	5_Modals 1	彼女は知らないかもしれない。	She might not know.		
+GU029S005	1	29	5_Modals 1	A: ヘレンがどこにいるか知っていますか? B: 分かりません。 彼女は自分の部屋にいるかもしれない。	A: Do you know where Helen is? B: I'm not sure. She might be in her room.		
+GU029S006	1	29	5_Modals 1	A: ここからロンドンまで電車でどれくらいかかりますか? B: よくわからないけど、アンナに聞いてください。 彼女は知っているかもしれない。	"A: How long does it take by train from here to London? B: I'm not sure, but ask Anna. She might know."		
+GU029S007	1	29	5_Modals 1	A: 手伝っていただければ幸いです。 B: やってみますが、それは不可能かもしれません。	"A: I hope you can help me. B: I'll try, but it might not be possible."		
+GU029S008	1	29	5_Modals 1	A: その人たちはどこから来たのですか? B: 分かりません。 彼らはブラジル人かもしれない。	A: Where are those people from? B: I don't know. They might be Brazilian.		
+GU029S009	1	29	5_Modals 1	A: これは誰の電話ですか? B: それは私のではありません。 それはトムのものかもしれません。	A: Whose phone is this? B: It's not mine. It may be Tom's.		
+GU029S010	1	29	5_Modals 1	A: ピアノを持っている人を知っていますか? B: レイチェルも持っているかもしれませんが、わかりません。	"A: Do you know anyone who has a piano? B: Rachel might have one, but I'm not sure."		
+GU029S011	1	29	5_Modals 1	A: なぜジョージは電話に出ないのですか? B: 彼は運転しているかもしれない。	A: Why doesn't George answer his phone? B: He might be driving.		
+GU029S012	1	29	5_Modals 1	A: ゲイリーは今日はあまり幸せそうではありません。 B: いいえ、そうではありません。 彼は気分が優れないかもしれません。	"A: Gary doesn't look very happy today. B: No, he doesn't. He may not be feeling well."		
+GU029S013	1	29	5_Modals 1	この手紙を注意深く読むべきです。 それは重要かもしれません。	You should read this letter carefully. It might be important.		
+GU029S014	1	29	5_Modals 1	食べ物を持ってきました。 お腹が空いているかもしれないと思いました。	I got some food for you. I thought you might be hungry.		
+GU029S015	1	29	5_Modals 1	トムが今何をしているのかわかりません。 彼はテニスをしているかもしれない。	I'm not sure what Tom's doing right now. He may be playing tennis.		
+GU029S016	1	29	5_Modals 1	車に何か問題があります。 ブレーキに問題がある可能性があります。	There's something wrong with the car. There might be a problem with the brakes.		
+GU029S017	1	29	5_Modals 1	しー！ そんなに大声で話さないでください。 誰かが私たちの話を聞いているかもしれません。	Shh! Don't talk so loud. Somebody might be listening to us.		
+GU029S018	1	29	5_Modals 1	スーをパーティーに招待することはできますが、彼女は行きたくないかもしれません。	"We can invite Sue to the party, but she may not want to come."		
+GU029S019	1	29	5_Modals 1	ホテルがどこにあるのかわかりません。 駅の向かい側にあるかもしれません。	I'm not sure where the hotel is. It might be opposite the station.		
+GU029S020	1	29	5_Modals 1	彼がどんな顔をしているのか分かりません。 彼は眼鏡をかけているかもしれないし、かけていないかもしれない。	I don't know what he looks like. He might wear glasses or he might not.		
+GU029S021	1	29	5_Modals 1	A: ケイトはなぜ電話に出なかったのでしょう。 B: 彼女は眠っていたかもしれない。	A: I wonder why Kate didn't answer her phone. B: She may have been asleep.		
+GU029S022	1	29	5_Modals 1	A: 携帯電話がどこにも見つかりません。 B: 職場に忘れてしまったかもしれません。	A: I can't find my phone anywhere. B: You might have left it at work.		
+GU029S023	1	29	5_Modals 1	A: エイミーはなぜ昨日の会議に来なかったのですか? B: 彼女はそれについて知らなかったかもしれません。	A: Why wasn't Amy at the meeting yesterday? B: She might not have known about it.		
+GU029S024	1	29	5_Modals 1	A: 昨日、デイビッドはなぜあんなに機嫌が悪かったのでしょう。 B: 体調が悪かったのかもしれません。	A: I wonder why David was in such a bad mood yesterday. B: He may not have been feeling well.		
+GU029S025	1	29	5_Modals 1	A: ケイトは今も前と同じ場所に住んでいますか? B: 分かりません。 彼女は引っ越したのかもしれない。	A: Does Kate still live in the same place as before? B: I'm not sure. She may have moved.		
+GU029S026	1	29	5_Modals 1	A: 事故はどうやって起きたのですか? B: たぶん、スピードを出しすぎたのだと思います。	A: How did the accident happen? B: I think I might have been driving too fast.		
+GU029S027	1	29	5_Modals 1	A: ジョンはどうして私が職を失ったことを知ったのですか? B: 分かりません。 サムは彼にそう言ったのかもしれないと思います。	A: How did John know that I'd lost my job? B: I don't know. I suppose Sam might have told him.		
+GU029S028	1	29	5_Modals 1	A: トムはパーティーに招待されたのに、なぜ来なかったのですか? B: 分かりません。 彼は来たくなかったのかもしれない。	"A: Tom was invited to the party, so why wasn't he there? B: I don't know. He might not have wanted to come."		
+GU029S029	1	29	5_Modals 1	A: 昨日アンナと一緒にいた男性は誰ですか? B: 分かりません。 それは彼女の弟だったのかもしれない。	A: Who was the man we saw with Anna yesterday? B: I don't know. It may have been her brother.		
+GU029S030	1	29	5_Modals 1	A: 彼らの言ったことを信じますか? B: 分かりません。 彼らは嘘をついていたのかもしれない。	A: Do you believe what they said? B: I'm not sure. They might have been lying.		
+GU029S031	1	29	5_Modals 1	A: ジェフがどこにいるか知っていますか? 彼はまだ仕事中ですか? B: 分かりません。 彼は家に帰ったのかもしれない。	A: Do you know where Jeff is? Is he still at work? B: I'm not sure. He might have gone home.		
+GU029S032	1	29	5_Modals 1	A: スーはどこですか？ 彼女は何をしているのですか？ B: 彼女はテレビを見ているかもしれません。	A: Where's Sue? What's she doing? B: She might be watching TV.		
+GU029S033	1	29	5_Modals 1	A: エリーはここにいるの? B: 彼女の姿が見えません。 彼女はまだ到着していないかもしれません。	A: Is Ellie here? B: I can't see her. She may not have arrived yet.		
+GU029S034	1	29	5_Modals 1	A: この食器棚の鍵を持っていますか? B: 見てみます。あるかもしれません。	A: Do you have a key to this cupboard? B: I'll have a look.I might have one.		
+GU029S035	1	29	5_Modals 1	A: 傘が見つかりません。 見たことありますか？ B: 昨夜レストランに忘れてきたかもしれません。	A: I can't find my umbrella. Have you seen it? B: You may have left it in the restaurant last night.		
+GU029S036	1	29	5_Modals 1	A: ゲイリーはカフェで会えると言っていたけど、ここにはいないよ。 B: 彼は外で待っているかもしれません。 行って見ます。	"A: Gary said he would meet us in the cafe, but he isn't here. B: He might be waiting outside. I'll go and look."		
+GU029S037	1	29	5_Modals 1	A: ハンナはここで私たちと会うことになっていますが、すでに 20 分遅れています。 B: 彼女は忘れてしまったのかもしれない。 彼女はいつも忘れ物をします。	"A: Hannah is supposed to meet us here, and she's already 20 minutes late. B: She may have forgotten . She's always forgetting things."		
+GU029S038	1	29	5_Modals 1	A: ダンのドアベルを鳴らしましたが、応答しませんでした。 確かそこにいたと思います。 B: 彼はベルを聞いていなかったかもしれません。	"A: I rang Dan's doorbell, but he didn't answer. I'm sure he was there. B: He might not have heard the bell."		
+GU029S039	1	29	5_Modals 1	奇妙な話ですが、本当かもしれません。	"It's a strange story, but it may be true."	"It's a strange story, but it might be true."	"It's a strange story, but it could be true."
+GU029S040	1	29	5_Modals 1	携帯電話を職場に忘れてしまった可能性があります。	You may have left your phone at work.	You might have left your phone at work.	You could have left your phone at work.
+GU029S041	1	29	5_Modals 1	サラは私のメッセージを受信できなかったでしょう。 そうでなければ彼女はこう答えただろう。	Sarah couldn't have received my message. Otherwise she would have replied.		
+GU029S042	1	29	5_Modals 1	なぜサラが私のメッセージに返信しないのだろうか。 彼女はそれを受け取らなかったのかもしれないと思います。	I wonder why Sarah hasn't replied to my message. I suppose she might not have received it.		
+GU029S043	1	29	5_Modals 1	A: エイミーが会議にいなかったのには驚きました。 おそらく彼女はそのことを知らなかったのでしょう。 B: それは可能です。 彼女はそのことを知らなかったかもしれない。	A: I was surprised Amy wasn't at the meeting. Perhaps she didn't know about it. B: That's possible. She might not have known about it.		
+GU029S044	1	29	5_Modals 1	A: なぜ彼らはメールに返信しないのだろうか。 彼らはそれを受け取ったと思いますか？ B: そうじゃないかもしれない。 彼らはそれを受け取らなかったのかもしれない。	A: I wonder why they haven't replied to the email. Do you think they received it? B: Maybe not. They might not have received it.		
+GU029S045	1	29	5_Modals 1	A: どうやって火災が起きたんだろうね。 事故だったのか？ B: いいえ、警察は事故ではありえないと言っています。	"A: I wonder how the fire started. Was it an accident? B: No, the police say it couldn't have been an accident."		
+GU029S046	1	29	5_Modals 1	A: マイクがあなたに会いたいと言っています。 彼は昨日あなたを見つけようとしました。 B: そうですね、彼はあまり努力できなかったでしょうね。 私は一日中オフィスにいました。	"A: Mike says he needs to see you. He tried to find you yesterday. B: Well, he couldn't have tried very hard. I was in my office all day."		
+GU029S047	1	29	5_Modals 1	A: あなたが話した男性は確かアメリカ人でしたか？ B: いいえ、わかりません。 彼はアメリカ人ではなかったかもしれない。	"A: The man you spoke to - are you sure he was American? B: No, I'm not sure. He might not have been American."		
+GU029S048	1	29	5_Modals 1	A: その話は本当だと思いますか? B: たぶんね。	A: Do you think the story is true? B: Maybe.		
+GU029S049	1	29	5_Modals 1	A: 彼らはどこへ行ったのですか? B: おそらく彼らは家に帰ったでしょう。	A: Where did they go? B: Maybe they went home.		
+GU029S050	1	29	5_Modals 1	その話は本当かもしれない。	The story may be true.		
+GU029S051	1	29	5_Modals 1	彼らは家にいるかもしれません。	They may be at home.		
+GU030S001	1	30	5_Modals 1	休暇中にどこに行くかまだ決めていません。 アイルランドに行くかもしれません。	I haven't decided yet where to go on holiday. I may go to Ireland.		
+GU030S002	1	30	5_Modals 1	傘を持って行きましょう。 このあと雨が降るかもしれません。	Take an umbrella with you. It might rain later.		
+GU030S003	1	30	5_Modals 1	バスはいつも時間通りに来るわけではありません。 数分待つ必要があるかもしれません。	The bus isn't always on time. We might have to wait a few minutes.		
+GU030S004	1	30	5_Modals 1	エイミーは今夜は外出しないかもしれません。 彼女は気分が良くありません。	Amy may not go out tonight. She isn't feeling well.		
+GU030S005	1	30	5_Modals 1	会議ですべてを話し合うには時間が足りないかもしれません。	There might not be enough time to discuss everything at the meeting.		
+GU030S006	1	30	5_Modals 1	今晩は遅くなるよ。	I'Il be late this evening.		
+GU030S007	1	30	5_Modals 1	今晩は遅くなるかもしれません。	I might be late this evening.		
+GU030S008	1	30	5_Modals 1	後で出かけます。	I'm going out later.		
+GU030S009	1	30	5_Modals 1	後で出かけるかも知れません。	I might go out later.		
+GU030S010	1	30	5_Modals 1	A: 休暇にはどこへ行きますか? B: まだ決めてないです。 スペインに行くかも知れません。	A: Where are you going for your holidays? B: I haven't decided yet. I might go to Spain.		
+GU030S011	1	30	5_Modals 1	A: どのような車を買いたいか決めましたか? B: はい、赤いスポーツカーを買うつもりです。	"A: Have you decided what sort of car you want to buy? B: Yes, I'm going to get a red sports car."		
+GU030S012	1	30	5_Modals 1	A: トムはいつ私たちに会いに来ますか? B: 彼はまだ言っていません。 彼は日曜日に来るかもしれない。	A: When is Tom coming to see us? B: He hasn't said yet. He might come on Sunday.		
+GU030S013	1	30	5_Modals 1	A: その写真をどこに置くつもりですか? B: まだ分かりません。 寝室に吊るしておこうかな。	A: Where are you going to put that picture? B: I don't know yet. I might hang it in the bedroom.		
+GU030S014	1	30	5_Modals 1	A: 何を食べるか決めましたか？ B: はい、ピザを食べます。	"A: Have you decided what you're going to eat? B: Yes, I'm going to have a pizza."		
+GU030S015	1	30	5_Modals 1	A: ターニャは学校を辞めたら何をするつもりですか? 彼女はもう知っていますか？ B: はい、彼女は決めました。 彼女は大学に通っています。	"A: What's Tanya going to do when she leaves school? Does she know yet? B: Yes, she's decided. She's going to university."		
+GU030S016	1	30	5_Modals 1	A: 週末に何か予定はありますか? B: 何も修正されていません。 行ってしまうかも知れません。 見てみましょう。	A: Do you have any plans for the weekend? B: Nothing fixed. I might go away. We'll see.		
+GU030S017	1	30	5_Modals 1	A: 結婚式の日取りはもう決まりましたか？ B: はい、9月5日に結婚します。	"A: Has the wedding date been fixed yet? B: Yes, we're getting married on 5 September."		
+GU030S018	1	30	5_Modals 1	あまり騒がないでください。 赤ちゃんを起こしてしまうかもしれません。	Don't make too much noise. You might wake the baby.		
+GU030S019	1	30	5_Modals 1	あの犬には気をつけて。 噛まれるかもしれません。	Be careful of that dog. It might bite you.		
+GU030S020	1	30	5_Modals 1	そんなに大声で話さないでください。 誰かがあなたの声を聞いているかもしれません。	Don't talk so loud. Somebody might hear you.		
+GU030S021	1	30	5_Modals 1	気をつけて。 歩道が凍ってます。 滑ってしまうかもしれません。	Be careful. The footpath is icy. You might slip.		
+GU030S022	1	30	5_Modals 1	携帯電話を忘れないでください。 誰かに電話する必要があるかもしれません。	Don't forget your phone. You might need to call somebody.		
+GU030S023	1	30	5_Modals 1	コーヒーには気をつけてください。 こぼしてしまうかも知れません。	Be careful with your coffee. You might spill it.		
+GU030S024	1	30	5_Modals 1	子供たちをこの部屋で遊ばせないでください。 彼らは何かを壊すかもしれない。	Don't let the children play in this room. They might break something.		
+GU030S025	1	30	5_Modals 1	その鋭いナイフには気をつけてください。 身を切るかもしれません。	Be careful with that sharp knife. You might cut yourself.		
+GU030S026	1	30	5_Modals 1	会えるかどうか分かりません。 時間がないかもしれない。	I don't know if I'll be able to meet you. I might not have time.		
+GU030S027	1	30	5_Modals 1	会議には出席できますが、終了前に退席しなければならない可能性があります。	"I can come to the meeting, but I might have to leave before the end."		
+GU030S028	1	30	5_Modals 1	あなたの問題について教えてください。 お手伝いできるかもしれません。	Tell me about your problem. I may be able to help.		
+GU030S029	1	30	5_Modals 1	マーティンとは長い間会っていません。 私は彼を認識できないかもしれません。	I haven't seen Martin for a long time. I might not recognise him.		
+GU030S030	1	30	5_Modals 1	長い行列ができています。 かなり長い時間待たなければならないかもしれません。	There's a long queue. We might have to wait quite a long time.		
+GU030S031	1	30	5_Modals 1	パーティーに招待されましたが、行かないかもしれません。	"I've been invited to the party, but I might not go."		
+GU030S032	1	30	5_Modals 1	試合に行きたいのですが、チケットが手に入らないかもしれません。	"We want to go to the game, but we may not be able to get tickets."		
+GU030S033	1	30	5_Modals 1	この駐車場が無料かどうかはわかりません。 支払わなければならない場合があります。	I'm not sure if this car park is free. We may have to pay.		
+GU030S034	1	30	5_Modals 1	アイルランドに行くかもしれません。	I may go to Ireland.	I might go to Ireland.	
+GU030S035	1	30	5_Modals 1	ジェーンがあなたを助けてくれるかもしれません。	Jane might be able to help you.	Jane may be able to help you.	
+GU030S036	1	30	5_Modals 1	もし彼らの給料がもっと高かったら、もっと頑張れるかも知れません。	"If they paid me better, I might work harder."		
+GU030S037	1	30	5_Modals 1	最近はあまり自由な時間がありません。 もっと時間があれば、料理の仕方を学ぶかもしれません。	"I don't have much free time these days. If I had more time, I might learn how to cook."		
+GU030S038	1	30	5_Modals 1	私の秘密をあなたに知られたくないのです。 私があなたに話したら、あなたは他の人に言うかもしれません。	"I don't want you to know my secret. If I told you, you might tell somebody else."		
+GU030S039	1	30	5_Modals 1	十分な情報がありません。 もっと詳しい情報を教えていただければ、お手伝いできるかもしれません。	"I don't have enough information. If you gave me more information, I might be able to help you."		
+GU030S040	1	30	5_Modals 1	私は彼らにお金を貸すつもりはありません。 もし私が彼らにお金を貸したら、彼らは私に返済しないかもしれません。	"I'm not going to lend them any money. If I lent them money, they might not pay me back."		
+GU030S041	1	30	5_Modals 1	そのケーキは食べないでください。 食べたら気分が悪くなるかもしれません。	"Don't eat that cake. If you ate it, it might make you sick."		
+GU030S042	1	30	5_Modals 1	彼女の英語はあまり上手ではありません。 もし彼女の英語がもっとよければ、彼女はもっと簡単に仕事に就くことができるかもしれない。	"Her English isn't very good. If her English was better, she might get a job more easily."		
+GU030S043	1	30	5_Modals 1	8時半には電話しないでください。 私はテレビでサッカーを見るつもりです。	Don't phone at 8.30. I'll be watching the football on TV.		
+GU030S044	1	30	5_Modals 1	8時半には電話しないでください。 私はテレビでサッカーを見ているかもしれません。	Don't phone at 8.30. I might be watching the football on TV.		
+GU030S045	1	30	5_Modals 1	もうすぐアイルランドに行きます。	I'm going to Ireland soon.		
+GU030S046	1	30	5_Modals 1	もうすぐアイルランドに行くかもしれません。	I might be going to Ireland soon.		
+GU030S047	1	30	5_Modals 1	A: 土曜の朝は何かするんですか？ B: まだわかりません。 私は仕事をしているかもしれない。	A: Are you doing anything on Saturday morning? B: I'm not sure yet. I may be working.		
+GU030S048	1	30	5_Modals 1	A: 明日はビーチに行きますか？ B: 天気がどうなるか見てみましょう。 雨が降っているかもしれません。	A: Are we going to the beach tomorrow? B: Let's see what the weather is like. It might be raining.		
+GU030S049	1	30	5_Modals 1	A: 休暇の予定はまだありますか? B: はい、カナダに行くかもしれません。	"A: Do you have any holiday plans yet? B: Yes, we might be going to Canada."		
+GU030S050	1	30	5_Modals 1	A: 明日の朝、電話しましょうか？ B: 午前中テニスをしているかもしれないので、昼食後に電話してください。	"A: Shall I call you tomorrow morning? B: I might be playing tennis in the morning, so call me after lunch."		
+GU030S051	1	30	5_Modals 1	A: 最近サラに会ったことがありますか? B: いいえ、でも来週彼女に会うかもしれません。	"A: Have you seen Sarah recently? B: No, but I might be meeting her next week."		
+GU030S052	1	30	5_Modals 1	A: 私たちはもっと大きな家を探しています。 私たちはすぐに引っ越しするかもしれません。	A: We've been looking for a larger house. We may be moving soon.		
+GU030S053	1	30	5_Modals 1	B: 本当ですか？ もう何か見つけましたか？	B: Really? Have you found something already?		
+GU030S054	1	30	5_Modals 1	A: 何時に出かける予定ですか? B: そうですね、準備はできていますので、もう行ってもいいでしょうか。	"A: What time are you going out? B: Well, I'm ready, so I might as well go now."	"B: Well, I'm ready, so I may as well go now."	
+GU030S055	1	30	5_Modals 1	最近バスはとても高いので、タクシーを使ったほうがいいかもしれません。	"Buses are so expensive these days, you might as well get a taxi."		
+GU030S056	1	30	5_Modals 1	売ったほうがいいかもね。	I might as well sell it.		
+GU030S057	1	30	5_Modals 1	今すぐ出発したほうがいいかもしれません。	We might as well leave now.		
+GU030S058	1	30	5_Modals 1	私も起きたほうがいいかもしれません。	I might as well get up.		
+GU030S059	1	30	5_Modals 1	新しいのを買ってもいいかもしれません。	I might as well buy a new one.		
+GU030S060	1	30	5_Modals 1	バスルームも塗装してみようかな。	We might as well paint the bathroom too.		
+GU031S001	1	31	5_Modals 1	私たちのホテルから湖が見えます。	We can see the lake from our hotel.		
+GU031S002	1	31	5_Modals 1	ペンをお持ちでない場合は、私のペンを使ってください。	"If you don't have a pen, you can use mine."		
+GU031S003	1	31	5_Modals 1	もしよかったら、明日会いに来てもいいよ。	I can come and see you tomorrow if you like.		
+GU031S004	1	31	5_Modals 1	「夢」という言葉は名詞でも動詞でも構いません。	The word 'dream' can be a noun or a verb.		
+GU031S005	1	31	5_Modals 1	あなたは何か外国語を話せますか？	Can you speak any foreign languages?		
+GU031S006	1	31	5_Modals 1	金曜日のパーティーには行けません。	I can't come to the party on Friday.		
+GU031S007	1	31	5_Modals 1	急いでいません。 私は待つことができる。	I'm in no hurry. I can wait.		
+GU031S008	1	31	5_Modals 1	彼らは休暇には行かないんです。 彼らにはそれを買う余裕がないのです。	They're not going on holiday. They can't afford it.		
+GU031S009	1	31	5_Modals 1	どちらのジャケットも素敵ですね。 どれを買うか決められません。	Both these jackets are nice. I can't decide which one to buy.		
+GU031S010	1	31	5_Modals 1	ロバートは良い声を持っています。 彼はとても上手に歌うことができます。	Robert has a good voice. He can sing very well.		
+GU031S011	1	31	5_Modals 1	彼らは非常に異なる考えを持っています。 彼らは何についても同意できない。	They have very different ideas. They can't agree about anything.		
+GU031S012	1	31	5_Modals 1	市内のこの地域では注意が必要です。 危険な場合があります。	You have to be careful in this part of the city. It can be dangerous.		
+GU031S013	1	31	5_Modals 1	私の父は腰を痛めました。 彼は何も持ち上げることができません。	My father has hurt his back. He can't lift anything.		
+GU031S014	1	31	5_Modals 1	空港行きのバスは30分おきにあります。 または、タクシーをご利用ください。	There's a bus to the airport every 30 minutes. Or you can take a taxi.		
+GU031S015	1	31	5_Modals 1	私たちのホテルからは湖が見えます。	We're able to see the lake from our hotel.	We can see the lake from our hotel.	
+GU031S016	1	31	5_Modals 1	眠れません。	I can't sleep.		
+GU031S017	1	31	5_Modals 1	最近眠れないんです。	I haven't been able to sleep recently.		
+GU031S018	1	31	5_Modals 1	トムは明日来ることができます。	Tom can come tomorrow.		
+GU031S019	1	31	5_Modals 1	トムは明日来られるかもしれない。	Tom might be able to come tomorrow.		
+GU031S020	1	31	5_Modals 1	マリアはフランス語とドイツ語を話すことができます。	Maria can speak French and German.		
+GU031S021	1	31	5_Modals 1	この仕事への応募者は 2 つの外国語を話せる必要があります。	Applicants for the job must be able to speak two foreign languages.		
+GU031S022	1	31	5_Modals 1	あなたの問題について教えてください。 お手伝いできるかもしれません。	Tell me about your problem. I might be able to help you.		
+GU031S023	1	31	5_Modals 1	以前は逆立ちすることができましたが、今は逆立ちできません。	"I used to be able to stand on my head, but I can't do it now."		
+GU031S024	1	31	5_Modals 1	マークのことが理解できません。 私は彼のことを決して理解できませんでした。	I can't understand Mark. I've never been able to understand him.		
+GU031S025	1	31	5_Modals 1	ダンはイタリアに長く住んでいるので、イタリア語を話せるはずです。	"Dan has lived in Italy for a long time, so he should be able to speak Italian."		
+GU031S026	1	31	5_Modals 1	ベンとは連絡が取れません。 何度も試しました。	I haven't been able to contact Ben. I've tried many times.		
+GU031S027	1	31	5_Modals 1	しばらく会っていません。 近いうちに彼らを訪問できることを願っています。	I haven't seen them for a while. I hope to be able to visit them soon.		
+GU031S028	1	31	5_Modals 1	ホテルには素敵な部屋がありました。 湖が見えました。	We had a lovely room in the hotel. We could see the lake.		
+GU031S029	1	31	5_Modals 1	部屋に入るとすぐにガスの匂いがしました。	"As soon as I walked into the room, I could smell gas."		
+GU031S030	1	31	5_Modals 1	私は劇場の後ろに座っていたので、よく聞こえませんでした。	I was sitting at the back of the theatre and couldn't hear very well.		
+GU031S031	1	31	5_Modals 1	私の祖父は5か国語を話すことができました。	My grandfather could speak five languages.		
+GU031S032	1	31	5_Modals 1	私たちは完全に自由でした。 私たちはやりたいことをすることができました。	We were totally free. We could do what we wanted.		
+GU031S033	1	31	5_Modals 1	残念ですが来週のあなたのパーティーには行けません。	I'm afraid I can't come to your party next week.		
+GU031S034	1	31	5_Modals 1	ダンは 16 歳のとき、100 メートルを 11 秒で走ることができました。	"When Dan was 16, he could run 100 metres in 11 seconds."		
+GU031S035	1	31	5_Modals 1	私は運転できますが、車を持っていません。	"I can drive, but I don't have a car."		
+GU031S036	1	31	5_Modals 1	昨日は気分が悪かった。 何も食べられませんでした。	I was feeling sick yesterday. I couldn't eat anything.		
+GU031S037	1	31	5_Modals 1	完全によく聞こえます。 そんなに大声で話す必要はありません。	I can hear you perfectly well. You don't need to speak so loud.		
+GU031S038	1	31	5_Modals 1	よく見ると、遠くに誰かが見えました。	"I looked very carefully, and I could see somebody in the distance."		
+GU031S039	1	31	5_Modals 1	このソファを手伝ってください。 一人では動かせません。	Help me with this sofa. I can't move it alone.		
+GU031S040	1	31	5_Modals 1	そのニュースを聞いて私は驚きました。 信じられませんでした。	I was amazed when I heard the news. I couldn't believe it.		
+GU031S041	1	31	5_Modals 1	私の祖父は5か国語を話すことができました。	My grandfather could speak five languages.		
+GU031S042	1	31	5_Modals 1	それらは見えましたが、あまりはっきりとは見えませんでした。	"I could see them, but not very clearly."		
+GU031S043	1	31	5_Modals 1	火はすぐに建物内に広がりましたが、幸いなことに全員が逃げることができました。	"The fire spread through the building very quickly, but fortunately everybody was able to escape."	"The fire spread through the building very quickly, but fortunately everybody managed to escape."	
+GU031S044	1	31	5_Modals 1	デビッドがどこにいるのか分かりませんでしたが、最終的にはなんとか見つけることができました。	"We didn't know where David was, but we managed to find him in the end."	"We didn't know where David was, but we were able to find him in the end."	
+GU031S045	1	31	5_Modals 1	ジャックは若い頃、優れたテニス選手でした。 彼は誰にでも勝つことができた。	Jack was an excellent tennis player when he was younger. He could beat anybody.		
+GU031S046	1	31	5_Modals 1	ジャックとアンディは昨日試合をしました。 アンディは良いプレーをしましたが、ジャックはなんとかアンディを打ち負かしました。	"Jack and Andy played a match yesterday. Andy played well, but Jack managed to beat him."		
+GU031S047	1	31	5_Modals 1	私の祖父は泳げませんでした。	My grandfather couldn't swim.		
+GU031S048	1	31	5_Modals 1	私たちはデイビッドをあちこち探しましたが、見つかりませんでした。	"We looked for David everywhere, but we couldn't find him."		
+GU031S049	1	31	5_Modals 1	アンディは良いプレーをしたが、ジャックには勝てなかった。	"Andy played well, but he couldn't beat Jack."		
+GU031S050	1	31	5_Modals 1	女の子が川に落ちましたが、幸いなことに私たちは彼女を引き上げることができました。	"A girl fell into the river, but fortunately we managed to pull her out."		
+GU031S051	1	31	5_Modals 1	最近初めてマラソンを走りました。 とても大変でしたが、終えることができました。	"I ran my first marathon recently. It was very hard, but I was able to finish."		
+GU031S052	1	31	5_Modals 1	若い頃は速く走れましたが、今は走れません。	"When I was younger I could run fast, but I can't now."		
+GU031S053	1	31	5_Modals 1	仕事を見つけるのは簡単ではありませんでしたが、最終的には工場での仕事を見つけることができました。	"It wasn't easy finding work, but in the end I was able to find a job in a factory."		
+GU031S054	1	31	5_Modals 1	ショーはとても人気がありましたが、チケットを入手することができました。	"The show was very popular, but we were able to get tickets."		
+GU031S055	1	31	5_Modals 1	私の祖母は音楽が大好きでした。 彼女はとても上手にピアノを弾くことができました。	My grandmother loved music. She could play the piano very well.		
+GU031S056	1	31	5_Modals 1	難しい問題でしたが、なんとか解決することができました。	"It was a difficult problem, but we managed to solve it."		
+GU031S057	1	31	5_Modals 1	部屋の間の壁はとても薄かったです。 隣の部屋で人々が話しているのが聞こえました。	The wall between the rooms was very thin. I could hear people talking in the next room.		
+GU031S058	1	31	5_Modals 1	キッチンで小さな火事がありましたが、なんとか消し止めました。	"There was a small fire in the kitchen, but I managed to put it out."		
+GU031S059	1	31	5_Modals 1	とても面白かったです。 笑いが止まらなかった。	It was so funny. I couldn't stop laughing.		
+GU031S060	1	31	5_Modals 1	鍵を探してあちこち探しましたが、見つかりませんでした。	"I looked everywhere for my keys, but couldn't find them."		
+GU031S061	1	31	5_Modals 1	ローラはお腹が空いていませんでした。 彼女は何も食べることができませんでした。	Laura wasn't hungry. She couldn't eat anything.		
+GU031S062	1	31	5_Modals 1	私は夜中ほとんど起きていました。 眠れなかった。	I was awake most of the night. I couldn't sleep.		
+GU031S063	1	31	5_Modals 1	私たちは彼らをパーティーに招待しましたが、彼らは来ることができませんでした。	"We invited them to the party, but they couldn't come."		
+GU031S064	1	31	5_Modals 1	カメラを忘れたので写真が撮れませんでした。	"I'd forgotten my camera, so I couldn't take any pictures."		
+GU031S065	1	31	5_Modals 1	ジェシカは足を痛めて、あまり上手に歩くことができませんでした。	Jessica had hurt her foot and couldn't walk very well.		
+GU031S066	1	31	5_Modals 1	私たちはコンサートに行きたかったのですが、チケットを入手できませんでした。	"We wanted to go to the concert, but we couldn't get tickets."		

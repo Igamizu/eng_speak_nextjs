@@ -68,3 +68,9 @@ $ docker system prune -a
 ~~~
 $ iconv -f sjis -t utf8 docker/mysql/giu_shift-jis.txt > docker/mysql/giu.txt
 ~~~
+
+## DB更新
+~~~
+$ docker-compose exec mysql /bin/sh
+# mysql --defaults-file=/.my.cnf --local_infile=1 < /etc/mysql/create_table.sql
+~~~
