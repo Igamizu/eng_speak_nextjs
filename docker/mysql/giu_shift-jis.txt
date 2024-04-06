@@ -1389,7 +1389,7 @@ GU024S008	1	24	4_Future	–¾“ú‚Ì10‚ÉA”Ş—‚ÍƒIƒtƒBƒX‚É—ˆ‚Ü‚·B ”Ş—‚Í“­‚­‚±‚Æ‚É‚
 GU024S009	1	24	4_Future	¡‚Í”Ş‚ç‚É“d˜b‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ”Ş‚ç‚ÍH‚×‚é‚Å‚µ‚å‚¤B	Don't phone them now. They'll be eating.		
 GU024S010	1	24	4_Future	ƒTƒ‰‚ª‰w‚Ü‚ÅŒ}‚¦‚É—ˆ‚Ä‚­‚ê‚Ü‚·B ‚ ‚È‚½‚ª“’…‚µ‚½‚çA”Ş—‚Í‘Ò‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤B	Sarah will meet you at the station. She'll be waiting when you arrive.		
 GU024S011	1	24	4_Future	„‚Í©•ª‚Ìd–‚É‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚Ü‚·B ‚ ‚Ü‚è’·‚­‚â‚ç‚È‚¢‚±‚Æ‚ğ‹F‚è‚Ü‚·B	I'm fed up with my job. I hope I won't be doing it for much longer.		
-GU024S012	1	24	4_Future	ƒPƒCƒg‚Í¡Œã”TŠÔ‚Å•p”É‚É—·s‚·‚é—\’è‚Å‚·B ”Ş—‚Íd–‚Å‰Æ‚ğ‹ó‚¯‚é‚±‚Æ‚ª‘½‚¢‚Å‚·B	Kate will be travelling a lot in the next few weeks. She's often away for her work.		
+GU024S012	1	24	4_Future	ƒPƒCƒg‚Í¡Œã”T‚ÌŠÔ‚½‚­‚³‚ñ—·s‚·‚é—\’è‚Å‚·B ”Ş—‚Íd–‚Å—£‚ê‚é‚±‚Æ‚ª‘½‚¢‚Å‚·B	Kate will be travelling a lot in the next few weeks. She's often away for her work.		
 GU024S013	1	24	4_Future	„‚½‚¿‚Í5”NŒã‚à‚±‚±‚ÉZ‚ñ‚Å‚¢‚é‚Æv‚¢‚Ü‚·B ˆÚ“]‚·‚é—\’è‚Í‚ ‚è‚Ü‚¹‚ñB	I think we'll still be living here in five years' time. We have no plans to move.		
 GU024S014	1	24	4_Future	‚ ‚È‚½‚Í„‚ğŠÈ’P‚É”F¯‚Å‚«‚é‚Å‚µ‚å‚¤B ‘å‚«‚ÈÔ‚¢–Xq‚ğ‚©‚Ô‚Á‚Ä‚¢‚«‚Ü‚·B	You'll recognise me easily. I'll be wearing a large red hat.		
 GU024S015	1	24	4_Future	–¾“ú‚Ì¡ A„‚½‚¿‚ÍƒI[ƒXƒgƒ‰ƒŠƒA‚ÉŒü‚©‚¤”òs‹@‚ÉÀ‚Á‚Ä‚¢‚Ü‚·B „‚½‚¿‚Í‹x“ú‚É‚»‚±‚Ös‚­‚Â‚à‚è‚Å‚·B	This time tomorrow we'll be sitting on a plane on our way to Australia. We're going there on holiday.		
@@ -1402,10 +1402,10 @@ GU024S021	1	24	4_Future	ˆêl‚Å—·s‚µ‚Ü‚·‚©H	Will you be travelling alone?
 GU024S022	1	24	4_Future	‚Ç‚±‚É‘Øİ‚µ‚Ü‚·‚©?	Where will you be staying?		
 GU024S023	1	24	4_Future	‚¢‚Âo”­‚µ‚Ü‚·‚©?	When will you be leaving?		
 GU024S024	1	24	4_Future	—ˆT‘I‹“‚ª‚ ‚è‚Ü‚·B ‚ ‚È‚½‚Í’N‚É“Š•[‚µ‚Ü‚·‚©H	There's an election next week. Who will you be voting for?		
-GU024S025	1	24	4_Future	Œã‚Å”ƒ‚¢•¨‚És‚«‚Ü‚·B ‰½‚©‚à‚ç‚¦‚Ü‚·‚©H	I'll be going shopping later. Can I get you anything?		
+GU024S025	1	24	4_Future	Œã‚Å”ƒ‚¢•¨‚És‚«‚Ü‚·B‚ ‚È‚½‚Ö‰½‚©”ƒ‚¢‚Ü‚µ‚å‚¤‚©H	I'll be going shopping later. Can I get you anything?		
 GU024S026	1	24	4_Future	ƒGƒ~ƒŠ[‚Í‘Ì’²‚ªˆ«‚¢‚Ì‚ÅA–¾“ú‚ÍƒoƒŒ[ƒ{[ƒ‹‚ğ‚µ‚Ü‚¹‚ñB	"Emily is not well, so she won't be playing volleyball tomorrow."		
 GU024S027	1	24	4_Future	‚»‚Ì‡‚Í¡–éƒeƒŒƒr‚Å•ú‰f‚³‚ê‚Ü‚·B Œ©‚Ä‚Ü‚·‚©H	The match is on TV tonight. Will you be watching it?		
-GU024S028	1	24	4_Future	Œ‹¥®‚É‚Ís‚©‚È‚¢‚æB ‹x“ú‚Í•sİ‚É‚È‚è‚Ü‚·B	I won't be going to the wedding. I'll be away on holiday.		
+GU024S028	1	24	4_Future	Œ‹¥®‚É‚Ís‚©‚È‚¢—\’è‚Å‚·B ‹x“ú‚Å‚¢‚È‚¢‚Å‚µ‚å‚¤B	I won't be going to the wedding. I'll be away on holiday.		
 GU024S029	1	24	4_Future	¬‚³‚ÈƒGƒ}‚Í‚à‚¤‚·‚®ŠwZ‚ªn‚Ü‚è‚Ü‚·B ”Ş—‚Í‚·‚­‚·‚­‚Æ¬’·‚µ‚Ä‚¢‚Ü‚·B	Little Emma will be starting school soon. She's growing up fast.		
 GU024S030	1	24	4_Future	V‚µ‚¢d–‚Å‚Í‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©H ˆÈ‘O‚Æ“¯‚¶‚Å‚·‚©H	What will you be doing in your new job? The same as before?		
 GU024S031	1	24	4_Future	ƒV[ƒgƒxƒ‹ƒg‚ğ’÷‚ß‚Ä‚­‚¾‚³‚¢B ”òs‹@‚Í10•ªˆÈ“à‚É’…—¤‚µ‚Ü‚·B	Please fasten your seat belts. The plane will be landing in ten minutes.		
@@ -1434,7 +1434,7 @@ GU025S007	1	25	4_Future	ÔM†‚ğ–³‹‚µ‚Ä‰^“]‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ƒ‰ƒCƒg‚ª•Ï‚í‚é‚Ü‚
 GU025S008	1	25	4_Future	ƒTƒ‰‚Í‚à‚¤‚·‚®‚±‚±‚É—ˆ‚Ü‚·B ”Ş—‚ª—ˆ‚½‚çƒR[ƒq[‚ğ“ü‚ê‚Ü‚·B	Sarah will be here soon. I'll make some coffee when she comes.		
 GU025S009	1	25	4_Future	”“úŠÔ•sİ‚É‚·‚é—\’è‚Å‚·B „‚ª‚¢‚È‚¢ŠÔA—Fl‚ª„‚ÌƒAƒp[ƒg‚É‘Øİ‚·‚é—\’è‚Å‚·B	I'm going to be away for a few days. A friend of mine will be staying in my flat while I'm away.		
 GU025S010	1	25	4_Future	—ˆTƒ\ƒtƒB[‚ª‚¢‚È‚­‚È‚é‘O‚É‰ï‚¢‚½‚¢‚Å‚·B	I want to see Sophie before she goes away next week.		
-GU025S011	1	25	4_Future	‚±‚ÌƒƒbƒZ[ƒW‚ğó‚¯æ‚Á‚½‚ç‚·‚®‚É“d˜b‚µ‚Ä‚­‚¾‚³‚¢B	Please call me as soon as you get this message.		
+GU025S011	1	25	4_Future	‚±‚ÌƒƒbƒZ[ƒW‚ğó‚¯æ‚Á‚½‚ç‚·‚®‚É„‚Ö“d˜b‚ğ‚©‚¯‚Ä‚­‚¾‚³‚¢B	Please call me as soon as you get this message.		
 GU025S012	1	25	4_Future	1ŠÔ‚Ù‚ÇŠOo‚µ‚Ü‚·B „‚ª‹A‚Á‚Ä‚à‚Ü‚¾‚±‚±‚É‚¢‚Ü‚·‚©H	I'm going out for about an hour. Will you still be here when I get back?		
 GU025S013	1	25	4_Future	‰½‚É‚±‚±‚É’…‚­‚©•ª‚©‚Á‚½‚ç“d˜b‚µ‚Ä‚­‚¾‚³‚¢B	Call me when you know what time you're going to get here.		
 GU025S014	1	25	4_Future	A: ƒhƒA‚ÉŒ®‚ğ‚©‚¯‚é‚Ì‚ğ–Y‚ê‚È‚¢‚Å‚ËB B: ‚¢‚¢‚¦Ao‚©‚¯‚é‚Æ‚«‚ÍŒ®‚ğ‚©‚¯‚Ü‚·B	"A: Don't forget to lock the door. B: No, I'll lock it when I go out."		
@@ -1442,12 +1442,12 @@ GU025S015	1	25	4_Future	‰f‰æ‚ªn‚Ü‚é‘O‚É‰f‰æŠÙ‚És‚«‚½‚¢‚Å‚·B	I want to get to 
 GU025S016	1	25	4_Future	‚³‚ç‚ÉÚ‚µ‚¢î•ñ‚ª•ª‚©‚èŸ‘æA‚¨’m‚ç‚¹‚¢‚½‚µ‚Ü‚·B	"As soon as we have any more information, we'll let you know."		
 GU025S017	1	25	4_Future	„‚Í¡20Î‚Å‚·B 40Î‚É‚È‚Á‚½‚ç©•ª‚Í‚Ç‚±‚É‚¢‚é‚Ì‚¾‚ë‚¤B	I'm 20 now. I wonder where I'll be when I'm 40.		
 GU025S018	1	25	4_Future	ƒGƒ~ƒŠ[‚ÍŠwZ‚ğ«‚ß‚½‚ç‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©?	What is Emily going to do when she leaves school?		
-GU025S019	1	25	4_Future	€”õ‚ª‚Å‚«‚é‚Ü‚Å‚¨‘Ò‚¿‚µ‚Ä‚¢‚Ü‚·‚ªA’·‚­‚Í‘±‚©‚È‚¢‚Å‚­‚¾‚³‚¢B	"I'II wait for you until you're ready, but don't be long."		
+GU025S019	1	25	4_Future	€”õ‚ª‚Å‚«‚é‚Ü‚Å‚ ‚È‚½‚ğ‘Ò‚Á‚Ä‚¢‚Ü‚·‚ªA’·‚­‚Í‚È‚ç‚È‚¢‚Å‚­‚¾‚³‚¢B	"I'II wait for you until you're ready, but don't be long."		
 GU025S020	1	25	4_Future	Ÿ‰ñƒƒ“ƒhƒ“‚É‚¨‰z‚µ‚ÌÛ‚Í‚º‚Ğ‚¨—§‚¿Šñ‚è‚­‚¾‚³‚¢B	Come and see us the next time you are in London.		
 GU025S021	1	25	4_Future	‚à‚¤ˆê“xƒAƒ“ƒi‚É‰ï‚Á‚Ä‚àA”Ş—‚¾‚Æ•ª‚©‚ç‚È‚¢‚Å‚µ‚å‚¤B ¡‚Ì”Ş—‚Í‚Æ‚Ä‚àˆá‚Á‚ÄŒ©‚¦‚Ü‚·B	"When you see Anna again, you won't recognise her. She looks so different now."		
 GU025S022	1	25	4_Future	ƒIƒŠƒo[‚Í5Î‚Å‚·B ”Ş‚Í‘å‚«‚­‚È‚Á‚½‚çƒeƒŒƒr‚Ìi‰ïÒ‚É‚È‚è‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	Oliver is five years old. He wants to be a TV presenter when he grows up.		
 GU025S023	1	25	4_Future	“Ç‚İI‚í‚Á‚½‚çV•·‚ğ’¸‚¯‚Ü‚·‚©H	Can I have the newspaper when you've finished reading it?		
-GU025S024	1	25	4_Future	ƒ‰ƒ“‚ª‚±‚±‚É‚¢‚éŠÔ‚Í‰½‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ”Ş‚ª‚¢‚È‚­‚È‚é‚Ü‚Å‘Ò‚¿‚Ü‚·B	Don't say anything while lan is here. Wait until he has gone.		
+GU025S024	1	25	4_Future	ƒCƒAƒ“‚ª‚±‚±‚É‚¢‚éŠÔ‚Í‰½‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ”Ş‚ª‚¢‚È‚­‚È‚é‚Ü‚Å‘Ò‚¿‚Ü‚·B	Don't say anything while Ian is here. Wait until he has gone.		
 GU025S025	1	25	4_Future	“Ç‚İI‚í‚Á‚½‚çV•·‚ğ’¸‚¯‚Ü‚·‚©H	Can I have the newspaper when you finish reading it?		
 GU025S026	1	25	4_Future	ƒ‰ƒ“‚ª‚±‚±‚É‚¢‚éŠÔ‚Í‰½‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ”Ş‚ªs‚­‚Ü‚Å‘Ò‚Á‚Ä‚­‚¾‚³‚¢B	Don't say anything while lan is here. Wait until he goes.		
 GU025S027	1	25	4_Future	ƒPƒCƒg‚É“d˜b‚µ‚½‚çAo‚©‚¯‚Ä‚à‚¢‚¢‚æB	"When I've phoned Kate, we can go out."		
@@ -1456,13 +1456,13 @@ GU025S029	1	25	4_Future	ƒR[ƒX‚ğC—¹‚µ‚½‚çd–‚ğŒ©‚Â‚¯‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	I hop
 GU025S030	1	25	4_Future	‰½‚ğ‚·‚é‚©Œˆ‚Ü‚Á‚½‚ç‚·‚®‚ÉŒv‰æ‚ğ‹³‚¦‚Ä‚­‚¾‚³‚¢B	Let me know your plans as soon as you've decided what to do.		
 GU025S031	1	25	4_Future	\•ª‚È‚¨‹à‚ª’™‚Ü‚Á‚½‚çA’·‚¢‹x‰É‚ğæ‚é—\’è‚Å‚·B	"When I've saved enough money, I'm going to have a long holiday."		
 GU025S032	1	25	4_Future	V‚µ‚¢“¹˜H‚ª‚Å‚«‚½‚çŒğ’Ê‚Í‚à‚Á‚Æ—Ç‚­‚È‚é‚Å‚µ‚å‚¤B	The traffic will be better when they've built the new road.		
-GU025S033	1	25	4_Future	‰½‚©H‚×‚½Œã‚Í‹C•ª‚ª—Ç‚­‚È‚è‚Ü‚·B	You'll feel better after you've had something to eat.		
+GU025S033	1	25	4_Future	‰½‚©‚ğH‚×‚½ŒãA‚ ‚È‚½‚Í‹C•ª‚ª‚æ‚è—Ç‚¢‚ÆŠ´‚¶‚é‚Å‚µ‚å‚¤B	You'll feel better after you've had something to eat.		
 GU025S034	1	25	4_Future	”Ş‚ª„‚ÉÓ‚é‚Ü‚Å‚Í”Ş‚Æ‚Í˜b‚³‚È‚¢B	I won't speak to him until he's apologised to me.		
 GU025S035	1	25	4_Future	–¾“úƒxƒ“‚É‰ï‚Á‚½‚çA“d˜b‚·‚é‚æ‚¤‚É“`‚¦‚Ü‚·B	"When I see Ben tomorrow, I'll tell him to call you."		
 GU025S036	1	25	4_Future	Œš•¨‚ğo‚é‚Æ‚«‚Í‘‹‚ğ•Â‚ß‚é‚±‚Æ‚ğ–Y‚ê‚È‚¢‚Å‚­‚¾‚³‚¢B	Don't forget to close the windows when you leave the building.		
 GU025S037	1	25	4_Future	ƒŠƒT‚É“d˜b‚µ‚½‚çAƒp[ƒeƒB[‚É‚Â‚¢‚Ä˜b‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©?	"When you phone Lisa, can you tell her about the party?"		
 GU025S038	1	25	4_Future	ŠOo‚·‚é‚Æ‚«‚ÍP‚ğ‚Á‚Ä‚¢‚«‚Ü‚µ‚å‚¤B	Take an umbrella with you when you go out.		
-GU025S039	1	25	4_Future	`‚É‚¢‚é‚Æ‚«‚Í‚Ç‚±‚É‘Øİ‚µ‚Ü‚·‚©?	Where are you going to stay when you're in Hong Kong?		
+GU025S039	1	25	4_Future	`‚É‚¢‚é‚Æ‚«‚Í‚Ç‚±‚É‘Øİ‚·‚é‚Â‚à‚è‚Å‚·‚©?	Where are you going to stay when you're in Hong Kong?		
 GU025S040	1	25	4_Future	‚Ü‚½‚»‚¤‚È‚Á‚½‚ç“{‚é‚æB	I'Il be angry if it happens again.		
 GU025S041	1	25	4_Future	”Ş‚ç‚ª‚·‚®‚É—ˆ‚È‚¢‚È‚çA„‚Í‘Ò‚Â‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB	"If they don't come soon, I'm not going to wait."		
 GU025S042	1	25	4_Future	¡–é’x‚­‚È‚Á‚Ä‚àS”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B	Don't worry if I'm late tonight.		
@@ -1471,10 +1471,10 @@ GU025S044	1	25	4_Future	”Ş‚ç‚ª‚·‚®‚É—ˆ‚È‚¢‚È‚çA„‚Í‘Ò‚Â‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB	"If
 GU025S045	1	25	4_Future	¡–é’x‚­‚È‚Á‚Ä‚àS”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B	Don't worry if I'm late tonight.		
 GU025S046	1	25	4_Future	Œã‚Åo‚©‚¯‚é‚©‚à’m‚ê‚Ü‚¹‚ñB ŠOo‚µ‚½‚çƒpƒ“‚ğ”ƒ‚Á‚Ä‚«‚Ü‚·B	"I might go out later. If I go out, I'Il get some bread."		
 GU025S047	1	25	4_Future	Œã‚Åo‚©‚¯‚Ü‚·B o‚©‚¯‚é‚Æ‚«‚Íƒpƒ“‚ğ”ƒ‚Á‚Ä‚«‚Ü‚·B	"I'm going out later. When I go out, I'll get some bread."		
-GU025S048	1	25	4_Future	–¾“ú‚Ì’©‰É‚¾‚Á‚½‚çAƒR[ƒq[‚ğˆù‚İ‚É‚Å‚à‰ï‚¦‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"If you're free tomorrow morning, we could meet for coffee."		
+GU025S048	1	25	4_Future	–¾“ú‚Ì’©‚ ‚È‚½‚ª‰É‚¾‚Á‚½‚çA‰äX‚ÍƒR[ƒq[‚ğˆù‚İ‚É‚Å‚à‰ï‚¦‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"If you're free tomorrow morning, we could meet for coffee."		
 GU025S049	1	25	4_Future	ƒ|[ƒ‹‚ªƒp[ƒeƒB[‚É—ˆ‚½‚ç‹Á‚­‚¾‚ë‚¤B ”Ş‚Íƒp[ƒeƒB[‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I'Il be surprised if Paul comes to the party. He doesn't like parties.		
 GU025S050	1	25	4_Future	‹}‚¢‚ÅI ‹}‚ª‚È‚¢‚Æ’x‚ê‚Ä‚µ‚Ü‚¢‚Ü‚·B	"Hurry up! If we don't hurry, we'll be late."		
-GU025S051	1	25	4_Future	‚à‚µ–¾“ú“V‹C‚ª—Ç‚¯‚ê‚ÎA„‚½‚¿‚ÍŠC‚És‚«‚Ü‚·B	"If the weather is good tomorrow, we're going to the beach."		
+GU025S051	1	25	4_Future	‚à‚µ–¾“ú“V‹C‚ª—Ç‚¯‚ê‚ÎA„‚½‚¿‚Í»•l‚És‚­—\’è‚Å‚·B	"If the weather is good tomorrow, we're going to the beach."		
 GU025S052	1	25	4_Future	‚à‚µ‘åŠw‚É“üŠw‚Å‚«‚È‚©‚Á‚½‚çAƒ”ƒBƒbƒL[‚Í–{“–‚É‚ª‚Á‚©‚è‚·‚é‚Å‚µ‚å‚¤B	Vicky will be really disappointed if she doesn't get a place at university.		
 GU025S053	1	25	4_Future	‘åä•v‚¾‚Æv‚¢‚Ü‚·‚ªA‰½‚©–â‘è‚ª‚ ‚ê‚Î“d˜b‚µ‚Ü‚·‚Ë?	"I think everything will be fine, but I'Il call you if there are any problems, OK?"		
 GU025S054	1	25	4_Future	‰½‚©•K—v‚È‚±‚Æ‚ª‚ ‚ê‚ÎA‰“—¶‚¹‚¸‚É‚¨q‚Ë‚­‚¾‚³‚¢B	"If you need anything, please don't be afraid to ask."		
@@ -1854,3 +1854,326 @@ GU031S063	1	31	5_Modals 1	„‚½‚¿‚Í”Ş‚ç‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚ªA”Ş‚ç‚Í—ˆ‚é‚±
 GU031S064	1	31	5_Modals 1	ƒJƒƒ‰‚ğ–Y‚ê‚½‚Ì‚ÅÊ^‚ªB‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I'd forgotten my camera, so I couldn't take any pictures."		
 GU031S065	1	31	5_Modals 1	ƒWƒFƒVƒJ‚Í‘«‚ğ’É‚ß‚ÄA‚ ‚Ü‚èãè‚É•à‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	Jessica had hurt her foot and couldn't walk very well.		
 GU031S066	1	31	5_Modals 1	„‚½‚¿‚ÍƒRƒ“ƒT[ƒg‚És‚«‚½‚©‚Á‚½‚Ì‚Å‚·‚ªAƒ`ƒPƒbƒg‚ğ“üè‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"We wanted to go to the concert, but we couldn't get tickets."		
+GU032S001	1	32	5_Modals 2	„‚ªŒ¾‚Á‚½‚±‚Æ‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ‚»‚ê‚Í”é–§‚É‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Don't tell anybody what I said. You must keep it a secret.		
+GU032S002	1	32	5_Modals 2	‚ ‚Ü‚èŠÔ‚ª‚ ‚è‚Ü‚¹‚ñB ‹}‚ª‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	We haven't got much time. We must hurry.		
+GU032S003	1	32	5_Modals 2	‚»‚ê‚Í”é–§‚É‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ’N‚É‚àŒ¾‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must keep it a secret. You mustn't tell anyone.		
+GU032S004	1	32	5_Modals 2	„‚½‚¿‚Í‚Æ‚Ä‚àÃ‚©‚É‚µ‚Ä‚¢‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB „‚½‚¿‚Í‘›‰¹‚ğ—§‚Ä‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	We must be very quiet. We mustn't make any noise.		
+GU032S005	1	32	5_Modals 2	ƒpƒXƒ[ƒh‚ğŠo‚¦‚Ä‚¨‚­•K—v‚ª‚ ‚è‚Ü‚·B –Y‚ê‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must remember your password. You mustn't forget it.		
+GU032S006	1	32	5_Modals 2	—EŠ¸‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‹°‚ê‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must be brave. You mustn't be afraid.		
+GU032S007	1	32	5_Modals 2	‚ ‚È‚½‚Í–ñ‘©‚ÌŠÔ‚ÉŠÔ‚É‡‚¤•K—v‚ª‚ ‚è‚Ü‚·B ’x‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must be on time for the appointment. You mustn't be late.		
+GU032S008	1	32	5_Modals 2	‰Æ‹ï‚Í‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚­•K—v‚ª‚ ‚è‚Ü‚·B ‰½‚à“®‚©‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must leave the furniture as it is. You mustn't move anything.		
+GU032S009	1	32	5_Modals 2	‚ ‚È‚½‚Í—§‚¿‹‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‚±‚±‚É‚¢‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must go away. You mustn't stay here.		
+GU032S010	1	32	5_Modals 2	‰½‚ª‹N‚±‚Á‚½‚Ì‚©–Y‚ê‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‚»‚ê‚É‚Â‚¢‚Äl‚¦‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must forget what happened. You mustn't think about it.		
+GU032S011	1	32	5_Modals 2	ŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚è‚Ü‚·B ‹}‚®•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We've got plenty of time. We needn't hurry.		
+GU032S012	1	32	5_Modals 2	ƒWƒ‡[‚Í‚±‚±‚É‚¢‚Ä‚à‚¢‚¢‚æB ”Ş‚Í„‚½‚¿‚Æˆê‚É—ˆ‚é•K—v‚Í‚È‚¢B	Joe can stay here. He needn't come with us.		
+GU032S013	1	32	5_Modals 2	‹}‚®•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We don't need to hurry.		
+GU032S014	1	32	5_Modals 2	‹}‚®•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We needn't hurry.		
+GU032S015	1	32	5_Modals 2	ƒXƒeƒB[ƒu‚ÉŒ¾‚¤•K—v‚Í‚ ‚è‚Ü‚¹‚ñB „©g‚à”Ş‚ÉŒ¾‚¦‚Ü‚·B	You needn't tell Steve. I can tell him myself.		
+GU032S016	1	32	5_Modals 2	ƒXƒeƒB[ƒu‚ÉŒ¾‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB ”Ş‚É‚Í’m‚ç‚ê‚½‚­‚È‚¢‚ñ‚Å‚·B	You mustn't tell Steve. I don't want him to know.		
+GU032S017	1	32	5_Modals 2	ƒ^ƒNƒV[‚Å‰Æ‚Ü‚Å‹A‚ê‚é‚æB •à‚­•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We can get a taxi home. We needn't walk.		
+GU032S018	1	32	5_Modals 2	ƒQƒCƒŠ[‚Æ˜b‚³‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ”Ş‚É“d˜b‚·‚é‚Ì‚ğ–Y‚ê‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	I have to talk to Gary. I mustn't forget to call him.		
+GU032S019	1	32	5_Modals 2	ƒgƒ}ƒg‚ğô‚¤•K—v‚Í‚ ‚è‚Ü‚¹‚ñB ‚·‚Å‚Éô‘óÏ‚İ‚Å‚·B	We needn't wash the tomatoes. They've already been washed.		
+GU032S020	1	32	5_Modals 2	„‚ğ‘Ò‚Â•K—v‚Í‚ ‚è‚Ü‚¹‚ñB ‘±‚¯‚Ä‚­‚¾‚³‚¢A„‚àŒã‚ÅQ‰Á‚µ‚Ü‚·B	You needn't wait for me. You go on and I'll join you later.		
+GU032S021	1	32	5_Modals 2	‚±‚ê‚ç‚Í”ñí‚É‹Md‚È‘—¿‚Å‚·B ‚»‚ê‚ç‚ğ¸‚Á‚Ä‚Í‚È‚è‚Ü‚¹‚ñB	These are very valuable documents. You mustn't lose them.		
+GU032S022	1	32	5_Modals 2	„‚½‚¿‚Í\•ª‚É’ˆÓ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB „‚½‚¿‚Í‹ğ‚©‚È‚±‚Æ‚ğ‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	We must be very careful. We mustn't do anything stupid.		
+GU032S023	1	32	5_Modals 2	ó‹µ‚ÍŠ®‘S‚É—‰ğ‚µ‚Ä‚¢‚Ü‚·B ‚±‚êˆÈãà–¾‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	I understand the situation completely. You needn't explain further.		
+GU032S024	1	32	5_Modals 2	A: ‚Ç‚ñ‚È‰Æ‚ğ”ƒ‚¢‚½‚¢‚Å‚·‚©? ‰½‚©‘å‚«‚È‚±‚ÆH B: ‚»‚¤‚Å‚·‚ËA‘å‚«‚­‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB‚»‚ê‚Í‚»‚ê‚Ù‚Çd—v‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚½‚¾‚µA‘f“G‚È’ë‰€‚ª‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‚»‚ê‚Í•s‰ÂŒ‡‚Å‚·B	"A: What sort of house do you want to buy? Something big? B: Well, it needn't be big - that's not so important. But it must have a nice garden - that's essential."		
+GU032S025	1	32	5_Modals 2	‚±‚ê‚ç‚Ìƒ[ƒ‹‚Ííœ‚Å‚«‚Ü‚·B •ÛŠÇ‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	You can delete these emails. You don't need to keep them.		
+GU032S026	1	32	5_Modals 2	„‚Í‘åä•v‚Å‚·B „‚Ì‚±‚Æ‚ÍS”z‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	I'm all right. You needn't worry about me.		
+GU032S027	1	32	5_Modals 2	”ƒ‚¢•¨‚àˆêl‚Å‚Å‚«‚Ü‚·B ˆê‚És‚­•K—v‚Í‚È‚¢‚æB	I can do the shopping alone. We needn't go together.		
+GU032S028	1	32	5_Modals 2	ŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚è‚Ü‚·B ‚Ü‚¾o”­‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We have plenty of time. We don't need to leave yet.		
+GU032S029	1	32	5_Modals 2	‹©‚Ô•K—v‚Í‚ ‚è‚Ü‚¹‚ñB Š®‘S‚É‚æ‚­•·‚±‚¦‚Ü‚·B	You needn't shout. I can hear you perfectly well.		
+GU032S030	1	32	5_Modals 2	‚±‚Ì“dÔ‚Íƒƒ“ƒhƒ“‚Ü‚Ås‚«‚Ü‚·B •Ï‚¦‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	This train goes all the way to London. You don't need to change.		
+GU032S031	1	32	5_Modals 2	”Ş‚ç‚Íƒe[ƒuƒ‹‚ğ—\–ñ‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	They needn't have reserved a table.		
+GU032S032	1	32	5_Modals 2	‚·‚×‚Ä‚ª‚¤‚Ü‚­‚¢‚«‚Ü‚·B S”z‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	Everything will be OK. You needn't worry.		
+GU032S033	1	32	5_Modals 2	‚·‚×‚ÄOK‚Å‚µ‚½B S”z‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	Everything was OK. You needn't have worried.		
+GU032S034	1	32	5_Modals 2	‚ ‚È‚½‚Í„‚É“{–Â‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚Á‚Æ‰ä–‚·‚×‚«‚¾‚Á‚½B	You needn't have shouted at me. You should have been more patient.		
+GU032S035	1	32	5_Modals 2	”Ş‚Í‰½‚àŒ¾‚í‚¸‚É—§‚¿‹‚é•K—v‚Í‚È‚©‚Á‚½B ”Ş‚Í•Ê‚ê‚ğ‚°‚é‚±‚Æ‚à‚Å‚«‚½‚Í‚¸‚¾B	He needn't have gone away without saying anything. He could have said goodbye.		
+GU032S036	1	32	5_Modals 2	”Ş‚ç‚Íƒzƒeƒ‹‚É”‘‚Ü‚é•K—v‚Í‚È‚©‚Á‚½‚Ì‚Å‚·B ‚È‚º”Ş‚ç‚Í„‚½‚¿‚Æˆê‚É—¯‚Ü‚ç‚È‚©‚Á‚½‚Ì‚Å‚·‚©H	They needn't have stayed at a hotel. Why didn't they stay with us?		
+GU032S037	1	32	5_Modals 2	•à‚¢‚Ä‰Æ‚É‹A‚é•K—v‚Í‚È‚©‚Á‚½‚Ì‚Å‚·B ƒ^ƒNƒV[‚Éæ‚Á‚Ä‚à‚æ‚©‚Á‚½‚©‚à‚µ‚ê‚È‚¢B	You needn't have walked home. You could have taken a taxi.		
+GU032S038	1	32	5_Modals 2	”Ş—‚Í^–é’†‚É„‚É“d˜b‚·‚é•K—v‚Í‚È‚©‚Á‚½B ”Ş—‚Í’©‚Ü‚Å‘Ò‚Â‚±‚Æ‚à‚Å‚«‚½‚Å‚µ‚å‚¤B	She needn't have called me in the middle of the night. She could have waited until the morning.		
+GU032S039	1	32	5_Modals 2	‹}‚®•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚è‚Ü‚µ‚½‚ËB	You needn't have rushed. You had plenty of time.		
+GU032S040	1	32	5_Modals 2	‚È‚º”Ş‚Í5‚É‹N‚«‚½‚Ì‚Å‚·‚©? ”Ş‚Í‚»‚ñ‚È‚É‘‚­‹N‚«‚é•K—v‚Í‚È‚©‚Á‚½B ”Ş‚Í‚à‚Á‚Æ’·‚­ƒxƒbƒh‚É‚¢‚½‚©‚à‚µ‚ê‚È‚¢B	Why did he get up at 5 o'clock? He needn't have got up so early. He could have stayed in bed longer.		
+GU032S041	1	32	5_Modals 2	”Ş‚Í‘‹N‚«‚·‚é•K—v‚ª‚È‚©‚Á‚½‚Ì‚ÅA‘‹N‚«‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	"He didn't need to get up early, so he didn't."		
+GU032S042	1	32	5_Modals 2	”Ş‚Í‘‹N‚«‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA‘f°‚ç‚µ‚¢’©‚¾‚Á‚½‚Ì‚Å‘‹N‚«‚µ‚Ü‚µ‚½B	"He didn't need to get up early but it was a beautiful morning, so he did."		
+GU032S043	1	32	5_Modals 2	—‘‚ğ”ƒ‚¤•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚·‚Å‚É‚¢‚­‚Â‚©‚ ‚è‚Ü‚µ‚½B ¡‚Å‚Í‘½‚·‚¬‚Ü‚·B	You needn't have bought eggs. We already had some. Now we have too many.		
+GU032S044	1	32	5_Modals 2	–â‘è‚ª‚ ‚é‚¾‚ë‚¤‚Æv‚Á‚Ä‚¢‚Ü‚µ‚½‚ªAS”z‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚·‚×‚Ä‚ª‘åä•v‚Å‚µ‚½B	"We thought there would be problems, but we needn't have worried. Everything was fine."		
+GU032S045	1	32	5_Modals 2	Š¦‚­‚È‚é‚¾‚ë‚¤‚Æ—\‘z‚µ‚Ä‚¢‚½‚Ì‚ÅAƒR[ƒg‚ğ’…‚Ü‚µ‚½B ’…‚é•K—v‚Í‚È‚©‚Á‚½ - ‚Ü‚Á‚½‚­Š¦‚­‚È‚©‚Á‚½B	"I expected it to be cold, so I wore my coat. I needn't have worn it - it wasn't cold at all."		
+GU032S046	1	32	5_Modals 2	‰½‚àŒ¾‚¤•K—v‚Í‚È‚©‚Á‚½B –Ù‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I needn't have said anything. I wish l'd kept quiet.		
+GU033S001	1	33	5_Modals 2	‚ ‚È‚½‚ª”æ‚ê‚ÄŒ©‚¦‚éB ‚ ‚È‚½‚ÍQ‚é‚×‚«‚¾B	You look tired. You should go to bed.		
+GU033S002	1	33	5_Modals 2	­•{‚Í‹³ˆç‚ğ‰ü‘P‚·‚é‚½‚ß‚É‚à‚Á‚Æ“w—Í‚·‚×‚«‚Å‚·B	The government should do more to improve education.		
+GU033S003	1	33	5_Modals 2	A: ƒXƒeƒtƒ@ƒj[‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©? B: ‚Í‚¢A‚»‚¤‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·B	"A: Should we invite Stephanie to the party? B: Yes, I think we should."		
+GU033S004	1	33	5_Modals 2	V•·‚Å“Ç‚ñ‚¾‚±‚Æ‚ğ‚·‚×‚ÄM‚¶‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You shouldn't believe everything you read in the newspapers.		
+GU033S005	1	33	5_Modals 2	­•{‚Í‹³ˆç‚ğ‰ü‘P‚·‚é‚½‚ß‚É‚à‚Á‚Æ“w—Í‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·B	I think the government should do more to improve education.		
+GU033S006	1	33	5_Modals 2	‚»‚ñ‚È‚ÉŠæ’£‚ç‚È‚­‚Ä‚à‚¢‚¢‚Æv‚¢‚Ü‚·B	I don't think you should work so hard.		
+GU033S007	1	33	5_Modals 2	A: ‚±‚Ìd–‚É‰•å‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·‚©? B: ‚Í‚¢A‚»‚¤‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·B	"A: Do you think I should apply for this job? B: Yes, I think you should."		
+GU033S008	1	33	5_Modals 2	Ó‚é‚×‚«‚Å‚·‚æB	You should apologise.		
+GU033S009	1	33	5_Modals 2	Ó‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	You must apologise.	You have to apologise.	
+GU033S010	1	33	5_Modals 2	‚ ‚È‚½‚Ì‹‹—¿‚Í‚Æ‚Ä‚à’á‚¢‚Å‚·B •Ê‚Ìd–‚ğ’T‚·‚×‚«‚Å‚·B	Your salary is very low. You should look for another job.		
+GU033S011	1	33	5_Modals 2	ƒAƒ“ƒi‚É‚Í•Ï‰»‚ª•K—v‚Å‚·B ”Ş—‚Í”“úŠÔo‚©‚¯‚é‚×‚«‚Å‚·B	Anna needs a change. She should go away for a few days.		
+GU033S012	1	33	5_Modals 2	ƒWƒƒƒbƒN‚Í‚¢‚Â‚à”æ‚ê‚Ä‚¢‚Ü‚·B ”Ş‚Í‚»‚ñ‚È‚É’x‚­‚Ü‚Å‹N‚«‚Ä‚¢‚é‚×‚«‚Å‚Í‚È‚¢B	Jack is always tired. He shouldn't stay up so late.		
+GU033S013	1	33	5_Modals 2	‚È‚ñ‚Ä”ü‚µ‚¢ŒiF‚Å‚µ‚å‚¤I Ê^‚ğB‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB	What a beautiful view! You should take a picture.		
+GU033S014	1	33	5_Modals 2	ƒX[‚Í‚¢‚Â‚à•sˆÀ‚Å‚·B ”Ş—‚Í‚»‚ê‚Ù‚ÇS”z‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	Sue is always anxious. She shouldn't worry so much.		
+GU033S015	1	33	5_Modals 2	ƒ_ƒ“‚Ì•”‰®‚Í‚ ‚Ü‚èãY—í‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”Ş‚Í•Ç‚ÉÊ^‚ğ‰½–‡‚©“\‚é‚×‚«‚Å‚·B	Dan's room isn't very nice. He should put some pictures on the wall.		
+GU033S016	1	33	5_Modals 2	‚±‚ê‚ç‚ÌƒP[ƒL‚Í‚¨‚¢‚µ‚¢‚Å‚·B ‚µ‚Ä‚İ‚é‚Æ‚¢‚¢‚Å‚µ‚å‚¤B	These cakes are delicious. You should try one.		
+GU033S017	1	33	5_Modals 2	”Ş‚ç‚ÍŒ‹¥‚·‚×‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I don't think they should get married.		
+GU033S018	1	33	5_Modals 2	ŠOo‚·‚×‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I don't think you should go out.		
+GU033S019	1	33	5_Modals 2	\¿‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	I think you should apply for it.		
+GU033S020	1	33	5_Modals 2	„‚Í­•{‚ªŠ“¾Å‚ğ‘Å‚·‚×‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I don't think the government should increase income tax.		
+GU033S021	1	33	5_Modals 2	ƒeƒBƒi‚Í‚Ç‚±‚Å‚·‚©H ”Ş—‚Í¡ ‚±‚±‚É‚¢‚é‚Í‚¸‚Å‚·B	Where's Tina? She should be here by now.		
+GU033S022	1	33	5_Modals 2	‚±‚ÌƒpƒPƒbƒg‚Ì‰¿Ši‚ÍŠÔˆá‚Á‚Ä‚¢‚Ü‚·B 3.50ƒ|ƒ“ƒh‚Å‚Í‚È‚­A2.50ƒ|ƒ“ƒh‚Å‚ ‚é‚×‚«‚Å‚·B	"The price on this packet is wrong. It should be ?2.50, not ?3.50."		
+GU033S023	1	33	5_Modals 2	ƒoƒCƒN‚Éæ‚Á‚Ä‚¢‚é‚ ‚Ì’j‚Íƒwƒ‹ƒƒbƒg‚ğ‚©‚Ô‚Á‚Ä‚¢‚Ü‚¹‚ñB ”Ş‚Í‚»‚ê‚ğ’…‚Ä‚¢‚é‚Í‚¸‚¾B	That man on the motorbike isn't wearing a helmet. He should be wearing one.		
+GU033S024	1	33	5_Modals 2	ƒwƒŒƒ“‚ÍŒ±‚ÉŒü‚¯‚Äˆê¶Œœ–½•×‹­‚µ‚Ä‚¢‚é‚Ì‚ÅA‡Ši‚·‚é‚Í‚¸‚Å‚·B	"Helen has been studying hard for the exam, so she should pass."		
+GU033S025	1	33	5_Modals 2	’¬‚É‚Íƒzƒeƒ‹‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B ”‘‚Ü‚éêŠ‚ğŒ©‚Â‚¯‚é‚Ì‚Í“ï‚µ‚­‚È‚¢‚Í‚¸‚Å‚·B	There are plenty of hotels in the town. It shouldn't be hard to find a place to stay.		
+GU033S026	1	33	5_Modals 2	ƒeƒŒƒr‚ÍC—‚³‚ê‚Ü‚µ‚½B ¡‚Í³í‚É“®ì‚µ‚Ä‚¢‚é‚Í‚¸‚Å‚·B	The TV has been repaired. It should be working OK now.		
+GU033S027	1	33	5_Modals 2	ƒWƒ‡[‚Í‚Ü‚¾“’…‚µ‚Ä‚¢‚Ü‚¹‚ñB ”Ş‚Í‚à‚¤‚·‚®‚±‚±‚É—ˆ‚é‚Í‚¸‚Å‚·B	Joe hasn't arrived yet. He should be here soon.		
+GU033S028	1	33	5_Modals 2	ƒzƒeƒ‹‚É’…‚­‚Ì‚É‚»‚ê‚Ù‚ÇŠÔ‚Í‚©‚©‚ç‚È‚¢‚Í‚¸‚Å‚·B –ñ20•ªB	It shouldn't take long to get to the hotel. About 20 minutes.		
+GU033S029	1	33	5_Modals 2	‚±‚Ì’PŒê‚ÌƒXƒyƒ‹‚ªŠÔˆá‚Á‚Ä‚¢‚Ü‚·B ‚»‚ê‚Íu‚»‚±v‚Å‚Í‚È‚­u”Ş‚çv‚Å‚ ‚é‚×‚«‚Å‚·B	"You've spelt this word wrong. It should be 'their', not 'there'."		
+GU033S030	1	33	5_Modals 2	“V‹C‚ÍˆÙí‚ÉŠ¦‚¢‚Å‚·B ‚±‚ÌŠú‚Í‚à‚Á‚Æ’g‚©‚­‚È‚é‚Í‚¸‚Å‚·B	The weather is unusually cold. It should be much warmer at this time of year.		
+GU033S031	1	33	5_Modals 2	‹ó`‚És‚­Å‚à—Ç‚¢•û–@‚Íƒ^ƒNƒV[‚Å‚·B 10ƒ|ƒ“ƒhˆÈã‚©‚©‚é‚±‚Æ‚Í‚È‚¢‚Í‚¸‚Å‚·B	The best way to get to the airport is by taxi. It shouldn't cost more than ten pounds.		
+GU033S032	1	33	5_Modals 2	ƒRƒ“ƒsƒ…[ƒ^[‚É–â‘è‚ª‚ ‚éê‡‚ÍAÄ‹N“®‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B ‚»‚ê‚Å–â‘è‚Í‰ğŒˆ‚·‚é‚Í‚¸‚Å‚·B	"If you have a problem with the computer, try restarting it. That should solve the problem."		
+GU033S033	1	33	5_Modals 2	ğ–é‚Ì‘f°‚ç‚µ‚¢ƒp[ƒeƒB[‚ÉQ‰Á‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B —ˆ‚é‚×‚«‚¾‚Á‚½B ‚È‚º‚»‚¤‚µ‚È‚©‚Á‚½‚Ì‚Å‚·‚©H	You missed a great party last night. You should have come. Why didn't you?		
+GU033S034	1	33	5_Modals 2	‚È‚º”Ş‚ç‚Í‚±‚ñ‚È‚É’x‚¢‚Ì‚¾‚ë‚¤‚©B ”Ş‚ç‚Í‚¸‚Á‚Æ‘O‚É‚±‚±‚É’…‚¢‚½‚Í‚¸‚¾B	I wonder why they're so late. They should have got here long ago.		
+GU033S035	1	33	5_Modals 2	‚ ‚È‚½‚ª”æ‚ê‚ÄŒ©‚¦‚éB ‚à‚¤Q‚½•û‚ª‚¢‚¢‚æB	You look tired. You should go to bed now.		
+GU033S036	1	33	5_Modals 2	‚ ‚È‚½‚Íğ–é‚Æ‚Ä‚à’x‚­‚Ü‚ÅQ‚Ü‚µ‚½B ‚à‚Á‚Æ‘‚­Q‚é‚×‚«‚¾‚Á‚½B	You went to bed very late last night. You should have gone to bed earlier.		
+GU033S037	1	33	5_Modals 2	„‚Í‹C•ª‚ªˆ«‚¢‚Å‚·B ‚»‚ñ‚È‚ÉH‚×‚é‚×‚«‚Å‚Í‚È‚©‚Á‚½B	I'm feeling sick. I shouldn't have eaten so much.		
+GU033S038	1	33	5_Modals 2	”Ş—‚Í„‚½‚¿‚Ì‰ï˜b‚ğ•·‚¢‚Ä‚¢‚é‚×‚«‚Å‚Í‚È‚©‚Á‚½B ‚»‚ê‚Íƒvƒ‰ƒCƒx[ƒg‚Å‚µ‚½B	She shouldn't have been listening to our conversation. It was private.		
+GU033S039	1	33	5_Modals 2	‰½‚©d—v‚È‚±‚Æ‚ª‚ ‚éê‡‚ÍA‚·‚®‚ÉÀs‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B –¾“ú‚Ü‚Å‘Ò‚½‚È‚¢‚Å‚­‚¾‚³‚¢B	"If something is important, you should do it immediately. Don't wait until tomorrow."		
+GU033S040	1	33	5_Modals 2	¡‚©‚ç‚â‚é‚É‚Í’x‚·‚¬‚Ü‚·B ğ“ú‚â‚é‚×‚«‚¾‚Á‚½B	It's too late to do it now. You should have done it yesterday.		
+GU033S041	1	33	5_Modals 2	„‚½‚¿‚Íğ“ú‡‚É•‰‚¯‚Ü‚µ‚½‚ªAŸ‚Â‚×‚«‚Å‚µ‚½B „‚½‚¿‚Í‚æ‚è—Ç‚¢ƒ`[ƒ€‚Å‚µ‚½B	"We lost the game yesterday, but we should have won. We were the better team."		
+GU033S042	1	33	5_Modals 2	ƒ^[ƒjƒƒ‚Í–¾“úƒWƒF[ƒ“‚ÆƒeƒjƒX‚Ì‡‚ğ‚µ‚Ü‚·B ƒWƒF[ƒ“‚ªŸ‚Â‚Í‚¸‚¾B ”Ş—‚Íƒ^[ƒjƒƒ‚æ‚è‚à‚Í‚é‚©‚É—D‚ê‚½‘Iè‚¾B	Tanya has a tennis match against Jane tomorrow. Jane should win. She's a much better player than Tanya.		
+GU033S043	1	33	5_Modals 2	„‚½‚¿‚Í“¹‚ğŠÔˆá‚¦‚Ä“¹‚É–À‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B „‚½‚¿‚Í¶‚Å‚Í‚È‚­‰E‚É‹È‚ª‚é‚×‚«‚Å‚µ‚½B	"We went the wrong way and got lost. We should have turned right, not left."		
+GU033S044	1	33	5_Modals 2	‘f°‚ç‚µ‚¢“ú‚Å‚·‚ËB o‚©‚¯‚é‚×‚«‚¾‚Æv‚¢‚Ü‚·B ì‰ˆ‚¢‚ğU•à‚µ‚Ü‚µ‚å‚¤B	It's a beautiful day. I think we should go out. Let's go for a walk by the river.		
+GU033S045	1	33	5_Modals 2	¡“ú‚Í–Y‚ê‚¸‚ÉƒAƒ‰ƒ“‚É“d˜b‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ğ“ú”Ş‚É“d˜b‚·‚×‚«‚¾‚Á‚½‚Ì‚Å‚·‚ªA–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"I must remember to call Alan today. I should have called him yesterday, but I forgot."		
+GU033S046	1	33	5_Modals 2	ŠC‚Ös‚«‚Ü‚µ‚å‚¤B ¡o”­‚·‚ê‚Î2‚Ü‚Å‚É‚Í’…‚­‚Í‚¸‚Å‚·B	"Let's go to the beach. If we leave now, we should be there by 2 o'clock."		
+GU033S047	1	33	5_Modals 2	ğ“úŒ±Œ‹‰Ê‚ª“Í‚«‚Ü‚µ‚½B Šú‘Ò‚µ‚½‚Ù‚Ç‚¤‚Ü‚­‚¢‚«‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚Á‚Æ‚¤‚Ü‚­‚â‚é‚×‚«‚¾‚Á‚½B	I got my exam results yesterday. I didn't do as well as I'd hoped. I should have done better.		
+GU033S048	1	33	5_Modals 2	•K—v‚É‰‚¶‚Ä—\’è‚ğ•ÏX‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B –â‘è‚È‚¢‚Í‚¸‚Å‚·B	You can change your appointment if you need to. It shouldn't be a problem.		
+GU033S049	1	33	5_Modals 2	æTV‚µ‚¢ƒVƒƒƒc‚ğ”ƒ‚¢‚Ü‚µ‚½‚ªA‚à‚¤D‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”ƒ‚¤‚×‚«‚Å‚Í‚È‚©‚Á‚½B	"I bought a new shirt last week, but now I don't like it any more. I shouldn't have bought it."		
+GU033S050	1	33	5_Modals 2	¡“ú‘—Ş‚ğ‘—‚è‚Ü‚µ‚½‚Ì‚ÅA–¾“ú‚É‚Í“Í‚­‚Í‚¸‚Å‚·B	"I sent the documents to you today, so you should have them tomorrow."		
+GU033S051	1	33	5_Modals 2	ŠOo’†‚É‰J‚ª~‚èn‚ß‚ÄA‚Æ‚Ä‚à”G‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B P‚ğ‚Á‚Ä‚¢‚­‚×‚«‚¾‚Á‚½‚Ì‚Å‚·‚ªAv‚¢‚Â‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"It started to rain when I was out and I got very wet. I should have taken an umbrella, but I didn't think of it."		
+GU033S052	1	33	5_Modals 2	ğ“ú‚Ì–éA—F’B‚Æo‚©‚¯‚Ü‚µ‚½‚ªAŠy‚µ‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚ ‚Ü‚è‹C•ª‚ª—Ç‚­‚È‚©‚Á‚½‚Ì‚Ås‚©‚È‚¯‚ê‚Î—Ç‚©‚Á‚½B	"I went out with my friends last night, but I didn't enjoy it. I shouldn't have gone because I wasn't feeling very well."		
+GU033S053	1	33	5_Modals 2	‚±‚Ìd–‚É‰•å‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·‚©?	Do you think I ought to apply for this job?		
+GU033S054	1	33	5_Modals 2	ƒWƒƒƒbƒN‚Í‚»‚ñ‚È‚É’x‚­‚ÉQ‚é‚×‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Jack ought not to go to bed so late.		
+GU033S055	1	33	5_Modals 2	ğ–é‚Í‘f°‚ç‚µ‚¢ƒp[ƒeƒB[‚Å‚µ‚½B ‚ ‚È‚½‚Í—ˆ‚é‚×‚«‚¾‚Á‚½B	It was a great party last night. You ought to have come.		
+GU033S056	1	33	5_Modals 2	„‚½‚¿‚Íƒe[ƒuƒ‹‚ğ—\–ñ‚µ‚Ä‚¨‚­‚×‚«‚¾‚Á‚½B	We ought to have reserved a table.		
+GU033S057	1	33	5_Modals 2	”Ş—‚Í‚»‚ñ‚È‚É‘¬‚­‰^“]‚µ‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	She souldn't be driving so fast.		
+GU033S058	1	33	5_Modals 2	‘‚«—¯‚ß‚Ä‚¨‚­‚×‚«‚¾‚Á‚½B	I ought to have written it down.		
+GU033S059	1	33	5_Modals 2	‚Ç‚±‚Ös‚­‚Ì‚©’T‚µ‚Ä‚¢‚½‚Í‚¸‚¾‚Á‚½B	I should have been looking where I was going.		
+GU033S060	1	33	5_Modals 2	‘O‚Ì‰^“]è‚Í‚»‚ñ‚È‚É‹}‚É’â~‚·‚×‚«‚Å‚Í‚È‚©‚Á‚½B	The driver in front shouldn't have stopped so suddenly.		
+GU033S061	1	33	5_Modals 2	ğ“ú‚Íd–‚És‚­‚×‚«‚Å‚Í‚È‚©‚Á‚½B	I ought not to have gone to work yesterday.		
+GU034S001	1	34	5_Modals 2	„‚Í”Ş‚ÉÓ‚é‚×‚«‚¾‚Æå’£‚µ‚½B	I insisted that he should apologise.		
+GU034S002	1	34	5_Modals 2	ˆãt‚Í’N‚à‚ª‰Ê•¨‚ğ‚½‚­‚³‚ñH‚×‚é‚æ‚¤Š©‚ß‚Ä‚¢‚Ü‚·B	Doctors recommend that everyone should eat plenty of fruit.		
+GU034S003	1	34	5_Modals 2	„‚½‚¿‚Í‰½‚ğ‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·‚©?	What do you suggest we should do?		
+GU034S004	1	34	5_Modals 2	‘½‚­‚Ìl‚ª‚±‚Ì–â‘è‚É‚Â‚¢‚Ä‰½‚©‚ğ‚·‚×‚«‚¾‚Æ—v‹‚µ‚Ä‚¢‚Ü‚·B	Many people are demanding that something should be done about the problem.		
+GU034S005	1	34	5_Modals 2	‘Sˆõ‚ªŠÔ’Ê‚è‚É‚±‚±‚É—ˆ‚é‚±‚Æ‚ªd—v‚Å‚·B	It's essential that everybody should be here on time.		
+GU034S006	1	34	5_Modals 2	ˆãÒ‚És‚Á‚½‚Æ‚±‚ëAê–åˆã‚Éf‚Ä‚à‚ç‚¤‚æ‚¤Š©‚ß‚ç‚ê‚Ü‚µ‚½B	I went to my doctor and he recommended that I should see a specialist.		
+GU034S007	1	34	5_Modals 2	„‚½‚¿‚ÌŠX‚ğ–K‚ê‚é–K–âÒ‚É‰ï‚¤‚Æ‚«A„‚Í‚½‚¢‚Ä‚¢”•¨ŠÙ‚ğ–K‚ê‚é‚×‚«‚¾‚ÆŠ©‚ß‚Ü‚·B	"When I meet visitors to our city, I usulally suggest that they should visit the museum."		
+GU034S008	1	34	5_Modals 2	ƒTƒ‰‚Í‚¨• ‚ª‹ó‚¢‚Ä‚¢‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½‚ªA„‚Í”Ş—‚É‰½‚©H‚×‚é‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	"Sarah said she wasn't hungry, but I insisted that she would eat something."		
+GU034S009	1	34	5_Modals 2	‚±‚ê‚Í–¯å“I‚È‘I‹“‚Å‚ ‚èA‘Sˆõ‚ª“Š•[‚·‚é‚±‚Æ‚ªd—v‚Å‚·B	"This is a democratic election, and it's important that everyone should vote."		
+GU034S010	1	34	5_Modals 2	„‚½‚¿‚ÍƒQƒCƒŠ[‚©‚ç‚¨‹à‚ğØ‚è‚Ü‚µ‚½‚ªA¡”Ş‚Í„‚½‚¿‚ª‚»‚ê‚ğ•ÔÏ‚·‚é‚æ‚¤—v‹‚µ‚Ä‚¢‚Ü‚·B	"We borrowed some money from Gary, and now he's demanding that we should pay it back."		
+GU034S011	1	34	5_Modals 2	ƒWƒƒƒbƒN‚É‚Í‹xŒe‚ª•K—v‚È‚Ì‚ÅA„‚Í”Ş‚É”“úŠÔo‚©‚¯‚½•û‚ª‚æ‚¢‚Æ’ñˆÄ‚µ‚Ü‚µ‚½B	"Jack needs a break, and I suggested that he should go away for a few days."		
+GU034S012	1	34	5_Modals 2	‹´‚ÍC—‚·‚é•K—v‚ª‚ ‚èA‚»‚Ìì‹Æ‚ğ‚Å‚«‚é‚¾‚¯‘‚­Š®—¹‚·‚é‚±‚Æ‚ª•s‰ÂŒ‡‚Å‚·B	"The bridge needs to be repaired, and it's essential that the work should be completed as soon as possible."		
+GU034S013	1	34	5_Modals 2	„‚Í”Ş‚ÉÓ‚é‚æ‚¤‚Éå’£‚µ‚½B	I insisted that he apologise.		
+GU034S014	1	34	5_Modals 2	„‚½‚¿‚É‰½‚ğ‚µ‚½‚ç‚¢‚¢‚Æv‚¢‚Ü‚·‚©H	What do you suggest we do?		
+GU034S015	1	34	5_Modals 2	‘½‚­‚Ìl‚ª‚±‚Ì–â‘è‚É‚Â‚¢‚Ä‰½‚ç‚©‚Ì‘[’u‚ğu‚¶‚é‚±‚Æ‚ğ—v‹‚µ‚Ä‚¢‚Ü‚·B	Many people are demanding that something be done about the problem.		
+GU034S016	1	34	5_Modals 2	‘Sˆõ‚ªŠÔ’Ê‚è‚É‚±‚±‚É—ˆ‚é‚±‚Æ‚ªd—v‚Å‚·B	It's essential that everybody be here on time.		
+GU034S017	1	34	5_Modals 2	‘Sˆõ‚ªŠÔ’Ê‚è‚É‚±‚±‚É—ˆ‚é‚±‚Æ‚ªd—v‚Å‚·B	It's essential that everybody is here on time.		
+GU034S018	1	34	5_Modals 2	„‚Í”Ş‚ªÓß‚·‚é‚æ‚¤å’£‚µ‚½B	I insisted that he apologised.		
+GU034S019	1	34	5_Modals 2	„‚ÍŒ¾Œê‚ğŠw‚Ú‚¤‚ÆŒˆS‚µA—Fl‚ªƒgƒ‹ƒRŒê‚ğŠw‚Ô‚±‚Æ‚ğŠ©‚ß‚Ä‚­‚ê‚Ü‚µ‚½B	I decided to learn a language and a friend of mine suggested that I learn Turkish.		
+GU034S020	1	34	5_Modals 2	ƒŠƒT‚Íˆêl‚Å•à‚¢‚Ä‹A‚é‚Â‚à‚è‚¾‚Á‚½‚ªA„‚½‚¿‚Í”Ş—‚àˆê‚É—ˆ‚é‚æ‚¤‚Éå’£‚µ‚½B	"Lisa was going to walk home alone, but we insisted that she come with us."		
+GU034S021	1	34	5_Modals 2	Hê‚Ì˜J“­Ò‚Í’À‹à‚Ìˆø‚«ã‚°‚ğ—v‹‚µ‚Ä‚¢‚éB	Workers at the factory are demanding that their wages be increased.		
+GU034S022	1	34	5_Modals 2	ƒgƒ€‚Íd–ã‚Ì–â‘è‚É‚Â‚¢‚Ä„‚É˜b‚µ‚Ä‚­‚ê‚½‚Ì‚ÅA„‚Í‚»‚ê‚ğãi‚É‘Š’k‚·‚é‚æ‚¤’ñˆÄ‚µ‚Ü‚µ‚½B	"Tom told me about his problem at work, and I suggested that he discuss it with his boss."		
+GU034S023	1	34	5_Modals 2	ˆãt‚ÍÔg‚Ì“÷‚ÌÛæ‚ğŒ¸‚ç‚·‚æ‚¤Š©‚ß‚Ü‚µ‚½B	My doctor recommended that I eat less red meat.		
+GU034S024	1	34	5_Modals 2	q‹ó‹@‚ÌƒGƒ“ƒWƒ“‚ğ’èŠú“I‚ÉŒŸ¸‚·‚é‚±‚Æ‚ª•s‰ÂŒ‡‚Å‚·B	It's essential that aircraft engines be checked regularly.		
+GU034S025	1	34	5_Modals 2	„‚½‚¿‚Í‰½‚ğ‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·‚©?	What do you suggest we should do?	What do you suggest we do?	
+GU034S026	1	34	5_Modals 2	ƒWƒF[ƒ“‚Í•ó‚­‚¶‚É“–‚½‚è‚Ü‚µ‚½B „‚Í”Ş—‚ÉAŸ‚Á‚½‚¨‹à‚ÅÔ‚ğ”ƒ‚¤‚×‚«‚¾‚Æ’ñˆÄ‚µ‚Ü‚µ‚½B	Jane won the lottery. I suggested that she should buy a car with the money she'd won.	I suggested that she buy a car.	I suggested that she bought a car.
+GU034S027	1	34	5_Modals 2	ƒgƒ€‚Í„‚É•Ê‚Ìd–‚ğ’T‚·‚æ‚¤‚ÉŠ©‚ß‚Ü‚µ‚½B	Tom suggested that I look for another job.		
+GU034S028	1	34	5_Modals 2	„‚ÍƒeƒBƒi‚É“d˜b‚µ‚ÄA‚¢‚Â‚©ƒR[ƒq[‚ğˆù‚İ‚É‰ï‚¨‚¤‚Æ’ñˆÄ‚µ‚Ü‚µ‚½B	I called Tina and suggested that we meet for coffee sometime.		
+GU034S029	1	34	5_Modals 2	‚Ç‚Ì‚æ‚¤‚ÈÔ‚ğw“ü‚·‚é‚±‚Æ‚ğ‚¨Š©‚ß‚µ‚Ü‚·‚©?	What sort of car do you suggest I buy?		
+GU034S030	1	34	5_Modals 2	„‚ÍƒeƒBƒi‚É‰^“]‚ğK‚¤‚×‚«‚¾‚Æ’ñˆÄ‚µ‚½B	I suggested that Tina should learn to drive.		
+GU034S031	1	34	5_Modals 2	„‚ÍƒeƒBƒi‚É‰^“]‚ğK‚¤‚±‚Æ‚ğ’ñˆÄ‚µ‚½B	I suggested that Tina learn to drive.		
+GU034S032	1	34	5_Modals 2	”Ş‚ª’x‚·‚é‚Ì‚Í•sv‹c‚¾B ”Ş‚Í‚¢‚Â‚àŠÔ’Ê‚è‚É—ˆ‚Ü‚·B	It's strange that he should be late. He's usually on time.		
+GU034S033	1	34	5_Modals 2	”Ş—‚ª‚»‚ñ‚È‚±‚Æ‚ğŒ¾‚¤‚Æ‚Í‹Á‚«‚Ü‚µ‚½B	I was surprised that she should say such a thing.		
+GU034S034	1	34	5_Modals 2	e‚ªq‹Ÿ‚Ì‚±‚Æ‚ğS”z‚·‚é‚Ì‚Í“–‘R‚Å‚·B	It's only natural that parents should worry about their children.		
+GU034S035	1	34	5_Modals 2	”Ş‚ç‚ª„‚ÉƒAƒhƒoƒCƒX‚ğ‹‚ß‚é‚×‚«‚¾‚Á‚½‚Æ‚Í‹Á‚«‚Ü‚µ‚½B ”Ş‚ç‚É‚Ç‚ñ‚ÈƒAƒhƒoƒCƒX‚ª‚Å‚«‚é‚¾‚ë‚¤‚©H	I was surprised that they should ask me for advice. What advice could I give them?		
+GU034S036	1	34	5_Modals 2	‚³‚æ‚È‚ç‚àŒ¾‚í‚¸‚É—§‚¿‹‚é‚Ì‚ªƒWƒ‡[‚ç‚µ‚¢‚¶‚á‚È‚¢‚Å‚·‚©B	Isn't it typical of Joe that he should leave without saying goodbye?		
+GU034S037	1	34	5_Modals 2	‚»‚ñ‚È‚±‚ÆŒ¾‚¤‚Ì‚Í‚¨‚©‚µ‚¢‚æB „‚à“¯‚¶‚±‚Æ‚ğl‚¦‚Ä‚¢‚Ü‚µ‚½B	It's funny that you should say that. I was thinking the same thing.		
+GU034S038	1	34	5_Modals 2	ƒGƒ}‚ªŒ±‚Å‚ ‚ê‚Ù‚Çˆ«‚¢“_‚ğ‚Æ‚Á‚½‚Ì‚Í‹Á‚­‚×‚«‚±‚Æ‚¾B ’N‚à‚ª”Ş—‚ª‡Ši‚·‚é‚±‚Æ‚ğŠú‘Ò‚µ‚Ä‚¢‚½B	It's surprising Emma should do so badly in her exams. Everyone expected her to pass.		
+GU034S039	1	34	5_Modals 2	Œ»İA‹l‚Í‚²‚´‚¢‚Ü‚¹‚ñ‚ªAó‹µ‚ª•Ï‚í‚éê‡‚Í‚²˜A—‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	"We have no jobs at present, but if the situation should change, we will contact you."		
+GU034S040	1	34	5_Modals 2	ó‹µ‚ª•Ï‰»‚·‚éê‡‚Í‚²˜A—‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	"Should the situation change, we will contact you."		
+GU034S041	1	34	5_Modals 2	ô‘ó•¨‚ğƒxƒ‰ƒ“ƒ_‚ÉŠ±‚µ‚Ü‚µ‚½B ‰J‚ª~‚Á‚½‚ç‰®“à‚É“ü‚ê‚Ä‚à‚ç‚¦‚Ü‚·‚©H	"I've hung out the washing to dry on the balcony. If it should rain, can you bring it inside?"		
+GU034S042	1	34	5_Modals 2	‚·‚×‚Ä‚¤‚Ü‚­‚¢‚­‚Æv‚¢‚Ü‚·B ‰½‚©–â‘è‚ª‚ ‚éê‡‚Í‚¨’m‚ç‚¹‚µ‚Ü‚·B	"I think everything will be OK. If there should be any problems, I'll let you know."		
+GU034S043	1	34	5_Modals 2	‚Ç‚±‚Ös‚­‚Ì‚©’N‚É‚à’m‚ç‚ê‚½‚­‚È‚¢B ’N‚©‚ªq‚Ë‚½‚çA’m‚ç‚È‚¢‚ÆŒ¾‚Á‚Ä‚­‚¾‚³‚¢B	"I don't want anyone to know where I'm going. If anyone should ask, just say you don't know."		
+GU034S044	1	34	5_Modals 2	‰ï‹c‚ªƒLƒƒƒ“ƒZƒ‹‚³‚ê‚é‰Â”\«‚Í‚í‚¸‚©‚Å‚·‚ª‚ ‚è‚Ü‚·B ‚±‚Ì‚æ‚¤‚È‚±‚Æ‚ª‹N‚±‚Á‚½ê‡A—ˆŒ‰ï‹c‚ğŠJÃ‚·‚é—\’è‚Å‚·B	"There's a small possibility that the meeting will be cancelled. If this should happen, we will arrange a meeting next month."		
+GU034S045	1	34	5_Modals 2	‰J‚ª~‚Á‚½ê‡Aô‘ó•¨‚ğ’†‚É“ü‚ê‚Ä‚à‚ç‚¦‚Ü‚·‚©H	"If it should rain, can you bring the washing inside?"		
+GU034S046	1	34	5_Modals 2	‰J‚ª~‚Á‚½ê‡Aô‘ó•¨‚ğº“à‚É‚¿‚ß‚Ü‚·‚©H	"Should it rain, can you bring the washing inside?"		
+GU034S047	1	34	5_Modals 2	‰½‚©–â‘è‚ª‚ ‚éê‡‚Í‚¨’m‚ç‚¹‚µ‚Ü‚·B	"If there should be any problems, I'll let you know."		
+GU034S048	1	34	5_Modals 2	‰½‚©–â‘è‚ª‚ ‚éê‡‚Í‚¨’m‚ç‚¹‚µ‚Ü‚·B	"Should there be any problems, I'll let you know."		
+GU034S049	1	34	5_Modals 2	’N‚©‚ª„‚ª‚Ç‚±‚É‚¢‚é‚Ì‚©q‚Ë‚½‚çA’m‚ç‚È‚¢‚ÆŒ¾‚Á‚Ä‚­‚¾‚³‚¢B	"If anyone should ask where I am, just say you don't know."		
+GU034S050	1	34	5_Modals 2	’N‚©‚ª„‚ª‚Ç‚±‚É‚¢‚é‚©q‚Ë‚½‚çA’m‚ç‚È‚¢‚ÆŒ¾‚Á‚Ä‚­‚¾‚³‚¢B	"Should anyone ask where I am, just say you don't know."		
+GU034S051	1	34	5_Modals 2	‰ï‹c‚ª’†~‚É‚È‚Á‚½ê‡‚ÍA—ˆŒ‰ï‹c‚ğŠJÃ‚·‚é—\’è‚Å‚·B	"If the meeting should be cancelled, we will arrange a meeting next month."		
+GU034S052	1	34	5_Modals 2	‰ï‹c‚ªƒLƒƒƒ“ƒZƒ‹‚É‚È‚Á‚½ê‡‚ÍA—ˆŒ‰ï‹c‚ğŠJÃ‚·‚é—\’è‚Å‚·B	"Should the meeting be cancelled, we will arrange a meeting next month."		
+GU034S053	1	34	5_Modals 2	A: ‚à‚¤o”­‚µ‚Ü‚µ‚å‚¤‚©H B: ‚¢‚¢‚¦A­‚µ‘Ò‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	"A: Shall I leave now? B: No, I should wait a little."		
+GU034S054	1	34	5_Modals 2	‚ ‚Ü‚è’x‚­‚Ü‚Å‹N‚«‚Ä‚¢‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB –¾“ú‚Í‘‚­‹N‚«‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I shouldn't stay up too late. You have to be up early tomorrow.		
+GU034S055	1	34	5_Modals 2	A: ‚±‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÍC—‚µ‚Ä‚à‚ç‚¤‰¿’l‚ª‚ ‚è‚Ü‚·‚©? B: ‚¢‚¢‚¦AV‚µ‚¢‚à‚Ì‚ğ”ƒ‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	"A: Is it worth getting this computer repaired? B: No, I should get a new one."		
+GU034S056	1	34	5_Modals 2	A: ¡‚©‚ço‚©‚¯‚Ü‚·B Š¦‚¢‚Å‚·‚©H B: ‚Í‚¢AƒR[ƒg‚ğ’…‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB	"A: I'm going out now. Is it cold out? B: Yes, I should wear a coat."		
+GU034S057	1	34	5_Modals 2	A: ƒ|[ƒ‹‚É‰ï‚¢‚És‚«‚Ü‚µ‚å‚¤‚©H B: ‚Í‚¢A‚Å‚à‚Ü‚¸”Ş‚É“d˜b‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB	"A: Shall I go and see Paul? B: Yes, but I should call him first."		
+GU034S058	1	34	5_Modals 2	A: ‚±‚ê‚ç‚Ì‚à‚Ì‚ğÌ‚Ä‚Ü‚µ‚å‚¤‚©? B: ‚¢‚¢‚¦A‚»‚Ì‚Ü‚Ü‚É‚µ‚Ä‚¨‚­‚×‚«‚Å‚·B „‚½‚¿‚É‚Í‚»‚ê‚ç‚ª•K—v‚É‚È‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"A: Shall I throw these things away? B: No, I should keep them. We may need them."		
+GU035S001	1	35	5_Modals 2	10•ªŒã‚ÉƒGƒCƒ~[‚É‰ï‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ¡‚·‚®s‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·A‚»‚¤‚µ‚È‚¢‚Æ’x‚ê‚Ä‚µ‚Ü‚¢‚Ü‚·B	I have to meet Amy in ten minutes. I'd better go now or l'll be late.		
+GU035S002	1	35	5_Modals 2	A: P‚ğ‚Á‚Äs‚«‚Ü‚µ‚å‚¤‚©H B: ‚Í‚¢A‚»‚Ì‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB ‰J‚ª~‚é‚©‚à‚µ‚ê‚È‚¢B	"A: Shall I take an umbrella? B: Yes, you'd better. It might rain."		
+GU035S003	1	35	5_Modals 2	A: ‚»‚ÌƒWƒƒƒPƒbƒg‚Í‚ ‚È‚½‚É—‡‚Á‚Ä‚¢‚Ü‚·‚ËB ”ƒ‚¤‚Â‚à‚è‚Å‚·‚©H B: ‚â‚ß‚½‚Ù‚¤‚ª‚¢‚¢‚æB ‚±‚ê‚Í‚‚·‚¬‚éB	A: The jacket looks good on you. Are you going to buy it? B: I'd better not. It's too expensive.		
+GU035S004	1	35	5_Modals 2	Œ©‚½–Ú‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñB ¡–é‚ÍŠOo‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB	You don't look very well. You'd better not go out tonight.		
+GU035S005	1	35	5_Modals 2	ƒNƒŠƒX‚É“d˜b‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æ‚ËH	"I'd better phone Chris, hadn't I?"		
+GU035S006	1	35	5_Modals 2	¡‚·‚®s‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	We had better go now.		
+GU035S007	1	35	5_Modals 2	–¾“ús‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚æB	I'd better go tomorrow.		
+GU035S008	1	35	5_Modals 2	‰J‚ª~‚é‚©‚à‚µ‚ê‚È‚¢B P‚ğ‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	It might rain. We'd better take an umbrella.		
+GU035S009	1	35	5_Modals 2	‰J‚ª~‚è‚»‚¤‚È‹C”z‚¾B P‚ğ‚Á‚Äs‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	It looks as if it might rain. We'd better take an umbrella with us.		
+GU035S010	1	35	5_Modals 2	‚»‚ê‚Í‚ ‚È‚½‚Ìè‚Ì‚Ğ‚Ç‚¢Ø‚è‚Å‚·B ãJ‘np‚ğ“\‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB	That's a bad cut on your hand. You'd better put a plaster on it.		
+GU035S011	1	35	5_Modals 2	¡–éƒŒƒXƒgƒ‰ƒ“‚Í¬G‚·‚é‚Å‚µ‚å‚¤B ƒe[ƒuƒ‹‚ğ—\–ñ‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚µ‚å‚¤B	The restaurant will be busy tonight. We'd better reserve a table.		
+GU035S012	1	35	5_Modals 2	Œ©‚½–Ú‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñB ¡“ú‚Íd–‚És‚©‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	You don't look very well. You'd better not go to work today.		
+GU035S013	1	35	5_Modals 2	‰f‰æ‚ª‰½‚Én‚Ü‚é‚©•ª‚©‚è‚Ü‚¹‚ñB Šm”F‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB	I'm not sure what time the film starts. I'd better check.		
+GU035S014	1	35	5_Modals 2	Ğ’·‚Í¡‚Æ‚Ä‚à–Z‚µ‚¢‚Å‚·B ”Ş‚Ì×–‚‚ğ‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	The boss is very busy right now. I'd better not disturb him.		
+GU035S015	1	35	5_Modals 2	ƒKƒ\ƒŠƒ“‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB —§‚¿~‚Ü‚Á‚Ä–• ‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚æB	We don't have much petrol. We'd better stop and fill up.		
+GU035S016	1	35	5_Modals 2	’x‚¢‚Å‚·B ‚ ‚È‚½‚ªs‚­•K—v‚ª‚ ‚è‚Ü‚·B	It's late. You should go.	It's late. You'd better go.	
+GU035S017	1	35	5_Modals 2	‚ ‚È‚½‚Í‚¢‚Â‚à‰Æ‚É‚¢‚Ü‚·B ‚à‚Á‚Æ•p”É‚ÉŠOo‚·‚×‚«‚Å‚·B	You're always at home. You should go out more often.		
+GU035S018	1	35	5_Modals 2	‘f°‚ç‚µ‚¢‰f‰æ‚¾‚æB s‚Á‚ÄŒ©‚é‚×‚«‚Å‚·B	It's a great film. You should go and see it.		
+GU035S019	1	35	5_Modals 2	‰f‰æ‚Í8”¼‚Én‚Ü‚è‚Ü‚·B ¡‚·‚®s‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚æA‚»‚¤‚µ‚È‚¢‚ÆÅ‰‚ğ“¦‚·‚æB	The film starts at 8.30. You'd better go now or you'll miss the beginning.		
+GU035S020	1	35	5_Modals 2	‚»‚ë‚»‚ëo‚©‚¯‚éŠÔ‚¾B €”õ‚ğ‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚æB	It's nearly time to go out. I'd better get ready.		
+GU035S021	1	35	5_Modals 2	‚»‚ë‚»‚ëo‚©‚¯‚éŠÔ‚¾B €”õ‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	It's nearly time to go out. I should get ready.		
+GU035S022	1	35	5_Modals 2	„‚Í’N‚à‚ªŠO‘Œê‚ğŠw‚Ô‚×‚«‚¾‚Æv‚¢‚Ü‚·B	I think everybody should learn a foreign language.		
+GU035S023	1	35	5_Modals 2	–¾“ú‚Í‘‚­‹N‚«‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB –ÚŠo‚Ü‚µ‚ğƒZƒbƒg‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚æB	You have to wake up early tomorrow. You'd better set your alarm.		
+GU035S024	1	35	5_Modals 2	‰^“]’†‚Í“¹˜H‚©‚ç–Ú‚ğ—£‚³‚È‚¢‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B	"When you're driving, you should keep your eyes on the road."		
+GU035S025	1	35	5_Modals 2	„‚½‚¿‚Í‚¿‚å‚¤‚ÇÅIƒoƒX‚Éæ‚è’x‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ƒ^ƒNƒV[‚Éæ‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	We've just missed the last bus. We'd better get a taxi.		
+GU035S026	1	35	5_Modals 2	‚±‚ê‚ç‚ÌƒrƒXƒPƒbƒg‚Í‚¨‚¢‚µ‚¢‚Å‚·B ‚µ‚Ä‚İ‚é‚Æ‚¢‚¢‚Å‚µ‚å‚¤B	These biscuits are delicious. You should try one.		
+GU035S027	1	35	5_Modals 2	‘‹‚ÍŠJ‚¢‚Ä‚¢‚Ü‚·B o‚©‚¯‚é‘O‚É•Â‚ß‚½‚Ù‚¤‚ª‚¢‚¢‚æB	The window is open. You'd better close it before you go out.		
+GU035S028	1	35	5_Modals 2	ƒWƒ‡ƒ“‚Í‰½‚ª‹N‚±‚Á‚½‚Ì‚©’m‚é•K—v‚ª‚ ‚éB ’N‚©‚ª”Ş‚É“`‚¦‚½‚Ù‚¤‚ª‚¢‚¢‚æB	John needs to know what happened. Somebody had better tell him.		
+GU035S029	1	35	5_Modals 2	­‚È‚­‚Æ‚à1“ú‚É2‰ñ•‚ğ–‚­•K—v‚ª‚ ‚è‚Ü‚·B	You should brush your teeth at least twice a day.		
+GU035S030	1	35	5_Modals 2	’x‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚æB ‘å–‚È‰ï‹c‚¾‚æB	I'd better not be late. It's an important meeting.		
+GU035S031	1	35	5_Modals 2	‰Ê•¨‚ğ\•ª‚ÉH‚×‚Ä‚¢‚Ü‚¹‚ñB ‚à‚Á‚ÆH‚×‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	You don't eat enough fruit. I think you should eat more.		
+GU035S032	1	35	5_Modals 2	‚Å‚«‚é‚¾‚¯‘‚­o”­‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æ‚ËH	"We'd better leave as soon as possible, hadn't we?"		
+GU035S033	1	35	5_Modals 2	‚±‚±‚ÉÔ‚ğ’“Ô‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B “¹‚ª‹·‚·‚¬‚Ü‚·B	We'd better not park the car here. The road is too narrow.		
+GU035S034	1	35	5_Modals 2	­•{‚Í‚»‚Ì–â‘è‚É‚Â‚¢‚Ä‰½‚©‚ğ‚·‚×‚«‚¾B	The government should do something about the problem.		
+GU035S035	1	35	5_Modals 2	•Ï‰»‚Ì‚ª—ˆ‚Ü‚µ‚½B	It's time for a change.		
+GU035S036	1	35	5_Modals 2	‰Æ‚É‹A‚éŠÔB	It's time to go home.		
+GU035S037	1	35	5_Modals 2	‚à‚¤‰Æ‚É‹A‚éŠÔ‚Å‚·B	It's time for us to go home.		
+GU035S038	1	35	5_Modals 2	’x‚¢‚Å‚·B ‚à‚¤‹A‚éŠÔ‚¾B	It's late. It's time we went home.		
+GU035S039	1	35	5_Modals 2	‚È‚º”Ş‚ç‚Í‚±‚ñ‚È‚É’x‚¢‚Ì‚Å‚µ‚å‚¤‚©H ”Ş‚ç‚ª‚±‚±‚É—ˆ‚é‚ª—ˆ‚Ü‚µ‚½B	Why are they so late? It's time they were here.		
+GU035S040	1	35	5_Modals 2	‚±‚Ìó‹µ‚ğ‘±‚¯‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB ‚»‚ê‚É‚Â‚¢‚Ä‰½‚©‚ğ‚·‚éŠú‚ª—ˆ‚Ü‚µ‚½B	This situation can't continue. It's time you did something about it.		
+GU035S041	1	35	5_Modals 2	”Ş‚Í‚Æ‚Ä‚à—˜ŒÈ“I‚Å‚·B ”Ş‚Í©•ª‚ª¢ŠE‚ÅÅ‚àd—v‚Èl•¨‚Å‚Í‚È‚¢‚±‚Æ‚É‹C‚Ã‚­‚ª—ˆ‚½B	He's very selfish. It's time he realised he isn't the most important person in the world.		
+GU035S042	1	35	5_Modals 2	‚»‚ë‚»‚ë”Ş‚àA©•ª‚ª¢ŠE‚Åˆê”Ôd—v‚Èl•¨‚Å‚Í‚È‚¢‚±‚Æ‚É‹C‚Ã‚­Šú‚ª—ˆ‚½‚æ‚¤‚¾B	It's about time he realised he isn't the most important person in the world.		
+GU035S043	1	35	5_Modals 2	‚ ‚È‚½‚Í’·‚¢ŠÔ‹x‰É‚ğ‚Æ‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ¡‚·‚®•K—v‚Å‚·B ‹x‚İ‚ÌŠÔ‚¾B	You haven't had a holiday for a long time. You need one now. It's time I had a holiday.		
+GU035S044	1	35	5_Modals 2	ƒPƒCƒg‚Í‚¢‚Â‚à•s•½‚ğŒ¾‚Á‚Ä‚¢‚Ü‚·B ‚ ‚È‚½‚Í”Ş—‚ª‚à‚Á‚Æ‘OŒü‚«‚É‚È‚é•K—v‚ª‚ ‚é‚Æv‚¢‚Ü‚·B ”Ş—‚ª•s•½‚ğŒ¾‚¤‚Ì‚ğ‚â‚ß‚é‚Æ‚«‚ª—ˆ‚½B	Kate is always complaining. You think she needs to be more positive. It's time she stopped complaining.		
+GU035S045	1	35	5_Modals 2	10‚Å‚·B q‚Ç‚à‚½‚¿‚ÌAQŒã‚Å‚·B ”Ş‚ç‚Íƒxƒbƒh‚É“ü‚éŠÔ‚¾B	It's 10 o'clock. It's after the children's bedtime. It's time they were in bed.		
+GU035S046	1	35	5_Modals 2	‚»‚ñ‚È‚É’x‚¢‚±‚Æ‚É‚ ‚È‚½‚Í‹C‚Ã‚¢‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚¤‚·‚®—[H‚ÌŠÔ‚Å‚·B —[H‚Ì€”õ‚ğn‚ß‚éŠÔ‚Å‚·B	You didn't realise it was so late. It's nearly dinner time. It's time I started cooking dinner.		
+GU035S047	1	35	5_Modals 2	ƒWƒƒƒbƒN‚Í˜b‚µãè‚Å‚·‚ªA‘å‚µ‚½‚±‚Æ‚Í‚µ‚Ü‚¹‚ñB ”Ş‚Í‚½‚¾˜b‚·‚Ì‚Å‚Í‚È‚­A‰½‚©‚ğ‚·‚é‚ª—ˆ‚½‚Ì‚¾B	"Jack is a great talker, but he doesn't do much. It's time he did something instead of just talking."		
+GU035S048	1	35	5_Modals 2	‚ ‚È‚½‚ª“­‚¢‚Ä‚¢‚é‰ïĞ‚Í’·‚¢ŠÔŒo‰c‚ªˆ«‰»‚µ‚Ä‚¢‚Ü‚·B ‚¢‚­‚Â‚©‚Ì•Ï‰»‚ª‹N‚±‚éŠú‚ª—ˆ‚Ü‚µ‚½B	The company you work for has been badly managed for a long time. It's time there were some changes.		
+GU035S049	1	35	5_Modals 2	‹xŒe‚ÌŠÔ‚Å‚·B ƒR[ƒq[‚ğì‚è‚Ü‚·B	It's time for a break. I'll make some coffee.		
+GU035S050	1	35	5_Modals 2	‹}‚¢‚ÅI ‚à‚¤‚·‚®o”­‚ÌŠÔ‚Å‚·B	Hurry up! It's nearly time to go.		
+GU035S051	1	35	5_Modals 2	’x‚µ‚Ä‚µ‚Ü‚¢‚Ü‚·‚æB ‚³‚ As‚­ŠÔ‚Å‚·B	You're going to be late. It's time you went.		
+GU035S052	1	35	5_Modals 2	‰½‚µ‚æ‚¤‚©H Œˆ‚ß‚é‚ª—ˆ‚Ü‚µ‚½B	What are we going to do? It's time to decide.		
+GU035S053	1	35	5_Modals 2	”Ş‚ç‚ª‚±‚±‚É—ˆ‚é‚ª—ˆ‚Ü‚µ‚½B ”Ş‚ç‚Í’x‚µ‚È‚¢‚Æ–ñ‘©‚µ‚½B	It's time they were here. They promised they wouldn't be late.		
+GU035S054	1	35	5_Modals 2	­•{‚ª‚±‚Ì–â‘è‚É‚Â‚¢‚Ä‰½‚©s“®‚ğ‹N‚±‚·‚ª—ˆ‚½B	It's time the government did something about the problem.		
+GU035S055	1	35	5_Modals 2	‚±‚Ì–â‘è‚É‚Â‚¢‚Ä‰½‚©‚ğ‚·‚éŠú‚ª—ˆ‚Ä‚¢‚Ü‚·B	It's time something was done about the problem.		
+GU035S056	1	35	5_Modals 2	‚ ‚È‚½‚Í©•ª‚Ì‚±‚Æ‚¾‚¯‚ğl‚¦‚Ä‚¢‚Ü‚·B ‘¼‚Ìl‚Ì‚±‚Æ‚ğl‚¦‚éŠú‚ª—ˆ‚Ü‚µ‚½B	You only think about yourself. It's about time you thought about other people.		
+GU036S001	1	36	5_Modals 2	V‚µ‚¢Ô‚ğ”ƒ‚¦‚½‚ç‚¢‚¢‚Ì‚Å‚·‚ªA„‚½‚¿‚É‚Í‚»‚ê‚ğ”ƒ‚¤—]—T‚ª‚ ‚è‚Ü‚¹‚ñB	"It would be nice to buy a new car, but we can't afford it."		
+GU036S002	1	36	5_Modals 2	ŠC‚Ì‚»‚Î‚ÉZ‚İ‚½‚¢‚Å‚·B	I'd love to live by the sea.		
+GU036S003	1	36	5_Modals 2	A: ƒNƒŠƒX‚É‰½‚ª‹N‚±‚Á‚½‚Ì‚©˜b‚µ‚Ü‚µ‚å‚¤‚©H B: ‚¢‚¢‚¦A‰½‚àŒ¾‚¢‚Ü‚¹‚ñB	"A: Shall I tell Chris what happened? B: No, I wouldn't say anything."		
+GU036S004	1	36	5_Modals 2	”Ş‚ç‚Í„‚½‚¿‚ğ‚Æ‚Ä‚à•‚¯‚Ä‚­‚ê‚Ü‚µ‚½B ”Ş‚ç‚Ì•‚¯‚ª‚È‚©‚Á‚½‚ç„‚½‚¿‚Í‚Ç‚¤‚È‚Á‚Ä‚¢‚½‚©•ª‚©‚è‚Ü‚¹‚ñB	They helped us a lot. I don't know what we'd have done without their help.		
+GU036S005	1	36	5_Modals 2	‚ ‚È‚½‚ª‚»‚Ì‰f‰æ‚ğŒ©‚È‚©‚Á‚½‚Ì‚Íc”O‚Å‚·B ‹C‚É“ü‚Á‚Ä‚¢‚½‚¾‚¯‚½‚Å‚µ‚å‚¤B	It's a shame you didn't see the film. You would have liked it.		
+GU036S006	1	36	5_Modals 2	‰½‚ª‹N‚±‚Á‚½‚Ì‚©ƒTƒ€‚É‚Í˜b‚³‚È‚©‚Á‚½B ”Ş‚ÍŠì‚Î‚È‚©‚Á‚½‚¾‚ë‚¤B	I didn't tell Sam what happened. He wouldn't have been pleased.		
+GU036S007	1	36	5_Modals 2	ƒŠƒT‚É“d˜b‚µ‚½‚¢‚Ì‚Å‚·‚ªA”Ş—‚Ì”Ô†‚ğ’m‚è‚Ü‚¹‚ñB	"I would call Lisa, but I don't have her number."		
+GU036S008	1	36	5_Modals 2	ƒp[ƒeƒB[‚ğŠJ‚­—\’è‚Å‚·‚ªAƒQƒCƒŠ[‚Íµ‘Ò‚µ‚Ü‚¹‚ñB ‚Æ‚É‚©‚­”Ş‚Í—ˆ‚È‚©‚Á‚½B	"We're going to have a party, but we're not going to invite Gary. He wouldn't come anyway."		
+GU036S009	1	36	5_Modals 2	ƒŠƒT‚É“d˜b‚µ‚½‚©‚Á‚½‚Ì‚Å‚·‚ªA”Ş—‚Ì”Ô†‚ğ’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"I would have called Lisa, but I didn't have her number."		
+GU036S010	1	36	5_Modals 2	„‚½‚¿‚ÍæTƒp[ƒeƒB[‚ğŠJ‚«‚Ü‚µ‚½‚ªAƒQƒCƒŠ[‚ğµ‘Ò‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B ‚Æ‚É‚©‚­”Ş‚Í—ˆ‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	"We had a party last week, but we didn't invite Gary. He wouldn't have come anyway."		
+GU036S011	1	36	5_Modals 2	‚à‚µƒŠƒT‚Ì”Ô†‚ğ’m‚Á‚Ä‚¢‚½‚çAƒŠƒT‚É“d˜b‚·‚é‚Ì‚ÉB	I would call Lisa if I had her number.		
+GU036S012	1	36	5_Modals 2	‚à‚µƒŠƒT‚Ì”Ô†‚ğ’m‚Á‚Ä‚¢‚½‚çAƒŠƒT‚É“d˜b‚µ‚½‚¾‚ë‚¤B	I would have called Lisa if I'd had her number.		
+GU036S013	1	36	5_Modals 2	ƒNƒŒƒA‚É‰ï‚¢‚És‚¯‚È‚¢‚Ì‚Íc”O‚¾B ”Ş—‚Í‚ ‚È‚½‚É‰ï‚¦‚Ä–{“–‚ÉŠì‚Ô‚Æv‚¢‚Ü‚·B	It's a pity you can't go and see Clare. I think she would be really pleased to see you.		
+GU036S014	1	36	5_Modals 2	—‘z“I‚È¢ŠE‚Å‚ÍA’N‚à‚ª\•ª‚È—Ê‚ÌH‚×•¨‚ğ‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤B	"In an ideal world, everybody would have enough to eat."		
+GU036S015	1	36	5_Modals 2	‚»‚Ìd–‚É‰•å‚µ‚Ü‚µ‚å‚¤‚©A‚»‚ê‚Æ‚à‰•å‚µ‚Ü‚¹‚ñ‚©? ‚ ‚È‚½‚È‚ç„‚Ì—§ê‚¾‚Á‚½‚ç‚Ç‚¤‚µ‚Ü‚·‚©H	Shall I apply for the job or not? What would you do in my position?		
+GU036S016	1	36	5_Modals 2	‚È‚ºŒ±‚ğó‚¯‚È‚¢‚Ì‚Å‚·‚©H ‚«‚Á‚Æ‡Ši‚·‚é‚Æv‚¢‚Ü‚·B	Why don't you do the exam? I'm sure you'd pass.		
+GU036S017	1	36	5_Modals 2	„‚½‚¿‚Íğ–éa‘Ø‚É‚Í‚Ü‚è‚Ü‚µ‚½B •à‚¢‚½•û‚ª‘‚©‚Á‚½‚©‚àB	We got stuck in the traffic last night. It would have been quicker to walk.		
+GU036S018	1	36	5_Modals 2	‰f‰æ‚ğŒ©‚És‚Á‚Ä‚İ‚Ü‚¹‚ñ‚©H Šy‚µ‚ñ‚Å‚¢‚½‚¾‚¯‚é‚Æv‚¢‚Ü‚·B	Why don't you want to go and see the film? I think you would enjoy it.		
+GU036S019	1	36	5_Modals 2	‚ ‚È‚½‚ªƒp[ƒeƒB[‚É—ˆ‚ç‚ê‚È‚©‚Á‚½‚Ì‚Íc”O‚Å‚·B ‚»‚ê‚Í‘f°‚ç‚µ‚©‚Á‚½‚µA‚ ‚È‚½‚àŠy‚µ‚ñ‚¾‚Å‚µ‚å‚¤B	It's a pity you couldn't come to the party. It was great and you would have enjoyed it.		
+GU036S020	1	36	5_Modals 2	‚ ‚È‚½‚ğŒ©‚½‚Æ‚«A„‚Í‹}‚¢‚Å‚¢‚½B ‚»‚¤‚Å‚È‚¯‚ê‚ÎA˜b‚ğ‚·‚é‚Ì‚ğ‚â‚ß‚Ä‚¢‚½‚Å‚µ‚å‚¤B	I was in a hurry when I saw you. Otherwise I would have stopped to talk.		
+GU036S021	1	36	5_Modals 2	‚à‚¤­‚µ‘Øİ‚µ‚Ü‚·B ŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚é‚æB	I'Il stay a little longer. I've got plenty of time.		
+GU036S022	1	36	5_Modals 2	‚à‚¤­‚µ‘Øİ‚µ‚½‚¢‚Ì‚Å‚·‚ªA‚à‚¤s‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	"I'd stay a little longer, but I really have to go now."		
+GU036S023	1	36	5_Modals 2	“ú—j“ú‚É“d˜b‚µ‚Ü‚·‚ËA‚¢‚¢‚Å‚·‚©H	"I'Il call you on Sunday, OK?"		
+GU036S024	1	36	5_Modals 2	ƒgƒ€‚Í“ú—j“ú‚É„‚É“d˜b‚·‚é‚ÆŒ¾‚Á‚½B	Tom said he'd call me on Sunday.		
+GU036S025	1	36	5_Modals 2	¡–é‰ï‚¢‚Ü‚µ‚å‚¤B ’x‚µ‚È‚¢‚Æ–ñ‘©‚µ‚Ü‚·B	See you tonight. I promise I won't be late.		
+GU036S026	1	36	5_Modals 2	ƒGƒCƒ~[‚Í’x‚µ‚È‚¢‚Æ–ñ‘©‚µ‚½B	Amy promised that she wouldn't be late.		
+GU036S027	1	36	5_Modals 2	„‚Í”Ş‚ÉŒx‚µ‚æ‚¤‚Æ‚µ‚Ü‚µ‚½‚ªA”Ş‚Í„‚ÌŒ¾‚¤‚±‚Æ‚ğ•·‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"I tried to warn him, but he wouldn't listen to me."		
+GU036S028	1	36	5_Modals 2	Ô‚Ín“®‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	The car wouldn't start.		
+GU036S029	1	36	5_Modals 2	Œğ’Ê—Ê‚Ì‘½‚¢“¹˜H‚É‚ÍZ‚İ‚½‚­‚È‚¢B ‚»‚ê‚Í‚ ‚Ü‚è—Ç‚­‚È‚¢‚Å‚µ‚å‚¤B	I wouldn't like to live on a busy road. It wouldn't be very nice.		
+GU036S030	1	36	5_Modals 2	‚²—·s‚ªƒLƒƒƒ“ƒZƒ‹‚É‚È‚Á‚½‚Ì‚Íc”O‚Å‚·B Šy‚µ‚©‚Á‚½‚Å‚µ‚å‚¤‚ËB	I'm sorry your trip was cancelled. It would have been fun.		
+GU036S031	1	36	5_Modals 2	¡–éo‚©‚¯‚é‚Ì‚ªŠy‚µ‚İ‚Å‚·B Šy‚µ‚¢‚Å‚·‚æB	I'm looking forward to going out tonight. It will be fun.		
+GU036S032	1	36	5_Modals 2	‚¢‚Â‚©ƒI[ƒXƒgƒ‰ƒŠƒA‚És‚Á‚Ä‚İ‚½‚¢‚Å‚·B ‚»‚ê‚Í‚¢‚¢‚¾‚ë‚¤B	I'd like to go to Australia one day. It would be nice.		
+GU036S033	1	36	5_Modals 2	‰J‚Ì’†ŠOo‚µ‚È‚­‚Ä‚æ‚©‚Á‚½‚Å‚·B ‚»‚ê‚Í‚ ‚Ü‚è—Ç‚¢‚±‚Æ‚Å‚Í‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	I'm glad we didn't go out in the rain. It wouldn't have been very nice.		
+GU036S034	1	36	5_Modals 2	—·s‚ªŠy‚µ‚İ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚ ‚Ü‚è–Ê”’‚­‚È‚¢‚Å‚µ‚å‚¤B	I'm not looking forward to the trip. It won't be much fun.		
+GU036S035	1	36	5_Modals 2	ƒXƒeƒB[ƒu‚Í„‚É“d˜b‚·‚é‚ÆŒ¾‚Á‚½B ‚È‚º‚»‚¤‚µ‚È‚©‚Á‚½‚Ì‚¾‚ë‚¤‚©B	Steve said he'd call me. I wonder why he hasn't.		
+GU036S036	1	36	5_Modals 2	ƒ[ƒ‰‚Í‰×•¨‚ğ‚·‚×‚Ä‰^‚Ô‚Æå’£‚µ‚Ü‚µ‚½B ”Ş—‚Í„‚Éè“`‚í‚¹‚Ä‚­‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	Laura insisted on carrying all her luggage. She wouldn't let me help her.		
+GU036S037	1	36	5_Modals 2	ƒŠƒT‚Ì”Ô†‚ğ‚Á‚Ä‚¢‚Ü‚·B ¡‚©‚ç”Ş—‚É“d˜b‚µ‚Ü‚·B	I have Lisa's number. I'll call her now.		
+GU036S038	1	36	5_Modals 2	‚±‚±‚Å‚Íd–‚ğŒ©‚Â‚¯‚é‚Â‚à‚è‚Í‚È‚¢B ‚»‚ê‚Í•s‰Â”\‚Å‚µ‚å‚¤B	I'm not going to find a job here. It would be impossible.		
+GU036S039	1	36	5_Modals 2	ƒ|[ƒ‹‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Æ–ñ‘©‚µ‚Ü‚µ‚½‚ªAŒ¾‚¢‚Ü‚µ‚½B	"Paul promised he wouldn't tell anybody, but he did."		
+GU036S040	1	36	5_Modals 2	”Ş‚ç‚Í„‚ğ•‚¯‚é‚Æ–ñ‘©‚µ‚Ü‚µ‚½‚ªA‚Ü‚¾‰½‚à‚µ‚Ä‚¢‚Ü‚¹‚ñB	"They promised they would help me, but they haven't done anything yet."		
+GU036S041	1	36	5_Modals 2	AE‚·‚é‚Ì‚Í‘å•Ï‚Å‚µ‚å‚¤‚ªAŠæ’£‚Á‚Ä‚İ‚Ü‚·B	"It will be difficult to get a job, but I'm going to try."		
+GU036S042	1	36	5_Modals 2	ƒŠƒT‚É“d˜b‚µ‚½‚¢‚Ì‚Å‚·‚ªA”Ş—‚Ì”Ô†‚ª‚í‚©‚è‚Ü‚¹‚ñB	"I'd call Lisa, but I don't know her number."		
+GU036S043	1	36	5_Modals 2	„‚½‚¿‚Íq‹Ÿ‚Ì AŠC‚Ì‚»‚Î‚ÉZ‚ñ‚Å‚¢‚Ü‚µ‚½B ‰ÄA“V‹C‚ª‚æ‚¯‚ê‚ÎA‘‹N‚«‚µ‚Ä‰j‚¬‚És‚«‚Ü‚µ‚½B	"When we were children, we lived by the sea. In summer, if the weather was fine, we would get up early and go for a swim."		
+GU036S044	1	36	5_Modals 2	ƒŠƒ`ƒƒ[ƒh‚Í“{‚é‚Æ‚¢‚Â‚à•”‰®‚©‚ço‚Äs‚Á‚½B	"Whenever Richard was angry, he would walk out of the room."		
+GU036S045	1	36	5_Modals 2	ƒŠƒ`ƒƒ[ƒh‚Í“{‚é‚Æ‚¢‚Â‚à•”‰®‚©‚ço‚Äs‚Á‚½B	"Whenever Richard was angry, he used to walk out of the room."		
+GU036S046	1	36	5_Modals 2	„‚½‚¿‚ÍˆÈ‘OAü˜H‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚Ü‚µ‚½B “dÔ‚ª’Ê‰ß‚·‚é‚½‚Ñ‚É‰Æ‚ª—h‚ê‚Ü‚µ‚½B	"We used to live near a railway line. Every time a train went past, the house would shake."		
+GU036S047	1	36	5_Modals 2	ƒAƒ‰ƒ“‚Í‚Æ‚Ä‚à—D‚µ‚¢l‚Å‚µ‚½B ‚ ‚È‚½‚ª–â‘è‚ğ•ø‚¦‚Ä‚¢‚é‚È‚çA”Ş‚Í‚¢‚Â‚à‚ ‚È‚½‚ğ•‚¯‚Ä‚­‚ê‚Ü‚·B	Alan was a very kind person. He would always help you if you had a problem.		
+GU036S048	1	36	5_Modals 2	ƒLƒƒƒTƒŠƒ“‚Í‚¢‚Â‚à‚Æ‚Ä‚àŠ°‘å‚Å‚µ‚½B ”Ş—‚Í‘½‚­‚Ì‚à‚Ì‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA©•ª‚ª‚Á‚Ä‚¢‚é‚à‚Ì‚ğ‘¼‚Ìl‚½‚¿‚É•ª‚¯—^‚¦‚Ü‚µ‚½B	"Katherine was always very generous. She didn't have much, but she would share what she had with everyone else."		
+GU036S049	1	36	5_Modals 2	ƒWƒ‡[‚É—Š‚é‚±‚Æ‚ÍŒˆ‚µ‚Ä‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B ‚ ‚È‚½‚ª”Ş‚É‰½‚©‚ğ‚·‚é‚æ‚¤‚É‰½“xv‚¢o‚³‚¹‚Ä‚àA”Ş‚Í‚¢‚Â‚à–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚·B	"You could never rely on Joe. It didn't matter how many times you reminded him to do something, he would always forget."		
+GU036S050	1	36	5_Modals 2	„‚½‚¿‚Íq‹Ÿ‚Ì A‚æ‚­ŠC‚És‚«‚Ü‚µ‚½B „‚½‚¿‚Íˆê“ú’†‚»‚±‚É‚¢‚ÄA»—V‚Ñ‚µ‚½‚èAŠC‚Å‰j‚¢‚¾‚è‚µ‚Ü‚µ‚½B	"When we were children, we used to go to the beach a lot. We would stay there all day playing in the sand and swimming in the sea."		
+GU036S051	1	36	5_Modals 2	ƒ‹[ƒV[‚Í‚¢‚Â‚à‚Æ‚Ä‚àƒtƒŒƒ“ƒhƒŠ[‚Å‚µ‚½B „‚ª”Ş—‚É‰ï‚¤‚ÆA”Ş—‚Í‚¢‚Â‚àÎŠç‚Åˆ¥A‚µ‚Ä‚­‚ê‚Ü‚µ‚½B	"Lucy was always very friendly. Whenever I saw her, she would always smile and say hello."		
+GU037S001	1	37	5_Modals 2	‚¿‚å‚Á‚Æ‘Ò‚Á‚Ä‚à‚ç‚¦‚Ü‚·‚©H	"Can you wait a moment, please?"	"Could you wait a moment, please?"	
+GU037S002	1	37	5_Modals 2	‚·‚İ‚Ü‚¹‚ñAƒoƒX’â‚Ö‚Ì“¹‚ğ‹³‚¦‚Ä‚¢‚½‚¾‚¯‚Ü‚·‚©H	"Excuse me, could you tell me the way to the bus station?"		
+GU037S003	1	37	5_Modals 2	‹ó`‚Ü‚Å˜A‚ê‚Äs‚Á‚Ä‚à‚ç‚¦‚é‚Æv‚¢‚Ü‚·‚©H	Do you think you could take me to the airport?		
+GU037S004	1	37	5_Modals 2	ƒhƒA‚ğŠJ‚¯‚Ä‚à‚ç‚¦‚Ü‚·‚©H	"Can you open the door for me, please?"		
+GU037S005	1	37	5_Modals 2	„‚½‚¿‚ÌÊ^‚ğB‚Á‚Ä‚¢‚½‚¾‚¯‚Ü‚·‚©H	"Could you take a picture of us, please?"		
+GU037S006	1	37	5_Modals 2	‰w‚Ö‚Ìs‚«•û‚ğ‹³‚¦‚Ä‚¢‚½‚¾‚¯‚Ü‚·‚©H	Can you tell me how to get to the station?		
+GU037S007	1	37	5_Modals 2	‚à‚Á‚Æ‚ä‚Á‚­‚è‰^“]‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H	"Could you drive more slowly, please?"		
+GU037S008	1	37	5_Modals 2	„‚ÌƒJƒoƒ“‚ğè“`‚Á‚Ä‚­‚ê‚Ü‚¹‚ñ‚©H	"Could you help me with my bag, please?"		
+GU037S009	1	37	5_Modals 2	‰¹Šy‚ğ~‚ß‚Ä‚à‚ç‚¦‚Ü‚¹‚ñ‚©H	"Do you think you could turn down the music, please?"		
+GU037S010	1	37	5_Modals 2	‚±‚ê‚ç‚Ìƒ|ƒXƒgƒJ[ƒh‚ğ‚¢‚½‚¾‚¯‚Ü‚·‚©?	"Can I have these postcards, please?"	"Can I get these postcards, please?"	
+GU037S011	1	37	5_Modals 2	ƒƒjƒ…[‚ğ‚¢‚½‚¾‚¯‚Ü‚·‚©H	"Can we have the menu, please?"	"Could we have the menu, please?"	
+GU037S012	1	37	5_Modals 2	‚±‚ê‚ç‚Ìƒ|ƒXƒgƒJ[ƒh‚ğ‚¢‚½‚¾‚¯‚Ü‚·‚©?	"May I have these postcards, please?"		
+GU037S013	1	37	5_Modals 2	‚ ‚È‚½‚ÍƒŒƒXƒgƒ‰ƒ“‚ÅH–‚ğ‚µ‚Ä‚¢‚Ü‚·B ‚ ‚È‚½‚Æ‚ ‚È‚½‚Ì—Fl‚Í‰½‚©ˆù‚İ•¨‚ª—~‚µ‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B ¨…‚ğ‚¢‚½‚¾‚¯‚Ü‚·‚©H	"You're eating in a restaurant. You and your friend would like something to drink. ¨ Can we have some water, please?"		
+GU037S014	1	37	5_Modals 2	‚ ‚È‚½‚ÍƒŒƒXƒgƒ‰ƒ“‚É‚¢‚Ü‚·B H‚×I‚í‚Á‚½‚Ì‚Åx•¥‚¢‚ğ‚µ‚½‚¢‚Æv‚¢‚Ü‚·B ¨¿‹‘‚ğ’¸‚¯‚Ü‚·‚©H	"You're in a restaurant. You've finished eating and you want to pay. ¨ Can I have the bill, please?"		
+GU037S015	1	37	5_Modals 2	‚ ‚È‚½‚Íƒ^ƒNƒV[‚Éæ‚Á‚Ä‚¢‚Ü‚·B ‰^’À‚Íx•¥‚¢‚Ü‚µ‚½‚ªA‰^“]è‚©‚ç‰½‚©‚ª•K—v‚Å‚·B ¨—Ìû‘‚ğ’¸‚¯‚Ü‚·‚©H	"You're in a taxi. You've paid the fare, but you need something from the driver. ¨ Could I have a receipt, please?"		
+GU037S016	1	37	5_Modals 2	‚ ‚È‚½‚Í‚Æ‚Ä‚à—L–¼‚Èl‚É‰ï‚¢‚Ü‚µ‚½B ‚ ‚È‚½‚Í”Ş/”Ş—‚É‰½‚©‚ğ—Š‚İ‚Ü‚·B ¨ƒTƒCƒ“‚ğ’¸‚¯‚Ü‚·‚©H	"You meet a very famous person. You ask him/her for something. ¨ Could I have your autograph, please?"		
+GU037S017	1	37	5_Modals 2	‚ ‚È‚½‚ÍƒTƒ“ƒhƒCƒbƒ`‰®‚É‚¢‚é‚Ì‚Å‚·B ‚ ‚È‚½‚Í‰½‚©H‚×‚é‚à‚Ì‚ğ’•¶‚µ‚Ü‚·B ¨ƒ`ƒLƒ“ƒTƒ“ƒhƒCƒbƒ`‚ğ’¸‚¯‚Ü‚·‚©H	"You're in a sandwich shop. You order something to eat. ¨ Can I get a chicken sandwich, please?"		
+GU037S018	1	37	5_Modals 2	‚ ‚È‚½‚ÍH—¿•i“X‚É‚¢‚é‚Ì‚Å‚·B —~‚µ‚¢‚à‚Ì‚ª‚ ‚é‚Ì‚Å‚·‚ªA‚»‚ê‚ª‰½‚ÆŒÄ‚Î‚ê‚é‚©‚í‚©‚è‚Ü‚¹‚ñB ‚ ‚È‚½‚Í‚»‚ê‚ğw‚³‚µ‚Ü‚·B ¨‚»‚ê‚ğˆê‚Â’¸‚¯‚Ü‚·‚©H	"You're in a food shop. You see something you'd like, but you don't know what it's called. You point to it. ¨ Can I have one of those, please?"		
+GU037S019	1	37	5_Modals 2	‚±‚ñ‚É‚¿‚ÍAƒXƒeƒB[ƒu‚Æ˜b‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H	"Hello, can I speak to Steve, please?"		
+GU037S020	1	37	5_Modals 2	A: “d˜b‚ğg‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ‚»‚¤‚Å‚·‚ËB	A: Could I use your phone? B: Sure.		
+GU037S021	1	37	5_Modals 2	‚ ‚È‚½‚Ì©“]Ô‚ğØ‚è‚Ä‚à‚¢‚¢‚Æv‚¢‚Ü‚·‚©H	Do you think I could borrow your bike?		
+GU037S022	1	37	5_Modals 2	‚±‚±‚ÉÀ‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©H	May I sit here?		
+GU037S023	1	37	5_Modals 2	“d˜b‚ğg‚Á‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚·‚©H	Do you mind if I use your phone?		
+GU037S024	1	37	5_Modals 2	‚±‚±‚ÉÀ‚Á‚Ä‚à‘åä•v‚Å‚·‚©H	Is it all right if I sit here?		
+GU037S025	1	37	5_Modals 2	‚ ‚È‚½‚ÌƒJƒƒ‰‚ğØ‚è‚Ä‚à‚¢‚¢‚Å‚·‚©H	Could I borrow your camera?		
+GU037S026	1	37	5_Modals 2	Œã‚Å‚Ü‚½“d˜b‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H	Can I call you back later?		
+GU037S027	1	37	5_Modals 2	„‚à—ˆ‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©H	Do you mind if I come too?		
+GU037S028	1	37	5_Modals 2	‘‹‚ğŠJ‚¯‚Ä‚à‘åä•v‚Å‚·‚©H	Is it OK if I open the window?		
+GU037S029	1	37	5_Modals 2	‚±‚ÌƒYƒ{ƒ“‚ğ’…‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H	Can I try on these trousers?		
+GU037S030	1	37	5_Modals 2	‚²ˆê‚µ‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©H	Do you mind if I join you?		
+GU037S031	1	37	5_Modals 2	A: ‚¨è“`‚¢‚Å‚«‚Ü‚·‚©? B: ‚¢‚¢‚¦A‘åä•v‚Å‚·B ‚È‚ñ‚Æ‚©‚È‚è‚Ü‚·A‚ ‚è‚ª‚Æ‚¤B	"A: Can I help you? B: No, it's OK. I can manage, thanks."		
+GU037S032	1	37	5_Modals 2	A: ƒR[ƒq[‚ğˆù‚ñ‚Å‚à‚¢‚¢‚Å‚·‚©H B: ‚»‚ê‚Í‚¢‚¢‚Å‚·‚ËB	A: Can I get you some coffee? B: That would be nice.		
+GU037S033	1	37	5_Modals 2	A: ƒR[ƒq[‚Í‚¢‚©‚ª‚Å‚·‚©? B: ‚Í‚¢A‚Ç‚¤‚¼B	"A: Would you like some coffee? B: Yes, please."		
+GU037S034	1	37	5_Modals 2	A: ¡–éˆê‚ÉH–‚ğ‚µ‚Ü‚¹‚ñ‚©? B: ‚Í‚¢A‚»‚ê‚Í‘f°‚ç‚µ‚¢‚Å‚·‚ËB	"A: Would you like to eat with us tonight? B: Yes, that would be great."		
+GU037S035	1	37	5_Modals 2	ƒzƒeƒ‹‚É‚Â‚¢‚Ä‚Ìî•ñ‚ğ‚¨Šè‚¢‚µ‚Ü‚·B	"I'd like some information about hotels, please."		
+GU037S036	1	37	5_Modals 2	‚±‚ÌƒWƒƒƒPƒbƒg‚ğ’…‚µ‚½‚¢‚Ì‚Å‚·‚ª‚¨Šè‚¢‚µ‚Ü‚·B	"I'd like to try on this jacket, please."		
+GU037S037	1	37	5_Modals 2	‚ ‚È‚½‚ªÔ‚ğ‰^“]‚µ‚Ä‚¢‚é‚ÆA—Fl‚ª“¹‚ğ•à‚¢‚Ä‚¢‚é‚Ì‚ªŒ©‚¦‚Ü‚·B ‚ ‚È‚½‚Í—§‚¿~‚Ü‚Á‚Äu‚±‚ñ‚É‚¿‚ÍAƒWƒ‡[v‚ÆŒ¾‚¢‚Ü‚·B æ‚¹‚Ä‚à‚ç‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©H	You're driving and you see a friend walking along the road. You stop and say: Hi Joe. Can I give you a lift?		
+GU037S038	1	37	5_Modals 2	‚ ‚È‚½‚Í—F’B‚Ì‚½‚ß‚É—â‚½‚¢ˆù‚İ•¨‚ğì‚Á‚Ä‚¢‚Ü‚·B ‚¨‚»‚ç‚­”Ş‚Í•X‚ª—~‚µ‚¢‚Ì‚Å‚µ‚å‚¤B ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·Fˆù‚İ•¨‚É•X‚ğ“ü‚ê‚Ü‚·‚©H	You're making a cold drink for your friend. Perhaps he wants ice. You say: Would you like ice in your drink?		
+GU037S039	1	37	5_Modals 2	‚ ‚È‚½‚ÍƒJƒtƒF‚Å‰½‚©H‚×‚é‚à‚Ì‚ğ’•¶‚µ‚Ä‚¢‚Ü‚·B ‚ ‚È‚½‚Íuƒ`ƒLƒ“ƒTƒ‰ƒ_‚ğ‚¨Šè‚¢‚µ‚Ü‚·v‚ÆŒ¾‚¢‚Ü‚·B	"You're ordering something to eat in a cafe. You say: I'd like a chicken salad, please."		
+GU037S040	1	37	5_Modals 2	ƒRƒ“ƒT[ƒg‚Ìƒ`ƒPƒbƒg‚ª—]‚Á‚Ä‚¢‚Ü‚·B ‚à‚µ‚©‚µ‚½‚ç‚ ‚È‚½‚Ì—F’B‚ª—ˆ‚é‚©‚à’m‚ê‚Ü‚¹‚ñB ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·F–¾“ú‚Ì–éƒRƒ“ƒT[ƒg‚É—ˆ‚Ü‚¹‚ñ‚©H	You have an extra ticket for a concert. Maybe your friend will come. You say: Would you like to come to a concert tomorrow night?		
+GU037S041	1	37	5_Modals 2	‚ ‚È‚½‚Í“d˜b‚Éo‚Ü‚·B “d˜b‚ğ‚©‚¯‚Ä‚«‚½l‚ÍƒŠƒT‚Æ˜b‚µ‚½‚¢‚Æl‚¦‚Ä‚¢‚Ü‚·B ‚ ‚È‚½‚ÍŒ¾‚¢‚Ü‚·FƒŠƒT‚Í‚±‚±‚É‚¢‚Ü‚¹‚ñB ƒƒbƒZ[ƒW‚ğó‚¯æ‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©H	You answer the phone. The caller wants to speak to Lisa. You say: Lisa's not here. Can I take a message?		
+GU037S042	1	37	5_Modals 2	•ˆãÒ‚És‚­•K—v‚ª‚ ‚è‚Ü‚·B ‚ ‚È‚½‚Í—\–ñ‚Ì‚½‚ß‚É“d˜b‚µ‚Ü‚·B ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·F‚±‚ñ‚É‚¿‚ÍB —\–ñ‚ğ‚¨Šè‚¢‚µ‚½‚¢‚Ì‚Å‚·‚ªB	"You need to see a dentist. You phone for an appointment. You say: Hello. I'd like to make an appointment, please."		
+GU037S043	1	37	5_Modals 2	‚ ‚È‚½‚ÍŒC‰®‚Å“­‚¢‚Ä‚¢‚Ü‚·B ŒÚ‹q‚©‚çŒC‚É‚Â‚¢‚Äq‚Ë‚ç‚ê‚Ü‚µ‚½B ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·F’…‚µ‚Ä‚İ‚Ü‚¹‚ñ‚©H	You work in a shoe shop. A customer asks you about some shoes. You say: Would you like to try them on?		
+GU037S044	1	37	5_Modals 2	A: ‚¨Šè‚¢‚ğ‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H B: ‚»‚ê‚Í‚ ‚È‚½‚ª„‚É‰½‚ğ‚µ‚Ä‚Ù‚µ‚¢‚©‚É‚æ‚é‚æB	A: Can you do me a favour? B: It depends what you want me to do.		
+GU037S045	1	37	5_Modals 2	A: –¾“ú‚Ì–éA‰f‰æ‚És‚«‚Ü‚¹‚ñ‚©? B: ‚Í‚¢A‰½‚ª‹N‚±‚Á‚Ä‚¢‚é‚Ì‚Å‚·‚©?	"A: Would you like to go to the cinema tomorrow night? B: Yes, what's on?"		
+GU037S046	1	37	5_Modals 2	A: ƒgƒCƒŒ‚ğg‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ‚»‚¤‚Å‚·‚ËB ¶‘¤‚ÌƒhƒA‚Å‚·B	A: Can I use your toilet? B: Sure. It's the door on the left.		
+GU037S047	1	37	5_Modals 2	A: ¡“ú‚Í‘‚­d–‚ğI‚¦‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©? B: ‚¢‚¢‚¦A‘åä•v‚Å‚·B	"A: Do you mind if I leave work early today? B: No, that's fine."		
+GU037S048	1	37	5_Modals 2	A: »“œ‚ğ“n‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H B: ‚Í‚¢A‚±‚¿‚ç‚Å‚·B	"A: Could you pass the sugar? B: Yes, here you are."		
+GU037S049	1	37	5_Modals 2	A: ‰½‚©H‚×‚½‚¢‚à‚Ì‚Í‚ ‚è‚Ü‚·‚©? B: ‚¢‚¢‚¦A‚ ‚è‚ª‚Æ‚¤B ‚¨‚È‚©‚ª‚·‚¢‚Ä‚¢‚È‚¢B	"A: Would you like something to eat? B: No, thanks. I'm not hungry."		
+GU037S050	1	37	5_Modals 2	A: è‚ğ‘İ‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ‚¢‚¢‚¦A‘åä•v‚Å‚·B ‚È‚ñ‚Æ‚©‚È‚è‚Ü‚·‚æA‚ ‚è‚ª‚Æ‚¤B	"A: Can I give you a hand? B: No, it's all right. I can manage, thanks."		
+GU037S051	1	37	5_Modals 2	A: V‘N‚È‹ó‹C‚ª—~‚µ‚¢‚ñ‚Å‚·B B: „‚à‚Å‚·‚æB U•à‚Éo‚©‚¯‚Ü‚µ‚å‚¤B	A: I'd like some fresh air. B: Me too. Let's go out for a walk.		
