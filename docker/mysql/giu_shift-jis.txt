@@ -1489,12 +1489,12 @@ GU025S062	1	25	4_Future	‰Æ‚ÅH‚×‚é‚±‚Æ‚à‚Å‚«‚Ü‚·‚µA‚²Šó–]‚Å‚ ‚ê‚ÎƒŒƒXƒgƒ‰ƒ“‚És
 GU025S063	1	25	4_Future	A: —ˆTƒ[ƒ}‚És‚«‚Ü‚·B B: ‚»‚ê‚Í‚¢‚¢‚Å‚·‚ËB ‚»‚±‚É‚¢‚é‚Æ‚«‚Í‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©H	A: I'm going to Rome next week. B: That's nice. What are you going to do when you're there?		
 GU026S001	1	26	5_Modals 1	„‚½‚¿‚Ìƒzƒeƒ‹‚©‚çŒÎ‚ªŒ©‚¦‚Ü‚·B	We can see the lake from our hotel.		
 GU026S002	1	26	5_Modals 1	ƒyƒ“‚ğ‚¨‚¿‚Å‚È‚¢ê‡‚ÍA„‚Ìƒyƒ“‚ğg‚Á‚Ä‚­‚¾‚³‚¢B	"If you don't have a pen, you can use mine."		
-GU026S003	1	26	5_Modals 1	‚à‚µ‚æ‚©‚Á‚½‚çA–¾“ú‰ï‚¢‚É—ˆ‚Ä‚à‚¢‚¢‚æB	I can come and see you tomorrow if you like.		
+GU026S003	1	26	5_Modals 1	‚à‚µ‚ ‚È‚½‚ª‚æ‚¯‚ê‚ÎA–¾“ús‚Á‚Ä‰ï‚Á‚Ä‚à‚¢‚¢‚æB	I can come and see you tomorrow if you like.		
 GU026S004	1	26	5_Modals 1	u–²v‚Æ‚¢‚¤Œ¾—t‚Í–¼Œ‚Å‚à“®Œ‚Å‚à\‚¢‚Ü‚¹‚ñB	The word 'dream' can be a noun or a verb.		
 GU026S005	1	26	5_Modals 1	‚ ‚È‚½‚Í‰½‚©ŠO‘Œê‚ğ˜b‚¹‚Ü‚·‚©H	Can you speak any foreign languages?		
 GU026S006	1	26	5_Modals 1	‹à—j“ú‚Ìƒp[ƒeƒB[‚É‚Ís‚¯‚Ü‚¹‚ñB	I can't come to the party on Friday.		
 GU026S007	1	26	5_Modals 1	‹}‚¢‚Å‚¢‚Ü‚¹‚ñB „‚Í‘Ò‚Â‚±‚Æ‚ª‚Å‚«‚éB	I'm in no hurry. I can wait.		
-GU026S008	1	26	5_Modals 1	”Ş‚ç‚Í‹x‰É‚É‚Ís‚©‚È‚¢‚ñ‚Å‚·B ”Ş‚ç‚É‚Í‚»‚ê‚ğ”ƒ‚¤—]—T‚ª‚È‚¢‚Ì‚Å‚·B	They're not going on holiday. They can't afford it.		
+GU026S008	1	26	5_Modals 1	”Ş‚ç‚Í‹x‰É‚Åo‚©‚¯‚È‚¢—\’è‚Å‚·B ”Ş‚ç‚É‚Í‚»‚Ì—]—T‚ª‚ ‚è‚Ü‚¹‚ñB	They're not going on holiday. They can't afford it.		
 GU026S009	1	26	5_Modals 1	‚Ç‚¿‚ç‚ÌƒWƒƒƒPƒbƒg‚à‘f“G‚Å‚·‚ËB ‚Ç‚ê‚ğ”ƒ‚¤‚©Œˆ‚ß‚ç‚ê‚Ü‚¹‚ñB	Both these jackets are nice. I can't decide which one to buy.		
 GU026S010	1	26	5_Modals 1	ƒƒo[ƒg‚Í—Ç‚¢º‚ğ‚Á‚Ä‚¢‚Ü‚·B ”Ş‚Í‚Æ‚Ä‚àãè‚É‰Ì‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Robert has a good voice. He can sing very well.		
 GU026S011	1	26	5_Modals 1	”Ş‚ç‚Í”ñí‚ÉˆÙ‚È‚él‚¦‚ğ‚Á‚Ä‚¢‚Ü‚·B ”Ş‚ç‚Í‰½‚É‚Â‚¢‚Ä‚à“¯ˆÓ‚Å‚«‚È‚¢B	They have very different ideas. They can't agree about anything.		
@@ -1507,7 +1507,7 @@ GU026S017	1	26	5_Modals 1	Å‹ß–°‚ê‚È‚¢‚ñ‚Å‚·B	I haven't been able to sleep rece
 GU026S018	1	26	5_Modals 1	ƒgƒ€‚Í–¾“ú—ˆ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Tom can come tomorrow.		
 GU026S019	1	26	5_Modals 1	ƒgƒ€‚Í–¾“ú—ˆ‚ç‚ê‚é‚©‚à‚µ‚ê‚È‚¢B	Tom might be able to come tomorrow.		
 GU026S020	1	26	5_Modals 1	ƒ}ƒŠƒA‚Íƒtƒ‰ƒ“ƒXŒê‚ÆƒhƒCƒcŒê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Maria can speak French and German.		
-GU026S021	1	26	5_Modals 1	‚±‚Ìd–‚Ö‚Ì‰•åÒ‚Í 2 ‚Â‚ÌŠO‘Œê‚ğ˜b‚¹‚é•K—v‚ª‚ ‚è‚Ü‚·B	Applicants for the job must be able to speak two foreign languages.		
+GU026S021	1	26	5_Modals 1	‚±‚Ìd–‚Ö‚Ì‰•åÒ‚Í 2 ‚Â‚ÌŠO‘Œê‚ğ˜b‚¹‚é•K—v‚ª‚ ‚è‚Ü‚·i‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñjB	Applicants for the job must be able to speak two foreign languages.		
 GU026S022	1	26	5_Modals 1	‚ ‚È‚½‚Ì–â‘è‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚¾‚³‚¢B ‚¨è“`‚¢‚Å‚«‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Tell me about your problem. I might be able to help you.		
 GU026S023	1	26	5_Modals 1	ˆÈ‘O‚Í‹t—§‚¿‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½‚ªA¡‚Í‹t—§‚¿‚Å‚«‚Ü‚¹‚ñB	"I used to be able to stand on my head, but I can't do it now."		
 GU026S024	1	26	5_Modals 1	ƒ}[ƒN‚Ì‚±‚Æ‚ª—‰ğ‚Å‚«‚Ü‚¹‚ñB „‚Í”Ş‚Ì‚±‚Æ‚ğŒˆ‚µ‚Ä—‰ğ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	I can't understand Mark. I've never been able to understand him.		
@@ -1524,7 +1524,7 @@ GU026S034	1	26	5_Modals 1	ƒ_ƒ“‚Í 16 Î‚Ì‚Æ‚«A100 ƒ[ƒgƒ‹‚ğ 11 •b‚Å‘–‚é‚±‚Æ‚ª‚Å
 GU026S035	1	26	5_Modals 1	„‚Í‰^“]‚Å‚«‚Ü‚·‚ªAÔ‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB	"I can drive, but I don't have a car."		
 GU026S036	1	26	5_Modals 1	ğ“ú‚Í‹C•ª‚ªˆ«‚©‚Á‚½B ‰½‚àH‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I was feeling sick yesterday. I couldn't eat anything.		
 GU026S037	1	26	5_Modals 1	Š®‘S‚É‚æ‚­•·‚±‚¦‚Ü‚·B ‚»‚ñ‚È‚É‘åº‚Å˜b‚·•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	I can hear you perfectly well. You don't need to speak so loud.		
-GU026S038	1	26	5_Modals 1	‚æ‚­Œ©‚é‚ÆA‰“‚­‚É’N‚©‚ªŒ©‚¦‚Ü‚µ‚½B	"I looked very carefully, and I could see somebody in the distance."		
+GU026S038	1	26	5_Modals 1	„‚Í’ˆÓ[‚­Œ©‚ÄA‰“‚­‚É’N‚©‚ğŒ©‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"I looked very carefully, and I could see somebody in the distance."		
 GU026S039	1	26	5_Modals 1	‚±‚Ìƒ\ƒtƒ@‚ğè“`‚Á‚Ä‚­‚¾‚³‚¢B ˆêl‚Å‚Í“®‚©‚¹‚Ü‚¹‚ñB	Help me with this sofa. I can't move it alone.		
 GU026S040	1	26	5_Modals 1	‚»‚Ìƒjƒ…[ƒX‚ğ•·‚¢‚Ä„‚Í‹Á‚«‚Ü‚µ‚½B M‚¶‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I was amazed when I heard the news. I couldn't believe it.		
 GU026S041	1	26	5_Modals 1	„‚Ì‘c•ƒ‚Í5‚©‘Œê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	My grandfather could speak five languages.		
@@ -1555,7 +1555,7 @@ GU026S065	1	26	5_Modals 1	„‚½‚¿‚Í”Ş‚ç‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚ªA”Ş‚ç‚Í—ˆ‚é‚±
 GU026S066	1	26	5_Modals 1	ƒJƒƒ‰‚ğ–Y‚ê‚½‚Ì‚ÅÊ^‚ªB‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I'd forgotten my camera, so I couldn't take any pictures."		
 GU026S067	1	26	5_Modals 1	ƒWƒFƒVƒJ‚Í‘«‚ğ’É‚ß‚ÄA‚ ‚Ü‚èãè‚É•à‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	Jessica had hurt her foot and couldn't walk very well.		
 GU026S068	1	26	5_Modals 1	„‚½‚¿‚ÍƒRƒ“ƒT[ƒg‚És‚«‚½‚©‚Á‚½‚Ì‚Å‚·‚ªAƒ`ƒPƒbƒg‚ğ“üè‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"We wanted to go to the concert, but we couldn't get tickets."		
-GU027S001	1	27	5_Modals 1	•·‚­B ‰½‚©‚ª•·‚±‚¦‚Ü‚·B	Listen. I can hear something.		
+GU027S001	1	27	5_Modals 1	•·‚¢‚ÄB ‰½‚©‚ª•·‚±‚¦‚Ü‚·B	Listen. I can hear something.		
 GU027S002	1	27	5_Modals 1	„‚Í•·‚¢‚½B ‰½‚©‚ª•·‚±‚¦‚Ü‚µ‚½B	I listened. I could hear something.		
 GU027S003	1	27	5_Modals 1	A: ¡–é‚Í‰½‚ğ‚µ‚Ü‚µ‚å‚¤‚©H B: ‰f‰æŠÙ‚És‚Á‚Ä‚à‚¢‚¢‚æB	A: What shall we do tonight? B: We could go to the cinema.		
 GU027S004	1	27	5_Modals 1	A: —ˆŒƒpƒŠ‚És‚­‚Æ‚«AƒTƒ‰‚Ì‰Æ‚É”‘‚Ü‚Á‚Ä‚à‚¢‚¢‚æB B: ‚Í‚¢A‚Å‚«‚é‚Æv‚¢‚Ü‚·B	"A: When you go to Paris next month, you could stay with Sarah. B: Yes, I suppose I could."		
@@ -1566,24 +1566,24 @@ GU027S008	1	27	5_Modals 1	A: ƒAƒ“‚Ì’a¶“ú‚É‰½‚ğ‚ ‚°‚Ü‚µ‚å‚¤‚©? B: ”Ş—‚É–{‚ğ‚ ‚°
 GU027S009	1	27	5_Modals 1	A: ‚±‚ÌÊ^‚ğ‚Ç‚±‚É’u‚«‚Ü‚µ‚å‚¤‚©? B: ƒLƒbƒ`ƒ“‚É’İ‚é‚µ‚Ä‚à‚¢‚¢‚Å‚·‚ËB	A: Where shall we put this picture? B: We could hang it in the kitchen.		
 GU027S010	1	27	5_Modals 1	A: T––‚É‰½‚ğ‚µ‚½‚¢‚Å‚·‚©? B: ‚Ç‚±‚©‚És‚Á‚Ä‚à‚¢‚¢‚æB	A: What would you like to do at the weekend? B: We could go away somewhere.		
 GU027S011	1	27	5_Modals 1	A: Œ‹¥®‚É‰½‚ğ’…‚Ä‚¢‚¯‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB B: ’ƒF‚ÌƒX[ƒc‚ğ’…‚Ä‚à‚¢‚¢‚æB	A: I don't know what to wear to the wedding. B: You could wear your brown suit.		
-GU027S012	1	27	5_Modals 1	„‚Í‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚éB ˆêTŠÔ‚Í–°‚ê‚Ü‚µ‚½B	I'm so tired. I could sleep for a week.		
-GU027S013	1	27	5_Modals 1	ƒpƒŠ‚És‚­‚Æ‚«‚ÍƒTƒ‰‚Æˆê‚É‚¢‚ç‚ê‚é‚æB	I can stay with Sarah when I go to Paris.		
-GU027S014	1	27	5_Modals 1	ƒpƒŠ‚És‚­‚Æ‚«‚ÍƒTƒ‰‚Æˆê‚É‚¢‚Ä‚à‚¢‚¢‚©‚à‚µ‚ê‚È‚¢B	Maybe I could stay with Sarah when I go to Paris.		
+GU027S012	1	27	5_Modals 1	„‚Í‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚éB ˆêTŠÔ‚Í–°‚ê‚é‚­‚ç‚¢‚Å‚·B	I'm so tired. I could sleep for a week.		
+GU027S013	1	27	5_Modals 1	„‚ÍƒpƒŠ‚És‚­‚Æ‚«‚ÉƒTƒ‰‚Æˆê‚É‚¢‚ç‚ê‚Ü‚·B	I can stay with Sarah when I go to Paris.		
+GU027S014	1	27	5_Modals 1	‘½•ª„‚ÍƒpƒŠ‚És‚­‚Æ‚«‚ÉƒTƒ‰‚Æˆê‚É‚¢‚Ä‚à‚¢‚¢‚©‚à‚µ‚ê‚È‚¢B	Maybe I could stay with Sarah when I go to Paris.		
 GU027S015	1	27	5_Modals 1	‚±‚±‚Í‘f°‚ç‚µ‚¢êŠ‚Å‚·B ‰i‰“‚É‚±‚±‚É‚¢‚Ä‚à‚¢‚¢‚æB	This is a wonderful place. I could stay here for ever.		
 GU027S016	1	27	5_Modals 1	„‚Í”Ş‚É‚Æ‚Ä‚à• ‚ª—§‚Á‚Ä‚¢‚Ü‚·B ”Ş‚ğE‚¹‚é‚©‚à‚µ‚ê‚È‚¢I	I'm so angry with him. I could kill him!		
 GU027S017	1	27	5_Modals 1	Šï–­‚È‰¹‚ª•·‚±‚¦‚Ü‚·B ‚»‚ê‚Í‰½‚Å‚·‚©H	I can hear a strange noise. What is it?		
-GU027S018	1	27	5_Modals 1	„‚Í‚±‚ê‚ç‚ÌƒrƒXƒPƒbƒg‚ª‘åD‚«‚Å‚·B ˆê‘Ü‘S•”H‚×‚ç‚ê‚Ü‚µ‚½B	I love these biscuits. I could eat the whole packet.		
+GU027S018	1	27	5_Modals 1	„‚Í‚±‚ê‚ç‚ÌƒrƒXƒPƒbƒg‚ª‘åD‚«‚Å‚·B ˆê‘Ü‘S•”H‚×‚ç‚ê‚é‚­‚ç‚¢‚Å‚·B	I love these biscuits. I could eat the whole packet.		
 GU027S019	1	27	5_Modals 1	‚±‚±‚Í‚Æ‚Ä‚à‘f“G‚Å‚·B ˆê“ú’†‚±‚±‚ÉÀ‚Á‚Ä‚¢‚Ä‚à—Ç‚©‚Á‚½‚Ì‚Å‚·‚ªAc”O‚È‚ª‚çs‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	"It's so nice here. I could sit here all day, but unfortunately I have to go."		
 GU027S020	1	27	5_Modals 1	‚ ‚È‚½‚ÌˆÓŒ©‚Í—‰ğ‚Å‚«‚Ü‚·‚ªA‚ ‚È‚½‚É‚Í“¯ˆÓ‚µ‚Ü‚¹‚ñB	"I can understand your point of view, but I don't agree with you."		
 GU027S021	1	27	5_Modals 1	ƒs[ƒ^[‚Í”MS‚È‰¹Šy‰Æ‚Å‚·B ”Ş‚Íƒtƒ‹[ƒg‚ğ‚«‚Ü‚·‚µAƒsƒAƒm‚à’e‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Peter is a keen musician. He plays the flute and he can also play the piano.		
 GU027S022	1	27	5_Modals 1	‰^‚ªˆ«‚¢l‚à‚¢‚Ü‚·B l¶‚Í”ñí‚É•sŒö•½‚É‚È‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B	Some people are unlucky. Life can be very unfair.		
-GU027S023	1	27	5_Modals 1	„‚Í–{“–‚É‹ğ‚©‚Å‚µ‚½B „‚Í©•ª©g‚ğR‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	I've been really stupid. I could kick myself.		
+GU027S023	1	27	5_Modals 1	„‚Í–{“–‚É‹ğ‚©‚Å‚µ‚½B „‚Í©•ª©g‚ğR‚ê‚é‚­‚ç‚¢‚Å‚·B	I've been really stupid. I could kick myself.		
 GU027S024	1	27	5_Modals 1	‚»‚Ì˜b‚Í–{“–‚©‚à‚µ‚ê‚È‚¢‚ªA„‚Í‚»‚¤‚Å‚Í‚È‚¢‚Æv‚¤B	"The story could be true, but I don't think it is."		
 GU027S025	1	27	5_Modals 1	ƒŠƒT‚ª‰½‚É—ˆ‚é‚©•ª‚©‚è‚Ü‚¹‚ñB ”Ş—‚Í‚¢‚Â‚Å‚à‚±‚±‚É’…‚­‚±‚Æ‚ª‚Å‚«‚½B	I don't know what time Lisa is coming. She could get here at any time.		
 GU027S026	1	27	5_Modals 1	‚»‚Ì˜b‚Í–{“–‚©‚à‚µ‚ê‚È‚¢‚ªA„‚Í‚»‚¤‚Å‚Í‚È‚¢‚Æv‚¤B	"The story might be true, but I don't think it is."		
 GU027S027	1	27	5_Modals 1	R‚Å‚Í“V‹C‚ª”ñí‚É‘‚­•Ï‚í‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B	The weather can change very quickly in the mountains.		
 GU027S028	1	27	5_Modals 1	¡‚Í‚¢‚¢“V‹C‚Å‚·‚ªA‚±‚ê‚©‚ç“V‹C‚ª•Ï‚í‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"The weather is nice now, but it could change later."		
-GU027S029	1	27	5_Modals 1	ƒJƒoƒ“‚ğ‚Ç‚±‚É’u‚¢‚½‚Ì‚©‚í‚©‚è‚Ü‚¹‚ñB Ô‚Ì’†‚©‚à‚µ‚ê‚È‚¢B	I'm not sure where I left my bag. It could be in the car.		
+GU027S029	1	27	5_Modals 1	ƒJƒoƒ“‚ğ‚Ç‚±‚É’u‚¢‚Ä‚«‚½‚Ì‚©‚í‚©‚è‚Ü‚¹‚ñB Ô‚Ì’†‚©‚à‚µ‚ê‚È‚¢B	I'm not sure where I left my bag. It could be in the car.		
 GU027S030	1	27	5_Modals 1	‚ ‚Ì–Ø‚É‹C‚ğ‚Â‚¯‚Ä“o‚Á‚Ä‚­‚¾‚³‚¢B —‚¿‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B	Be careful climbing that tree. You could fall.		
 GU027S031	1	27	5_Modals 1	”Ş—‚ª‰½Î‚È‚Ì‚©‚í‚©‚è‚Ü‚¹‚ñB ”Ş—‚Í30Î‚©‚à‚µ‚ê‚È‚¢B	I'm not sure how old she is. She could be 30.		
 GU027S032	1	27	5_Modals 1	—Ç‚¢“ú‚É‚È‚é‚Æ‚Ív‚¦‚È‚¢B ‰J‚ª~‚é‚©‚à‚µ‚ê‚È‚¢B	I don't think it's going to be a nice day. It could rain.		
@@ -1600,49 +1600,49 @@ GU027S042	1	27	5_Modals 1	A: ‚±‚Ìè†‚ğŠJ‚¢‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ‚Í‚¢B ‚»‚ê‚Íd—v
 GU027S043	1	27	5_Modals 1	A: Œ±‚Í‚Ç‚¤‚Å‚µ‚½‚©? “ï‚µ‚©‚Á‚½H B: ‚»‚ê‚Ù‚Çˆ«‚­‚Í‚È‚©‚Á‚½‚Å‚·B ‚à‚Á‚Æ‚Ğ‚Ç‚¢‚±‚Æ‚É‚È‚Á‚Ä‚¢‚½‚©‚à‚µ‚ê‚È‚¢B	A: How was your exam? Was it difficult? B: It wasn't so bad. It could have been worse.		
 GU027S044	1	27	5_Modals 1	A: ‰J‚Ì’†‰Æ‚Ü‚Å•à‚¢‚Ä‚¢‚½‚ç‚Æ‚Ä‚à”G‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B B: ‚Ç‚¤‚µ‚Ä•à‚¢‚½‚ÌH ƒ^ƒNƒV[‚Éæ‚Á‚Ä‚à‚æ‚©‚Á‚½‚©‚à‚µ‚ê‚È‚¢B	A: I got very wet walking home in the rain. B: Why did you walk? You could have taken a taxi.		
 GU027S045	1	27	5_Modals 1	A: ‰½‚Éo”­‚µ‚½‚¢‚Å‚·‚©? B: €”õ‚ª‚Å‚«‚½‚çA¡‚©‚çs‚Á‚Ä‚à‚¢‚¢‚æB	A: What time do you want to leave? B: We could go now if you're ready.		
-GU027S046	1	27	5_Modals 1	A: –¾“ú‚Í‚Ç‚±‚Å‰ï‚¢‚Ü‚µ‚å‚¤? B: ‚»‚¤‚Å‚·‚ËA‚à‚µ‚æ‚©‚Á‚½‚çA‚ ‚È‚½‚Ì‰Æ‚É‚¨f‚¢‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©B	"A: Where shall we meet tomorrow? B: Well, I could come to your house if you like."		
+GU027S046	1	27	5_Modals 1	A: –¾“ú‚Í‚Ç‚±‚Å‰ï‚¢‚Ü‚µ‚å‚¤? B: ‚»‚¤‚Å‚·‚ËA‚à‚µ‚æ‚©‚Á‚½‚çA‚ ‚È‚½‚Ì‰Æ‚É‚¨f‚¢‚µ‚Ä‚à‚¢‚¢‚Å‚·‚ËB	"A: Where shall we meet tomorrow? B: Well, I could come to your house if you like."		
 GU027S047	1	27	5_Modals 1	A: ƒgƒ€‚Í¡‚à“¯‚¶êŠ‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş‚Í“®‚­‚±‚Æ‚à‚Å‚«‚½‚©‚à‚µ‚ê‚È‚¢B	A: Does Tom still live in the same place? B: I'm not sure. He could have moved.		
-GU027S048	1	27	5_Modals 1	A: ‘åŠw‚És‚Á‚½‚ñ‚Å‚·‚©H B: ‚¢‚¢‚¦As‚­‚±‚Æ‚à‚Å‚«‚Ü‚µ‚½‚ªAs‚«‚½‚­‚È‚©‚Á‚½‚Ì‚Å‚·B	"A: Did you go to university? B: No. I could have gone, but I didn't want to."		
-GU027S049	1	27	5_Modals 1	‘å“ss‚É‚ÍZ‚ß‚È‚©‚Á‚½B ‚»‚ê‚ÍŒ™‚Å‚µ‚å‚¤‚ËB	I couldn't live in a big city. I'd hate it.		
-GU027S050	1	27	5_Modals 1	¡‚Í‚·‚×‚Ä‡’²‚Å‚·B ‚±‚êˆÈã‚È‚¢‚Ù‚Çó‹µ‚Í—Ç‚­‚È‚è‚Ü‚µ‚½B	Everything is fine right now. Things couldn't be better.		
+GU027S048	1	27	5_Modals 1	A: ‘åŠw‚És‚«‚Ü‚µ‚½‚©H B: ‚¢‚¢‚¦As‚­‚±‚Æ‚à‚Å‚«‚Ü‚µ‚½‚ªAs‚«‚½‚­‚È‚©‚Á‚½‚Ì‚Å‚·B	"A: Did you go to university? B: No. I could have gone, but I didn't want to."		
+GU027S049	1	27	5_Modals 1	‘å“ss‚É‚ÍZ‚Ş‚±‚Æ‚ª‚Å‚«‚È‚¢‚¾‚ë‚¤B „‚Í‚»‚ê‚ğŒ™‚¤‚¾‚ë‚¤B	I couldn't live in a big city. I'd hate it.		
+GU027S050	1	27	5_Modals 1	¡‚Í‚·‚×‚Ä‡’²‚Å‚·B •¨–‚Í‚±‚êˆÈã—Ç‚­‚È‚ç‚È‚¢‚­‚ç‚¢‚Å‚·B	Everything is fine right now. Things couldn't be better.		
 GU027S051	1	27	5_Modals 1	–{“–‚É—Ç‚¢‹x“ú‚ğ‰ß‚²‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B ‚±‚êˆÈã‚É‘f°‚ç‚µ‚¢‚à‚Ì‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	We had a really good holiday. It couldn't have been better.		
 GU027S052	1	27	5_Modals 1	æT—·s‚ÍƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B ƒ|[ƒ‹‚Í•a‹C‚¾‚Á‚½‚Ì‚ÅA‚Æ‚É‚©‚­s‚­‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	The trip was cancelled last week. Paul couldn't have gone anyway because he was ill.		
-GU027S053	1	27	5_Modals 1	‚à‚¤10ƒLƒ‚à‘–‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I couldn't run ten kilometres now.		
+GU027S053	1	27	5_Modals 1	¡‚Í10ƒLƒ‚à‘–‚ê‚È‚¢‚¾‚ë‚¤B	I couldn't run ten kilometres now.		
 GU027S054	1	27	5_Modals 1	ğ“ú‚Í‘«‚ğ’É‚ß‚½‚Ì‚Å‘–‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I couldn't run yesterday because I'd hurt my leg.		
 GU027S055	1	27	5_Modals 1	„‚Í‚»‚Ì–Xq‚ğ‚©‚Ô‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B lX‚Í„‚ğÎ‚¤‚Å‚µ‚å‚¤B	I couldn't wear that hat. People would laugh at me.		
 GU027S056	1	27	5_Modals 1	‚Æ‚Ä‚à•‚©‚è‚Ü‚µ‚½B ‚ ‚È‚½‚È‚µ‚Å‚Í„‚Í‚â‚Á‚Ä‚¢‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B	You helped me a lot. I couldn't have managed without you.		
 GU027S057	1	27	5_Modals 1	„‚½‚¿‚ªh”‘‚µ‚½ƒzƒeƒ‹‚ÌƒXƒ^ƒbƒt‚Í–{“–‚É—Ç‚©‚Á‚½‚Å‚·B ”Ş‚ç‚Í‚±‚êˆÈã–ğ‚É—§‚¿‚Ü‚¹‚ñ‚Å‚µ‚½B	The staff at the hotel we stayed at were really good. They couldn't have been more helpful.		
 GU027S058	1	27	5_Modals 1	ƒ|[ƒ‹‚Í–ˆ’©Œß‘O4‚Éd–‚És‚«‚Ü‚·B ”Ş‚Í‚Ç‚¤‚â‚Á‚Ä‚â‚é‚Ì‚Å‚µ‚å‚¤‚©H ‚»‚ñ‚È‚É‘‚­‹N‚«‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B	Paul goes to work at 4 a.m. every morning. How does he do it? I couldn't get up so early.		
-GU027S059	1	27	5_Modals 1	¡‚Å‚ÍÔ‚ğ”ƒ‚¤‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB —]—T‚ª‚È‚©‚Á‚½‚Ì‚Å‚·B	There's no way we could buy a car now. We couldn't afford it.		
+GU027S059	1	27	5_Modals 1	¡‰äX‚ªÔ‚ğ”ƒ‚¦‚é‚Æ‚¢‚¤‚±‚Æ‚Í‚ ‚è‚¦‚È‚¢B —]—T‚ª‚È‚¢‚¾‚ë‚¤B	There's no way we could buy a car now. We couldn't afford it.		
 GU027S060	1	27	5_Modals 1	ƒWƒƒƒbƒN‚Í‚Å‚«‚éŒÀ‚èŒ±‚Ì€”õ‚ğ‚µ‚Ü‚µ‚½B ”Ş‚Í‚±‚êˆÈã”MS‚É•×‹­‚·‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	Jack prepared for the exam as well as he could. He couldn't have studied harder.		
-GU027S061	1	27	5_Modals 1	‚‘¬“¹˜H‚Ì‹ß‚­‚É‚ÍZ‚İ‚½‚­‚È‚¢‚Å‚·B Ô‚Ì‘›‰¹‚É‘Ï‚¦‚ç‚ê‚È‚©‚Á‚½B	I wouldn't like to live so near the motorway. I couldn't stand the noise of the traffic.		
-GU027S062	1	27	5_Modals 1	”Ş‚ç‚Í„‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA‚Æ‚É‚©‚­s‚­‚í‚¯‚É‚Í‚¢‚«‚Ü‚¹‚ñ‚Å‚µ‚½B ‚»‚Ì„‚Í‹x‰É’†‚Å•sİ‚Å‚µ‚½B	"They didn't invite me to their party, but I couldn't have gone anyway. I was away on holiday at the time."		
-GU028S001	1	28	5_Modals 1	‚ ‚È‚½‚Í‚¿‚å‚¤‚Ç’‹H‚ğH‚×‚½‚Æ‚±‚ë‚Å‚·B ‚à‚¤‚¨• ‚ª‹ó‚¢‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You've just had lunch. You can't be hungry already.		
+GU027S061	1	27	5_Modals 1	‚‘¬“¹˜H‚Ì‚»‚±‚Ü‚Å‹ß‚­‚É‚ÍZ‚İ‚½‚­‚È‚¢‚Å‚·B Ô‚Ì‘›‰¹‚É‘Ï‚¦‚ç‚ê‚È‚¢‚Å‚µ‚å‚¤B	I wouldn't like to live so near the motorway. I couldn't stand the noise of the traffic.		
+GU027S062	1	27	5_Modals 1	”Ş‚ç‚Í„‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA‚Æ‚É‚©‚­s‚¯‚È‚©‚Á‚½‚Å‚µ‚å‚¤B ‚»‚Ì„‚Í‹x‰É’†‚Å•sİ‚Å‚µ‚½B	"They didn't invite me to their party, but I couldn't have gone anyway. I was away on holiday at the time."		
+GU028S001	1	28	5_Modals 1	‚ ‚È‚½‚Í‚¿‚å‚¤‚Ç’‹H‚ğH‚×‚½‚Æ‚±‚ë‚Å‚·B ‚à‚¤‚¨• ‚ª‹ó‚¢‚Ä‚¢‚È‚¢‚Í‚¸‚¾B	You've just had lunch. You can't be hungry already.		
 GU028S002	1	28	5_Modals 1	”Ş‚ç‚Í‚±‚±‚É’·‚­Z‚ñ‚Å‚¢‚Ü‚¹‚ñB ”Ş‚ç‚Í‘½‚­‚Ìl‚ğ’m‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB	They haven't lived here long. They can't know many people.		
-GU028S003	1	28	5_Modals 1	Œ±‚É‡Ši‚µ‚½‚±‚Æ‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·B ‚«‚Á‚Æ‚Æ‚Ä‚àŠì‚Î‚ê‚é‚Í‚¸‚Å‚·B	Congratulations on passing your exam. You must be very pleased.		
+GU028S003	1	28	5_Modals 1	Œ±‚É‡Ši‚µ‚½‚±‚Æ‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·B ‚ ‚È‚½‚Í‚Æ‚Ä‚àŠì‚ñ‚Å‚¢‚é‚Éˆá‚¢‚È‚¢B	Congratulations on passing your exam. You must be very pleased.		
 GU028S004	1	28	5_Modals 1	‚ ‚È‚½‚Í¡’©‰½‚àH‚×‚Ä‚¢‚Ü‚¹‚ñB ‚¨• ‚ª‹ó‚¢‚Ä‚¢‚é‚Í‚¸‚Å‚·B	You haven't eaten anything this morning. You must be hungry.		
-GU028S005	1	28	5_Modals 1	‚à‚¤‚·‚®‹x‰É‚É“ü‚é—\’è‚Å‚·B ‚«‚Á‚ÆŠy‚µ‚İ‚É‚µ‚Ä‚¢‚é‚Í‚¸‚Å‚·B	You're going on holiday soon. You must be looking forward to it.		
+GU028S005	1	28	5_Modals 1	‚ ‚È‚½‚Í‚à‚¤‚·‚®‹x‰É‚Åo‚©‚¯‚é—\’è‚Å‚·B ‚ ‚È‚½‚ÍŠy‚µ‚İ‚É‚µ‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	You're going on holiday soon. You must be looking forward to it.		
 GU028S006	1	28	5_Modals 1	ƒŒƒCƒ`ƒFƒ‹‚Í–{‚ğ‚½‚­‚³‚ñ‚Á‚Ä‚¢‚Ü‚·B ”Ş—‚Í“Ç‘‚ğŠy‚µ‚ñ‚Å‚¢‚é‚Éˆá‚¢‚È‚¢B	Rachel has lots of books. She must enjoy reading.		
 GU028S007	1	28	5_Modals 1	”‘‚Ü‚éêŠ‚ª•K—v‚¾B ‚±‚Ì‹ß‚­‚Ì‚Ç‚±‚©‚Éƒzƒeƒ‹‚ª‚ ‚é‚Í‚¸‚Å‚·B	We need somewhere to stay. There must be a hotel somewhere near here.		
-GU028S008	1	28	5_Modals 1	Šm‚©ƒTƒŠ[‚ªZŠ‚ğ‹³‚¦‚Ä‚­‚ê‚½‚Æv‚¢‚Ü‚·B ‚«‚Á‚Æ‚Ç‚±‚©‚É‚ ‚é‚Í‚¸‚¾B	I'm sure Sally gave me her address. I must have it somewhere.		
+GU028S008	1	28	5_Modals 1	Šm‚©‚ÉƒTƒŠ[‚Í„‚ÉZŠ‚ğ“n‚µ‚½‚Æv‚¢‚Ü‚·B „‚Í‚Ç‚±‚©‚É‚»‚ê‚ğ‚Á‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	I'm sure Sally gave me her address. I must have it somewhere.		
 GU028S009	1	28	5_Modals 1	ƒJƒŒƒ“‚Í‚Ü‚¾ƒIƒtƒBƒX‚ğo‚Ä‚¢‚Ü‚¹‚ñB ”Ş—‚Í’x‚­‚Ü‚Åd–‚ğ‚µ‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	Karen hasn't left the office yet. She must be working late.		
-GU028S010	1	28	5_Modals 1	‚ ‚È‚½‚Í‚±‚±‚É’·‚¢ŠÔZ‚ñ‚Å‚¢‚Ü‚·B ŠF‚³‚ñ‚à‚²‘¶’m‚Ì‚Í‚¸‚Å‚·B	You've lived here a long time. You must know everybody.		
+GU028S010	1	28	5_Modals 1	‚ ‚È‚½‚Í‚±‚±‚É’·‚¢ŠÔZ‚ñ‚Å‚¢‚Ü‚·B ‚ ‚È‚½‚Í‘Sˆõ‚ğ’m‚Á‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	You've lived here a long time. You must know everybody.		
 GU028S011	1	28	5_Modals 1	‚Ü‚½‚¨‰ï‚¢‚Å‚«‚ÄŠğ‚µ‚¢‚Å‚·B ÅŒã‚É‰ï‚Á‚Ä‚©‚ç‚à‚¤2”N‚É‚È‚é‚Í‚¸‚¾B	It's nice to see you again. It must be two years since we last met.		
 GU028S012	1	28	5_Modals 1	‚ ‚È‚½‚Íˆê“ú’†—·s‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½B ”æ‚ê‚Ä‚¢‚é‚Å‚µ‚åB	You've been travelling all day. You must be tired.		
-GU028S013	1	28	5_Modals 1	A: ƒWƒ‡[‚Í“­‚«Ò‚Å‚·B B: ƒWƒ‡[H ç’k‚¶‚á‚È‚¢‚íB ”Ş‚Í‰½‚à‚µ‚Ü‚¹‚ñB	A: Joe is a hard worker. B: Joe? You must be joking. He doesn't do anything.		
+GU028S013	1	28	5_Modals 1	A: ƒWƒ‡[‚Í“­‚«Ò‚Å‚·B B: ƒWƒ‡[H ‚ ‚È‚½‚Íç’k‚ğŒ¾‚Á‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B ”Ş‚Í‰½‚à‚µ‚Ü‚¹‚ñB	A: Joe is a hard worker. B: Joe? You must be joking. He doesn't do anything.		
 GU028S014	1	28	5_Modals 1	ƒ‹ƒC[ƒY‚Íd–‚É‚Æ‚Ä‚à‘Ş‹ü‚µ‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B ”Ş—‚Í–ˆ“ú“¯‚¶‚±‚Æ‚ğ‚µ‚Ü‚·B	Louise must get very bored in her job. She does the same thing every day.		
-GU028S015	1	28	5_Modals 1	A: ‚ ‚ÌƒŒƒXƒgƒ‰ƒ“‚Í‚¢‚Â‚àl‚Å‚¢‚Á‚Ï‚¢‚Å‚·B B: ‚Í‚¢A‚«‚Á‚Æ‚¢‚¢‚Å‚·‚ËB	"A: That restaurant is always full of people. B: Yes, it must be good."		
-GU028S016	1	28	5_Modals 1	A: ‚»‚ÌƒŒƒXƒgƒ‰ƒ“‚Í‚ ‚Ü‚è‚¨‚¢‚µ‚¢‚Æ‚ÍŒ¾‚¦‚Ü‚¹‚ñB B: ‚¢‚¢‚¦A‚¢‚Â‚à‹ó‚¢‚Ä‚¢‚Ü‚·B	"A: That restaurant can't be very good. B: No, it's always empty."		
+GU028S015	1	28	5_Modals 1	A: ‚ ‚ÌƒŒƒXƒgƒ‰ƒ“‚Í‚¢‚Â‚àl‚Å‚¢‚Á‚Ï‚¢‚Å‚·B B: ‚Í‚¢A—Ç‚¢‚Éˆá‚¢‚È‚¢B	"A: That restaurant is always full of people. B: Yes, it must be good."		
+GU028S016	1	28	5_Modals 1	A: ‚»‚ÌƒŒƒXƒgƒ‰ƒ“‚ª‚Æ‚Ä‚à‚æ‚¢‚Æ‚¢‚¤‚Ì‚Í‚ ‚è‚¦‚È‚¢B B: ‚¢‚¢‚¦A‚¢‚Â‚à‹ó‚¢‚Ä‚¢‚Ü‚·B	"A: That restaurant can't be very good. B: No, it's always empty."		
 GU028S017	1	28	5_Modals 1	A: ‚±‚Ì’Ê‚è‚Å‚ ‚Ì’j«‚ğ‚æ‚­Œ©‚©‚¯‚Ü‚·B B: „‚à‚»‚¤‚Å‚·B”Ş‚Í‚±‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚é‚Éˆá‚¢‚È‚¢‚Æv‚¢‚Ü‚·B	A: I often see that man in this street. B: So do I. I think he must live near here.		
 GU028S018	1	28	5_Modals 1	A: ƒrƒ‹‚ÆƒX[‚Í‚¢‚Â‚à‚‹‰ƒzƒeƒ‹‚É‘Øİ‚µ‚Ü‚·B B: ‚Í‚¢A‚¨‹à‚ª‘«‚è‚È‚¢‚Í‚¸‚ª‚ ‚è‚Ü‚¹‚ñB	"A: Bill and Sue always stay in luxury hotels. B: Yes, they can't be short of money."		
-GU028S019	1	28	5_Modals 1	A: ƒxƒ“‚Í¡“ú‚Íd–‚¾‚Æv‚¢‚Ü‚·B B: ‚¢‚¢‚¦A”Ş‚Í¡“ú‚Íd–‚ª‚Å‚«‚Ü‚¹‚ñB ƒIƒtƒBƒX‚Í•Â‚Ü‚Á‚Ä‚¢‚Ü‚·B	"A: I think Ben is working today. B: No, he can't be working today. The office is closed."		
-GU028S020	1	28	5_Modals 1	A: Œ®‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB ‚«‚Á‚Æ‚Á‚Ä‚¢‚é‚Í‚¸‚Å‚·B B: ‚¢‚¢‚¦AŠm‚©‚É‚ ‚°‚½‚Æv‚¢‚Ü‚·B	"A: I don't have the key. You must have it. B: No, I'm sure I gave it to you."		
+GU028S019	1	28	5_Modals 1	A: ƒxƒ“‚Í¡“ú“­‚¢‚Ä‚¢‚é‚Æv‚¢‚Ü‚·B B: ‚¢‚¢‚¦A¡“ú”Ş‚ªd–‚ğ‚µ‚Ä‚¢‚é‚Æ‚¢‚¤‚Ì‚Í‚ ‚è‚¦‚È‚¢B ƒIƒtƒBƒX‚Í•Â‚Ü‚Á‚Ä‚¢‚Ü‚·B	"A: I think Ben is working today. B: No, he can't be working today. The office is closed."		
+GU028S020	1	28	5_Modals 1	A: „‚ÍŒ®‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB ‚ ‚È‚½‚ª‚Á‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B B: ‚¢‚¢‚¦AŠm‚©‚É‚ ‚È‚½‚Ö‚ ‚°‚½B	"A: I don't have the key. You must have it. B: No, I'm sure I gave it to you."		
 GU028S021	1	28	5_Modals 1	A: ‹ó`‚És‚­‚Ì‚ÉŠÔ‚ª‚©‚©‚è‚Ü‚·‚©? B: ‚¢‚¢‚¦A‚»‚ê‚Ù‚Ç‰“‚­‚ ‚è‚Ü‚¹‚ñB 30•ªˆÈã‚©‚©‚é‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB	"A: Will it take long to get to the airport? B: No, it isn't very far. It can't take more than 30 minutes."		
-GU028S022	1	28	5_Modals 1	A: ƒGƒh‚Í‰½Î‚Å‚·‚©? B: „‚æ‚è”Nã‚Å‚·B ”Ş‚Í­‚È‚­‚Æ‚à40Î‚Å‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	A: How old is Ed? B: Older than me. He must be at least 40.		
+GU028S022	1	28	5_Modals 1	A: ƒGƒh‚Í‰½Î‚Å‚·‚©? B: „‚æ‚è”Nã‚Å‚·B ”Ş‚Í­‚È‚­‚Æ‚à40Î‚Éˆá‚¢‚È‚¢B	A: How old is Ed? B: Older than me. He must be at least 40.		
 GU028S023	1	28	5_Modals 1	”Ş‚ç‚Ì—F’B‚Ío‚©‚¯‚½‚Éˆá‚¢‚È‚¢B	Their friends must have gone out.		
-GU028S024	1	28	5_Modals 1	è‘Ü‚ğ•Ğ•û•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ‚«‚Á‚Æ‚Ç‚±‚©‚É—‚Æ‚µ‚Ä‚µ‚Ü‚Á‚½‚Ì‚Å‚µ‚å‚¤B	I've lost one of my gloves. I must have dropped it somewhere.		
-GU028S025	1	28	5_Modals 1	A: „‚½‚¿‚Í‚‘¬“¹˜H‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚Ü‚µ‚½B B: ‚»‚¤‚Å‚µ‚½‚©H ‘›‚ª‚µ‚©‚Á‚½‚Å‚µ‚å‚¤‚ËB	A: We used to live near the motorway. B: Did you? It must have been noisy.		
-GU028S026	1	28	5_Modals 1	Ô‚É–ß‚é‚ÆƒƒbƒN‚ª‰ğœ‚³‚ê‚Ä‚¢‚Ü‚µ‚½B ‚«‚Á‚ÆŒ®‚ğ‚©‚¯–Y‚ê‚½‚Ì‚Å‚µ‚å‚¤B	"When I got back to my car, it was unlocked. I must have forgotten to lock it."		
+GU028S024	1	28	5_Modals 1	è‘Ü‚ğ•Ğ•û•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ‚Ç‚±‚©‚É—‚Æ‚µ‚Ä‚µ‚Ü‚Á‚½‚Éˆá‚¢‚È‚¢B	I've lost one of my gloves. I must have dropped it somewhere.		
+GU028S025	1	28	5_Modals 1	A: „‚½‚¿‚Í‚‘¬“¹˜H‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚Ü‚µ‚½B B: ‚»‚¤‚Å‚µ‚½‚©H ‘›‚ª‚µ‚©‚Á‚½‚Éˆá‚¢‚È‚¢B	A: We used to live near the motorway. B: Did you? It must have been noisy.		
+GU028S026	1	28	5_Modals 1	Ô‚É–ß‚é‚ÆŒ®‚ÍŠJ‚¢‚Ä‚¢‚Ü‚µ‚½B ‚«‚Á‚ÆŒ®‚ğ‚©‚¯–Y‚ê‚½‚Éˆá‚¢‚È‚¢B	"When I got back to my car, it was unlocked. I must have forgotten to lock it."		
 GU028S027	1	28	5_Modals 1	Å‹ß‹ßŠ‚Ìl‚É‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB ”Ş‚ç‚Í‹‚Á‚Ä‚µ‚Ü‚Á‚½‚Éˆá‚¢‚È‚¢B	I haven't seen our neighbours recently. They must have gone away.		
 GU028S028	1	28	5_Modals 1	¡’©AƒJƒtƒF‚ÌŠO‚É’j‚ª—§‚Á‚Ä‚¢‚½B ”Ş‚Í’N‚©‚ğ‘Ò‚Á‚Ä‚¢‚½‚Éˆá‚¢‚È‚¢B	There was a man standing outside the cafe this morning. He must have been waiting for somebody.		
 GU028S029	1	28	5_Modals 1	P‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB ğ–éƒŒƒXƒgƒ‰ƒ“‚É–Y‚ê‚Ä‚«‚½‚Éˆá‚¢‚È‚¢B	I can't find my umbrella. I must have left it in the restaurant last night.		
@@ -1652,26 +1652,26 @@ GU028S032	1	28	5_Modals 1	–é’†‚É—×‚©‚ç‚Ì‘›‰¹‚Å–Ú‚ªŠo‚ß‚Ü‚µ‚½B ‹ßŠ‚Ìl‚½‚¿‚ªƒp
 GU028S033	1	28	5_Modals 1	à•z‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB ‚«‚Á‚Æ‰Æ‚É’u‚¢‚Ä‚¢‚Á‚½‚Ì‚Å‚µ‚å‚¤B	I don't have my wallet with me. I must have left it at home.		
 GU028S034	1	28	5_Modals 1	”Ş—‚Í—L–¼‚Èì‰Æ‚Å‚·B ‚ ‚È‚½‚à”Ş—‚Ì‚±‚Æ‚ğ•·‚¢‚½‚±‚Æ‚ª‚ ‚é‚Í‚¸‚Å‚·B	She's a famous writer. You must have heard of her.		
 GU028S035	1	28	5_Modals 1	“d˜b‚ª•·‚±‚¦‚Ü‚¹‚ñ‚Å‚µ‚½B ‚«‚Á‚Æ–°‚Á‚Ä‚¢‚½‚Ì‚Å‚µ‚å‚¤B	I didn't hear the phone. I must have been asleep.		
-GU028S036	1	28	5_Modals 1	‘‹‚Í‚Ü‚¾ŠJ‚¢‚Ä‚¢‚Ü‚·B ‚«‚Á‚Æ•Â‚ß–Y‚ê‚½‚Ì‚Å‚µ‚å‚¤B	The window is still open. I must have forgotten to shut it.		
+GU028S036	1	28	5_Modals 1	‘‹‚Í‚Ü‚¾ŠJ‚¢‚Ä‚¢‚Ü‚·B ‚«‚Á‚Æ•Â‚ß–Y‚ê‚½‚Éˆá‚¢‚È‚¢B	The window is still open. I must have forgotten to shut it.		
 GU028S037	1	28	5_Modals 1	”Ş‚Í“d˜b‚Éo‚Ü‚¹‚ñB ”Ş‚Í‰^“]‚µ‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	He isn't answering his phone. He must be driving.		
 GU028S038	1	28	5_Modals 1	ƒ_ƒ“‚Í‚æ‚­ƒXƒ|[ƒc‚ğ‚µ‚Ü‚·B ”Ş‚Í‚Æ‚Ä‚àŒ’N‚È‚Í‚¸‚¾B	Dan does a lot of sport. He must be very fit.		
-GU028S039	1	28	5_Modals 1	‚³‚·‚ªŒÜ‚Â¯ƒzƒeƒ‹‚Å‚·B ‚»‚±‚É‘Øİ‚·‚é‚É‚Í‚©‚È‚è‚Ì‚¨‹à‚ª‚©‚©‚é‚Í‚¸‚Å‚·B	It's a five-star hotel. It must cost a lot of money to stay there.		
+GU028S039	1	28	5_Modals 1	‚»‚ê‚ÍŒÜ‚Â¯ƒzƒeƒ‹‚Å‚·B ‚»‚±‚Ö‘Øİ‚·‚é‚Ì‚É‚½‚­‚³‚ñ‚Ì‚¨‹à‚ª‚©‚©‚é‚Éˆá‚¢‚È‚¢B	It's a five-star hotel. It must cost a lot of money to stay there.		
 GU028S040	1	28	5_Modals 1	”Ş‚ÌŒ¾‚Á‚½‚±‚Æ‚Í^À‚Å‚ ‚é‚Í‚¸‚ª‚È‚¢B ”Ş‚Í‰R‚ğ‚Â‚¢‚Ä‚¢‚½‚Éˆá‚¢‚È‚¢B	What he said can't be true. He must have been lying.		
 GU028S041	1	28	5_Modals 1	ƒTƒ‰‚©‚ç‚Í˜A—‚ª‚ ‚è‚Ü‚¹‚ñB ”Ş—‚ª„‚ÌƒƒbƒZ[ƒW‚ğó‚¯æ‚Á‚½‚Í‚¸‚ª‚È‚¢B	Sarah hasn't contacted me. She can't have got my message.		
-GU028S042	1	28	5_Modals 1	ƒgƒ€‚Í•Ç‚Ì’†‚Ö“ü‚Á‚Ä‚¢‚Á‚½B ”Ş‚ª‚Ç‚±‚Ös‚­‚Ì‚©’T‚µ‚Ä‚¢‚½‚Í‚¸‚ª‚È‚¢B	Tom walked into the wall. He can't have been looking where he was going.		
-GU028S043	1	28	5_Modals 1	ƒTƒ‰‚ª„‚ÌƒƒbƒZ[ƒW‚ğ—‰ğ‚Å‚«‚È‚©‚Á‚½‚Í‚¸‚Í‚ ‚è‚Ü‚¹‚ñB	Sarah couldn't have got my message.		
-GU028S044	1	28	5_Modals 1	ƒgƒ€‚ª‚Ç‚±‚Ös‚­‚Ì‚©Œ©‚Ä‚¢‚È‚©‚Á‚½‚Í‚¸‚ª‚È‚¢B	Tom couldn't have been looking where he was going.		
+GU028S042	1	28	5_Modals 1	ƒgƒ€‚Í•Ç‚Ö•à‚¢‚Äs‚Á‚½i‚Ô‚Â‚©‚Á‚½jB ”Ş‚ª©•ª‚Ìs‚­æi‚Ç‚±‚Ös‚Á‚Ä‚¢‚é‚©j‚ğŒ©‚Ä‚¢‚½‚Í‚¸‚ª‚È‚¢B	Tom walked into the wall. He can't have been looking where he was going.		
+GU028S043	1	28	5_Modals 1	ƒTƒ‰‚ª„‚ÌƒƒbƒZ[ƒW‚ğó‚¯æ‚Á‚Ä‚¢‚½‚Æ‚¢‚¤‚Ì‚Í‚ ‚è“¾‚È‚¢B	Sarah couldn't have got my message.		
+GU028S044	1	28	5_Modals 1	ƒgƒ€‚ª©•ª‚Ìs‚«æi‚Ç‚±‚Ös‚Á‚Ä‚¢‚é‚©j‚ğŒ©‚Ä‚¢‚½‚Í‚¸‚ª‚È‚¢B	Tom couldn't have been looking where he was going.		
 GU028S045	1	28	5_Modals 1	”Ş‚ç‚Ì‹x‰É’†‚Í–ˆ“ú‰J‚ª~‚è‚Ü‚µ‚½B ”Ş‚ç‚Í‚Æ‚Ä‚àŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚½‚Í‚¸‚ª‚È‚¢B	It rained every day during their holiday. They can't have had a very nice time.		
 GU028S046	1	28	5_Modals 1	M†‚ÍÔ‚¾‚Á‚½‚ªAÔ‚Í~‚Ü‚ç‚È‚©‚Á‚½B ‰^“]è‚ÍÔM†‚ªŒ©‚¦‚È‚©‚Á‚½‚Í‚¸‚¾B	"The traffic light was red, but the car didn't stop. The driver can't have seen the red light."		
 GU028S047	1	28	5_Modals 1	ƒŒƒCƒ`ƒFƒ‹‚Í„‚ª”Ş—‚É‚µ‚Ä‚Ù‚µ‚¢‚Æ—Š‚ñ‚¾‚±‚Æ‚Ì‹t‚ğ‚µ‚Ü‚µ‚½B ”Ş—‚Í„‚ÌŒ¾‚Á‚½‚±‚Æ‚ğ—‰ğ‚Å‚«‚È‚©‚Á‚½‚Í‚¸‚¾B	Rachel did the opposite of what I asked her to do. She can't have understood what I said.		
 GU028S048	1	28	5_Modals 1	ƒGƒCƒ~[‚Í”ñí‚É¢“ï‚Èó‹µ‚É‚ ‚è‚Ü‚µ‚½B ”Ş—‚É‚Æ‚Á‚Ä‚»‚ê‚ÍŠÈ’P‚È‚±‚Æ‚Å‚Í‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	Amy was in a very difficult situation. It can't have been easy for her.		
-GU028S049	1	28	5_Modals 1	ƒ|[ƒ‹‚Í‚±‚ê‚ç‚ÌŒC‚ğ‰½”N‚à—š‚¢‚Ä‚¢‚Ü‚·‚ªAV•i‚Ì‚æ‚¤‚ÉŒ©‚¦‚Ü‚·B ”Ş‚Í‰½“x‚à‚»‚ê‚ğ’…‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	"Paul has had these shoes for years, but they look new. He can't have worn them many times."		
+GU028S049	1	28	5_Modals 1	ƒ|[ƒ‹‚Í‚±‚ê‚ç‚ÌŒC‚ğ‰½”N‚à‚Á‚Ä‚¢‚Ü‚·‚ªAV•i‚Ì‚æ‚¤‚ÉŒ©‚¦‚Ü‚·B ”Ş‚Í‰½“x‚à‚»‚ê‚ğ—š‚¢‚½‚Æ‚¢‚¤‚Ì‚Í‚ ‚è‚¦‚È‚¢B	"Paul has had these shoes for years, but they look new. He can't have worn them many times."		
 GU028S050	1	28	5_Modals 1	–ŒÌ‚ª‹N‚«‚½‚Æ‚«A„‚Í”ñí‚É‚ä‚Á‚­‚è‰^“]‚µ‚Ä‚¢‚Ü‚µ‚½B ‘¬20ƒ}ƒCƒ‹ˆÈã‚ÌƒXƒs[ƒh‚ğo‚·‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"When the accident happened, I was driving very slowly. I can't have been going faster than 20 miles an hour."		
-GU028S051	1	28	5_Modals 1	A: ‚Æ‚Ä‚à‘‚­‚±‚±‚É’…‚«‚Ü‚µ‚½‚ËB ‚ ‚È‚½‚Í‚Æ‚Ä‚à‘¬‚­‰^“]‚µ‚½‚Éˆá‚¢‚ ‚è‚Ü‚¹‚ñB B: ‚¢‚¢‚¦A‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	"A: You got here very quickly. You must have driven very fast. B: No, I didn't."		
+GU028S051	1	28	5_Modals 1	A: ‚ ‚È‚½‚Í‚Æ‚Ä‚à‘f‘‚­‚±‚±‚É’…‚«‚Ü‚µ‚½‚ËB ‚ ‚È‚½‚Í‚Æ‚Ä‚à‘¬‚­‰^“]‚µ‚½‚Éˆá‚¢‚ ‚è‚Ü‚¹‚ñB B: ‚¢‚¢‚¦A‚µ‚Ä‚Ü‚¹‚ñB	"A: You got here very quickly. You must have driven very fast. B: No, I didn't."		
 GU028S052	1	28	5_Modals 1	A: „‚Ì©“]Ô‚Í‚Ç‚±‚Å‚·‚©H Á‚¦‚Ä‚µ‚Ü‚Á‚½I B: ’N‚©‚ª‚Á‚Äs‚Á‚½‚Éˆá‚¢‚È‚¢B	A: Where's my bike? It's disappeared! B: Somebody must have taken it.		
-GU028S053	1	28	5_Modals 1	A: ‚±‚Ì–@ˆÄ‚ª³‚µ‚¢‚Í‚¸‚Í‚ ‚è‚Ü‚¹‚ñB ‚ ‚Ü‚è‚É‚à‚‚·‚¬‚Ü‚·B B: ‚»‚Ì’Ê‚è‚Å‚·B ƒEƒFƒCƒ^[‚É“`‚¦‚Ä‚¨‚«‚Ü‚·B	A: This bill can't be correct. It's much too high. B: You're right. I'll tell the waiter.		
+GU028S053	1	28	5_Modals 1	A: ‚±‚Ì‘ã‹à‚ª³‚µ‚¢‚Æ‚¢‚¤‚Ì‚Í‚ ‚è‚¦‚È‚¢B ‚ ‚Ü‚è‚É‚à‚‚·‚¬‚Ü‚·B B: ‚»‚Ì’Ê‚è‚Å‚·B ƒEƒFƒCƒ^[‚É“`‚¦‚Ä‚¨‚«‚Ü‚·B	A: This bill can't be correct. It's much too high. B: You're right. I'll tell the waiter.		
 GU028S054	1	28	5_Modals 1	A: ƒTƒ‰‚Í‚æ‚­—·s‚µ‚Ü‚·B B: ‚Í‚¢B ”Ş—‚Í‚½‚­‚³‚ñ‚ÌêŠ‚És‚Á‚½‚Éˆá‚¢‚ ‚è‚Ü‚¹‚ñB	A: Sarah travels a lot. B: Yes. She must have been to lots of places.		
-GU028S055	1	28	5_Modals 1	A: ‚ ‚È‚½‚Íˆê“ú’†ˆê¶Œœ–½“­‚¢‚Ä‚«‚Ü‚µ‚½B ”æ‚ê‚Ä‚¢‚é‚Å‚µ‚åB B: ‚Í‚¢A”æ‚ê‚Ü‚µ‚½B	"A: You've been working hard all day. You must be tired. B: Yes, I'm exhausted."		
+GU028S055	1	28	5_Modals 1	A: ‚ ‚È‚½‚Íˆê“ú’†ˆê¶Œœ–½“­‚¢‚Ä‚«‚Ü‚µ‚½B ”æ‚ê‚Ä‚¢‚é‚Å‚µ‚åB B: ‚Í‚¢A‚­‚½‚­‚½‚Å‚·B	"A: You've been working hard all day. You must be tired. B: Yes, I'm exhausted."		
 GU028S056	1	28	5_Modals 1	A: ’n–Ê‚Í‚Æ‚Ä‚àŠ£‚¢‚Ä‚¢‚Ü‚·B B: ‚Í‚¢AÅ‹ß‰J‚ª~‚Á‚½‚Í‚¸‚ª‚ ‚è‚Ü‚¹‚ñB	"A: The ground is very dry. B: Yes, it can't have rained recently."		
 GU028S057	1	28	5_Modals 1	A: —ˆŒ‚©‚ç‘åŠw‚Å‚Ìö‹Æ‚ªn‚Ü‚è‚Ü‚·B B: ‚»‚ê‚Í‚¢‚¢‚Å‚·‚ËB ‚«‚Á‚ÆŠy‚µ‚İ‚É‚µ‚Ä‚¢‚é‚Í‚¸‚Å‚·B	A: I start my course at university next month. B: That's good. You must be looking forward to it.		
 GU028S058	1	28	5_Modals 1	A: ƒfƒrƒbƒh‚Í‘åŠé‹Æ‚Ìí–±æ’÷–ğ‚Å‚·B B: ”Ş‚Å‚·‚©H ‚»‚¤‚·‚ê‚Î”Ş‚Í‚©‚È‚è‚‚¢‹‹—¿‚ğ‚à‚ç‚Á‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	A: David is the managing director of a large company. B: Is he? He must get quite a high salary then.		
@@ -1696,14 +1696,14 @@ GU029S016	1	29	5_Modals 1	Ô‚É‰½‚©–â‘è‚ª‚ ‚è‚Ü‚·B ƒuƒŒ[ƒL‚É–â‘è‚ª‚ ‚é‰Â”\«‚ª‚
 GU029S017	1	29	5_Modals 1	‚µ[I ‚»‚ñ‚È‚É‘åº‚Å˜b‚³‚È‚¢‚Å‚­‚¾‚³‚¢B ’N‚©‚ª„‚½‚¿‚Ì˜b‚ğ•·‚¢‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Shh! Don't talk so loud. Somebody might be listening to us.		
 GU029S018	1	29	5_Modals 1	ƒX[‚ğƒp[ƒeƒB[‚Éµ‘Ò‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚·‚ªA”Ş—‚Ís‚«‚½‚­‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"We can invite Sue to the party, but she may not want to come."		
 GU029S019	1	29	5_Modals 1	ƒzƒeƒ‹‚ª‚Ç‚±‚É‚ ‚é‚Ì‚©‚í‚©‚è‚Ü‚¹‚ñB ‰w‚ÌŒü‚©‚¢‘¤‚É‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I'm not sure where the hotel is. It might be opposite the station.		
-GU029S020	1	29	5_Modals 1	”Ş‚ª‚Ç‚ñ‚ÈŠç‚ğ‚µ‚Ä‚¢‚é‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB ”Ş‚ÍŠá‹¾‚ğ‚©‚¯‚Ä‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚µA‚©‚¯‚Ä‚¢‚È‚¢‚©‚à‚µ‚ê‚È‚¢B	I don't know what he looks like. He might wear glasses or he might not.		
+GU029S020	1	29	5_Modals 1	”Ş‚ª‰½‚Ì‚æ‚¤‚ÉŒ©‚¦‚é‚Ì‚©‚ª•ª‚©‚è‚Ü‚¹‚ñB ”Ş‚ÍŠá‹¾‚ğ‚©‚¯‚Ä‚¢‚é‚©‚à‚µ‚ê‚È‚¢‚µA‚©‚¯‚Ä‚¢‚È‚¢‚©‚à‚µ‚ê‚È‚¢B	I don't know what he looks like. He might wear glasses or he might not.		
 GU029S021	1	29	5_Modals 1	A: ƒPƒCƒg‚Í‚È‚º“d˜b‚Éo‚È‚©‚Á‚½‚Ì‚Å‚µ‚å‚¤B B: ”Ş—‚Í–°‚Á‚Ä‚¢‚½‚©‚à‚µ‚ê‚È‚¢B	A: I wonder why Kate didn't answer her phone. B: She may have been asleep.		
-GU029S022	1	29	5_Modals 1	A: Œg‘Ñ“d˜b‚ª‚Ç‚±‚É‚àŒ©‚Â‚©‚è‚Ü‚¹‚ñB B: Eê‚É–Y‚ê‚Ä‚µ‚Ü‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: I can't find my phone anywhere. B: You might have left it at work.		
+GU029S022	1	29	5_Modals 1	A: Œg‘Ñ“d˜b‚ª‚Ç‚±‚É‚àŒ©‚Â‚©‚è‚Ü‚¹‚ñB B: Eê‚Éid–‚Åj’u‚«–Y‚ê‚Ä‚µ‚Ü‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: I can't find my phone anywhere. B: You might have left it at work.		
 GU029S023	1	29	5_Modals 1	A: ƒGƒCƒ~[‚Í‚È‚ºğ“ú‚Ì‰ï‹c‚É—ˆ‚È‚©‚Á‚½‚Ì‚Å‚·‚©? B: ”Ş—‚Í‚»‚ê‚É‚Â‚¢‚Ä’m‚ç‚È‚©‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: Why wasn't Amy at the meeting yesterday? B: She might not have known about it.		
 GU029S024	1	29	5_Modals 1	A: ğ“úAƒfƒCƒrƒbƒh‚Í‚È‚º‚ ‚ñ‚È‚É‹@Œ™‚ªˆ«‚©‚Á‚½‚Ì‚Å‚µ‚å‚¤B B: ‘Ì’²‚ªˆ«‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: I wonder why David was in such a bad mood yesterday. B: He may not have been feeling well.		
-GU029S025	1	29	5_Modals 1	A: ƒPƒCƒg‚Í¡‚à‘O‚Æ“¯‚¶êŠ‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş—‚Íˆø‚Á‰z‚µ‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: Does Kate still live in the same place as before? B: I'm not sure. She may have moved.		
-GU029S026	1	29	5_Modals 1	A: –ŒÌ‚Í‚Ç‚¤‚â‚Á‚Ä‹N‚«‚½‚Ì‚Å‚·‚©? B: ‚½‚Ô‚ñAƒXƒs[ƒh‚ğo‚µ‚·‚¬‚½‚Ì‚¾‚Æv‚¢‚Ü‚·B	A: How did the accident happen? B: I think I might have been driving too fast.		
-GU029S027	1	29	5_Modals 1	A: ƒWƒ‡ƒ“‚Í‚Ç‚¤‚µ‚Ä„‚ªE‚ğ¸‚Á‚½‚±‚Æ‚ğ’m‚Á‚½‚Ì‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ƒTƒ€‚Í”Ş‚É‚»‚¤Œ¾‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢‚Æv‚¢‚Ü‚·B	A: How did John know that I'd lost my job? B: I don't know. I suppose Sam might have told him.		
+GU029S025	1	29	5_Modals 1	A: ƒPƒCƒg‚Í‚Ü‚¾ˆÈ‘O‚Æ“¯‚¶êŠ‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş—‚Íˆø‚Á‰z‚µ‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: Does Kate still live in the same place as before? B: I'm not sure. She may have moved.		
+GU029S026	1	29	5_Modals 1	A: –ŒÌ‚Í‚Ç‚¤‚â‚Á‚Ä‹N‚«‚½‚Ì‚Å‚·‚©? B: „‚ÍƒXƒs[ƒh‚ğo‚µ‚·‚¬‚½‚Ì‚©‚à‚µ‚ê‚È‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	A: How did the accident happen? B: I think I might have been driving too fast.		
+GU029S027	1	29	5_Modals 1	A: ƒWƒ‡ƒ“‚Í‚Ç‚¤‚â‚Á‚Ä„‚ªE‚ğ¸‚Á‚½‚±‚Æ‚ğ’m‚Á‚½‚Ì‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ƒTƒ€‚ª”Ş‚É“`‚¦‚½‚©‚à‚µ‚ê‚È‚¢‚Æv‚¢‚Ü‚·B	A: How did John know that I'd lost my job? B: I don't know. I suppose Sam might have told him.		
 GU029S028	1	29	5_Modals 1	A: ƒgƒ€‚Íƒp[ƒeƒB[‚Éµ‘Ò‚³‚ê‚½‚Ì‚ÉA‚È‚º—ˆ‚È‚©‚Á‚½‚Ì‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş‚Í—ˆ‚½‚­‚È‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	"A: Tom was invited to the party, so why wasn't he there? B: I don't know. He might not have wanted to come."		
 GU029S029	1	29	5_Modals 1	A: ğ“úƒAƒ“ƒi‚Æˆê‚É‚¢‚½’j«‚Í’N‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ‚»‚ê‚Í”Ş—‚Ì’í‚¾‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: Who was the man we saw with Anna yesterday? B: I don't know. It may have been her brother.		
 GU029S030	1	29	5_Modals 1	A: ”Ş‚ç‚ÌŒ¾‚Á‚½‚±‚Æ‚ğM‚¶‚Ü‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş‚ç‚Í‰R‚ğ‚Â‚¢‚Ä‚¢‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: Do you believe what they said? B: I'm not sure. They might have been lying.		
@@ -1712,18 +1712,18 @@ GU029S032	1	29	5_Modals 1	A: ƒX[‚Í‚Ç‚±‚Å‚·‚©H ”Ş—‚Í‰½‚ğ‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©H B: 
 GU029S033	1	29	5_Modals 1	A: ƒGƒŠ[‚Í‚±‚±‚É‚¢‚é‚Ì? B: ”Ş—‚Ìp‚ªŒ©‚¦‚Ü‚¹‚ñB ”Ş—‚Í‚Ü‚¾“’…‚µ‚Ä‚¢‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: Is Ellie here? B: I can't see her. She may not have arrived yet.		
 GU029S034	1	29	5_Modals 1	A: ‚±‚ÌHŠí’I‚ÌŒ®‚ğ‚Á‚Ä‚¢‚Ü‚·‚©? B: Œ©‚Ä‚İ‚Ü‚·B‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: Do you have a key to this cupboard? B: I'll have a look.I might have one.		
 GU029S035	1	29	5_Modals 1	A: P‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñB Œ©‚½‚±‚Æ‚ ‚è‚Ü‚·‚©H B: ğ–éƒŒƒXƒgƒ‰ƒ“‚É–Y‚ê‚Ä‚«‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: I can't find my umbrella. Have you seen it? B: You may have left it in the restaurant last night.		
-GU029S036	1	29	5_Modals 1	A: ƒQƒCƒŠ[‚ÍƒJƒtƒF‚Å‰ï‚¦‚é‚ÆŒ¾‚Á‚Ä‚¢‚½‚¯‚ÇA‚±‚±‚É‚Í‚¢‚È‚¢‚æB B: ”Ş‚ÍŠO‚Å‘Ò‚Á‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB s‚Á‚ÄŒ©‚Ü‚·B	"A: Gary said he would meet us in the cafe, but he isn't here. B: He might be waiting outside. I'll go and look."		
+GU029S036	1	29	5_Modals 1	A: ƒQƒCƒŠ[‚ÍƒJƒtƒF‚Å‰ï‚¨‚¤‚ÆŒ¾‚Á‚Ä‚¢‚½‚ªA”Ş‚Í‚±‚±‚É‚¢‚È‚¢B B: ”Ş‚ÍŠO‚Å‘Ò‚Á‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB s‚Á‚ÄŒ©‚Ä‚İ‚Ü‚·B	"A: Gary said he would meet us in the cafe, but he isn't here. B: He might be waiting outside. I'll go and look."		
 GU029S037	1	29	5_Modals 1	A: ƒnƒ“ƒi‚Í‚±‚±‚Å„‚½‚¿‚Æ‰ï‚¤‚±‚Æ‚É‚È‚Á‚Ä‚¢‚Ü‚·‚ªA‚·‚Å‚É 20 •ª’x‚ê‚Ä‚¢‚Ü‚·B B: ”Ş—‚Í–Y‚ê‚Ä‚µ‚Ü‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B ”Ş—‚Í‚¢‚Â‚à–Y‚ê•¨‚ğ‚µ‚Ü‚·B	"A: Hannah is supposed to meet us here, and she's already 20 minutes late. B: She may have forgotten . She's always forgetting things."		
 GU029S038	1	29	5_Modals 1	A: ƒ_ƒ“‚ÌƒhƒAƒxƒ‹‚ğ–Â‚ç‚µ‚Ü‚µ‚½‚ªA‰“š‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B Šm‚©‚»‚±‚É‚¢‚½‚Æv‚¢‚Ü‚·B B: ”Ş‚Íƒxƒ‹‚ğ•·‚¢‚Ä‚¢‚È‚©‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"A: I rang Dan's doorbell, but he didn't answer. I'm sure he was there. B: He might not have heard the bell."		
 GU029S039	1	29	5_Modals 1	Šï–­‚È˜b‚Å‚·‚ªA–{“–‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"It's a strange story, but it may be true."	"It's a strange story, but it might be true."	"It's a strange story, but it could be true."
-GU029S040	1	29	5_Modals 1	Œg‘Ñ“d˜b‚ğEê‚É–Y‚ê‚Ä‚µ‚Ü‚Á‚½‰Â”\«‚ª‚ ‚è‚Ü‚·B	You may have left your phone at work.	You might have left your phone at work.	You could have left your phone at work.
-GU029S041	1	29	5_Modals 1	ƒTƒ‰‚Í„‚ÌƒƒbƒZ[ƒW‚ğóM‚Å‚«‚È‚©‚Á‚½‚Å‚µ‚å‚¤B ‚»‚¤‚Å‚È‚¯‚ê‚Î”Ş—‚Í‚±‚¤“š‚¦‚½‚¾‚ë‚¤B	Sarah couldn't have received my message. Otherwise she would have replied.		
+GU029S040	1	29	5_Modals 1	Œg‘Ñ“d˜b‚ğEê‚Éid–’†‚Éj’u‚«–Y‚ê‚Ä‚µ‚Ü‚Á‚½‰Â”\«‚ª‚ ‚è‚Ü‚·B	You may have left your phone at work.	You might have left your phone at work.	You could have left your phone at work.
+GU029S041	1	29	5_Modals 1	ƒTƒ‰‚Í„‚ÌƒƒbƒZ[ƒW‚ğóM‚Å‚«‚È‚©‚Á‚½‚Å‚µ‚å‚¤B ‚»‚¤‚Å‚È‚¯‚ê‚Î”Ş—‚Í•ÔM‚µ‚½‚¾‚ë‚¤B	Sarah couldn't have received my message. Otherwise she would have replied.		
 GU029S042	1	29	5_Modals 1	‚È‚ºƒTƒ‰‚ª„‚ÌƒƒbƒZ[ƒW‚É•ÔM‚µ‚È‚¢‚Ì‚¾‚ë‚¤‚©B ”Ş—‚Í‚»‚ê‚ğó‚¯æ‚ç‚È‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢‚Æv‚¢‚Ü‚·B	I wonder why Sarah hasn't replied to my message. I suppose she might not have received it.		
 GU029S043	1	29	5_Modals 1	A: ƒGƒCƒ~[‚ª‰ï‹c‚É‚¢‚È‚©‚Á‚½‚Ì‚É‚Í‹Á‚«‚Ü‚µ‚½B ‚¨‚»‚ç‚­”Ş—‚Í‚»‚Ì‚±‚Æ‚ğ’m‚ç‚È‚©‚Á‚½‚Ì‚Å‚µ‚å‚¤B B: ‚»‚ê‚Í‰Â”\‚Å‚·B ”Ş—‚Í‚»‚Ì‚±‚Æ‚ğ’m‚ç‚È‚©‚Á‚½‚©‚à‚µ‚ê‚È‚¢B	A: I was surprised Amy wasn't at the meeting. Perhaps she didn't know about it. B: That's possible. She might not have known about it.		
-GU029S044	1	29	5_Modals 1	A: ‚È‚º”Ş‚ç‚Íƒ[ƒ‹‚É•ÔM‚µ‚È‚¢‚Ì‚¾‚ë‚¤‚©B ”Ş‚ç‚Í‚»‚ê‚ğó‚¯æ‚Á‚½‚Æv‚¢‚Ü‚·‚©H B: ‚»‚¤‚¶‚á‚È‚¢‚©‚à‚µ‚ê‚È‚¢B ”Ş‚ç‚Í‚»‚ê‚ğó‚¯æ‚ç‚È‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: I wonder why they haven't replied to the email. Do you think they received it? B: Maybe not. They might not have received it.		
+GU029S044	1	29	5_Modals 1	A: ‚È‚º”Ş‚ç‚Íƒ[ƒ‹‚É•ÔM‚µ‚Ä‚¢‚È‚¢‚Ì‚¾‚ë‚¤‚©B ”Ş‚ç‚ÍóM‚µ‚½‚Æv‚¢‚Ü‚·‚©H B: ‘½•ª‚È‚¢B ”Ş‚ç‚ÍóM‚µ‚È‚©‚Á‚½‚Ì‚©‚à‚µ‚ê‚È‚¢B	A: I wonder why they haven't replied to the email. Do you think they received it? B: Maybe not. They might not have received it.		
 GU029S045	1	29	5_Modals 1	A: ‚Ç‚¤‚â‚Á‚Ä‰ÎĞ‚ª‹N‚«‚½‚ñ‚¾‚ë‚¤‚ËB –ŒÌ‚¾‚Á‚½‚Ì‚©H B: ‚¢‚¢‚¦AŒx@‚Í–ŒÌ‚Å‚Í‚ ‚è‚¦‚È‚¢‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·B	"A: I wonder how the fire started. Was it an accident? B: No, the police say it couldn't have been an accident."		
-GU029S046	1	29	5_Modals 1	A: ƒ}ƒCƒN‚ª‚ ‚È‚½‚É‰ï‚¢‚½‚¢‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·B ”Ş‚Íğ“ú‚ ‚È‚½‚ğŒ©‚Â‚¯‚æ‚¤‚Æ‚µ‚Ü‚µ‚½B B: ‚»‚¤‚Å‚·‚ËA”Ş‚Í‚ ‚Ü‚è“w—Í‚Å‚«‚È‚©‚Á‚½‚Å‚µ‚å‚¤‚ËB „‚Íˆê“ú’†ƒIƒtƒBƒX‚É‚¢‚Ü‚µ‚½B	"A: Mike says he needs to see you. He tried to find you yesterday. B: Well, he couldn't have tried very hard. I was in my office all day."		
-GU029S047	1	29	5_Modals 1	A: ‚ ‚È‚½‚ª˜b‚µ‚½’j«‚ÍŠm‚©ƒAƒƒŠƒJl‚Å‚µ‚½‚©H B: ‚¢‚¢‚¦A‚í‚©‚è‚Ü‚¹‚ñB ”Ş‚ÍƒAƒƒŠƒJl‚Å‚Í‚È‚©‚Á‚½‚©‚à‚µ‚ê‚È‚¢B	"A: The man you spoke to - are you sure he was American? B: No, I'm not sure. He might not have been American."		
+GU029S046	1	29	5_Modals 1	A: ƒ}ƒCƒN‚ª‚ ‚È‚½‚É‰ï‚¤•K—v‚ª‚ ‚é‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·B ”Ş‚Íğ“ú‚ ‚È‚½‚ğŒ©‚Â‚¯‚æ‚¤‚Æ‚µ‚Ü‚µ‚½B B: ‚»‚¤‚Å‚·‚ËA”Ş‚Í‚ ‚Ü‚è”MS‚É‚µ‚æ‚¤‚Æ‚µ‚È‚©‚Á‚½‚Í‚¸‚¾B „‚Íˆê“ú’†ƒIƒtƒBƒX‚É‚¢‚Ü‚µ‚½B	"A: Mike says he needs to see you. He tried to find you yesterday. B: Well, he couldn't have tried very hard. I was in my office all day."		
+GU029S047	1	29	5_Modals 1	A: ‚ ‚È‚½‚ª˜b‚µ‚½’j« - ”Ş‚ªƒAƒƒŠƒJl‚¾‚Á‚½‚Ì‚ÍŠm‚©‚Å‚·‚©H B: ‚¢‚¢‚¦A‚í‚©‚è‚Ü‚¹‚ñB ”Ş‚ÍƒAƒƒŠƒJl‚Å‚Í‚È‚©‚Á‚½‚©‚à‚µ‚ê‚È‚¢B	"A: The man you spoke to - are you sure he was American? B: No, I'm not sure. He might not have been American."		
 GU029S048	1	29	5_Modals 1	A: ‚»‚Ì˜b‚Í–{“–‚¾‚Æv‚¢‚Ü‚·‚©? B: ‚½‚Ô‚ñ‚ËB	A: Do you think the story is true? B: Maybe.		
 GU029S049	1	29	5_Modals 1	A: ”Ş‚ç‚Í‚Ç‚±‚Ös‚Á‚½‚Ì‚Å‚·‚©? B: ‚¨‚»‚ç‚­”Ş‚ç‚Í‰Æ‚É‹A‚Á‚½‚Å‚µ‚å‚¤B	A: Where did they go? B: Maybe they went home.		
 GU029S050	1	29	5_Modals 1	‚»‚Ì˜b‚Í–{“–‚©‚à‚µ‚ê‚È‚¢B	The story may be true.		
@@ -1740,14 +1740,14 @@ GU030S009	1	30	5_Modals 1	Œã‚Åo‚©‚¯‚é‚©‚à’m‚ê‚Ü‚¹‚ñB	I might go out later.
 GU030S010	1	30	5_Modals 1	A: ‹x‰É‚É‚Í‚Ç‚±‚Ös‚«‚Ü‚·‚©? B: ‚Ü‚¾Œˆ‚ß‚Ä‚È‚¢‚Å‚·B ƒXƒyƒCƒ“‚És‚­‚©‚à’m‚ê‚Ü‚¹‚ñB	A: Where are you going for your holidays? B: I haven't decided yet. I might go to Spain.		
 GU030S011	1	30	5_Modals 1	A: ‚Ç‚Ì‚æ‚¤‚ÈÔ‚ğ”ƒ‚¢‚½‚¢‚©Œˆ‚ß‚Ü‚µ‚½‚©? B: ‚Í‚¢AÔ‚¢ƒXƒ|[ƒcƒJ[‚ğ”ƒ‚¤‚Â‚à‚è‚Å‚·B	"A: Have you decided what sort of car you want to buy? B: Yes, I'm going to get a red sports car."		
 GU030S012	1	30	5_Modals 1	A: ƒgƒ€‚Í‚¢‚Â„‚½‚¿‚É‰ï‚¢‚É—ˆ‚Ü‚·‚©? B: ”Ş‚Í‚Ü‚¾Œ¾‚Á‚Ä‚¢‚Ü‚¹‚ñB ”Ş‚Í“ú—j“ú‚É—ˆ‚é‚©‚à‚µ‚ê‚È‚¢B	A: When is Tom coming to see us? B: He hasn't said yet. He might come on Sunday.		
-GU030S013	1	30	5_Modals 1	A: ‚»‚ÌÊ^‚ğ‚Ç‚±‚É’u‚­‚Â‚à‚è‚Å‚·‚©? B: ‚Ü‚¾•ª‚©‚è‚Ü‚¹‚ñB Qº‚É’İ‚é‚µ‚Ä‚¨‚±‚¤‚©‚ÈB	A: Where are you going to put that picture? B: I don't know yet. I might hang it in the bedroom.		
+GU030S013	1	30	5_Modals 1	A: ‚»‚ÌÊ^‚ğ‚Ç‚±‚É’u‚­‚Â‚à‚è‚Å‚·‚©? B: ‚Ü‚¾•ª‚©‚è‚Ü‚¹‚ñB Qº‚É’İ‚é‚·‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: Where are you going to put that picture? B: I don't know yet. I might hang it in the bedroom.		
 GU030S014	1	30	5_Modals 1	A: ‰½‚ğH‚×‚é‚©Œˆ‚ß‚Ü‚µ‚½‚©H B: ‚Í‚¢AƒsƒU‚ğH‚×‚Ü‚·B	"A: Have you decided what you're going to eat? B: Yes, I'm going to have a pizza."		
 GU030S015	1	30	5_Modals 1	A: ƒ^[ƒjƒƒ‚ÍŠwZ‚ğ«‚ß‚½‚ç‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©? ”Ş—‚Í‚à‚¤’m‚Á‚Ä‚¢‚Ü‚·‚©H B: ‚Í‚¢A”Ş—‚ÍŒˆ‚ß‚Ü‚µ‚½B ”Ş—‚Í‘åŠw‚É’Ê‚Á‚Ä‚¢‚Ü‚·B	"A: What's Tanya going to do when she leaves school? Does she know yet? B: Yes, she's decided. She's going to university."		
-GU030S016	1	30	5_Modals 1	A: T––‚É‰½‚©—\’è‚Í‚ ‚è‚Ü‚·‚©? B: ‰½‚àC³‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB s‚Á‚Ä‚µ‚Ü‚¤‚©‚à’m‚ê‚Ü‚¹‚ñB Œ©‚Ä‚İ‚Ü‚µ‚å‚¤B	A: Do you have any plans for the weekend? B: Nothing fixed. I might go away. We'll see.		
-GU030S017	1	30	5_Modals 1	A: Œ‹¥®‚Ì“úæ‚è‚Í‚à‚¤Œˆ‚Ü‚è‚Ü‚µ‚½‚©H B: ‚Í‚¢A9Œ5“ú‚ÉŒ‹¥‚µ‚Ü‚·B	"A: Has the wedding date been fixed yet? B: Yes, we're getting married on 5 September."		
+GU030S016	1	30	5_Modals 1	A: T––‚É‰½‚©—\’è‚Í‚ ‚è‚Ü‚·‚©? B: ‰½‚àŒˆ‚Ü‚Á‚Ä‚Ü‚¹‚ñB ‚Å‚©‚¯‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB ‚»‚Ì‚¤‚¿‚í‚©‚é‚æB	A: Do you have any plans for the weekend? B: Nothing fixed. I might go away. We'll see.		
+GU030S017	1	30	5_Modals 1	A: Œ‹¥®‚Ì“ú•t‚Í‚à‚¤Œˆ‚Ü‚è‚Ü‚µ‚½‚©H B: ‚Í‚¢A9Œ5“ú‚ÉŒ‹¥‚µ‚Ü‚·B	"A: Has the wedding date been fixed yet? B: Yes, we're getting married on 5 September."		
 GU030S018	1	30	5_Modals 1	‚ ‚Ü‚è‘›‚ª‚È‚¢‚Å‚­‚¾‚³‚¢B Ô‚¿‚á‚ñ‚ğ‹N‚±‚µ‚Ä‚µ‚Ü‚¤‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Don't make too much noise. You might wake the baby.		
-GU030S019	1	30	5_Modals 1	‚ ‚ÌŒ¢‚É‚Í‹C‚ğ‚Â‚¯‚ÄB Šš‚Ü‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Be careful of that dog. It might bite you.		
-GU030S020	1	30	5_Modals 1	‚»‚ñ‚È‚É‘åº‚Å˜b‚³‚È‚¢‚Å‚­‚¾‚³‚¢B ’N‚©‚ª‚ ‚È‚½‚Ìº‚ğ•·‚¢‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Don't talk so loud. Somebody might hear you.		
+GU030S019	1	30	5_Modals 1	‚ ‚ÌŒ¢‚É‚Í‹C‚ğ‚Â‚¯‚ÄB ‚ ‚È‚½‚ğŠš‚Ş‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Be careful of that dog. It might bite you.		
+GU030S020	1	30	5_Modals 1	‚»‚ñ‚È‚É‘åº‚Å’‚ç‚È‚¢‚Å‚­‚¾‚³‚¢B ’N‚©‚ª‚ ‚È‚½‚Ìº‚ğ•·‚¢‚Ä‚¢‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Don't talk so loud. Somebody might hear you.		
 GU030S021	1	30	5_Modals 1	‹C‚ğ‚Â‚¯‚ÄB •à“¹‚ª“€‚Á‚Ä‚Ü‚·B ŠŠ‚Á‚Ä‚µ‚Ü‚¤‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Be careful. The footpath is icy. You might slip.		
 GU030S022	1	30	5_Modals 1	Œg‘Ñ“d˜b‚ğ–Y‚ê‚È‚¢‚Å‚­‚¾‚³‚¢B ’N‚©‚É“d˜b‚·‚é•K—v‚ª‚ ‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Don't forget your phone. You might need to call somebody.		
 GU030S023	1	30	5_Modals 1	ƒR[ƒq[‚É‚Í‹C‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B ‚±‚Ú‚µ‚Ä‚µ‚Ü‚¤‚©‚à’m‚ê‚Ü‚¹‚ñB	Be careful with your coffee. You might spill it.		
@@ -1756,14 +1756,14 @@ GU030S025	1	30	5_Modals 1	‚»‚Ì‰s‚¢ƒiƒCƒt‚É‚Í‹C‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B g‚ğØ‚é‚©‚à‚µ‚
 GU030S026	1	30	5_Modals 1	‰ï‚¦‚é‚©‚Ç‚¤‚©•ª‚©‚è‚Ü‚¹‚ñB ŠÔ‚ª‚È‚¢‚©‚à‚µ‚ê‚È‚¢B	I don't know if I'll be able to meet you. I might not have time.		
 GU030S027	1	30	5_Modals 1	‰ï‹c‚É‚ÍoÈ‚Å‚«‚Ü‚·‚ªAI—¹‘O‚É‘ŞÈ‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‰Â”\«‚ª‚ ‚è‚Ü‚·B	"I can come to the meeting, but I might have to leave before the end."		
 GU030S028	1	30	5_Modals 1	‚ ‚È‚½‚Ì–â‘è‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚¾‚³‚¢B ‚¨è“`‚¢‚Å‚«‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Tell me about your problem. I may be able to help.		
-GU030S029	1	30	5_Modals 1	ƒ}[ƒeƒBƒ“‚Æ‚Í’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB „‚Í”Ş‚ğ”F¯‚Å‚«‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I haven't seen Martin for a long time. I might not recognise him.		
+GU030S029	1	30	5_Modals 1	ƒ}[ƒeƒBƒ“‚Æ‚Í’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB „‚Í”Ş‚ğ”F¯‚µ‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I haven't seen Martin for a long time. I might not recognise him.		
 GU030S030	1	30	5_Modals 1	’·‚¢s—ñ‚ª‚Å‚«‚Ä‚¢‚Ü‚·B ‚©‚È‚è’·‚¢ŠÔ‘Ò‚½‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	There's a long queue. We might have to wait quite a long time.		
 GU030S031	1	30	5_Modals 1	ƒp[ƒeƒB[‚Éµ‘Ò‚³‚ê‚Ü‚µ‚½‚ªAs‚©‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"I've been invited to the party, but I might not go."		
 GU030S032	1	30	5_Modals 1	‡‚És‚«‚½‚¢‚Ì‚Å‚·‚ªAƒ`ƒPƒbƒg‚ªè‚É“ü‚ç‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"We want to go to the game, but we may not be able to get tickets."		
-GU030S033	1	30	5_Modals 1	‚±‚Ì’“Ôê‚ª–³—¿‚©‚Ç‚¤‚©‚Í‚í‚©‚è‚Ü‚¹‚ñB x•¥‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢ê‡‚ª‚ ‚è‚Ü‚·B	I'm not sure if this car park is free. We may have to pay.		
+GU030S033	1	30	5_Modals 1	‚±‚Ì’“Ôê‚ª–³—¿‚©‚Ç‚¤‚©‚Í‚í‚©‚è‚Ü‚¹‚ñB ‰äX‚Íx•¥‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I'm not sure if this car park is free. We may have to pay.		
 GU030S034	1	30	5_Modals 1	ƒAƒCƒ‹ƒ‰ƒ“ƒh‚És‚­‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I may go to Ireland.	I might go to Ireland.	
-GU030S035	1	30	5_Modals 1	ƒWƒF[ƒ“‚ª‚ ‚È‚½‚ğ•‚¯‚Ä‚­‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Jane might be able to help you.	Jane may be able to help you.	
-GU030S036	1	30	5_Modals 1	‚à‚µ”Ş‚ç‚Ì‹‹—¿‚ª‚à‚Á‚Æ‚‚©‚Á‚½‚çA‚à‚Á‚ÆŠæ’£‚ê‚é‚©‚à’m‚ê‚Ü‚¹‚ñB	"If they paid me better, I might work harder."		
+GU030S035	1	30	5_Modals 1	ƒWƒF[ƒ“‚ª‚ ‚È‚½‚ğ•‚¯‚ç‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Jane might be able to help you.	Jane may be able to help you.	
+GU030S036	1	30	5_Modals 1	‚à‚µ”Ş‚ç‚ª„‚É‚à‚Á‚Æ•¥‚Á‚Ä‚­‚ê‚½‚çA‚à‚Á‚ÆŠæ’£‚ê‚½‚©‚à’m‚ê‚Ü‚¹‚ñB	"If they paid me better, I might work harder."		
 GU030S037	1	30	5_Modals 1	Å‹ß‚Í‚ ‚Ü‚è©—R‚ÈŠÔ‚ª‚ ‚è‚Ü‚¹‚ñB ‚à‚Á‚ÆŠÔ‚ª‚ ‚ê‚ÎA—¿—‚Ìd•û‚ğŠw‚Ô‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"I don't have much free time these days. If I had more time, I might learn how to cook."		
 GU030S038	1	30	5_Modals 1	„‚Ì”é–§‚ğ‚ ‚È‚½‚É’m‚ç‚ê‚½‚­‚È‚¢‚Ì‚Å‚·B „‚ª‚ ‚È‚½‚É˜b‚µ‚½‚çA‚ ‚È‚½‚Í‘¼‚Ìl‚ÉŒ¾‚¤‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"I don't want you to know my secret. If I told you, you might tell somebody else."		
 GU030S039	1	30	5_Modals 1	\•ª‚Èî•ñ‚ª‚ ‚è‚Ü‚¹‚ñB ‚à‚Á‚ÆÚ‚µ‚¢î•ñ‚ğ‹³‚¦‚Ä‚¢‚½‚¾‚¯‚ê‚ÎA‚¨è“`‚¢‚Å‚«‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"I don't have enough information. If you gave me more information, I might be able to help you."		
@@ -1782,78 +1782,12 @@ GU030S051	1	30	5_Modals 1	A: Å‹ßƒTƒ‰‚É‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚©? B: ‚¢‚¢‚¦A‚Å‚à—ˆ
 GU030S052	1	30	5_Modals 1	A: „‚½‚¿‚Í‚à‚Á‚Æ‘å‚«‚È‰Æ‚ğ’T‚µ‚Ä‚¢‚Ü‚·B „‚½‚¿‚Í‚·‚®‚Éˆø‚Á‰z‚µ‚·‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	A: We've been looking for a larger house. We may be moving soon.		
 GU030S053	1	30	5_Modals 1	B: –{“–‚Å‚·‚©H ‚à‚¤‰½‚©Œ©‚Â‚¯‚Ü‚µ‚½‚©H	B: Really? Have you found something already?		
 GU030S054	1	30	5_Modals 1	A: ‰½‚Éo‚©‚¯‚é—\’è‚Å‚·‚©? B: ‚»‚¤‚Å‚·‚ËA€”õ‚Í‚Å‚«‚Ä‚¢‚Ü‚·‚Ì‚ÅA‚à‚¤s‚Á‚Ä‚à‚¢‚¢‚Å‚µ‚å‚¤‚©B	"A: What time are you going out? B: Well, I'm ready, so I might as well go now."	"B: Well, I'm ready, so I may as well go now."	
-GU030S055	1	30	5_Modals 1	Å‹ßƒoƒX‚Í‚Æ‚Ä‚à‚‚¢‚Ì‚ÅAƒ^ƒNƒV[‚ğg‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"Buses are so expensive these days, you might as well get a taxi."		
-GU030S056	1	30	5_Modals 1	”„‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚©‚à‚ËB	I might as well sell it.		
-GU030S057	1	30	5_Modals 1	¡‚·‚®o”­‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	We might as well leave now.		
-GU030S058	1	30	5_Modals 1	„‚à‹N‚«‚½‚Ù‚¤‚ª‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I might as well get up.		
-GU030S059	1	30	5_Modals 1	V‚µ‚¢‚Ì‚ğ”ƒ‚Á‚Ä‚à‚¢‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB	I might as well buy a new one.		
-GU030S060	1	30	5_Modals 1	ƒoƒXƒ‹[ƒ€‚à“h‘•‚µ‚Ä‚İ‚æ‚¤‚©‚ÈB	We might as well paint the bathroom too.		
-GU031S001	1	31	5_Modals 1	„‚½‚¿‚Ìƒzƒeƒ‹‚©‚çŒÎ‚ªŒ©‚¦‚Ü‚·B	We can see the lake from our hotel.		
-GU031S002	1	31	5_Modals 1	ƒyƒ“‚ğ‚¨‚¿‚Å‚È‚¢ê‡‚ÍA„‚Ìƒyƒ“‚ğg‚Á‚Ä‚­‚¾‚³‚¢B	"If you don't have a pen, you can use mine."		
-GU031S003	1	31	5_Modals 1	‚à‚µ‚æ‚©‚Á‚½‚çA–¾“ú‰ï‚¢‚É—ˆ‚Ä‚à‚¢‚¢‚æB	I can come and see you tomorrow if you like.		
-GU031S004	1	31	5_Modals 1	u–²v‚Æ‚¢‚¤Œ¾—t‚Í–¼Œ‚Å‚à“®Œ‚Å‚à\‚¢‚Ü‚¹‚ñB	The word 'dream' can be a noun or a verb.		
-GU031S005	1	31	5_Modals 1	‚ ‚È‚½‚Í‰½‚©ŠO‘Œê‚ğ˜b‚¹‚Ü‚·‚©H	Can you speak any foreign languages?		
-GU031S006	1	31	5_Modals 1	‹à—j“ú‚Ìƒp[ƒeƒB[‚É‚Ís‚¯‚Ü‚¹‚ñB	I can't come to the party on Friday.		
-GU031S007	1	31	5_Modals 1	‹}‚¢‚Å‚¢‚Ü‚¹‚ñB „‚Í‘Ò‚Â‚±‚Æ‚ª‚Å‚«‚éB	I'm in no hurry. I can wait.		
-GU031S008	1	31	5_Modals 1	”Ş‚ç‚Í‹x‰É‚É‚Ís‚©‚È‚¢‚ñ‚Å‚·B ”Ş‚ç‚É‚Í‚»‚ê‚ğ”ƒ‚¤—]—T‚ª‚È‚¢‚Ì‚Å‚·B	They're not going on holiday. They can't afford it.		
-GU031S009	1	31	5_Modals 1	‚Ç‚¿‚ç‚ÌƒWƒƒƒPƒbƒg‚à‘f“G‚Å‚·‚ËB ‚Ç‚ê‚ğ”ƒ‚¤‚©Œˆ‚ß‚ç‚ê‚Ü‚¹‚ñB	Both these jackets are nice. I can't decide which one to buy.		
-GU031S010	1	31	5_Modals 1	ƒƒo[ƒg‚Í—Ç‚¢º‚ğ‚Á‚Ä‚¢‚Ü‚·B ”Ş‚Í‚Æ‚Ä‚àãè‚É‰Ì‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Robert has a good voice. He can sing very well.		
-GU031S011	1	31	5_Modals 1	”Ş‚ç‚Í”ñí‚ÉˆÙ‚È‚él‚¦‚ğ‚Á‚Ä‚¢‚Ü‚·B ”Ş‚ç‚Í‰½‚É‚Â‚¢‚Ä‚à“¯ˆÓ‚Å‚«‚È‚¢B	They have very different ideas. They can't agree about anything.		
-GU031S012	1	31	5_Modals 1	s“à‚Ì‚±‚Ì’nˆæ‚Å‚Í’ˆÓ‚ª•K—v‚Å‚·B ŠëŒ¯‚Èê‡‚ª‚ ‚è‚Ü‚·B	You have to be careful in this part of the city. It can be dangerous.		
-GU031S013	1	31	5_Modals 1	„‚Ì•ƒ‚Í˜‚ğ’É‚ß‚Ü‚µ‚½B ”Ş‚Í‰½‚à‚¿ã‚°‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB	My father has hurt his back. He can't lift anything.		
-GU031S014	1	31	5_Modals 1	‹ó`s‚«‚ÌƒoƒX‚Í30•ª‚¨‚«‚É‚ ‚è‚Ü‚·B ‚Ü‚½‚ÍAƒ^ƒNƒV[‚ğ‚²—˜—p‚­‚¾‚³‚¢B	There's a bus to the airport every 30 minutes. Or you can take a taxi.		
-GU031S015	1	31	5_Modals 1	„‚½‚¿‚Ìƒzƒeƒ‹‚©‚ç‚ÍŒÎ‚ªŒ©‚¦‚Ü‚·B	We're able to see the lake from our hotel.	We can see the lake from our hotel.	
-GU031S016	1	31	5_Modals 1	–°‚ê‚Ü‚¹‚ñB	I can't sleep.		
-GU031S017	1	31	5_Modals 1	Å‹ß–°‚ê‚È‚¢‚ñ‚Å‚·B	I haven't been able to sleep recently.		
-GU031S018	1	31	5_Modals 1	ƒgƒ€‚Í–¾“ú—ˆ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Tom can come tomorrow.		
-GU031S019	1	31	5_Modals 1	ƒgƒ€‚Í–¾“ú—ˆ‚ç‚ê‚é‚©‚à‚µ‚ê‚È‚¢B	Tom might be able to come tomorrow.		
-GU031S020	1	31	5_Modals 1	ƒ}ƒŠƒA‚Íƒtƒ‰ƒ“ƒXŒê‚ÆƒhƒCƒcŒê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Maria can speak French and German.		
-GU031S021	1	31	5_Modals 1	‚±‚Ìd–‚Ö‚Ì‰•åÒ‚Í 2 ‚Â‚ÌŠO‘Œê‚ğ˜b‚¹‚é•K—v‚ª‚ ‚è‚Ü‚·B	Applicants for the job must be able to speak two foreign languages.		
-GU031S022	1	31	5_Modals 1	‚ ‚È‚½‚Ì–â‘è‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚¾‚³‚¢B ‚¨è“`‚¢‚Å‚«‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	Tell me about your problem. I might be able to help you.		
-GU031S023	1	31	5_Modals 1	ˆÈ‘O‚Í‹t—§‚¿‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½‚ªA¡‚Í‹t—§‚¿‚Å‚«‚Ü‚¹‚ñB	"I used to be able to stand on my head, but I can't do it now."		
-GU031S024	1	31	5_Modals 1	ƒ}[ƒN‚Ì‚±‚Æ‚ª—‰ğ‚Å‚«‚Ü‚¹‚ñB „‚Í”Ş‚Ì‚±‚Æ‚ğŒˆ‚µ‚Ä—‰ğ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	I can't understand Mark. I've never been able to understand him.		
-GU031S025	1	31	5_Modals 1	ƒ_ƒ“‚ÍƒCƒ^ƒŠƒA‚É’·‚­Z‚ñ‚Å‚¢‚é‚Ì‚ÅAƒCƒ^ƒŠƒAŒê‚ğ˜b‚¹‚é‚Í‚¸‚Å‚·B	"Dan has lived in Italy for a long time, so he should be able to speak Italian."		
-GU031S026	1	31	5_Modals 1	ƒxƒ“‚Æ‚Í˜A—‚ªæ‚ê‚Ü‚¹‚ñB ‰½“x‚à‚µ‚Ü‚µ‚½B	I haven't been able to contact Ben. I've tried many times.		
-GU031S027	1	31	5_Modals 1	‚µ‚Î‚ç‚­‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB ‹ß‚¢‚¤‚¿‚É”Ş‚ç‚ğ–K–â‚Å‚«‚é‚±‚Æ‚ğŠè‚Á‚Ä‚¢‚Ü‚·B	I haven't seen them for a while. I hope to be able to visit them soon.		
-GU031S028	1	31	5_Modals 1	ƒzƒeƒ‹‚É‚Í‘f“G‚È•”‰®‚ª‚ ‚è‚Ü‚µ‚½B ŒÎ‚ªŒ©‚¦‚Ü‚µ‚½B	We had a lovely room in the hotel. We could see the lake.		
-GU031S029	1	31	5_Modals 1	•”‰®‚É“ü‚é‚Æ‚·‚®‚ÉƒKƒX‚Ì“õ‚¢‚ª‚µ‚Ü‚µ‚½B	"As soon as I walked into the room, I could smell gas."		
-GU031S030	1	31	5_Modals 1	„‚ÍŒ€ê‚ÌŒã‚ë‚ÉÀ‚Á‚Ä‚¢‚½‚Ì‚ÅA‚æ‚­•·‚±‚¦‚Ü‚¹‚ñ‚Å‚µ‚½B	I was sitting at the back of the theatre and couldn't hear very well.		
-GU031S031	1	31	5_Modals 1	„‚Ì‘c•ƒ‚Í5‚©‘Œê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	My grandfather could speak five languages.		
-GU031S032	1	31	5_Modals 1	„‚½‚¿‚ÍŠ®‘S‚É©—R‚Å‚µ‚½B „‚½‚¿‚Í‚â‚è‚½‚¢‚±‚Æ‚ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	We were totally free. We could do what we wanted.		
-GU031S033	1	31	5_Modals 1	c”O‚Å‚·‚ª—ˆT‚Ì‚ ‚È‚½‚Ìƒp[ƒeƒB[‚É‚Ís‚¯‚Ü‚¹‚ñB	I'm afraid I can't come to your party next week.		
-GU031S034	1	31	5_Modals 1	ƒ_ƒ“‚Í 16 Î‚Ì‚Æ‚«A100 ƒ[ƒgƒ‹‚ğ 11 •b‚Å‘–‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"When Dan was 16, he could run 100 metres in 11 seconds."		
-GU031S035	1	31	5_Modals 1	„‚Í‰^“]‚Å‚«‚Ü‚·‚ªAÔ‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB	"I can drive, but I don't have a car."		
-GU031S036	1	31	5_Modals 1	ğ“ú‚Í‹C•ª‚ªˆ«‚©‚Á‚½B ‰½‚àH‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I was feeling sick yesterday. I couldn't eat anything.		
-GU031S037	1	31	5_Modals 1	Š®‘S‚É‚æ‚­•·‚±‚¦‚Ü‚·B ‚»‚ñ‚È‚É‘åº‚Å˜b‚·•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	I can hear you perfectly well. You don't need to speak so loud.		
-GU031S038	1	31	5_Modals 1	‚æ‚­Œ©‚é‚ÆA‰“‚­‚É’N‚©‚ªŒ©‚¦‚Ü‚µ‚½B	"I looked very carefully, and I could see somebody in the distance."		
-GU031S039	1	31	5_Modals 1	‚±‚Ìƒ\ƒtƒ@‚ğè“`‚Á‚Ä‚­‚¾‚³‚¢B ˆêl‚Å‚Í“®‚©‚¹‚Ü‚¹‚ñB	Help me with this sofa. I can't move it alone.		
-GU031S040	1	31	5_Modals 1	‚»‚Ìƒjƒ…[ƒX‚ğ•·‚¢‚Ä„‚Í‹Á‚«‚Ü‚µ‚½B M‚¶‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I was amazed when I heard the news. I couldn't believe it.		
-GU031S041	1	31	5_Modals 1	„‚Ì‘c•ƒ‚Í5‚©‘Œê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	My grandfather could speak five languages.		
-GU031S042	1	31	5_Modals 1	‚»‚ê‚ç‚ÍŒ©‚¦‚Ü‚µ‚½‚ªA‚ ‚Ü‚è‚Í‚Á‚«‚è‚Æ‚ÍŒ©‚¦‚Ü‚¹‚ñ‚Å‚µ‚½B	"I could see them, but not very clearly."		
-GU031S043	1	31	5_Modals 1	‰Î‚Í‚·‚®‚ÉŒš•¨“à‚ÉL‚ª‚è‚Ü‚µ‚½‚ªAK‚¢‚È‚±‚Æ‚É‘Sˆõ‚ª“¦‚°‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"The fire spread through the building very quickly, but fortunately everybody was able to escape."	"The fire spread through the building very quickly, but fortunately everybody managed to escape."	
-GU031S044	1	31	5_Modals 1	ƒfƒrƒbƒh‚ª‚Ç‚±‚É‚¢‚é‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªAÅI“I‚É‚Í‚È‚ñ‚Æ‚©Œ©‚Â‚¯‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"We didn't know where David was, but we managed to find him in the end."	"We didn't know where David was, but we were able to find him in the end."	
-GU031S045	1	31	5_Modals 1	ƒWƒƒƒbƒN‚Íá‚¢ A—D‚ê‚½ƒeƒjƒX‘Iè‚Å‚µ‚½B ”Ş‚Í’N‚É‚Å‚àŸ‚Â‚±‚Æ‚ª‚Å‚«‚½B	Jack was an excellent tennis player when he was younger. He could beat anybody.		
-GU031S046	1	31	5_Modals 1	ƒWƒƒƒbƒN‚ÆƒAƒ“ƒfƒB‚Íğ“ú‡‚ğ‚µ‚Ü‚µ‚½B ƒAƒ“ƒfƒB‚Í—Ç‚¢ƒvƒŒ[‚ğ‚µ‚Ü‚µ‚½‚ªAƒWƒƒƒbƒN‚Í‚È‚ñ‚Æ‚©ƒAƒ“ƒfƒB‚ğ‘Å‚¿•‰‚©‚µ‚Ü‚µ‚½B	"Jack and Andy played a match yesterday. Andy played well, but Jack managed to beat him."		
-GU031S047	1	31	5_Modals 1	„‚Ì‘c•ƒ‚Í‰j‚°‚Ü‚¹‚ñ‚Å‚µ‚½B	My grandfather couldn't swim.		
-GU031S048	1	31	5_Modals 1	„‚½‚¿‚ÍƒfƒCƒrƒbƒh‚ğ‚ ‚¿‚±‚¿’T‚µ‚Ü‚µ‚½‚ªAŒ©‚Â‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"We looked for David everywhere, but we couldn't find him."		
-GU031S049	1	31	5_Modals 1	ƒAƒ“ƒfƒB‚Í—Ç‚¢ƒvƒŒ[‚ğ‚µ‚½‚ªAƒWƒƒƒbƒN‚É‚ÍŸ‚Ä‚È‚©‚Á‚½B	"Andy played well, but he couldn't beat Jack."		
-GU031S050	1	31	5_Modals 1	—‚Ìq‚ªì‚É—‚¿‚Ü‚µ‚½‚ªAK‚¢‚È‚±‚Æ‚É„‚½‚¿‚Í”Ş—‚ğˆø‚«ã‚°‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"A girl fell into the river, but fortunately we managed to pull her out."		
-GU031S051	1	31	5_Modals 1	Å‹ß‰‚ß‚Äƒ}ƒ‰ƒ\ƒ“‚ğ‘–‚è‚Ü‚µ‚½B ‚Æ‚Ä‚à‘å•Ï‚Å‚µ‚½‚ªAI‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"I ran my first marathon recently. It was very hard, but I was able to finish."		
-GU031S052	1	31	5_Modals 1	á‚¢ ‚Í‘¬‚­‘–‚ê‚Ü‚µ‚½‚ªA¡‚Í‘–‚ê‚Ü‚¹‚ñB	"When I was younger I could run fast, but I can't now."		
-GU031S053	1	31	5_Modals 1	d–‚ğŒ©‚Â‚¯‚é‚Ì‚ÍŠÈ’P‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªAÅI“I‚É‚ÍHê‚Å‚Ìd–‚ğŒ©‚Â‚¯‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"It wasn't easy finding work, but in the end I was able to find a job in a factory."		
-GU031S054	1	31	5_Modals 1	ƒVƒ‡[‚Í‚Æ‚Ä‚àl‹C‚ª‚ ‚è‚Ü‚µ‚½‚ªAƒ`ƒPƒbƒg‚ğ“üè‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"The show was very popular, but we were able to get tickets."		
-GU031S055	1	31	5_Modals 1	„‚Ì‘c•ê‚Í‰¹Šy‚ª‘åD‚«‚Å‚µ‚½B ”Ş—‚Í‚Æ‚Ä‚àãè‚ÉƒsƒAƒm‚ğ’e‚­‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	My grandmother loved music. She could play the piano very well.		
-GU031S056	1	31	5_Modals 1	“ï‚µ‚¢–â‘è‚Å‚µ‚½‚ªA‚È‚ñ‚Æ‚©‰ğŒˆ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"It was a difficult problem, but we managed to solve it."		
-GU031S057	1	31	5_Modals 1	•”‰®‚ÌŠÔ‚Ì•Ç‚Í‚Æ‚Ä‚à”–‚©‚Á‚½‚Å‚·B —×‚Ì•”‰®‚ÅlX‚ª˜b‚µ‚Ä‚¢‚é‚Ì‚ª•·‚±‚¦‚Ü‚µ‚½B	The wall between the rooms was very thin. I could hear people talking in the next room.		
-GU031S058	1	31	5_Modals 1	ƒLƒbƒ`ƒ“‚Å¬‚³‚È‰Î–‚ª‚ ‚è‚Ü‚µ‚½‚ªA‚È‚ñ‚Æ‚©Á‚µ~‚ß‚Ü‚µ‚½B	"There was a small fire in the kitchen, but I managed to put it out."		
-GU031S059	1	31	5_Modals 1	‚Æ‚Ä‚à–Ê”’‚©‚Á‚½‚Å‚·B Î‚¢‚ª~‚Ü‚ç‚È‚©‚Á‚½B	It was so funny. I couldn't stop laughing.		
-GU031S060	1	31	5_Modals 1	Œ®‚ğ’T‚µ‚Ä‚ ‚¿‚±‚¿’T‚µ‚Ü‚µ‚½‚ªAŒ©‚Â‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"I looked everywhere for my keys, but couldn't find them."		
-GU031S061	1	31	5_Modals 1	ƒ[ƒ‰‚Í‚¨• ‚ª‹ó‚¢‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ”Ş—‚Í‰½‚àH‚×‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	Laura wasn't hungry. She couldn't eat anything.		
-GU031S062	1	31	5_Modals 1	„‚Í–é’†‚Ù‚Æ‚ñ‚Ç‹N‚«‚Ä‚¢‚Ü‚µ‚½B –°‚ê‚È‚©‚Á‚½B	I was awake most of the night. I couldn't sleep.		
-GU031S063	1	31	5_Modals 1	„‚½‚¿‚Í”Ş‚ç‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚ªA”Ş‚ç‚Í—ˆ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"We invited them to the party, but they couldn't come."		
-GU031S064	1	31	5_Modals 1	ƒJƒƒ‰‚ğ–Y‚ê‚½‚Ì‚ÅÊ^‚ªB‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I'd forgotten my camera, so I couldn't take any pictures."		
-GU031S065	1	31	5_Modals 1	ƒWƒFƒVƒJ‚Í‘«‚ğ’É‚ß‚ÄA‚ ‚Ü‚èãè‚É•à‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	Jessica had hurt her foot and couldn't walk very well.		
-GU031S066	1	31	5_Modals 1	„‚½‚¿‚ÍƒRƒ“ƒT[ƒg‚És‚«‚½‚©‚Á‚½‚Ì‚Å‚·‚ªAƒ`ƒPƒbƒg‚ğ“üè‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"We wanted to go to the concert, but we couldn't get tickets."		
+GU030S055	1	30	5_Modals 1	Å‹ßƒoƒX‚Í‚Æ‚Ä‚à‚‚¢‚Ì‚ÅAƒ^ƒNƒV[‚ğ•ß‚Ü‚¦‚½‚Ù‚¤‚ª‚æ‚¢B	"Buses are so expensive these days, you might as well get a taxi."		
+GU030S056	1	30	5_Modals 1	„‚Í‚»‚ê‚ğ”„‚Á‚½‚Ù‚¤‚ª‚æ‚¢B	I might as well sell it.		
+GU030S057	1	30	5_Modals 1	‰äX‚Í¡o”­‚µ‚½‚Ù‚¤‚ª‚æ‚¢B	We might as well leave now.		
+GU030S058	1	30	5_Modals 1	„‚Í‹N‚«‚½‚Ù‚¤‚ª‚æ‚¢B	I might as well get up.		
+GU030S059	1	30	5_Modals 1	„‚ÍV‚µ‚¢‚Ì‚ğ”ƒ‚Á‚½•û‚ª‚æ‚¢B	I might as well buy a new one.		
+GU030S060	1	30	5_Modals 1	‰äX‚ÍƒoƒXƒ‹[ƒ€‚à“h‘•‚µ‚½‚Ù‚¤‚ª‚æ‚¢B	We might as well paint the bathroom too.		
 GU032S001	1	32	5_Modals 2	„‚ªŒ¾‚Á‚½‚±‚Æ‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ‚»‚ê‚Í”é–§‚É‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Don't tell anybody what I said. You must keep it a secret.		
 GU032S002	1	32	5_Modals 2	‚ ‚Ü‚èŠÔ‚ª‚ ‚è‚Ü‚¹‚ñB ‹}‚ª‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	We haven't got much time. We must hurry.		
 GU032S003	1	32	5_Modals 2	‚»‚ê‚Í”é–§‚É‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ’N‚É‚àŒ¾‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must keep it a secret. You mustn't tell anyone.		
@@ -2177,3 +2111,57 @@ GU037S048	1	37	5_Modals 2	A: »“œ‚ğ“n‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H B: ‚Í‚¢A‚±‚¿‚ç‚Å‚·B	"A
 GU037S049	1	37	5_Modals 2	A: ‰½‚©H‚×‚½‚¢‚à‚Ì‚Í‚ ‚è‚Ü‚·‚©? B: ‚¢‚¢‚¦A‚ ‚è‚ª‚Æ‚¤B ‚¨‚È‚©‚ª‚·‚¢‚Ä‚¢‚È‚¢B	"A: Would you like something to eat? B: No, thanks. I'm not hungry."		
 GU037S050	1	37	5_Modals 2	A: è‚ğ‘İ‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ‚¢‚¢‚¦A‘åä•v‚Å‚·B ‚È‚ñ‚Æ‚©‚È‚è‚Ü‚·‚æA‚ ‚è‚ª‚Æ‚¤B	"A: Can I give you a hand? B: No, it's all right. I can manage, thanks."		
 GU037S051	1	37	5_Modals 2	A: V‘N‚È‹ó‹C‚ª—~‚µ‚¢‚ñ‚Å‚·B B: „‚à‚Å‚·‚æB U•à‚Éo‚©‚¯‚Ü‚µ‚å‚¤B	A: I'd like some fresh air. B: Me too. Let's go out for a walk.		
+GU031S001	1	31	4_Modals 1	M†‚Å‚Í‰EÜ‚Å‚«‚Ü‚¹‚ñB ¶‚É‹È‚ª‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	You can't turn right at the traffic lights. You have to turn left.		
+GU031S002	1	31	4_Modals 1	“Ç‘‚·‚é‚É‚ÍŠá‹¾‚ğ‚©‚¯‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I have to wear glasses for reading.		
+GU031S003	1	31	4_Modals 1	ƒƒo[ƒg‚Í¡–é„‚½‚¿‚Æˆê‚Éo‚©‚¯‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB ”Ş‚Í’x‚­‚Ü‚Å“­‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Robert can't come out with us this evening. He has to work late.		
+GU031S004	1	31	4_Modals 1	æTAƒeƒBƒi‚Í˜r‚ğœÜ‚µA•a‰@‚És‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	Last week Tina broke her arm and had to go to hospital.		
+GU031S005	1	31	4_Modals 1	V‚µ‚¢‰^“]–Æ‹–Ø‚ğæ“¾‚·‚é‚É‚Í‰½‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚©?	What do I have to do to get a new driving licence?		
+GU031S006	1	31	4_Modals 1	ƒJƒŒƒ“‚Í“y—j“ú‚É“­‚­•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	Karen doesn't have to work Saturdays.		
+GU031S007	1	31	4_Modals 1	’·‚¢ŠÔ‘Ò‚½‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚©H	Did you have to wait a long time?		
+GU031S008	1	31	4_Modals 1	”Ş‚ç‚Í„‚Ìƒ‰ƒbƒvƒgƒbƒv‚ğC—‚Å‚«‚È‚¢‚Ì‚ÅAV‚µ‚¢‚à‚Ì‚ğ”ƒ‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	"They can't fix my laptop, so l'Il have to buy a new one."	"They can't fix my laptop, I'm going to have to buy a new one."	
+GU031S009	1	31	4_Modals 1	ƒgƒ€‚Í–¾“ú’x‚­‚Ü‚Åd–‚ğ‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚à‚µ‚ê‚È‚¢B	Tom might have to work late tomorrow.	Tom may have to work late tomorrow.	
+GU031S010	1	31	4_Modals 1	ƒJƒŒƒ“‚Í‰ï‹c’†‚¸‚Á‚Æ‚»‚±‚É‚¢‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB ”Ş—‚Í‘‚­o”­‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Karen can't stay for the whole meeting. She has to leave early.		
+GU031S011	1	31	4_Modals 1	‚·‚×‚Ä„‚ª–Ê“|‚ğŒ©‚Ü‚·B ‰½‚à‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	I'll take care of everything. You don't have to do anything.		
+GU031S012	1	31	4_Modals 1	‰^“]–Æ‹–‚Í‰½Î‚©‚çæ“¾‚Å‚«‚Ü‚·‚©?	How old do you have to be to have a driving licence?		
+GU031S013	1	31	4_Modals 1	ŠÔ‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB ‚·‚®‚És‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I don't have much time. I have to go soon.		
+GU031S014	1	31	4_Modals 1	ƒ`ƒPƒbƒg”„‚èê‚Í¬‚ñ‚Å‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ’·‚­‘Ò‚Â•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The ticket office wasn't busy. We didn't have to wait long.		
+GU031S015	1	31	4_Modals 1	ƒŠƒT‚Í–¾“ú‚Ì’©‹ó‚¢‚Ä‚¢‚Ü‚·‚©A‚»‚ê‚Æ‚àd–‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚©?	Is Lisa free tomorrow morning or does she have to work?		
+GU031S016	1	31	4_Modals 1	„‚ğ•‚¯‚Ä‚­‚ê‚él‚Í’N‚à‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ‚·‚×‚Ä©•ª‚Å‚â‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	There was nobody to help me. I had to do everything by myself.		
+GU031S017	1	31	4_Modals 1	“W¦‚Í–³—¿‚Å‚µ‚½‚©A‚»‚ê‚Æ‚à“üê‚·‚é‚É‚Í‚¨‹à‚ª•K—v‚Å‚µ‚½‚©H	"Was the exhibition free, or did you have to pay to go in?"		
+GU031S018	1	31	4_Modals 1	ƒ_ƒ“‚Í’©‘‚­‚©‚çd–‚ğn‚ß‚Ü‚·B ”Ş‚ÍŒß‘O4‚É‹N‚«‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Dan starts work very early in the morning. He has to get up at 4 a.m.		
+GU031S019	1	31	4_Modals 1	Šë‚¤‚­ƒoƒX‚Éæ‚è’x‚ê‚é‚Æ‚±‚ë‚Å‚µ‚½B ‚»‚ê‚ğ•ß‚Ü‚¦‚é‚½‚ß‚É‘–‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I nearly missed the bus. I had to run to catch it.		
+GU031S020	1	31	4_Modals 1	Œã‚Å‰½‚ğ‚µ‚½‚¢‚Ì‚©‹³‚¦‚Ä‚­‚¾‚³‚¢B ¡Œˆ‚ß‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	You can let me know later what you want to do. You don't have to decide now.		
+GU031S021	1	31	4_Modals 1	”Ş‚Í—T•Ÿ‚È‰Æ’ë‚Ìog‚Å‚·B ”Ş‚Í‚¨‹à‚Ì‚±‚Æ‚ğS”z‚·‚é•K—v‚ª‚È‚©‚Á‚½B	He comes from a wealthy family. He's never had to worry about money.		
+GU031S022	1	31	4_Modals 1	ƒXƒeƒB[ƒu‚Í“d˜b‚Ìİ’è‚ğ•ÏX‚·‚é•û–@‚ğ’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B „‚Í”Ş‚ÉŒ©‚¹‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	Steve didn't know how to change the settings on his phone. I had to show him.		
+GU031S023	1	31	4_Modals 1	ƒ}[ƒN‚ª‚ ‚È‚½‚ÉÔ‚ğ‘İ‚µ‚Ä‚­‚ê‚é‚©‚Ç‚¤‚©‚í‚©‚è‚Ü‚¹‚ñB ”Ş‚É•·‚¢‚Ä‚İ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I don't know whether Mark will lend you his car. You'll have to ask him.		
+GU031S024	1	31	4_Modals 1	V‚µ‚¢d–‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚¾‚³‚¢B ‰½‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚©H	Tell me about your new job. What do you have to do?		
+GU031S025	1	31	4_Modals 1	¡”Ó‹ó‚¢‚Ä‚¢‚é‚©‚Ç‚¤‚©‚í‚©‚è‚Ü‚¹‚ñB ’x‚­‚Ü‚Å“­‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚©‚à‚µ‚ê‚È‚¢B	I'm not sure if I'Il be free this evening. I might have to work late.		
+GU031S026	1	31	4_Modals 1	ƒ_ƒ“‚Í–¾“úd–‚ª‚È‚¢‚Ì‚ÅA‘‹N‚«‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	"Dan isn't working tomorrow, so he doesn't have to get up early."		
+GU031S027	1	31	4_Modals 1	Šó–]‚Ì’Ê‚è‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ’N‚©‚É“¹‚ğq‚Ë‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I couldn't find the street I wanted. I had to ask somebody for directions.		
+GU031S028	1	31	4_Modals 1	‚±‚Ìì‹Æ‚ÍŒã‚Ås‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B ¡‚Í‚â‚é•K—v‚Í‚È‚¢B	I can do this work later. I don't have to do it now.		
+GU031S029	1	31	4_Modals 1	ƒWƒF[ƒ“‚Í‰ïĞ‚Åã‹‰E‚É‚ ‚è‚Ü‚·B ”Ş—‚Íd—v‚ÈŒˆ’f‚ğ‰º‚³‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Jane has a senior position in the company. She has to make important decisions.		
+GU031S030	1	31	4_Modals 1	’“Ôê‚Í–³—¿‚Å‚µ‚½B ‚»‚±‚É’“Ô‚·‚é‚Ì‚É‰½‚àx•¥‚¤•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The car park was free. We didn't have to pay anything to park there.		
+GU031S031	1	31	4_Modals 1	ƒpƒgƒŠƒbƒN‚ª—ˆŒV‚µ‚¢d–‚ğn‚ß‚é‚ÆA–ˆ“ú80ƒ}ƒCƒ‹‚Ì‹——£‚ğÔ‚Å’Ê‹Î‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	"When Patrick starts his new job next month, he'll have to drive 50 miles to work every day."		
+GU031S032	1	31	4_Modals 1	ƒX[‚Æ‚Í‚à‚¤‰½”N‚à˜b‚µ‚Ä‚¢‚È‚¢B ”Ş—‚É“d˜b‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I haven't spoken to Sue for ages. I must phone her.	I have to phone her.	
+GU031S033	1	31	4_Modals 1	ƒ}[ƒN‚Í–{“–‚É‚¢‚¢l‚Å‚·B ‚ ‚È‚½‚Í”Ş‚É‰ï‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Mark is a really nice person. You must meet him.	You have to meet him.	
+GU031S034	1	31	4_Modals 1	„‚Í–ˆ“ú8”¼‚©‚ç5”¼‚Ü‚Å“­‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I have to work from 8.30 to 5.30 every day.		
+GU031S035	1	31	4_Modals 1	ƒWƒF[ƒ“‚Íd–‚Ì‚½‚ß‚É•p”É‚É—·s‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Jane has to travel a lot for her work.		
+GU031S036	1	31	4_Modals 1	ƒV[ƒgƒxƒ‹ƒg‚Í’…—p‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	Seat belts must be worn.		
+GU031S037	1	31	4_Modals 1	æT‚Ís‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚©‚Á‚½B	I had to go away last week.		
+GU031S038	1	31	4_Modals 1	v‚Á‚½‚æ‚è’x‚¢‚Å‚·‚ËB „‚Ís‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‚³‚æ‚È‚çI	It's later than I thought. I must go. Bye!		
+GU031S039	1	31	4_Modals 1	‰ï‚¦‚Ä—Ç‚©‚Á‚½‚Å‚·B ‹ß‚¢‚¤‚¿‚É‚Ü‚½‰ï‚¢‚É—ˆ‚Ä‚­‚¾‚³‚¢B	It was good to see you. You must come and see us again soon.		
+GU031S040	1	31	4_Modals 1	–¾“ú‚Í–Y‚ê‚¸‚ÉƒTƒ‰‚É“d˜b‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I must remember to call Sarah tomorrow.		
+GU031S041	1	31	4_Modals 1	‚±‚ê‚Í”é–§‚É‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ’N‚É‚àŒ¾‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	You must keep this a secret. You mustn't tell anyone.		
+GU031S042	1	31	4_Modals 1	ŠÔ’Ê‚è‚És‚­‚Æ–ñ‘©‚µ‚Ü‚µ‚½B ’x‚ê‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	I promised I would be on time. I mustn't be late.		
+GU031S043	1	31	4_Modals 1	„‚Æˆê‚É—ˆ‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB ˆêl‚Å‚às‚¯‚é‚æB	You don't have to come with me. I can go alone.		
+GU031S044	1	31	4_Modals 1	‰ï‹c‚ÉoÈ‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA‚Æ‚É‚©‚­oÈ‚µ‚Ü‚·B	"I don't have to be at the meeting, but I'm going anyway."		
+GU031S045	1	31	4_Modals 1	Œš•¨“à‚ÉƒGƒŒƒx[ƒ^[‚ª‚ ‚é‚Ì‚ÅAŠK’i‚ğ“o‚é•K—v‚ª‚ ‚è‚Ü‚¹‚ñB	"There's a lift in the building, so we don't have to climb the stairs."		
+GU031S046	1	31	4_Modals 1	–¾“úƒTƒ‰‚É“d˜b‚·‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B –Y‚ê‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	I said I'd call Sarah tomorrow. I mustn't forget.		
+GU031S047	1	31	4_Modals 1	ƒŠƒ`ƒƒ[ƒh‚Íd–‚ÅƒX[ƒc‚ğ’…‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA’Êí‚ÍƒX[ƒc‚ğ’…‚Ä‚¢‚Ü‚·B	"Richard doesn't have to wear a suit at work, but he usually does."		
+GU031S048	1	31	4_Modals 1	d–‚ğŒ©‚Â‚¯‚é“w—Í‚ğ‘±‚¯‚Ä‚­‚¾‚³‚¢B ’ú‚ß‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB	Keep trying to find a job. You mustn't give up.		
+GU031S049	1	31	4_Modals 1	ƒeƒjƒX‚Ì‡‚ğŠy‚µ‚Ş‚½‚ß‚É—D‚ê‚½ƒvƒŒ[ƒ„[‚Å‚ ‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	You don't have to be a good player to enjoy a game of tennis.		
+GU031S050	1	31	4_Modals 1	ƒ\ƒtƒB[‚ÍT––‚ªD‚«‚Å‚·B‚»‚¤‘‚­‹N‚«‚é•K—v‚ª‚È‚¢‚©‚ç‚Å‚·B	Sophie likes weekends because she doesn't have to get up so early.		
+GU031S051	1	31	4_Modals 1	H‚×‰ß‚¬‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB ƒ_ƒCƒGƒbƒg’†‚Ì‚Í‚¸‚È‚ñ‚Å‚·B	I mustn't eat too much. I'm supposed to be on a diet.		
+GU031S052	1	31	4_Modals 1	ƒtƒ‰ƒCƒg‚Ü‚Å‚É‚Í\•ª‚ÈŠÔ‚ª‚ ‚è‚Ü‚·B ‚Ü‚¾ƒ`ƒFƒbƒNƒCƒ“‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	We have plenty of time before our flight. We don't have to check in yet.		
+GU031S053	1	31	4_Modals 1	–¾“ú‚Íd–‚¾B	I've got to work tomorrow.	I have to work tomorrow.	
+GU031S054	1	31	4_Modals 1	ƒwƒŒƒ“‚Í‚¢‚Âs‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚©?	When has Helen got to go?	When does Helen have to go?	
