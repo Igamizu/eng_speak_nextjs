@@ -2165,3 +2165,513 @@ GU031S051	1	31	4_Modals 1	食べ過ぎてはいけません。 ダイエット�
 GU031S052	1	31	4_Modals 1	フライトまでには十分な時間があります。 まだチェックインする必要はありません。	We have plenty of time before our flight. We don't have to check in yet.		
 GU031S053	1	31	4_Modals 1	明日は仕事だ。	I've got to work tomorrow.	I have to work tomorrow.	
 GU031S054	1	31	4_Modals 1	ヘレンはいつ行かなければなりませんか?	When has Helen got to go?	When does Helen have to go?	
+GU038S001	1	38	6_If and wish Passive	リサ：バスで行きましょうか、それとも電車で行きましょうか？ ジェス：バスで行けばもっと安くなるよ。	"LISA: Shall we go by bus or by train? JESS: If we go by bus, it will be cheaper."		
+GU038S002	1	38	6_If and wish Passive	ジョー：旅行はどうするの？ ジェス: 電車で行きます。 バスで行ったら安いですが、電車の方が早いです。	"JOE: How are you going to travel? JESS: We're going by train. If we went by bus, it would be cheaper but the train is quicker."		
+GU038S003	1	38	6_If and wish Passive	窓を開けるつもりはありません。 もし窓を開けたら、ここは寒すぎるだろう。	"I'm not going to open the window. If I opened the window, it would be too cold in here."		
+GU038S004	1	38	6_If and wish Passive	道に迷うことはないと思います。 道に迷ったら、誰かに助けを求めるでしょう。	"I don't think I'll lose my way. If I lost my way, I'd ask someone for help."		
+GU038S005	1	38	6_If and wish Passive	何が起こったのかは話すつもりはありません。 何が起こったのかを話しても、あなたは信じないでしょう。	"I'm not going to tell you what happened. If I told you what happened, you wouldn't believe me."		
+GU038S006	1	38	6_If and wish Passive	私はまだ運転免許試験を受けないことに決めました。 もし今運転免許試験を受けたら、私は不合格になるでしょう。	"I've decided not to take my driving test yet. If I took my driving test now, I would fail."		
+GU038S007	1	38	6_If and wish Passive	あなたの誕生日を忘れません。 もし私があなたの誕生日を忘れたら怒るでしょうか？	"I won't forget your birthday. If I forgot your birthday, would you be angry with me?"		
+GU038S008	1	38	6_If and wish Passive	あなたに100ポンドあげるつもりはありません。 もし私があなたに100ポンドあげたら、それで何をしますか？	"I have no plans to give you 100 pounds. If I gave you ?100, what would you do with it?"		
+GU038S009	1	38	6_If and wish Passive	大金を手に入れたら何をしますか?	What would you do if you won a lot of money?		
+GU038S010	1	38	6_If and wish Passive	もし明日選挙があるとしたら誰に投票しますか?	"If there was an election tomorrow, who would you vote for?"		
+GU038S011	1	38	6_If and wish Passive	私はあなたの家に時計を忘れてきたと思います。 見つけたら電話してもらえますか？	"I think I left my watch at your house. If you find it, can you call me?"		
+GU038S012	1	38	6_If and wish Passive	街で財布を見つけたら、どうしますか?	"If you found a wallet in the street, what would you do with it?"		
+GU038S013	1	38	6_If and wish Passive	もし宝くじが当たったら、大きな家を買うのに。	"If I won the lottery, I'd buy a big house."		
+GU038S014	1	38	6_If and wish Passive	車を売ったとしても、あまりお金は得られないでしょう。	"If I sold my car, I wouldn't get much money for it."		
+GU038S015	1	38	6_If and wish Passive	サラに会ったら、電話するように言います。	"If I see Sarah, I'll tell her to call you."		
+GU038S016	1	38	6_If and wish Passive	建物内で火災が起きたらどうしますか?	What would you do if there was a fire in the building?		
+GU038S017	1	38	6_If and wish Passive	パスポートを紛失したらどうすればいいのかわかりません。	I don't know what I'd do if I lost my passport.		
+GU038S018	1	38	6_If and wish Passive	電話番号を教えていただければ、後で電話します。	"If you give me your number, l'Il call you later."		
+GU038S019	1	38	6_If and wish Passive	誰かがそのボタンを押したら何が起こるでしょうか?	What would happen if somebody pressed that button?		
+GU038S020	1	38	6_If and wish Passive	誰かが私に銃を向けたらとても怖いでしょう。	I'd be very scared if somebody pointed a gun at me.		
+GU038S021	1	38	6_If and wish Passive	バスで行ったらもっと安かったでしょう。	"If we went by bus, it would be cheaper."		
+GU038S022	1	38	6_If and wish Passive	できるだけ早く情報を送っていただければ幸いです。	I would be grateful if you would send me the information as soon as possible.		
+GU038S023	1	38	6_If and wish Passive	誰かが私に銃を向けたら怖いでしょう。	I would be scared if somebody pointed a gun at me.		
+GU038S024	1	38	6_If and wish Passive	まだ寝ません。 私は疲れていません。 今寝たら眠れないでしょう。	"I'm not going to bed yet. I'm not tired. If I went to bed now, I wouldn't sleep."		
+GU038S025	1	38	6_If and wish Passive	電話を使わせていただいてもよろしいでしょうか？	Would you mind if I used your phone?		
+GU038S026	1	38	6_If and wish Passive	もし大金が当たったら家を買うかもしれない。	"If I won a lot of money, I might buy a house."		
+GU038S027	1	38	6_If and wish Passive	もし雨が止んだら、私たちは出かけられるのに。	"If it stopped raining, we could go out."		
+GU038S028	1	38	6_If and wish Passive	その花瓶には気をつけてください。 落とすと粉々に砕けてしまいます。	"Be careful with that vase. If you dropped it, it would break into small pieces."		
+GU038S029	1	38	6_If and wish Passive	今夜は寝る場所が必要です。 ホテルに泊まるとしたら、いくらかかりますか?	"We need somewhere to sleep tonight. If we stayed at a hotel, how much would it cost?"		
+GU038S030	1	38	6_If and wish Passive	このノートは私にとってとても大切です。 失くしたらとても怒るだろう。	This notebook is very important to me. I'd be very upset if I lost it.		
+GU038S031	1	38	6_If and wish Passive	仕事を失うとは思っていませんが、そうなった場合は別の仕事を探さなければなりません。	"I don't expect to lose my job but if that happened, I'd have to find another one."		
+GU038S032	1	38	6_If and wish Passive	私たちは来年の休暇について考えています。 もし私たちがイタリアに行ったら、一緒に来てくれませんか？	"We're thinking about our holiday for next year. If we went to Italy, would you come with us?"		
+GU038S033	1	38	6_If and wish Passive	彼が試験に落ちるとは思わない。 もし彼がそうしてくれたら、私はとても驚くだろう。	I don't think he'll fail the exam. I'd be very surprised if he did.		
+GU038S034	1	38	6_If and wish Passive	建物内で火災が発生した場合、消火方法を知っていますか?	"If there was a fire in the building, would you know how to put the fire out?"		
+GU038S035	1	38	6_If and wish Passive	車を買う余裕がない。 車を買ったらお金を借りなければなりません。	"I can't afford to buy a car. If I bought a car, I'd have to borrow the money."		
+GU038S036	1	38	6_If and wish Passive	"私たちの町には 1,000 人を雇用するコンピューター工場があります。 今は大丈夫ですが、もし閉鎖されたら、これらの人々はすべて職を失うでしょう。"	"There is a computer factory in our town that employs one thousand people. Things are fine now, but if it closed down, all these people would lose their jobs."		
+GU038S037	1	38	6_If and wish Passive	A: パーティーを開くとしたら誰を招待しますか? B: 誰もいないよ。 パーティーは開かないでしょう。	"A: If you had a party, who would you invite? B: Nobody. I wouldn't have a party."		
+GU038S038	1	38	6_If and wish Passive	もしあなたがとても有名な人に会ったらどう思いますか? 緊張するでしょうか？	"If you met a very famous person, how would you feel? Would you be nervous?"		
+GU038S039	1	38	6_If and wish Passive	ゲイリーとエマが結婚する可能性はないと思います。 もしそうなら私は驚くだろう。	I don't think there's any chance that Gary and Emma will get married. I'd be amazed if they did.		
+GU038S040	1	38	6_If and wish Passive	"誰かが私に 5,000 ポンドをくれたら、おそらくとても長い休暇が取れるでしょう。"	"If somebody gave me 5,000 pounds, I'd probably have a very long holiday."		
+GU038S041	1	38	6_If and wish Passive	エレベーターに乗っているときに階間で止まったらどうしますか?	What would you do if you were in a lift and it stopped between floors?		
+GU039S001	1	39	6_If and wish Passive	もし彼の番号を知っていたら、彼に電話するのに。	I'd phone him if I knew his number.		
+GU039S002	1	39	6_If and wish Passive	もっと時間があればやりたいことがたくさんあります。	There are many things I'd like to do if I had more time.		
+GU039S003	1	39	6_If and wish Passive	パーティーに行きたくなかったら行かないでしょう。	"If I didn't want to go to the party, I wouldn't go."		
+GU039S004	1	39	6_If and wish Passive	あなたが私の立場だったら、どうしますか?	"If you were in my position, what would you do?"		
+GU039S005	1	39	6_If and wish Passive	彼が運転できないのは残念だ。 できれば便利だろう。	It's a pity he can't drive. It would be useful if he could.		
+GU039S006	1	39	6_If and wish Passive	新しいコンピュータが必要なら、買いに行きます。	"If I needed a new computer, I'd go and buy one."		
+GU039S007	1	39	6_If and wish Passive	もっと木があれば公園はもっと素敵になるでしょう。	The park would be nicer if there were more trees.		
+GU039S008	1	39	6_If and wish Passive	もっとリラックスしたほうが気分が良くなるでしょう。	You'd feel better if you relaxed more.		
+GU039S009	1	39	6_If and wish Passive	あなたが私と一緒にここにいなかったら、私はとても寂しいでしょう。	I'd be very lonely if you weren't here with me.		
+GU039S010	1	39	6_If and wish Passive	どこへでも旅行できるとしたら、どこに行きますか?	"If you could travel anywhere, where would you go?"		
+GU039S011	1	39	6_If and wish Passive	もっと早く仕事を始めれば、もっと早く終わることができるのに。	"If I started work earlier, I could finish earlier."		
+GU039S012	1	39	6_If and wish Passive	何をすべきか分かっていたら、そうするだろう。	"If I knew what to do, I'd do it."		
+GU039S013	1	39	6_If and wish Passive	車がなかったら移動するのは大変でしょう。	It would be difficult to travel around if we didn't have a car.		
+GU039S014	1	39	6_If and wish Passive	傘があればいいのに。	I wish I had an umbrella.		
+GU039S015	1	39	6_If and wish Passive	ポールの電話番号を知っていればよかったのですが。	I wish I knew Paul's phone number.		
+GU039S016	1	39	6_If and wish Passive	空を飛べたらいいのにと思ったことはありませんか?	Do you ever wish you could fly?		
+GU039S017	1	39	6_If and wish Passive	ここはとても混雑しています。 こんなに人がいないといいのですが。	It's very crowded here. I wish there weren't so many people.		
+GU039S018	1	39	6_If and wish Passive	明日仕事をしなくていいのにと思いますが、残念ながら仕事になってしまいます。	"I wish I didn't have to work tomorrow, but unfortunately I do."		
+GU039S019	1	39	6_If and wish Passive	ここに住んでいてうれしいです。	I'm glad I live here.		
+GU039S020	1	39	6_If and wish Passive	ここに住めたらよかったのに。	I wish I lived here.		
+GU039S021	1	39	6_If and wish Passive	自由時間が足りません。 もっと自由な時間があればいいのにと思います。	I don't have enough free time. I wish I had more free time.		
+GU039S022	1	39	6_If and wish Passive	残念ながら私たちは海の近くに住んでいません。 私たちが海の近くに住んでいればよかったのに。	We don't live near the sea unfortunately. I wish we lived near the sea.		
+GU039S023	1	39	6_If and wish Passive	私たちは大都市に住んでいますが、それが好きではありません。 大都市に住まなければよかったのに。	We live in a big city and I don't like it. I wish we didn't live in a big city.		
+GU039S024	1	39	6_If and wish Passive	ヘレンはここにいないので、彼女に会わなければなりません。 ヘレンがここにいればよかったのに。	"Helen isn't here, and I need to see her. I wish Helen were here."		
+GU039S025	1	39	6_If and wish Passive	彼らはパーティーに来ることができません、それは残念です。 彼らがパーティーに来てくれればいいのにと思います。	"They can't come to the party, which is a shame. I wish they could come to the party."		
+GU039S026	1	39	6_If and wish Passive	残念ながら私は科学についてはあまり知りません。 科学についてもっと知っていればよかったと思います。	I don't know much about science unfortunately. I wish I knew more about science.		
+GU039S027	1	39	6_If and wish Passive	気分が優れない、それは良くないことだ。 気分が良くなればいいのですが。	"You're not feeling well, which isn't good. I wish you were feeling better."		
+GU039S028	1	39	6_If and wish Passive	鍵がどこにも見つからず、困っています。 鍵が見つかるといいのですが。	"I can't find my key anywhere, which is annoying. I wish I could find my key."		
+GU039S029	1	39	6_If and wish Passive	明日は早く起きなければなりません。 もっと長く寝たいです。 明日早起きしなくてもよかったのに。	I have to get up early tomorrow. I'd prefer to sleep longer. I wish I didn't have to get up early tomorrow.		
+GU039S030	1	39	6_If and wish Passive	もし私があなただったら、そのコートは買わないでしょう。	"If I were you, I wouldn't buy that coat."	"If I was you, I wouldn't buy that coat."	
+GU039S031	1	39	6_If and wish Passive	そんなに寒くなかったら散歩に行きたいのですが。	I'd go for a walk if it weren't so cold.	I'd go for a walk if it wasn't so cold.	
+GU039S032	1	39	6_If and wish Passive	彼女が今ここにいればよかったのに。	I wish she was here now.	I wish she were here now.	
+GU039S033	1	39	6_If and wish Passive	寒くて濡れています。 天気が良かったらいいのに。	It's cold and wet. I wish the weather was better.		
+GU039S034	1	39	6_If and wish Passive	目を開けていられない。 そんなに疲れてなかったらよかったのに。	I can't keep my eyes open. I wish I wasn't so tired.		
+GU039S035	1	39	6_If and wish Passive	ホームシックになっています。 家に戻れたらよかったのに。	I'm feeling homesick. I wish I were back home.		
+GU039S036	1	39	6_If and wish Passive	私はこの靴が好きです。 そんなに高価じゃないといいのですが。	I like these shoes. I wish they weren't so expensive.		
+GU039S037	1	39	6_If and wish Passive	私が会社のマネージャーだったら、たくさんの変化を起こすだろう。	I'd make a lot of changes if I were the manager of the company.		
+GU039S038	1	39	6_If and wish Passive	その話が本当だったらとても驚くだろう。	I'd be very surprised if the story was true.		
+GU039S039	1	39	6_If and wish Passive	あなたが私の立場だったらどうしますか？	What would you do if you were in my position?		
+GU039S040	1	39	6_If and wish Passive	重要なことでなければ、夜中に誰かに電話はしません。	I wouldn't call somebody in the middle of the night if it wasn't important.		
+GU039S041	1	39	6_If and wish Passive	もし私が金持ちだったら、たくさん旅行するだろう。	"If I were rich, I'd travel a lot."		
+GU039S042	1	39	6_If and wish Passive	助けが必要な場合、誰に尋ねますか?	Who would you ask if you needed help?		
+GU039S043	1	39	6_If and wish Passive	何か読むものがあればいいのですが。	I wish I had something to read.		
+GU039S044	1	39	6_If and wish Passive	あなたがいまここにいたらいいのに。	I wish you were here now.		
+GU039S045	1	39	6_If and wish Passive	私は都会に住んでいますが、もし選べるなら田舎に住みたいと思っています。	"I live in a city, but if I had the choice, I would live in the country."		
+GU039S046	1	39	6_If and wish Passive	私たちは都会に住んでいるから車は必要ありませんが、田舎に住んでいたら車が必要になるでしょう。	"We live in a city and don't need a car, but we would need one if we lived in the country."		
+GU039S047	1	39	6_If and wish Passive	この天気は好きではありません。 そんなに寒くないといいのですが。	I don't like this weather. I wish it wasn?t so cold.		
+GU039S048	1	39	6_If and wish Passive	このスープはあまり美味しくありません。 塩辛くないほうが美味しかったかも。	This soup isn't very nice. It would taste better if it wasn't so salty.		
+GU039S049	1	39	6_If and wish Passive	十分長い間待っていましたね。 私だったら、これ以上待ちません。	"You've been waiting long enough. If I were you, I wouldn't wait any longer."		
+GU039S050	1	39	6_If and wish Passive	私たちのアパートはとても小さいです。 もう少しスペースがあればいいのにと思います。	Our apartment is very small. I wish we had a bit more space.		
+GU039S051	1	39	6_If and wish Passive	あなたはいつも疲れています。 そんなに遅く寝なければ、いつも疲れているわけではないでしょう。	"You're always tired. If you didn't go to bed so late, you wouldn't be tired all the time."		
+GU039S052	1	39	6_If and wish Passive	車が多すぎます。 車がこれほど多くなければ、これほど大気汚染は起こらないでしょう。	"There are too many cars. If there weren't so many cars, there wouldn't be so much pollution."		
+GU039S053	1	39	6_If and wish Passive	エレベーターが壊れているので、階段を登らなければなりません。 エレベーターが動いてればいいのに。	"The lift is broken, so we have to climb the stairs. I wish the lift was working."		
+GU039S054	1	39	6_If and wish Passive	私たちは皆、仕事とお金を必要としていますが、働く必要がなかったら何をしますか?	"We all need jobs and money, but what would you do if you didn't have to work?"		
+GU039S055	1	39	6_If and wish Passive	もし別の言語を話せれば、彼女はもっと良い仕事に就くことができるだろう。	She could get a better job if she could speak another language.		
+GU039S056	1	39	6_If and wish Passive	あなたのことを助けられたらいいのに。	I wish I could help you.		
+GU039S057	1	39	6_If and wish Passive	申し訳ありませんが、今行かなければなりません。 もっと長く滞在できたらいいのにと思います。	I'm sorry I have to go now. I wish I could stay longer.		
+GU039S058	1	39	6_If and wish Passive	できればお手伝いしたいのですが、残念ながらそれはできません。	"I'd help you if I could, but I'm afraid I can't."		
+GU039S059	1	39	6_If and wish Passive	雨が降っているのが残念だ。 乾いていれば、外で座って食事ができるでしょう。	"It's a shame it's raining. If it was dry, we could sit and eat outside."		
+GU039S060	1	39	6_If and wish Passive	もっと早く読めたらいいのに。 本を読み終えるのに何年もかかります。	I wish I could read faster. It takes me ages to finish a book.		
+GU039S061	1	39	6_If and wish Passive	できれば休みが欲しいですが、そんな余裕はありません。	"We'd have a holiday if we could, but we can't afford it."		
+GU039S062	1	39	6_If and wish Passive	携帯電話があればクリスに電話できるのですが、持ってくるのを忘れてしまいました。	"I could call Chris if I had my phone, but I forgot to bring it."		
+GU040S001	1	40	6_If and wish Passive	もし知っていたら、あなたを訪ねて行ったのに。	"If I'd known, I would have gone to visit you."		
+GU040S002	1	40	6_If and wish Passive	あなたが通りですれ違ったとき、私はあなたに気づきませんでした。 もし会っていたら、もちろん挨拶しただろう。	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
+GU040S003	1	40	6_If and wish Passive	彼らは昨夜外出しませんでした。 もし彼らがそんなに疲れていなければ、彼らは出かけていただろう。	They didn't go out last night. They would have gone out if they hadn't been so tired.		
+GU040S004	1	40	6_If and wish Passive	もし、どこへ行くのか見ていたら、壁にぶつかることはなかったでしょう。	"If you'd been looking where you were going, you wouldn't have walked into the wall."		
+GU040S005	1	40	6_If and wish Passive	景色は素晴らしかったです。 もしカメラを持っていたら、何枚か写真を撮っただろうに。	The view was wonderful. I would have taken some pictures if l'd had a camera with me.		
+GU040S006	1	40	6_If and wish Passive	おなかがすいていない。 お腹が空いたら何か食べます。	"I'm not hungry. If I was hungry, I would eat something."		
+GU040S007	1	40	6_If and wish Passive	お腹は空いていませんでした。 もしお腹が空いていたら、何か食べていただろう。	"I wasn't hungry. If I had been hungry, I would have eaten something."		
+GU040S008	1	40	6_If and wish Passive	すいません遅れました。 私たちのタクシーは渋滞にはまりました。 歩いていたらもっと早かっただろう。	Sorry I'm late. Our taxi got stuck in the traffic. It would have been quicker if we'd walked.		
+GU040S009	1	40	6_If and wish Passive	レイチェルの誕生日のことを思い出させてくれてありがとう。 あなたが思い出させてくれなかったら忘れていたでしょう。	Thanks for reminding me about Rachel's birthday. I would have forgotten if you hadn't reminded me.		
+GU040S010	1	40	6_If and wish Passive	連絡が取れませんでした。 もしあなたの電子メールアドレスを知っていたら、あなたに電子メールを送ったのに。	"I wasn't able to contact you. If I'd had your email address, I would have sent you an email."		
+GU040S011	1	40	6_If and wish Passive	私たちの旅行は問題ありませんでしたが、天気が良ければもっと楽しめたでしょう。	"Our trip was OK, but we would have enjoyed it more if the weather had been better."		
+GU040S012	1	40	6_If and wish Passive	サラは空港行きの電車に間に合うように駅に着きました。 もし彼女が電車に乗り遅れていたら、飛行機にも乗り遅れていただろう。	"Sarah got to the station just in time to catch her train to the airport. If she'd missed the train, she would have missed her flight too."		
+GU040S013	1	40	6_If and wish Passive	私は疲れていません。 疲れていたら、今すぐ家に帰ります。	"I'm not tired. If I was tired, I'd go home now."		
+GU040S014	1	40	6_If and wish Passive	昨夜は疲れていませんでした。 もし疲れていたら、早く家に帰っていただろう。	"I wasn't tired last night. If I'd been tired, I would have gone home early."		
+GU040S015	1	40	6_If and wish Passive	カレンさんはシートベルトのおかげで事故で怪我をしなかった。 もしそれを着ていなかったら、おそらく怪我をしていたでしょう。	"Karen wasn't injured in the crash thanks to her seat belt. If she hadn't been wearing it, she would probably have been injured."		
+GU040S016	1	40	6_If and wish Passive	ゲイリーが病気だと知っていればよかった。 私なら彼に会いに行っただろう。	I wish I'd known that Gary was ill. I would have gone to see him.		
+GU040S017	1	40	6_If and wish Passive	気分が悪いです。 そんなに食べなければよかった。	I feel sick. I wish I hadn't eaten so much.		
+GU040S018	1	40	6_If and wish Passive	語学ではなく科学を勉強しておけばよかったと思いますか?	Do you wish you'd studied science instead of languages?		
+GU040S019	1	40	6_If and wish Passive	彼に会えて嬉しかったです。	I'm glad I saw him.		
+GU040S020	1	40	6_If and wish Passive	彼に会えばよかった。	I wish I'd seen him.		
+GU040S021	1	40	6_If and wish Passive	車での移動は長くて疲れました。 電車で行けばよかった。	The journey by car was long and tiring. I wish we had gone by train.		
+GU040S022	1	40	6_If and wish Passive	ドアを青く塗ったのは間違いでした。 赤く塗ればよかった。	It was a mistake to paint the door blue. I wish I had painted it red.		
+GU040S023	1	40	6_If and wish Passive	新しいソファを買ったけど、今は気に入らない。 買わなければよかった。	"I bought a new sofa, but I don't like it now. I wish I hadn't bought it."		
+GU040S024	1	40	6_If and wish Passive	アランは私のアドバイスを受け入れるべきだった。 彼が私の言った通りにしてくれればよかったのに。	Alan should have taken my advice. I wish he'd done as I said.		
+GU040S025	1	40	6_If and wish Passive	パーティーは本当に退屈だった。 行かなければよかったのに。	The party was really boring. I wish we hadn't gone.		
+GU040S026	1	40	6_If and wish Passive	あなたのアイデアは素晴らしいですね。 そう考えればよかったのに。	Your idea is brilliant. I wish I'd thought of that.		
+GU040S027	1	40	6_If and wish Passive	結婚式で写真を撮っておけばよかった。 今から見てみると良いでしょう。	I wish we'd taken some pictures at the wedding. It would be nice to look at them now.		
+GU040S028	1	40	6_If and wish Passive	私の言ったことは間違っていました。 言わなければよかったのに。	What I said was wrong. I wish I hadn't said it.		
+GU040S029	1	40	6_If and wish Passive	会議は短すぎました。 もっと話し合う時間があればよかったと思います。	The meeting was too short. I wish we'd had more time to discuss things.		
+GU040S030	1	40	6_If and wish Passive	もしあなたに会っていたら、挨拶しただろうに。	"If I had seen you, I would have said hello."		
+GU040S031	1	40	6_If and wish Passive	もしあなたに会っていたら、挨拶しただろうに。	"If I'd seen you, I'd have said hello."		
+GU040S032	1	40	6_If and wish Passive	私たちが休暇に行ったとき、天気は寒かった。 もっと暖かくなればよかったのに。	The weather was cold when we were on holiday. I wish it had been warmer.		
+GU040S033	1	40	6_If and wish Passive	あなたが昨夜のパーティーに出席できなかったのは残念です。 来ていたら楽しかったでしょうね。	It's a shame you weren't at the party last night. You would have enjoyed it if you'd come.		
+GU040S034	1	40	6_If and wish Passive	早起きしなければならないとは知りませんでした。 もし知っていたら、あなたを起こしたのに。	"I didn't know you had to get up early. If I'd known, I would have woken you up."		
+GU040S035	1	40	6_If and wish Passive	私は楽器を演奏できません。 もっと若い時に演奏を習っておけばよかったと思います。	I can't play a musical instrument. I wish I'd learned to play one when I was younger.		
+GU040S036	1	40	6_If and wish Passive	道路には氷が張っていました。 道路が凍結していなければ、その事故は起こらなかったでしょう。	There was ice on the road. The accident wouldn't have happened if the road hadn't been icy.		
+GU040S037	1	40	6_If and wish Passive	私たちは数か月前に新しいアパートに引っ越しましたが、それが気に入らないのです。 引っ越しなければよかったのに。	"We moved to a new apartment a few months ago, but I don't like it. I wish we hadn't moved."		
+GU040S038	1	40	6_If and wish Passive	本当にひどいプレーをしたので、私たちは試合に負けた。 もし我々がもっと良いプレーをしていたら、我々は勝っていただろう。	"We lost the game because we played really badly. If we'd played better, we would have won."		
+GU040S039	1	40	6_If and wish Passive	去年、私たちはニューヨークで数日間過ごしましたが、やりたいことをすべてやる時間がありませんでした。 もっと時間があればよかったのに。	"Last year we spent a few days in New York, but we didn't have time to do all the things we wanted to do. I wish we'd had more time."		
+GU040S040	1	40	6_If and wish Passive	何も食べる気がしませんでした。 もしお腹が空いていたら、何か食べていただろう。	"I didn't feel like eating anything. If I'd been hungry, I would have had something to eat."		
+GU040S041	1	40	6_If and wish Passive	もし昨晩パーティーに行っていたら、私は今疲れていただろう。	"If I'd gone to the party last night, I would be tired now."		
+GU040S042	1	40	6_If and wish Passive	もし私が昨夜パーティーに行っていたら、たくさんの人に会っただろう。	"If I'd gone to the party last night, I would have met lots of people."		
+GU040S043	1	40	6_If and wish Passive	もし天気がそれほど悪くなかったら、私たちは出かけたのに。	"If the weather hadn't been so bad, we would have gone out."		
+GU040S044	1	40	6_If and wish Passive	もし天気がそれほど悪くなかったら、私たちは出かけられたのに。	"If the weather hadn't been so bad, we could have gone out."		
+GU040S045	1	40	6_If and wish Passive	天気がそれほど悪くなかったら、私たちは出かけていたかもしれません。	"If the weather hadn't been so bad, we might have gone out."		
+GU040S046	1	40	6_If and wish Passive	残念ながら雨が降っていました。 雨が降っていなければ、私たちはビーチに行くことができたのに。	"Unfortunately it was raining. If it hadn't been raining, we could have gone to the beach."		
+GU040S047	1	40	6_If and wish Passive	私が店で見たスカーフはとても高価でした。 もう少し安かったら、買っていたかも知れません。	"The scarf I saw in the shop was really expensive. If it had been a little cheaper, I might have bought it."		
+GU040S048	1	40	6_If and wish Passive	ランチを食べられてよかったです。 何も食べていなかったら、今頃お腹が空いているでしょう。	"I'm glad I had lunch. If I hadn't eaten anything, I'd be hungry now."		
+GU040S049	1	40	6_If and wish Passive	私は学生時代にあまり勉強しませんでした。 もっと成績が良かったら大学に行けたかもしれない。	"I didn't study hard when I was at school. If I'd done better, I could have gone to university."		
+GU040S050	1	40	6_If and wish Passive	何をすればいいのか分かりませんでした。 もしあなたが私の立場だったら、どうしたでしょうか？	"I didn't know what to do. If you'd been in my position, what would you have done?"		
+GU040S051	1	40	6_If and wish Passive	リサの誕生日のことを思い出させてくれて良かったです。 あなたが何も言わなかったら、私は覚えていなかったかもしれません。	"It's good that you reminded me about Lisa's birthday. If you hadn't said anything, I might not have remembered."		
+GU041S001	1	41	6_If and wish Passive	今後ともご多幸をお祈り申し上げます。	I wish you all the best in the future.		
+GU041S002	1	41	6_If and wish Passive	試験前にマークに会いましたが、彼は私の幸運を祈っていました。	I saw Mark before the exam and he wished me luck.		
+GU041S003	1	41	6_If and wish Passive	ごめんなさい、体調が優れません。 あなたがすぐに良い気持ちになるとうれしい。	I'm sorry you're not well. I hope you feel better soon.		
+GU041S004	1	41	6_If and wish Passive	楽しいご滞在をお祈りしております。	I wish you a pleasant stay here.		
+GU041S005	1	41	6_If and wish Passive	楽しいご滞在をお過ごしいただければ幸いです。	I hope you have a pleasant stay here.		
+GU041S006	1	41	6_If and wish Passive	休日を楽しんで。 楽しい時間をお過ごしいただければ幸いです。	Enjoy your holiday. I hope you have a great time.		
+GU041S007	1	41	6_If and wish Passive	さようなら！ 皆様の今後のご多幸を心よりお祈り申し上げます。	Goodbye! I wish you all the best for the future.		
+GU041S008	1	41	6_If and wish Passive	私たちはお互いに別れを告げ、お互いの幸運を祈りました。	We said goodbye to one another and wished each other luck.		
+GU041S009	1	41	6_If and wish Passive	私たちは明日ピクニックに行く予定なので、天気がいいといいのですが。	"We're going to have a picnic tomorrow, so I hope the weather is nice."		
+GU041S010	1	41	6_If and wish Passive	新しいお仕事おめでとうございます。 皆様のご成功をお祈りしております。	Congratulations on your new job. I wish you every success.		
+GU041S011	1	41	6_If and wish Passive	新しい仕事で頑張ってください。 うまくいくことを願っています。	Good luck in your new job. I hope it works out well for you.		
+GU041S012	1	41	6_If and wish Passive	その問題に対して何をすべきか知っていればよかったのですが。	I wish I knew what to do about the problem.		
+GU041S013	1	41	6_If and wish Passive	そんなに早く行かなくてもよかったのに。	I wish you didn't have to go so soon.		
+GU041S014	1	41	6_If and wish Passive	海の近くに住みたいと思いますか?	Do you wish you lived near the sea?		
+GU041S015	1	41	6_If and wish Passive	ジャックはもうすぐメキシコへ旅行に行く予定です。 私も行けばよかったのに。	Jack's going on a trip to Mexico soon. I wish I was going too.		
+GU041S016	1	41	6_If and wish Passive	パーティーのことを知っていればよかった。 知っていたら行ったのに。	I wish I'd known about the party. I'd have gone if l'd known.		
+GU041S017	1	41	6_If and wish Passive	愚かな発言でした。 言わなければよかったのに。	It was a stupid thing to say. I wish I hadn't said it.		
+GU041S018	1	41	6_If and wish Passive	どうすればいいのか分かりません。 何をすべきか知っていればよかったのですが。	I don't know what to do. I wish I knew what to do.		
+GU041S019	1	41	6_If and wish Passive	あなたはあまり忍耐強くありません。 いつも何かをすぐに欲しがります。 もっと辛抱強くなればいいのに。	You're not very patient. You always want things immediately. I wish you were more patient.		
+GU041S020	1	41	6_If and wish Passive	とても疲れていて、やるべきことがたくさんあります。 そんなに疲れてなかったらよかったのに。	I'm very tired and I have so much to do. I wish I weren't so tired.		
+GU041S021	1	41	6_If and wish Passive	あなたは私に病気だとは言いませんでした。 なぜだめですか？ 教えてくれればよかったのに。	You didn't tell me you were ill. Why not? I wish you had told me.		
+GU041S022	1	41	6_If and wish Passive	雨が降っている。 傘を持っていないので、かなり濡れてしまいます。 傘があればいいのに。	It's raining. I don't have an umbrella and I'm getting very wet. I wish I had an umbrella.		
+GU041S023	1	41	6_If and wish Passive	この靴を買ったけど、今は気に入らない。 買わなければよかったです。	"I bought these shoes, but now I don't like them. I wish I hadn't bought them."		
+GU041S024	1	41	6_If and wish Passive	今は出かけなければなりませんが、行きたくないです。 今は外出しなくてもよかったのに。	We have to go out now and I don't want to go. I wish we didn't have to go out now.		
+GU041S025	1	41	6_If and wish Passive	私たちはひどい休日を過ごしました。 私たちは全く楽しめませんでした。 家にいればよかった。	We had a terrible holiday. We didn't enjoy it at all. I wish we'd stayed at home.		
+GU041S026	1	41	6_If and wish Passive	ごめんなさい、行かなければなりません。 もっと長く滞在していただければと思います。	I'm sorry you have to go. I wish you could stay longer.		
+GU041S027	1	41	6_If and wish Passive	私は前にその男に会ったことがあります。 彼の名前を覚えていられたらいいのに。	I've met that man before. I wish I could remember his name.		
+GU041S028	1	41	6_If and wish Passive	パーティーは素晴らしかったと聞いています。 行けばよかったのに。	I hear the party was great. I wish I could have gone.		
+GU041S029	1	41	6_If and wish Passive	ノートを紛失してしまいました。 見つけられたらいいのですが。	I've lost my notebook. I wish I could find it.		
+GU041S030	1	41	6_If and wish Passive	何をすればいいのか分かりません。 決められたらいいのに。	I'm not sure what I should do. I wish I could decide.		
+GU041S031	1	41	6_If and wish Passive	私たちはパリで本当に良い週末を過ごしました。 もっと長く滞在できればよかったと思います。	We had a really good weekend in Paris. I wish we could have stayed longer.		
+GU041S032	1	41	6_If and wish Passive	私はあまり良い声を持っていません。 もっと上手に歌えたらいいのに。	I don't have a very good voice. I wish I could sing better.		
+GU041S033	1	41	6_If and wish Passive	車があればいいですね。 余裕があればいいのですが。	It would be nice to have a car. I wish we could afford it.		
+GU041S034	1	41	6_If and wish Passive	残念ながら結婚式には欠席してしまいました。 行けばよかったのに。	I missed the wedding unfortunately. I wish I could have gone.		
+GU041S035	1	41	6_If and wish Passive	雨が止んでくれるといいのですが。	I wish it would stop raining.		
+GU041S036	1	41	6_If and wish Passive	電話が5分間鳴り続けています。 誰かが答えてくれるといいのですが。	The phone has been ringing for five minutes. I wish somebody would answer it.		
+GU041S037	1	41	6_If and wish Passive	何もせずに座っているだけでなく、何かをしてほしいと思います。	I wish you'd do something instead of just sitting and doing nothing.		
+GU041S038	1	41	6_If and wish Passive	私の邪魔をし続けないでほしいのですが。	I wish you wouldn't keep interrupting me.		
+GU041S039	1	41	6_If and wish Passive	彼女が急いでくれればいいのに。	I wish she would hurry up.		
+GU041S040	1	41	6_If and wish Passive	誰かが私に仕事を与えてくれればいいのに。	I wish somebody would give me a job.		
+GU041S041	1	41	6_If and wish Passive	そんなに速く運転しないでほしいです。	I wish you wouldn't drive so fast.		
+GU041S042	1	41	6_If and wish Passive	あの犬が吠えるのをやめてくれればいいのに。	I wish that dog would stop barking.		
+GU041S043	1	41	6_If and wish Passive	新しい服を買ってくれるといいのですが。	I wish you would buy some new clothes.		
+GU041S044	1	41	6_If and wish Passive	ずっとドアを開けっ放しにしないでほしいです。	I wish you wouldn't leave the door open all the time.		
+GU041S045	1	41	6_If and wish Passive	人々が道にゴミを捨てないでほしいと思います。	I wish people wouldn't drop litter in the street.		
+GU041S046	1	41	6_If and wish Passive	サラが来てくれればいいのに。	I wish Sarah would come.		
+GU041S047	1	41	6_If and wish Passive	サラが今ここにいればよかったのに。	I wish Sarah was here now.	I wish Sarah were here now.	
+GU041S048	1	41	6_If and wish Passive	誰かが私に車を買ってくれたらいいのに。	I wish somebody would buy me a car.		
+GU041S049	1	41	6_If and wish Passive	車があればいいのに。	I wish I had a car.		
+GU041S050	1	41	6_If and wish Passive	難しい質問ですね。 答えがわかればいいのですが。	It's a difficult question. I wish I knew the answer.		
+GU041S051	1	41	6_If and wish Passive	バスが来ればいいのに。 20分も待っています。	I wish the bus would come. We've been waiting for 20 minutes.		
+GU041S052	1	41	6_If and wish Passive	私は緑のジャケットを着たあの男が好きではありません。 彼がいなくなってくれればいいのに。	I don't like that man in the green jacket. I wish he'd go away.		
+GU041S053	1	41	6_If and wish Passive	今日は寒いです。 そんなに寒くないといいのですが。	It's freezing today. I wish it wasn't so cold.		
+GU041S054	1	41	6_If and wish Passive	あなたが言ったことをすべきだった。 あなたのアドバイスを聞いておけばよかったです。	I should have done what you said. I wish I'd taken your advice.		
+GU041S055	1	41	6_If and wish Passive	遠ざかっていくのは幸運だ。 一緒に来れたらいいのに。	You're lucky to be going away. I wish I could come with you.		
+GU041S056	1	41	6_If and wish Passive	なぜあなたは私の邪魔をし続けるのですか？ 聞いていただければ幸いです。	Why do you keep interrupting me? I wish you would listen.		
+GU041S057	1	41	6_If and wish Passive	生活費はとても高いです。 すべてがそれほど高価でなければいいのにと思います。	The cost of living is very high. I wish everything wasn't so expensive.		
+GU041S058	1	41	6_If and wish Passive	ピアノがあればいいのに。 ぜひお持ちいただきたいです。	I wish I had a piano. I'd love to have one.		
+GU041S059	1	41	6_If and wish Passive	誰か私にピアノをくれたらいいのに。	I wish somebody would give me a piano.		
+GU041S060	1	41	6_If and wish Passive	あなたは文句を言うのが大好きです！ いつも文句を言わないでほしいです。	You love complaining! I wish you wouldn't complain all the time.		
+GU042S001	1	42	6_If and wish Passive	1981年に誰かがこの家を建てました。	Somebody built this house in 1981.		
+GU042S002	1	42	6_If and wish Passive	この家は1981年に建てられました。	This house was built in 1981.		
+GU042S003	1	42	6_If and wish Passive	私の祖父は建設業者でした。 彼は1981年にこの家を建てました。	My grandfather was a builder. He built this house in 1981.		
+GU042S004	1	42	6_If and wish Passive	大きな会社ですよ。 従業員は 200 人です。	It's a big company. It employs two hundred people.		
+GU042S005	1	42	6_If and wish Passive	A: この家は築何年ですか? B: 1981 年に建てられました。	A: How old is this house? B: It was built in 1981.		
+GU042S006	1	42	6_If and wish Passive	その会社には200人が雇用されています。	Two hundred people are employed by the company.		
+GU042S007	1	42	6_If and wish Passive	空港は霧のため閉鎖されました。 彼らはすべてのフライトをキャンセルしました。	The airport was closed because of fog.  They cancelled all flights.		
+GU042S008	1	42	6_If and wish Passive	空港は霧のため閉鎖されました。 すべてのフライトがキャンセルされました。	The airport was closed because of fog. All flights were cancelled.		
+GU042S009	1	42	6_If and wish Passive	価格には税金とサービスが含まれています。 価格はまさに支払わなければならないものです。	The price includes taxes and service. The price is exactly what you have to pay.		
+GU042S010	1	42	6_If and wish Passive	税金とサービス料は料金に含まれております。 価格はまさに支払わなければならないものです。	Taxes and service are included in the price. The price is exactly what you have to pay.		
+GU042S011	1	42	6_If and wish Passive	私たちは傘を持って行きましたが、雨は降りませんでした。 傘は必要ありませんでした。	"We took an umbrella with us, but it didn't rain. We didn't need the umbrella."		
+GU042S012	1	42	6_If and wish Passive	私たちは傘を持って行きましたが、雨は降りませんでした。 傘は必要ありませんでした。	"We took an umbrella with us, but it didn't rain. The umbrella wasn't needed."		
+GU042S013	1	42	6_If and wish Passive	盛大な結婚式でした。 たくさんの人がいました。 彼らは結婚式に500人を招待した。	It was a big wedding. There were lots of people. They invited five hundred people to the wedding.		
+GU042S014	1	42	6_If and wish Passive	盛大な結婚式でした。 たくさんの人がいました。 結婚式には500人が招待された。	It was a big wedding. There were lots of people. Five hundred people were invited to the wedding.		
+GU042S015	1	42	6_If and wish Passive	この道は交通量があまり多くありません。 この道を使う人はあまり多くありません。	There isn't much traffic on this road. Not many people use this road.		
+GU042S016	1	42	6_If and wish Passive	この道は交通量があまり多くありません。 この道はあまり使われていない。	There isn't much traffic on this road. This road isn't used a lot.		
+GU042S017	1	42	6_If and wish Passive	この言葉は今まで見たことがありません。 この言葉はどうやって発音しますか？	I've never seen this word before. How do you pronounce this word?		
+GU042S018	1	42	6_If and wish Passive	この言葉は今まで見たことがありません。 この単語はどのように発音されますか?	I've never seen this word before. How is this word pronounced?		
+GU042S019	1	42	6_If and wish Passive	強盗で大金が盗まれました。	A lot of money was stolen in the robbery.		
+GU042S020	1	42	6_If and wish Passive	この部屋は毎日掃除されますか?	Is this room cleaned every day?		
+GU042S021	1	42	6_If and wish Passive	この家は私の祖父によって建てられました。	This house was built by my grandfather.		
+GU042S022	1	42	6_If and wish Passive	その会社には200人が雇用されています。	Two hundred people are employed by the company.		
+GU042S023	1	42	6_If and wish Passive	多くの事故は不注意な運転によって引き起こされます。	Many accidents are caused by careless driving.		
+GU042S024	1	42	6_If and wish Passive	チーズは牛乳から作られます。	Cheese is made from milk.		
+GU042S025	1	42	6_If and wish Passive	強盗事件の直後、男が逮捕された。	"Shortly after the robbery, a man was arrested."		
+GU042S026	1	42	6_If and wish Passive	私は速く走っていましたが、他の多くの車に追い抜かれました。	"I was driving fast, but we were overtaken by a lot of other cars."		
+GU042S027	1	42	6_If and wish Passive	数日前、嵐で建物の屋根が破損しました。	A few days ago the roof of the building was damaged in a storm.		
+GU042S028	1	42	6_If and wish Passive	アメリカでは大統領選挙が4年ごとに行われます。	"In the USA, elections for president are held every four years."		
+GU042S029	1	42	6_If and wish Passive	道路からは家は見えません。 木々に囲まれています。	You can't see the house from the road. It is surrounded by trees.		
+GU042S030	1	42	6_If and wish Passive	誰かが毎日この部屋を掃除します。	Somebody cleans this room every day.		
+GU042S031	1	42	6_If and wish Passive	この部屋は毎日掃除されます。	This room is cleaned every day.		
+GU042S032	1	42	6_If and wish Passive	天気の変化によって頭痛が起こることがあります。	Sometimes headaches are caused by changes in the weather.		
+GU042S033	1	42	6_If and wish Passive	パーティーにはあまり誘われないんです。	I'm not invited to parties very often.		
+GU042S034	1	42	6_If and wish Passive	この建物は何と呼ばれますか? 名前はありますか？	What is this building called? Does it have a name?		
+GU042S035	1	42	6_If and wish Passive	映画館とは映画を上映する場所です。	A cinema is a place where films are shown.		
+GU042S036	1	42	6_If and wish Passive	この植物はとても珍しいです。 ごく限られた場所で発見されています。	This plant is very rare. It is found in very few places.		
+GU042S037	1	42	6_If and wish Passive	銀は何に使われるのですか？	What is silver used for?		
+GU042S038	1	42	6_If and wish Passive	これらのおもちゃはすべて木でできています。	All these toys are made of wood.		
+GU042S039	1	42	6_If and wish Passive	私はこれらの花を今まで見たことがありません。 彼らは何と呼ばれている？	I haven't seen these flowers before. What are they called?		
+GU042S040	1	42	6_If and wish Passive	このオフィスは現在空になっています。 もう使われていません。	This office is now empty. It is not used any more.		
+GU042S041	1	42	6_If and wish Passive	通りの端にある 3 軒の家は同じ人が所有しています。	The three houses at the end of the street are owned by the same person.		
+GU042S042	1	42	6_If and wish Passive	会議のためにそこにいる必要はありません。 私は必要とされていません。	I don't have to stay for the meeting. I'm not needed.		
+GU042S043	1	42	6_If and wish Passive	昨日誰かがこの部屋を掃除しました。	Somebody cleaned this room yesterday.		
+GU042S044	1	42	6_If and wish Passive	この部屋は昨日掃除されました。	This room was cleaned yesterday.		
+GU042S045	1	42	6_If and wish Passive	私たちは夜中に大きな騒音で目が覚めました。	We were woken up by a loud noise during the night.		
+GU042S046	1	42	6_If and wish Passive	強盗で盗まれたお金はいくらですか?	How much money was stolen in the robbery?		
+GU042S047	1	42	6_If and wish Passive	A: パーティーに行きましたか? B: いいえ、招待されていません。	"A: Did you go to the party? B: No, I wasn't invited."		
+GU042S048	1	42	6_If and wish Passive	天気が悪かったので、私たちの旅行はキャンセルされました。	Our trip was cancelled because the weather was so bad.		
+GU042S049	1	42	6_If and wish Passive	私たちはパーティーに行きませんでした。 私たちは招待されていませんでした。	We didn't go to the party. We weren't invited.		
+GU042S050	1	42	6_If and wish Passive	私はその手紙を受け取ったことがありません。 間違った住所に送られてきました。	I never received the letter. It was sent to the wrong address.		
+GU042S051	1	42	6_If and wish Passive	昨夜事故がありましたが、幸いなことに怪我はありませんでした。	"There was an accident last night, but fortunately nobody was injured."		
+GU042S052	1	42	6_If and wish Passive	抗生物質をどれくらい前から服用していますか? 初めて使用されたのはいつですか?	How long have we had antibiotics? When were they first used?		
+GU042S053	1	42	6_If and wish Passive	大学に応募しましたが、残念ながら受け入れられませんでした。	"I applied for a place at university, but unfortunately I wasn't accepted."		
+GU042S054	1	42	6_If and wish Passive	私が働いている会社は、はるかに大きな会社が所有しています。	The company I work for is owned by a much larger company.		
+GU042S055	1	42	6_If and wish Passive	テレビはどれくらい前から存在していましたか？ いつ発明されましたか?	How long has television existed? When was it invented?		
+GU042S056	1	42	6_If and wish Passive	ボートは岩に衝突し、すぐに沈没した。 幸いなことに全員が救出されました。	The boat hit a rock and sank quickly. Fortunately everybody was rescued.		
+GU042S057	1	42	6_If and wish Passive	ロバートの両親は彼が幼い頃に亡くなりました。 彼と彼の妹は祖父母に育てられました。	Robert's parents died when he was very young. He and his sister were brought up by their grandparents.		
+GU042S058	1	42	6_If and wish Passive	休暇中にホテルの部屋からカメラが盗まれました。 私が休暇中にホテルの部屋からカメラが消えてしまいました。	"While I was on holiday, my camera was stolen from my hotel room. While I was on holiday, my camera disappeared from my hotel room."		
+GU042S059	1	42	6_If and wish Passive	スーはなぜ仕事を辞めたのですか? 彼女はもう楽しめなかったのでしょうか？ なぜビルは仕事を解雇されたのですか? 彼は何か悪いことをしましたか？	Why did Sue resign from her job? Didn't she enjoy it any more? Why was Bill fired from his job? Did he do something wrong?		
+GU042S060	1	42	6_If and wish Passive	素敵な写真ですね。 彼らはどこに連れて行かれたのでしょうか？ ロンドンで？ これらの写真を撮ったのは誰ですか? あなたが連れて行ったのですか、それとも他の誰かが連れて行ったのですか？	"These are nice pictures. Where were they taken? In London? Who took these pictures? Did you take them, or somebody else?"		
+GU042S061	1	42	6_If and wish Passive	水は地球の表面の大部分を覆っています。	Water covers most of the earth's surface.		
+GU042S062	1	42	6_If and wish Passive	地球の表面のどれくらいが水で覆われていますか?	How much of the earth's surface is covered by water?		
+GU042S063	1	42	6_If and wish Passive	私はロンドンで生まれましたが、カナダで育ちました。	"I was born in London, but I grew up in Canada."		
+GU042S064	1	42	6_If and wish Passive	私はロンドンで生まれましたが、カナダで育ちました。	"I was born in London, but I was brought up in Canada."		
+GU042S065	1	42	6_If and wish Passive	どのように自分を傷つけましたか？ 自転車から落ちましたか？	How did you hurt yourself? Did you fall off your bike?		
+GU042S066	1	42	6_If and wish Passive	どのように自分を傷つけましたか？ 自転車から落とされましたか？	How did you hurt yourself? Were you knocked off your bike?		
+GU042S067	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 気にしていません。	"Sometimes it's noisy here, but it's not a problem. I'm not bothered by it."		
+GU042S068	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 気にしません。	"Sometimes it's noisy here, but it's not a problem. It doesn't bother me."		
+GU042S069	1	42	6_If and wish Passive	空港でストライキがありましたが、私たちには影響ありませんでした。	"There was a strike at the airport, but it didn't affect us."		
+GU042S070	1	42	6_If and wish Passive	空港でストライキがありましたが、私たちは影響を受けませんでした。	"There was a strike at the airport, but we weren't affected."		
+GU043S001	1	43	6_If and wish Passive	後で誰かが部屋を掃除します。	Somebody will clean the room later.		
+GU043S002	1	43	6_If and wish Passive	部屋は後で掃除されます。	The room will be cleaned later.		
+GU043S003	1	43	6_If and wish Passive	状況は深刻だ。 手遅れになる前に何かをしなければなりません。	The situation is serious. Something must be done before it's too late.		
+GU043S004	1	43	6_If and wish Passive	音楽はとても大きくて、遠くからでも聞こえました。	The music was very loud and could be heard from a long way away.		
+GU043S005	1	43	6_If and wish Passive	来年新しいスーパーマーケットが建設される予定です。	A new supermarket is going to be built next year.		
+GU043S006	1	43	6_If and wish Passive	あっちへ行ってください。 一人にしておきたい。	Please go away. I want to be left alone.		
+GU043S007	1	43	6_If and wish Passive	テレビが壊れてしまいました。 残念ながら修理は出来ません。	My television is broken. Unfortunately it can't be repaired.		
+GU043S008	1	43	6_If and wish Passive	明日は何時に着くか分かりません。 遅れるかも知れません。	I'm not sure what time I'll arrive tomorrow. I may be delayed.		
+GU043S009	1	43	6_If and wish Passive	彼らは新しい学校を建設中です。 古いものは取り壊される予定です。	They're building a new school. The old one is going to be knocked down.		
+GU043S010	1	43	6_If and wish Passive	問題はローラのせいではない。 彼女は責められるべきではない。	The problem isn't Laura's fault. She shouldn't be blamed.		
+GU043S011	1	43	6_If and wish Passive	彼女はあまり忍耐強くありません。 彼女は待たされるのが好きではありません。	She's not very patient. She doesn't like to be kept waiting.		
+GU043S012	1	43	6_If and wish Passive	これらの書類は重要です。 それらは安全な場所に保管する必要があります。	These documents are important. They should be kept in a safe place.		
+GU043S013	1	43	6_If and wish Passive	彼はつけひげを生やし、眼鏡をかけていた。 彼は認められたくなかった。	He was wearing a false beard and glasses. He didn't want to be recognised.		
+GU043S014	1	43	6_If and wish Passive	選挙は日曜日に行われます。 完全な結果は火曜日に判明する予定だ。	The election takes place on Sunday. The full results will be known on Tuesday.		
+GU043S015	1	43	6_If and wish Passive	見えるものなら見える。	If something is visible it can be seen.		
+GU043S016	1	43	6_If and wish Passive	何かが信じられないほどのものであれば、それは信じられません。	If something is incredible it can't be believed.		
+GU043S017	1	43	6_If and wish Passive	食べられるものであれば食べられます。	If something is edible it can be eaten.		
+GU043S018	1	43	6_If and wish Passive	食べられないものは食べられません。	If something is inedible it can't be eaten.		
+GU043S019	1	43	6_If and wish Passive	判読できないものがある場合は、読み取ることができません。	If something is illegible it can't be read.		
+GU043S020	1	43	6_If and wish Passive	何かが聞こえる場合、それは聞こえます。	If something is audible it can be heard.		
+GU043S021	1	43	6_If and wish Passive	目に見えないものは見ることができません。	If something is invisible it can't be seen.		
+GU043S022	1	43	6_If and wish Passive	理解できないものは理解できない。	If something is incomprehensible it can't be understood.		
+GU043S023	1	43	6_If and wish Passive	誰かが部屋を掃除したはずだ。	Somebody should have cleaned the room.		
+GU043S024	1	43	6_If and wish Passive	部屋は掃除されているはずだ。	The room should have been cleaned.		
+GU043S025	1	43	6_If and wish Passive	今頃その手紙を受け取っているはずです。 間違ったアドレスに送信された可能性があります。	I should have received the letter by now. It might have been sent to the wrong address.		
+GU043S026	1	43	6_If and wish Passive	もし車に鍵をかけていれば盗まれなかったでしょう。	"If you had locked the car, it wouldn't have been stolen."		
+GU043S027	1	43	6_If and wish Passive	最初はいくつかの問題がありましたが、それらは解決されたようです。	"There were some problems at first, but they seem to have been solved."		
+GU043S028	1	43	6_If and wish Passive	教育にもっとお金を使うべきだと思いますか?	Do you think more money should be spent on education?		
+GU043S029	1	43	6_If and wish Passive	次回の会合まで決定は下されない。	A decision will not be made until the next meeting.		
+GU043S030	1	43	6_If and wish Passive	この道路は状態が悪いです。 ずっと前に修理されているはずです。	This road is in bad condition. It should have been repaired long ago.		
+GU043S031	1	43	6_If and wish Passive	負傷した男性は歩くことができず、運ばれなければならなかった。	The injured man couldn't walk and had to be carried.		
+GU043S032	1	43	6_If and wish Passive	なぜ警察官に怒鳴ったのですか？ そうしなければ逮捕されなかったでしょう。	"Why did you shout at the police officer? If you hadn't done that, you wouldn't have been arrested."		
+GU043S033	1	43	6_If and wish Passive	火災がどのように発生したのかは定かではない。 電気的な故障が原因である可能性があります。	It's not certain how the fire started. It might have been caused by an electrical fault.		
+GU043S034	1	43	6_If and wish Passive	ホテルの受付係に6時半に起こして欲しいと伝えました。	I told the hotel receptionist that I wanted to be woken up at 6.30.		
+GU043S035	1	43	6_If and wish Passive	先週、彼らはお互いに話をしていませんでした。 今、彼らは再び幸せです。 問題は忘れ去られてしまったようだ。	Last week they weren't speaking to one another. Now they're happy again. The problem seems to have been forgotten.		
+GU043S036	1	43	6_If and wish Passive	部屋はいい感じです。 誰かが掃除してくれました。	The room looks nice. Somebody has cleaned it.		
+GU043S037	1	43	6_If and wish Passive	部屋はいい感じです。 掃除済みです。	The room looks nice. It has been cleaned.		
+GU043S038	1	43	6_If and wish Passive	その旅行について聞いたことがありますか？ キャンセルされました。	Have you heard about the trip? It's been cancelled.		
+GU043S039	1	43	6_If and wish Passive	犬に噛まれたことがありますか？	Have you ever been bitten by a dog?		
+GU043S040	1	43	6_If and wish Passive	A: パーティーに行きますか? B: いいえ、招待されていません。	"A: Are you going to the party? B: No, I haven't been invited."		
+GU043S041	1	43	6_If and wish Passive	部屋は素敵に見えました。 誰かが掃除していたのだ。	The room looked nice. Somebody had cleaned it.		
+GU043S042	1	43	6_If and wish Passive	部屋は素敵に見えました。 掃除されていました。	The room looked nice. It had been cleaned.		
+GU043S043	1	43	6_If and wish Passive	野菜はあまり美味しくありませんでした。 調理時間が長すぎました。	The vegetables didn't taste very good. They had been cooked for too long.		
+GU043S044	1	43	6_If and wish Passive	車は3年前のものでしたが、あまり使用されていませんでした。	"The car was three years old, but hadn't been used very much."		
+GU043S045	1	43	6_If and wish Passive	私たちはパーティーに招待されていないので、行きません。	"We haven't been invited to the party, so we're not going."		
+GU043S046	1	43	6_If and wish Passive	今日は会議はありません。 明日に延期になりました。	There's no meeting today. It's been postponed until tomorrow.		
+GU043S047	1	43	6_If and wish Passive	このホテルは私が最後に滞在して以来改装されました。 今はずっと良くなりました。	This hotel has been renovated since I last stayed here. It's much nicer now.		
+GU043S048	1	43	6_If and wish Passive	窓はとても汚れていました。 彼らは何年も掃除されていませんでした。	The windows were very dirty. They hadn't been cleaned for ages.		
+GU043S049	1	43	6_If and wish Passive	この本はもともとスペイン語で書かれていましたが、英語に翻訳されました。	"The book was originally written in Spanish, but it's been translated into English."		
+GU043S050	1	43	6_If and wish Passive	スタジアムに着いたとき、私たちはがっかりしました。 私たちは試合が中止されたことを発見した。	"When we got to the stadium, we were disappointed. We found that the game had been cancelled."		
+GU043S051	1	43	6_If and wish Passive	A: トム、ハチに刺されたことはある？ B: いや、痛いですか？	"A: Tom, have you ever been stung by a bee? B: No, is it painful?"		
+GU043S052	1	43	6_If and wish Passive	最近橋が損傷しました。 まだ修復されていません。	The bridge was damaged recently. It hasn't been repaired yet.		
+GU043S053	1	43	6_If and wish Passive	今誰かが部屋を掃除中です。	Somebody is cleaning the room at the moment.		
+GU043S054	1	43	6_If and wish Passive	部屋は現在掃除中です。	The room is being cleaned at the moment.		
+GU043S055	1	43	6_If and wish Passive	誰かが私たちの後ろを歩いています。 私たちは追跡されていると思います。	There's somebody walking behind us. I think we're being followed.		
+GU043S056	1	43	6_If and wish Passive	A: お手伝いできますか? B: お世話になりました、ありがとう。	"A: Can I help you? B: I'm being served, thanks."		
+GU043S057	1	43	6_If and wish Passive	私が到着したとき、誰かが部屋を掃除していた。	Somebody was cleaning the room when I arrived.		
+GU043S058	1	43	6_If and wish Passive	私が到着したとき、部屋は掃除中でした。	The room was being cleaned when I arrived.		
+GU043S059	1	43	6_If and wish Passive	私たちの後ろを誰かが歩いていました。 私たちは尾行されていたと思います。	There was somebody walking behind us. I think we were being followed.		
+GU043S060	1	43	6_If and wish Passive	彼らは市内の周りに新しい道路を建設中です。	They are building a new road around the city.		
+GU043S061	1	43	6_If and wish Passive	市内の周囲に新しい道路が建設されています。	A new road is being built around the city.		
+GU043S062	1	43	6_If and wish Passive	彼らは空港の近くに新しいホテルを２軒建てた。	They have built two new hotels near the airport.		
+GU043S063	1	43	6_If and wish Passive	空港近くに新しいホテルが２軒建設された。	Two new hotels have been built near the airport.		
+GU043S064	1	43	6_If and wish Passive	私が最後に訪れたとき、彼らはここにいくつかの新しい家を建てていました。	"When I last visited, they were building some new houses here."		
+GU043S065	1	43	6_If and wish Passive	私が最後に訪れたとき、ここには新しい家がいくつか建っていました。	"When I last visited, some new houses were being built here."		
+GU043S066	1	43	6_If and wish Passive	彼らは会議の日付を変更しました。	They have changed the date of the meeting.		
+GU043S067	1	43	6_If and wish Passive	会議の日付が変更されました。	The date of the meeting has been changed.		
+GU043S068	1	43	6_If and wish Passive	誰かその犯罪を捜査している人はいますか？	Is anyone investigating the crime?		
+GU043S069	1	43	6_If and wish Passive	犯罪は捜査されていますか?	Is the crime being investigated?		
+GU043S070	1	43	6_If and wish Passive	彼らが私たちの会話を録音していたとは知りませんでした。	I didn't know that they were recording our conversation.		
+GU043S071	1	43	6_If and wish Passive	私たちの会話が録音されていたとは知りませんでした。	I didn't know that our conversation was being recorded.		
+GU043S072	1	43	6_If and wish Passive	野菜がきれいではなかった。 誰も洗っていませんでした。	The vegetables weren't clean. Nobody had washed them.		
+GU043S073	1	43	6_If and wish Passive	野菜がきれいではなかった。 それらは洗われていませんでした。	The vegetables weren't clean. They hadn't been washed.		
+GU043S074	1	43	6_If and wish Passive	私の車はここに駐車していましたが、もうここにはありません。 私の車が盗まれました。	"My car was parked here, but it's not here any more. My car has been stolen."		
+GU043S075	1	43	6_If and wish Passive	傘をここに置いてきましたが、もうなくなってしまいました。 誰かがそれを持って行ってしまったのです。	"I left my umbrella here, but now it's gone. Somebody has taken it."		
+GU043S076	1	43	6_If and wish Passive	サムは新しい役職を獲得し、より高い給料を得るようになりました。 サムは昇進しました。	Sam has a new job title and he gets a higher salary now. Sam has been promoted.		
+GU043S077	1	43	6_If and wish Passive	リサはちょうどグラスをひっくり返したところです。 今ではバラバラになってしまいました。 リサはガラスを割ってしまいました。	Lisa has just knocked over a glass. Now it's in pieces. Lisa has broken a glass.		
+GU043S078	1	43	6_If and wish Passive	アンは今週オフィスを使えません。 そこでは画家たちが働いています。 アンのオフィスはペンキ塗り中です。	Ann can't use her office this week. The painters are working there. Ann's office is being painted.		
+GU043S079	1	43	6_If and wish Passive	昨日は携帯電話に問題がありましたが、今は大丈夫です。 修正しました。	"I had a problem with my phone yesterday, but it's OK now. I've fixed it."		
+GU043S080	1	43	6_If and wish Passive	部屋に入ると、テーブルと椅子が以前と同じ場所にないことに気づきました。 家具は移動されていました。	I went into the room and saw that the tables and chairs were not in the same place as before. The furniture had been moved.		
+GU043S081	1	43	6_If and wish Passive	私の隣人は半年前に失踪しました。 それ以来、彼の姿は見えていない。	A neighbour of mine disappeared six months ago. He hasn't been seen since then.		
+GU044S001	1	44	6_If and wish Passive	私の祖父は私にこの時計をくれました。	My grandfather gave me this watch.		
+GU044S002	1	44	6_If and wish Passive	私はこの時計を（祖父から）もらいました。	I was given this watch (by my grandfather).	This watch was given to me (by my grandfather).	
+GU044S003	1	44	6_If and wish Passive	仕事のオファーを受けましたが、やりたいとは思えません。	"I've been offered a job, but I don't think I want it."		
+GU044S004	1	44	6_If and wish Passive	決断するために十分な時間が与えられます。	You will be given plenty of time to decide.		
+GU044S005	1	44	6_If and wish Passive	原本は見ていませんが、コピーを見せてもらいました。	"I didn't see the original document, but I was shown a copy."		
+GU044S006	1	44	6_If and wish Passive	ティムはとても楽な仕事に就いています。ほとんど何もしないのに多額の金を払っているのです。	Tim has a very easy job - he's paid a lot of money to do very little.		
+GU044S007	1	44	6_If and wish Passive	面接は簡単ではありませんでした。 いくつか難しい質問をされました。	The interview wasn't easy. I was asked some difficult questions.		
+GU044S008	1	44	6_If and wish Passive	問題があるとは知りませんでした。 それについては何も言われませんでした。	I didn't know there was a problem. I wasn't told anything about it.		
+GU044S009	1	44	6_If and wish Passive	彼女の給料はとても安いです。 なぜ彼女の給料はこんなに少ないのでしょうか？	Her salary is very low. Why is she paid so little?		
+GU044S010	1	44	6_If and wish Passive	エイミーは最近仕事を退職しました。 彼女は同僚からプレゼントをもらいました。	Amy retired from her job recently. She was given a present by her colleagues.		
+GU044S011	1	44	6_If and wish Passive	面接がうまくいくとは思えなかった。 その仕事をオファーされるとは予想していませんでした。	I didn't think the interview went well. I didn't expect to be offered the job.		
+GU044S012	1	44	6_If and wish Passive	彼らは私たちにそのプロジェクトについてあまり話してくれませんでした。 十分な情報が与えられませんでした。	They didn't tell us much about the project. We weren't given enough information.		
+GU044S013	1	44	6_If and wish Passive	機械の使い方を知っていますか？ それがどのように機能するかを見せられましたか？	Do you know how to use the machine? Have you been shown how it works?		
+GU044S014	1	44	6_If and wish Passive	私は人に何をすべきか指示されるのが好きではありません。	I don't like people telling me what to do.		
+GU044S015	1	44	6_If and wish Passive	私は何をすべきかを指示されるのが好きではありません。	I don't like being told what to do.		
+GU044S016	1	44	6_If and wish Passive	子供の頃に動物園に連れて行ってもらった記憶があります。	I remember being taken to the zoo when I was a child.		
+GU044S017	1	44	6_If and wish Passive	スティーブは待たされるのが嫌いです。	Steve hates being kept waiting.		
+GU044S018	1	44	6_If and wish Passive	私たちは見つからずに壁を乗り越えることができました。	We managed to climb over the wall without being seen.		
+GU044S019	1	44	6_If and wish Passive	私たちは招待されていないのに結婚式に行きました。	We went to the wedding without being invited.		
+GU044S020	1	44	6_If and wish Passive	私はプレゼントをあげるのも好きですし、プレゼントされるのも好きです。	I like giving presents and I also like being given them.		
+GU044S021	1	44	6_If and wish Passive	渋滞にはまってしまうとどうすることもできません。	You can't do anything about being stuck in a traffic jam.		
+GU044S022	1	44	6_If and wish Passive	私は大人です。 私は子供扱いされるのが好きではありません。	I'm an adult. I don't like being treated like a child.		
+GU044S023	1	44	6_If and wish Passive	自分のせいではないことで責められるのが嫌いです。	I hate being blamed for things that are not my fault.		
+GU044S024	1	44	6_If and wish Passive	どうすれば蚊に刺されないようにできますか？	How do you avoid being bitten by mosquitoes?		
+GU044S025	1	44	6_If and wish Passive	私はシカゴで生まれました。	I was born in Chicago.		
+GU044S026	1	44	6_If and wish Passive	あなたはどこで生まれましたか？	Where were you born?		
+GU044S027	1	44	6_If and wish Passive	毎日何人の赤ちゃんが生まれますか？	How many babies are born every day?		
+GU044S028	1	44	6_If and wish Passive	エイブラハム・リンカーンは1809年に生まれました。	Abraham Lincoln was born in 1809.		
+GU044S029	1	44	6_If and wish Passive	モーツァルトはオーストリアのザルツブルクで生まれました。	"Mozart was born in Salzburg, Austria."		
+GU044S030	1	44	6_If and wish Passive	ネルソン・マンデラは1918年生まれ。	Nelson Mandela was born in 1918.		
+GU044S031	1	44	6_If and wish Passive	ガリレオとシェイクスピアは同じ年に生まれました。	Galileo and Shakespeare were born in the same year.		
+GU044S032	1	44	6_If and wish Passive	レオナルド・ダ・ヴィンチは1452年に生まれました。	Leonardo da Vinci was born in 1452.		
+GU044S033	1	44	6_If and wish Passive	ニコール・キッドマンはハワイのホノルルで生まれました。	"Nicole Kidman was born in Honolulu, Hawaii."		
+GU044S034	1	44	6_If and wish Passive	パーティーで喧嘩があったが、誰も怪我をしなかった。	"There was a fight at the party, but nobody got hurt."		
+GU044S035	1	44	6_If and wish Passive	あまりパーティーに誘われないんです。	I don't get invited to many parties.		
+GU044S036	1	44	6_If and wish Passive	リズがその仕事のオファーを受けなかったのには驚いた。	I'm surprised Liz didn't get offered the job.		
+GU044S037	1	44	6_If and wish Passive	ジェシカは誰からも好かれています。	Jessica is liked by everybody.		
+GU044S038	1	44	6_If and wish Passive	ピーターは謎の男だった。 彼についてはほとんど知られていなかった。	Peter was a mystery man. Very little was known about him.		
+GU044S039	1	44	6_If and wish Passive	アレックスは庭仕事中に蜂に刺されました。	Alex got stung by a bee while he was working in the garden.		
+GU044S040	1	44	6_If and wish Passive	学生の一人が試験でカンニングをしたのが見つかった。	One of the students got caught cheating in the exam.		
+GU044S041	1	44	6_If and wish Passive	このテニスコートはあまり使われていません。 遊びたい人はあまりいません。	These tennis courts don't get used much. Not many people want to play.		
+GU044S042	1	44	6_If and wish Passive	私は自転車を持っていましたが、数か月前に盗難に遭いました。	"I used to have a bike, but it got stolen a few months ago."		
+GU044S043	1	44	6_If and wish Passive	レイチェルは一生懸命働いていますが、給料はあまり多くありません。	"Rachel works hard, but doesn't get paid very much."		
+GU044S044	1	44	6_If and wish Passive	昨日の夜、車で帰宅中警察に呼び止められました。	Last night I got stopped by the police as I was driving home.		
+GU044S045	1	44	6_If and wish Passive	これらのものは慎重に梱包してください。 何も壊れたくない。	Please pack these things carefully. I don't want anything to get broken.		
+GU044S046	1	44	6_If and wish Passive	人々はよく私の仕事が何なのか知りたがります。 その質問をよく受けます。	People often want to know what my job is. I get asked that question a lot.		
+GU044S047	1	44	6_If and wish Passive	あなたは何年に生まれましたか?	Which year were you born in?		
+GU044S048	1	44	6_If and wish Passive	まだ何の情報も与えられていない。	I haven't been given any information yet.		
+GU044S049	1	44	6_If and wish Passive	道が分からなかったので迷ってしまいました。	"I didn't know the way, so I got lost."		
+GU044S050	1	44	6_If and wish Passive	彼は話しているときに邪魔されるのが嫌いです。	He doesn't like being interrupted when he's speaking.		
+GU044S051	1	44	6_If and wish Passive	窓はどうやって壊れたのですか？ どうしたの？	How did the window get broken? What happened?		
+GU044S052	1	44	6_If and wish Passive	彼女はボランティア活動家です。 彼女は給料をもらっていません。	She's a volunteer worker. She doesn't get paid.		
+GU044S053	1	44	6_If and wish Passive	私は国の北部の小さな町で生まれました。	I was born in a small town in the north of the country.		
+GU044S054	1	44	6_If and wish Passive	私たちはやるべきことをしなければなりませんでした。 私たちには選択肢が与えられませんでした。	We had to do what we did. We weren't given any choice.		
+GU045S001	1	45	6_If and wish Passive	108歳だそうです。	It is said that he is 108 years old.	He is said to be 108 years old.	
+GU045S002	1	45	6_If and wish Passive	キャシーは走るのが大好きです。 彼女は毎日10マイル走ると言われています。	Cathy loves running. It is said that she runs ten miles every day.	Cathy loves running. She is said to run ten miles every day.	
+GU045S003	1	45	6_If and wish Passive	2 つの家は同じ家族に属しています。 二人の間には秘密のトンネルがあると言われています。	The two houses belong to the same family. It is said that there is a secret tunnel between them.	The two houses belong to the same family. There is said to be a secret tunnel between them.	
+GU045S004	1	45	6_If and wish Passive	フランクは旅行が大好きでした。 100カ国以上を訪れたと言われています。	Frank loved travelling. It is said that he visited more than a hundred countries.	Frank loved travelling. He is said to have visited more than a hundred countries.	
+GU045S005	1	45	6_If and wish Passive	このレストランはとても評判が良いです。 町一番だと言われています。	This restaurant has a very good reputation. It's said to be the best in town.		
+GU045S006	1	45	6_If and wish Passive	これらの木はとても長い間ここにありました。 樹齢は200年以上とも言われています。	These trees have been here a very long time. They are said to be over 200 years old.		
+GU045S007	1	45	6_If and wish Passive	彼らがどこにいるのか誰も知りません。 彼らは出国したと言われている。	Nobody knows where they are. They're said to have left the country.		
+GU045S008	1	45	6_If and wish Passive	会社の業績は良くありません。 損をしていると言われています。	The company is not doing well. It's said to be losing money.		
+GU045S009	1	45	6_If and wish Passive	ジャックは若い頃サッカーをしていました。 とても良い選手だったと言われています。	Jack played football when he was younger. He's said to have been a very good player.		
+GU045S010	1	45	6_If and wish Passive	おそらく建物は予定通りに完成しないだろう。 トラブルも多いと言われています。	The building will probably not be completed on time. There are said to be a lot of problems.		
+GU045S011	1	45	6_If and wish Passive	警察は行方不明の少年を探している。 少年は白いセーターとブルージーンズを着ていたとみられる。	The police are looking for a missing boy. It is believed that the boy is wearing a white sweater and blue jeans.	The police are looking for a missing boy. The boy is believed to be wearing a white sweater and blue jeans.	
+GU045S012	1	45	6_If and wish Passive	ストライキは３週間前に始まった。 まもなく終了することが予想されます。	The strike started three weeks ago. It is expected that it will end soon.	The strike started three weeks ago. The strike is expected to end soon.	
+GU045S013	1	45	6_If and wish Passive	私の友人が逮捕されました。 彼は車を盗んだと言われている。	A friend of mine has been arrested. It is alleged that he stole a car.	A friend of mine has been arrested. He is alleged to have stolen a car.	
+GU045S014	1	45	6_If and wish Passive	この爆発で２人が負傷したと報じられている。	It is reported that two people were injured in the explosion.	Two people are reported to have been injured in the explosion.	
+GU045S015	1	45	6_If and wish Passive	今は天気があまり良くありません。 今後改善されることが期待されます。	The weather isn't so good right now. It is expected to improve later.		
+GU045S016	1	45	6_If and wish Passive	洪水は大きな問題を引き起こしました。 多くの人がホームレスになっていると報告されている。	The floods have caused great problems. Many people are reported to be homeless.		
+GU045S017	1	45	6_If and wish Passive	2人の囚人が刑務所から脱走した。 壁を乗り越えて逃走したとみられる。	Two prisoners escaped from the prison. They are thought to have escaped by climing over a wall.		
+GU045S018	1	45	6_If and wish Passive	警察は強盗事件として捜査を行っている。 泥棒たちは窓から侵入したとみられている。	Police are investigating the robbery. The thieves are believed to have got in through a window.		
+GU045S019	1	45	6_If and wish Passive	市内中心部のオフィスビルで大規模な火災が発生した。 建物は甚大な被害を受けたと伝えられている。	There was a big fire at an office building in the city centre. The building is reported to have been badly damaged.		
+GU045S020	1	45	6_If and wish Passive	警察はスピードを出しすぎた車を止めた。 運転手は時速110マイルで運転していたとみられる。	Police stopped a car that was going too fast. The driver is alleged to have been driving at 110 miles an hour.		
+GU045S021	1	45	6_If and wish Passive	その映画が見たいです。 それは良いはずです。	I want to see that film. It's supposed to be good.		
+GU045S022	1	45	6_If and wish Passive	花火は中国で発明されたとされています。 本当ですか？	Fireworks are supposed to have been invented in China. Is it true?		
+GU045S023	1	45	6_If and wish Passive	A: これらの絵の価値はいくらですか? B: よくわかりませんが、とても貴重なものだと思われます。	"A: How much are these paintings worth? B: I'm not sure, but they're supposed to be very valuable."		
+GU045S024	1	45	6_If and wish Passive	A: あなたの近所の人が宝くじで幸運だったというのは本当ですか? B: はい、彼らは大金を獲得したはずです。	"A: Is it true that your neighbours were lucky in the lottery? B: Yes, they're supposed to have won a lot of money."		
+GU045S025	1	45	6_If and wish Passive	A: ローラがいなくなってしまったと聞きました。 B: はい、彼女は今ロンドンに住んでいるはずです。	"A: I heard that Laura has gone away. B: Yes, she's supposed to be living in London now."		
+GU045S026	1	45	6_If and wish Passive	A: これは面白い建物ですね。 B: はい、昔は刑務所だったはずです。	"A: This looks an interesting building. B: Yes, it's supposed to have been a prison a long time ago."		
+GU045S027	1	45	6_If and wish Passive	A: 塔の頂上まで登ることは可能ですか? B: はい、とても景色がいいはずです。	"A: Is it possible to climb to the top of the tower? B: Yes, the view is supposed to be very nice."		
+GU045S028	1	45	6_If and wish Passive	A: ティナはなぜ逮捕されたのですか? B: よくわからないけど、彼女は警察官を殴ったらしいよ。	"A: Why was Tina arrested? B: I don't know for sure, but she's supposed to have hit a police officer."		
+GU045S029	1	45	6_If and wish Passive	この計画は秘密であるはずだが、誰もがそれを知っているようだ。	"The plan is supposed to be a secret, but everybody seems to know about it."		
+GU045S030	1	45	6_If and wish Passive	なぜ今日仕事にいるのですか？ あなたは休暇中のはずです。	Why are you at work today? You're supposed to be on holiday.		
+GU045S031	1	45	6_If and wish Passive	私たちのゲストは7時半に来るはずだったのですが、遅れてしまいました。	"Our guests were supposed to come at 7.30, but they were late."		
+GU045S032	1	45	6_If and wish Passive	急いだほうがいいよ。 10分以内にクリスに会う予定です。	I'd better hurry. I'm supposed to be meeting Chris in ten minutes.		
+GU045S033	1	45	6_If and wish Passive	ここに車を駐車してはいけません。 専用駐車場のみです。	You're not supposed to park your car here. It's private parking only.		
+GU045S034	1	45	6_If and wish Passive	ジェフは病気の後、かなり良くなりましたが、それでも重労働をするべきではありません。	"Jeff is much better after his illness, but he's still not supposed to do any heavy work."		
+GU045S035	1	45	6_If and wish Passive	私をいつも批判してはいけません。 あなたは私の友達になるはずです。	You shouldn't criticise me all the time. You're supposed to be my friend.		
+GU045S036	1	45	6_If and wish Passive	本当はこのケーキを食べるべきではないのですが。 ダイエット中のはずなんです。	I shouldn't be eating this cake really. I'm supposed to be on a diet.		
+GU045S037	1	45	6_If and wish Passive	言ってしまってごめんなさい。 面白くしようとしていたんだ。 冗談のはずだった。	I'm sorry for what I said. I was trying to be funny. It was supposed to be a joke.		
+GU045S038	1	45	6_If and wish Passive	この絵は何ですか? 木ですか？ あるいは、花だと思われるかもしれません。	What's this drawing? Is it a tree? Or maybe it's supposed to be a flower.		
+GU045S039	1	45	6_If and wish Passive	あなたは今その新聞を読んではいけない。 あなたは仕事をしているはずです。	You shouldn't be reading the paper now. You're supposed to be working.		
+GU045S040	1	45	6_If and wish Passive	それは奇妙だ。 博物館は閉館しているようです。 毎日開いているはずです。	That's strange. The museum seems to be closed. It's supposed to be open every day.		
+GU045S041	1	45	6_If and wish Passive	私たちは 8 時 15 分に仕事を始めることになっていますが、8 時半より前に何もすることはほとんどありません。	"We're supposed to start work at 8.15, but we rarely do anything before 8.30."		
+GU045S042	1	45	6_If and wish Passive	昨夜ヘレンに電話する予定だったのですが、すっかり忘れてしまいました。	"I was supposed to phone Helen last night, but I completely forgot."		
+GU045S043	1	45	6_If and wish Passive	この扉は非常口です。 その前には何も置かないでください。	This door is a fire exit. We're not supposed to put anything in front of it.		
+GU045S044	1	45	6_If and wish Passive	私の飛行機は10時15分に出発する予定でしたが、出発したのは11時30分でした。	"My flight was supposed to depart at 10.15, but it didn't leave until 11.30."		
+GU045S045	1	45	6_If and wish Passive	バスは20分ごとに運行するはずですが、すでに30分待っています。	"The buses are supposed to run every 20 minutes, but we've already been waiting half an hour."		
+GU045S046	1	45	6_If and wish Passive	ジョナサンは背中に問題を抱えています。 彼は重いものを持ち上げるべきではない。	Jonathan has a problem with his back. He's not supposed to lift anything heavy.		
+GU045S047	1	45	6_If and wish Passive	こんにちは！ 早いですね。 あなたはまだここにいるべきではありません。 まだ準備出来ていません。	Hi! You're early. You're not supposed to be here yet. I'm not ready.		
+GU046S001	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
+GU046S002	1	46	6_If and wish Passive	リサは屋根を修理した。	Lisa repaired the roof.		
+GU046S003	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
+GU046S004	1	46	6_If and wish Passive	A: そのカーテンは自分で作ったのですか? B: はい、ものづくりが好きです。	"A: Did you make those curtains yourself? B: Yes, I like making things."		
+GU046S005	1	46	6_If and wish Passive	A: そのカーテンはあなたが作ったのですか? B: いいえ、自分で作りました。	"A: Did you have those curtains made? B: No, I made them myself."		
+GU046S006	1	46	6_If and wish Passive	サラは髪を切っています。	Sarah is having her hair cut.		
+GU046S007	1	46	6_If and wish Passive	ビルは髪を切っています。	Bill is cutting his hair.		
+GU046S008	1	46	6_If and wish Passive	ジョンは靴を掃除しています。	John is cleaning his shoes.		
+GU046S009	1	46	6_If and wish Passive	ケイトは門のペンキを塗ってもらっています。	Kate is having the gate painted.		
+GU046S010	1	46	6_If and wish Passive	ケイトは写真を撮っています。	Kate is taking a picture.		
+GU046S011	1	46	6_If and wish Passive	スーは写真を撮ってもらっています。	Sue is having her picture taken.		
+GU046S012	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
+GU046S013	1	46	6_If and wish Passive	髪を切りましたか？	Did you have your hair cut?		
+GU046S014	1	46	6_If and wish Passive	私たちは家の塗装を行っています。	We are having the house painted.		
+GU046S015	1	46	6_If and wish Passive	そのコートはクリーニングに出すべきです。	You should have that coat cleaned.		
+GU046S016	1	46	6_If and wish Passive	私は写真を撮られるのが好きではありません。	I don't like having my picture taken.		
+GU046S017	1	46	6_If and wish Passive	どのくらいの頻度で車の整備を受けていますか?	How often do you have your car serviced?		
+GU046S018	1	46	6_If and wish Passive	あなたの髪は素敵ですね。 カットしてもらったんですか？	Your hair looks nice. Did you have it cut?		
+GU046S019	1	46	6_If and wish Passive	私たちの隣人はガレージを建てています。	Our neighbour is having a garage built.		
+GU046S020	1	46	6_If and wish Passive	私たちは数週間前に家の塗装をしてもらいました。	We had the house painted a few weeks ago.		
+GU046S021	1	46	6_If and wish Passive	サラは年に一度車の整備を受けています。	Sarah has her car serviced once a year.		
+GU046S022	1	46	6_If and wish Passive	キッチンに新しい食器棚を取り付けました。	We've had some new cupboards fitted in the kitchen.		
+GU046S023	1	46	6_If and wish Passive	最近目の検査を受けましたか?	Have you had your eyes tested recently?		
+GU046S024	1	46	6_If and wish Passive	私は髪を切るのが好きではありません。	I don't like having my hair cut.		
+GU046S025	1	46	6_If and wish Passive	私のスーツをクリーニングに出すのに12ポンドかかりました。	It cost twelve pounds to have my suit cleaned.		
+GU046S026	1	46	6_If and wish Passive	自分で髪を切ったわけではありません。 髪を切ってもらいました。	I didn't cut my hair myself. I had my hair cut.		
+GU046S027	1	46	6_If and wish Passive	私たちはカーペットを自分たちで掃除しませんでした。 私たちはカーペットを掃除してもらいました。	We didn't clean the carpets ourselves. We had the carpets cleaned.		
+GU046S028	1	46	6_If and wish Passive	ベンは自分で壁を建てたわけではありません。 彼は壁を建てさせた。	Ben didn't build the wall himself. He had the wall built.		
+GU046S029	1	46	6_If and wish Passive	自分で花を届けたわけではありません。 お花をお届けさせていただきました。	I didn't deliver the flowers myself. I had the flowers delivered.		
+GU046S030	1	46	6_If and wish Passive	サラは自分で靴を修理しませんでした。 彼女は靴を修理してもらいました。	Sarah didn't repair her shoes herself. She had her shoes repaired.		
+GU046S031	1	46	6_If and wish Passive	いつ屋根を修理してもらいますか？	When are you going to get the roof repaired?		
+GU046S032	1	46	6_If and wish Passive	髪を本当に短く切ったほうがいいと思います。	I think you should get your hair cut really short.		
+GU046S033	1	46	6_If and wish Passive	髪が長くなってきました。 切ってもらおうかな。	My hair is getting long. I should get it cut.		
+GU046S034	1	46	6_If and wish Passive	鍵を紛失してしまいました。 もう一つ作ってもらわなければなりません。	I've lost my key. I'll have to get another one made.		
+GU046S035	1	46	6_If and wish Passive	この絵が本当に好きです。 額装してもらうつもりです。	I really like this picture. I'm going to get it framed.		
+GU046S036	1	46	6_If and wish Passive	洗濯機が壊れています。 直してもらう必要がある。	The washing machine is broken. I need to get it fixed.		
+GU046S037	1	46	6_If and wish Passive	イヤリングをつけたいです。 耳にピアスを開けるつもりです。	I want to wear earrings. I'm going to get my ears pierced.		
+GU046S038	1	46	6_If and wish Passive	しばらく歯医者に行っていない。 歯を検査してもらう必要があります。	I haven't been to the dentist for a while. I need to get my teeth checked.		
+GU046S039	1	46	6_If and wish Passive	ポールとカレンは旅行中にカバンを盗まれました。	Paul and Karen had their bags stolen while they were travelling.		
+GU046S040	1	46	6_If and wish Passive	ゲイリーは喧嘩で鼻を骨折した。	Gary had his nose broken in a fight.		
+GU046S041	1	46	6_If and wish Passive	マークは最近強盗に遭いました。 彼は財布を盗まれました。	Mark was robbed recently. He had his wallet stolen.		
+GU046S042	1	46	6_If and wish Passive	空港の警備はとても厳重でした。 私たちは皆、バッグを調べられました。	Security at the airport was very strict. We all had our bags searched.		
+GU046S043	1	46	6_If and wish Passive	彼はビザを取得できない。 彼は申請を拒否された。	He can't get a visa. He had his application refused.		
+GU046S044	1	46	6_If and wish Passive	アンナさんから良い知らせがありました。 彼女は給料が増えました。	Anna's had some good news. She's had her salary increased.		
