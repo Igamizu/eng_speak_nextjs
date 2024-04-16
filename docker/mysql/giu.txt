@@ -1796,17 +1796,17 @@ GU032S005	1	32	5_Modals 2	パスワードを覚えておく必要があります
 GU032S006	1	32	5_Modals 2	勇敢でなければなりません。 恐れてはいけません。	You must be brave. You mustn't be afraid.		
 GU032S007	1	32	5_Modals 2	あなたは約束の時間に間に合う必要があります。 遅刻してはいけません。	You must be on time for the appointment. You mustn't be late.		
 GU032S008	1	32	5_Modals 2	家具はそのままにしておく必要があります。 何も動かしてはいけません。	You must leave the furniture as it is. You mustn't move anything.		
-GU032S009	1	32	5_Modals 2	あなたは立ち去らなければなりません。 ここにいてはいけません。	You must go away. You mustn't stay here.		
+GU032S009	1	32	5_Modals 2	あなたは出ていかなければなりません。 ここにいて（滞在して）はいけません。	You must go away. You mustn't stay here.		
 GU032S010	1	32	5_Modals 2	何が起こったのか忘れなければなりません。 それについて考えてはいけません。	You must forget what happened. You mustn't think about it.		
 GU032S011	1	32	5_Modals 2	時間はたっぷりあります。 急ぐ必要はありません。	We've got plenty of time. We needn't hurry.		
 GU032S012	1	32	5_Modals 2	ジョーはここにいてもいいよ。 彼は私たちと一緒に来る必要はない。	Joe can stay here. He needn't come with us.		
 GU032S013	1	32	5_Modals 2	急ぐ必要はありません。	We don't need to hurry.		
 GU032S014	1	32	5_Modals 2	急ぐ必要はありません。	We needn't hurry.		
-GU032S015	1	32	5_Modals 2	スティーブに言う必要はありません。 私自身も彼に言えます。	You needn't tell Steve. I can tell him myself.		
+GU032S015	1	32	5_Modals 2	スティーブに言う必要はありません。 私自身で彼に言えます。	You needn't tell Steve. I can tell him myself.		
 GU032S016	1	32	5_Modals 2	スティーブに言ってはいけません。 彼には知られたくないんです。	You mustn't tell Steve. I don't want him to know.		
-GU032S017	1	32	5_Modals 2	タクシーで家まで帰れるよ。 歩く必要はありません。	We can get a taxi home. We needn't walk.		
+GU032S017	1	32	5_Modals 2	我々はタクシーで家まで帰れるよ。 我々は歩く必要はありません。	We can get a taxi home. We needn't walk.		
 GU032S018	1	32	5_Modals 2	ゲイリーと話さなければなりません。 彼に電話するのを忘れてはいけません。	I have to talk to Gary. I mustn't forget to call him.		
-GU032S019	1	32	5_Modals 2	トマトを洗う必要はありません。 すでに洗濯済みです。	We needn't wash the tomatoes. They've already been washed.		
+GU032S019	1	32	5_Modals 2	我々はトマトを洗う必要はありません。 それらはすでに洗ってあります。	We needn't wash the tomatoes. They've already been washed.		
 GU032S020	1	32	5_Modals 2	私を待つ必要はありません。 続けてください、私も後で参加します。	You needn't wait for me. You go on and I'll join you later.		
 GU032S021	1	32	5_Modals 2	これらは非常に貴重な資料です。 それらを失ってはなりません。	These are very valuable documents. You mustn't lose them.		
 GU032S022	1	32	5_Modals 2	私たちは十分に注意しなければなりません。 私たちは愚かなことをしてはいけません。	We must be very careful. We mustn't do anything stupid.		
@@ -1822,18 +1822,18 @@ GU032S031	1	32	5_Modals 2	彼らはテーブルを予約する必要はありま
 GU032S032	1	32	5_Modals 2	すべてがうまくいきます。 心配する必要はありません。	Everything will be OK. You needn't worry.		
 GU032S033	1	32	5_Modals 2	すべてOKでした。 心配する必要はありません。	Everything was OK. You needn't have worried.		
 GU032S034	1	32	5_Modals 2	あなたは私に怒鳴る必要はありませんでした。 もっと我慢すべきだった。	You needn't have shouted at me. You should have been more patient.		
-GU032S035	1	32	5_Modals 2	彼は何も言わずに立ち去る必要はなかった。 彼は別れを告げることもできたはずだ。	He needn't have gone away without saying anything. He could have said goodbye.		
+GU032S035	1	32	5_Modals 2	彼は何も言わずに出ていく必要はなかった。 彼は別れを告げることもできたはずだ。	He needn't have gone away without saying anything. He could have said goodbye.		
 GU032S036	1	32	5_Modals 2	彼らはホテルに泊まる必要はなかったのです。 なぜ彼らは私たちと一緒に留まらなかったのですか？	They needn't have stayed at a hotel. Why didn't they stay with us?		
-GU032S037	1	32	5_Modals 2	歩いて家に帰る必要はなかったのです。 タクシーに乗ってもよかったかもしれない。	You needn't have walked home. You could have taken a taxi.		
+GU032S037	1	32	5_Modals 2	あなたは歩いて家に帰る必要はなかったのです。 あなたはタクシーに乗ることができたのです。	You needn't have walked home. You could have taken a taxi.		
 GU032S038	1	32	5_Modals 2	彼女は真夜中に私に電話する必要はなかった。 彼女は朝まで待つこともできたでしょう。	She needn't have called me in the middle of the night. She could have waited until the morning.		
-GU032S039	1	32	5_Modals 2	急ぐ必要はありませんでした。 時間はたっぷりありましたね。	You needn't have rushed. You had plenty of time.		
-GU032S040	1	32	5_Modals 2	なぜ彼は5時に起きたのですか? 彼はそんなに早く起きる必要はなかった。 彼はもっと長くベッドにいたかもしれない。	Why did he get up at 5 o'clock? He needn't have got up so early. He could have stayed in bed longer.		
+GU032S039	1	32	5_Modals 2	あなたは急ぐ必要がありませんでした。 時間はたっぷりありましたね。	You needn't have rushed. You had plenty of time.		
+GU032S040	1	32	5_Modals 2	なぜ彼は5時に起きたのですか? 彼はそんなに早く起きる必要はなかった。 彼はもっと長くベッドにいられたはずだ。	Why did he get up at 5 o'clock? He needn't have got up so early. He could have stayed in bed longer.		
 GU032S041	1	32	5_Modals 2	彼は早起きする必要がなかったので、早起きしませんでした。	"He didn't need to get up early, so he didn't."		
-GU032S042	1	32	5_Modals 2	彼は早起きする必要はありませんでしたが、素晴らしい朝だったので早起きしました。	"He didn't need to get up early but it was a beautiful morning, so he did."		
-GU032S043	1	32	5_Modals 2	卵を買う必要はありませんでした。 すでにいくつかありました。 今では多すぎます。	You needn't have bought eggs. We already had some. Now we have too many.		
+GU032S042	1	32	5_Modals 2	彼は早起きする必要はありませんでしたが、すてきな朝だったので早起きしました。	"He didn't need to get up early but it was a beautiful morning, so he did."		
+GU032S043	1	32	5_Modals 2	あなたは卵を買う必要はありませんでした。 我々はすでにいくつか持っていました。 今では多すぎます。	You needn't have bought eggs. We already had some. Now we have too many.		
 GU032S044	1	32	5_Modals 2	問題があるだろうと思っていましたが、心配する必要はありませんでした。 すべてが大丈夫でした。	"We thought there would be problems, but we needn't have worried. Everything was fine."		
 GU032S045	1	32	5_Modals 2	寒くなるだろうと予想していたので、コートを着ました。 着る必要はなかった - まったく寒くなかった。	"I expected it to be cold, so I wore my coat. I needn't have worn it - it wasn't cold at all."		
-GU032S046	1	32	5_Modals 2	何も言う必要はなかった。 黙っていればよかったのに。	I needn't have said anything. I wish l'd kept quiet.		
+GU032S046	1	32	5_Modals 2	私は何も言う必要はなかった。 黙っていればよかったのに。	I needn't have said anything. I wish l'd kept quiet.		
 GU033S001	1	33	5_Modals 2	あなたが疲れて見える。 あなたは寝るべきだ。	You look tired. You should go to bed.		
 GU033S002	1	33	5_Modals 2	政府は教育を改善するためにもっと努力すべきです。	The government should do more to improve education.		
 GU033S003	1	33	5_Modals 2	A: ステファニーをパーティーに招待したほうがいいですか? B: はい、そうすべきだと思います。	"A: Should we invite Stephanie to the party? B: Yes, I think we should."		
@@ -1848,31 +1848,31 @@ GU033S011	1	33	5_Modals 2	アンナには変化が必要です。 彼女は数�
 GU033S012	1	33	5_Modals 2	ジャックはいつも疲れています。 彼はそんなに遅くまで起きているべきではない。	Jack is always tired. He shouldn't stay up so late.		
 GU033S013	1	33	5_Modals 2	なんて美しい景色でしょう！ 写真を撮ったほうがいいですよ。	What a beautiful view! You should take a picture.		
 GU033S014	1	33	5_Modals 2	スーはいつも不安です。 彼女はそれほど心配する必要はありません。	Sue is always anxious. She shouldn't worry so much.		
-GU033S015	1	33	5_Modals 2	ダンの部屋はあまり綺麗ではありません。 彼は壁に写真を何枚か貼るべきです。	Dan's room isn't very nice. He should put some pictures on the wall.		
+GU033S015	1	33	5_Modals 2	ダンの部屋はあまりよく（素敵では）ないです。 彼は壁に写真を何枚か貼るべきです。	Dan's room isn't very nice. He should put some pictures on the wall.		
 GU033S016	1	33	5_Modals 2	これらのケーキはおいしいです。 試してみるといいでしょう。	These cakes are delicious. You should try one.		
 GU033S017	1	33	5_Modals 2	彼らは結婚すべきではないと思います。	I don't think they should get married.		
 GU033S018	1	33	5_Modals 2	外出すべきではないと思います。	I don't think you should go out.		
-GU033S019	1	33	5_Modals 2	申請したほうがいいと思います。	I think you should apply for it.		
+GU033S019	1	33	5_Modals 2	あなたはそれに申しこんだほうがいいと私は思います。	I think you should apply for it.		
 GU033S020	1	33	5_Modals 2	私は政府が所得税を増税すべきではないと思います。	I don't think the government should increase income tax.		
 GU033S021	1	33	5_Modals 2	ティナはどこですか？ 彼女は今頃ここにいるはずです。	Where's Tina? She should be here by now.		
-GU033S022	1	33	5_Modals 2	このパケットの価格は間違っています。 3.50ポンドではなく、2.50ポンドであるべきです。	"The price on this packet is wrong. It should be ?2.50, not ?3.50."		
+GU033S022	1	33	5_Modals 2	このパケットの価格は間違っています。 3.50ポンドではなく、2.50ポンドであるべきです。	"The price on this packet is wrong. It should be 2.50 pounds, not 3.50 pounds."		
 GU033S023	1	33	5_Modals 2	バイクに乗っているあの男はヘルメットをかぶっていません。 彼はそれを着ているはずだ。	That man on the motorbike isn't wearing a helmet. He should be wearing one.		
 GU033S024	1	33	5_Modals 2	ヘレンは試験に向けて一生懸命勉強しているので、合格するはずです。	"Helen has been studying hard for the exam, so she should pass."		
 GU033S025	1	33	5_Modals 2	町にはホテルがたくさんあります。 泊まる場所を見つけるのは難しくないはずです。	There are plenty of hotels in the town. It shouldn't be hard to find a place to stay.		
 GU033S026	1	33	5_Modals 2	テレビは修理されました。 今は正常に動作しているはずです。	The TV has been repaired. It should be working OK now.		
 GU033S027	1	33	5_Modals 2	ジョーはまだ到着していません。 彼はもうすぐここに来るはずです。	Joe hasn't arrived yet. He should be here soon.		
-GU033S028	1	33	5_Modals 2	ホテルに着くのにそれほど時間はかからないはずです。 約20分。	It shouldn't take long to get to the hotel. About 20 minutes.		
-GU033S029	1	33	5_Modals 2	この単語のスペルが間違っています。 それは「そこ」ではなく「彼ら」であるべきです。	"You've spelt this word wrong. It should be 'their', not 'there'."		
+GU033S028	1	33	5_Modals 2	ホテルに着くのに時間はかからないはずです。 約20分(です)。	It shouldn't take long to get to the hotel. About 20 minutes.		
+GU033S029	1	33	5_Modals 2	"あなたはこの単語を間違って綴っています。 それは""there""ではなく""their""であるべきです。"	"You've spelt this word wrong. It should be 'their', not 'there'."		
 GU033S030	1	33	5_Modals 2	天気は異常に寒いです。 この時期はもっと暖かくなるはずです。	The weather is unusually cold. It should be much warmer at this time of year.		
 GU033S031	1	33	5_Modals 2	空港に行く最も良い方法はタクシーです。 10ポンド以上かかることはないはずです。	The best way to get to the airport is by taxi. It shouldn't cost more than ten pounds.		
 GU033S032	1	33	5_Modals 2	コンピューターに問題がある場合は、再起動してみてください。 それで問題は解決するはずです。	"If you have a problem with the computer, try restarting it. That should solve the problem."		
-GU033S033	1	33	5_Modals 2	昨夜の素晴らしいパーティーに参加できませんでした。 来るべきだった。 なぜそうしなかったのですか？	You missed a great party last night. You should have come. Why didn't you?		
+GU033S033	1	33	5_Modals 2	あなたは昨夜の素晴らしいパーティーを逃しました。 あなたは来るべきでした。 なぜしなかった(来なかった)のですか？	You missed a great party last night. You should have come. Why didn't you?		
 GU033S034	1	33	5_Modals 2	なぜ彼らはこんなに遅いのだろうか。 彼らはずっと前にここに着いたはずだ。	I wonder why they're so late. They should have got here long ago.		
-GU033S035	1	33	5_Modals 2	あなたが疲れて見える。 もう寝た方がいいよ。	You look tired. You should go to bed now.		
-GU033S036	1	33	5_Modals 2	あなたは昨夜とても遅くまで寝ました。 もっと早く寝るべきだった。	You went to bed very late last night. You should have gone to bed earlier.		
+GU033S035	1	33	5_Modals 2	あなたは疲れて見える。 今寝た方がいいよ。	You look tired. You should go to bed now.		
+GU033S036	1	33	5_Modals 2	あなたは昨夜とても遅くに寝ました。 もっと早く寝るべきだった。	You went to bed very late last night. You should have gone to bed earlier.		
 GU033S037	1	33	5_Modals 2	私は気分が悪いです。 そんなに食べるべきではなかった。	I'm feeling sick. I shouldn't have eaten so much.		
-GU033S038	1	33	5_Modals 2	彼女は私たちの会話を聞いているべきではなかった。 それはプライベートでした。	She shouldn't have been listening to our conversation. It was private.		
-GU033S039	1	33	5_Modals 2	何か重要なことがある場合は、すぐに実行する必要があります。 明日まで待たないでください。	"If something is important, you should do it immediately. Don't wait until tomorrow."		
+GU033S038	1	33	5_Modals 2	彼女は私たちの会話を聴いているべきではなかった。 それはプライベートでした。	She shouldn't have been listening to our conversation. It was private.		
+GU033S039	1	33	5_Modals 2	もし何か重要なことがある(何かが重要な)場合、あなたはすぐにやるのがよいです。 明日まで待たないでください。	"If something is important, you should do it immediately. Don't wait until tomorrow."		
 GU033S040	1	33	5_Modals 2	今からやるには遅すぎます。 昨日やるべきだった。	It's too late to do it now. You should have done it yesterday.		
 GU033S041	1	33	5_Modals 2	私たちは昨日試合に負けましたが、勝つべきでした。 私たちはより良いチームでした。	"We lost the game yesterday, but we should have won. We were the better team."		
 GU033S042	1	33	5_Modals 2	ターニャは明日ジェーンとテニスの試合をします。 ジェーンが勝つはずだ。 彼女はターニャよりもはるかに優れた選手だ。	Tanya has a tennis match against Jane tomorrow. Jane should win. She's a much better player than Tanya.		
@@ -1881,18 +1881,18 @@ GU033S044	1	33	5_Modals 2	素晴らしい日ですね。 出かけるべきだ�
 GU033S045	1	33	5_Modals 2	今日は忘れずにアランに電話しなければなりません。 昨日彼に電話すべきだったのですが、忘れてしまいました。	"I must remember to call Alan today. I should have called him yesterday, but I forgot."		
 GU033S046	1	33	5_Modals 2	海へ行きましょう。 今出発すれば2時までには着くはずです。	"Let's go to the beach. If we leave now, we should be there by 2 o'clock."		
 GU033S047	1	33	5_Modals 2	昨日試験結果が届きました。 期待したほどうまくいきませんでした。 もっとうまくやるべきだった。	I got my exam results yesterday. I didn't do as well as I'd hoped. I should have done better.		
-GU033S048	1	33	5_Modals 2	必要に応じて予定を変更することができます。 問題ないはずです。	You can change your appointment if you need to. It shouldn't be a problem.		
-GU033S049	1	33	5_Modals 2	先週新しいシャツを買いましたが、もう好きではありません。 買うべきではなかった。	"I bought a new shirt last week, but now I don't like it any more. I shouldn't have bought it."		
+GU033S048	1	33	5_Modals 2	あなたが必要とするならあなたは予定を変更することができます。 問題ないはずです。	You can change your appointment if you need to. It shouldn't be a problem.		
+GU033S049	1	33	5_Modals 2	先週新しいシャツを買いましたが、(今は)もう好きではありません。 買うべきではなかった。	"I bought a new shirt last week, but now I don't like it any more. I shouldn't have bought it."		
 GU033S050	1	33	5_Modals 2	今日書類を送りましたので、明日には届くはずです。	"I sent the documents to you today, so you should have them tomorrow."		
-GU033S051	1	33	5_Modals 2	外出中に雨が降り始めて、とても濡れてしまいました。 傘を持っていくべきだったのですが、思いつきませんでした。	"It started to rain when I was out and I got very wet. I should have taken an umbrella, but I didn't think of it."		
-GU033S052	1	33	5_Modals 2	昨日の夜、友達と出かけましたが、楽しくありませんでした。 あまり気分が良くなかったので行かなければ良かった。	"I went out with my friends last night, but I didn't enjoy it. I shouldn't have gone because I wasn't feeling very well."		
+GU033S051	1	33	5_Modals 2	私が外にいた時に雨が降り始め、私はとても濡れてしまいました。 傘を持っていくべきだったのですが、それを思いつきませんでした。	"It started to rain when I was out and I got very wet. I should have taken an umbrella, but I didn't think of it."		
+GU033S052	1	33	5_Modals 2	昨夜私の友達と出かけましたが、楽しくありませんでした。 あまり気分が良くなかったので行かなければ良かった。	"I went out with my friends last night, but I didn't enjoy it. I shouldn't have gone because I wasn't feeling very well."		
 GU033S053	1	33	5_Modals 2	この仕事に応募すべきだと思いますか?	Do you think I ought to apply for this job?		
 GU033S054	1	33	5_Modals 2	ジャックはそんなに遅くに寝るべきではありません。	Jack ought not to go to bed so late.		
 GU033S055	1	33	5_Modals 2	昨夜は素晴らしいパーティーでした。 あなたは来るべきだった。	It was a great party last night. You ought to have come.		
 GU033S056	1	33	5_Modals 2	私たちはテーブルを予約しておくべきだった。	We ought to have reserved a table.		
-GU033S057	1	33	5_Modals 2	彼女はそんなに速く運転しているわけではない。	She souldn't be driving so fast.		
+GU033S057	1	33	5_Modals 2	彼女はそんなに速く運転していないほうがよい。	She souldn't be driving so fast.		
 GU033S058	1	33	5_Modals 2	書き留めておくべきだった。	I ought to have written it down.		
-GU033S059	1	33	5_Modals 2	どこへ行くのか探していたはずだった。	I should have been looking where I was going.		
+GU033S059	1	33	5_Modals 2	私は自分の行き先を見ているべきだった。	I should have been looking where I was going.		
 GU033S060	1	33	5_Modals 2	前の運転手はそんなに急に停止すべきではなかった。	The driver in front shouldn't have stopped so suddenly.		
 GU033S061	1	33	5_Modals 2	昨日は仕事に行くべきではなかった。	I ought not to have gone to work yesterday.		
 GU034S001	1	34	5_Modals 2	私は彼に謝るべきだと主張した。	I insisted that he should apologise.		
@@ -1902,7 +1902,7 @@ GU034S004	1	34	5_Modals 2	多くの人がこの問題について何かをすべ
 GU034S005	1	34	5_Modals 2	全員が時間通りにここに来ることが重要です。	It's essential that everybody should be here on time.		
 GU034S006	1	34	5_Modals 2	医者に行ったところ、専門医に診てもらうよう勧められました。	I went to my doctor and he recommended that I should see a specialist.		
 GU034S007	1	34	5_Modals 2	私たちの街を訪れる訪問者に会うとき、私はたいてい博物館を訪れるべきだと勧めます。	"When I meet visitors to our city, I usulally suggest that they should visit the museum."		
-GU034S008	1	34	5_Modals 2	サラはお腹が空いていないと言いましたが、私は彼女に何か食べるように言いました。	"Sarah said she wasn't hungry, but I insisted that she would eat something."		
+GU034S008	1	34	5_Modals 2	サラはお腹が空いていないと言いましたが、私は彼女に何か食べるように要求(主張)しました。	"Sarah said she wasn't hungry, but I insisted that she should eat something."		
 GU034S009	1	34	5_Modals 2	これは民主的な選挙であり、全員が投票することが重要です。	"This is a democratic election, and it's important that everyone should vote."		
 GU034S010	1	34	5_Modals 2	私たちはゲイリーからお金を借りましたが、今彼は私たちがそれを返済するよう要求しています。	"We borrowed some money from Gary, and now he's demanding that we should pay it back."		
 GU034S011	1	34	5_Modals 2	ジャックには休憩が必要なので、私は彼に数日間出かけた方がよいと提案しました。	"Jack needs a break, and I suggested that he should go away for a few days."		
@@ -1929,16 +1929,16 @@ GU034S031	1	34	5_Modals 2	私はティナに運転を習うことを提案した
 GU034S032	1	34	5_Modals 2	彼が遅刻するのは不思議だ。 彼はいつも時間通りに来ます。	It's strange that he should be late. He's usually on time.		
 GU034S033	1	34	5_Modals 2	彼女がそんなことを言うとは驚きました。	I was surprised that she should say such a thing.		
 GU034S034	1	34	5_Modals 2	親が子供のことを心配するのは当然です。	It's only natural that parents should worry about their children.		
-GU034S035	1	34	5_Modals 2	彼らが私にアドバイスを求めるべきだったとは驚きました。 彼らにどんなアドバイスができるだろうか？	I was surprised that they should ask me for advice. What advice could I give them?		
+GU034S035	1	34	5_Modals 2	彼らが私にアドバイスを求めるとは驚きました。 どんなアドバイスを私は彼らにできるか？	I was surprised that they should ask me for advice. What advice could I give them?		
 GU034S036	1	34	5_Modals 2	さよならも言わずに立ち去るのがジョーらしいじゃないですか。	Isn't it typical of Joe that he should leave without saying goodbye?		
-GU034S037	1	34	5_Modals 2	そんなこと言うのはおかしいよ。 私も同じことを考えていました。	It's funny that you should say that. I was thinking the same thing.		
+GU034S037	1	34	5_Modals 2	そんなことを言うとは面白い(おかしい)ね。 私も同じことを考えていました。	It's funny that you should say that. I was thinking the same thing.		
 GU034S038	1	34	5_Modals 2	エマが試験であれほど悪い点をとったのは驚くべきことだ。 誰もが彼女が合格することを期待していた。	It's surprising Emma should do so badly in her exams. Everyone expected her to pass.		
 GU034S039	1	34	5_Modals 2	現在、求人はございませんが、状況が変わる場合はご連絡させていただきます。	"We have no jobs at present, but if the situation should change, we will contact you."		
 GU034S040	1	34	5_Modals 2	状況が変化する場合はご連絡させていただきます。	"Should the situation change, we will contact you."		
-GU034S041	1	34	5_Modals 2	洗濯物をベランダに干しました。 雨が降ったら屋内に入れてもらえますか？	"I've hung out the washing to dry on the balcony. If it should rain, can you bring it inside?"		
+GU034S041	1	34	5_Modals 2	私は洗濯物を乾かすためにベランダにつるしました。 雨が降ったら屋内に入れてもらえますか？	"I've hung out the washing to dry on the balcony. If it should rain, can you bring it inside?"		
 GU034S042	1	34	5_Modals 2	すべてうまくいくと思います。 何か問題がある場合はお知らせします。	"I think everything will be OK. If there should be any problems, I'll let you know."		
 GU034S043	1	34	5_Modals 2	どこへ行くのか誰にも知られたくない。 誰かが尋ねたら、知らないと言ってください。	"I don't want anyone to know where I'm going. If anyone should ask, just say you don't know."		
-GU034S044	1	34	5_Modals 2	会議がキャンセルされる可能性はわずかですがあります。 このようなことが起こった場合、来月会議を開催する予定です。	"There's a small possibility that the meeting will be cancelled. If this should happen, we will arrange a meeting next month."		
+GU034S044	1	34	5_Modals 2	会議がキャンセルされる可能性はわずかですがあります。 これが起こった場合、来月会議を開催する予定です。	"There's a small possibility that the meeting will be cancelled. If this should happen, we will arrange a meeting next month."		
 GU034S045	1	34	5_Modals 2	雨が降った場合、洗濯物を中に入れてもらえますか？	"If it should rain, can you bring the washing inside?"		
 GU034S046	1	34	5_Modals 2	雨が降った場合、洗濯物を室内に持ち込めますか？	"Should it rain, can you bring the washing inside?"		
 GU034S047	1	34	5_Modals 2	何か問題がある場合はお知らせします。	"If there should be any problems, I'll let you know."		
@@ -1948,8 +1948,8 @@ GU034S050	1	34	5_Modals 2	誰かが私がどこにいるか尋ねたら、知ら
 GU034S051	1	34	5_Modals 2	会議が中止になった場合は、来月会議を開催する予定です。	"If the meeting should be cancelled, we will arrange a meeting next month."		
 GU034S052	1	34	5_Modals 2	会議がキャンセルになった場合は、来月会議を開催する予定です。	"Should the meeting be cancelled, we will arrange a meeting next month."		
 GU034S053	1	34	5_Modals 2	A: もう出発しましょうか？ B: いいえ、少し待ったほうがいいです。	"A: Shall I leave now? B: No, I should wait a little."		
-GU034S054	1	34	5_Modals 2	あまり遅くまで起きていてはいけません。 明日は早く起きなければなりません。	I shouldn't stay up too late. You have to be up early tomorrow.		
-GU034S055	1	34	5_Modals 2	A: このコンピュータは修理してもらう価値がありますか? B: いいえ、新しいものを買ったほうがいいです。	"A: Is it worth getting this computer repaired? B: No, I should get a new one."		
+GU034S054	1	34	5_Modals 2	あまり遅くまで起きていてはいけません。 明日は早く起きていなければなりません。	I shouldn't stay up too late. You have to be up early tomorrow.		
+GU034S055	1	34	5_Modals 2	A: このコンピュータは修理してもらう価値がありますか? B: いいえ、新しいものを買っ(手に入れ)たほうがいいです。	"A: Is it worth getting this computer repaired? B: No, I should get a new one."		
 GU034S056	1	34	5_Modals 2	A: 今から出かけます。 寒いですか？ B: はい、コートを着たほうがいいですね。	"A: I'm going out now. Is it cold out? B: Yes, I should wear a coat."		
 GU034S057	1	34	5_Modals 2	A: ポールに会いに行きましょうか？ B: はい、でもまず彼に電話したほうがいいですね。	"A: Shall I go and see Paul? B: Yes, but I should call him first."		
 GU034S058	1	34	5_Modals 2	A: これらのものを捨てましょうか? B: いいえ、そのままにしておくべきです。 私たちにはそれらが必要になるかもしれません。	"A: Shall I throw these things away? B: No, I should keep them. We may need them."		
@@ -1964,19 +1964,19 @@ GU035S008	1	35	5_Modals 2	雨が降るかもしれない。 傘を持ったほ�
 GU035S009	1	35	5_Modals 2	雨が降りそうな気配だ。 傘を持って行ったほうがいいです。	It looks as if it might rain. We'd better take an umbrella with us.		
 GU035S010	1	35	5_Modals 2	それはあなたの手のひどい切り傷です。 絆創膏を貼ったほうがいいですよ。	That's a bad cut on your hand. You'd better put a plaster on it.		
 GU035S011	1	35	5_Modals 2	今夜レストランは混雑するでしょう。 テーブルを予約したほうがいいでしょう。	The restaurant will be busy tonight. We'd better reserve a table.		
-GU035S012	1	35	5_Modals 2	見た目はあまり良くありません。 今日は仕事に行かないほうがいいです。	You don't look very well. You'd better not go to work today.		
+GU035S012	1	35	5_Modals 2	あなた(の体調)はあまりよく見えません。 今日は仕事に行かないほうがいいです。	You don't look very well. You'd better not go to work today.		
 GU035S013	1	35	5_Modals 2	映画が何時に始まるか分かりません。 確認したほうがいいですよ。	I'm not sure what time the film starts. I'd better check.		
 GU035S014	1	35	5_Modals 2	社長は今とても忙しいです。 彼の邪魔をしないほうがいいです。	The boss is very busy right now. I'd better not disturb him.		
-GU035S015	1	35	5_Modals 2	ガソリンがあまりありません。 立ち止まって満腹したほうがいいよ。	We don't have much petrol. We'd better stop and fill up.		
+GU035S015	1	35	5_Modals 2	我々はガソリンがあまりありません。 立ち止まって給油したほうがいいよ。	We don't have much petrol. We'd better stop and fill up.		
 GU035S016	1	35	5_Modals 2	遅いです。 あなたが行く必要があります。	It's late. You should go.	It's late. You'd better go.	
 GU035S017	1	35	5_Modals 2	あなたはいつも家にいます。 もっと頻繁に外出すべきです。	You're always at home. You should go out more often.		
 GU035S018	1	35	5_Modals 2	素晴らしい映画だよ。 行って見るべきです。	It's a great film. You should go and see it.		
 GU035S019	1	35	5_Modals 2	映画は8時半に始まります。 今すぐ行ったほうがいいよ、そうしないと最初を逃すよ。	The film starts at 8.30. You'd better go now or you'll miss the beginning.		
 GU035S020	1	35	5_Modals 2	そろそろ出かける時間だ。 準備をしたほうがいいよ。	It's nearly time to go out. I'd better get ready.		
-GU035S021	1	35	5_Modals 2	そろそろ出かける時間だ。 準備をしなければなりません。	It's nearly time to go out. I should get ready.		
+GU035S021	1	35	5_Modals 2	そろそろ出かける時間だ。 私は準備をするべきだ。	It's nearly time to go out. I should get ready.		
 GU035S022	1	35	5_Modals 2	私は誰もが外国語を学ぶべきだと思います。	I think everybody should learn a foreign language.		
-GU035S023	1	35	5_Modals 2	明日は早く起きなければなりません。 目覚ましをセットしたほうがいいよ。	You have to wake up early tomorrow. You'd better set your alarm.		
-GU035S024	1	35	5_Modals 2	運転中は道路から目を離さないようにしてください。	"When you're driving, you should keep your eyes on the road."		
+GU035S023	1	35	5_Modals 2	あなたは明日早く起きなければなりません。 目覚ましをセットしたほうがいいよ。	You have to wake up early tomorrow. You'd better set your alarm.		
+GU035S024	1	35	5_Modals 2	あなたが運転している時、道路から目を離さないようにする(道路を見つづける)べきだ。	"When you're driving, you should keep your eyes on the road."		
 GU035S025	1	35	5_Modals 2	私たちはちょうど最終バスに乗り遅れてしまいました。 タクシーに乗ったほうがいいです。	We've just missed the last bus. We'd better get a taxi.		
 GU035S026	1	35	5_Modals 2	これらのビスケットはおいしいです。 試してみるといいでしょう。	These biscuits are delicious. You should try one.		
 GU035S027	1	35	5_Modals 2	窓は開いています。 出かける前に閉めたほうがいいよ。	The window is open. You'd better close it before you go out.		
@@ -1989,26 +1989,26 @@ GU035S033	1	35	5_Modals 2	ここに車を駐車しないほうがいいです。
 GU035S034	1	35	5_Modals 2	政府はその問題について何かをすべきだ。	The government should do something about the problem.		
 GU035S035	1	35	5_Modals 2	変化の時が来ました。	It's time for a change.		
 GU035S036	1	35	5_Modals 2	家に帰る時間。	It's time to go home.		
-GU035S037	1	35	5_Modals 2	もう家に帰る時間です。	It's time for us to go home.		
-GU035S038	1	35	5_Modals 2	遅いです。 もう帰る時間だ。	It's late. It's time we went home.		
+GU035S037	1	35	5_Modals 2	（もう）我々にとって家に帰る時間です。	It's time for us to go home.		
+GU035S038	1	35	5_Modals 2	遅いです。 （もう）我々が帰る時間です。	It's late. It's time we went home.		
 GU035S039	1	35	5_Modals 2	なぜ彼らはこんなに遅いのでしょうか？ 彼らがここに来る時が来ました。	Why are they so late? It's time they were here.		
 GU035S040	1	35	5_Modals 2	この状況を続けることはできません。 それについて何かをする時期が来ました。	This situation can't continue. It's time you did something about it.		
 GU035S041	1	35	5_Modals 2	彼はとても利己的です。 彼は自分が世界で最も重要な人物ではないことに気づく時が来た。	He's very selfish. It's time he realised he isn't the most important person in the world.		
 GU035S042	1	35	5_Modals 2	そろそろ彼も、自分が世界で一番重要な人物ではないことに気づく時期が来たようだ。	It's about time he realised he isn't the most important person in the world.		
-GU035S043	1	35	5_Modals 2	あなたは長い間休暇をとっていませんでした。 今すぐ必要です。 休みの時間だ。	You haven't had a holiday for a long time. You need one now. It's time I had a holiday.		
-GU035S044	1	35	5_Modals 2	ケイトはいつも不平を言っています。 あなたは彼女がもっと前向きになる必要があると思います。 彼女が不平を言うのをやめるときが来た。	Kate is always complaining. You think she needs to be more positive. It's time she stopped complaining.		
-GU035S045	1	35	5_Modals 2	10時です。 子どもたちの就寝後です。 彼らはベッドに入る時間だ。	It's 10 o'clock. It's after the children's bedtime. It's time they were in bed.		
-GU035S046	1	35	5_Modals 2	そんなに遅いことにあなたは気づいていませんでした。 もうすぐ夕食の時間です。 夕食の準備を始める時間です。	You didn't realise it was so late. It's nearly dinner time. It's time I started cooking dinner.		
-GU035S047	1	35	5_Modals 2	ジャックは話し上手ですが、大したことはしません。 彼はただ話すのではなく、何かをする時が来たのだ。	"Jack is a great talker, but he doesn't do much. It's time he did something instead of just talking."		
-GU035S048	1	35	5_Modals 2	あなたが働いている会社は長い間経営が悪化しています。 いくつかの変化が起こる時期が来ました。	The company you work for has been badly managed for a long time. It's time there were some changes.		
+GU035S043	1	35	5_Modals 2	あなたは長い間休暇をとっていませんでした。 今すぐ休暇が必要です。→ 私が休暇を取る時だ。	You haven't had a holiday for a long time. You need one now. It's time I had a holiday.		
+GU035S044	1	35	5_Modals 2	ケイトはいつも不平を言っています。 あなたは彼女がもっと前向きになる必要があると思います。 →彼女が不平を言うのをやめるときだ。	Kate is always complaining. You think she needs to be more positive. It's time she stopped complaining.		
+GU035S045	1	35	5_Modals 2	10時です。 子どもたちの就寝時間の後です。→ 彼らはベッドに入っている時間だ。	It's 10 o'clock. It's after the children's bedtime. It's time they were in bed.		
+GU035S046	1	35	5_Modals 2	そんなに遅いことにあなたは気づいていませんでした。 もうすぐ夕食の時間です。 →私が夕食調理を始める時間です。	You didn't realise it was so late. It's nearly dinner time. It's time I started cooking dinner.		
+GU035S047	1	35	5_Modals 2	ジャックは話し上手ですが、あまりやりません。 →彼はただ話すのではなく、何かをする時が来たのだ。	"Jack is a great talker, but he doesn't do much. It's time he did something instead of just talking."		
+GU035S048	1	35	5_Modals 2	あなたが働いている会社は長い間経営が悪化しています。 →いくつかの変化が起こる(ある)時期が来ました。	The company you work for has been badly managed for a long time. It's time there were some changes.		
 GU035S049	1	35	5_Modals 2	休憩の時間です。 コーヒーを作ります。	It's time for a break. I'll make some coffee.		
 GU035S050	1	35	5_Modals 2	急いで！ もうすぐ出発の時間です。	Hurry up! It's nearly time to go.		
 GU035S051	1	35	5_Modals 2	遅刻してしまいますよ。 さあ、行く時間です。	You're going to be late. It's time you went.		
 GU035S052	1	35	5_Modals 2	何しようか？ 決める時が来ました。	What are we going to do? It's time to decide.		
 GU035S053	1	35	5_Modals 2	彼らがここに来る時が来ました。 彼らは遅刻しないと約束した。	It's time they were here. They promised they wouldn't be late.		
 GU035S054	1	35	5_Modals 2	政府がこの問題について何か行動を起こす時が来た。	It's time the government did something about the problem.		
-GU035S055	1	35	5_Modals 2	この問題について何かをする時期が来ています。	It's time something was done about the problem.		
-GU035S056	1	35	5_Modals 2	あなたは自分のことだけを考えています。 他の人のことを考える時期が来ました。	You only think about yourself. It's about time you thought about other people.		
+GU035S055	1	35	5_Modals 2	この問題について何かがなされる時期が来ています。	It's time something was done about the problem.		
+GU035S056	1	35	5_Modals 2	あなたは自身についてだけを考えています。 そろそろ他の人について考える時期が来ました。	You only think about yourself. It's about time you thought about other people.		
 GU036S001	1	36	5_Modals 2	新しい車を買えたらいいのですが、私たちにはそれを買う余裕がありません。	"It would be nice to buy a new car, but we can't afford it."		
 GU036S002	1	36	5_Modals 2	海のそばに住みたいです。	I'd love to live by the sea.		
 GU036S003	1	36	5_Modals 2	A: クリスに何が起こったのか話しましょうか？ B: いいえ、何も言いません。	"A: Shall I tell Chris what happened? B: No, I wouldn't say anything."		
@@ -2026,11 +2026,11 @@ GU036S014	1	36	5_Modals 2	理想的な世界では、誰もが十分な量の食
 GU036S015	1	36	5_Modals 2	その仕事に応募しましょうか、それとも応募しませんか? あなたなら私の立場だったらどうしますか？	Shall I apply for the job or not? What would you do in my position?		
 GU036S016	1	36	5_Modals 2	なぜ試験を受けないのですか？ きっと合格すると思います。	Why don't you do the exam? I'm sure you'd pass.		
 GU036S017	1	36	5_Modals 2	私たちは昨夜渋滞にはまりました。 歩いた方が早かったかも。	We got stuck in the traffic last night. It would have been quicker to walk.		
-GU036S018	1	36	5_Modals 2	映画を見に行ってみませんか？ 楽しんでいただけると思います。	Why don't you want to go and see the film? I think you would enjoy it.		
+GU036S018	1	36	5_Modals 2	なぜあなたは映画を行って見たくないのですか？ 楽しむだろうと私は思います。	Why don't you want to go and see the film? I think you would enjoy it.		
 GU036S019	1	36	5_Modals 2	あなたがパーティーに来られなかったのは残念です。 それは素晴らしかったし、あなたも楽しんだでしょう。	It's a pity you couldn't come to the party. It was great and you would have enjoyed it.		
 GU036S020	1	36	5_Modals 2	あなたを見たとき、私は急いでいた。 そうでなければ、話をするのをやめていたでしょう。	I was in a hurry when I saw you. Otherwise I would have stopped to talk.		
 GU036S021	1	36	5_Modals 2	もう少し滞在します。 時間はたっぷりあるよ。	I'Il stay a little longer. I've got plenty of time.		
-GU036S022	1	36	5_Modals 2	もう少し滞在したいのですが、もう行かなければなりません。	"I'd stay a little longer, but I really have to go now."		
+GU036S022	1	36	5_Modals 2	もう少し滞在したいのですが、本当に今行かなければなりません。	"I'd stay a little longer, but I really have to go now."		
 GU036S023	1	36	5_Modals 2	日曜日に電話しますね、いいですか？	"I'Il call you on Sunday, OK?"		
 GU036S024	1	36	5_Modals 2	トムは日曜日に私に電話すると言った。	Tom said he'd call me on Sunday.		
 GU036S025	1	36	5_Modals 2	今夜会いましょう。 遅刻しないと約束します。	See you tonight. I promise I won't be late.		
@@ -2038,37 +2038,37 @@ GU036S026	1	36	5_Modals 2	エイミーは遅刻しないと約束した。	Amy p
 GU036S027	1	36	5_Modals 2	私は彼に警告しようとしましたが、彼は私の言うことを聞きませんでした。	"I tried to warn him, but he wouldn't listen to me."		
 GU036S028	1	36	5_Modals 2	車は始動しませんでした。	The car wouldn't start.		
 GU036S029	1	36	5_Modals 2	交通量の多い道路には住みたくない。 それはあまり良くないでしょう。	I wouldn't like to live on a busy road. It wouldn't be very nice.		
-GU036S030	1	36	5_Modals 2	ご旅行がキャンセルになったのは残念です。 楽しかったでしょうね。	I'm sorry your trip was cancelled. It would have been fun.		
+GU036S030	1	36	5_Modals 2	ご旅行がキャンセルになったのはお気の毒です。 楽しかったでしょうね。	I'm sorry your trip was cancelled. It would have been fun.		
 GU036S031	1	36	5_Modals 2	今夜出かけるのが楽しみです。 楽しいですよ。	I'm looking forward to going out tonight. It will be fun.		
 GU036S032	1	36	5_Modals 2	いつかオーストラリアに行ってみたいです。 それはいいだろう。	I'd like to go to Australia one day. It would be nice.		
 GU036S033	1	36	5_Modals 2	雨の中外出しなくてよかったです。 それはあまり良いことではなかったでしょう。	I'm glad we didn't go out in the rain. It wouldn't have been very nice.		
 GU036S034	1	36	5_Modals 2	旅行が楽しみではありません。 あまり面白くないでしょう。	I'm not looking forward to the trip. It won't be much fun.		
-GU036S035	1	36	5_Modals 2	スティーブは私に電話すると言った。 なぜそうしなかったのだろうか。	Steve said he'd call me. I wonder why he hasn't.		
+GU036S035	1	36	5_Modals 2	スティーブは私に電話すると言った。 なぜそうしていないのだろうか。	Steve said he'd call me. I wonder why he hasn't.		
 GU036S036	1	36	5_Modals 2	ローラは荷物をすべて運ぶと主張しました。 彼女は私に手伝わせてくれませんでした。	Laura insisted on carrying all her luggage. She wouldn't let me help her.		
 GU036S037	1	36	5_Modals 2	リサの番号を持っています。 今から彼女に電話します。	I have Lisa's number. I'll call her now.		
 GU036S038	1	36	5_Modals 2	ここでは仕事を見つけるつもりはない。 それは不可能でしょう。	I'm not going to find a job here. It would be impossible.		
 GU036S039	1	36	5_Modals 2	ポールは誰にも言わないと約束しましたが、言いました。	"Paul promised he wouldn't tell anybody, but he did."		
 GU036S040	1	36	5_Modals 2	彼らは私を助けると約束しましたが、まだ何もしていません。	"They promised they would help me, but they haven't done anything yet."		
-GU036S041	1	36	5_Modals 2	就職するのは大変でしょうが、頑張ってみます。	"It will be difficult to get a job, but I'm going to try."		
+GU036S041	1	36	5_Modals 2	職につくのは難しいでしょうが、頑張るつもりです。	"It will be difficult to get a job, but I'm going to try."		
 GU036S042	1	36	5_Modals 2	リサに電話したいのですが、彼女の番号がわかりません。	"I'd call Lisa, but I don't know her number."		
 GU036S043	1	36	5_Modals 2	私たちは子供の頃、海のそばに住んでいました。 夏、天気がよければ、早起きして泳ぎに行きました。	"When we were children, we lived by the sea. In summer, if the weather was fine, we would get up early and go for a swim."		
-GU036S044	1	36	5_Modals 2	リチャードは怒るといつも部屋から出て行った。	"Whenever Richard was angry, he would walk out of the room."		
+GU036S044	1	36	5_Modals 2	リチャードは怒るといつも部屋から歩いて出て行った。	"Whenever Richard was angry, he would walk out of the room."		
 GU036S045	1	36	5_Modals 2	リチャードは怒るといつも部屋から出て行った。	"Whenever Richard was angry, he used to walk out of the room."		
 GU036S046	1	36	5_Modals 2	私たちは以前、線路の近くに住んでいました。 電車が通過するたびに家が揺れました。	"We used to live near a railway line. Every time a train went past, the house would shake."		
-GU036S047	1	36	5_Modals 2	アランはとても優しい人でした。 あなたが問題を抱えているなら、彼はいつもあなたを助けてくれます。	Alan was a very kind person. He would always help you if you had a problem.		
+GU036S047	1	36	5_Modals 2	アランはとても優しい人でした。 あなたが問題を抱えている場合、彼はいつもあなたを助けました。	Alan was a very kind person. He would always help you if you had a problem.		
 GU036S048	1	36	5_Modals 2	キャサリンはいつもとても寛大でした。 彼女は多くのものを持っていませんでしたが、自分が持っているものを他の人たちに分け与えました。	"Katherine was always very generous. She didn't have much, but she would share what she had with everyone else."		
-GU036S049	1	36	5_Modals 2	ジョーに頼ることは決してできませんでした。 あなたが彼に何かをするように何度思い出させても、彼はいつも忘れてしまいます。	"You could never rely on Joe. It didn't matter how many times you reminded him to do something, he would always forget."		
+GU036S049	1	36	5_Modals 2	あなたは決してジョーに頼れませんでした。 あなたが彼に何かをするように何度念押ししても、彼はいつも忘れてしまいます。	"You could never rely on Joe. It didn't matter how many times you reminded him to do something, he would always forget."		
 GU036S050	1	36	5_Modals 2	私たちは子供の頃、よく海に行きました。 私たちは一日中そこにいて、砂遊びしたり、海で泳いだりしました。	"When we were children, we used to go to the beach a lot. We would stay there all day playing in the sand and swimming in the sea."		
 GU036S051	1	36	5_Modals 2	ルーシーはいつもとてもフレンドリーでした。 私が彼女に会うと、彼女はいつも笑顔で挨拶してくれました。	"Lucy was always very friendly. Whenever I saw her, she would always smile and say hello."		
 GU037S001	1	37	5_Modals 2	ちょっと待ってもらえますか？	"Can you wait a moment, please?"	"Could you wait a moment, please?"	
 GU037S002	1	37	5_Modals 2	すみません、バス停への道を教えていただけますか？	"Excuse me, could you tell me the way to the bus station?"		
-GU037S003	1	37	5_Modals 2	空港まで連れて行ってもらえると思いますか？	Do you think you could take me to the airport?		
+GU037S003	1	37	5_Modals 2	あなたは私を空港まで連れていけそうですか？	Do you think you could take me to the airport?		
 GU037S004	1	37	5_Modals 2	ドアを開けてもらえますか？	"Can you open the door for me, please?"		
 GU037S005	1	37	5_Modals 2	私たちの写真を撮っていただけますか？	"Could you take a picture of us, please?"		
 GU037S006	1	37	5_Modals 2	駅への行き方を教えていただけますか？	Can you tell me how to get to the station?		
 GU037S007	1	37	5_Modals 2	もっとゆっくり運転してもらえますか？	"Could you drive more slowly, please?"		
-GU037S008	1	37	5_Modals 2	私のカバンを手伝ってくれませんか？	"Could you help me with my bag, please?"		
-GU037S009	1	37	5_Modals 2	音楽を止めてもらえませんか？	"Do you think you could turn down the music, please?"		
+GU037S008	1	37	5_Modals 2	私のカバンを(持つのを)手伝ってくれませんか？	"Could you help me with my bag, please?"		
+GU037S009	1	37	5_Modals 2	あなたは音楽(音量)を下げられそうですか？	"Do you think you could turn down the music, please?"		
 GU037S010	1	37	5_Modals 2	これらのポストカードをいただけますか?	"Can I have these postcards, please?"	"Can I get these postcards, please?"	
 GU037S011	1	37	5_Modals 2	メニューをいただけますか？	"Can we have the menu, please?"	"Could we have the menu, please?"	
 GU037S012	1	37	5_Modals 2	これらのポストカードをいただけますか?	"May I have these postcards, please?"		
@@ -2079,34 +2079,34 @@ GU037S016	1	37	5_Modals 2	あなたはとても有名な人に会いました。
 GU037S017	1	37	5_Modals 2	あなたはサンドイッチ屋にいるのです。 あなたは何か食べるものを注文します。 →チキンサンドイッチを頂けますか？	"You're in a sandwich shop. You order something to eat. → Can I get a chicken sandwich, please?"		
 GU037S018	1	37	5_Modals 2	あなたは食料品店にいるのです。 欲しいものがあるのですが、それが何と呼ばれるかわかりません。 あなたはそれを指さします。 →それを一つ頂けますか？	"You're in a food shop. You see something you'd like, but you don't know what it's called. You point to it. → Can I have one of those, please?"		
 GU037S019	1	37	5_Modals 2	こんにちは、スティーブと話してもいいですか？	"Hello, can I speak to Steve, please?"		
-GU037S020	1	37	5_Modals 2	A: 電話を使ってもいいですか？ B: そうですね。	A: Could I use your phone? B: Sure.		
+GU037S020	1	37	5_Modals 2	A: あなたの電話を使ってもいいですか？ B: いいですよ。	A: Could I use your phone? B: Sure.		
 GU037S021	1	37	5_Modals 2	あなたの自転車を借りてもいいと思いますか？	Do you think I could borrow your bike?		
 GU037S022	1	37	5_Modals 2	ここに座ってもいいですか？	May I sit here?		
-GU037S023	1	37	5_Modals 2	電話を使ってもよろしいですか？	Do you mind if I use your phone?		
+GU037S023	1	37	5_Modals 2	あなたの電話を使ってもよろしいですか？（気にしますか？）	Do you mind if I use your phone?		
 GU037S024	1	37	5_Modals 2	ここに座っても大丈夫ですか？	Is it all right if I sit here?		
 GU037S025	1	37	5_Modals 2	あなたのカメラを借りてもいいですか？	Could I borrow your camera?		
-GU037S026	1	37	5_Modals 2	後でまた電話してもいいですか？	Can I call you back later?		
-GU037S027	1	37	5_Modals 2	私も来てもよろしいでしょうか？	Do you mind if I come too?		
+GU037S026	1	37	5_Modals 2	あなたに折り返し電話してもいいですか？	Can I call you back later?		
+GU037S027	1	37	5_Modals 2	私も来てもよろしいでしょうか？（気にしますか？）	Do you mind if I come too?		
 GU037S028	1	37	5_Modals 2	窓を開けても大丈夫ですか？	Is it OK if I open the window?		
 GU037S029	1	37	5_Modals 2	このズボンを試着してもいいですか？	Can I try on these trousers?		
-GU037S030	1	37	5_Modals 2	ご一緒してもよろしいでしょうか？	Do you mind if I join you?		
+GU037S030	1	37	5_Modals 2	ご一緒(あなたに参加)してもよろしいでしょうか？（気にしますか？）	Do you mind if I join you?		
 GU037S031	1	37	5_Modals 2	A: お手伝いできますか? B: いいえ、大丈夫です。 なんとかなります、ありがとう。	"A: Can I help you? B: No, it's OK. I can manage, thanks."		
-GU037S032	1	37	5_Modals 2	A: コーヒーを飲んでもいいですか？ B: それはいいですね。	A: Can I get you some coffee? B: That would be nice.		
-GU037S033	1	37	5_Modals 2	A: コーヒーはいかがですか? B: はい、どうぞ。	"A: Would you like some coffee? B: Yes, please."		
+GU037S032	1	37	5_Modals 2	A: あなたにコーヒーを淹れ(持ってき)ましょうか？ B: それはいいですね。	A: Can I get you some coffee? B: That would be nice.		
+GU037S033	1	37	5_Modals 2	A: コーヒーはいかがですか? B: はい、ください。	"A: Would you like some coffee? B: Yes, please."		
 GU037S034	1	37	5_Modals 2	A: 今夜一緒に食事をしませんか? B: はい、それは素晴らしいですね。	"A: Would you like to eat with us tonight? B: Yes, that would be great."		
 GU037S035	1	37	5_Modals 2	ホテルについての情報をお願いします。	"I'd like some information about hotels, please."		
 GU037S036	1	37	5_Modals 2	このジャケットを試着したいのですがお願いします。	"I'd like to try on this jacket, please."		
-GU037S037	1	37	5_Modals 2	あなたが車を運転していると、友人が道を歩いているのが見えます。 あなたは立ち止まって「こんにちは、ジョー」と言います。 乗せてもらってもいいですか？	You're driving and you see a friend walking along the road. You stop and say: Hi Joe. Can I give you a lift?		
-GU037S038	1	37	5_Modals 2	あなたは友達のために冷たい飲み物を作っています。 おそらく彼は氷が欲しいのでしょう。 あなたはこう言います：飲み物に氷を入れますか？	You're making a cold drink for your friend. Perhaps he wants ice. You say: Would you like ice in your drink?		
-GU037S039	1	37	5_Modals 2	あなたはカフェで何か食べるものを注文しています。 あなたは「チキンサラダをお願いします」と言います。	"You're ordering something to eat in a cafe. You say: I'd like a chicken salad, please."		
+GU037S037	1	37	5_Modals 2	あなたが車を運転していると、あなたは道路に沿って歩いている友人を見ました。 あなたは立ち止まっていいます： こんにちは、ジョー。 あなたを乗せていこうか？	You're driving and you see a friend walking along the road. You stop and say: Hi Joe. Can I give you a lift?		
+GU037S038	1	37	5_Modals 2	あなたはあなたの友達のために冷たい飲み物を作っています。 多分彼は氷が欲しいです。 あなたはこう言います：飲み物に氷を入れますか？	You're making a cold drink for your friend. Perhaps he wants ice. You say: Would you like ice in your drink?		
+GU037S039	1	37	5_Modals 2	あなたはカフェで何か食べるものを注文しています。 あなたは（こう）言います：「チキンサラダをお願いします」	"You're ordering something to eat in a cafe. You say: I'd like a chicken salad, please."		
 GU037S040	1	37	5_Modals 2	コンサートのチケットが余っています。 もしかしたらあなたの友達が来るかも知れません。 あなたはこう言います：明日の夜コンサートに来ませんか？	You have an extra ticket for a concert. Maybe your friend will come. You say: Would you like to come to a concert tomorrow night?		
-GU037S041	1	37	5_Modals 2	あなたは電話に出ます。 電話をかけてきた人はリサと話したいと考えています。 あなたは言います：リサはここにいません。 メッセージを受け取ってもいいですか？	You answer the phone. The caller wants to speak to Lisa. You say: Lisa's not here. Can I take a message?		
+GU037S041	1	37	5_Modals 2	あなたは電話に出ます。 電話をかけてきた人はリサと話したいです。 あなたは言います：リサはここにいません。 伝言を伺いましょうか？	You answer the phone. The caller wants to speak to Lisa. You say: Lisa's not here. Can I take a message?		
 GU037S042	1	37	5_Modals 2	歯医者に行く必要があります。 あなたは予約のために電話します。 あなたはこう言います：こんにちは。 予約をお願いしたいのですが。	"You need to see a dentist. You phone for an appointment. You say: Hello. I'd like to make an appointment, please."		
 GU037S043	1	37	5_Modals 2	あなたは靴屋で働いています。 顧客から靴について尋ねられました。 あなたはこう言います：試着してみませんか？	You work in a shoe shop. A customer asks you about some shoes. You say: Would you like to try them on?		
 GU037S044	1	37	5_Modals 2	A: お願いをしてもらえますか？ B: それはあなたが私に何をしてほしいかによるよ。	A: Can you do me a favour? B: It depends what you want me to do.		
-GU037S045	1	37	5_Modals 2	A: 明日の夜、映画に行きませんか? B: はい、何が起こっているのですか?	"A: Would you like to go to the cinema tomorrow night? B: Yes, what's on?"		
+GU037S045	1	37	5_Modals 2	A: 明日の夜、映画に行きませんか? B: はい、何が(上映されて)あるの？	"A: Would you like to go to the cinema tomorrow night? B: Yes, what's on?"		
 GU037S046	1	37	5_Modals 2	A: トイレを使ってもいいですか？ B: そうですね。 左側のドアです。	A: Can I use your toilet? B: Sure. It's the door on the left.		
-GU037S047	1	37	5_Modals 2	A: 今日は早く仕事を終えてもよろしいでしょうか? B: いいえ、大丈夫です。	"A: Do you mind if I leave work early today? B: No, that's fine."		
+GU037S047	1	37	5_Modals 2	A: 今日は早く仕事を終え(退勤し)てもよろしいでしょうか? (気にしますか？) B: いいえ、いいです。	"A: Do you mind if I leave work early today? B: No, that's fine."		
 GU037S048	1	37	5_Modals 2	A: 砂糖を渡してもらえますか？ B: はい、こちらです。	"A: Could you pass the sugar? B: Yes, here you are."		
 GU037S049	1	37	5_Modals 2	A: 何か食べたいものはありますか? B: いいえ、ありがとう。 おなかがすいていない。	"A: Would you like something to eat? B: No, thanks. I'm not hungry."		
 GU037S050	1	37	5_Modals 2	A: 手を貸してもいいですか？ B: いいえ、大丈夫です。 なんとかなりますよ、ありがとう。	"A: Can I give you a hand? B: No, it's all right. I can manage, thanks."		
@@ -2120,67 +2120,67 @@ GU031S006	1	31	4_Modals 1	カレンは土曜日に働く必要はありません
 GU031S007	1	31	4_Modals 1	長い時間待たなければなりませんでしたか？	Did you have to wait a long time?		
 GU031S008	1	31	4_Modals 1	彼らは私のラップトップを修理できないので、新しいものを買わなければなりません。	"They can't fix my laptop, so l'Il have to buy a new one."	"They can't fix my laptop, I'm going to have to buy a new one."	
 GU031S009	1	31	4_Modals 1	トムは明日遅くまで仕事をしなければならないかもしれない。	Tom might have to work late tomorrow.	Tom may have to work late tomorrow.	
-GU031S010	1	31	4_Modals 1	カレンは会議中ずっとそこにいることができません。 彼女は早く出発しなければなりません。	Karen can't stay for the whole meeting. She has to leave early.		
+GU031S010	1	31	4_Modals 1	カレンは会議のすべてにいることができません。 彼女は早く出発しなければなりません。	Karen can't stay for the whole meeting. She has to leave early.		
 GU031S011	1	31	4_Modals 1	すべて私が面倒を見ます。 何もする必要はありません。	I'll take care of everything. You don't have to do anything.		
-GU031S012	1	31	4_Modals 1	運転免許は何歳から取得できますか?	How old do you have to be to have a driving licence?		
+GU031S012	1	31	4_Modals 1	運転免許を取得するには何歳でなければなりませんか？	How old do you have to be to have a driving licence?		
 GU031S013	1	31	4_Modals 1	時間があまりありません。 すぐに行かなければなりません。	I don't have much time. I have to go soon.		
 GU031S014	1	31	4_Modals 1	チケット売り場は混んでいませんでした。 長く待つ必要はありませんでした。	The ticket office wasn't busy. We didn't have to wait long.		
 GU031S015	1	31	4_Modals 1	リサは明日の朝空いていますか、それとも仕事をしなければなりませんか?	Is Lisa free tomorrow morning or does she have to work?		
 GU031S016	1	31	4_Modals 1	私を助けてくれる人は誰もいませんでした。 すべて自分でやらなければなりませんでした。	There was nobody to help me. I had to do everything by myself.		
 GU031S017	1	31	4_Modals 1	展示は無料でしたか、それとも入場するにはお金が必要でしたか？	"Was the exhibition free, or did you have to pay to go in?"		
-GU031S018	1	31	4_Modals 1	ダンは朝早くから仕事を始めます。 彼は午前4時に起きなければなりません。	Dan starts work very early in the morning. He has to get up at 4 a.m.		
+GU031S018	1	31	4_Modals 1	ダンはとても朝早くから仕事を始めます。 彼は午前4時に起きなければなりません。	Dan starts work very early in the morning. He has to get up at 4 a.m.		
 GU031S019	1	31	4_Modals 1	危うくバスに乗り遅れるところでした。 それを捕まえるために走らなければなりませんでした。	I nearly missed the bus. I had to run to catch it.		
 GU031S020	1	31	4_Modals 1	後で何をしたいのか教えてください。 今決める必要はありません。	You can let me know later what you want to do. You don't have to decide now.		
 GU031S021	1	31	4_Modals 1	彼は裕福な家庭の出身です。 彼はお金のことを心配する必要がなかった。	He comes from a wealthy family. He's never had to worry about money.		
 GU031S022	1	31	4_Modals 1	スティーブは電話の設定を変更する方法を知りませんでした。 私は彼に見せなければなりませんでした。	Steve didn't know how to change the settings on his phone. I had to show him.		
-GU031S023	1	31	4_Modals 1	マークがあなたに車を貸してくれるかどうかわかりません。 彼に聞いてみなければなりません。	I don't know whether Mark will lend you his car. You'll have to ask him.		
+GU031S023	1	31	4_Modals 1	マークがあなたに車を貸してくれるかどうかわかりません。 彼に聞いてみなければならないでしょう。	I don't know whether Mark will lend you his car. You'll have to ask him.		
 GU031S024	1	31	4_Modals 1	新しい仕事について教えてください。 何をしなければなりませんか？	Tell me about your new job. What do you have to do?		
 GU031S025	1	31	4_Modals 1	今晩空いているかどうかわかりません。 遅くまで働かなければならないかもしれない。	I'm not sure if I'Il be free this evening. I might have to work late.		
 GU031S026	1	31	4_Modals 1	ダンは明日仕事がないので、早起きする必要はありません。	"Dan isn't working tomorrow, so he doesn't have to get up early."		
-GU031S027	1	31	4_Modals 1	希望の通りが見つかりませんでした。 誰かに道を尋ねなければなりませんでした。	I couldn't find the street I wanted. I had to ask somebody for directions.		
-GU031S028	1	31	4_Modals 1	この作業は後で行うことができます。 今はやる必要はない。	I can do this work later. I don't have to do it now.		
+GU031S027	1	31	4_Modals 1	私が求めていた通りは見つかりませんでした。 誰かに道を尋ねなければなりませんでした。	I couldn't find the street I wanted. I had to ask somebody for directions.		
+GU031S028	1	31	4_Modals 1	私はこの作業を後で行うことができます。 今はやる必要はない。	I can do this work later. I don't have to do it now.		
 GU031S029	1	31	4_Modals 1	ジェーンは会社で上級職にあります。 彼女は重要な決断を下さなければなりません。	Jane has a senior position in the company. She has to make important decisions.		
 GU031S030	1	31	4_Modals 1	駐車場は無料でした。 そこに駐車するのに何も支払う必要はありませんでした。	The car park was free. We didn't have to pay anything to park there.		
-GU031S031	1	31	4_Modals 1	パトリックが来月新しい仕事を始めると、毎日80マイルの距離を車で通勤しなければなりません。	"When Patrick starts his new job next month, he'll have to drive 50 miles to work every day."		
+GU031S031	1	31	4_Modals 1	パトリックが来月新しい仕事を始めると、毎日通勤で50マイル運転しなければならないでしょう。	"When Patrick starts his new job next month, he'll have to drive 50 miles to work every day."		
 GU031S032	1	31	4_Modals 1	スーとはもう何年も話していない。 彼女に電話しなければなりません。	I haven't spoken to Sue for ages. I must phone her.	I have to phone her.	
 GU031S033	1	31	4_Modals 1	マークは本当にいい人です。 あなたは彼に会わなければなりません。	Mark is a really nice person. You must meet him.	You have to meet him.	
 GU031S034	1	31	4_Modals 1	私は毎日8時半から5時半まで働かなければなりません。	I have to work from 8.30 to 5.30 every day.		
 GU031S035	1	31	4_Modals 1	ジェーンは仕事のために頻繁に旅行しなければなりません。	Jane has to travel a lot for her work.		
 GU031S036	1	31	4_Modals 1	シートベルトは着用しなければなりません。	Seat belts must be worn.		
-GU031S037	1	31	4_Modals 1	先週は行かなければならなかった。	I had to go away last week.		
-GU031S038	1	31	4_Modals 1	思ったより遅いですね。 私は行かなければなりません。 さよなら！	It's later than I thought. I must go. Bye!		
-GU031S039	1	31	4_Modals 1	会えて良かったです。 近いうちにまた会いに来てください。	It was good to see you. You must come and see us again soon.		
+GU031S037	1	31	4_Modals 1	先週は出ていかなければならなかった。	I had to go away last week.		
+GU031S038	1	31	4_Modals 1	私が思ったより遅い(時間)ですね。 私は行かなければなりません。 さよなら！	It's later than I thought. I must go. Bye!		
+GU031S039	1	31	4_Modals 1	あなたに会えて良かったです。 近いうちに我々にまた会いに来てください。	It was good to see you. You must come and see us again soon.		
 GU031S040	1	31	4_Modals 1	明日は忘れずにサラに電話しなければなりません。	I must remember to call Sarah tomorrow.		
 GU031S041	1	31	4_Modals 1	これは秘密にしなければなりません。 誰にも言ってはいけません。	You must keep this a secret. You mustn't tell anyone.		
 GU031S042	1	31	4_Modals 1	時間通りに行くと約束しました。 遅れてはいけません。	I promised I would be on time. I mustn't be late.		
-GU031S043	1	31	4_Modals 1	私と一緒に来る必要はありません。 一人でも行けるよ。	You don't have to come with me. I can go alone.		
+GU031S043	1	31	4_Modals 1	あなたは私と一緒に来る必要はありません。 私は一人でも行けます。	You don't have to come with me. I can go alone.		
 GU031S044	1	31	4_Modals 1	会議に出席する必要はありませんが、とにかく出席します。	"I don't have to be at the meeting, but I'm going anyway."		
 GU031S045	1	31	4_Modals 1	建物内にエレベーターがあるので、階段を登る必要がありません。	"There's a lift in the building, so we don't have to climb the stairs."		
 GU031S046	1	31	4_Modals 1	明日サラに電話すると言いました。 忘れてはいけません。	I said I'd call Sarah tomorrow. I mustn't forget.		
 GU031S047	1	31	4_Modals 1	リチャードは仕事でスーツを着る必要はありませんが、通常はスーツを着ています。	"Richard doesn't have to wear a suit at work, but he usually does."		
 GU031S048	1	31	4_Modals 1	仕事を見つける努力を続けてください。 諦めてはいけません。	Keep trying to find a job. You mustn't give up.		
 GU031S049	1	31	4_Modals 1	テニスの試合を楽しむために優れたプレーヤーである必要はありません。	You don't have to be a good player to enjoy a game of tennis.		
-GU031S050	1	31	4_Modals 1	ソフィーは週末が好きです。そう早く起きる必要がないからです。	Sophie likes weekends because she doesn't have to get up so early.		
-GU031S051	1	31	4_Modals 1	食べ過ぎてはいけません。 ダイエット中のはずなんです。	I mustn't eat too much. I'm supposed to be on a diet.		
+GU031S050	1	31	4_Modals 1	そこまで早く起きる必要がないためソフィーは週末が好きです。	Sophie likes weekends because she doesn't have to get up so early.		
+GU031S051	1	31	4_Modals 1	私は食べ過ぎてはいけません。 私はダイエット中ということになっている。	I mustn't eat too much. I'm supposed to be on a diet.		
 GU031S052	1	31	4_Modals 1	フライトまでには十分な時間があります。 まだチェックインする必要はありません。	We have plenty of time before our flight. We don't have to check in yet.		
 GU031S053	1	31	4_Modals 1	明日は仕事だ。	I've got to work tomorrow.	I have to work tomorrow.	
 GU031S054	1	31	4_Modals 1	ヘレンはいつ行かなければなりませんか?	When has Helen got to go?	When does Helen have to go?	
 GU038S001	1	38	6_If and wish Passive	リサ：バスで行きましょうか、それとも電車で行きましょうか？ ジェス：バスで行けばもっと安くなるよ。	"LISA: Shall we go by bus or by train? JESS: If we go by bus, it will be cheaper."		
-GU038S002	1	38	6_If and wish Passive	ジョー：旅行はどうするの？ ジェス: 電車で行きます。 バスで行ったら安いですが、電車の方が早いです。	"JOE: How are you going to travel? JESS: We're going by train. If we went by bus, it would be cheaper but the train is quicker."		
+GU038S002	1	38	6_If and wish Passive	ジョー：どうやって旅行するつもりですか？ ジェス: 電車で行きます。 バスで行ったら安いですが、電車の方が早いです。	"JOE: How are you going to travel? JESS: We're going by train. If we went by bus, it would be cheaper but the train is quicker."		
 GU038S003	1	38	6_If and wish Passive	窓を開けるつもりはありません。 もし窓を開けたら、ここは寒すぎるだろう。	"I'm not going to open the window. If I opened the window, it would be too cold in here."		
 GU038S004	1	38	6_If and wish Passive	道に迷うことはないと思います。 道に迷ったら、誰かに助けを求めるでしょう。	"I don't think I'll lose my way. If I lost my way, I'd ask someone for help."		
-GU038S005	1	38	6_If and wish Passive	何が起こったのかは話すつもりはありません。 何が起こったのかを話しても、あなたは信じないでしょう。	"I'm not going to tell you what happened. If I told you what happened, you wouldn't believe me."		
+GU038S005	1	38	6_If and wish Passive	あなたに何が起こったのかを話すつもりはありません。 何が起こったのかを話しても、あなたは私を信じないでしょう。	"I'm not going to tell you what happened. If I told you what happened, you wouldn't believe me."		
 GU038S006	1	38	6_If and wish Passive	私はまだ運転免許試験を受けないことに決めました。 もし今運転免許試験を受けたら、私は不合格になるでしょう。	"I've decided not to take my driving test yet. If I took my driving test now, I would fail."		
 GU038S007	1	38	6_If and wish Passive	あなたの誕生日を忘れません。 もし私があなたの誕生日を忘れたら怒るでしょうか？	"I won't forget your birthday. If I forgot your birthday, would you be angry with me?"		
-GU038S008	1	38	6_If and wish Passive	あなたに100ポンドあげるつもりはありません。 もし私があなたに100ポンドあげたら、それで何をしますか？	"I have no plans to give you 100 pounds. If I gave you ?100, what would you do with it?"		
+GU038S008	1	38	6_If and wish Passive	あなたに100ポンドあげるつもりはありません。 もし私があなたに100ポンドあげたら、それで何をしますか？	"I have no plans to give you 100 pounds. If I gave you 100 pounds, what would you do with it?"		
 GU038S009	1	38	6_If and wish Passive	大金を手に入れたら何をしますか?	What would you do if you won a lot of money?		
 GU038S010	1	38	6_If and wish Passive	もし明日選挙があるとしたら誰に投票しますか?	"If there was an election tomorrow, who would you vote for?"		
 GU038S011	1	38	6_If and wish Passive	私はあなたの家に時計を忘れてきたと思います。 見つけたら電話してもらえますか？	"I think I left my watch at your house. If you find it, can you call me?"		
-GU038S012	1	38	6_If and wish Passive	街で財布を見つけたら、どうしますか?	"If you found a wallet in the street, what would you do with it?"		
+GU038S012	1	38	6_If and wish Passive	通りで財布を見つけたら、どうしますか?	"If you found a wallet in the street, what would you do with it?"		
 GU038S013	1	38	6_If and wish Passive	もし宝くじが当たったら、大きな家を買うのに。	"If I won the lottery, I'd buy a big house."		
-GU038S014	1	38	6_If and wish Passive	車を売ったとしても、あまりお金は得られないでしょう。	"If I sold my car, I wouldn't get much money for it."		
+GU038S014	1	38	6_If and wish Passive	車を売ったとしても、それであまりお金は得られないでしょう。	"If I sold my car, I wouldn't get much money for it."		
 GU038S015	1	38	6_If and wish Passive	サラに会ったら、電話するように言います。	"If I see Sarah, I'll tell her to call you."		
-GU038S016	1	38	6_If and wish Passive	建物内で火災が起きたらどうしますか?	What would you do if there was a fire in the building?		
+GU038S016	1	38	6_If and wish Passive	建物内で火災があったらどうしますか?	What would you do if there was a fire in the building?		
 GU038S017	1	38	6_If and wish Passive	パスポートを紛失したらどうすればいいのかわかりません。	I don't know what I'd do if I lost my passport.		
 GU038S018	1	38	6_If and wish Passive	電話番号を教えていただければ、後で電話します。	"If you give me your number, l'Il call you later."		
 GU038S019	1	38	6_If and wish Passive	誰かがそのボタンを押したら何が起こるでしょうか?	What would happen if somebody pressed that button?		
@@ -2194,7 +2194,7 @@ GU038S026	1	38	6_If and wish Passive	もし大金が当たったら家を買う�
 GU038S027	1	38	6_If and wish Passive	もし雨が止んだら、私たちは出かけられるのに。	"If it stopped raining, we could go out."		
 GU038S028	1	38	6_If and wish Passive	その花瓶には気をつけてください。 落とすと粉々に砕けてしまいます。	"Be careful with that vase. If you dropped it, it would break into small pieces."		
 GU038S029	1	38	6_If and wish Passive	今夜は寝る場所が必要です。 ホテルに泊まるとしたら、いくらかかりますか?	"We need somewhere to sleep tonight. If we stayed at a hotel, how much would it cost?"		
-GU038S030	1	38	6_If and wish Passive	このノートは私にとってとても大切です。 失くしたらとても怒るだろう。	This notebook is very important to me. I'd be very upset if I lost it.		
+GU038S030	1	38	6_If and wish Passive	このノートは私にとってとても大切です。 失くしたらとても動揺するだろう。	This notebook is very important to me. I'd be very upset if I lost it.		
 GU038S031	1	38	6_If and wish Passive	仕事を失うとは思っていませんが、そうなった場合は別の仕事を探さなければなりません。	"I don't expect to lose my job but if that happened, I'd have to find another one."		
 GU038S032	1	38	6_If and wish Passive	私たちは来年の休暇について考えています。 もし私たちがイタリアに行ったら、一緒に来てくれませんか？	"We're thinking about our holiday for next year. If we went to Italy, would you come with us?"		
 GU038S033	1	38	6_If and wish Passive	彼が試験に落ちるとは思わない。 もし彼がそうしてくれたら、私はとても驚くだろう。	I don't think he'll fail the exam. I'd be very surprised if he did.		
@@ -2202,7 +2202,7 @@ GU038S034	1	38	6_If and wish Passive	建物内で火災が発生した場合、�
 GU038S035	1	38	6_If and wish Passive	車を買う余裕がない。 車を買ったらお金を借りなければなりません。	"I can't afford to buy a car. If I bought a car, I'd have to borrow the money."		
 GU038S036	1	38	6_If and wish Passive	"私たちの町には 1,000 人を雇用するコンピューター工場があります。 今は大丈夫ですが、もし閉鎖されたら、これらの人々はすべて職を失うでしょう。"	"There is a computer factory in our town that employs one thousand people. Things are fine now, but if it closed down, all these people would lose their jobs."		
 GU038S037	1	38	6_If and wish Passive	A: パーティーを開くとしたら誰を招待しますか? B: 誰もいないよ。 パーティーは開かないでしょう。	"A: If you had a party, who would you invite? B: Nobody. I wouldn't have a party."		
-GU038S038	1	38	6_If and wish Passive	もしあなたがとても有名な人に会ったらどう思いますか? 緊張するでしょうか？	"If you met a very famous person, how would you feel? Would you be nervous?"		
+GU038S038	1	38	6_If and wish Passive	もしあなたがとても有名な人に会ったらどのように感じますか? 緊張するでしょうか？	"If you met a very famous person, how would you feel? Would you be nervous?"		
 GU038S039	1	38	6_If and wish Passive	ゲイリーとエマが結婚する可能性はないと思います。 もしそうなら私は驚くだろう。	I don't think there's any chance that Gary and Emma will get married. I'd be amazed if they did.		
 GU038S040	1	38	6_If and wish Passive	"誰かが私に 5,000 ポンドをくれたら、おそらくとても長い休暇が取れるでしょう。"	"If somebody gave me 5,000 pounds, I'd probably have a very long holiday."		
 GU038S041	1	38	6_If and wish Passive	エレベーターに乗っているときに階間で止まったらどうしますか?	What would you do if you were in a lift and it stopped between floors?		
@@ -2211,62 +2211,62 @@ GU039S002	1	39	6_If and wish Passive	もっと時間があればやりたいこ�
 GU039S003	1	39	6_If and wish Passive	パーティーに行きたくなかったら行かないでしょう。	"If I didn't want to go to the party, I wouldn't go."		
 GU039S004	1	39	6_If and wish Passive	あなたが私の立場だったら、どうしますか?	"If you were in my position, what would you do?"		
 GU039S005	1	39	6_If and wish Passive	彼が運転できないのは残念だ。 できれば便利だろう。	It's a pity he can't drive. It would be useful if he could.		
-GU039S006	1	39	6_If and wish Passive	新しいコンピュータが必要なら、買いに行きます。	"If I needed a new computer, I'd go and buy one."		
+GU039S006	1	39	6_If and wish Passive	新しいコンピュータが必要だったら、買いに行くだろう。	"If I needed a new computer, I'd go and buy one."		
 GU039S007	1	39	6_If and wish Passive	もっと木があれば公園はもっと素敵になるでしょう。	The park would be nicer if there were more trees.		
 GU039S008	1	39	6_If and wish Passive	もっとリラックスしたほうが気分が良くなるでしょう。	You'd feel better if you relaxed more.		
 GU039S009	1	39	6_If and wish Passive	あなたが私と一緒にここにいなかったら、私はとても寂しいでしょう。	I'd be very lonely if you weren't here with me.		
 GU039S010	1	39	6_If and wish Passive	どこへでも旅行できるとしたら、どこに行きますか?	"If you could travel anywhere, where would you go?"		
 GU039S011	1	39	6_If and wish Passive	もっと早く仕事を始めれば、もっと早く終わることができるのに。	"If I started work earlier, I could finish earlier."		
-GU039S012	1	39	6_If and wish Passive	何をすべきか分かっていたら、そうするだろう。	"If I knew what to do, I'd do it."		
-GU039S013	1	39	6_If and wish Passive	車がなかったら移動するのは大変でしょう。	It would be difficult to travel around if we didn't have a car.		
+GU039S012	1	39	6_If and wish Passive	私は何をするか知っていたら、そうするだろう。	"If I knew what to do, I'd do it."		
+GU039S013	1	39	6_If and wish Passive	車がなかったら旅してまわるのは大変でしょう。	It would be difficult to travel around if we didn't have a car.		
 GU039S014	1	39	6_If and wish Passive	傘があればいいのに。	I wish I had an umbrella.		
 GU039S015	1	39	6_If and wish Passive	ポールの電話番号を知っていればよかったのですが。	I wish I knew Paul's phone number.		
 GU039S016	1	39	6_If and wish Passive	空を飛べたらいいのにと思ったことはありませんか?	Do you ever wish you could fly?		
 GU039S017	1	39	6_If and wish Passive	ここはとても混雑しています。 こんなに人がいないといいのですが。	It's very crowded here. I wish there weren't so many people.		
 GU039S018	1	39	6_If and wish Passive	明日仕事をしなくていいのにと思いますが、残念ながら仕事になってしまいます。	"I wish I didn't have to work tomorrow, but unfortunately I do."		
 GU039S019	1	39	6_If and wish Passive	ここに住んでいてうれしいです。	I'm glad I live here.		
-GU039S020	1	39	6_If and wish Passive	ここに住めたらよかったのに。	I wish I lived here.		
-GU039S021	1	39	6_If and wish Passive	自由時間が足りません。 もっと自由な時間があればいいのにと思います。	I don't have enough free time. I wish I had more free time.		
+GU039S020	1	39	6_If and wish Passive	ここに住んでいたらよかったのに。	I wish I lived here.		
+GU039S021	1	39	6_If and wish Passive	私は十分な自由時間がありません。 もっと自由な時間があればいいのにと思います。	I don't have enough free time. I wish I had more free time.		
 GU039S022	1	39	6_If and wish Passive	残念ながら私たちは海の近くに住んでいません。 私たちが海の近くに住んでいればよかったのに。	We don't live near the sea unfortunately. I wish we lived near the sea.		
 GU039S023	1	39	6_If and wish Passive	私たちは大都市に住んでいますが、それが好きではありません。 大都市に住まなければよかったのに。	We live in a big city and I don't like it. I wish we didn't live in a big city.		
 GU039S024	1	39	6_If and wish Passive	ヘレンはここにいないので、彼女に会わなければなりません。 ヘレンがここにいればよかったのに。	"Helen isn't here, and I need to see her. I wish Helen were here."		
-GU039S025	1	39	6_If and wish Passive	彼らはパーティーに来ることができません、それは残念です。 彼らがパーティーに来てくれればいいのにと思います。	"They can't come to the party, which is a shame. I wish they could come to the party."		
+GU039S025	1	39	6_If and wish Passive	彼らはパーティーに来ることができません、それは残念です。 彼らがパーティーに来れたらいいのにと思います。	"They can't come to the party, which is a shame. I wish they could come to the party."		
 GU039S026	1	39	6_If and wish Passive	残念ながら私は科学についてはあまり知りません。 科学についてもっと知っていればよかったと思います。	I don't know much about science unfortunately. I wish I knew more about science.		
-GU039S027	1	39	6_If and wish Passive	気分が優れない、それは良くないことだ。 気分が良くなればいいのですが。	"You're not feeling well, which isn't good. I wish you were feeling better."		
-GU039S028	1	39	6_If and wish Passive	鍵がどこにも見つからず、困っています。 鍵が見つかるといいのですが。	"I can't find my key anywhere, which is annoying. I wish I could find my key."		
-GU039S029	1	39	6_If and wish Passive	明日は早く起きなければなりません。 もっと長く寝たいです。 明日早起きしなくてもよかったのに。	I have to get up early tomorrow. I'd prefer to sleep longer. I wish I didn't have to get up early tomorrow.		
+GU039S027	1	39	6_If and wish Passive	あなたは気分がよくなく、それは良くないことだ。 気分が良くなればいいのですが。	"You're not feeling well, which isn't good. I wish you were feeling better."		
+GU039S028	1	39	6_If and wish Passive	私の鍵がどこにも見つからず、それは鬱陶しいです。 鍵が見つけられたらいいのに。	"I can't find my key anywhere, which is annoying. I wish I could find my key."		
+GU039S029	1	39	6_If and wish Passive	私は明日早く起きなければなりません。 (どちらかというと)もっと長く寝たいです。 明日早起きる必要がなければよかったのに。	I have to get up early tomorrow. I'd prefer to sleep longer. I wish I didn't have to get up early tomorrow.		
 GU039S030	1	39	6_If and wish Passive	もし私があなただったら、そのコートは買わないでしょう。	"If I were you, I wouldn't buy that coat."	"If I was you, I wouldn't buy that coat."	
 GU039S031	1	39	6_If and wish Passive	そんなに寒くなかったら散歩に行きたいのですが。	I'd go for a walk if it weren't so cold.	I'd go for a walk if it wasn't so cold.	
 GU039S032	1	39	6_If and wish Passive	彼女が今ここにいればよかったのに。	I wish she was here now.	I wish she were here now.	
-GU039S033	1	39	6_If and wish Passive	寒くて濡れています。 天気が良かったらいいのに。	It's cold and wet. I wish the weather was better.		
+GU039S033	1	39	6_If and wish Passive	寒くて濡れています。 天気がもっと良かったらいいのに。	It's cold and wet. I wish the weather was better.		
 GU039S034	1	39	6_If and wish Passive	目を開けていられない。 そんなに疲れてなかったらよかったのに。	I can't keep my eyes open. I wish I wasn't so tired.		
 GU039S035	1	39	6_If and wish Passive	ホームシックになっています。 家に戻れたらよかったのに。	I'm feeling homesick. I wish I were back home.		
 GU039S036	1	39	6_If and wish Passive	私はこの靴が好きです。 そんなに高価じゃないといいのですが。	I like these shoes. I wish they weren't so expensive.		
 GU039S037	1	39	6_If and wish Passive	私が会社のマネージャーだったら、たくさんの変化を起こすだろう。	I'd make a lot of changes if I were the manager of the company.		
 GU039S038	1	39	6_If and wish Passive	その話が本当だったらとても驚くだろう。	I'd be very surprised if the story was true.		
 GU039S039	1	39	6_If and wish Passive	あなたが私の立場だったらどうしますか？	What would you do if you were in my position?		
-GU039S040	1	39	6_If and wish Passive	重要なことでなければ、夜中に誰かに電話はしません。	I wouldn't call somebody in the middle of the night if it wasn't important.		
+GU039S040	1	39	6_If and wish Passive	重要なことでなければ、真夜中に誰かに電話はしません。	I wouldn't call somebody in the middle of the night if it wasn't important.		
 GU039S041	1	39	6_If and wish Passive	もし私が金持ちだったら、たくさん旅行するだろう。	"If I were rich, I'd travel a lot."		
 GU039S042	1	39	6_If and wish Passive	助けが必要な場合、誰に尋ねますか?	Who would you ask if you needed help?		
 GU039S043	1	39	6_If and wish Passive	何か読むものがあればいいのですが。	I wish I had something to read.		
 GU039S044	1	39	6_If and wish Passive	あなたがいまここにいたらいいのに。	I wish you were here now.		
-GU039S045	1	39	6_If and wish Passive	私は都会に住んでいますが、もし選べるなら田舎に住みたいと思っています。	"I live in a city, but if I had the choice, I would live in the country."		
+GU039S045	1	39	6_If and wish Passive	私は街に住んでいますが、もし(その)選択権があったら田舎に住むでしょう。	"I live in a city, but if I had the choice, I would live in the country."		
 GU039S046	1	39	6_If and wish Passive	私たちは都会に住んでいるから車は必要ありませんが、田舎に住んでいたら車が必要になるでしょう。	"We live in a city and don't need a car, but we would need one if we lived in the country."		
-GU039S047	1	39	6_If and wish Passive	この天気は好きではありません。 そんなに寒くないといいのですが。	I don't like this weather. I wish it wasn?t so cold.		
+GU039S047	1	39	6_If and wish Passive	この天気は好きではありません。 そんなに寒くないといいのですが。	I don't like this weather. I wish it wasn't so cold.		
 GU039S048	1	39	6_If and wish Passive	このスープはあまり美味しくありません。 塩辛くないほうが美味しかったかも。	This soup isn't very nice. It would taste better if it wasn't so salty.		
-GU039S049	1	39	6_If and wish Passive	十分長い間待っていましたね。 私だったら、これ以上待ちません。	"You've been waiting long enough. If I were you, I wouldn't wait any longer."		
+GU039S049	1	39	6_If and wish Passive	あなたは十分長い間待っていましたね。 私があなただったら、これ以上待たないだろう。	"You've been waiting long enough. If I were you, I wouldn't wait any longer."		
 GU039S050	1	39	6_If and wish Passive	私たちのアパートはとても小さいです。 もう少しスペースがあればいいのにと思います。	Our apartment is very small. I wish we had a bit more space.		
 GU039S051	1	39	6_If and wish Passive	あなたはいつも疲れています。 そんなに遅く寝なければ、いつも疲れているわけではないでしょう。	"You're always tired. If you didn't go to bed so late, you wouldn't be tired all the time."		
-GU039S052	1	39	6_If and wish Passive	車が多すぎます。 車がこれほど多くなければ、これほど大気汚染は起こらないでしょう。	"There are too many cars. If there weren't so many cars, there wouldn't be so much pollution."		
+GU039S052	1	39	6_If and wish Passive	車が多すぎます。 車がこれほど多くなければ、これほどの汚染は起こらないでしょう。	"There are too many cars. If there weren't so many cars, there wouldn't be so much pollution."		
 GU039S053	1	39	6_If and wish Passive	エレベーターが壊れているので、階段を登らなければなりません。 エレベーターが動いてればいいのに。	"The lift is broken, so we have to climb the stairs. I wish the lift was working."		
 GU039S054	1	39	6_If and wish Passive	私たちは皆、仕事とお金を必要としていますが、働く必要がなかったら何をしますか?	"We all need jobs and money, but what would you do if you didn't have to work?"		
 GU039S055	1	39	6_If and wish Passive	もし別の言語を話せれば、彼女はもっと良い仕事に就くことができるだろう。	She could get a better job if she could speak another language.		
 GU039S056	1	39	6_If and wish Passive	あなたのことを助けられたらいいのに。	I wish I could help you.		
 GU039S057	1	39	6_If and wish Passive	申し訳ありませんが、今行かなければなりません。 もっと長く滞在できたらいいのにと思います。	I'm sorry I have to go now. I wish I could stay longer.		
 GU039S058	1	39	6_If and wish Passive	できればお手伝いしたいのですが、残念ながらそれはできません。	"I'd help you if I could, but I'm afraid I can't."		
-GU039S059	1	39	6_If and wish Passive	雨が降っているのが残念だ。 乾いていれば、外で座って食事ができるでしょう。	"It's a shame it's raining. If it was dry, we could sit and eat outside."		
+GU039S059	1	39	6_If and wish Passive	雨が降っているのが残念だ。 乾いていれば、座って外で食事ができるでしょう。	"It's a shame it's raining. If it was dry, we could sit and eat outside."		
 GU039S060	1	39	6_If and wish Passive	もっと早く読めたらいいのに。 本を読み終えるのに何年もかかります。	I wish I could read faster. It takes me ages to finish a book.		
-GU039S061	1	39	6_If and wish Passive	できれば休みが欲しいですが、そんな余裕はありません。	"We'd have a holiday if we could, but we can't afford it."		
+GU039S061	1	39	6_If and wish Passive	できれば我々は休暇を取るでしょうが、その余裕はありません。	"We'd have a holiday if we could, but we can't afford it."		
 GU039S062	1	39	6_If and wish Passive	携帯電話があればクリスに電話できるのですが、持ってくるのを忘れてしまいました。	"I could call Chris if I had my phone, but I forgot to bring it."		
 GU040S001	1	40	6_If and wish Passive	もし知っていたら、あなたを訪ねて行ったのに。	"If I'd known, I would have gone to visit you."		
 GU040S002	1	40	6_If and wish Passive	あなたが通りですれ違ったとき、私はあなたに気づきませんでした。 もし会っていたら、もちろん挨拶しただろう。	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
