@@ -2269,7 +2269,7 @@ GU039S060	1	39	6_If and wish Passive	‚à‚Á‚Æ‘‚­“Ç‚ß‚½‚ç‚¢‚¢‚Ì‚ÉB –{‚ğ“Ç‚İI‚¦‚é
 GU039S061	1	39	6_If and wish Passive	‚Å‚«‚ê‚Î‰äX‚Í‹x‰É‚ğæ‚é‚Å‚µ‚å‚¤‚ªA‚»‚Ì—]—T‚Í‚ ‚è‚Ü‚¹‚ñB	"We'd have a holiday if we could, but we can't afford it."		
 GU039S062	1	39	6_If and wish Passive	Œg‘Ñ“d˜b‚ª‚ ‚ê‚ÎƒNƒŠƒX‚É“d˜b‚Å‚«‚é‚Ì‚Å‚·‚ªA‚Á‚Ä‚­‚é‚Ì‚ğ–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"I could call Chris if I had my phone, but I forgot to bring it."		
 GU040S001	1	40	6_If and wish Passive	‚à‚µ’m‚Á‚Ä‚¢‚½‚çA‚ ‚È‚½‚ğ–K‚Ë‚Äs‚Á‚½‚Ì‚ÉB	"If I'd known, I would have gone to visit you."		
-GU040S002	1	40	6_If and wish Passive	‚ ‚È‚½‚ª’Ê‚è‚Å‚·‚êˆá‚Á‚½‚Æ‚«A„‚Í‚ ‚È‚½‚É‹C‚Ã‚«‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ‰ï‚Á‚Ä‚¢‚½‚çA‚à‚¿‚ë‚ñˆ¥A‚µ‚½‚¾‚ë‚¤B	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
+GU040S002	1	40	6_If and wish Passive	‚ ‚È‚½‚ª’Ê‚è‚Å„‚ğ’Ê‚è‚·‚¬‚½A„‚Í‚ ‚È‚½‚ğŒ©‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µŒ©‚Ä‚¢‚½‚çA‚à‚¿‚ë‚ñˆ¥A‚µ‚½‚¾‚ë‚¤B	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
 GU040S003	1	40	6_If and wish Passive	”Ş‚ç‚Íğ–éŠOo‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ”Ş‚ç‚ª‚»‚ñ‚È‚É”æ‚ê‚Ä‚¢‚È‚¯‚ê‚ÎA”Ş‚ç‚Ío‚©‚¯‚Ä‚¢‚½‚¾‚ë‚¤B	They didn't go out last night. They would have gone out if they hadn't been so tired.		
 GU040S004	1	40	6_If and wish Passive	‚à‚µA‚Ç‚±‚Ös‚­‚Ì‚©Œ©‚Ä‚¢‚½‚çA•Ç‚É‚Ô‚Â‚©‚é‚±‚Æ‚Í‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	"If you'd been looking where you were going, you wouldn't have walked into the wall."		
 GU040S005	1	40	6_If and wish Passive	ŒiF‚Í‘f°‚ç‚µ‚©‚Á‚½‚Å‚·B ‚à‚µƒJƒƒ‰‚ğ‚Á‚Ä‚¢‚½‚çA‰½–‡‚©Ê^‚ğB‚Á‚½‚¾‚ë‚¤‚ÉB	The view was wonderful. I would have taken some pictures if l'd had a camera with me.		
@@ -2280,10 +2280,10 @@ GU040S009	1	40	6_If and wish Passive	ƒŒƒCƒ`ƒFƒ‹‚Ì’a¶“ú‚Ì‚±‚Æ‚ğv‚¢o‚³‚¹‚Ä‚­‚ê‚
 GU040S010	1	40	6_If and wish Passive	˜A—‚ªæ‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ‚ ‚È‚½‚Ì“dqƒ[ƒ‹ƒAƒhƒŒƒX‚ğ’m‚Á‚Ä‚¢‚½‚çA‚ ‚È‚½‚É“dqƒ[ƒ‹‚ğ‘—‚Á‚½‚Ì‚ÉB	"I wasn't able to contact you. If I'd had your email address, I would have sent you an email."		
 GU040S011	1	40	6_If and wish Passive	„‚½‚¿‚Ì—·s‚Í–â‘è‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA“V‹C‚ª—Ç‚¯‚ê‚Î‚à‚Á‚ÆŠy‚µ‚ß‚½‚Å‚µ‚å‚¤B	"Our trip was OK, but we would have enjoyed it more if the weather had been better."		
 GU040S012	1	40	6_If and wish Passive	ƒTƒ‰‚Í‹ó`s‚«‚Ì“dÔ‚ÉŠÔ‚É‡‚¤‚æ‚¤‚É‰w‚É’…‚«‚Ü‚µ‚½B ‚à‚µ”Ş—‚ª“dÔ‚Éæ‚è’x‚ê‚Ä‚¢‚½‚çA”òs‹@‚É‚àæ‚è’x‚ê‚Ä‚¢‚½‚¾‚ë‚¤B	"Sarah got to the station just in time to catch her train to the airport. If she'd missed the train, she would have missed her flight too."		
-GU040S013	1	40	6_If and wish Passive	„‚Í”æ‚ê‚Ä‚¢‚Ü‚¹‚ñB ”æ‚ê‚Ä‚¢‚½‚çA¡‚·‚®‰Æ‚É‹A‚è‚Ü‚·B	"I'm not tired. If I was tired, I'd go home now."		
+GU040S013	1	40	6_If and wish Passive	„‚Í”æ‚ê‚Ä‚¢‚Ü‚¹‚ñB ”æ‚ê‚Ä‚¢‚½‚çA¡‰Æ‚É‹A‚é‚Å‚µ‚å‚¤B	"I'm not tired. If I was tired, I'd go home now."		
 GU040S014	1	40	6_If and wish Passive	ğ–é‚Í”æ‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ”æ‚ê‚Ä‚¢‚½‚çA‘‚­‰Æ‚É‹A‚Á‚Ä‚¢‚½‚¾‚ë‚¤B	"I wasn't tired last night. If I'd been tired, I would have gone home early."		
 GU040S015	1	40	6_If and wish Passive	ƒJƒŒƒ“‚³‚ñ‚ÍƒV[ƒgƒxƒ‹ƒg‚Ì‚¨‚©‚°‚Å–ŒÌ‚Å‰ö‰ä‚ğ‚µ‚È‚©‚Á‚½B ‚à‚µ‚»‚ê‚ğ’…‚Ä‚¢‚È‚©‚Á‚½‚çA‚¨‚»‚ç‚­‰ö‰ä‚ğ‚µ‚Ä‚¢‚½‚Å‚µ‚å‚¤B	"Karen wasn't injured in the crash thanks to her seat belt. If she hadn't been wearing it, she would probably have been injured."		
-GU040S016	1	40	6_If and wish Passive	ƒQƒCƒŠ[‚ª•a‹C‚¾‚Æ’m‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½B „‚È‚ç”Ş‚É‰ï‚¢‚És‚Á‚½‚¾‚ë‚¤B	I wish I'd known that Gary was ill. I would have gone to see him.		
+GU040S016	1	40	6_If and wish Passive	„‚ÍƒQƒCƒŠ[‚ª•a‹C‚¾‚Æ’m‚Á‚Ä‚¢‚½‚ç‚æ‚©‚Á‚½B „‚Í”Ş‚É‰ï‚¢‚És‚Á‚½‚¾‚ë‚¤B	I wish I'd known that Gary was ill. I would have gone to see him.		
 GU040S017	1	40	6_If and wish Passive	‹C•ª‚ªˆ«‚¢‚Å‚·B ‚»‚ñ‚È‚ÉH‚×‚È‚¯‚ê‚Î‚æ‚©‚Á‚½B	I feel sick. I wish I hadn't eaten so much.		
 GU040S018	1	40	6_If and wish Passive	ŒêŠw‚Å‚Í‚È‚­‰ÈŠw‚ğ•×‹­‚µ‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½‚Æv‚¢‚Ü‚·‚©?	Do you wish you'd studied science instead of languages?		
 GU040S019	1	40	6_If and wish Passive	”Ş‚É‰ï‚¦‚ÄŠğ‚µ‚©‚Á‚½‚Å‚·B	I'm glad I saw him.		
@@ -2293,15 +2293,15 @@ GU040S022	1	40	6_If and wish Passive	ƒhƒA‚ğÂ‚­“h‚Á‚½‚Ì‚ÍŠÔˆá‚¢‚Å‚µ‚½B Ô‚­“h‚ê
 GU040S023	1	40	6_If and wish Passive	V‚µ‚¢ƒ\ƒtƒ@‚ğ”ƒ‚Á‚½‚¯‚ÇA¡‚Í‹C‚É“ü‚ç‚È‚¢B ”ƒ‚í‚È‚¯‚ê‚Î‚æ‚©‚Á‚½B	"I bought a new sofa, but I don't like it now. I wish I hadn't bought it."		
 GU040S024	1	40	6_If and wish Passive	ƒAƒ‰ƒ“‚Í„‚ÌƒAƒhƒoƒCƒX‚ğó‚¯“ü‚ê‚é‚×‚«‚¾‚Á‚½B ”Ş‚ª„‚ÌŒ¾‚Á‚½’Ê‚è‚É‚µ‚Ä‚­‚ê‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	Alan should have taken my advice. I wish he'd done as I said.		
 GU040S025	1	40	6_If and wish Passive	ƒp[ƒeƒB[‚Í–{“–‚É‘Ş‹ü‚¾‚Á‚½B s‚©‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	The party was really boring. I wish we hadn't gone.		
-GU040S026	1	40	6_If and wish Passive	‚ ‚È‚½‚ÌƒAƒCƒfƒA‚Í‘f°‚ç‚µ‚¢‚Å‚·‚ËB ‚»‚¤l‚¦‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	Your idea is brilliant. I wish I'd thought of that.		
-GU040S027	1	40	6_If and wish Passive	Œ‹¥®‚ÅÊ^‚ğB‚Á‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½B ¡‚©‚çŒ©‚Ä‚İ‚é‚Æ—Ç‚¢‚Å‚µ‚å‚¤B	I wish we'd taken some pictures at the wedding. It would be nice to look at them now.		
+GU040S026	1	40	6_If and wish Passive	‚ ‚È‚½‚ÌƒAƒCƒfƒA‚Í‘f°‚ç‚µ‚¢‚Å‚·‚ËB „‚ª‚»‚ê‚ğv‚¢‚Â‚¢‚½‚ç‚æ‚©‚Á‚½‚Ì‚ÉB	Your idea is brilliant. I wish I'd thought of that.		
+GU040S027	1	40	6_If and wish Passive	Œ‹¥®‚ÅÊ^‚ğB‚Á‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½B ¡‚»‚ê‚ç‚ğŒ©‚é‚Ì‚Í—Ç‚©‚Á‚½‚Å‚µ‚å‚¤B	I wish we'd taken some pictures at the wedding. It would be nice to look at them now.		
 GU040S028	1	40	6_If and wish Passive	„‚ÌŒ¾‚Á‚½‚±‚Æ‚ÍŠÔˆá‚Á‚Ä‚¢‚Ü‚µ‚½B Œ¾‚í‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	What I said was wrong. I wish I hadn't said it.		
-GU040S029	1	40	6_If and wish Passive	‰ï‹c‚Í’Z‚·‚¬‚Ü‚µ‚½B ‚à‚Á‚Æ˜b‚µ‡‚¤ŠÔ‚ª‚ ‚ê‚Î‚æ‚©‚Á‚½‚Æv‚¢‚Ü‚·B	The meeting was too short. I wish we'd had more time to discuss things.		
-GU040S030	1	40	6_If and wish Passive	‚à‚µ‚ ‚È‚½‚É‰ï‚Á‚Ä‚¢‚½‚çAˆ¥A‚µ‚½‚¾‚ë‚¤‚ÉB	"If I had seen you, I would have said hello."		
-GU040S031	1	40	6_If and wish Passive	‚à‚µ‚ ‚È‚½‚É‰ï‚Á‚Ä‚¢‚½‚çAˆ¥A‚µ‚½‚¾‚ë‚¤‚ÉB	"If I'd seen you, I'd have said hello."		
-GU040S032	1	40	6_If and wish Passive	„‚½‚¿‚ª‹x‰É‚És‚Á‚½‚Æ‚«A“V‹C‚ÍŠ¦‚©‚Á‚½B ‚à‚Á‚Æ’g‚©‚­‚È‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	The weather was cold when we were on holiday. I wish it had been warmer.		
-GU040S033	1	40	6_If and wish Passive	‚ ‚È‚½‚ªğ–é‚Ìƒp[ƒeƒB[‚ÉoÈ‚Å‚«‚È‚©‚Á‚½‚Ì‚Íc”O‚Å‚·B —ˆ‚Ä‚¢‚½‚çŠy‚µ‚©‚Á‚½‚Å‚µ‚å‚¤‚ËB	It's a shame you weren't at the party last night. You would have enjoyed it if you'd come.		
-GU040S034	1	40	6_If and wish Passive	‘‹N‚«‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ’m‚Á‚Ä‚¢‚½‚çA‚ ‚È‚½‚ğ‹N‚±‚µ‚½‚Ì‚ÉB	"I didn't know you had to get up early. If I'd known, I would have woken you up."		
+GU040S029	1	40	6_If and wish Passive	‰ï‹c‚Í’Z‚·‚¬‚Ü‚µ‚½B ‚à‚Á‚Æ•¨–‚ğ‹c˜_‚·‚éŠÔ‚ª‚ ‚ê‚Î‚æ‚©‚Á‚½‚Æv‚¢‚Ü‚·B	The meeting was too short. I wish we'd had more time to discuss things.		
+GU040S030	1	40	6_If and wish Passive	‚à‚µ‚ ‚È‚½‚ğŒ©‚Ä‚¢‚½‚çAˆ¥A‚µ‚½‚¾‚ë‚¤‚ÉB	"If I had seen you, I would have said hello."		
+GU040S031	1	40	6_If and wish Passive	‚à‚µ‚ ‚È‚½‚ÉŒ©‚Ä‚¢‚½‚çAˆ¥A‚µ‚½‚¾‚ë‚¤‚ÉB	"If I'd seen you, I'd have said hello."		
+GU040S032	1	40	6_If and wish Passive	„‚½‚¿‚ª‹x‰É‚¾‚Á‚½A“V‹C‚ÍŠ¦‚©‚Á‚½B ‚à‚Á‚Æ’g‚©‚­‚È‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	The weather was cold when we were on holiday. I wish it had been warmer.		
+GU040S033	1	40	6_If and wish Passive	‚ ‚È‚½‚ªğ–é‚Ìƒp[ƒeƒB[‚É‚¢‚È‚©‚Á‚½‚Ì‚Íc”O‚Å‚·B —ˆ‚Ä‚¢‚½‚çŠy‚µ‚©‚Á‚½‚Å‚µ‚å‚¤‚ËB	It's a shame you weren't at the party last night. You would have enjoyed it if you'd come.		
+GU040S034	1	40	6_If and wish Passive	„‚Í‚ ‚È‚½‚ª‘‹N‚«‚µ‚È‚¯‚ê‚Î‚¢‚¯‚È‚©‚Á‚½‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ’m‚Á‚Ä‚¢‚½‚çA‚ ‚È‚½‚ğ‹N‚±‚µ‚½‚Ì‚ÉB	"I didn't know you had to get up early. If I'd known, I would have woken you up."		
 GU040S035	1	40	6_If and wish Passive	„‚ÍŠyŠí‚ğ‰‰‘t‚Å‚«‚Ü‚¹‚ñB ‚à‚Á‚Æá‚¢‚É‰‰‘t‚ğK‚Á‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½‚Æv‚¢‚Ü‚·B	I can't play a musical instrument. I wish I'd learned to play one when I was younger.		
 GU040S036	1	40	6_If and wish Passive	“¹˜H‚É‚Í•X‚ª’£‚Á‚Ä‚¢‚Ü‚µ‚½B “¹˜H‚ª“€Œ‹‚µ‚Ä‚¢‚È‚¯‚ê‚ÎA‚»‚Ì–ŒÌ‚Í‹N‚±‚ç‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	There was ice on the road. The accident wouldn't have happened if the road hadn't been icy.		
 GU040S037	1	40	6_If and wish Passive	„‚½‚¿‚Í”‚©Œ‘O‚ÉV‚µ‚¢ƒAƒp[ƒg‚Éˆø‚Á‰z‚µ‚Ü‚µ‚½‚ªA‚»‚ê‚ª‹C‚É“ü‚ç‚È‚¢‚Ì‚Å‚·B ˆø‚Á‰z‚µ‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	"We moved to a new apartment a few months ago, but I don't like it. I wish we hadn't moved."		
@@ -2314,45 +2314,45 @@ GU040S043	1	40	6_If and wish Passive	‚à‚µ“V‹C‚ª‚»‚ê‚Ù‚Çˆ«‚­‚È‚©‚Á‚½‚çA„‚½‚¿‚Í
 GU040S044	1	40	6_If and wish Passive	‚à‚µ“V‹C‚ª‚»‚ê‚Ù‚Çˆ«‚­‚È‚©‚Á‚½‚çA„‚½‚¿‚Ío‚©‚¯‚ç‚ê‚½‚Ì‚ÉB	"If the weather hadn't been so bad, we could have gone out."		
 GU040S045	1	40	6_If and wish Passive	“V‹C‚ª‚»‚ê‚Ù‚Çˆ«‚­‚È‚©‚Á‚½‚çA„‚½‚¿‚Ío‚©‚¯‚Ä‚¢‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"If the weather hadn't been so bad, we might have gone out."		
 GU040S046	1	40	6_If and wish Passive	c”O‚È‚ª‚ç‰J‚ª~‚Á‚Ä‚¢‚Ü‚µ‚½B ‰J‚ª~‚Á‚Ä‚¢‚È‚¯‚ê‚ÎA„‚½‚¿‚Íƒr[ƒ`‚És‚­‚±‚Æ‚ª‚Å‚«‚½‚Ì‚ÉB	"Unfortunately it was raining. If it hadn't been raining, we could have gone to the beach."		
-GU040S047	1	40	6_If and wish Passive	„‚ª“X‚ÅŒ©‚½ƒXƒJ[ƒt‚Í‚Æ‚Ä‚à‚‰¿‚Å‚µ‚½B ‚à‚¤­‚µˆÀ‚©‚Á‚½‚çA”ƒ‚Á‚Ä‚¢‚½‚©‚à’m‚ê‚Ü‚¹‚ñB	"The scarf I saw in the shop was really expensive. If it had been a little cheaper, I might have bought it."		
-GU040S048	1	40	6_If and wish Passive	ƒ‰ƒ“ƒ`‚ğH‚×‚ç‚ê‚Ä‚æ‚©‚Á‚½‚Å‚·B ‰½‚àH‚×‚Ä‚¢‚È‚©‚Á‚½‚çA¡ ‚¨• ‚ª‹ó‚¢‚Ä‚¢‚é‚Å‚µ‚å‚¤B	"I'm glad I had lunch. If I hadn't eaten anything, I'd be hungry now."		
-GU040S049	1	40	6_If and wish Passive	„‚ÍŠw¶‘ã‚É‚ ‚Ü‚è•×‹­‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚Á‚Æ¬Ñ‚ª—Ç‚©‚Á‚½‚ç‘åŠw‚És‚¯‚½‚©‚à‚µ‚ê‚È‚¢B	"I didn't study hard when I was at school. If I'd done better, I could have gone to university."		
+GU040S047	1	40	6_If and wish Passive	„‚ª“X‚ÅŒ©‚½ƒXƒJ[ƒt‚Í–{“–‚É‚‰¿‚Å‚µ‚½B ‚à‚¤­‚µˆÀ‚©‚Á‚½‚çA”ƒ‚Á‚Ä‚¢‚½‚©‚à’m‚ê‚Ü‚¹‚ñB	"The scarf I saw in the shop was really expensive. If it had been a little cheaper, I might have bought it."		
+GU040S048	1	40	6_If and wish Passive	ƒ‰ƒ“ƒ`‚ğH‚×‚Ä‚æ‚©‚Á‚½‚Å‚·B ‰½‚àH‚×‚Ä‚¢‚È‚©‚Á‚½‚çA¡ ‚¨• ‚ª‹ó‚¢‚Ä‚¢‚é‚Å‚µ‚å‚¤B	"I'm glad I had lunch. If I hadn't eaten anything, I'd be hungry now."		
+GU040S049	1	40	6_If and wish Passive	„‚ÍŠw¶‘ã”MS‚É•×‹­‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚Á‚Æ‚æ‚­‚µ‚Ä‚¢‚½‚ç‘åŠw‚És‚­‚±‚Æ‚ª‚Å‚«‚½‚¾‚ë‚¤B	"I didn't study hard when I was at school. If I'd done better, I could have gone to university."		
 GU040S050	1	40	6_If and wish Passive	‰½‚ğ‚·‚ê‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚à‚µ‚ ‚È‚½‚ª„‚Ì—§ê‚¾‚Á‚½‚çA‚Ç‚¤‚µ‚½‚Å‚µ‚å‚¤‚©H	"I didn't know what to do. If you'd been in my position, what would you have done?"		
 GU040S051	1	40	6_If and wish Passive	ƒŠƒT‚Ì’a¶“ú‚Ì‚±‚Æ‚ğv‚¢o‚³‚¹‚Ä‚­‚ê‚Ä—Ç‚©‚Á‚½‚Å‚·B ‚ ‚È‚½‚ª‰½‚àŒ¾‚í‚È‚©‚Á‚½‚çA„‚ÍŠo‚¦‚Ä‚¢‚È‚©‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñB	"It's good that you reminded me about Lisa's birthday. If you hadn't said anything, I might not have remembered."		
-GU041S001	1	41	6_If and wish Passive	¡Œã‚Æ‚à‚²‘½K‚ğ‚¨‹F‚è\‚µã‚°‚Ü‚·B	I wish you all the best in the future.		
+GU041S001	1	41	6_If and wish Passive	«—ˆ‚Ì’§í‚ª‚·‚×‚Ä‚¤‚Ü‚­‚¢‚«‚Ü‚·‚æ‚¤‚ÉB	I wish you all the best in the future.		
 GU041S002	1	41	6_If and wish Passive	Œ±‘O‚Éƒ}[ƒN‚É‰ï‚¢‚Ü‚µ‚½‚ªA”Ş‚Í„‚ÌK‰^‚ğ‹F‚Á‚Ä‚¢‚Ü‚µ‚½B	I saw Mark before the exam and he wished me luck.		
-GU041S003	1	41	6_If and wish Passive	‚²‚ß‚ñ‚È‚³‚¢A‘Ì’²‚ª—D‚ê‚Ü‚¹‚ñB ‚ ‚È‚½‚ª‚·‚®‚É—Ç‚¢‹C‚¿‚É‚È‚é‚Æ‚¤‚ê‚µ‚¢B	I'm sorry you're not well. I hope you feel better soon.		
-GU041S004	1	41	6_If and wish Passive	Šy‚µ‚¢‚²‘Øİ‚ğ‚¨‹F‚è‚µ‚Ä‚¨‚è‚Ü‚·B	I wish you a pleasant stay here.		
+GU041S003	1	41	6_If and wish Passive	‚ ‚È‚½‚Ì‘Ì’²‚ª—Ç‚­‚È‚¢‚Ì‚Í‚¨‹C‚Ì“Å‚Å‚·B ‚ ‚È‚½‚Ì‘Ì’²‚ª—Ç‚­‚È‚é‚±‚Æ‚ğŠè‚¢‚Ü‚·B	I'm sorry you're not well. I hope you feel better soon.		
+GU041S004	1	41	6_If and wish Passive	‚±‚±‚Å‚ÌŠy‚µ‚¢‚²‘Øİ‚ğ‚¨‹F‚è‚µ‚Ä‚¨‚è‚Ü‚·B	I wish you a pleasant stay here.		
 GU041S005	1	41	6_If and wish Passive	Šy‚µ‚¢‚²‘Øİ‚ğ‚¨‰ß‚²‚µ‚¢‚½‚¾‚¯‚ê‚ÎK‚¢‚Å‚·B	I hope you have a pleasant stay here.		
-GU041S006	1	41	6_If and wish Passive	‹x“ú‚ğŠy‚µ‚ñ‚ÅB Šy‚µ‚¢ŠÔ‚ğ‚¨‰ß‚²‚µ‚¢‚½‚¾‚¯‚ê‚ÎK‚¢‚Å‚·B	Enjoy your holiday. I hope you have a great time.		
+GU041S006	1	41	6_If and wish Passive	‹x‰É‚ğŠy‚µ‚ñ‚ÅB ‚ ‚È‚½‚ªŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚·‚±‚Æ‚ğŠè‚¢‚Ü‚·B	Enjoy your holiday. I hope you have a great time.		
 GU041S007	1	41	6_If and wish Passive	‚³‚æ‚¤‚È‚çI ŠF—l‚Ì¡Œã‚Ì‚²‘½K‚ğS‚æ‚è‚¨‹F‚è\‚µã‚°‚Ü‚·B	Goodbye! I wish you all the best for the future.		
 GU041S008	1	41	6_If and wish Passive	„‚½‚¿‚Í‚¨Œİ‚¢‚É•Ê‚ê‚ğ‚°A‚¨Œİ‚¢‚ÌK‰^‚ğ‹F‚è‚Ü‚µ‚½B	We said goodbye to one another and wished each other luck.		
 GU041S009	1	41	6_If and wish Passive	„‚½‚¿‚Í–¾“úƒsƒNƒjƒbƒN‚És‚­—\’è‚È‚Ì‚ÅA“V‹C‚ª‚¢‚¢‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB	"We're going to have a picnic tomorrow, so I hope the weather is nice."		
-GU041S010	1	41	6_If and wish Passive	V‚µ‚¢‚¨d–‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·B ŠF—l‚Ì‚²¬Œ÷‚ğ‚¨‹F‚è‚µ‚Ä‚¨‚è‚Ü‚·B	Congratulations on your new job. I wish you every success.		
-GU041S011	1	41	6_If and wish Passive	V‚µ‚¢d–‚ÅŠæ’£‚Á‚Ä‚­‚¾‚³‚¢B ‚¤‚Ü‚­‚¢‚­‚±‚Æ‚ğŠè‚Á‚Ä‚¢‚Ü‚·B	Good luck in your new job. I hope it works out well for you.		
+GU041S010	1	41	6_If and wish Passive	V‚µ‚¢‚¨d–‚¨‚ß‚Å‚Æ‚¤‚²‚´‚¢‚Ü‚·B ‚ ‚È‚½‚Ì‘S‚Ä‚Ì¬Œ÷‚ğ‚¨‹F‚è‚µ‚Ä‚¨‚è‚Ü‚·B	Congratulations on your new job. I wish you every success.		
+GU041S011	1	41	6_If and wish Passive	V‚µ‚¢d–‚Å‚ÌK‰^‚ğB ‚ ‚È‚½‚Ì‚½‚ß‚É‚¤‚Ü‚­‚¢‚­‚±‚Æ‚ğŠè‚Á‚Ä‚¢‚Ü‚·B	Good luck in your new job. I hope it works out well for you.		
 GU041S012	1	41	6_If and wish Passive	‚»‚Ì–â‘è‚É‘Î‚µ‚Ä‰½‚ğ‚·‚×‚«‚©’m‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	I wish I knew what to do about the problem.		
-GU041S013	1	41	6_If and wish Passive	‚»‚ñ‚È‚É‘‚­s‚©‚È‚­‚Ä‚à‚æ‚©‚Á‚½‚Ì‚ÉB	I wish you didn't have to go so soon.		
+GU041S013	1	41	6_If and wish Passive	‚ ‚È‚½‚ª‚»‚ñ‚È‚É‚·‚®s‚­•K—v‚ª‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I wish you didn't have to go so soon.		
 GU041S014	1	41	6_If and wish Passive	ŠC‚Ì‹ß‚­‚ÉZ‚İ‚½‚¢‚Æv‚¢‚Ü‚·‚©?	Do you wish you lived near the sea?		
 GU041S015	1	41	6_If and wish Passive	ƒWƒƒƒbƒN‚Í‚à‚¤‚·‚®ƒƒLƒVƒR‚Ö—·s‚És‚­—\’è‚Å‚·B „‚às‚¯‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	Jack's going on a trip to Mexico soon. I wish I was going too.		
-GU041S016	1	41	6_If and wish Passive	ƒp[ƒeƒB[‚Ì‚±‚Æ‚ğ’m‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½B ’m‚Á‚Ä‚¢‚½‚çs‚Á‚½‚Ì‚ÉB	I wish I'd known about the party. I'd have gone if l'd known.		
+GU041S016	1	41	6_If and wish Passive	ƒp[ƒeƒB[‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½B ’m‚Á‚Ä‚¢‚½‚çs‚Á‚½‚Ì‚ÉB	I wish I'd known about the party. I'd have gone if l'd known.		
 GU041S017	1	41	6_If and wish Passive	‹ğ‚©‚È”­Œ¾‚Å‚µ‚½B Œ¾‚í‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	It was a stupid thing to say. I wish I hadn't said it.		
 GU041S018	1	41	6_If and wish Passive	‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB ‰½‚ğ‚·‚×‚«‚©’m‚Á‚Ä‚¢‚ê‚Î‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	I don't know what to do. I wish I knew what to do.		
-GU041S019	1	41	6_If and wish Passive	‚ ‚È‚½‚Í‚ ‚Ü‚è”E‘Ï‹­‚­‚ ‚è‚Ü‚¹‚ñB ‚¢‚Â‚à‰½‚©‚ğ‚·‚®‚É—~‚µ‚ª‚è‚Ü‚·B ‚à‚Á‚Æh•ø‹­‚­‚È‚ê‚Î‚¢‚¢‚Ì‚ÉB	You're not very patient. You always want things immediately. I wish you were more patient.		
+GU041S019	1	41	6_If and wish Passive	‚ ‚È‚½‚Í‚ ‚Ü‚è”E‘Ï‹­‚­‚ ‚è‚Ü‚¹‚ñB ‚ ‚È‚½‚Í‚¢‚Â‚à•¨‚ğ‚·‚®‚É—~‚µ‚ª‚è‚Ü‚·B ‚ ‚È‚½‚ª‚à‚Á‚Æh•ø‹­‚­‚È‚ê‚Î‚¢‚¢‚Ì‚ÉB	You're not very patient. You always want things immediately. I wish you were more patient.		
 GU041S020	1	41	6_If and wish Passive	‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚ÄA‚â‚é‚×‚«‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B ‚»‚ñ‚È‚É”æ‚ê‚Ä‚È‚©‚Á‚½‚ç‚æ‚©‚Á‚½‚Ì‚ÉB	I'm very tired and I have so much to do. I wish I weren't so tired.		
-GU041S021	1	41	6_If and wish Passive	‚ ‚È‚½‚Í„‚É•a‹C‚¾‚Æ‚ÍŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ‚È‚º‚¾‚ß‚Å‚·‚©H ‹³‚¦‚Ä‚­‚ê‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	You didn't tell me you were ill. Why not? I wish you had told me.		
-GU041S022	1	41	6_If and wish Passive	‰J‚ª~‚Á‚Ä‚¢‚éB P‚ğ‚Á‚Ä‚¢‚È‚¢‚Ì‚ÅA‚©‚È‚è”G‚ê‚Ä‚µ‚Ü‚¢‚Ü‚·B P‚ª‚ ‚ê‚Î‚¢‚¢‚Ì‚ÉB	It's raining. I don't have an umbrella and I'm getting very wet. I wish I had an umbrella.		
+GU041S021	1	41	6_If and wish Passive	‚ ‚È‚½‚Í„‚É‚ ‚È‚½‚ª•a‹C‚¾‚Æ‚ÍŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ‚È‚ºiŒ¾‚í‚È‚©‚Á‚½‚Ì‚Å‚·‚©jH „‚ÉŒ¾‚Á‚Ä‚­‚ê‚½‚ç‚æ‚©‚Á‚½‚Ì‚ÉB	You didn't tell me you were ill. Why not? I wish you had told me.		
+GU041S022	1	41	6_If and wish Passive	‰J‚ª~‚Á‚Ä‚¢‚éB „‚ÍP‚ğ‚Á‚Ä‚¨‚ç‚¸A‚©‚È‚è”G‚ê‚Ä‚¢‚«‚Ü‚·B P‚ª‚ ‚ê‚Î‚¢‚¢‚Ì‚ÉB	It's raining. I don't have an umbrella and I'm getting very wet. I wish I had an umbrella.		
 GU041S023	1	41	6_If and wish Passive	‚±‚ÌŒC‚ğ”ƒ‚Á‚½‚¯‚ÇA¡‚Í‹C‚É“ü‚ç‚È‚¢B ”ƒ‚í‚È‚¯‚ê‚Î‚æ‚©‚Á‚½‚Å‚·B	"I bought these shoes, but now I don't like them. I wish I hadn't bought them."		
 GU041S024	1	41	6_If and wish Passive	¡‚Ío‚©‚¯‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚ªAs‚«‚½‚­‚È‚¢‚Å‚·B ¡‚ÍŠOo‚µ‚È‚­‚Ä‚à‚æ‚©‚Á‚½‚Ì‚ÉB	We have to go out now and I don't want to go. I wish we didn't have to go out now.		
 GU041S025	1	41	6_If and wish Passive	„‚½‚¿‚Í‚Ğ‚Ç‚¢‹x“ú‚ğ‰ß‚²‚µ‚Ü‚µ‚½B „‚½‚¿‚Í‘S‚­Šy‚µ‚ß‚Ü‚¹‚ñ‚Å‚µ‚½B ‰Æ‚É‚¢‚ê‚Î‚æ‚©‚Á‚½B	We had a terrible holiday. We didn't enjoy it at all. I wish we'd stayed at home.		
-GU041S026	1	41	6_If and wish Passive	‚²‚ß‚ñ‚È‚³‚¢As‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‚à‚Á‚Æ’·‚­‘Øİ‚µ‚Ä‚¢‚½‚¾‚¯‚ê‚Î‚Æv‚¢‚Ü‚·B	I'm sorry you have to go. I wish you could stay longer.		
+GU041S026	1	41	6_If and wish Passive	‚ ‚È‚½‚ªs‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Ì‚Í‚¨‹C‚Ì“Å‚Å‚·B ‚ ‚È‚½‚ª‚à‚Á‚Æ’·‚­‘Øİ‚Å‚«‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I'm sorry you have to go. I wish you could stay longer.		
 GU041S027	1	41	6_If and wish Passive	„‚Í‘O‚É‚»‚Ì’j‚É‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·B ”Ş‚Ì–¼‘O‚ğŠo‚¦‚Ä‚¢‚ç‚ê‚½‚ç‚¢‚¢‚Ì‚ÉB	I've met that man before. I wish I could remember his name.		
 GU041S028	1	41	6_If and wish Passive	ƒp[ƒeƒB[‚Í‘f°‚ç‚µ‚©‚Á‚½‚Æ•·‚¢‚Ä‚¢‚Ü‚·B s‚¯‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I hear the party was great. I wish I could have gone.		
 GU041S029	1	41	6_If and wish Passive	ƒm[ƒg‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B Œ©‚Â‚¯‚ç‚ê‚½‚ç‚¢‚¢‚Ì‚Å‚·‚ªB	I've lost my notebook. I wish I could find it.		
 GU041S030	1	41	6_If and wish Passive	‰½‚ğ‚·‚ê‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB Œˆ‚ß‚ç‚ê‚½‚ç‚¢‚¢‚Ì‚ÉB	I'm not sure what I should do. I wish I could decide.		
 GU041S031	1	41	6_If and wish Passive	„‚½‚¿‚ÍƒpƒŠ‚Å–{“–‚É—Ç‚¢T––‚ğ‰ß‚²‚µ‚Ü‚µ‚½B ‚à‚Á‚Æ’·‚­‘Øİ‚Å‚«‚ê‚Î‚æ‚©‚Á‚½‚Æv‚¢‚Ü‚·B	We had a really good weekend in Paris. I wish we could have stayed longer.		
 GU041S032	1	41	6_If and wish Passive	„‚Í‚ ‚Ü‚è—Ç‚¢º‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB ‚à‚Á‚Æãè‚É‰Ì‚¦‚½‚ç‚¢‚¢‚Ì‚ÉB	I don't have a very good voice. I wish I could sing better.		
-GU041S033	1	41	6_If and wish Passive	Ô‚ª‚ ‚ê‚Î‚¢‚¢‚Å‚·‚ËB —]—T‚ª‚ ‚ê‚Î‚¢‚¢‚Ì‚Å‚·‚ªB	It would be nice to have a car. I wish we could afford it.		
-GU041S034	1	41	6_If and wish Passive	c”O‚È‚ª‚çŒ‹¥®‚É‚ÍŒ‡È‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B s‚¯‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I missed the wedding unfortunately. I wish I could have gone.		
+GU041S033	1	41	6_If and wish Passive	Ô‚ğ‚Â‚±‚Æ‚Í—Ç‚©‚Á‚½‚±‚Æ‚Å‚µ‚å‚¤B ‰äX‚É‚»‚Ì—]—T‚ª‚ ‚ê‚Î‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	It would be nice to have a car. I wish we could afford it.		
+GU041S034	1	41	6_If and wish Passive	c”O‚È‚ª‚çŒ‹¥®‚É‚Ís‚«‘¹‚È‚¢‚Ü‚µ‚½B s‚­‚±‚Æ‚ª‚Å‚«‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I missed the wedding unfortunately. I wish I could have gone.		
 GU041S035	1	41	6_If and wish Passive	‰J‚ª~‚ñ‚Å‚­‚ê‚é‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB	I wish it would stop raining.		
 GU041S036	1	41	6_If and wish Passive	“d˜b‚ª5•ªŠÔ–Â‚è‘±‚¯‚Ä‚¢‚Ü‚·B ’N‚©‚ª“š‚¦‚Ä‚­‚ê‚é‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB	The phone has been ringing for five minutes. I wish somebody would answer it.		
 GU041S037	1	41	6_If and wish Passive	‰½‚à‚¹‚¸‚ÉÀ‚Á‚Ä‚¢‚é‚¾‚¯‚Å‚È‚­A‰½‚©‚ğ‚µ‚Ä‚Ù‚µ‚¢‚Æv‚¢‚Ü‚·B	I wish you'd do something instead of just sitting and doing nothing.		
@@ -2361,38 +2361,38 @@ GU041S039	1	41	6_If and wish Passive	”Ş—‚ª‹}‚¢‚Å‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish she w
 GU041S040	1	41	6_If and wish Passive	’N‚©‚ª„‚Éd–‚ğ—^‚¦‚Ä‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish somebody would give me a job.		
 GU041S041	1	41	6_If and wish Passive	‚»‚ñ‚È‚É‘¬‚­‰^“]‚µ‚È‚¢‚Å‚Ù‚µ‚¢‚Å‚·B	I wish you wouldn't drive so fast.		
 GU041S042	1	41	6_If and wish Passive	‚ ‚ÌŒ¢‚ª–i‚¦‚é‚Ì‚ğ‚â‚ß‚Ä‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish that dog would stop barking.		
-GU041S043	1	41	6_If and wish Passive	V‚µ‚¢•‚ğ”ƒ‚Á‚Ä‚­‚ê‚é‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB	I wish you would buy some new clothes.		
+GU041S043	1	41	6_If and wish Passive	‚ ‚È‚½‚ª‚¢‚­‚Â‚©V‚µ‚¢•‚ğ”ƒ‚¤‚Æ‚æ‚¢‚Ì‚Å‚·‚ªB	I wish you would buy some new clothes.		
 GU041S044	1	41	6_If and wish Passive	‚¸‚Á‚ÆƒhƒA‚ğŠJ‚¯‚Á•ú‚µ‚É‚µ‚È‚¢‚Å‚Ù‚µ‚¢‚Å‚·B	I wish you wouldn't leave the door open all the time.		
-GU041S045	1	41	6_If and wish Passive	lX‚ª“¹‚ÉƒSƒ~‚ğÌ‚Ä‚È‚¢‚Å‚Ù‚µ‚¢‚Æv‚¢‚Ü‚·B	I wish people wouldn't drop litter in the street.		
+GU041S045	1	41	6_If and wish Passive	lX‚ª’Ê‚è‚ÉƒSƒ~‚ğÌ‚Ä‚È‚¯‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish people wouldn't drop litter in the street.		
 GU041S046	1	41	6_If and wish Passive	ƒTƒ‰‚ª—ˆ‚Ä‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish Sarah would come.		
 GU041S047	1	41	6_If and wish Passive	ƒTƒ‰‚ª¡‚±‚±‚É‚¢‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I wish Sarah was here now.	I wish Sarah were here now.	
 GU041S048	1	41	6_If and wish Passive	’N‚©‚ª„‚ÉÔ‚ğ”ƒ‚Á‚Ä‚­‚ê‚½‚ç‚¢‚¢‚Ì‚ÉB	I wish somebody would buy me a car.		
-GU041S049	1	41	6_If and wish Passive	Ô‚ª‚ ‚ê‚Î‚¢‚¢‚Ì‚ÉB	I wish I had a car.		
-GU041S050	1	41	6_If and wish Passive	“ï‚µ‚¢¿–â‚Å‚·‚ËB “š‚¦‚ª‚í‚©‚ê‚Î‚¢‚¢‚Ì‚Å‚·‚ªB	It's a difficult question. I wish I knew the answer.		
+GU041S049	1	41	6_If and wish Passive	Ô‚ª‚Á‚Ä‚¢‚½‚ç‚¢‚¢‚Ì‚ÉB	I wish I had a car.		
+GU041S050	1	41	6_If and wish Passive	“ï‚µ‚¢¿–â‚Å‚·‚ËB “š‚¦‚ğ’m‚Á‚Ä‚¢‚½‚ç‚¢‚¢‚Ì‚Å‚·‚ªB	It's a difficult question. I wish I knew the answer.		
 GU041S051	1	41	6_If and wish Passive	ƒoƒX‚ª—ˆ‚ê‚Î‚¢‚¢‚Ì‚ÉB 20•ª‚à‘Ò‚Á‚Ä‚¢‚Ü‚·B	I wish the bus would come. We've been waiting for 20 minutes.		
 GU041S052	1	41	6_If and wish Passive	„‚Í—Î‚ÌƒWƒƒƒPƒbƒg‚ğ’…‚½‚ ‚Ì’j‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”Ş‚ª‚¢‚È‚­‚È‚Á‚Ä‚­‚ê‚ê‚Î‚¢‚¢‚Ì‚ÉB	I don't like that man in the green jacket. I wish he'd go away.		
-GU041S053	1	41	6_If and wish Passive	¡“ú‚ÍŠ¦‚¢‚Å‚·B ‚»‚ñ‚È‚ÉŠ¦‚­‚È‚¢‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB	It's freezing today. I wish it wasn't so cold.		
+GU041S053	1	41	6_If and wish Passive	¡“ú‚Í“€‚¦‚é‚Ù‚Ç(Š¦‚¢)‚Å‚·B ‚»‚ñ‚È‚ÉŠ¦‚­‚È‚¢‚Æ‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	It's freezing today. I wish it wasn't so cold.		
 GU041S054	1	41	6_If and wish Passive	‚ ‚È‚½‚ªŒ¾‚Á‚½‚±‚Æ‚ğ‚·‚×‚«‚¾‚Á‚½B ‚ ‚È‚½‚ÌƒAƒhƒoƒCƒX‚ğ•·‚¢‚Ä‚¨‚¯‚Î‚æ‚©‚Á‚½‚Å‚·B	I should have done what you said. I wish I'd taken your advice.		
-GU041S055	1	41	6_If and wish Passive	‰“‚´‚©‚Á‚Ä‚¢‚­‚Ì‚ÍK‰^‚¾B ˆê‚É—ˆ‚ê‚½‚ç‚¢‚¢‚Ì‚ÉB	You're lucky to be going away. I wish I could come with you.		
-GU041S056	1	41	6_If and wish Passive	‚È‚º‚ ‚È‚½‚Í„‚Ì×–‚‚ğ‚µ‘±‚¯‚é‚Ì‚Å‚·‚©H •·‚¢‚Ä‚¢‚½‚¾‚¯‚ê‚ÎK‚¢‚Å‚·B	Why do you keep interrupting me? I wish you would listen.		
+GU041S055	1	41	6_If and wish Passive	‚ ‚È‚½‚Ío‚Ä‚¢‚­—\’è‚Æ‚Ì‚±‚Æ‚ÅK‰^‚Å‚·B „‚Í‚ ‚È‚½‚Æˆê‚É—ˆ‚ê‚½‚ç‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	You're lucky to be going away. I wish I could come with you.		
+GU041S056	1	41	6_If and wish Passive	‚È‚º‚ ‚È‚½‚Í„‚Ì×–‚‚ğ‚µ‘±‚¯‚é‚Ì‚Å‚·‚©H i„‚ÌŒ¾‚¤‚±‚Æ‚ğj’®‚¢‚Ä‚­‚ê‚½‚ç‚æ‚©‚Á‚½‚Ì‚Å‚·‚ªB	Why do you keep interrupting me? I wish you would listen.		
 GU041S057	1	41	6_If and wish Passive	¶Šˆ”ï‚Í‚Æ‚Ä‚à‚‚¢‚Å‚·B ‚·‚×‚Ä‚ª‚»‚ê‚Ù‚Ç‚‰¿‚Å‚È‚¯‚ê‚Î‚¢‚¢‚Ì‚É‚Æv‚¢‚Ü‚·B	The cost of living is very high. I wish everything wasn't so expensive.		
-GU041S058	1	41	6_If and wish Passive	ƒsƒAƒm‚ª‚ ‚ê‚Î‚¢‚¢‚Ì‚ÉB ‚º‚Ğ‚¨‚¿‚¢‚½‚¾‚«‚½‚¢‚Å‚·B	I wish I had a piano. I'd love to have one.		
+GU041S058	1	41	6_If and wish Passive	„‚ªƒsƒAƒm‚ğ‚Á‚Ä‚¢‚½‚ç—Ç‚©‚Á‚½‚Ì‚ÉB ‚º‚ĞƒsƒAƒm‚ğ‚¿‚½‚¢B	I wish I had a piano. I'd love to have one.		
 GU041S059	1	41	6_If and wish Passive	’N‚©„‚ÉƒsƒAƒm‚ğ‚­‚ê‚½‚ç‚¢‚¢‚Ì‚ÉB	I wish somebody would give me a piano.		
 GU041S060	1	41	6_If and wish Passive	‚ ‚È‚½‚Í•¶‹å‚ğŒ¾‚¤‚Ì‚ª‘åD‚«‚Å‚·I ‚¢‚Â‚à•¶‹å‚ğŒ¾‚í‚È‚¢‚Å‚Ù‚µ‚¢‚Å‚·B	You love complaining! I wish you wouldn't complain all the time.		
 GU042S001	1	42	6_If and wish Passive	1981”N‚É’N‚©‚ª‚±‚Ì‰Æ‚ğŒš‚Ä‚Ü‚µ‚½B	Somebody built this house in 1981.		
 GU042S002	1	42	6_If and wish Passive	‚±‚Ì‰Æ‚Í1981”N‚ÉŒš‚Ä‚ç‚ê‚Ü‚µ‚½B	This house was built in 1981.		
 GU042S003	1	42	6_If and wish Passive	„‚Ì‘c•ƒ‚ÍŒšİ‹ÆÒ‚Å‚µ‚½B ”Ş‚Í1981”N‚É‚±‚Ì‰Æ‚ğŒš‚Ä‚Ü‚µ‚½B	My grandfather was a builder. He built this house in 1981.		
-GU042S004	1	42	6_If and wish Passive	‘å‚«‚È‰ïĞ‚Å‚·‚æB ]‹Æˆõ‚Í 200 l‚Å‚·B	It's a big company. It employs two hundred people.		
+GU042S004	1	42	6_If and wish Passive	‚»‚ê‚Í‘å‚«‚È‰ïĞ‚Å‚·B ‚»‚ê‚Í200l‚ğŒÙ‚Á‚Ä‚¢‚éB	It's a big company. It employs two hundred people.		
 GU042S005	1	42	6_If and wish Passive	A: ‚±‚Ì‰Æ‚Í’z‰½”N‚Å‚·‚©? B: 1981 ”N‚ÉŒš‚Ä‚ç‚ê‚Ü‚µ‚½B	A: How old is this house? B: It was built in 1981.		
 GU042S006	1	42	6_If and wish Passive	‚»‚Ì‰ïĞ‚É‚Í200l‚ªŒÙ—p‚³‚ê‚Ä‚¢‚Ü‚·B	Two hundred people are employed by the company.		
 GU042S007	1	42	6_If and wish Passive	‹ó`‚Í–¶‚Ì‚½‚ß•Â½‚³‚ê‚Ü‚µ‚½B ”Ş‚ç‚Í‚·‚×‚Ä‚Ìƒtƒ‰ƒCƒg‚ğƒLƒƒƒ“ƒZƒ‹‚µ‚Ü‚µ‚½B	The airport was closed because of fog.  They cancelled all flights.		
 GU042S008	1	42	6_If and wish Passive	‹ó`‚Í–¶‚Ì‚½‚ß•Â½‚³‚ê‚Ü‚µ‚½B ‚·‚×‚Ä‚Ìƒtƒ‰ƒCƒg‚ªƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B	The airport was closed because of fog. All flights were cancelled.		
-GU042S009	1	42	6_If and wish Passive	‰¿Ši‚É‚ÍÅ‹à‚ÆƒT[ƒrƒX‚ªŠÜ‚Ü‚ê‚Ä‚¢‚Ü‚·B ‰¿Ši‚Í‚Ü‚³‚Éx•¥‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚à‚Ì‚Å‚·B	The price includes taxes and service. The price is exactly what you have to pay.		
-GU042S010	1	42	6_If and wish Passive	Å‹à‚ÆƒT[ƒrƒX—¿‚Í—¿‹à‚ÉŠÜ‚Ü‚ê‚Ä‚¨‚è‚Ü‚·B ‰¿Ši‚Í‚Ü‚³‚Éx•¥‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚à‚Ì‚Å‚·B	Taxes and service are included in the price. The price is exactly what you have to pay.		
+GU042S009	1	42	6_If and wish Passive	‰¿Ši‚ÍÅ‹à‚ÆƒT[ƒrƒX‚ğŠÜ‚ñ‚Å‚¢‚Ü‚·B ‰¿Ši‚Í‚Ü‚³‚É‚ ‚È‚½‚ªx•¥‚í‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢‚à‚Ì‚Å‚·B	The price includes taxes and service. The price is exactly what you have to pay.		
+GU042S010	1	42	6_If and wish Passive	Å‹à‚ÆƒT[ƒrƒX—¿‚Í—¿‹à‚ÉŠÜ‚Ü‚ê‚Ä‚¨‚è‚Ü‚·B ‰¿Ši‚Í‚Ü‚³‚É‚ ‚È‚½‚ªx•¥‚í‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢‚à‚Ì‚Å‚·B	Taxes and service are included in the price. The price is exactly what you have to pay.		
 GU042S011	1	42	6_If and wish Passive	„‚½‚¿‚ÍP‚ğ‚Á‚Äs‚«‚Ü‚µ‚½‚ªA‰J‚Í~‚è‚Ü‚¹‚ñ‚Å‚µ‚½B P‚Í•K—v‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"We took an umbrella with us, but it didn't rain. We didn't need the umbrella."		
 GU042S012	1	42	6_If and wish Passive	„‚½‚¿‚ÍP‚ğ‚Á‚Äs‚«‚Ü‚µ‚½‚ªA‰J‚Í~‚è‚Ü‚¹‚ñ‚Å‚µ‚½B P‚Í•K—v‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"We took an umbrella with us, but it didn't rain. The umbrella wasn't needed."		
-GU042S013	1	42	6_If and wish Passive	·‘å‚ÈŒ‹¥®‚Å‚µ‚½B ‚½‚­‚³‚ñ‚Ìl‚ª‚¢‚Ü‚µ‚½B ”Ş‚ç‚ÍŒ‹¥®‚É500l‚ğµ‘Ò‚µ‚½B	It was a big wedding. There were lots of people. They invited five hundred people to the wedding.		
-GU042S014	1	42	6_If and wish Passive	·‘å‚ÈŒ‹¥®‚Å‚µ‚½B ‚½‚­‚³‚ñ‚Ìl‚ª‚¢‚Ü‚µ‚½B Œ‹¥®‚É‚Í500l‚ªµ‘Ò‚³‚ê‚½B	It was a big wedding. There were lots of people. Five hundred people were invited to the wedding.		
+GU042S013	1	42	6_If and wish Passive	‘å‹K–Í‚ÈŒ‹¥®‚Å‚µ‚½B ‚½‚­‚³‚ñ‚Ìl‚ª‚¢‚Ü‚µ‚½B ”Ş‚ç‚ÍŒ‹¥®‚É500l‚ğµ‘Ò‚µ‚½B	It was a big wedding. There were lots of people. They invited five hundred people to the wedding.		
+GU042S014	1	42	6_If and wish Passive	‘å‹K–Í‚ÈŒ‹¥®‚Å‚µ‚½B ‚½‚­‚³‚ñ‚Ìl‚ª‚¢‚Ü‚µ‚½B 500l‚ªŒ‹¥®‚Éµ‘Ò‚³‚ê‚½B	It was a big wedding. There were lots of people. Five hundred people were invited to the wedding.		
 GU042S015	1	42	6_If and wish Passive	‚±‚Ì“¹‚ÍŒğ’Ê—Ê‚ª‚ ‚Ü‚è‘½‚­‚ ‚è‚Ü‚¹‚ñB ‚±‚Ì“¹‚ğg‚¤l‚Í‚ ‚Ü‚è‘½‚­‚ ‚è‚Ü‚¹‚ñB	There isn't much traffic on this road. Not many people use this road.		
 GU042S016	1	42	6_If and wish Passive	‚±‚Ì“¹‚ÍŒğ’Ê—Ê‚ª‚ ‚Ü‚è‘½‚­‚ ‚è‚Ü‚¹‚ñB ‚±‚Ì“¹‚Í‚ ‚Ü‚èg‚í‚ê‚Ä‚¢‚È‚¢B	There isn't much traffic on this road. This road isn't used a lot.		
 GU042S017	1	42	6_If and wish Passive	‚±‚ÌŒ¾—t‚Í¡‚Ü‚ÅŒ©‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB ‚±‚ÌŒ¾—t‚Í‚Ç‚¤‚â‚Á‚Ä”­‰¹‚µ‚Ü‚·‚©H	I've never seen this word before. How do you pronounce this word?		
@@ -2407,46 +2407,46 @@ GU042S025	1	42	6_If and wish Passive	‹­“–Œ‚Ì’¼ŒãA’j‚ª‘ß•ß‚³‚ê‚½B	"Shortly a
 GU042S026	1	42	6_If and wish Passive	„‚Í‘¬‚­‘–‚Á‚Ä‚¢‚Ü‚µ‚½‚ªA‘¼‚Ì‘½‚­‚ÌÔ‚É’Ç‚¢”²‚©‚ê‚Ü‚µ‚½B	"I was driving fast, but we were overtaken by a lot of other cars."		
 GU042S027	1	42	6_If and wish Passive	”“ú‘OA—’‚ÅŒš•¨‚Ì‰®ª‚ª”j‘¹‚µ‚Ü‚µ‚½B	A few days ago the roof of the building was damaged in a storm.		
 GU042S028	1	42	6_If and wish Passive	ƒAƒƒŠƒJ‚Å‚Í‘å“—Ì‘I‹“‚ª4”N‚²‚Æ‚És‚í‚ê‚Ü‚·B	"In the USA, elections for president are held every four years."		
-GU042S029	1	42	6_If and wish Passive	“¹˜H‚©‚ç‚Í‰Æ‚ÍŒ©‚¦‚Ü‚¹‚ñB –ØX‚ÉˆÍ‚Ü‚ê‚Ä‚¢‚Ü‚·B	You can't see the house from the road. It is surrounded by trees.		
+GU042S029	1	42	6_If and wish Passive	‚ ‚È‚½‚Í“¹˜H‚©‚ç‚Í‰Æ‚ğŒ©‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB i‰Æ‚Íj–ØX‚ÉˆÍ‚Ü‚ê‚Ä‚¢‚Ü‚·B	You can't see the house from the road. It is surrounded by trees.		
 GU042S030	1	42	6_If and wish Passive	’N‚©‚ª–ˆ“ú‚±‚Ì•”‰®‚ğ‘|œ‚µ‚Ü‚·B	Somebody cleans this room every day.		
 GU042S031	1	42	6_If and wish Passive	‚±‚Ì•”‰®‚Í–ˆ“ú‘|œ‚³‚ê‚Ü‚·B	This room is cleaned every day.		
 GU042S032	1	42	6_If and wish Passive	“V‹C‚Ì•Ï‰»‚É‚æ‚Á‚Ä“ª’É‚ª‹N‚±‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·B	Sometimes headaches are caused by changes in the weather.		
-GU042S033	1	42	6_If and wish Passive	ƒp[ƒeƒB[‚É‚Í‚ ‚Ü‚è—U‚í‚ê‚È‚¢‚ñ‚Å‚·B	I'm not invited to parties very often.		
+GU042S033	1	42	6_If and wish Passive	„‚Íƒp[ƒeƒB[‚É‚Í‚ ‚Ü‚è•p”É‚É—U‚í‚ê‚È‚¢‚ñ‚Å‚·B	I'm not invited to parties very often.		
 GU042S034	1	42	6_If and wish Passive	‚±‚ÌŒš•¨‚Í‰½‚ÆŒÄ‚Î‚ê‚Ü‚·‚©? –¼‘O‚Í‚ ‚è‚Ü‚·‚©H	What is this building called? Does it have a name?		
-GU042S035	1	42	6_If and wish Passive	‰f‰æŠÙ‚Æ‚Í‰f‰æ‚ğã‰f‚·‚éêŠ‚Å‚·B	A cinema is a place where films are shown.		
-GU042S036	1	42	6_If and wish Passive	‚±‚ÌA•¨‚Í‚Æ‚Ä‚à’¿‚µ‚¢‚Å‚·B ‚²‚­ŒÀ‚ç‚ê‚½êŠ‚Å”­Œ©‚³‚ê‚Ä‚¢‚Ü‚·B	This plant is very rare. It is found in very few places.		
+GU042S035	1	42	6_If and wish Passive	‰f‰æŠÙ‚Í‰f‰æ‚ªã‰f‚³‚ê‚éêŠ‚Å‚·B	A cinema is a place where films are shown.		
+GU042S036	1	42	6_If and wish Passive	‚±‚ÌA•¨‚Í‚Æ‚Ä‚à’¿‚µ‚¢‚Å‚·B ‚»‚ê‚Í‚Æ‚Ä‚à”­‚È‚¢êŠ‚Å”­Œ©‚³‚ê‚Ü‚·B	This plant is very rare. It is found in very few places.		
 GU042S037	1	42	6_If and wish Passive	‹â‚Í‰½‚Ég‚í‚ê‚é‚Ì‚Å‚·‚©H	What is silver used for?		
 GU042S038	1	42	6_If and wish Passive	‚±‚ê‚ç‚Ì‚¨‚à‚¿‚á‚Í‚·‚×‚Ä–Ø‚Å‚Å‚«‚Ä‚¢‚Ü‚·B	All these toys are made of wood.		
 GU042S039	1	42	6_If and wish Passive	„‚Í‚±‚ê‚ç‚Ì‰Ô‚ğ¡‚Ü‚ÅŒ©‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB ”Ş‚ç‚Í‰½‚ÆŒÄ‚Î‚ê‚Ä‚¢‚éH	I haven't seen these flowers before. What are they called?		
 GU042S040	1	42	6_If and wish Passive	‚±‚ÌƒIƒtƒBƒX‚ÍŒ»İ‹ó‚É‚È‚Á‚Ä‚¢‚Ü‚·B ‚à‚¤g‚í‚ê‚Ä‚¢‚Ü‚¹‚ñB	This office is now empty. It is not used any more.		
 GU042S041	1	42	6_If and wish Passive	’Ê‚è‚Ì’[‚É‚ ‚é 3 Œ¬‚Ì‰Æ‚Í“¯‚¶l‚ªŠ—L‚µ‚Ä‚¢‚Ü‚·B	The three houses at the end of the street are owned by the same person.		
-GU042S042	1	42	6_If and wish Passive	‰ï‹c‚Ì‚½‚ß‚É‚»‚±‚É‚¢‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í•K—v‚Æ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	I don't have to stay for the meeting. I'm not needed.		
+GU042S042	1	42	6_If and wish Passive	„‚Í‰ï‹c‚Ì‚½‚ß‚É‚»‚±‚É‚¢‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í•K—v‚Æ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	I don't have to stay for the meeting. I'm not needed.		
 GU042S043	1	42	6_If and wish Passive	ğ“ú’N‚©‚ª‚±‚Ì•”‰®‚ğ‘|œ‚µ‚Ü‚µ‚½B	Somebody cleaned this room yesterday.		
 GU042S044	1	42	6_If and wish Passive	‚±‚Ì•”‰®‚Íğ“ú‘|œ‚³‚ê‚Ü‚µ‚½B	This room was cleaned yesterday.		
 GU042S045	1	42	6_If and wish Passive	„‚½‚¿‚Í–é’†‚É‘å‚«‚È‘›‰¹‚Å–Ú‚ªŠo‚ß‚Ü‚µ‚½B	We were woken up by a loud noise during the night.		
 GU042S046	1	42	6_If and wish Passive	‹­“‚Å“‚Ü‚ê‚½‚¨‹à‚Í‚¢‚­‚ç‚Å‚·‚©?	How much money was stolen in the robbery?		
 GU042S047	1	42	6_If and wish Passive	A: ƒp[ƒeƒB[‚És‚«‚Ü‚µ‚½‚©? B: ‚¢‚¢‚¦Aµ‘Ò‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	"A: Did you go to the party? B: No, I wasn't invited."		
-GU042S048	1	42	6_If and wish Passive	“V‹C‚ªˆ«‚©‚Á‚½‚Ì‚ÅA„‚½‚¿‚Ì—·s‚ÍƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B	Our trip was cancelled because the weather was so bad.		
+GU042S048	1	42	6_If and wish Passive	“V‹C‚ª”ñí‚Éˆ«‚©‚Á‚½‚Ì‚ÅA„‚½‚¿‚Ì—·s‚ÍƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B	Our trip was cancelled because the weather was so bad.		
 GU042S049	1	42	6_If and wish Passive	„‚½‚¿‚Íƒp[ƒeƒB[‚És‚«‚Ü‚¹‚ñ‚Å‚µ‚½B „‚½‚¿‚Íµ‘Ò‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	We didn't go to the party. We weren't invited.		
 GU042S050	1	42	6_If and wish Passive	„‚Í‚»‚Ìè†‚ğó‚¯æ‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB ŠÔˆá‚Á‚½ZŠ‚É‘—‚ç‚ê‚Ä‚«‚Ü‚µ‚½B	I never received the letter. It was sent to the wrong address.		
-GU042S051	1	42	6_If and wish Passive	ğ–é–ŒÌ‚ª‚ ‚è‚Ü‚µ‚½‚ªAK‚¢‚È‚±‚Æ‚É‰ö‰ä‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was an accident last night, but fortunately nobody was injured."		
-GU042S052	1	42	6_If and wish Passive	R¶•¨¿‚ğ‚Ç‚ê‚­‚ç‚¢‘O‚©‚ç•—p‚µ‚Ä‚¢‚Ü‚·‚©? ‰‚ß‚Äg—p‚³‚ê‚½‚Ì‚Í‚¢‚Â‚Å‚·‚©?	How long have we had antibiotics? When were they first used?		
+GU042S051	1	42	6_If and wish Passive	ğ–é–ŒÌ‚ª‚ ‚è‚Ü‚µ‚½‚ªAK‚¢‚È‚±‚Æ‚É’N‚à‰ö‰ä‚ğ‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was an accident last night, but fortunately nobody was injured."		
+GU042S052	1	42	6_If and wish Passive	‚Ç‚ê‚­‚ç‚¢’·‚­‰äX‚ÍR¶•¨¿‚ğ•—p‚µ‚Ä‚«‚Ü‚µ‚½‚©? ‚¢‚Â‚»‚ê‚ç‚ª‰‚ß‚Äg‚í‚ê‚Ü‚µ‚½‚©?	How long have we had antibiotics? When were they first used?		
 GU042S053	1	42	6_If and wish Passive	‘åŠw‚É‰•å‚µ‚Ü‚µ‚½‚ªAc”O‚È‚ª‚çó‚¯“ü‚ê‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I applied for a place at university, but unfortunately I wasn't accepted."		
 GU042S054	1	42	6_If and wish Passive	„‚ª“­‚¢‚Ä‚¢‚é‰ïĞ‚ÍA‚Í‚é‚©‚É‘å‚«‚È‰ïĞ‚ªŠ—L‚µ‚Ä‚¢‚Ü‚·B	The company I work for is owned by a much larger company.		
 GU042S055	1	42	6_If and wish Passive	ƒeƒŒƒr‚Í‚Ç‚ê‚­‚ç‚¢‘O‚©‚ç‘¶İ‚µ‚Ä‚¢‚Ü‚µ‚½‚©H ‚¢‚Â”­–¾‚³‚ê‚Ü‚µ‚½‚©?	How long has television existed? When was it invented?		
 GU042S056	1	42	6_If and wish Passive	ƒ{[ƒg‚ÍŠâ‚ÉÕ“Ë‚µA‚·‚®‚É’¾–v‚µ‚½B K‚¢‚È‚±‚Æ‚É‘Sˆõ‚ª‹~o‚³‚ê‚Ü‚µ‚½B	The boat hit a rock and sank quickly. Fortunately everybody was rescued.		
-GU042S057	1	42	6_If and wish Passive	ƒƒo[ƒg‚Ì—¼e‚Í”Ş‚ª—c‚¢ ‚É–S‚­‚È‚è‚Ü‚µ‚½B ”Ş‚Æ”Ş‚Ì–…‚Í‘c•ƒ•ê‚Éˆç‚Ä‚ç‚ê‚Ü‚µ‚½B	Robert's parents died when he was very young. He and his sister were brought up by their grandparents.		
-GU042S058	1	42	6_If and wish Passive	‹x‰É’†‚Éƒzƒeƒ‹‚Ì•”‰®‚©‚çƒJƒƒ‰‚ª“‚Ü‚ê‚Ü‚µ‚½B „‚ª‹x‰É’†‚Éƒzƒeƒ‹‚Ì•”‰®‚©‚çƒJƒƒ‰‚ªÁ‚¦‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"While I was on holiday, my camera was stolen from my hotel room. While I was on holiday, my camera disappeared from my hotel room."		
+GU042S057	1	42	6_If and wish Passive	ƒƒo[ƒg‚Ì—¼e‚Í”Ş‚ª‚Æ‚Ä‚à—c‚¢ ‚É–S‚­‚È‚è‚Ü‚µ‚½B ”Ş‚Æ”Ş‚Ì–…‚Í”Ş‚ç‚Ì‘c•ƒ•ê‚Éˆç‚Ä‚ç‚ê‚Ü‚µ‚½B	Robert's parents died when he was very young. He and his sister were brought up by their grandparents.		
+GU042S058	1	42	6_If and wish Passive	„‚ª‹x‰É’†‚ÉAƒzƒeƒ‹‚Ì•”‰®‚©‚ç„‚ÌƒJƒƒ‰‚ª“‚Ü‚ê‚Ü‚µ‚½B „‚ª‹x‰É’†‚ÉAƒzƒeƒ‹‚Ì•”‰®‚©‚ç„‚ÌƒJƒƒ‰‚ªÁ‚¦‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"While I was on holiday, my camera was stolen from my hotel room. While I was on holiday, my camera disappeared from my hotel room."		
 GU042S059	1	42	6_If and wish Passive	ƒX[‚Í‚È‚ºd–‚ğ«‚ß‚½‚Ì‚Å‚·‚©? ”Ş—‚Í‚à‚¤Šy‚µ‚ß‚È‚©‚Á‚½‚Ì‚Å‚µ‚å‚¤‚©H ‚È‚ºƒrƒ‹‚Íd–‚ğ‰ğŒÙ‚³‚ê‚½‚Ì‚Å‚·‚©? ”Ş‚Í‰½‚©ˆ«‚¢‚±‚Æ‚ğ‚µ‚Ü‚µ‚½‚©H	Why did Sue resign from her job? Didn't she enjoy it any more? Why was Bill fired from his job? Did he do something wrong?		
-GU042S060	1	42	6_If and wish Passive	‘f“G‚ÈÊ^‚Å‚·‚ËB ”Ş‚ç‚Í‚Ç‚±‚É˜A‚ê‚Äs‚©‚ê‚½‚Ì‚Å‚µ‚å‚¤‚©H ƒƒ“ƒhƒ“‚ÅH ‚±‚ê‚ç‚ÌÊ^‚ğB‚Á‚½‚Ì‚Í’N‚Å‚·‚©? ‚ ‚È‚½‚ª˜A‚ê‚Äs‚Á‚½‚Ì‚Å‚·‚©A‚»‚ê‚Æ‚à‘¼‚Ì’N‚©‚ª˜A‚ê‚Äs‚Á‚½‚Ì‚Å‚·‚©H	"These are nice pictures. Where were they taken? In London? Who took these pictures? Did you take them, or somebody else?"		
+GU042S060	1	42	6_If and wish Passive	‚±‚ê‚ç‚Í‘f“G‚ÈÊ^‚Å‚·‚ËB‚»‚ê‚ç‚Í‚Ç‚±‚ÅB‚ç‚ê‚Ü‚µ‚½‚©H ƒƒ“ƒhƒ“‚ÅH ‚±‚ê‚ç‚ÌÊ^‚ğB‚Á‚½‚Ì‚Í’N‚Å‚·‚©? ‚ ‚È‚½‚ª‚»‚ê‚ç‚ğB‚Á‚½‚Ì‚Å‚·‚©A‚»‚ê‚Æ‚à‘¼‚Ì’N‚©H	"These are nice pictures. Where were they taken? In London? Who took these pictures? Did you take them, or somebody else?"		
 GU042S061	1	42	6_If and wish Passive	…‚Í’n‹…‚Ì•\–Ê‚Ì‘å•”•ª‚ğ•¢‚Á‚Ä‚¢‚Ü‚·B	Water covers most of the earth's surface.		
 GU042S062	1	42	6_If and wish Passive	’n‹…‚Ì•\–Ê‚Ì‚Ç‚ê‚­‚ç‚¢‚ª…‚Å•¢‚í‚ê‚Ä‚¢‚Ü‚·‚©?	How much of the earth's surface is covered by water?		
 GU042S063	1	42	6_If and wish Passive	„‚Íƒƒ“ƒhƒ“‚Å¶‚Ü‚ê‚Ü‚µ‚½‚ªAƒJƒiƒ_‚Åˆç‚¿‚Ü‚µ‚½B	"I was born in London, but I grew up in Canada."		
 GU042S064	1	42	6_If and wish Passive	„‚Íƒƒ“ƒhƒ“‚Å¶‚Ü‚ê‚Ü‚µ‚½‚ªAƒJƒiƒ_‚Åˆç‚¿‚Ü‚µ‚½B	"I was born in London, but I was brought up in Canada."		
 GU042S065	1	42	6_If and wish Passive	‚Ç‚Ì‚æ‚¤‚É©•ª‚ğ‚Â‚¯‚Ü‚µ‚½‚©H ©“]Ô‚©‚ç—‚¿‚Ü‚µ‚½‚©H	How did you hurt yourself? Did you fall off your bike?		
 GU042S066	1	42	6_If and wish Passive	‚Ç‚Ì‚æ‚¤‚É©•ª‚ğ‚Â‚¯‚Ü‚µ‚½‚©H ©“]Ô‚©‚ç—‚Æ‚³‚ê‚Ü‚µ‚½‚©H	How did you hurt yourself? Were you knocked off your bike?		
-GU042S067	1	42	6_If and wish Passive	X‘›‚ª‚µ‚¢‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA–â‘è‚ ‚è‚Ü‚¹‚ñB ‹C‚É‚µ‚Ä‚¢‚Ü‚¹‚ñB	"Sometimes it's noisy here, but it's not a problem. I'm not bothered by it."		
-GU042S068	1	42	6_If and wish Passive	X‘›‚ª‚µ‚¢‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA–â‘è‚ ‚è‚Ü‚¹‚ñB ‹C‚É‚µ‚Ü‚¹‚ñB	"Sometimes it's noisy here, but it's not a problem. It doesn't bother me."		
+GU042S067	1	42	6_If and wish Passive	X‘›‚ª‚µ‚¢‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA–â‘è‚ ‚è‚Ü‚¹‚ñB „‚Í‚»‚ê‚É”Y‚Ü‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	"Sometimes it's noisy here, but it's not a problem. I'm not bothered by it."		
+GU042S068	1	42	6_If and wish Passive	X‘›‚ª‚µ‚¢‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA–â‘è‚ ‚è‚Ü‚¹‚ñB ‚»‚ê‚Í„‚ğ”Y‚Ü‚¹‚Ä‚¢‚Ü‚¹‚ñB	"Sometimes it's noisy here, but it's not a problem. It doesn't bother me."		
 GU042S069	1	42	6_If and wish Passive	‹ó`‚ÅƒXƒgƒ‰ƒCƒL‚ª‚ ‚è‚Ü‚µ‚½‚ªA„‚½‚¿‚É‚Í‰e‹¿‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was a strike at the airport, but it didn't affect us."		
 GU042S070	1	42	6_If and wish Passive	‹ó`‚ÅƒXƒgƒ‰ƒCƒL‚ª‚ ‚è‚Ü‚µ‚½‚ªA„‚½‚¿‚Í‰e‹¿‚ğó‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was a strike at the airport, but we weren't affected."		
 GU043S001	1	43	6_If and wish Passive	Œã‚Å’N‚©‚ª•”‰®‚ğ‘|œ‚µ‚Ü‚·B	Somebody will clean the room later.		
@@ -2460,12 +2460,12 @@ GU043S008	1	43	6_If and wish Passive	–¾“ú‚Í‰½‚É’…‚­‚©•ª‚©‚è‚Ü‚¹‚ñB ’x‚ê‚é‚©‚à
 GU043S009	1	43	6_If and wish Passive	”Ş‚ç‚ÍV‚µ‚¢ŠwZ‚ğŒšİ’†‚Å‚·B ŒÃ‚¢‚à‚Ì‚Íæ‚è‰ó‚³‚ê‚é—\’è‚Å‚·B	They're building a new school. The old one is going to be knocked down.		
 GU043S010	1	43	6_If and wish Passive	–â‘è‚Íƒ[ƒ‰‚Ì‚¹‚¢‚Å‚Í‚È‚¢B ”Ş—‚ÍÓ‚ß‚ç‚ê‚é‚×‚«‚Å‚Í‚È‚¢B	The problem isn't Laura's fault. She shouldn't be blamed.		
 GU043S011	1	43	6_If and wish Passive	”Ş—‚Í‚ ‚Ü‚è”E‘Ï‹­‚­‚ ‚è‚Ü‚¹‚ñB ”Ş—‚Í‘Ò‚½‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	She's not very patient. She doesn't like to be kept waiting.		
-GU043S012	1	43	6_If and wish Passive	‚±‚ê‚ç‚Ì‘—Ş‚Íd—v‚Å‚·B ‚»‚ê‚ç‚ÍˆÀ‘S‚ÈêŠ‚É•ÛŠÇ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	These documents are important. They should be kept in a safe place.		
+GU043S012	1	43	6_If and wish Passive	‚±‚ê‚ç‚Ì‘—Ş‚Íd—v‚Å‚·B ‚»‚ê‚ç‚ÍˆÀ‘S‚ÈêŠ‚É•ÛŠÇ‚³‚ê‚é‚Ì‚ª‚æ‚¢B	These documents are important. They should be kept in a safe place.		
 GU043S013	1	43	6_If and wish Passive	”Ş‚Í‚Â‚¯‚Ğ‚°‚ğ¶‚â‚µAŠá‹¾‚ğ‚©‚¯‚Ä‚¢‚½B ”Ş‚Í”F‚ß‚ç‚ê‚½‚­‚È‚©‚Á‚½B	He was wearing a false beard and glasses. He didn't want to be recognised.		
 GU043S014	1	43	6_If and wish Passive	‘I‹“‚Í“ú—j“ú‚És‚í‚ê‚Ü‚·B Š®‘S‚ÈŒ‹‰Ê‚Í‰Î—j“ú‚É”»–¾‚·‚é—\’è‚¾B	The election takes place on Sunday. The full results will be known on Tuesday.		
-GU043S015	1	43	6_If and wish Passive	Œ©‚¦‚é‚à‚Ì‚È‚çŒ©‚¦‚éB	If something is visible it can be seen.		
-GU043S016	1	43	6_If and wish Passive	‰½‚©‚ªM‚¶‚ç‚ê‚È‚¢‚Ù‚Ç‚Ì‚à‚Ì‚Å‚ ‚ê‚ÎA‚»‚ê‚ÍM‚¶‚ç‚ê‚Ü‚¹‚ñB	If something is incredible it can't be believed.		
-GU043S017	1	43	6_If and wish Passive	H‚×‚ç‚ê‚é‚à‚Ì‚Å‚ ‚ê‚ÎH‚×‚ç‚ê‚Ü‚·B	If something is edible it can be eaten.		
+GU043S015	1	43	6_If and wish Passive	‰½‚©‚ª–Ú‚ÉŒ©‚¦‚é‚È‚çA‚»‚ê‚ÍŒ©‚¦‚éB	If something is visible it can be seen.		
+GU043S016	1	43	6_If and wish Passive	‰½‚©‚ªM‚¶‚ç‚ê‚È‚¢‚È‚çA‚»‚ê‚ÍM‚¶‚ç‚ê‚Ü‚¹‚ñB	If something is incredible it can't be believed.		
+GU043S017	1	43	6_If and wish Passive	‰½‚©‚ªH‚×‚ç‚ê‚é‚à‚Ì‚Å‚ ‚ê‚ÎA‚»‚ê‚ÍH‚×‚ç‚ê‚Ü‚·B	If something is edible it can be eaten.		
 GU043S018	1	43	6_If and wish Passive	H‚×‚ç‚ê‚È‚¢‚à‚Ì‚ÍH‚×‚ç‚ê‚Ü‚¹‚ñB	If something is inedible it can't be eaten.		
 GU043S019	1	43	6_If and wish Passive	”»“Ç‚Å‚«‚È‚¢‚à‚Ì‚ª‚ ‚éê‡‚ÍA“Ç‚İæ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB	If something is illegible it can't be read.		
 GU043S020	1	43	6_If and wish Passive	‰½‚©‚ª•·‚±‚¦‚éê‡A‚»‚ê‚Í•·‚±‚¦‚Ü‚·B	If something is audible it can be heard.		
@@ -2483,7 +2483,7 @@ GU043S031	1	43	6_If and wish Passive	•‰‚µ‚½’j«‚Í•à‚­‚±‚Æ‚ª‚Å‚«‚¸A‰^‚Î‚ê‚È‚¯‚
 GU043S032	1	43	6_If and wish Passive	‚È‚ºŒx@Š¯‚É“{–Â‚Á‚½‚Ì‚Å‚·‚©H ‚»‚¤‚µ‚È‚¯‚ê‚Î‘ß•ß‚³‚ê‚È‚©‚Á‚½‚Å‚µ‚å‚¤B	"Why did you shout at the police officer? If you hadn't done that, you wouldn't have been arrested."		
 GU043S033	1	43	6_If and wish Passive	‰ÎĞ‚ª‚Ç‚Ì‚æ‚¤‚É”­¶‚µ‚½‚Ì‚©‚Í’è‚©‚Å‚Í‚È‚¢B “d‹C“I‚ÈŒÌá‚ªŒ´ˆö‚Å‚ ‚é‰Â”\«‚ª‚ ‚è‚Ü‚·B	It's not certain how the fire started. It might have been caused by an electrical fault.		
 GU043S034	1	43	6_If and wish Passive	ƒzƒeƒ‹‚Ìó•tŒW‚É6”¼‚É‹N‚±‚µ‚Ä—~‚µ‚¢‚Æ“`‚¦‚Ü‚µ‚½B	I told the hotel receptionist that I wanted to be woken up at 6.30.		
-GU043S035	1	43	6_If and wish Passive	æTA”Ş‚ç‚Í‚¨Œİ‚¢‚É˜b‚ğ‚µ‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ¡A”Ş‚ç‚ÍÄ‚ÑK‚¹‚Å‚·B –â‘è‚Í–Y‚ê‹‚ç‚ê‚Ä‚µ‚Ü‚Á‚½‚æ‚¤‚¾B	Last week they weren't speaking to one another. Now they're happy again. The problem seems to have been forgotten.		
+GU043S035	1	43	6_If and wish Passive	æT”Ş‚ç‚ÍŒİ‚¢‚Æ˜b‚ğ‚µ‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ¡A”Ş‚ç‚ÍÄ‚ÑK‚¹‚Å‚·B –â‘è‚Í–Y‚ê‚ç‚ê‚Ä‚¢‚é‚æ‚¤‚ÉŒ©‚¦‚Ü‚·B	Last week they weren't speaking to one another. Now they're happy again. The problem seems to have been forgotten.		
 GU043S036	1	43	6_If and wish Passive	•”‰®‚Í‚¢‚¢Š´‚¶‚Å‚·B ’N‚©‚ª‘|œ‚µ‚Ä‚­‚ê‚Ü‚µ‚½B	The room looks nice. Somebody has cleaned it.		
 GU043S037	1	43	6_If and wish Passive	•”‰®‚Í‚¢‚¢Š´‚¶‚Å‚·B ‘|œÏ‚İ‚Å‚·B	The room looks nice. It has been cleaned.		
 GU043S038	1	43	6_If and wish Passive	‚»‚Ì—·s‚É‚Â‚¢‚Ä•·‚¢‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚©H ƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B	Have you heard about the trip? It's been cancelled.		
@@ -2492,19 +2492,19 @@ GU043S040	1	43	6_If and wish Passive	A: ƒp[ƒeƒB[‚És‚«‚Ü‚·‚©? B: ‚¢‚¢‚¦Aµ‘Ò‚
 GU043S041	1	43	6_If and wish Passive	•”‰®‚Í‘f“G‚ÉŒ©‚¦‚Ü‚µ‚½B ’N‚©‚ª‘|œ‚µ‚Ä‚¢‚½‚Ì‚¾B	The room looked nice. Somebody had cleaned it.		
 GU043S042	1	43	6_If and wish Passive	•”‰®‚Í‘f“G‚ÉŒ©‚¦‚Ü‚µ‚½B ‘|œ‚³‚ê‚Ä‚¢‚Ü‚µ‚½B	The room looked nice. It had been cleaned.		
 GU043S043	1	43	6_If and wish Passive	–ìØ‚Í‚ ‚Ü‚è”ü–¡‚µ‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ’²—ŠÔ‚ª’·‚·‚¬‚Ü‚µ‚½B	The vegetables didn't taste very good. They had been cooked for too long.		
-GU043S044	1	43	6_If and wish Passive	Ô‚Í3”N‘O‚Ì‚à‚Ì‚Å‚µ‚½‚ªA‚ ‚Ü‚èg—p‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"The car was three years old, but hadn't been used very much."		
+GU043S044	1	43	6_If and wish Passive	Ô‚Í3”N—‚¿‚Å‚µ‚½‚ªA‚ ‚Ü‚èg—p‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"The car was three years old, but hadn't been used very much."		
 GU043S045	1	43	6_If and wish Passive	„‚½‚¿‚Íƒp[ƒeƒB[‚Éµ‘Ò‚³‚ê‚Ä‚¢‚È‚¢‚Ì‚ÅAs‚«‚Ü‚¹‚ñB	"We haven't been invited to the party, so we're not going."		
 GU043S046	1	43	6_If and wish Passive	¡“ú‚Í‰ï‹c‚Í‚ ‚è‚Ü‚¹‚ñB –¾“ú‚É‰„Šú‚É‚È‚è‚Ü‚µ‚½B	There's no meeting today. It's been postponed until tomorrow.		
 GU043S047	1	43	6_If and wish Passive	‚±‚Ìƒzƒeƒ‹‚Í„‚ªÅŒã‚É‘Øİ‚µ‚ÄˆÈ—ˆ‰ü‘•‚³‚ê‚Ü‚µ‚½B ¡‚Í‚¸‚Á‚Æ—Ç‚­‚È‚è‚Ü‚µ‚½B	This hotel has been renovated since I last stayed here. It's much nicer now.		
 GU043S048	1	43	6_If and wish Passive	‘‹‚Í‚Æ‚Ä‚à‰˜‚ê‚Ä‚¢‚Ü‚µ‚½B ”Ş‚ç‚Í‰½”N‚à‘|œ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	The windows were very dirty. They hadn't been cleaned for ages.		
-GU043S049	1	43	6_If and wish Passive	‚±‚Ì–{‚Í‚à‚Æ‚à‚ÆƒXƒyƒCƒ“Œê‚Å‘‚©‚ê‚Ä‚¢‚Ü‚µ‚½‚ªA‰pŒê‚É–|–ó‚³‚ê‚Ü‚µ‚½B	"The book was originally written in Spanish, but it's been translated into English."		
+GU043S049	1	43	6_If and wish Passive	‚±‚Ì–{‚Í‚à‚Æ‚à‚ÆƒXƒyƒCƒ“Œê‚Å‘‚©‚ê‚Ü‚µ‚½‚ªA‰pŒê‚É–|–ó‚³‚ê‚Ä‚¢‚Ü‚·B	"The book was originally written in Spanish, but it's been translated into English."		
 GU043S050	1	43	6_If and wish Passive	ƒXƒ^ƒWƒAƒ€‚É’…‚¢‚½‚Æ‚«A„‚½‚¿‚Í‚ª‚Á‚©‚è‚µ‚Ü‚µ‚½B „‚½‚¿‚Í‡‚ª’†~‚³‚ê‚½‚±‚Æ‚ğ”­Œ©‚µ‚½B	"When we got to the stadium, we were disappointed. We found that the game had been cancelled."		
 GU043S051	1	43	6_If and wish Passive	A: ƒgƒ€Aƒnƒ`‚Éh‚³‚ê‚½‚±‚Æ‚Í‚ ‚éH B: ‚¢‚âA’É‚¢‚Å‚·‚©H	"A: Tom, have you ever been stung by a bee? B: No, is it painful?"		
 GU043S052	1	43	6_If and wish Passive	Å‹ß‹´‚ª‘¹‚µ‚Ü‚µ‚½B ‚Ü‚¾C•œ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	The bridge was damaged recently. It hasn't been repaired yet.		
 GU043S053	1	43	6_If and wish Passive	¡’N‚©‚ª•”‰®‚ğ‘|œ’†‚Å‚·B	Somebody is cleaning the room at the moment.		
 GU043S054	1	43	6_If and wish Passive	•”‰®‚ÍŒ»İ‘|œ’†‚Å‚·B	The room is being cleaned at the moment.		
 GU043S055	1	43	6_If and wish Passive	’N‚©‚ª„‚½‚¿‚ÌŒã‚ë‚ğ•à‚¢‚Ä‚¢‚Ü‚·B „‚½‚¿‚Í’ÇÕ‚³‚ê‚Ä‚¢‚é‚Æv‚¢‚Ü‚·B	There's somebody walking behind us. I think we're being followed.		
-GU043S056	1	43	6_If and wish Passive	A: ‚¨è“`‚¢‚Å‚«‚Ü‚·‚©? B: ‚¨¢˜b‚É‚È‚è‚Ü‚µ‚½A‚ ‚è‚ª‚Æ‚¤B	"A: Can I help you? B: I'm being served, thanks."		
+GU043S056	1	43	6_If and wish Passive	A: ‚¨è“`‚¢‚µ‚Ü‚µ‚å‚¤‚©? B: ŠÔ‚É‡‚Á‚Ä‚Ü‚·A‚ ‚è‚ª‚Æ‚¤B	"A: Can I help you? B: I'm being served, thanks."		
 GU043S057	1	43	6_If and wish Passive	„‚ª“’…‚µ‚½‚Æ‚«A’N‚©‚ª•”‰®‚ğ‘|œ‚µ‚Ä‚¢‚½B	Somebody was cleaning the room when I arrived.		
 GU043S058	1	43	6_If and wish Passive	„‚ª“’…‚µ‚½‚Æ‚«A•”‰®‚Í‘|œ’†‚Å‚µ‚½B	The room was being cleaned when I arrived.		
 GU043S059	1	43	6_If and wish Passive	„‚½‚¿‚ÌŒã‚ë‚ğ’N‚©‚ª•à‚¢‚Ä‚¢‚Ü‚µ‚½B „‚½‚¿‚Í”ös‚³‚ê‚Ä‚¢‚½‚Æv‚¢‚Ü‚·B	There was somebody walking behind us. I think we were being followed.		
@@ -2523,13 +2523,13 @@ GU043S071	1	43	6_If and wish Passive	„‚½‚¿‚Ì‰ï˜b‚ª˜^‰¹‚³‚ê‚Ä‚¢‚½‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚
 GU043S072	1	43	6_If and wish Passive	–ìØ‚ª‚«‚ê‚¢‚Å‚Í‚È‚©‚Á‚½B ’N‚àô‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	The vegetables weren't clean. Nobody had washed them.		
 GU043S073	1	43	6_If and wish Passive	–ìØ‚ª‚«‚ê‚¢‚Å‚Í‚È‚©‚Á‚½B ‚»‚ê‚ç‚Íô‚í‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	The vegetables weren't clean. They hadn't been washed.		
 GU043S074	1	43	6_If and wish Passive	„‚ÌÔ‚Í‚±‚±‚É’“Ô‚µ‚Ä‚¢‚Ü‚µ‚½‚ªA‚à‚¤‚±‚±‚É‚Í‚ ‚è‚Ü‚¹‚ñB „‚ÌÔ‚ª“‚Ü‚ê‚Ü‚µ‚½B	"My car was parked here, but it's not here any more. My car has been stolen."		
-GU043S075	1	43	6_If and wish Passive	P‚ğ‚±‚±‚É’u‚¢‚Ä‚«‚Ü‚µ‚½‚ªA‚à‚¤‚È‚­‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ’N‚©‚ª‚»‚ê‚ğ‚Á‚Äs‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚Å‚·B	"I left my umbrella here, but now it's gone. Somebody has taken it."		
+GU043S075	1	43	6_If and wish Passive	P‚ğ‚±‚±‚É’u‚¢‚Ä‚«‚Ü‚µ‚½‚ªAŒ»İ‚È‚­‚È‚è‚Ü‚µ‚½B ’N‚©‚ª‚»‚ê‚ğ‚Á‚Äs‚Á‚Ä‚µ‚Ü‚Á‚½‚Ì‚Å‚·B	"I left my umbrella here, but now it's gone. Somebody has taken it."		
 GU043S076	1	43	6_If and wish Passive	ƒTƒ€‚ÍV‚µ‚¢–ğE‚ğŠl“¾‚µA‚æ‚è‚‚¢‹‹—¿‚ğ“¾‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B ƒTƒ€‚Í¸i‚µ‚Ü‚µ‚½B	Sam has a new job title and he gets a higher salary now. Sam has been promoted.		
-GU043S077	1	43	6_If and wish Passive	ƒŠƒT‚Í‚¿‚å‚¤‚ÇƒOƒ‰ƒX‚ğ‚Ğ‚Á‚­‚è•Ô‚µ‚½‚Æ‚±‚ë‚Å‚·B ¡‚Å‚Íƒoƒ‰ƒoƒ‰‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ƒŠƒT‚ÍƒKƒ‰ƒX‚ğŠ„‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	Lisa has just knocked over a glass. Now it's in pieces. Lisa has broken a glass.		
+GU043S077	1	43	6_If and wish Passive	ƒŠƒT‚Í‚¿‚å‚¤‚ÇƒOƒ‰ƒX‚ğ‚Ğ‚Á‚­‚è•Ô‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ¡‚Å‚Í‚»‚ê‚Íƒoƒ‰ƒoƒ‰‚Å‚·B ƒŠƒT‚ÍƒKƒ‰ƒX‚ğŠ„‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	Lisa has just knocked over a glass. Now it's in pieces. Lisa has broken a glass.		
 GU043S078	1	43	6_If and wish Passive	ƒAƒ“‚Í¡TƒIƒtƒBƒX‚ğg‚¦‚Ü‚¹‚ñB ‚»‚±‚Å‚Í‰æ‰Æ‚½‚¿‚ª“­‚¢‚Ä‚¢‚Ü‚·B ƒAƒ“‚ÌƒIƒtƒBƒX‚Íƒyƒ“ƒL“h‚è’†‚Å‚·B	Ann can't use her office this week. The painters are working there. Ann's office is being painted.		
-GU043S079	1	43	6_If and wish Passive	ğ“ú‚ÍŒg‘Ñ“d˜b‚É–â‘è‚ª‚ ‚è‚Ü‚µ‚½‚ªA¡‚Í‘åä•v‚Å‚·B C³‚µ‚Ü‚µ‚½B	"I had a problem with my phone yesterday, but it's OK now. I've fixed it."		
+GU043S079	1	43	6_If and wish Passive	ğ“ú‚Í„‚ÌŒg‘Ñ“d˜b‚É–â‘è‚ª‚ ‚è‚Ü‚µ‚½‚ªA¡‚Í‘åä•v‚Å‚·B „‚Í‚»‚ê‚ğC—‚µ‚Ü‚µ‚½B	"I had a problem with my phone yesterday, but it's OK now. I've fixed it."		
 GU043S080	1	43	6_If and wish Passive	•”‰®‚É“ü‚é‚ÆAƒe[ƒuƒ‹‚ÆˆÖq‚ªˆÈ‘O‚Æ“¯‚¶êŠ‚É‚È‚¢‚±‚Æ‚É‹C‚Ã‚«‚Ü‚µ‚½B ‰Æ‹ï‚ÍˆÚ“®‚³‚ê‚Ä‚¢‚Ü‚µ‚½B	I went into the room and saw that the tables and chairs were not in the same place as before. The furniture had been moved.		
-GU043S081	1	43	6_If and wish Passive	„‚Ì—×l‚Í”¼”N‘O‚É¸çH‚µ‚Ü‚µ‚½B ‚»‚êˆÈ—ˆA”Ş‚Ìp‚ÍŒ©‚¦‚Ä‚¢‚È‚¢B	A neighbour of mine disappeared six months ago. He hasn't been seen since then.		
+GU043S081	1	43	6_If and wish Passive	„‚Ì—×l‚Í”¼”N‘O‚É¸çH‚µ‚Ü‚µ‚½B ‚»‚êˆÈ—ˆ”Ş‚ÍŒ©‚ç‚ê‚Ä‚¢‚Ü‚¹‚ñB	A neighbour of mine disappeared six months ago. He hasn't been seen since then.		
 GU044S001	1	44	6_If and wish Passive	„‚Ì‘c•ƒ‚Í„‚É‚±‚ÌŒv‚ğ‚­‚ê‚Ü‚µ‚½B	My grandfather gave me this watch.		
 GU044S002	1	44	6_If and wish Passive	„‚Í‚±‚ÌŒv‚ği‘c•ƒ‚©‚çj‚à‚ç‚¢‚Ü‚µ‚½B	I was given this watch (by my grandfather).	This watch was given to me (by my grandfather).	
 GU044S003	1	44	6_If and wish Passive	d–‚ÌƒIƒtƒ@[‚ğó‚¯‚Ü‚µ‚½‚ªA‚â‚è‚½‚¢‚Æ‚Ív‚¦‚Ü‚¹‚ñB	"I've been offered a job, but I don't think I want it."		
@@ -2538,22 +2538,22 @@ GU044S005	1	44	6_If and wish Passive	Œ´–{‚ÍŒ©‚Ä‚¢‚Ü‚¹‚ñ‚ªAƒRƒs[‚ğŒ©‚¹‚Ä‚à‚ç‚¢‚
 GU044S006	1	44	6_If and wish Passive	ƒeƒBƒ€‚Í‚Æ‚Ä‚àŠy‚Èd–‚ÉA‚¢‚Ä‚¢‚Ü‚·B‚Ù‚Æ‚ñ‚Ç‰½‚à‚µ‚È‚¢‚Ì‚É‘½Šz‚Ì‹à‚ğ•¥‚Á‚Ä‚¢‚é‚Ì‚Å‚·B	Tim has a very easy job - he's paid a lot of money to do very little.		
 GU044S007	1	44	6_If and wish Passive	–ÊÚ‚ÍŠÈ’P‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚¢‚­‚Â‚©“ï‚µ‚¢¿–â‚ğ‚³‚ê‚Ü‚µ‚½B	The interview wasn't easy. I was asked some difficult questions.		
 GU044S008	1	44	6_If and wish Passive	–â‘è‚ª‚ ‚é‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚»‚ê‚É‚Â‚¢‚Ä‚Í‰½‚àŒ¾‚í‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't know there was a problem. I wasn't told anything about it.		
-GU044S009	1	44	6_If and wish Passive	”Ş—‚Ì‹‹—¿‚Í‚Æ‚Ä‚àˆÀ‚¢‚Å‚·B ‚È‚º”Ş—‚Ì‹‹—¿‚Í‚±‚ñ‚È‚É­‚È‚¢‚Ì‚Å‚µ‚å‚¤‚©H	Her salary is very low. Why is she paid so little?		
+GU044S009	1	44	6_If and wish Passive	”Ş—‚Ì‹‹—¿‚Í‚Æ‚Ä‚àˆÀ‚¢‚Å‚·B ‚È‚º”Ş—‚Ì‹‹—¿‚Í‚±‚ñ‚È‚É­‚È‚¢‚Ì‚Å‚µ‚å‚¤‚©i‚Æ‚Ä‚à­‚È‚­x•¥‚í‚ê‚éjH	Her salary is very low. Why is she paid so little?		
 GU044S010	1	44	6_If and wish Passive	ƒGƒCƒ~[‚ÍÅ‹ßd–‚ğ‘ŞE‚µ‚Ü‚µ‚½B ”Ş—‚Í“¯—»‚©‚çƒvƒŒƒ[ƒ“ƒg‚ğ‚à‚ç‚¢‚Ü‚µ‚½B	Amy retired from her job recently. She was given a present by her colleagues.		
 GU044S011	1	44	6_If and wish Passive	–ÊÚ‚ª‚¤‚Ü‚­‚¢‚­‚Æ‚Ív‚¦‚È‚©‚Á‚½B ‚»‚Ìd–‚ğƒIƒtƒ@[‚³‚ê‚é‚Æ‚Í—\‘z‚µ‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't think the interview went well. I didn't expect to be offered the job.		
 GU044S012	1	44	6_If and wish Passive	”Ş‚ç‚Í„‚½‚¿‚É‚»‚ÌƒvƒƒWƒFƒNƒg‚É‚Â‚¢‚Ä‚ ‚Ü‚è˜b‚µ‚Ä‚­‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B \•ª‚Èî•ñ‚ª—^‚¦‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	They didn't tell us much about the project. We weren't given enough information.		
 GU044S013	1	44	6_If and wish Passive	‹@ŠB‚Ìg‚¢•û‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚©H ‚»‚ê‚ª‚Ç‚Ì‚æ‚¤‚É‹@”\‚·‚é‚©‚ğŒ©‚¹‚ç‚ê‚Ü‚µ‚½‚©H	Do you know how to use the machine? Have you been shown how it works?		
 GU044S014	1	44	6_If and wish Passive	„‚Íl‚É‰½‚ğ‚·‚×‚«‚©w¦‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I don't like people telling me what to do.		
 GU044S015	1	44	6_If and wish Passive	„‚Í‰½‚ğ‚·‚×‚«‚©‚ğw¦‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I don't like being told what to do.		
-GU044S016	1	44	6_If and wish Passive	q‹Ÿ‚Ì ‚É“®•¨‰€‚É˜A‚ê‚Äs‚Á‚Ä‚à‚ç‚Á‚½‹L‰¯‚ª‚ ‚è‚Ü‚·B	I remember being taken to the zoo when I was a child.		
+GU044S016	1	44	6_If and wish Passive	„‚Íq‹Ÿ‚Ì ‚É“®•¨‰€‚É˜A‚ê‚Äs‚Á‚Ä‚à‚ç‚Á‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	I remember being taken to the zoo when I was a child.		
 GU044S017	1	44	6_If and wish Passive	ƒXƒeƒB[ƒu‚Í‘Ò‚½‚³‚ê‚é‚Ì‚ªŒ™‚¢‚Å‚·B	Steve hates being kept waiting.		
-GU044S018	1	44	6_If and wish Passive	„‚½‚¿‚ÍŒ©‚Â‚©‚ç‚¸‚É•Ç‚ğæ‚è‰z‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	We managed to climb over the wall without being seen.		
+GU044S018	1	44	6_If and wish Passive	„‚½‚¿‚ÍŒ©‚Â‚©‚ç‚¸‚É‚È‚ñ‚Æ‚©•Ç‚ğæ‚è‰z‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	We managed to climb over the wall without being seen.		
 GU044S019	1	44	6_If and wish Passive	„‚½‚¿‚Íµ‘Ò‚³‚ê‚Ä‚¢‚È‚¢‚Ì‚ÉŒ‹¥®‚És‚«‚Ü‚µ‚½B	We went to the wedding without being invited.		
 GU044S020	1	44	6_If and wish Passive	„‚ÍƒvƒŒƒ[ƒ“ƒg‚ğ‚ ‚°‚é‚Ì‚àD‚«‚Å‚·‚µAƒvƒŒƒ[ƒ“ƒg‚³‚ê‚é‚Ì‚àD‚«‚Å‚·B	I like giving presents and I also like being given them.		
-GU044S021	1	44	6_If and wish Passive	a‘Ø‚É‚Í‚Ü‚Á‚Ä‚µ‚Ü‚¤‚Æ‚Ç‚¤‚·‚é‚±‚Æ‚à‚Å‚«‚Ü‚¹‚ñB	You can't do anything about being stuck in a traffic jam.		
+GU044S021	1	44	6_If and wish Passive	a‘Ø‚É‚Í‚Ü‚Á‚Ä‚µ‚Ü‚¤‚±‚Æ‚É‚Â‚¢‚Ä‚ ‚È‚½‚Í‰½‚à‚Å‚«‚Ü‚¹‚ñB	You can't do anything about being stuck in a traffic jam.		
 GU044S022	1	44	6_If and wish Passive	„‚Í‘ål‚Å‚·B „‚Íq‹Ÿˆµ‚¢‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I'm an adult. I don't like being treated like a child.		
 GU044S023	1	44	6_If and wish Passive	©•ª‚Ì‚¹‚¢‚Å‚Í‚È‚¢‚±‚Æ‚ÅÓ‚ß‚ç‚ê‚é‚Ì‚ªŒ™‚¢‚Å‚·B	I hate being blamed for things that are not my fault.		
-GU044S024	1	44	6_If and wish Passive	‚Ç‚¤‚·‚ê‚Î‰á‚Éh‚³‚ê‚È‚¢‚æ‚¤‚É‚Å‚«‚Ü‚·‚©H	How do you avoid being bitten by mosquitoes?		
+GU044S024	1	44	6_If and wish Passive	‚ ‚È‚½‚Í‚Ç‚¤‚â‚Á‚Ä‰á‚Éh‚³‚ê‚é‚±‚Æ‚ğ”ğ‚¯‚Ü‚·‚©H	How do you avoid being bitten by mosquitoes?		
 GU044S025	1	44	6_If and wish Passive	„‚ÍƒVƒJƒS‚Å¶‚Ü‚ê‚Ü‚µ‚½B	I was born in Chicago.		
 GU044S026	1	44	6_If and wish Passive	‚ ‚È‚½‚Í‚Ç‚±‚Å¶‚Ü‚ê‚Ü‚µ‚½‚©H	Where were you born?		
 GU044S027	1	44	6_If and wish Passive	–ˆ“ú‰½l‚ÌÔ‚¿‚á‚ñ‚ª¶‚Ü‚ê‚Ü‚·‚©H	How many babies are born every day?		
@@ -2564,27 +2564,27 @@ GU044S031	1	44	6_If and wish Passive	ƒKƒŠƒŒƒI‚ÆƒVƒFƒCƒNƒXƒsƒA‚Í“¯‚¶”N‚É¶‚Ü‚ê‚Ü‚
 GU044S032	1	44	6_If and wish Passive	ƒŒƒIƒiƒ‹ƒhEƒ_Eƒ”ƒBƒ“ƒ`‚Í1452”N‚É¶‚Ü‚ê‚Ü‚µ‚½B	Leonardo da Vinci was born in 1452.		
 GU044S033	1	44	6_If and wish Passive	ƒjƒR[ƒ‹EƒLƒbƒhƒ}ƒ“‚ÍƒnƒƒC‚Ìƒzƒmƒ‹ƒ‹‚Å¶‚Ü‚ê‚Ü‚µ‚½B	"Nicole Kidman was born in Honolulu, Hawaii."		
 GU044S034	1	44	6_If and wish Passive	ƒp[ƒeƒB[‚ÅŒ–‰Ü‚ª‚ ‚Á‚½‚ªA’N‚à‰ö‰ä‚ğ‚µ‚È‚©‚Á‚½B	"There was a fight at the party, but nobody got hurt."		
-GU044S035	1	44	6_If and wish Passive	‚ ‚Ü‚èƒp[ƒeƒB[‚É—U‚í‚ê‚È‚¢‚ñ‚Å‚·B	I don't get invited to many parties.		
-GU044S036	1	44	6_If and wish Passive	ƒŠƒY‚ª‚»‚Ìd–‚ÌƒIƒtƒ@[‚ğó‚¯‚È‚©‚Á‚½‚Ì‚É‚Í‹Á‚¢‚½B	I'm surprised Liz didn't get offered the job.		
+GU044S035	1	44	6_If and wish Passive	„‚Í‘½‚­‚Ìƒp[ƒeƒB[‚É—U‚í‚ê‚Ü‚¹‚ñB	I don't get invited to many parties.		
+GU044S036	1	44	6_If and wish Passive	ƒŠƒY‚ª‚»‚Ìd–‚ÌƒIƒtƒ@[‚ğó‚¯‚È‚©‚Á‚½‚Ì‚É„‚Í‹Á‚¢‚Ä‚¢‚Ü‚·B	I'm surprised Liz didn't get offered the job.		
 GU044S037	1	44	6_If and wish Passive	ƒWƒFƒVƒJ‚Í’N‚©‚ç‚àD‚©‚ê‚Ä‚¢‚Ü‚·B	Jessica is liked by everybody.		
 GU044S038	1	44	6_If and wish Passive	ƒs[ƒ^[‚Í“ä‚Ì’j‚¾‚Á‚½B ”Ş‚É‚Â‚¢‚Ä‚Í‚Ù‚Æ‚ñ‚Ç’m‚ç‚ê‚Ä‚¢‚È‚©‚Á‚½B	Peter was a mystery man. Very little was known about him.		
 GU044S039	1	44	6_If and wish Passive	ƒAƒŒƒbƒNƒX‚Í’ëd–’†‚É–I‚Éh‚³‚ê‚Ü‚µ‚½B	Alex got stung by a bee while he was working in the garden.		
 GU044S040	1	44	6_If and wish Passive	Šw¶‚Ìˆêl‚ªŒ±‚ÅƒJƒ“ƒjƒ“ƒO‚ğ‚µ‚½‚Ì‚ªŒ©‚Â‚©‚Á‚½B	One of the students got caught cheating in the exam.		
-GU044S041	1	44	6_If and wish Passive	‚±‚ÌƒeƒjƒXƒR[ƒg‚Í‚ ‚Ü‚èg‚í‚ê‚Ä‚¢‚Ü‚¹‚ñB —V‚Ñ‚½‚¢l‚Í‚ ‚Ü‚è‚¢‚Ü‚¹‚ñB	These tennis courts don't get used much. Not many people want to play.		
+GU044S041	1	44	6_If and wish Passive	‚±‚ê‚ç‚ÌƒeƒjƒXƒR[ƒg‚Í‚ ‚Ü‚èg‚í‚ê‚Ä‚¢‚Ü‚¹‚ñB —V‚Ñ‚½‚¢l‚Í‚ ‚Ü‚è‚¢‚Ü‚¹‚ñB	These tennis courts don't get used much. Not many people want to play.		
 GU044S042	1	44	6_If and wish Passive	„‚Í©“]Ô‚ğ‚Á‚Ä‚¢‚Ü‚µ‚½‚ªA”‚©Œ‘O‚É““ï‚É‘˜‚¢‚Ü‚µ‚½B	"I used to have a bike, but it got stolen a few months ago."		
 GU044S043	1	44	6_If and wish Passive	ƒŒƒCƒ`ƒFƒ‹‚Íˆê¶Œœ–½“­‚¢‚Ä‚¢‚Ü‚·‚ªA‹‹—¿‚Í‚ ‚Ü‚è‘½‚­‚ ‚è‚Ü‚¹‚ñB	"Rachel works hard, but doesn't get paid very much."		
 GU044S044	1	44	6_If and wish Passive	ğ“ú‚Ì–éAÔ‚Å‹A‘î’†Œx@‚ÉŒÄ‚Ñ~‚ß‚ç‚ê‚Ü‚µ‚½B	Last night I got stopped by the police as I was driving home.		
-GU044S045	1	44	6_If and wish Passive	‚±‚ê‚ç‚Ì‚à‚Ì‚ÍTd‚É«•ï‚µ‚Ä‚­‚¾‚³‚¢B ‰½‚à‰ó‚ê‚½‚­‚È‚¢B	Please pack these things carefully. I don't want anything to get broken.		
+GU044S045	1	44	6_If and wish Passive	‚±‚ê‚ç‚Ì‚à‚Ì‚ÍTd‚É«•ï‚µ‚Ä‚­‚¾‚³‚¢B „‚Í‰½‚É‚à‰ó‚ê‚Ä‚Ù‚µ‚­‚È‚¢B	Please pack these things carefully. I don't want anything to get broken.		
 GU044S046	1	44	6_If and wish Passive	lX‚Í‚æ‚­„‚Ìd–‚ª‰½‚È‚Ì‚©’m‚è‚½‚ª‚è‚Ü‚·B ‚»‚Ì¿–â‚ğ‚æ‚­ó‚¯‚Ü‚·B	People often want to know what my job is. I get asked that question a lot.		
 GU044S047	1	44	6_If and wish Passive	‚ ‚È‚½‚Í‰½”N‚É¶‚Ü‚ê‚Ü‚µ‚½‚©?	Which year were you born in?		
 GU044S048	1	44	6_If and wish Passive	‚Ü‚¾‰½‚Ìî•ñ‚à—^‚¦‚ç‚ê‚Ä‚¢‚È‚¢B	I haven't been given any information yet.		
 GU044S049	1	44	6_If and wish Passive	“¹‚ª•ª‚©‚ç‚È‚©‚Á‚½‚Ì‚Å–À‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"I didn't know the way, so I got lost."		
-GU044S050	1	44	6_If and wish Passive	”Ş‚Í˜b‚µ‚Ä‚¢‚é‚Æ‚«‚É×–‚‚³‚ê‚é‚Ì‚ªŒ™‚¢‚Å‚·B	He doesn't like being interrupted when he's speaking.		
-GU044S051	1	44	6_If and wish Passive	‘‹‚Í‚Ç‚¤‚â‚Á‚Ä‰ó‚ê‚½‚Ì‚Å‚·‚©H ‚Ç‚¤‚µ‚½‚ÌH	How did the window get broken? What happened?		
-GU044S052	1	44	6_If and wish Passive	”Ş—‚Íƒ{ƒ‰ƒ“ƒeƒBƒAŠˆ“®‰Æ‚Å‚·B ”Ş—‚Í‹‹—¿‚ğ‚à‚ç‚Á‚Ä‚¢‚Ü‚¹‚ñB	She's a volunteer worker. She doesn't get paid.		
+GU044S050	1	44	6_If and wish Passive	”Ş‚Í˜b‚µ‚Ä‚¢‚é‚Æ‚«‚É×–‚‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	He doesn't like being interrupted when he's speaking.		
+GU044S051	1	44	6_If and wish Passive	‘‹‚Í‚Ç‚¤‚â‚Á‚Ä‰ó‚ê‚½‚Ì‚Å‚·‚©H ‰½‚ª‹N‚«‚½‚ÌH	How did the window get broken? What happened?		
+GU044S052	1	44	6_If and wish Passive	”Ş—‚Íƒ{ƒ‰ƒ“ƒeƒBƒAEˆõ‚Å‚·B ”Ş—‚Í‹‹—¿‚ğ‚à‚ç‚Á‚Ä‚¢‚Ü‚¹‚ñix•¥‚í‚ê‚Ä‚¢‚È‚¢jB	She's a volunteer worker. She doesn't get paid.		
 GU044S053	1	44	6_If and wish Passive	„‚Í‘‚Ì–k•”‚Ì¬‚³‚È’¬‚Å¶‚Ü‚ê‚Ü‚µ‚½B	I was born in a small town in the north of the country.		
 GU044S054	1	44	6_If and wish Passive	„‚½‚¿‚Í‚â‚é‚×‚«‚±‚Æ‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B „‚½‚¿‚É‚Í‘I‘ğˆ‚ª—^‚¦‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	We had to do what we did. We weren't given any choice.		
-GU045S001	1	45	6_If and wish Passive	108Î‚¾‚»‚¤‚Å‚·B	It is said that he is 108 years old.	He is said to be 108 years old.	
+GU045S001	1	45	6_If and wish Passive	”Ş‚Í108Î‚¾‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	It is said that he is 108 years old.	He is said to be 108 years old.	
 GU045S002	1	45	6_If and wish Passive	ƒLƒƒƒV[‚Í‘–‚é‚Ì‚ª‘åD‚«‚Å‚·B ”Ş—‚Í–ˆ“ú10ƒ}ƒCƒ‹‘–‚é‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	Cathy loves running. It is said that she runs ten miles every day.	Cathy loves running. She is said to run ten miles every day.	
 GU045S003	1	45	6_If and wish Passive	2 ‚Â‚Ì‰Æ‚Í“¯‚¶‰Æ‘°‚É‘®‚µ‚Ä‚¢‚Ü‚·B “ñl‚ÌŠÔ‚É‚Í”é–§‚Ìƒgƒ“ƒlƒ‹‚ª‚ ‚é‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	The two houses belong to the same family. It is said that there is a secret tunnel between them.	The two houses belong to the same family. There is said to be a secret tunnel between them.	
 GU045S004	1	45	6_If and wish Passive	ƒtƒ‰ƒ“ƒN‚Í—·s‚ª‘åD‚«‚Å‚µ‚½B 100ƒJ‘ˆÈã‚ğ–K‚ê‚½‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	Frank loved travelling. It is said that he visited more than a hundred countries.	Frank loved travelling. He is said to have visited more than a hundred countries.	
@@ -2593,78 +2593,78 @@ GU045S006	1	45	6_If and wish Passive	‚±‚ê‚ç‚Ì–Ø‚Í‚Æ‚Ä‚à’·‚¢ŠÔ‚±‚±‚É‚ ‚è‚Ü‚µ‚½B 
 GU045S007	1	45	6_If and wish Passive	”Ş‚ç‚ª‚Ç‚±‚É‚¢‚é‚Ì‚©’N‚à’m‚è‚Ü‚¹‚ñB ”Ş‚ç‚Ío‘‚µ‚½‚ÆŒ¾‚í‚ê‚Ä‚¢‚éB	Nobody knows where they are. They're said to have left the country.		
 GU045S008	1	45	6_If and wish Passive	‰ïĞ‚Ì‹ÆÑ‚Í—Ç‚­‚ ‚è‚Ü‚¹‚ñB ‘¹‚ğ‚µ‚Ä‚¢‚é‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	The company is not doing well. It's said to be losing money.		
 GU045S009	1	45	6_If and wish Passive	ƒWƒƒƒbƒN‚Íá‚¢ ƒTƒbƒJ[‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½B ‚Æ‚Ä‚à—Ç‚¢‘Iè‚¾‚Á‚½‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	Jack played football when he was younger. He's said to have been a very good player.		
-GU045S010	1	45	6_If and wish Passive	‚¨‚»‚ç‚­Œš•¨‚Í—\’è’Ê‚è‚ÉŠ®¬‚µ‚È‚¢‚¾‚ë‚¤B ƒgƒ‰ƒuƒ‹‚à‘½‚¢‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	The building will probably not be completed on time. There are said to be a lot of problems.		
-GU045S011	1	45	6_If and wish Passive	Œx@‚Ís•û•s–¾‚Ì­”N‚ğ’T‚µ‚Ä‚¢‚éB ­”N‚Í”’‚¢ƒZ[ƒ^[‚Æƒuƒ‹[ƒW[ƒ“ƒY‚ğ’…‚Ä‚¢‚½‚Æ‚İ‚ç‚ê‚éB	The police are looking for a missing boy. It is believed that the boy is wearing a white sweater and blue jeans.	The police are looking for a missing boy. The boy is believed to be wearing a white sweater and blue jeans.	
+GU045S010	1	45	6_If and wish Passive	‚¨‚»‚ç‚­Œš•¨‚Í—\’è’Ê‚è‚ÉŠ®¬‚µ‚È‚¢‚¾‚ë‚¤B ‘½‚­‚Ì–â‘è‚ª‚ ‚é‚ÆŒ¾‚í‚ê‚Ä‚¢‚Ü‚·B	The building will probably not be completed on time. There are said to be a lot of problems.		
+GU045S011	1	45	6_If and wish Passive	Œx@‚Ís•û•s–¾‚Ì­”N‚ğ’T‚µ‚Ä‚¢‚éB ­”N‚Í”’‚¢ƒZ[ƒ^[‚Æƒuƒ‹[ƒW[ƒ“ƒY‚ğ’…‚Ä‚¢‚é‚ÆM‚¶‚ç‚ê‚Ä‚¢‚éB	The police are looking for a missing boy. It is believed that the boy is wearing a white sweater and blue jeans.	The police are looking for a missing boy. The boy is believed to be wearing a white sweater and blue jeans.	
 GU045S012	1	45	6_If and wish Passive	ƒXƒgƒ‰ƒCƒL‚Í‚RTŠÔ‘O‚Én‚Ü‚Á‚½B ‚Ü‚à‚È‚­I—¹‚·‚é‚±‚Æ‚ª—\‘z‚³‚ê‚Ü‚·B	The strike started three weeks ago. It is expected that it will end soon.	The strike started three weeks ago. The strike is expected to end soon.	
-GU045S013	1	45	6_If and wish Passive	„‚Ì—Fl‚ª‘ß•ß‚³‚ê‚Ü‚µ‚½B ”Ş‚ÍÔ‚ğ“‚ñ‚¾‚ÆŒ¾‚í‚ê‚Ä‚¢‚éB	A friend of mine has been arrested. It is alleged that he stole a car.	A friend of mine has been arrested. He is alleged to have stolen a car.	
+GU045S013	1	45	6_If and wish Passive	„‚Ì—Fl‚ª‘ß•ß‚³‚ê‚Ü‚µ‚½B ”Ş‚ÍÔ‚ğ“‚ñ‚¾‚Æ‹^‚¢‚ğ‚©‚¯‚ç‚ê‚Ä‚¢‚éB	A friend of mine has been arrested. It is alleged that he stole a car.	A friend of mine has been arrested. He is alleged to have stolen a car.	
 GU045S014	1	45	6_If and wish Passive	‚±‚Ì”š”­‚Å‚Ql‚ª•‰‚µ‚½‚Æ•ñ‚¶‚ç‚ê‚Ä‚¢‚éB	It is reported that two people were injured in the explosion.	Two people are reported to have been injured in the explosion.	
-GU045S015	1	45	6_If and wish Passive	¡‚Í“V‹C‚ª‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñB ¡Œã‰ü‘P‚³‚ê‚é‚±‚Æ‚ªŠú‘Ò‚³‚ê‚Ü‚·B	The weather isn't so good right now. It is expected to improve later.		
-GU045S016	1	45	6_If and wish Passive	^…‚Í‘å‚«‚È–â‘è‚ğˆø‚«‹N‚±‚µ‚Ü‚µ‚½B ‘½‚­‚Ìl‚ªƒz[ƒ€ƒŒƒX‚É‚È‚Á‚Ä‚¢‚é‚Æ•ñ‚³‚ê‚Ä‚¢‚éB	The floods have caused great problems. Many people are reported to be homeless.		
-GU045S017	1	45	6_If and wish Passive	2l‚Ìúl‚ªŒY–±Š‚©‚ç’E‘–‚µ‚½B •Ç‚ğæ‚è‰z‚¦‚Ä“¦‘–‚µ‚½‚Æ‚İ‚ç‚ê‚éB	Two prisoners escaped from the prison. They are thought to have escaped by climing over a wall.		
-GU045S018	1	45	6_If and wish Passive	Œx@‚Í‹­“–Œ‚Æ‚µ‚Ä‘{¸‚ğs‚Á‚Ä‚¢‚éB “D–_‚½‚¿‚Í‘‹‚©‚çN“ü‚µ‚½‚Æ‚İ‚ç‚ê‚Ä‚¢‚éB	Police are investigating the robbery. The thieves are believed to have got in through a window.		
+GU045S015	1	45	6_If and wish Passive	‚½‚¾¡‚Í“V‹C‚ª‚»‚±‚Ü‚Å—Ç‚­‚ ‚è‚Ü‚¹‚ñB ¡Œã‰ü‘P‚³‚ê‚é‚±‚Æ‚ªŠú‘Ò‚³‚ê‚Ü‚·B	The weather isn't so good right now. It is expected to improve later.		
+GU045S016	1	45	6_If and wish Passive	^…‚Í‚·‚²‚¢–â‘è‚ğˆø‚«‹N‚±‚µ‚Ä‚¢‚Ü‚·B ‘½‚­‚Ìl‚ªƒz[ƒ€ƒŒƒX‚É‚È‚Á‚Ä‚¢‚é‚Æ•ñ‚³‚ê‚Ä‚¢‚éB	The floods have caused great problems. Many people are reported to be homeless.		
+GU045S017	1	45	6_If and wish Passive	2l‚Ìúl‚ªŒY–±Š‚©‚ç’E‘–‚µ‚½B •Ç‚ğæ‚è‰z‚¦‚Ä“¦‘–‚µ‚½‚Æl‚¦‚ç‚ê‚Ä‚¢‚éB	Two prisoners escaped from the prison. They are thought to have escaped by climing over a wall.		
+GU045S018	1	45	6_If and wish Passive	Œx@‚Í‹­“–Œ‚ğ‘{¸‚µ‚Ä‚¢‚éB “D–_‚½‚¿‚Í‘‹‚ğ’Ê‚¶‚Ä“ü‚è‚±‚ñ‚¾M‚¶‚ç‚ê‚Ä‚¢‚éB	Police are investigating the robbery. The thieves are believed to have got in through a window.		
 GU045S019	1	45	6_If and wish Passive	s“à’†S•”‚ÌƒIƒtƒBƒXƒrƒ‹‚Å‘å‹K–Í‚È‰ÎĞ‚ª”­¶‚µ‚½B Œš•¨‚Ír‘å‚È”íŠQ‚ğó‚¯‚½‚Æ“`‚¦‚ç‚ê‚Ä‚¢‚éB	There was a big fire at an office building in the city centre. The building is reported to have been badly damaged.		
-GU045S020	1	45	6_If and wish Passive	Œx@‚ÍƒXƒs[ƒh‚ğo‚µ‚·‚¬‚½Ô‚ğ~‚ß‚½B ‰^“]è‚Í‘¬110ƒ}ƒCƒ‹‚Å‰^“]‚µ‚Ä‚¢‚½‚Æ‚İ‚ç‚ê‚éB	Police stopped a car that was going too fast. The driver is alleged to have been driving at 110 miles an hour.		
+GU045S020	1	45	6_If and wish Passive	Œx@‚ÍƒXƒs[ƒh‚ğo‚µ‚·‚¬‚½Ô‚ğ~‚ß‚½B ‰^“]è‚Í‘¬110ƒ}ƒCƒ‹‚Å‰^“]‚µ‚Ä‚¢‚½‚Æ‹^‚¢‚ğ‚©‚¯‚ç‚ê‚Ä‚¢‚éB	Police stopped a car that was going too fast. The driver is alleged to have been driving at 110 miles an hour.		
 GU045S021	1	45	6_If and wish Passive	‚»‚Ì‰f‰æ‚ªŒ©‚½‚¢‚Å‚·B ‚»‚ê‚Í—Ç‚¢‚Í‚¸‚Å‚·B	I want to see that film. It's supposed to be good.		
 GU045S022	1	45	6_If and wish Passive	‰Ô‰Î‚Í’†‘‚Å”­–¾‚³‚ê‚½‚Æ‚³‚ê‚Ä‚¢‚Ü‚·B –{“–‚Å‚·‚©H	Fireworks are supposed to have been invented in China. Is it true?		
 GU045S023	1	45	6_If and wish Passive	A: ‚±‚ê‚ç‚ÌŠG‚Ì‰¿’l‚Í‚¢‚­‚ç‚Å‚·‚©? B: ‚æ‚­‚í‚©‚è‚Ü‚¹‚ñ‚ªA‚Æ‚Ä‚à‹Md‚È‚à‚Ì‚¾‚Æv‚í‚ê‚Ü‚·B	"A: How much are these paintings worth? B: I'm not sure, but they're supposed to be very valuable."		
-GU045S024	1	45	6_If and wish Passive	A: ‚ ‚È‚½‚Ì‹ßŠ‚Ìl‚ª•ó‚­‚¶‚ÅK‰^‚¾‚Á‚½‚Æ‚¢‚¤‚Ì‚Í–{“–‚Å‚·‚©? B: ‚Í‚¢A”Ş‚ç‚Í‘å‹à‚ğŠl“¾‚µ‚½‚Í‚¸‚Å‚·B	"A: Is it true that your neighbours were lucky in the lottery? B: Yes, they're supposed to have won a lot of money."		
-GU045S025	1	45	6_If and wish Passive	A: ƒ[ƒ‰‚ª‚¢‚È‚­‚È‚Á‚Ä‚µ‚Ü‚Á‚½‚Æ•·‚«‚Ü‚µ‚½B B: ‚Í‚¢A”Ş—‚Í¡ƒƒ“ƒhƒ“‚ÉZ‚ñ‚Å‚¢‚é‚Í‚¸‚Å‚·B	"A: I heard that Laura has gone away. B: Yes, she's supposed to be living in London now."		
-GU045S026	1	45	6_If and wish Passive	A: ‚±‚ê‚Í–Ê”’‚¢Œš•¨‚Å‚·‚ËB B: ‚Í‚¢AÌ‚ÍŒY–±Š‚¾‚Á‚½‚Í‚¸‚Å‚·B	"A: This looks an interesting building. B: Yes, it's supposed to have been a prison a long time ago."		
+GU045S024	1	45	6_If and wish Passive	A: ‚ ‚È‚½‚Ì‹ßŠ‚Ìl‚½‚¿‚ª•ó‚­‚¶‚ÅK‰^‚¾‚Á‚½‚Æ‚¢‚¤‚Ì‚Í–{“–‚Å‚·‚©? B: ‚Í‚¢A”Ş‚ç‚Í‘å‹à‚ğŠl“¾‚µ‚½‚Í‚¸‚Å‚·B	"A: Is it true that your neighbours were lucky in the lottery? B: Yes, they're supposed to have won a lot of money."		
+GU045S025	1	45	6_If and wish Passive	A: ƒ[ƒ‰‚ªo‚Ä‚¢‚Á‚Ä‚µ‚Ü‚Á‚½‚Æ•·‚«‚Ü‚µ‚½B B: ‚Í‚¢A”Ş—‚Í¡ƒƒ“ƒhƒ“‚ÉZ‚ñ‚Å‚¢‚é‚Í‚¸‚Å‚·B	"A: I heard that Laura has gone away. B: Yes, she's supposed to be living in London now."		
+GU045S026	1	45	6_If and wish Passive	A: ‚±‚ê‚Í–Ê”’‚¢Œš•¨‚ÉŒ©‚¦‚Ü‚·B B: ‚Í‚¢AÌ‚ÍŒY–±Š‚¾‚Á‚½‚Í‚¸‚Å‚·B	"A: This looks an interesting building. B: Yes, it's supposed to have been a prison a long time ago."		
 GU045S027	1	45	6_If and wish Passive	A: “ƒ‚Ì’¸ã‚Ü‚Å“o‚é‚±‚Æ‚Í‰Â”\‚Å‚·‚©? B: ‚Í‚¢A‚Æ‚Ä‚àŒiF‚ª‚¢‚¢‚Í‚¸‚Å‚·B	"A: Is it possible to climb to the top of the tower? B: Yes, the view is supposed to be very nice."		
 GU045S028	1	45	6_If and wish Passive	A: ƒeƒBƒi‚Í‚È‚º‘ß•ß‚³‚ê‚½‚Ì‚Å‚·‚©? B: ‚æ‚­‚í‚©‚ç‚È‚¢‚¯‚ÇA”Ş—‚ÍŒx@Š¯‚ğ‰£‚Á‚½‚ç‚µ‚¢‚æB	"A: Why was Tina arrested? B: I don't know for sure, but she's supposed to have hit a police officer."		
-GU045S029	1	45	6_If and wish Passive	‚±‚ÌŒv‰æ‚Í”é–§‚Å‚ ‚é‚Í‚¸‚¾‚ªA’N‚à‚ª‚»‚ê‚ğ’m‚Á‚Ä‚¢‚é‚æ‚¤‚¾B	"The plan is supposed to be a secret, but everybody seems to know about it."		
+GU045S029	1	45	6_If and wish Passive	‚±‚ÌŒv‰æ‚Í”é–§‚Å‚ ‚é‚Í‚¸‚¾‚ªA’N‚à‚ª‚»‚ê‚É‚Â‚¢‚Ä’m‚Á‚Ä‚¢‚é‚æ‚¤‚ÉŒ©‚¦‚éB	"The plan is supposed to be a secret, but everybody seems to know about it."		
 GU045S030	1	45	6_If and wish Passive	‚È‚º¡“úd–‚É‚¢‚é‚Ì‚Å‚·‚©H ‚ ‚È‚½‚Í‹x‰É’†‚Ì‚Í‚¸‚Å‚·B	Why are you at work today? You're supposed to be on holiday.		
-GU045S031	1	45	6_If and wish Passive	„‚½‚¿‚ÌƒQƒXƒg‚Í7”¼‚É—ˆ‚é‚Í‚¸‚¾‚Á‚½‚Ì‚Å‚·‚ªA’x‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"Our guests were supposed to come at 7.30, but they were late."		
-GU045S032	1	45	6_If and wish Passive	‹}‚¢‚¾‚Ù‚¤‚ª‚¢‚¢‚æB 10•ªˆÈ“à‚ÉƒNƒŠƒX‚É‰ï‚¤—\’è‚Å‚·B	I'd better hurry. I'm supposed to be meeting Chris in ten minutes.		
-GU045S033	1	45	6_If and wish Passive	‚±‚±‚ÉÔ‚ğ’“Ô‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB ê—p’“Ôê‚Ì‚İ‚Å‚·B	You're not supposed to park your car here. It's private parking only.		
+GU045S031	1	45	6_If and wish Passive	„‚½‚¿‚ÌƒQƒXƒg‚Í7”¼‚É—ˆ‚é‚Í‚¸‚¾‚Á‚½‚Ì‚Å‚·‚ªA”Ş‚ç‚Í’x‚ê‚Ü‚µ‚½B	"Our guests were supposed to come at 7.30, but they were late."		
+GU045S032	1	45	6_If and wish Passive	„‚Í‹}‚¢‚¾‚Ù‚¤‚ª‚¢‚¢‚Å‚·B „‚Í10•ªˆÈ“à‚ÉƒNƒŠƒX‚É‰ï‚¤—\’è‚Ì‚Í‚¸‚Å‚·B	I'd better hurry. I'm supposed to be meeting Chris in ten minutes.		
+GU045S033	1	45	6_If and wish Passive	‚ ‚È‚½‚Í‚ ‚È‚½‚ÌÔ‚ğ‚±‚±‚É’“Ô‚µ‚Ä‚Í‚¢‚¯‚È‚¢‚±‚Æ‚É‚È‚Á‚Ä‚¢‚Ü‚·B ‚»‚ê‚Íê—p’“Ôê‚Ì‚İ‚Å‚·B	You're not supposed to park your car here. It's private parking only.		
 GU045S034	1	45	6_If and wish Passive	ƒWƒFƒt‚Í•a‹C‚ÌŒãA‚©‚È‚è—Ç‚­‚È‚è‚Ü‚µ‚½‚ªA‚»‚ê‚Å‚àd˜J“­‚ğ‚·‚é‚×‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"Jeff is much better after his illness, but he's still not supposed to do any heavy work."		
-GU045S035	1	45	6_If and wish Passive	„‚ğ‚¢‚Â‚à”á”»‚µ‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñB ‚ ‚È‚½‚Í„‚Ì—F’B‚É‚È‚é‚Í‚¸‚Å‚·B	You shouldn't criticise me all the time. You're supposed to be my friend.		
-GU045S036	1	45	6_If and wish Passive	–{“–‚Í‚±‚ÌƒP[ƒL‚ğH‚×‚é‚×‚«‚Å‚Í‚È‚¢‚Ì‚Å‚·‚ªB ƒ_ƒCƒGƒbƒg’†‚Ì‚Í‚¸‚È‚ñ‚Å‚·B	I shouldn't be eating this cake really. I'm supposed to be on a diet.		
-GU045S037	1	45	6_If and wish Passive	Œ¾‚Á‚Ä‚µ‚Ü‚Á‚Ä‚²‚ß‚ñ‚È‚³‚¢B –Ê”’‚­‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚½‚ñ‚¾B ç’k‚Ì‚Í‚¸‚¾‚Á‚½B	I'm sorry for what I said. I was trying to be funny. It was supposed to be a joke.		
+GU045S035	1	45	6_If and wish Passive	„‚ğí‚É”á”»‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB ‚ ‚È‚½‚Í„‚Ì—F’B‚É‚È‚é‚Í‚¸‚Å‚·B	You shouldn't criticise me all the time. You're supposed to be my friend.		
+GU045S036	1	45	6_If and wish Passive	„‚Í–{“–‚É‚±‚ÌƒP[ƒL‚ğH‚×‚Ä‚¢‚é‚×‚«‚Å‚Í‚È‚¢‚Å‚·B „‚Íƒ_ƒCƒGƒbƒg’†‚Ì‚Í‚¸‚È‚ñ‚Å‚·B	I shouldn't be eating this cake really. I'm supposed to be on a diet.		
+GU045S037	1	45	6_If and wish Passive	„‚ªŒ¾‚Á‚½‚±‚Æ‚É‚Â‚¢‚Ä‚²‚ß‚ñ‚È‚³‚¢B –Ê”’‚­‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚½‚ñ‚¾B ç’k‚Ì‚Í‚¸‚¾‚Á‚½B	I'm sorry for what I said. I was trying to be funny. It was supposed to be a joke.		
 GU045S038	1	45	6_If and wish Passive	‚±‚ÌŠG‚Í‰½‚Å‚·‚©? –Ø‚Å‚·‚©H ‚ ‚é‚¢‚ÍA‰Ô‚¾‚Æv‚í‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñB	What's this drawing? Is it a tree? Or maybe it's supposed to be a flower.		
 GU045S039	1	45	6_If and wish Passive	‚ ‚È‚½‚Í¡‚»‚ÌV•·‚ğ“Ç‚ñ‚Å‚Í‚¢‚¯‚È‚¢B ‚ ‚È‚½‚Íd–‚ğ‚µ‚Ä‚¢‚é‚Í‚¸‚Å‚·B	You shouldn't be reading the paper now. You're supposed to be working.		
 GU045S040	1	45	6_If and wish Passive	‚»‚ê‚ÍŠï–­‚¾B ”•¨ŠÙ‚Í•ÂŠÙ‚µ‚Ä‚¢‚é‚æ‚¤‚Å‚·B –ˆ“úŠJ‚¢‚Ä‚¢‚é‚Í‚¸‚Å‚·B	That's strange. The museum seems to be closed. It's supposed to be open every day.		
-GU045S041	1	45	6_If and wish Passive	„‚½‚¿‚Í 8  15 •ª‚Éd–‚ğn‚ß‚é‚±‚Æ‚É‚È‚Á‚Ä‚¢‚Ü‚·‚ªA8 ”¼‚æ‚è‘O‚É‰½‚à‚·‚é‚±‚Æ‚Í‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	"We're supposed to start work at 8.15, but we rarely do anything before 8.30."		
+GU045S041	1	45	6_If and wish Passive	„‚½‚¿‚Í 8  15 •ª‚Éd–‚ğn‚ß‚é‚±‚Æ‚É‚È‚Á‚Ä‚¢‚Ü‚·‚ªA8 ”¼‚æ‚è‘O‚É‰½‚à‚·‚é‚±‚Æ‚Í‚ß‚Á‚½‚É‚ ‚è‚Ü‚¹‚ñB	"We're supposed to start work at 8.15, but we rarely do anything before 8.30."		
 GU045S042	1	45	6_If and wish Passive	ğ–éƒwƒŒƒ“‚É“d˜b‚·‚é—\’è‚¾‚Á‚½‚Ì‚Å‚·‚ªA‚·‚Á‚©‚è–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"I was supposed to phone Helen last night, but I completely forgot."		
 GU045S043	1	45	6_If and wish Passive	‚±‚Ì”à‚Í”ñíŒû‚Å‚·B ‚»‚Ì‘O‚É‚Í‰½‚à’u‚©‚È‚¢‚Å‚­‚¾‚³‚¢B	This door is a fire exit. We're not supposed to put anything in front of it.		
-GU045S044	1	45	6_If and wish Passive	„‚Ì”òs‹@‚Í1015•ª‚Éo”­‚·‚é—\’è‚Å‚µ‚½‚ªAo”­‚µ‚½‚Ì‚Í1130•ª‚Å‚µ‚½B	"My flight was supposed to depart at 10.15, but it didn't leave until 11.30."		
+GU045S044	1	45	6_If and wish Passive	„‚Ì”òs‹@‚Í1015•ª‚Éo”­‚·‚é—\’è‚Å‚µ‚½‚ªA1130•ª‚Ü‚Åo”­i‹‚èj‚Ü‚¹‚ñ‚Å‚µ‚½B	"My flight was supposed to depart at 10.15, but it didn't leave until 11.30."		
 GU045S045	1	45	6_If and wish Passive	ƒoƒX‚Í20•ª‚²‚Æ‚É‰^s‚·‚é‚Í‚¸‚Å‚·‚ªA‚·‚Å‚É30•ª‘Ò‚Á‚Ä‚¢‚Ü‚·B	"The buses are supposed to run every 20 minutes, but we've already been waiting half an hour."		
 GU045S046	1	45	6_If and wish Passive	ƒWƒ‡ƒiƒTƒ“‚Í”w’†‚É–â‘è‚ğ•ø‚¦‚Ä‚¢‚Ü‚·B ”Ş‚Íd‚¢‚à‚Ì‚ğ‚¿ã‚°‚é‚×‚«‚Å‚Í‚È‚¢B	Jonathan has a problem with his back. He's not supposed to lift anything heavy.		
-GU045S047	1	45	6_If and wish Passive	‚±‚ñ‚É‚¿‚ÍI ‘‚¢‚Å‚·‚ËB ‚ ‚È‚½‚Í‚Ü‚¾‚±‚±‚É‚¢‚é‚×‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚Ü‚¾€”õo—ˆ‚Ä‚¢‚Ü‚¹‚ñB	Hi! You're early. You're not supposed to be here yet. I'm not ready.		
+GU045S047	1	45	6_If and wish Passive	‚±‚ñ‚É‚¿‚ÍI ‚ ‚È‚½‚Í‘‚¢‚Å‚·‚ËB ‚ ‚È‚½‚Í‚Ü‚¾‚±‚±‚É‚¢‚é‚×‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í€”õo—ˆ‚Ä‚¢‚Ü‚¹‚ñB	Hi! You're early. You're not supposed to be here yet. I'm not ready.		
 GU046S001	1	46	6_If and wish Passive	ƒŠƒT‚Í‰®ª‚ğC—‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	Lisa had the roof repaired.		
 GU046S002	1	46	6_If and wish Passive	ƒŠƒT‚Í‰®ª‚ğC—‚µ‚½B	Lisa repaired the roof.		
 GU046S003	1	46	6_If and wish Passive	ƒŠƒT‚Í‰®ª‚ğC—‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	Lisa had the roof repaired.		
-GU046S004	1	46	6_If and wish Passive	A: ‚»‚ÌƒJ[ƒeƒ“‚Í©•ª‚Åì‚Á‚½‚Ì‚Å‚·‚©? B: ‚Í‚¢A‚à‚Ì‚Ã‚­‚è‚ªD‚«‚Å‚·B	"A: Did you make those curtains yourself? B: Yes, I like making things."		
-GU046S005	1	46	6_If and wish Passive	A: ‚»‚ÌƒJ[ƒeƒ“‚Í‚ ‚È‚½‚ªì‚Á‚½‚Ì‚Å‚·‚©? B: ‚¢‚¢‚¦A©•ª‚Åì‚è‚Ü‚µ‚½B	"A: Did you have those curtains made? B: No, I made them myself."		
-GU046S006	1	46	6_If and wish Passive	ƒTƒ‰‚Í”¯‚ğØ‚Á‚Ä‚¢‚Ü‚·B	Sarah is having her hair cut.		
+GU046S004	1	46	6_If and wish Passive	A: ‚»‚ê‚ç‚ÌƒJ[ƒeƒ“‚Í©•ª‚Åì‚Á‚½‚Ì‚Å‚·‚©? B: ‚Í‚¢A‚à‚Ì‚Ã‚­‚è‚ªD‚«‚Å‚·B	"A: Did you make those curtains yourself? B: Yes, I like making things."		
+GU046S005	1	46	6_If and wish Passive	A: ‚»‚ÌƒJ[ƒeƒ“‚Í‚ ‚È‚½‚ªì‚Á‚Ä‚à‚ç‚Á‚½‚Ì‚Å‚·‚©? B: ‚¢‚¢‚¦A©•ª‚Åì‚è‚Ü‚µ‚½B	"A: Did you have those curtains made? B: No, I made them myself."		
+GU046S006	1	46	6_If and wish Passive	ƒTƒ‰‚Í”¯‚ğØ‚Á‚Ä‚à‚ç‚Á‚Ä‚¢‚Ü‚·B	Sarah is having her hair cut.		
 GU046S007	1	46	6_If and wish Passive	ƒrƒ‹‚Í”¯‚ğØ‚Á‚Ä‚¢‚Ü‚·B	Bill is cutting his hair.		
 GU046S008	1	46	6_If and wish Passive	ƒWƒ‡ƒ“‚ÍŒC‚ğ‘|œ‚µ‚Ä‚¢‚Ü‚·B	John is cleaning his shoes.		
 GU046S009	1	46	6_If and wish Passive	ƒPƒCƒg‚Í–å‚Ìƒyƒ“ƒL‚ğ“h‚Á‚Ä‚à‚ç‚Á‚Ä‚¢‚Ü‚·B	Kate is having the gate painted.		
 GU046S010	1	46	6_If and wish Passive	ƒPƒCƒg‚ÍÊ^‚ğB‚Á‚Ä‚¢‚Ü‚·B	Kate is taking a picture.		
 GU046S011	1	46	6_If and wish Passive	ƒX[‚ÍÊ^‚ğB‚Á‚Ä‚à‚ç‚Á‚Ä‚¢‚Ü‚·B	Sue is having her picture taken.		
 GU046S012	1	46	6_If and wish Passive	ƒŠƒT‚Í‰®ª‚ğC—‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	Lisa had the roof repaired.		
-GU046S013	1	46	6_If and wish Passive	”¯‚ğØ‚è‚Ü‚µ‚½‚©H	Did you have your hair cut?		
+GU046S013	1	46	6_If and wish Passive	”¯‚ğØ‚Á‚Ä‚à‚ç‚¢‚Ü‚µ‚½‚©H	Did you have your hair cut?		
 GU046S014	1	46	6_If and wish Passive	„‚½‚¿‚Í‰Æ‚Ì“h‘•‚ğs‚Á‚Ä‚¢‚Ü‚·B	We are having the house painted.		
-GU046S015	1	46	6_If and wish Passive	‚»‚ÌƒR[ƒg‚ÍƒNƒŠ[ƒjƒ“ƒO‚Éo‚·‚×‚«‚Å‚·B	You should have that coat cleaned.		
+GU046S015	1	46	6_If and wish Passive	‚ ‚È‚½‚Í‚»‚ÌƒR[ƒg‚ğ‘|œ‚µ‚Ä‚à‚ç‚¤‚Ì‚ª‚æ‚¢‚Å‚·B	You should have that coat cleaned.		
 GU046S016	1	46	6_If and wish Passive	„‚ÍÊ^‚ğB‚ç‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I don't like having my picture taken.		
 GU046S017	1	46	6_If and wish Passive	‚Ç‚Ì‚­‚ç‚¢‚Ì•p“x‚ÅÔ‚Ì®”õ‚ğó‚¯‚Ä‚¢‚Ü‚·‚©?	How often do you have your car serviced?		
 GU046S018	1	46	6_If and wish Passive	‚ ‚È‚½‚Ì”¯‚Í‘f“G‚Å‚·‚ËB ƒJƒbƒg‚µ‚Ä‚à‚ç‚Á‚½‚ñ‚Å‚·‚©H	Your hair looks nice. Did you have it cut?		
-GU046S019	1	46	6_If and wish Passive	„‚½‚¿‚Ì—×l‚ÍƒKƒŒ[ƒW‚ğŒš‚Ä‚Ä‚¢‚Ü‚·B	Our neighbour is having a garage built.		
+GU046S019	1	46	6_If and wish Passive	„‚½‚¿‚Ì—×l‚ÍƒKƒŒ[ƒW‚ğŒš‚Ä‚Ä‚à‚ç‚Á‚Ä‚¢‚Ü‚·B	Our neighbour is having a garage built.		
 GU046S020	1	46	6_If and wish Passive	„‚½‚¿‚Í”TŠÔ‘O‚É‰Æ‚Ì“h‘•‚ğ‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	We had the house painted a few weeks ago.		
 GU046S021	1	46	6_If and wish Passive	ƒTƒ‰‚Í”N‚Éˆê“xÔ‚Ì®”õ‚ğó‚¯‚Ä‚¢‚Ü‚·B	Sarah has her car serviced once a year.		
-GU046S022	1	46	6_If and wish Passive	ƒLƒbƒ`ƒ“‚ÉV‚µ‚¢HŠí’I‚ğæ‚è•t‚¯‚Ü‚µ‚½B	We've had some new cupboards fitted in the kitchen.		
-GU046S023	1	46	6_If and wish Passive	Å‹ß–Ú‚ÌŒŸ¸‚ğó‚¯‚Ü‚µ‚½‚©?	Have you had your eyes tested recently?		
-GU046S024	1	46	6_If and wish Passive	„‚Í”¯‚ğØ‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I don't like having my hair cut.		
-GU046S025	1	46	6_If and wish Passive	„‚ÌƒX[ƒc‚ğƒNƒŠ[ƒjƒ“ƒO‚Éo‚·‚Ì‚É12ƒ|ƒ“ƒh‚©‚©‚è‚Ü‚µ‚½B	It cost twelve pounds to have my suit cleaned.		
+GU046S022	1	46	6_If and wish Passive	‰äX‚Í‚¢‚­‚Â‚©‚ÌV‚µ‚¢HŠí’I‚ğƒLƒbƒ`ƒ“‚Éæ‚è•t‚¯‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	We've had some new cupboards fitted in the kitchen.		
+GU046S023	1	46	6_If and wish Passive	‚ ‚È‚½‚ÍÅ‹ß–Ú‚ğŒŸ¸‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½‚©?	Have you had your eyes tested recently?		
+GU046S024	1	46	6_If and wish Passive	„‚Í”¯‚ğØ‚Á‚Ä‚à‚ç‚¤‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I don't like having my hair cut.		
+GU046S025	1	46	6_If and wish Passive	„‚ÌƒX[ƒc‚ğ‘|œ‚µ‚Ä‚à‚ç‚¤‚Ì‚É12ƒ|ƒ“ƒh‚©‚©‚è‚Ü‚µ‚½B	It cost twelve pounds to have my suit cleaned.		
 GU046S026	1	46	6_If and wish Passive	©•ª‚Å”¯‚ğØ‚Á‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”¯‚ğØ‚Á‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	I didn't cut my hair myself. I had my hair cut.		
-GU046S027	1	46	6_If and wish Passive	„‚½‚¿‚ÍƒJ[ƒyƒbƒg‚ğ©•ª‚½‚¿‚Å‘|œ‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B „‚½‚¿‚ÍƒJ[ƒyƒbƒg‚ğ‘|œ‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	We didn't clean the carpets ourselves. We had the carpets cleaned.		
+GU046S027	1	46	6_If and wish Passive	„‚½‚¿‚ÍƒJ[ƒyƒbƒg(’B)‚ğ©•ª‚½‚¿‚Å‘|œ‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B „‚½‚¿‚ÍƒJ[ƒyƒbƒg(’B)‚ğ‘|œ‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	We didn't clean the carpets ourselves. We had the carpets cleaned.		
 GU046S028	1	46	6_If and wish Passive	ƒxƒ“‚Í©•ª‚Å•Ç‚ğŒš‚Ä‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”Ş‚Í•Ç‚ğŒš‚Ä‚³‚¹‚½B	Ben didn't build the wall himself. He had the wall built.		
-GU046S029	1	46	6_If and wish Passive	©•ª‚Å‰Ô‚ğ“Í‚¯‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚¨‰Ô‚ğ‚¨“Í‚¯‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B	I didn't deliver the flowers myself. I had the flowers delivered.		
+GU046S029	1	46	6_If and wish Passive	©•ª‚Å‰Ô‚ğ“Í‚¯‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í‚¨‰Ô‚ğ“Í‚¯‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	I didn't deliver the flowers myself. I had the flowers delivered.		
 GU046S030	1	46	6_If and wish Passive	ƒTƒ‰‚Í©•ª‚ÅŒC‚ğC—‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B ”Ş—‚ÍŒC‚ğC—‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	Sarah didn't repair her shoes herself. She had her shoes repaired.		
 GU046S031	1	46	6_If and wish Passive	‚¢‚Â‰®ª‚ğC—‚µ‚Ä‚à‚ç‚¢‚Ü‚·‚©H	When are you going to get the roof repaired?		
-GU046S032	1	46	6_If and wish Passive	”¯‚ğ–{“–‚É’Z‚­Ø‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	I think you should get your hair cut really short.		
-GU046S033	1	46	6_If and wish Passive	”¯‚ª’·‚­‚È‚Á‚Ä‚«‚Ü‚µ‚½B Ø‚Á‚Ä‚à‚ç‚¨‚¤‚©‚ÈB	My hair is getting long. I should get it cut.		
-GU046S034	1	46	6_If and wish Passive	Œ®‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ‚à‚¤ˆê‚Âì‚Á‚Ä‚à‚ç‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I've lost my key. I'll have to get another one made.		
+GU046S032	1	46	6_If and wish Passive	‚ ‚È‚½‚Í”¯‚ğ–{“–‚É’Z‚­Ø‚Á‚Ä‚à‚ç‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	I think you should get your hair cut really short.		
+GU046S033	1	46	6_If and wish Passive	„‚Ì”¯‚ª’·‚­‚È‚Á‚Ä‚«‚Ü‚µ‚½B „‚Í‚»‚ê‚ğØ‚Á‚Ä‚à‚ç‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	My hair is getting long. I should get it cut.		
+GU046S034	1	46	6_If and wish Passive	Œ®‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B „‚Í‚à‚¤ˆê‚Âì‚Á‚Ä‚à‚ç‚í‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Å‚µ‚å‚¤B	I've lost my key. I'll have to get another one made.		
 GU046S035	1	46	6_If and wish Passive	‚±‚ÌŠG‚ª–{“–‚ÉD‚«‚Å‚·B Šz‘•‚µ‚Ä‚à‚ç‚¤‚Â‚à‚è‚Å‚·B	I really like this picture. I'm going to get it framed.		
 GU046S036	1	46	6_If and wish Passive	ô‘ó‹@‚ª‰ó‚ê‚Ä‚¢‚Ü‚·B ’¼‚µ‚Ä‚à‚ç‚¤•K—v‚ª‚ ‚éB	The washing machine is broken. I need to get it fixed.		
 GU046S037	1	46	6_If and wish Passive	ƒCƒ„ƒŠƒ“ƒO‚ğ‚Â‚¯‚½‚¢‚Å‚·B ¨‚ÉƒsƒAƒX‚ğŠJ‚¯‚é‚Â‚à‚è‚Å‚·B	I want to wear earrings. I'm going to get my ears pierced.		
@@ -2674,4 +2674,376 @@ GU046S040	1	46	6_If and wish Passive	ƒQƒCƒŠ[‚ÍŒ–‰Ü‚Å•@‚ğœÜ‚µ‚½B	Gary had his
 GU046S041	1	46	6_If and wish Passive	ƒ}[ƒN‚ÍÅ‹ß‹­“‚É‘˜‚¢‚Ü‚µ‚½B ”Ş‚Íà•z‚ğ“‚Ü‚ê‚Ü‚µ‚½B	Mark was robbed recently. He had his wallet stolen.		
 GU046S042	1	46	6_If and wish Passive	‹ó`‚ÌŒx”õ‚Í‚Æ‚Ä‚àŒµd‚Å‚µ‚½B „‚½‚¿‚ÍŠFAƒoƒbƒO‚ğ’²‚×‚ç‚ê‚Ü‚µ‚½B	Security at the airport was very strict. We all had our bags searched.		
 GU046S043	1	46	6_If and wish Passive	”Ş‚ÍƒrƒU‚ğæ“¾‚Å‚«‚È‚¢B ”Ş‚Í\¿‚ğ‹‘”Û‚³‚ê‚½B	He can't get a visa. He had his application refused.		
-GU046S044	1	46	6_If and wish Passive	ƒAƒ“ƒi‚³‚ñ‚©‚ç—Ç‚¢’m‚ç‚¹‚ª‚ ‚è‚Ü‚µ‚½B ”Ş—‚Í‹‹—¿‚ª‘‚¦‚Ü‚µ‚½B	Anna's had some good news. She's had her salary increased.		
+GU046S044	1	46	6_If and wish Passive	ƒAƒ“ƒi‚Í‚¢‚­‚Â‚©—Ç‚¢’m‚ç‚¹‚ğ‚Á‚Ä‚¢‚Ü‚·B ”Ş—‚Í‹‹—¿‚ª‘‚¦‚Ä‚¢‚Ü‚µ‚½B	Anna's had some good news. She's had her salary increased.		
+GU047S001	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Íu‹C•ª‚ªˆ«‚¢v‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Paul said, 'I'm feeling ill.'"		
+GU047S002	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Í‹C•ª‚ªˆ«‚¢‚ÆŒ¾‚Á‚½B	Paul said that he was feeling ill.		
+GU047S003	1	47	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í‰w‚Ü‚Å•à‚­‚É‚Í‰“‚·‚¬‚é‚ÆŒ¾‚Á‚½B	She said that it was too far to walk to the station.		
+GU047S004	1	47	7_Reported speech Questions and auxiliary verbs	—¼e‚Í“ñl‚Æ‚àŒ³‹C‚¾‚Æ”Ş‚ÍŒ¾‚Á‚½B	He said that his parents were both well.		
+GU047S005	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚ÍŒx”õˆõ‚Æ‚µ‚Ä“­‚¢‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said that he was working as a security guard.		
+GU047S006	1	47	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í‚¨• ‚ª‹ó‚¢‚Ä‚¢‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	She said that she wasn't hungry.		
+GU047S007	1	47	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í©•ª‚Ìd–‚ª‘Ş‹ü‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	She said that her job was boring.		
+GU047S008	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚Í‚»‚Ì‡‚Ìƒ`ƒPƒbƒg‚Íc‚Á‚Ä‚¢‚È‚¢‚ÆŒ¾‚Á‚½B	He said that there weren't any tickets left for the game.		
+GU047S009	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Í‹C•ª‚ªˆ«‚¢‚ÆŒ¾‚Á‚½B	Paul said that he was feeling ill.		
+GU047S010	1	47	7_Reported speech Questions and auxiliary verbs	„‚ÍƒŠƒT‚É‚¨‹à‚ª‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	I told Lisa that I didn't have any money.		
+GU047S011	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Í‹C•ª‚ªˆ«‚¢‚ÆŒ¾‚Á‚½B	Paul said that he was feeling ill.	Paul said he was feeling ill.	
+GU047S012	1	47	7_Reported speech Questions and auxiliary verbs	Œg‘Ñ“d˜b‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	I've lost my phone.		
+GU047S013	1	47	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚ÍŒg‘Ñ“d˜b‚ğ‚È‚­‚µ‚½‚ÆŒ¾‚Á‚½B	Anna said she'd lost her phone.		
+GU047S014	1	47	7_Reported speech Questions and auxiliary verbs	„‚ÍƒXƒyƒCƒ“Œê‚ğ­‚µ˜b‚¹‚Ü‚·B	I can speak a little Spanish.		
+GU047S015	1	47	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚ÍƒXƒyƒCƒ“Œê‚ğ­‚µ˜b‚¹‚é‚ÆŒ¾‚Á‚½B	Anna said she could speak a little Spanish.		
+GU047S016	1	47	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚ªD‚«‚Å‚·B	I like Tom.		
+GU047S017	1	47	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚Íƒgƒ€‚ªD‚«‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	Anna said she liked Tom.		
+GU047S018	1	47	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í„‚Ì‚±‚Æ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Tom doesn?t like me.		
+GU047S019	1	47	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚Íƒgƒ€‚ª”Ş—‚ğD‚«‚Å‚Í‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	Anna said Tom didn't like her.		
+GU047S020	1	47	7_Reported speech Questions and auxiliary verbs	”“úŠÔo‚©‚¯‚é—\’è‚Å‚·B –ß‚Á‚½‚ç“d˜b‚µ‚Ü‚·B	I'm going away for a few days. l'Il call you when I get back.		
+GU047S021	1	47	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚Í”“úŠÔ—·s‚·‚é‚Ì‚Å–ß‚Á‚½‚ç„‚É“d˜b‚·‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	Anna said she was going away for a few days and would call me when she got back.		
+GU047S022	1	47	7_Reported speech Questions and auxiliary verbs	ƒXƒeƒB[ƒu‚Íƒƒ“ƒhƒ“‚ÉZ‚ñ‚Å‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	Steve said that he was living in London.		
+GU047S023	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚ÍƒŒƒCƒ`ƒFƒ‹‚Æƒ}[ƒN‚ª‚à‚¤‚·‚®Œ‹¥‚·‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said Rachel and Mark were getting married soon.		
+GU047S024	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚ÍƒWƒ‡[‚ª‰½‚ğ‚µ‚Ä‚¢‚é‚Ì‚©•ª‚©‚ç‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said that he didn't know what Joe was doing.		
+GU047S025	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚Í–…‚ÉÔ‚¿‚á‚ñ‚ª¶‚Ü‚ê‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said his sister had had a baby.		
+GU047S026	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚Í•ƒe‚Ì‘Ì’²‚ª‚ ‚Ü‚è—Ç‚­‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said that his father wasn't very well.		
+GU047S027	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚ÍÅ‹ßƒgƒŒƒCƒV[‚É‰ï‚Á‚Ä‚¢‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said he hadn't seen Tracy recently.		
+GU047S028	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚Í‹x‰É‚És‚«‚½‚©‚Á‚½‚ªA‚»‚ñ‚È—]—T‚ª‚È‚©‚Á‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B	He said that he wanted to go on holiday but he couldn't afford it.		
+GU047S029	1	47	7_Reported speech Questions and auxiliary verbs	”Ş‚ÍA‚¢‚Â‚©„‚É“d˜b‚·‚é‚ÆŒ¾‚Á‚½B	He said he would give me a call sometime.		
+GU047S030	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Íu’©‹N‚«‚½‚ç‹C•ª‚ªˆ«‚©‚Á‚½‚Ì‚ÅAd–‚És‚«‚Ü‚¹‚ñ‚Å‚µ‚½Bv‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Paul said: 'I woke up feeling ill, so I didn't go to work.'"		
+GU047S031	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚ÍA–Ú‚ªŠo‚ß‚é‚Æ‹C•ª‚ªˆ«‚©‚Á‚½‚Ì‚ÅAd–‚És‚©‚È‚©‚Á‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Paul said that he woke up feeling ill, so he didn't go to work."		
+GU047S032	1	47	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚ÍA–Ú‚ªŠo‚ß‚é‚Æ‹C•ª‚ªˆ«‚©‚Á‚½‚Ì‚Åd–‚És‚©‚È‚©‚Á‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Paul said that he had woken up feeling ill, so he hadn't gone to work."		
+GU047S033	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚Í•ÛŒ¯‰ïĞ‚Å“­‚¢‚Ä‚¢‚Ü‚·B ‚ ‚È‚½F–{“–‚Å‚·‚©H ”Ş‚ÍƒX[ƒp[ƒ}[ƒPƒbƒg‚Å“­‚¢‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	AMY: Tom works for an insurance company. YOU: Are you sure? He told me he worked in a supermarket.		
+GU047S034	1	47	7_Reported speech Questions and auxiliary verbs	AMY: ƒzƒeƒ‹‚©‚ç‰w‚Ü‚Å‚Í‚©‚È‚è‰“‚¢‚Å‚·B ‚ ‚È‚½F‚»‚¤‚Å‚·‚©H ƒgƒ€‚Í‚»‚±‚Ü‚Å•à‚¢‚Ä5•ª‚µ‚©‚©‚©‚ç‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	AMY: It's quite a long way from the hotel to the station. YOU: Is it? Tom said it was only five minutes' walk.		
+GU047S035	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒTƒ‰‚Íƒ|[ƒ‹‚Æ’‡—Ç‚­‚â‚Á‚Ä‚Ü‚·B ‚ ‚È‚½F‚»‚ê‚Íƒgƒ€‚Ìl‚¦‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”Ş‚ÍA”Ş‚ç‚Í‚¨Œİ‚¢‚É‰ä–‚Å‚«‚È‚¢‚ÆŒ¾‚Á‚½B	AMY: Sarah gets on fine with Paul. YOU: That's not what Tom thinks. He said they couldn't stand one another.		
+GU047S036	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚©‚ç˜A—‚ª‚ ‚è‚Ü‚¹‚ñB ‚ ‚È‚½F‚»‚¤‚Å‚µ‚å‚¤H ”Ş‚Í‚ ‚È‚½‚É“d˜b‚·‚é‚ÆŒ¾‚Á‚½B	AMY: Tom hasn't contacted me. YOU: Hasn't he? He said he would call you.		
+GU047S037	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚Í‘¼‚ÌŒ¾Œê‚ğ˜b‚·‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB ‚ ‚È‚½F–{“–‚Å‚·‚©H ”Ş‚ÍƒXƒyƒCƒ“Œê‚ğ˜b‚¹‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	AMY: Tom can't speak any other languages. YOU: Are you sure? He told me he could speak Spanish.		
+GU047S038	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚Í‹x‰É‚ÅƒCƒ^ƒŠƒA‚És‚«‚Ü‚µ‚½B ‚ ‚È‚½FƒCƒ^ƒŠƒAH ”Ş‚Íƒtƒ‰ƒ“ƒX‚És‚Á‚½‚ÆŒ¾‚Á‚½B	AMY: Tom went to Italy for a holiday. YOU: Italy? He told me he went to France.		
+GU047S039	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚Æˆê‚Éƒtƒbƒgƒ{[ƒ‹‚Ì‡‚ğŒ©‚És‚«‚Ü‚µ‚½B ‚ ‚È‚½Fƒgƒ€‚Íƒtƒbƒgƒ{[ƒ‹‚Ì‡‚És‚«‚Ü‚µ‚½‚©H ”Ş‚Íƒtƒbƒgƒ{[ƒ‹‚ªD‚«‚Å‚Í‚È‚¢‚ÆŒ¾‚Á‚½B	AMY: I went to a football match with Tom. YOU: Tom went to a football match? He told me he didn't like football.		
+GU047S040	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[: ƒgƒ€‚Íƒp[ƒeƒB[‚É—ˆ‚Ü‚¹‚ñ‚Å‚µ‚½B ‚È‚º‚¾‚ë‚¤B ‚ ‚È‚½F”Ş‚Íµ‘Ò‚³‚ê‚Ä‚¢‚È‚¢‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚µ‚½B	AMY: Tom didn't come to the party. I wonder why. YOU: He told me he hadn't been invited.		
+GU047S041	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[Fƒgƒ€‚É‚ÍÅ‹ß‰ï‚Á‚Ä‚¢‚È‚¢‚ñ‚Å‚·B ‚ ‚È‚½F‚»‚ê‚Í•sv‹c‚Å‚·‚ËB ”Ş‚ÍæT––‚ ‚È‚½‚É‰ï‚Á‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B	AMY: I haven't seen Tom recently. YOU: That's strange. He told me he saw you last weekend.		
+GU047S042	1	47	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[Fƒgƒ€‚Í„‚Ì‚±‚Æ‚ğD‚«‚¶‚á‚È‚¢‚Æv‚¤‚æB ‚ ‚È‚½F‚Í‚¢A‚»‚¤‚Å‚·‚æI ”Ş‚Í‚ ‚È‚½‚Í‚Æ‚Ä‚àeØ‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	"AMY: I don't think Tom likes me. YOU: Yes, he does! He said you were very nice."		
+GU048S001	1	48	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Íu„‚ÌV‚µ‚¢d–‚Í‘Ş‹ü‚¾v‚ÆŒ¾‚Á‚½B	"Paul said, 'My new job is boring.'"		
+GU048S002	1	48	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Í”Ş‚ÌV‚µ‚¢d–‚Í‘Ş‹ü‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	Paul said that his new job is boring.		
+GU048S003	1	48	7_Reported speech Questions and auxiliary verbs	ƒwƒŒƒ“‚Íu—ˆ”NƒJƒiƒ_‚És‚«‚½‚¢‚Å‚·v‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Helen said, 'I want to go to Canada next year.'"		
+GU048S004	1	48	7_Reported speech Questions and auxiliary verbs	ƒwƒŒƒ“‚Í„‚ÉA—ˆ”NƒJƒiƒ_‚És‚«‚½‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	Helen told me that she wants to go to Canada next year.		
+GU048S005	1	48	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚ÍV‚µ‚¢d–‚Í‘Ş‹ü‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	Paul said that his new job was boring.		
+GU048S006	1	48	7_Reported speech Questions and auxiliary verbs	ƒwƒŒƒ“‚Í„‚ÉA—ˆ”NƒJƒiƒ_‚És‚«‚½‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	Helen told me that she wanted to go to Canada next year.		
+GU048S007	1	48	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Íus‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñv‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Paul said, 'I have to go.'"		
+GU048S008	1	48	7_Reported speech Questions and auxiliary verbs	ƒ|[ƒ‹‚Í“Ë‘RƒIƒtƒBƒX‚ğ‹‚è‚Ü‚µ‚½B ”Ş‚Ís‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ÆŒ¾‚Á‚½B	Paul left the office suddenly. He said he had to go.		
+GU048S009	1	48	7_Reported speech Questions and auxiliary verbs	ƒXƒeƒB[ƒu‚Í–¾“ú‚Í‰ï‚¦‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B ”Ş‚Í’x‚­‚Ü‚Å“­‚©‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ„‚ÉŒ¾‚¢‚Ü‚µ‚½B	Steve said he can't meet us tomorrow. He told me he has to work late.		
+GU048S010	1	48	7_Reported speech Questions and auxiliary verbs	„‚Ì—Fl‚ªÅ‹ß‚±‚ÌƒŒƒXƒgƒ‰ƒ“‚ÅH–‚ğ‚µ‚Ü‚µ‚½B ”Ş—‚ÍH‚×•¨‚ª‚Æ‚Ä‚à‚¨‚¢‚µ‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	A friend of mine ate at this restaurant recently. She said the food is very good.		
+GU048S011	1	48	7_Reported speech Questions and auxiliary verbs	„‚Íƒxƒ“‚É”Ş‚ÌŒv‰æ‚É‚Â‚¢‚Äq‚Ë‚Ü‚µ‚½B ”Ş‚ÍƒpƒCƒƒbƒg‚É‚È‚é‚½‚ß‚ÉŒP—û‚µ‚½‚¢‚Æ„‚ÉŒ¾‚¢‚Ü‚µ‚½B	I asked Ben about his plans. He told me he wants to train to be a pilot.		
+GU048S012	1	48	7_Reported speech Questions and auxiliary verbs	ƒxƒbƒL[‚³‚ñ‚Í‚Æ‚Ä‚àS”z‚µ‚Ä‚¢‚Ü‚·B ”Ş—‚Í‰½‚ğ‚·‚ê‚Î‚¢‚¢‚Ì‚©•ª‚©‚ç‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	Becky is very worried. She said she doesn't know what to do.		
+GU048S013	1	48	7_Reported speech Questions and auxiliary verbs	‰w‚©‚çƒ^ƒNƒV[‚Éæ‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB ƒAƒ“ƒi‚Í„‚½‚¿‚É‰ï‚¦‚é‚ÆŒ¾‚Á‚½B	We won't need to take a taxi from the station. Anna said she'll meet us.		
+GU048S014	1	48	7_Reported speech Questions and auxiliary verbs	„‚Íƒ|[ƒ‹‚É”Ş‚ÌV‚µ‚¢ƒIƒtƒBƒX‚É‚Â‚¢‚Äq‚Ë‚Ü‚µ‚½B ”Ş‚ÍAŒÃ‚¢‚à‚Ì‚æ‚è‚à‚Í‚é‚©‚É—D‚ê‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	I asked Paul about his new office. He told me it's much better than his old one.		
+GU048S015	1	48	7_Reported speech Questions and auxiliary verbs	•·‚¢‚Ä‚Ü‚·‚©H ƒWƒ‡[‚Í“ü‰@‚µ‚Ä‚¢‚Ü‚·B	Have you heard? Joe is in hospital.		
+GU048S016	1	48	7_Reported speech Questions and auxiliary verbs	‚±‚ñ‚É‚¿‚ÍAƒWƒ‡[I ‚ ‚È‚½‚É‰ï‚¦‚é‚Æ‚Ív‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B ƒ\ƒjƒA‚Í‚ ‚È‚½‚ª“ü‰@‚µ‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	Hi Joe! I didn't expect to see you. Sonia said you were in hospital.		
+GU048S017	1	48	7_Reported speech Questions and auxiliary verbs	ƒ\ƒjƒA‚Í‚ ‚È‚½‚ª“ü‰@‚µ‚Ä‚¢‚é‚Æ„‚ÉŒ¾‚¢‚Ü‚µ‚½B	Sonia told me that you were in hospital.		
+GU048S018	1	48	7_Reported speech Questions and auxiliary verbs	Œx@‚É‚Í‰½‚ÄŒ¾‚¢‚Ü‚µ‚½‚©H	What did you tell the police?		
+GU048S019	1	48	7_Reported speech Questions and auxiliary verbs	ƒ\ƒjƒA‚Í‚ ‚È‚½‚ª“ü‰@‚µ‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	Sonia said that you were in hospital.		
+GU048S020	1	48	7_Reported speech Questions and auxiliary verbs	‰½‚Á‚ÄŒ¾‚Á‚½‚ÌH	What did you say?		
+GU048S021	1	48	7_Reported speech Questions and auxiliary verbs	ƒAƒ“‚Í„‚É•Ê‚ê‚ğ‚°‚Ä‹‚Á‚Ä‚¢‚«‚Ü‚µ‚½B	Ann said goodbye to me and left.		
+GU048S022	1	48	7_Reported speech Questions and auxiliary verbs	Œx@‚É‚Í‰½‚ÄŒ¾‚¢‚Ü‚µ‚½‚©H	What did you say to the police?		
+GU048S023	1	48	7_Reported speech Questions and auxiliary verbs	ƒ_ƒ“‚Í„‚ÉA©•ª‚Ìd–‚É‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½B	Dan told me that he was bored with his job.		
+GU048S024	1	48	7_Reported speech Questions and auxiliary verbs	‚½‚¾‚»‚±‚É—§‚Á‚Ä‚¢‚È‚¢‚Å‚­‚¾‚³‚¢I ‰½‚©Œ¾‚Á‚ÄB	Don't just stand there! Say something.		
+GU048S025	1	48	7_Reported speech Questions and auxiliary verbs	ƒX[‚Í‚Ç‚±‚É‚¢‚é‚Ì‚¾‚ë‚¤‚©B ”Ş—‚Í8‚É‚±‚±‚É—ˆ‚é‚ÆŒ¾‚Á‚½B	I wonder where Sue is. She said she would be here at 8 o'clock.		
+GU048S026	1	48	7_Reported speech Questions and auxiliary verbs	‚±‚ê‚Í”é–§‚Å‚·B ’N‚É‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B	This is a secret. Please don't tell anybody.		
+GU048S027	1	48	7_Reported speech Questions and auxiliary verbs	ˆãÒ‚Í­‚È‚­‚Æ‚àˆêTŠÔ‚Í‹x‚Ş‚×‚«‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	The doctor said that I should rest for at least a week.		
+GU048S028	1	48	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Ì‹x‰É‚É‚Â‚¢‚Ä‹³‚¦‚Ä‚­‚¾‚³‚¢B —Ç‚¢ŠÔ‚ğ‚¨‰ß‚²‚µ‚Å‚«‚Ü‚µ‚½‚©H	Tell us about your holiday. Did you have a nice time?		
+GU048S029	1	48	7_Reported speech Questions and auxiliary verbs	‰½‚ª‹N‚±‚Á‚½‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB ƒeƒBƒi‚Í„‚É‰½‚àŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	I don't know what happened. Tina didn't say anything to me.		
+GU048S030	1	48	7_Reported speech Questions and auxiliary verbs	ƒeƒBƒi‚Í‚ ‚È‚½‚Æ˜b‚µ‚Ü‚µ‚½‚©H ”Ş—‚Í‰½‚ª‹N‚±‚Á‚½‚Ì‚©˜b‚µ‚Ü‚µ‚½‚©H	Did Tina talk to you? Did she tell you what happened?		
+GU048S031	1	48	7_Reported speech Questions and auxiliary verbs	u…‚ğ‚½‚­‚³‚ñˆù‚İ‚È‚³‚¢v‚ÆˆãÒ‚Í„‚ÉŒ¾‚Á‚½B	"'Drink plenty of water,' the doctor said to me."		
+GU048S032	1	48	7_Reported speech Questions and auxiliary verbs	ˆãÒ‚Í„‚É…‚ğ‚½‚­‚³‚ñˆù‚Ş‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	The doctor told me to drink plenty of water.		
+GU048S033	1	48	7_Reported speech Questions and auxiliary verbs	u‚ ‚Ü‚èŠæ’£‚è‚·‚¬‚È‚¢‚Å‚Ëv‚Æ„‚ÍƒWƒ‡[‚ÉŒ¾‚¢‚Ü‚µ‚½B	"'Don't work too hard,' I said to Joe."		
+GU048S034	1	48	7_Reported speech Questions and auxiliary verbs	„‚ÍƒWƒ‡[‚ÉŠæ’£‚è‚·‚¬‚È‚¢‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	I told Joe not to work too hard.		
+GU048S035	1	48	7_Reported speech Questions and auxiliary verbs	u•‚¯‚Ä‚à‚ç‚¦‚Ü‚¹‚ñ‚©Hv ƒWƒƒƒbƒL[‚Í„‚ÉŒ¾‚¢‚Ü‚µ‚½B	"'Can you help me, please?' Jackie said to me."		
+GU048S036	1	48	7_Reported speech Questions and auxiliary verbs	ƒWƒƒƒbƒL[‚Í„‚É”Ş—‚ğ•‚¯‚Ä‚­‚ê‚é‚æ‚¤‚É—Š‚ñ‚¾B	Jackie asked me to help her.		
+GU048S037	1	48	7_Reported speech Questions and auxiliary verbs	ƒpƒEƒ‚Í©•ª‚Ì‚±‚Æ‚ÍS”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	Paul said not to worry about him.		
+GU048S038	1	48	7_Reported speech Questions and auxiliary verbs	ƒEƒBƒ‹‚Í€”õ‚ÉŠÔ‚ª‚©‚©‚Á‚Ä‚¢‚½‚Ì‚ÅA‘‚­‚·‚é‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	"Will was taking a long time to get ready, so I told him to hurry up."		
+GU048S039	1	48	7_Reported speech Questions and auxiliary verbs	ƒTƒ‰‚Í‰^“]‘¬“x‚ª‘¬‚·‚¬‚½‚Ì‚ÅA„‚Í”Ş—‚É‘¬“x‚ğ—‚Æ‚·‚æ‚¤‚É—Š‚İ‚Ü‚µ‚½B	"Sarah was driving too fast, so I asked her to slow down."		
+GU048S040	1	48	7_Reported speech Questions and auxiliary verbs	ƒX[‚Í‚±‚Ìó‹µ‚É•sˆÀ‚ğŠ´‚¶‚Ä‚¢‚Ü‚µ‚½B „‚Í”Ş—‚ÉS”z‚µ‚È‚¢‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	Sue was nervous about the situation. I told her not to worry.		
+GU048S041	1	48	7_Reported speech Questions and auxiliary verbs	„ˆêl‚Å‚ÍƒsƒAƒm‚ğ“®‚©‚·‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½‚Ì‚ÅAƒgƒ€‚Éè‚ğ‘İ‚µ‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	"I couldn't move the piano alone, so I asked Tom to give me a hand."		
+GU048S042	1	48	7_Reported speech Questions and auxiliary verbs	Œx”õˆõ‚Í„‚ğ‰öæb‚»‚¤‚È–Ú‚ÅŒ©‚ÄAƒJƒoƒ“‚ğŠJ‚¯‚é‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	The security guard looked at me suspiciously and asked me to open my bag.		
+GU048S043	1	48	7_Reported speech Questions and auxiliary verbs	ƒWƒ‡ƒ“‚Íƒ}ƒhƒŒ[ƒk‚É—ö‚ğ‚µ‚Ä‚¢‚½‚Ì‚ÅA”Ş—‚ÉŒ‹¥‚µ‚Ä‚Ù‚µ‚¢‚Æ—Š‚İ‚Ü‚µ‚½B	"John was in love with Madeleine, so he asked her to marry him."		
+GU048S044	1	48	7_Reported speech Questions and auxiliary verbs	„‚ÍƒwƒŒƒ“‚ğ’x‚ç‚¹‚½‚­‚È‚©‚Á‚½‚Ì‚ÅA’x‚ê‚Ä‚à‘Ò‚½‚È‚¢‚Å‚­‚¾‚³‚¢‚Æ”Ş—‚ÉŒ¾‚¢‚Ü‚µ‚½B	"I didn't want to delay Helen, so I told her not to wait for me if I was late."		
+GU048S045	1	48	7_Reported speech Questions and auxiliary verbs	‚»‚Ì’j«‚Í„‚ÉŒÂl“I‚È¿–â‚ğ‚µn‚ß‚½‚Ì‚ÅA„‚Í”Ş‚É©•ª‚Ì‚±‚Æ‚Í‹C‚É‚·‚é‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	"The man started asking me personal questions, so I told him to mind his own business."		
+GU049S001	1	49	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í–¾“ú‚±‚±‚É—ˆ‚Ü‚·‚©H	Will Tom be here tomorrow?		
+GU049S002	1	49	7_Reported speech Questions and auxiliary verbs	Šæ’£‚Á‚Ä‚«‚Ü‚µ‚½‚©H	Have you been working hard?		
+GU049S003	1	49	7_Reported speech Questions and auxiliary verbs	‚»‚Ì‰Æ‚Í‚¢‚ÂŒš‚Ä‚ç‚ê‚Ü‚µ‚½‚©?	When was the house built?		
+GU049S004	1	49	7_Reported speech Questions and auxiliary verbs	ƒLƒƒƒTƒŠƒ“‚Í¡“úd–‚µ‚Ä‚¢‚Ü‚·‚©?	Is Katherine working today?		
+GU049S005	1	49	7_Reported speech Questions and auxiliary verbs	A: ¡–éo‚©‚¯‚é‚ñ‚Å‚·‚©H B: ‚¢‚¢‚¦A‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚Ü‚·B	"A: Are you going out tonight? B: No, I'm too tired."		
+GU049S006	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒ`[ƒY‚Í‚Ç‚Ì‚æ‚¤‚Éì‚ç‚ê‚é‚Ì‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñ‚ªA‹“û‚©‚ç‚Å‚«‚Ä‚¢‚Ü‚·B	"A: How is cheese made? B: I don't know, but it's made from milk."		
+GU049S007	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚Ì—¼e‚Í‚Ç‚±‚Å¶‚Ü‚ê‚Ü‚µ‚½‚©? B: ƒƒ“ƒhƒ“‚Å‚·B	A: Where were your parents born? B: In London.		
+GU049S008	1	49	7_Reported speech Questions and auxiliary verbs	A: †‚Í‚¢‚Â”­–¾‚³‚ê‚Ü‚µ‚½‚©? B: –ñ 2000 ”N‘O‚Å‚·B	A: When was paper invented? B: About two thousand years ago.		
+GU049S009	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰½ƒ–‘Œê‚ğ˜b‚¹‚Ü‚·‚©? B: ‰pŒê‚Ì‚İ‚Å‚·B	A: How many languages can you speak? B: Only English.		
+GU049S010	1	49	7_Reported speech Questions and auxiliary verbs	A: ¡’©‚ÍŒğ’Ê—Ê‚ª‘½‚©‚Á‚½‚Å‚·‚©? B: ‚Í‚¢Ad–‚És‚­‚Ü‚Å‚É’·‚¢ŠÔ‚ª‚©‚©‚è‚Ü‚µ‚½B	"A: Was there a lot of traffic this morning? B: Yes, it took a long time to get to work."		
+GU049S011	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰ï‹c‚Í‚È‚ºƒLƒƒƒ“ƒZƒ‹‚³‚ê‚½‚Ì‚Å‚·‚©? B: —ˆ‚ç‚ê‚È‚©‚Á‚½l‚à‚¢‚½‚©‚çB	A: Why was the meeting cancelled? B: Because some people couldn't come.		
+GU049S012	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚±‚Ì‰Æ‚É’·‚­Z‚ñ‚Å‚¢‚Ü‚·‚©? B: 10”N‚­‚ç‚¢‚Å‚·‚ËB	A: Have you lived in this house a long time? B: About ten years.		
+GU049S013	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒhƒA‚ğŠJ‚¯‚Ä‚à‚ç‚¦‚Ü‚¹‚ñ‚©H B: ‚Í‚¢A‚à‚¿‚ë‚ñ‚Å‚·B	"A: Could you open the door for me? B: Yes, of course."		
+GU049S014	1	49	7_Reported speech Questions and auxiliary verbs	A: –¾“ú‚Ì’©‚Í‰Æ‚É‚¢‚Ü‚·‚©H B: ‚¢‚¢‚¦Ad–‚És‚«‚Ü‚·B	"A: Will you be at home tomorrow morning? B: No, I'll be at work."		
+GU049S015	1	49	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Í‚±‚Ì‹ß‚­‚É‚¨Z‚Ü‚¢‚Å‚·‚©H	Do you live near here?		
+GU049S016	1	49	7_Reported speech Questions and auxiliary verbs	‰f‰æ‚Í‰½‚Én‚Ü‚è‚Ü‚·‚©?	What time does the film start?		
+GU049S017	1	49	7_Reported speech Questions and auxiliary verbs	Ô‚ğ”„‚è‚Ü‚µ‚½‚©H	Did you sell your car?		
+GU049S018	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚º“dÔ‚ª~‚Ü‚Á‚½‚Ì‚Å‚·‚©H	Why did the train stop?		
+GU049S019	1	49	7_Reported speech Questions and auxiliary verbs	A: ‹›‰î—Ş‚ÍH‚×‚Ü‚·‚©? B: ‚¢‚¢‚¦AD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"A: Do you eat seafood? B: No, I don't like it."		
+GU049S020	1	49	7_Reported speech Questions and auxiliary verbs	A: Œ®‚ğ‚Ç‚±‚É’u‚«‚Ü‚µ‚½‚©? B: ‚ ‚È‚½‚ÌŠ÷‚Ìã‚É‚ ‚è‚Ü‚·‚æB	A: Where did I put my keys? B: They're on your desk.		
+GU049S021	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰w‚Ü‚Å•à‚­‚Ì‚É‚Ç‚ê‚­‚ç‚¢‚©‚©‚è‚Ü‚·‚©? B: 20•ª‚­‚ç‚¢‚Å‚·B	A: How long does it take to walk to the station? B: About 20 minutes.		
+GU049S022	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒp[ƒeƒB[‚ÍŠy‚µ‚©‚Á‚½‚Å‚·‚©? B: ‚Í‚¢AŠy‚µ‚©‚Á‚½‚Å‚·B	"A: Did you enjoy the party? B: Yes, it was fun."		
+GU049S023	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚¢‚Â‚à‚Ç‚¤‚â‚Á‚Ä’Ê‹Î‚µ‚Ä‚¢‚Ü‚·‚©? B: •à‚«‚Ü‚·B	A: How do you usually travel to work? B: I walk.		
+GU049S024	1	49	7_Reported speech Questions and auxiliary verbs	A: æT––‚Í‰½‚ğ‚µ‚Ü‚µ‚½‚©? B: “Á‚É‰½‚à‚ ‚è‚Ü‚¹‚ñB	A: What did you do last weekend? B: Nothing special.		
+GU049S025	1	49	7_Reported speech Questions and auxiliary verbs	A: ğ“ú‚Í‰J‚ª~‚è‚Ü‚µ‚½‚©? B: ‚¢‚¢‚¦A‚¢‚¢ˆê“ú‚Å‚µ‚½B	"A: Did it rain yesterday? B: No, it was a nice day."		
+GU049S026	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒQƒCƒŠ[‚Í‚æ‚­•¶‹å‚ğŒ¾‚¢‚Ü‚·‚©? B: ‚Í‚¢A”Ş‚ÍŒˆ‚µ‚Ä–‘«‚µ‚Ä‚¢‚Ü‚¹‚ñB	"A: Does Gary complain a lot? B: Yes, he's never satisfied."		
+GU049S027	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚Ç‚±‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚©? B: ƒ}ƒ“ƒ`ƒFƒXƒ^[‚Å‚·B	A: Where do you live? B: In Manchester.		
+GU049S028	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚»‚±‚Å¶‚Ü‚ê‚½‚ñ‚Å‚·‚©H B: ‚¢‚¢‚¦A„‚Íƒƒ“ƒhƒ“‚Å¶‚Ü‚ê‚Ü‚µ‚½B	"A: Were you born there? B: No, I was born in London."		
+GU049S029	1	49	7_Reported speech Questions and auxiliary verbs	A: Œ‹¥‚µ‚Ä‚¢‚Ü‚·‚©H B: ‚Í‚¢B	A: Are you married? B: Yes.		
+GU049S030	1	49	7_Reported speech Questions and auxiliary verbs	A: Œ‹¥‚µ‚Ä‚Ç‚Ì‚­‚ç‚¢‚Å‚·‚©? B: 17”N‚Å‚·B	A: How long have you been married? B: 17 years.		
+GU049S031	1	49	7_Reported speech Questions and auxiliary verbs	AFq‹Ÿ‚Í‚¢‚Ü‚·‚©H B: ‚Í‚¢A’j‚Ìq‚ª 2 l‚Å‚·B	"A: Do you have children? B: Yes, two boys."		
+GU049S032	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş‚ç‚Í‰½Î‚Å‚·‚©? B: 12 ‚Æ 15B	A: How old are they? B: 12 and 15.		
+GU049S033	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰½‚ğ‚µ‚Ü‚·‚©? B: „‚ÍƒWƒƒ[ƒiƒŠƒXƒg‚Å‚·B	A: What do you do? B: I'm a journalist.		
+GU049S034	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚ÌÈ‚Í‰½‚ğ‚µ‚Ä‚¢‚Ü‚·‚©? B: ”Ş—‚ÍˆãÒ‚Å‚·B	A: What does your wife do? B: She's a doctor.		
+GU049S035	1	49	7_Reported speech Questions and auxiliary verbs	‰½‚©H‚×‚½‚¢l‚Í‚¢‚Ü‚·‚©H	Who wants something to eat?		
+GU049S036	1	49	7_Reported speech Questions and auxiliary verbs	‚Ç‚¤‚µ‚½‚ÌH	What happened?		
+GU049S037	1	49	7_Reported speech Questions and auxiliary verbs	’N‚©‚ªƒGƒ}‚É“d˜b‚µ‚Ü‚µ‚½B	Somebody phoned Emma.		
+GU049S038	1	49	7_Reported speech Questions and auxiliary verbs	ƒGƒ}‚É“d˜b‚µ‚½‚Ì‚Í’N‚Å‚·‚©?	Who phoned Emma?		
+GU049S039	1	49	7_Reported speech Questions and auxiliary verbs	ƒGƒ}‚Í’N‚©‚É“d˜b‚µ‚Ü‚µ‚½B	Emma phoned somebody.		
+GU049S040	1	49	7_Reported speech Questions and auxiliary verbs	ƒGƒ}‚Í’N‚É“d˜b‚ğ‚©‚¯‚Ü‚µ‚½‚©?	Who did Emma phone?		
+GU049S041	1	49	7_Reported speech Questions and auxiliary verbs	‰½l‚ªƒp[ƒeƒB[‚É—ˆ‚Ü‚µ‚½‚©B	How many people came to the party?		
+GU049S042	1	49	7_Reported speech Questions and auxiliary verbs	‰½l‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚©?	How many people did you invite to the party?		
+GU049S043	1	49	7_Reported speech Questions and auxiliary verbs	‚Ç‚ÌƒoƒX‚ª’†S•”‚Ös‚«‚Ü‚·‚©?	Which bus goes to the centre?		
+GU049S044	1	49	7_Reported speech Questions and auxiliary verbs	‚Ç‚ÌƒoƒX‚Éæ‚è‚Ü‚µ‚½‚©?	Which bus did you take?		
+GU049S045	1	49	7_Reported speech Questions and auxiliary verbs	A: ’N‚©‚ª„‚ğ‰£‚è‚Ü‚µ‚½B B: ’N‚ª‚ ‚È‚½‚ğ‰£‚Á‚½‚Ì‚Å‚·‚©?	A: Somebody hit me. B: Who hit you?		
+GU049S046	1	49	7_Reported speech Questions and auxiliary verbs	A: l‚ğ‰£‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B B: ’N‚ğ‰£‚Á‚½‚ÌH	A: I hit somebody. B: Who did you hit?		
+GU049S047	1	49	7_Reported speech Questions and auxiliary verbs	A: ’N‚©‚ª¿‹‘‚ğx•¥‚¢‚Ü‚µ‚½B B: ¿‹‘‚Í’N‚ªx•¥‚¢‚Ü‚µ‚½‚©?	A: Somebody paid the bill. B: Who paid the bill?		
+GU049S048	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰½‚©‚ª‹N‚±‚è‚Ü‚µ‚½B B: ‰½‚ª‹N‚±‚Á‚½‚Ì‚Å‚·‚©?	A: Something happened. B: What happened?		
+GU049S049	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒ_ƒCƒAƒ“‚ª‰½‚©Œ¾‚¢‚Ü‚µ‚½B B: ”Ş—‚Í‰½‚ÆŒ¾‚Á‚½‚ñ‚Å‚·‚©?	A: Diane said something. B: What did she say?		
+GU049S050	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚Ì‰Æ‚É’N‚©‚ªZ‚ñ‚Å‚¢‚Ü‚·B B: ‚»‚±‚É‚Í’N‚ªZ‚ñ‚Å‚¢‚Ü‚·‚©?	A: Somebody lives in that house. B: Who lives there?		
+GU049S051	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚±‚ÌŒ¾—t‚É‚ÍˆÓ–¡‚ª‚ ‚è‚Ü‚·B B: ‚±‚ÌŒ¾—t‚Í‚Ç‚¤‚¢‚¤ˆÓ–¡‚Å‚·‚©?	A: This word means something. B: What does this word mean?		
+GU049S052	1	49	7_Reported speech Questions and auxiliary verbs	’N‚Æ˜b‚µ‚½‚¢‚Å‚·‚©?	Who do you want to speak to?		
+GU049S053	1	49	7_Reported speech Questions and auxiliary verbs	“V‹C‚Í‚Ç‚¤‚Å‚µ‚½‚©H	What was the weather like?		
+GU049S054	1	49	7_Reported speech Questions and auxiliary verbs	ƒeƒBƒi‚Í‚Ç‚Ìd–‚É‰•å‚µ‚Ü‚µ‚½‚©?	Which job has Tina applied for?		
+GU049S055	1	49	7_Reported speech Questions and auxiliary verbs	‚Ç‚±‚Ìog‚Å‚·‚©H	Where are you from?		
+GU049S056	1	49	7_Reported speech Questions and auxiliary verbs	’N‚É˜b‚µ‚½‚¢‚Å‚·‚©?	To whom do you wish to speak?		
+GU049S057	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş‚ç‚ÍS”z‚µ‚Ä‚¢‚Ü‚·B B: ”Ş‚ç‚Í‰½‚ğS”z‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©?	A: They're worried.  B: What are they worried about?		
+GU049S058	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş—‚Í’N‚©‚Æˆê‚É‚¢‚Ü‚µ‚½B B: ”Ş—‚Í’N‚Æˆê‚É‚¢‚Ü‚µ‚½‚©?	A: She was with somebody. B: Who was she with?		
+GU049S059	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş‚Í–S‚­‚È‚è‚Ü‚µ‚½B B: ”Ş‚Í‰½‚Å€‚ñ‚¾‚Ì‚Å‚·‚©?	A: He died. B: What did he die of?		
+GU049S060	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş—‚Í‚¨‹à‚ğ‚½‚­‚³‚ñg‚¢‚Ü‚·B B: ”Ş—‚Í‰½‚É‚¨‹à‚ğg‚¢‚Ü‚·‚©?	A: She spends a lot of money. B: What does she spend it on?		
+GU049S061	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚¨‹à‚ğØ‚è‚Ü‚µ‚½B B: ’N‚©‚çØ‚è‚½‚ñ‚Å‚·‚©?	A: I borrowed some money. B: Who did you borrow it from?		
+GU049S062	1	49	7_Reported speech Questions and auxiliary verbs	A: ”Ş—‚Í„‚É’N‚©‚ğv‚¢o‚³‚¹‚Ü‚·B B: ”Ş—‚Í’N‚ğv‚¢o‚µ‚Ü‚·‚©?	A: She reminds me of somebody. B: Who does she remind you of?		
+GU049S063	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚±‚Ì“ss‚Í—L–¼‚Å‚·B B: ‚»‚ê‚Í‰½‚Å—L–¼‚Å‚·‚©?	A: This city is famous. B: What is it famous for?		
+GU049S064	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚±‚ÌP‚Í„‚Ì‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB B: ‚»‚ê‚Í’N‚Ì‚à‚Ì‚Å‚·‚©?	A: This umbrella isn't mine. B: Who does it belong to?		
+GU049S065	1	49	7_Reported speech Questions and auxiliary verbs	A: ‰½‚©‚ğŒ©‚Ä‚¢‚Ü‚·B B: ‰½‚ğŒ©‚Ä‚é‚ñ‚Å‚·‚©H	A: I'm looking at something. B: What are you looking at?		
+GU049S066	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚±‚ê‚Í‚Æ‚Ä‚à‹»–¡[‚¢–{‚Å‚·B B: ‚»‚ê‚Í’N‚É‚æ‚Á‚Ä‘‚©‚ê‚½‚Ì‚Å‚·‚©?	A: This is a very interesting book. B: Who was it written by?		
+GU049S067	1	49	7_Reported speech Questions and auxiliary verbs	ƒhƒAƒzƒ“‚ª•·‚±‚¦‚Ü‚¹‚ñ‚Å‚µ‚½‚©H 3‰ñ–Â‚ç‚µ‚Ü‚µ‚½B	Didn't you hear the doorbell? I rang it three times.		
+GU049S068	1	49	7_Reported speech Questions and auxiliary verbs	A: „‚½‚¿‚Í‘O‚É‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñ‚©H B: ‚Í‚¢A‚»‚¤‚¾‚Æv‚¢‚Ü‚·B	"A: Haven't we met before? B: Yes, I think we have."		
+GU049S069	1	49	7_Reported speech Questions and auxiliary verbs	A: s‚«‚½‚­‚È‚¢‚Ì? B: ‚Í‚¢B	A: Don't you want to go? B: Yes.		
+GU049S070	1	49	7_Reported speech Questions and auxiliary verbs	A: s‚«‚½‚­‚È‚¢‚Ì? B: ‚¢‚¢‚¦B	A: Don't you want to go? B: No.		
+GU049S071	1	49	7_Reported speech Questions and auxiliary verbs	¡–éŠOH‚µ‚Ü‚¹‚ñ‚©?	Why don't we eat out tonight?		
+GU049S072	1	49	7_Reported speech Questions and auxiliary verbs	ƒGƒ}‚Í‚È‚ºğ“úd–‚É‚¢‚È‚©‚Á‚½‚Ì‚Å‚·‚©?	Why wasn't Emma at work yesterday?		
+GU049S073	1	49	7_Reported speech Questions and auxiliary verbs	A: ¡–é‚Íƒ‹[ƒN‚É‰ï‚í‚È‚¢‚Æ‚¢‚¢‚Ì‚Å‚·‚ªB B: ‚Ç‚¤‚µ‚Ä? ”Ş‚Ì‚±‚Æ‚ªD‚«‚Å‚Í‚È‚¢‚Ì‚Å‚·‚©H	A: I hope we don't meet Luke tonight. B: Why? Don't you like him?		
+GU049S074	1	49	7_Reported speech Questions and auxiliary verbs	A: ‚»‚Ì‰f‰æ‚ğŒ©‚És‚©‚È‚¢‚Å‚­‚¾‚³‚¢B B: ‚Ç‚¤‚µ‚Ä‚Å‚·‚©? ‚¢‚¢‚ñ‚¶‚á‚È‚¢‚Å‚·‚©H	A: Don't go and see that film. B: Why not? Isn't it good?		
+GU049S075	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒxƒ“‚Í‰½‚ª‹N‚±‚Á‚½‚Ì‚©’m‚è‚Ü‚¹‚ñB B: –{“–‚Å‚·‚©H ‚Ü‚¾”Ş‚ÉŒ¾‚Á‚Ä‚¢‚Ü‚¹‚ñ‚©H	A: Ben doesn't know what happened. B: Really? Haven't you told him yet?		
+GU049S076	1	49	7_Reported speech Questions and auxiliary verbs	A: ƒ|[ƒ‹‚Ì”ƒ‚¢•¨‚ğ‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB B: ‚Ç‚¤‚µ‚Ä? ”Ş‚Í©•ª‚Å‚»‚ê‚ª‚Å‚«‚È‚¢‚Ì‚Å‚·‚©H	A: I have to do Paul's shopping for him. B: Why? Can't he do it himself?		
+GU049S077	1	49	7_Reported speech Questions and auxiliary verbs	A: Œ‹¥‚·‚é‚Á‚Ä–{“–‚Å‚·‚©H B: ‚Í‚¢B ’m‚ç‚È‚©‚Á‚½‚Ì‚Å‚·‚©H	A: Is it true you're getting married? B: Yes. Didn't you know?		
+GU049S078	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚ºK‚¹‚Å‚Í‚È‚¢‚Ì‚Å‚·‚©H ‚Ç‚¤‚µ‚½‚ÌH	Why aren't you happy? What's the problem?		
+GU049S079	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚º‚±‚Ì‹@ŠB‚Í“®‚©‚È‚¢‚Ì‚Å‚µ‚å‚¤‚©H ‚Ç‚¤‚µ‚½‚ÌH	Why doesn't this machine work? What's wrong with it?		
+GU049S080	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚º”Ş‚ç‚Í–¾“ú„‚½‚¿‚É‰ï‚¦‚È‚¢‚Ì‚Å‚·‚©H ”Ş‚ç‚Í–Z‚µ‚¢‚Å‚·‚©H	Why can't they meet us tomorrow? Are they busy?		
+GU049S081	1	49	7_Reported speech Questions and auxiliary verbs	ƒX[‚Í‚È‚º¡“úd–‚ğ‚µ‚È‚¢‚Ì‚Å‚·‚©? ‹x“ú‚Å‚·‚©H	Why isn't Sue working today? Is it a holiday?		
+GU049S082	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚º„‚Ì¿–â‚É“š‚¦‚Ä‚­‚ê‚È‚¢‚Ì‚Å‚·‚©H ‚R‰ñ‚à¿–â‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	Why don't you answer my question? I've asked you three times.		
+GU049S083	1	49	7_Reported speech Questions and auxiliary verbs	‚È‚ºƒPƒCƒg‚Í„‚½‚¿‚É“d˜b‚ğ‚©‚¯‚È‚¢‚Ì‚Å‚·‚©? ”Ş—‚Í‚»‚¤‚·‚é‚ÆŒ¾‚Á‚½B	Why hasn't Kate phoned us? She said she would.		
+GU050S001	1	50	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í‚Ç‚±‚Ös‚Á‚½‚ÌH	Where has Tom gone?		
+GU050S002	1	50	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚ª‚Ç‚±‚Ös‚Á‚½‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB	I don't know where Tom has gone.		
+GU050S003	1	50	7_Reported speech Questions and auxiliary verbs	¡‰½‚Å‚·‚©H	What time is it?		
+GU050S004	1	50	7_Reported speech Questions and auxiliary verbs	¡‚Í‰½‚Å‚·‚©H	Do you know what time it is?		
+GU050S005	1	50	7_Reported speech Questions and auxiliary verbs	‚ ‚Ìl‚½‚¿‚Í‚¾‚êH	Who are those people?		
+GU050S006	1	50	7_Reported speech Questions and auxiliary verbs	‚»‚Ìl‚½‚¿‚ª’N‚È‚Ì‚©’m‚è‚Ü‚¹‚ñB	I don't know who those people are.		
+GU050S007	1	50	7_Reported speech Questions and auxiliary verbs	ƒ‹ƒC[ƒY‚Í‚Ç‚±‚ÅŒ©‚Â‚¯‚ç‚ê‚Ü‚·‚©H	Where can I find Louise?		
+GU050S008	1	50	7_Reported speech Questions and auxiliary verbs	ƒ‹ƒC[ƒY‚ğ‚Ç‚±‚ÅŒ©‚Â‚¯‚ç‚ê‚é‚©‹³‚¦‚Ä‚à‚ç‚¦‚Ü‚·‚©H	Can you tell me where I can find Louise?		
+GU050S009	1	50	7_Reported speech Questions and auxiliary verbs	”ï—p‚Í‚¢‚­‚ç‚Å‚·‚©H	How much will it cost?		
+GU050S010	1	50	7_Reported speech Questions and auxiliary verbs	‚¢‚­‚ç‚©‚©‚é‚©•ª‚©‚è‚Ü‚¹‚ñB	I have no idea how much it will cost.		
+GU050S011	1	50	7_Reported speech Questions and auxiliary verbs	ƒTƒ‰‚Í–¾“úd–‚Å‚·‚©?	Is Sarah working tomorrow?		
+GU050S012	1	50	7_Reported speech Questions and auxiliary verbs	ƒTƒ‰‚ª–¾“úd–‚ğ‚µ‚Ä‚¢‚é‚©‚Ç‚¤‚©‚Í•ª‚©‚è‚Ü‚¹‚ñB	I don't know if Sarah is working tomorrow.	I don't know whether Sarah is working tomorrow.	
+GU050S013	1	50	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚Ìl‚½‚¿‚ª’N‚È‚Ì‚©’m‚Á‚Ä‚¢‚Ü‚·‚©? B: ‚¢‚¢‚¦AŒ©‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	"A: Do you know who those people are? B: No, I've never seen them before."		
+GU050S014	1	50	7_Reported speech Questions and auxiliary verbs	A: ƒ[ƒ‰‚Í‚¢‚ÂŒ‹¥‚µ‚Ü‚·‚©? B: —ˆŒ‚Å‚·B	A: When is Laura getting married? B: Next month.		
+GU050S015	1	50	7_Reported speech Questions and auxiliary verbs	A: ƒ[ƒ‰‚Í‚¢‚ÂŒ‹¥‚·‚é‚Ì‚©‚ÈB B: —ˆŒ‚Å‚·B	A: I wonder when Laura is getting married. B: Next month.		
+GU050S016	1	50	7_Reported speech Questions and auxiliary verbs	A: ‚¨è“`‚¢‚µ‚½‚¢‚Ì‚Å‚·‚ªA‰½‚ª‚Å‚«‚é‚©•ª‚©‚è‚Ü‚¹‚ñB B: S”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ‚È‚ñ‚Æ‚©‚È‚è‚Ü‚·‚æB	"A: I'd like to help, but I don't know what I can do. B: Don't worry. I'll manage OK."		
+GU050S017	1	50	7_Reported speech Questions and auxiliary verbs	A: ‰w‚ª‚Ç‚±‚É‚ ‚é‚Ì‚©‹³‚¦‚Ä‚¢‚½‚¾‚¯‚Ü‚·‚©B B: ^‚Á’¼‚®i‚Ş‚Æ¶‘¤‚É‚ ‚è‚Ü‚·B	A: Could you tell me where the station is? B: Straight on and it's on the left.		
+GU050S018	1	50	7_Reported speech Questions and auxiliary verbs	A: ‚»‚Ì–ŒÌ‚Å‰ö‰ä‚ğ‚µ‚½l‚ª‚¢‚é‚©’m‚Á‚Ä‚¢‚Ü‚·‚©? B: ‚¢‚¢‚¦A‚İ‚ñ‚È‘åä•v‚Å‚µ‚½B	"A: Do you know whether anyone was injured in the accident? B: No, everybody was OK."		
+GU050S019	1	50	7_Reported speech Questions and auxiliary verbs	A: ¡–é‚Í‚Ç‚Ì‰f‰æ‚ğŒ©‚é‚Â‚à‚è‚Å‚·‚©? B: ‚Ü‚¾Œˆ‚ß‚Ä‚¢‚Ü‚¹‚ñB	A: Which film are you going to see tonight? B: We haven't decided yet.		
+GU050S020	1	50	7_Reported speech Questions and auxiliary verbs	A: –¾“ú‚Í‰½‚É“’…‚·‚é‚©‚Ü‚¾‚í‚©‚è‚Ü‚¹‚ñB B: ‘åä•v‚Å‚·‚æB ‚±‚±‚É’…‚¢‚½‚ç“d˜b‚µ‚Ä‚­‚¾‚³‚¢B	A: I don't know yet what time I will arrive tomorrow. B: That's OK. Call me when you get here.		
+GU050S021	1	50	7_Reported speech Questions and auxiliary verbs	A: ƒ”ƒBƒbƒL[‚Í‚È‚º•sK‚È‚Ì‚Å‚·‚©? B: •ª‚©‚è‚Ü‚¹‚ñB ”Ş—‚Í‰½‚ª–â‘è‚È‚Ì‚©Œ¾‚í‚È‚¢B	A: Why is Vicky unhappy? B: I don't know. She won't say what the problem is.		
+GU050S022	1	50	7_Reported speech Questions and auxiliary verbs	‰f‰æ‚Í‰½‚Én‚Ü‚è‚Ü‚·‚©?	What time does the film start?		
+GU050S023	1	50	7_Reported speech Questions and auxiliary verbs	‰f‰æ‚ª‰½‚Én‚Ü‚é‚©’m‚Á‚Ä‚¢‚Ü‚·‚©?	Do you know what time the film starts?		
+GU050S024	1	50	7_Reported speech Questions and auxiliary verbs	‚Ç‚¤‚¢‚¤ˆÓ–¡‚Å‚·‚©H	What do you mean?		
+GU050S025	1	50	7_Reported speech Questions and auxiliary verbs	‚Ç‚¤‚¢‚¤ˆÓ–¡‚È‚Ì‚©à–¾‚µ‚Ä‚­‚¾‚³‚¢B	Please explain what you mean.		
+GU050S026	1	50	7_Reported speech Questions and auxiliary verbs	‚È‚º”Ş—‚Í‚»‚ñ‚È‚É‘‚­o”­‚µ‚½‚Ì‚Å‚·‚©?	Why did she leave so early?		
+GU050S027	1	50	7_Reported speech Questions and auxiliary verbs	‚È‚º”Ş—‚Í‘‚­o”­‚µ‚½‚Ì‚¾‚ë‚¤‚©B	I wonder why she left early.		
+GU050S028	1	50	7_Reported speech Questions and auxiliary verbs	’N‚©‚ ‚È‚½‚ğŒ©‚Ü‚µ‚½‚©H	Did anybody see you?		
+GU050S029	1	50	7_Reported speech Questions and auxiliary verbs	’N‚©‚ª‚ ‚È‚½‚ğŒ©‚½‚©‚Ç‚¤‚©’m‚Á‚Ä‚¢‚Ü‚·‚©H	Do you know if anybody saw you?	Do you know whether anybody saw you?	
+GU050S030	1	50	7_Reported speech Questions and auxiliary verbs	ƒoƒX‚ª‰½‚Éo”­‚·‚é‚©’m‚Á‚Ä‚¢‚Ü‚·‚©H	Do you know what time the bus leaves?		
+GU050S031	1	50	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[‚Í‚È‚º–ˆ“ú‚»‚ñ‚È‚É‘‚­‹N‚«‚é‚Ì‚Å‚·‚©?	Why does Amy get up so early every day?		
+GU050S032	1	50	7_Reported speech Questions and auxiliary verbs	‚±‚ÌŒ¾—t‚ÌˆÓ–¡‚ª’m‚è‚½‚¢‚Å‚·B	I want to know what this word means.		
+GU050S033	1	50	7_Reported speech Questions and auxiliary verbs	‚±‚±‚Ì’“Ô—¿‹à‚Í‚¢‚­‚ç‚Å‚·‚©?	How much does it cost to park here?		
+GU050S034	1	50	7_Reported speech Questions and auxiliary verbs	‰½‚ª—~‚µ‚¢‚Ì‚©‹³‚¦‚Ä‚­‚¾‚³‚¢B	Tell me what you want.		
+GU050S035	1	50	7_Reported speech Questions and auxiliary verbs	Ô‚ğ‚Ç‚±‚É’“Ô‚µ‚½‚Ì‚©v‚¢o‚¹‚Ü‚¹‚ñB	I can't remember where I parked the car.		
+GU050S036	1	50	7_Reported speech Questions and auxiliary verbs	‚È‚ºğ“ú“d˜b‚µ‚È‚©‚Á‚½‚Ì‚Å‚·‚©H	Why didn't you phone yesterday?		
+GU050S037	1	50	7_Reported speech Questions and auxiliary verbs	ƒwƒŒƒ“‚ª‚Ç‚±‚Å“­‚¢‚Ä‚¢‚é‚©’m‚Á‚Ä‚¢‚Ü‚·‚©?	Do you have any idea where Helen works?		
+GU050S038	1	50	7_Reported speech Questions and auxiliary verbs	'‚Ç‚±‚És‚­‚ÌH'	'Where are you going?'		
+GU050S039	1	50	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í„‚É‚Ç‚±‚Ös‚­‚Ì‚©‚Æq‚Ë‚Ü‚µ‚½B	Tom asked me where I was going.		
+GU050S040	1	50	7_Reported speech Questions and auxiliary verbs	u‚¨“X‚Í‰½‚É•Â‚Ü‚è‚Ü‚·‚©Hv	'What time do the shops close?'		
+GU050S041	1	50	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í“X‚ª‰½‚É•Â‚Ü‚é‚©‚ğq‚Ë‚½B	Tom asked what time the shops closed.		
+GU050S042	1	50	7_Reported speech Questions and auxiliary verbs	u‚ ‚È‚½‚ÌÔ‚ğØ‚è‚Ä‚à‚¢‚¢‚Å‚·‚©Hv	'Can I borrow your car?'		
+GU050S043	1	50	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í„‚ÌÔ‚ğ‘İ‚µ‚Ä‚à‚ç‚¦‚È‚¢‚©‚Æq‚Ë‚Ü‚µ‚½B	Tom asked if he could borrow my car.		
+GU050S044	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚É‰^“]–Æ‹–Ø‚ğ‚Á‚Ä‚¢‚é‚©‚Ç‚¤‚©q‚Ë‚Ü‚µ‚½B	She asked if I had a driving licence.		
+GU050S045	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚É—·s‚·‚é‹C‚ª‚ ‚é‚©‚Ç‚¤‚©q‚Ë‚Ü‚µ‚½B	She asked whether I was willing to travel.		
+GU050S046	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚ª‰É‚È‚Æ‚«‚É‰½‚ğ‚µ‚Ä‚¢‚½‚©q‚Ë‚Ü‚µ‚½B	She asked what I did in my spare time.		
+GU050S047	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚ªŒ»İ‚Ìd–‚Å‚Ç‚ê‚­‚ç‚¢“­‚¢‚Ä‚¢‚é‚©q‚Ë‚Ü‚µ‚½B	She asked how long I'd been working in my present job.		
+GU050S048	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚ª‚»‚Ìd–‚É‰•å‚µ‚½——R‚ğq‚Ë‚Ü‚µ‚½B	She asked why I'd applied for the job.		
+GU050S049	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚É‘¼‚ÌŒ¾Œê‚ğ˜b‚¹‚é‚©‚Ç‚¤‚©q‚Ë‚Ü‚µ‚½B	She asked whether I could speak any other languages.		
+GU050S050	1	50	7_Reported speech Questions and auxiliary verbs	”Ş‚Í„‚Éog’n‚ğq‚Ë‚Ü‚µ‚½B	He asked me where I was from.		
+GU050S051	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚É‚Ç‚Ì‚­‚ç‚¢ƒƒ“ƒhƒ“‚É‚¢‚é‚Ì‚©‚Æq‚Ë‚Ü‚µ‚½B	She asked me how long I'd been in London.		
+GU050S052	1	50	7_Reported speech Questions and auxiliary verbs	”Ş‚Í„‚ÉA‚±‚ê‚Ü‚Å‚Éƒƒ“ƒhƒ“‚És‚Á‚½‚±‚Æ‚ª‚ ‚é‚©‚Ç‚¤‚©q‚Ë‚Ü‚µ‚½B	He asked me whether I'd been to London before.		
+GU050S053	1	50	7_Reported speech Questions and auxiliary verbs	”Ş‚Í„‚ªƒƒ“ƒhƒ“‚ªD‚«‚©‚Ç‚¤‚©’m‚è‚½‚©‚Á‚½‚Ì‚Å‚·B	He wanted to know if I liked London.		
+GU050S054	1	50	7_Reported speech Questions and auxiliary verbs	”Ş‚Í„‚ÉŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚½‚©‚Ç‚¤‚©q‚Ë‚Ü‚µ‚½B	He asked me if I was having a good time.		
+GU050S055	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚É‚Ç‚ê‚­‚ç‚¢‘Øİ‚·‚é‚Â‚à‚è‚©q‚Ë‚Ü‚µ‚½B	She asked me how long I was going to stay.		
+GU050S056	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚ÉAƒƒ“ƒhƒ“‚Í•¨‰¿‚ª‚‚¢‚Æv‚¤‚©‚Æq‚Ë‚Ü‚µ‚½B	She asked me if I thought London was expensive.		
+GU050S057	1	50	7_Reported speech Questions and auxiliary verbs	”Ş‚Í„‚É‚Ç‚±‚É”‘‚Ü‚Á‚Ä‚¢‚é‚©q‚Ë‚Ü‚µ‚½B	He asked me where I was staying.		
+GU050S058	1	50	7_Reported speech Questions and auxiliary verbs	”Ş—‚Í„‚ª‚È‚ºƒƒ“ƒhƒ“‚É—ˆ‚½‚Ì‚©’m‚è‚½‚©‚Á‚½‚Ì‚Å‚·B	She wanted to know why l'd come to London.		
+GU051S001	1	51	7_Reported speech Questions and auxiliary verbs	Œ®‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	I have lost my keys.		
+GU051S002	1	51	7_Reported speech Questions and auxiliary verbs	”Ş—‚Íƒp[ƒeƒB[‚É—ˆ‚ç‚ê‚Ü‚¹‚ñB	She can't come to the party.		
+GU051S003	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚Ìƒzƒeƒ‹‚Í10”N‘O‚ÉŒš‚Ä‚ç‚ê‚Ü‚µ‚½B	The hotel was built ten years ago.		
+GU051S004	1	51	7_Reported speech Questions and auxiliary verbs	‚È‚º‰Æ‚É‹A‚è‚½‚¢‚Ì‚Å‚·‚©H	Why do you want to go home?		
+GU051S005	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒhƒA‚ÉŒ®‚ğ‚©‚¯‚Ü‚µ‚½‚©? B: ‚Í‚¢A‚ ‚è‚Ü‚·B	"A: Have you locked the door? B: Yes, I have."		
+GU051S006	1	51	7_Reported speech Questions and auxiliary verbs	ƒQƒCƒŠ[‚Í“­‚¢‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½‚ªAƒ[ƒ‰‚Í“­‚¢‚Ä‚¢‚Ü‚µ‚½B	"Gary wasn't working, but Laura was."		
+GU051S007	1	51	7_Reported speech Questions and auxiliary verbs	ƒWƒFƒVƒJ‚Í„‚É‚¨‹à‚ğ‘İ‚µ‚Ä‚­‚ê‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªA‘İ‚µ‚Ä‚­‚ê‚Ü‚¹‚ñB	"Jessica could lend me the money, but she won't."		
+GU051S008	1	51	7_Reported speech Questions and auxiliary verbs	A: ‹Ê‚Ë‚¬‚ÍD‚«‚Å‚·‚©? B: ‚Í‚¢A‚»‚¤‚Å‚·B	"A: Do you like onions? B: Yes, I do."		
+GU051S009	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒTƒCƒ‚ƒ“‚Íƒƒ“ƒhƒ“‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚©? B: ”Ş‚Í‚»‚¤‚µ‚Ü‚µ‚½‚ªA‚à‚¤‚µ‚Ü‚¹‚ñB	"A: Does Simon live in London? B: He did, but he doesn't any more."		
+GU051S010	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚Í„‚ÌêŠ‚ÉÀ‚Á‚Ä‚¢‚Ü‚·B B: ‚¢‚¢‚¦Aˆá‚¢‚Ü‚·B	"A: You're sitting in my place. B: No, I'm not."		
+GU051S011	1	51	7_Reported speech Questions and auxiliary verbs	A: o‚©‚¯‚é‘O‚ÉƒhƒA‚ÉŒ®‚ğ‚©‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B B: ‚Í‚¢A‚»‚¤‚Å‚µ‚½B	"A: You didn't lock the door before you left. B: Yes, I did."		
+GU051S012	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í”æ‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA—F’B‚Í”æ‚ê‚Ä‚¢‚Ü‚µ‚½B	"I wasn't tired, but my friends were."		
+GU051S013	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í‹‚¢‹CŒó‚ªD‚«‚Å‚·‚ªAƒAƒ“‚Í‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I like hot weather, but Ann doesn't."		
+GU051S014	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í–¾“úƒp[ƒeƒB[‚És‚­‚Â‚à‚è‚Å‚·‚ªAƒNƒŠƒX‚ÍŒ‡È‚Å‚·B	"I'm going to the party tomorrow, but Chris isn?t."		
+GU051S015	1	51	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Í‚ ‚Ü‚èƒeƒŒƒr‚ğŒ©‚Ü‚¹‚ñ‚ªA„‚ÍŒ©‚Ü‚·B	"You don't watch TV much, but I do."		
+GU051S016	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í‚ ‚Ü‚è—·s‚µ‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñ‚ªAƒQƒCƒŠ[‚Í‚æ‚­—·s‚µ‚Ü‚µ‚½B	"I haven't travelled much, but Gary has."		
+GU051S017	1	51	7_Reported speech Questions and auxiliary verbs	ƒPƒCƒg‚©‚ç“d˜b‚ª—ˆ‚é‚Æv‚Á‚Ä‚¢‚½‚Ì‚Å‚·‚ªA“d˜b‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"I was expecting Kate to call me, but she didn't."		
+GU051S018	1	51	7_Reported speech Questions and auxiliary verbs	ƒgƒ€‚Í–¾“ú‚±‚±‚É‚¢‚Ü‚¹‚ñ‚ªA„‚Í—ˆ‚Ü‚·B	"Tom won't be here tomorrow, but I will."		
+GU051S019	1	51	7_Reported speech Questions and auxiliary verbs	¡“ú‚Í‚¨“X‚ÍŠJ‚¢‚Ä‚¢‚Ü‚·‚ªA‹âs‚ÍŠJ‚¢‚Ä‚¢‚Ü‚¹‚ñB	"The shops are open today, but the banks aren't."		
+GU051S020	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒAƒ“ƒfƒB‚Í‚±‚±‚É‚¢‚Ü‚·‚©? B: ”Ş‚Í5•ª‘O‚É‚¢‚Ü‚µ‚½‚ªA‚à‚¤‹A‚Á‚Ä‚µ‚Ü‚Á‚½‚Æv‚¢‚Ü‚·B	"A: Is Andy here? B: He was five minutes ago, but I think he's gone home."		
+GU051S021	1	51	7_Reported speech Questions and auxiliary verbs	A: ¡–éˆê‚Éo‚©‚¯‚Ü‚¹‚ñ‚©H B: c”O‚È‚ª‚ç‚Å‚«‚Ü‚¹‚ñB ‚â‚é‚×‚«‚±‚Æ‚ª‘½‚·‚¬‚Ü‚·B	A: Are you coming out with us tonight? B: I can't unfortunately. I have too much to do.		
+GU051S022	1	51	7_Reported speech Questions and auxiliary verbs	A: ‰J‚ª~‚é‚Æv‚¢‚Ü‚·‚©? B: ‚»‚¤‚©‚à‚µ‚ê‚Ü‚¹‚ñB –œ‚ªˆê‚É”õ‚¦‚ÄP‚ğ‚Á‚Ä‚¢‚«‚Ü‚µ‚å‚¤B	A: Do you think it's going to rain? B: It might. Take an umbrella in case.		
+GU051S023	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚Í„‚ÌŒ¾‚¤‚±‚Æ‚ğŒˆ‚µ‚Ä•·‚«‚Ü‚¹‚ñB B: ‚Í‚¢A‚»‚¤‚Å‚·I	"A: You never listen to me. B: Yes, I do!"		
+GU051S024	1	51	7_Reported speech Questions and auxiliary verbs	A: ‰½‚ª‹N‚±‚Á‚½‚Ì‚©‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B B: S”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B „‚Í‚µ‚Ü‚¹‚ñB	A: Please don't tell anybody what happened. B: Don't worry. I won't.		
+GU051S025	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚»‚Ìd–‚É‰•å‚·‚é‚©‚Ç‚¤‚©‚í‚©‚è‚Ü‚¹‚ñB B: ‚»‚¤‚·‚×‚«‚¾‚Æv‚¢‚Ü‚·B	A: I don't know whether to apply for the job. B: I think you should.		
+GU051S026	1	51	7_Reported speech Questions and auxiliary verbs	A: “y—j“ú‚Íd–‚ğ‚µ‚Ü‚·‚©H B: ‚¢‚Â‚à‚Í‚»‚¤‚µ‚Ü‚·‚ªAæT‚Ì“y—j“ú‚Í‚»‚¤‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	"A: Do you work on Saturdays? B: Usually yes, but last Saturday I didn't."		
+GU051S027	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒPƒCƒg‚ª„‚É“d˜b‚µ‚Ä‚­‚ê‚éH B: ‚Í‚¢A”Ş—‚Í‚»‚¤‚·‚é‚Á‚ÄŒ¾‚¢‚Ü‚µ‚½B	"A: Is Kate going to call me? B: Yes, she said she would."		
+GU051S028	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒXƒeƒB[ƒuƒ“‚É‰ï‚Á‚½‚Æ‚±‚ë‚Å‚·B B: ‚ ‚ A‚»‚¤‚Å‚·‚©H ”Ş‚Í‚Ç‚Ì‚æ‚¤‚ÉH	"A: I've just seen Stephen. B: Oh, have you? How is he?"		
+GU051S029	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒŠƒT‚Í¡“ú‚Í‚ ‚Ü‚è’²q‚ª—Ç‚­‚ ‚è‚Ü‚¹‚ñB B: ”Ş—‚¶‚á‚È‚¢‚ÌH ”Ş—‚Ì‰½‚ª–â‘è‚È‚Ì‚Å‚µ‚å‚¤‚©H	A: Lisa isn't very well today. B: Isn't she? What's wrong with her?		
+GU051S030	1	51	7_Reported speech Questions and auxiliary verbs	A: ‹x‰É’†‚Í–ˆ“ú‰J‚ª~‚è‚Ü‚µ‚½B B: ‚»‚¤‚È‚ÌH c”O‚¾I	A: It rained every day during our holiday. B: Did it? What a shame!		
+GU051S031	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒWƒF[ƒ€ƒY‚Æƒ^[ƒjƒƒ‚ÍŒ‹¥‚·‚é—\’è‚Å‚·B B: ‚»‚¤‚Å‚·‚©H –{“–‚ÉH	A: James and Tanya are getting married. B: Are they? Really?		
+GU051S032	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚¨• ‚ª‹ó‚¢‚½‚æB B: ‚»‚¤‚Å‚·‚©H ‚»‚ê‚È‚ç‰½‚©H‚×‚Ä‚­‚¾‚³‚¢B	A: I'm hungry. B: Are you? Have something to eat then.		
+GU051S033	1	51	7_Reported speech Questions and auxiliary verbs	A: Šğ‚µ‚­‚È‚¢‚Å‚·B B: ‚»‚¤‚¶‚á‚È‚¢‚ÌH ‚Ç‚¤‚µ‚½‚ÌH	A: I'm not happy. B: Aren't you? What's wrong?		
+GU051S034	1	51	7_Reported speech Questions and auxiliary verbs	A: „‚ÍƒTƒbƒJ[‚ªD‚«‚Å‚·B B: ‚»‚¤‚Å‚·‚©H ‚Ç‚Ìƒ`[ƒ€‚ğ‰‰‡‚µ‚Ü‚·‚©H	A: I like football. B: Do you? Which team do you support?		
+GU051S035	1	51	7_Reported speech Questions and auxiliary verbs	A: ”òs‹@‚Éæ‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB B: ‚»‚¤‚¶‚á‚È‚¢‚ÌH ‚µ‚½‚¢‚Å‚·‚©H	A: I've never flown in a plane. B: Haven't you? Would you like to?		
+GU051S036	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚»‚Ì‰f‰æ‚ÍŠy‚µ‚ß‚Ü‚¹‚ñ‚Å‚µ‚½B B: ‚»‚¤‚¶‚á‚È‚©‚Á‚½H ‚È‚º‚¾‚ß‚Å‚·‚©H	A: I didn't enjoy the film. B: Didn't you? Why not?		
+GU051S037	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒgƒ€‚Í‚à‚¤‚±‚±‚É‚ÍZ‚ñ‚Å‚¢‚Ü‚¹‚ñB B: ‚»‚¤‚¶‚á‚È‚¢‚ÌH ”Ş‚ÌV‚µ‚¢ZŠ‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚©H	A: Tom doesn't live here any more. B: Doesn't he? Do you know his new address?		
+GU051S038	1	51	7_Reported speech Questions and auxiliary verbs	A: Œ±‚ÍŠÈ’P‚¾‚Æv‚¢‚Ü‚µ‚½B B: ‚»‚¤‚Å‚µ‚½‚©H ‚©‚È‚è‘å•Ï‚Å‚µ‚½B	A: I thought the exam was easy. B: Did you? I found it quite hard.		
+GU051S039	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒAƒ“‚Í 35 Î‚Å‚·B B: ”Ş—‚Å‚·‚©? ”Ş—‚Íá‚­Œ©‚¦‚é‚Æv‚¢‚Ü‚·B	A: Ann is 35. B: Is she? I think she looks younger.		
+GU051S040	1	51	7_Reported speech Questions and auxiliary verbs	A: ”æ‚ê‚Ä‚¢‚Ü‚·B B: „‚à‚»‚¤‚Å‚·‚æB	A: I'm tired. B: So am I.		
+GU051S041	1	51	7_Reported speech Questions and auxiliary verbs	A: „‚ÍV•·‚ğ‚Ü‚Á‚½‚­“Ç‚İ‚Ü‚¹‚ñB B: „‚à‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	A: I never read newspapers. B: Neither do I.		
+GU051S042	1	51	7_Reported speech Questions and auxiliary verbs	ƒTƒ‰‚Í‰^“]‚Å‚«‚Ü‚¹‚ñ‚µAƒ}[ƒN‚à‰^“]‚Å‚«‚Ü‚¹‚ñB	Sarah can't drive and neither can Mark.		
+GU051S043	1	51	7_Reported speech Questions and auxiliary verbs	„‚ÍŒ±‚É‡Ši‚µAƒ|[ƒ‹‚à‡Ši‚µ‚Ü‚µ‚½B	I passed the exam and so did Paul.		
+GU051S044	1	51	7_Reported speech Questions and auxiliary verbs	A: •ª‚©‚è‚Ü‚¹‚ñB B: „‚à‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	A: I don't know. B: Neither do I.	Nor do I.	I don't either.
+GU051S045	1	51	7_Reported speech Questions and auxiliary verbs	A: „‚Í—¿—‚ªD‚«‚Å‚·B B: „‚à‚»‚¤‚Å‚·‚æB	A: I enjoy cooking. B: So do I.		
+GU051S046	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚à‚¤‰½”N‚à‰f‰æŠÙ‚És‚Á‚Ä‚¢‚È‚¢‚ñ‚Å‚·B B: „‚à‚µ‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	A: I haven't been to the cinema for ages. B: I haven't either.		
+GU051S047	1	51	7_Reported speech Questions and auxiliary verbs	A: ğ–é‚Í‚æ‚­–°‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B B: ‚»‚¤‚¶‚á‚È‚©‚Á‚½H	A: I didn't sleep well last night. B: Didn't you?		
+GU051S048	1	51	7_Reported speech Questions and auxiliary verbs	A: T––‚ğŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·B B: „‚à‚»‚¤‚Å‚·‚æB	A: I'm looking forward to the weekend. B: So am I.		
+GU051S049	1	51	7_Reported speech Questions and auxiliary verbs	A: ¡’©‚Íd–‚É’x‚µ‚Ü‚µ‚½B B: ‚»‚¤‚¾‚Á‚½‚ñ‚Å‚·‚©H	A: I was late for work this morning. B: Were you?		
+GU051S050	1	51	7_Reported speech Questions and auxiliary verbs	A: „‚ÍƒeƒŒƒr‚ğ‚Ü‚Á‚½‚­Œ©‚Ü‚¹‚ñB B: „‚à‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñ	A: I never watch TV. B: Nor do I		
+GU051S051	1	51	7_Reported speech Questions and auxiliary verbs	A: ğ–é‚Í‚Æ‚Ä‚à’x‚­Q‚Ü‚µ‚½B B: ‚»‚¤‚Å‚µ‚½‚©H	A: I went to bed very late last night. B: Did you?		
+GU051S052	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒGƒCƒ~[‚Ìƒp[ƒeƒB[‚É‚Ís‚¯‚Ü‚¹‚ñB B: „‚à‚»‚¤‚µ‚Ü‚¹‚ñB	A: I won't be able to go to Amy's party. B: Neither will I.		
+GU051S053	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚à‚Á‚Æ©—R‚ÈŠÔ‚ª—~‚µ‚¢‚Å‚·B B: „‚à‚»‚¤‚µ‚Ü‚·B	A: I'd like to have more free time. B: So would I.		
+GU051S054	1	51	7_Reported speech Questions and auxiliary verbs	A: –¾“ú‚Íd–‚ª‚ ‚è‚Ü‚¹‚ñB B: „‚à‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	A: I'm not working tomorrow. B: Nor am I.		
+GU051S055	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚Ìl‚½‚¿‚ÍŠØ‘l‚Å‚·‚©? B: ‚»‚¤‚¾‚Æv‚¢‚Ü‚·B	A: Are those people Korean? B: I think so.		
+GU051S056	1	51	7_Reported speech Questions and auxiliary verbs	A: ƒPƒCƒg‚Í–¾“úd–‚Å‚·‚©? B: ‚»‚¤‚¾‚Æv‚¢‚Ü‚·B	A: Is Kate working tomorrow? B: I suppose so.	I guess so.	
+GU051S057	1	51	7_Reported speech Questions and auxiliary verbs	A: “V‹C‚Í—Ç‚­‚È‚é‚Æv‚¢‚Ü‚·‚©? B: ‚»‚¤‚¾‚Æ‚¢‚¢‚Å‚·‚ËB	A: Do you think the weather will be good? B: I hope so.		
+GU051S058	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤v‚¢‚Ü‚·B	I think so.		
+GU051S059	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í‚»‚¤‚Ív‚í‚È‚¢B	I don't think so.		
+GU051S060	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤Šú‘Ò‚µ‚Ä‚¢‚Ü‚·B	I expect so.		
+GU051S061	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚ñ‚È‚±‚Æ‚ÍŠú‘Ò‚µ‚Ä‚¢‚È‚¢B	I don't expect so.		
+GU051S062	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚¾‚Æ‚¢‚¢B	I hope so.		
+GU051S063	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚È‚ç‚È‚¢‚±‚Æ‚ğŠè‚¢‚Ü‚·B	I hope not.		
+GU051S064	1	51	7_Reported speech Questions and auxiliary verbs	„‚Í‚»‚¤v‚¢‚Ü‚·B	I guess so.		
+GU051S065	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I guess not.		
+GU051S066	1	51	7_Reported speech Questions and auxiliary verbs	c”O‚È‚ª‚ç‚»‚Ì‚æ‚¤‚Å‚·‚ËB	I'm afraid so.		
+GU051S067	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I'm afraid not.		
+GU051S068	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚¾‚Æv‚¢‚Ü‚·B	I suppose so.		
+GU051S069	1	51	7_Reported speech Questions and auxiliary verbs	‚»‚¤‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B	I don't suppose so.	I suppose not.	
+GU051S070	1	51	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚Ì—«‚ÍƒAƒƒŠƒJl‚Å‚·‚©? B: ‚»‚¤‚Ív‚¢‚Ü‚¹‚ñB	A: Is that woman American? B: I don't think so.		
+GU051S071	1	51	7_Reported speech Questions and auxiliary verbs	A: ‰J‚ª~‚é‚Æv‚¢‚Ü‚·‚©? B: ‚»‚¤‚È‚ç‚È‚¢‚±‚Æ‚ğ‹F‚è‚Ü‚·B	A: Do you think it will rain? B: I hope not.		
+GU051S072	1	51	7_Reported speech Questions and auxiliary verbs	‚à‚Á‚Æ‚¨‹à‚ª•K—v‚Å‚·B ƒTƒ€: ‚à‚¤‚·‚®‹‹—¿‚ªã‚ª‚é‚Æv‚¢‚Ü‚·‚©? ‚ ‚È‚½F‚»‚¤Šè‚Á‚Ä‚¢‚Ü‚·B	You need more money. SAM: Do you think you'll get a pay rise soon? YOU: I hope so.		
+GU051S073	1	51	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Íƒzƒeƒ‹‚Ìó•tŒW‚Å‚·B ƒzƒeƒ‹‚Í–º‚Å‚·B ƒTƒ€F¡–é‚Ì•”‰®‚Í‚ ‚è‚Ü‚·‚©H ‚ ‚È‚½Fc”O‚È‚ª‚ç‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	You are the receptionist at a hotel. The hotel is full. SAM: Do you have a room for tonight? YOU: I'm afraid not.		
+GU051S074	1	51	7_Reported speech Questions and auxiliary verbs	ƒGƒCƒ~[‚ªŒ‹¥‚µ‚Ä‚¢‚é‚©‚Ç‚¤‚©‚Í‚í‚©‚è‚Ü‚¹‚ñ‚ªA‚¨‚»‚ç‚­Œ‹¥‚µ‚Ä‚¢‚Ü‚¹‚ñB ƒTƒ€FƒGƒCƒ~[‚ÍŒ‹¥‚µ‚Ä‚¢‚é‚ÌH ‚ ‚È‚½F‚»‚¤‚Ív‚¢‚Ü‚¹‚ñB	You are not sure whether Amy is married - probably not. SAM: Is Amy married? YOU: I don't think so.		
+GU051S075	1	51	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚ª’m‚Á‚Ä‚¢‚éŒÀ‚èAƒŒƒCƒ`ƒFƒ‹‚Í–¾“úd–‚Å‚·B ƒTƒ€: ƒŒƒCƒ`ƒFƒ‹‚Í–¾“úd–‚Å‚·‚©? ‚ ‚È‚½F‚»‚¤‚¾‚Æv‚¢‚Ü‚·B	"As far as you know, Rachel is working tomorrow. SAM: Is Rachel working tomorrow? YOU: I suppose so."		
+GU051S076	1	51	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Íƒp[ƒeƒB[‚És‚­—\’è‚Å‚·B ƒWƒ‡ƒ“‚É‚Í‰ä–‚Å‚«‚È‚¢‚æB ƒTƒ€FƒWƒ‡ƒ“‚Íƒp[ƒeƒB[‚ÉQ‰Á‚µ‚Ü‚·‚©H ‚ ‚È‚½F‚»‚¤‚È‚ç‚È‚¢‚±‚Æ‚ğŠè‚Á‚Ä‚¢‚Ü‚·B	You are going to a party. You can't stand John. SAM: Will John be at the party? YOU: I hope not.		
+GU051S077	1	51	7_Reported speech Questions and auxiliary verbs	‰f‰æ‚ª‚¢‚Ân‚Ü‚é‚©‚Í‚í‚©‚è‚Ü‚¹‚ñ‚ªA‚¨‚»‚ç‚­ 7  30 •ª‚Å‚·B ƒTƒ€F‚»‚Ì‰f‰æ‚Í‰½‚Å‚·‚©H 7.30? ‚ ‚È‚½F‚»‚¤v‚¢‚Ü‚·B	You aren't sure when the film begins - probably 7.30. SAM: What time is the film? 7.30? YOU: I think so.		
+GU051S078	1	51	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Íƒp[ƒeƒB[‚ÉQ‰Á‚µ‚Ä‚¢‚Ü‚·B ‘‚­o”­‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ƒTƒ€F‚à‚¤s‚©‚È‚«‚á‚¢‚¯‚È‚¢‚ÌH ‚ ‚È‚½Fc”O‚Å‚·‚ª‚»‚¤‚Å‚·B	You are at a party. You have to leave early. SAM: Do you have to leave already? YOU: I'm afraid so.		
+GU052S001	1	52	7_Reported speech Questions and auxiliary verbs	ƒPƒCƒg‚ğŒ©‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñ‚æ‚ËH	"You haven't seen Kate, have you?"		
+GU052S002	1	52	7_Reported speech Questions and auxiliary verbs	—Ç‚¢‰f‰æ‚Å‚µ‚½‚ËB	"It was a good film, wasn't it?"		
+GU052S003	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒJƒŒƒ“‚ÍƒsƒAƒm‚ğ’e‚«‚Ü‚·‚ËB B: ‚»‚¤‚Å‚·‚ËA‚Å‚à‚ ‚Ü‚è—Ç‚­‚Í‚ ‚è‚Ü‚¹‚ñB	"A: Karen plays the piano, doesn't she? B: Well, yes, but not very well."		
+GU052S004	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒhƒA‚ÉŒ®‚ğ‚©‚¯‚Ü‚¹‚ñ‚Å‚µ‚½‚Ë? B: ‚¢‚¢‚¦A–Y‚ê‚Ä‚¢‚Ü‚µ‚½B	"A: You didn't lock the door, did you? B: No, I forgot."		
+GU052S005	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒƒ“ƒhƒ“‚És‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚æ‚ËH B: ‚Í‚¢A”‰ñ‚Å‚·B	"A: You've been to London, haven't you? B: Yes, a few times."		
+GU052S006	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚Ì‰œ‚³‚ñ‚Í‹³t‚Å‚·‚æ‚ËB B: ‚Í‚¢A‚»‚Ì’Ê‚è‚Å‚·B	"A: Your wife is a teacher, isn't she? B: Yes, that's right."		
+GU052S007	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚±‚±‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚é‚ñ‚Å‚·‚æ‚ËH B: ‚Í‚¢A‚í‚¸‚© 5 •ª‚Å‚·B	"A: You live near here, don't you? B: Yes, just five minutes away."		
+GU052S008	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚Æ‚Ä‚à”ü–¡‚µ‚©‚Á‚½‚Å‚·‚ËB B: ‚Í‚¢A‘f°‚ç‚µ‚¢‚Å‚·B	"A: That was a really good meal, wasn't it? B: Yes, excellent."		
+GU052S009	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚ÍƒNƒŠƒX‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚æ‚Ë? B: ‚Í‚¢A‚à‚¿‚ë‚ñ‚Å‚·B	"A: You invited Chris to the party, didn't you? B: Yes, of course."		
+GU052S010	1	52	7_Reported speech Questions and auxiliary verbs	A: –¾“ú‚ÍƒpƒŠs‚«‚Ì”òs‹@‚Å‚·‚ËB B: ‚Í‚¢A–ˆ“ú 1 ‚Â‚ ‚è‚Ü‚·B	"A: There's a flight to Paris tomorrow, isn't there? B: Yes, there's one every day."		
+GU052S011	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒWƒF[ƒ€ƒX‚ğ’m‚ç‚È‚¢‚ñ‚Å‚·‚ËH B: ‚¢‚¢‚¦A‰ï‚Á‚½‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB	"A: You don't know James, do you? B: No, we've never met."		
+GU052S012	1	52	7_Reported speech Questions and auxiliary verbs	A: ‹´‚Ìó‘Ô‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚ËB B: ‚¢‚¢‚¦AC—‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	"A: The bridge isn't in very good condition, is it? B: No, it needs to be repaired."		
+GU052S013	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒQƒCƒŠ[‚ÍŠá‹¾‚ğ‚©‚¯‚Ä‚¢‚Ü‚¹‚ñ‚ËB B: ‚¢‚¢‚¦A”Ş‚ÍƒRƒ“ƒ^ƒNƒgƒŒƒ“ƒY‚ğ’…—p‚µ‚Ä‚¢‚Ü‚·B	"A: Gary doesn't wear glasses, does he? B: No. He wears contact lenses."		
+GU052S014	1	52	7_Reported speech Questions and auxiliary verbs	A: ‹}‚¢‚Å‚¢‚Ü‚¹‚ñ‚ËB B: ‚¢‚¢‚¦AŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚è‚Ü‚·B	"A: We're not in a hurry, are we? B: No, we have plenty of time."		
+GU052S015	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚±‚±‚ÉÔ‚Å—ˆ‚½‚ñ‚¶‚á‚È‚¢‚ñ‚Å‚·‚æ‚ËH B: ‚¢‚¢‚¦AƒoƒX‚Å—ˆ‚Ü‚µ‚½B	"A: You didn't drive here, did you? B: No, I came by bus."		
+GU052S016	1	52	7_Reported speech Questions and auxiliary verbs	A: ‰½‚ª‹N‚±‚Á‚½‚Ì‚©’N‚É‚àŒ¾‚í‚È‚¢‚Å‚µ‚å‚¤H B: ‚¢‚¢‚¦A‚à‚¿‚ë‚ñˆá‚¢‚Ü‚·B	"A: You won't tell anyone what happened, will you? B: No, of course not."		
+GU052S017	1	52	7_Reported speech Questions and auxiliary verbs	ƒPƒCƒg‚Í‚à‚¤‚·‚®‚±‚±‚É—ˆ‚é‚Å‚µ‚å‚¤‚ËH	"Kate will be here soon, won't she?"		
+GU052S018	1	52	7_Reported speech Questions and auxiliary verbs	Œğ’Ê—Ê‚ª‘½‚©‚Á‚½‚Å‚·‚ËB	"There was a lot of traffic, wasn't there?"		
+GU052S019	1	52	7_Reported speech Questions and auxiliary verbs	ƒWƒ‡[‚ÍŒ±‚É‡Ši‚·‚é‚Í‚¸‚Å‚·‚æ‚ËH	"Joe should pass the exam, shouldn't he?"		
+GU052S020	1	52	7_Reported speech Questions and auxiliary verbs	ƒPƒCƒg‚Í’x‚µ‚È‚¢‚Å‚µ‚å‚¤?	"Kate won't be late, will she?"		
+GU052S021	1	52	7_Reported speech Questions and auxiliary verbs	”Ş‚ç‚Í„‚½‚¿‚Ì‚±‚Æ‚ğD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚æ‚ËH	"They don't like us, do they?"		
+GU052S022	1	52	7_Reported speech Questions and auxiliary verbs	‚Ü‚¾H‚×‚Ä‚È‚¢‚Å‚·‚æ‚ËH	"You haven't eaten yet, have you?"		
+GU052S023	1	52	7_Reported speech Questions and auxiliary verbs	A: ¡“ú‚ÍŠOo‚µ‚È‚¢‚ñ‚Å‚·‚æ‚ËH B: ‚Í‚¢B ”ƒ‚¢•¨‚És‚«‚Ü‚·B	"A: You're not going out today, are you? B: Yes. I'm going shopping."		
+GU052S024	1	52	7_Reported speech Questions and auxiliary verbs	A: ¡“ú‚ÍŠOo‚µ‚È‚¢‚ñ‚Å‚·‚æ‚ËH B: ‚¢‚¢‚¦A‰Æ‚É‚¢‚Ü‚·B	"A: You're not going out today, are you? B: No. I'm staying at home."		
+GU052S025	1	52	7_Reported speech Questions and auxiliary verbs	A: ”Ş‚ç‚ÍƒCƒ^ƒŠƒA‚ÉZ‚ñ‚Å‚¢‚Ü‚·‚ËB B: ‚Í‚¢Aƒ[ƒ}‚Ì‹ß‚­‚Å‚·B	"A: They live in Italy, don't they? B: Yes, near Rome."		
+GU052S026	1	52	7_Reported speech Questions and auxiliary verbs	A: ”Ş‚Í‹x‰É’†‚Å‚·‚æ‚ËH B: ‚»‚Ì’Ê‚è‚Å‚·B ”Ş‚ÍƒI[ƒXƒgƒ‰ƒŠƒA‚É‚¢‚Ü‚·B	"A: He's on holiday, isn't he? B: That's right. He's in Australia."		
+GU052S027	1	52	7_Reported speech Questions and auxiliary verbs	A: •·‚¢‚Ä‚È‚¢‚Å‚·‚æ‚ËH B: ‚Í‚¢A‚»‚¤‚Å‚·I	"A: You aren't listening, are you? B: Yes, I am!"		
+GU052S028	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒhƒCƒcŒê‚ğ˜b‚¹‚é‚ñ‚Å‚·‚ËB B: ‚Í‚¢A‚Å‚à—¬’¨‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"A: You can speak German, can't you? B: Yes, but not fluently."		
+GU052S029	1	52	7_Reported speech Questions and auxiliary verbs	A: Ê^‚ğB‚Á‚Ä‚à‹C‚É‚µ‚È‚¢‚Å‚µ‚å‚¤? B: ‚¢‚¢‚¦A‚à‚¿‚ë‚ñ‚»‚ñ‚È‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB	"A: They won't mind if I take a picture, will they? B: No, of course they won't."		
+GU052S030	1	52	7_Reported speech Questions and auxiliary verbs	A: ”Ş—‚Í‚æ‚­—·s‚µ‚Ü‚·‚ËB B: ‚Í‚¢A”Ş—‚Í—·s‚ª‘åD‚«‚Å‚·B	"A: She travels a lot, doesn't she? B: Yes, she loves travelling."		
+GU052S031	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚Ü‚è–Ê”’‚­‚È‚¢‚Å‚·‚ËB B: ‚¢‚¢‚¦A‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"A: This isn't very interesting, is it? B: No, not really."		
+GU052S032	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚±‚±‚É—ˆ‚é‚Ì‚É‚»‚ê‚Ù‚ÇŠÔ‚Í‚©‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ËB B: ‚¢‚¢‚¦A10 •ª‚¾‚¯‚Å‚·B	"A: It didn't take long to get here, did it? B: No, just ten minutes."		
+GU052S033	1	52	7_Reported speech Questions and auxiliary verbs	A: “V‹C‚ª‚ ‚Ü‚è—Ç‚­‚È‚¢‚Å‚·‚ËB B: ‚¢‚âA‚Ğ‚Ç‚¢‚æB	"A: The weather isn't very good, is it? B: No, it's horrible."		
+GU052S034	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚±‚Ì‰Ô‚Í‚Æ‚Ä‚à‘f“G‚Å‚·‚ËB B: ‚Í‚¢B ”ü‚µ‚¢‚Å‚·‚ËB	"A: These flowers are very nice, aren't they? B: Yes. They're beautiful."		
+GU052S035	1	52	7_Reported speech Questions and auxiliary verbs	A: ’N‚É‚àŒ¾‚í‚È‚¢‚Å‚·‚æ‚ËH B: ‚¢‚¢‚¦A‚à‚¿‚ë‚ñˆá‚¢‚Ü‚·B	"A: You wouldn't tell anyone, would you? B: No, of course not."		
+GU052S036	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒAƒ“‚Í‚±‚±‚É’·‚¢ŠÔZ‚ñ‚Å‚¢‚Ü‚·‚ËB B: ‚Í‚¢A20”N‚Å‚·B	"A: Ann has lived here a long time, hasn't she? B: Yes, 20 years."		
+GU052S037	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚±‚±‚É‚Í‚½‚­‚³‚ñ‚Ìl‚ª‚¢‚Ü‚·‚ËB B: ‚Í‚¢A—\‘zˆÈã‚Å‚µ‚½B	"A: There are a lot of people here, aren't there? B: Yes, more than I expected."		
+GU052S038	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒJƒb‚Æ‚È‚Á‚Ä‚Í‚¢‚¯‚Ü‚¹‚ñ‚ËB B: ‚¢‚¢‚¦A‚Å‚à‚»‚ê‚Í–â‘è‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"A: I shouldn't have lost my temper, should I? B: No, but it doesn't matter."		
+GU052S039	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒ[ƒU‚Íƒzƒeƒ‹‚Å“­‚¢‚Ä‚¢‚Ü‚·‚ËB B: ‚»‚Ì’Ê‚è‚Å‚·B ”Ş—‚Íó•tŒW‚Å‚·B	"A: Rosa works in a hotel, doesn't she? B: That's right. She's a receptionist."		
+GU052S040	1	52	7_Reported speech Questions and auxiliary verbs	A:”Ş‚Í‚±‚ê‚Ü‚Å”Ş—‚É‰ï‚Á‚½‚±‚Æ‚ª‚È‚©‚Á‚½‚Ì‚Å‚·‚Ë? B: ‚¢‚¢‚¦A‰‚ß‚Ä‚Å‚µ‚½B	"A:He'd never met her before, had he? B: No, that was the first time."		
+GU052S041	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚¢‚¢“ú‚Å‚·‚ËB B: ‚Í‚¢A”ü‚µ‚¢‚Å‚·‚ËB	"A: It's a nice day, isn't it? B: Yes, beautiful."		
+GU052S042	1	52	7_Reported speech Questions and auxiliary verbs	A: ƒ|[ƒ‹‚Í¡“ú‚Í’²q‚ª—Ç‚­‚È‚¢‚æ‚¤‚Å‚·‚ËB B: ‚¢‚¢‚¦A”Ş‚Í‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚é‚æ‚¤‚Å‚·B	"A: Paul doesn't look well today, does he? B: No, he looks very tired."		
+GU052S043	1	52	7_Reported speech Questions and auxiliary verbs	A: ¡“ú‚ÍƒPƒCƒg‚É‰ï‚¢‚Ü‚¹‚ñ‚Ë? B: ‚¢‚¢‚¦A‚µ‚Ä‚¢‚Ü‚¹‚ñB	"A: You haven't seen Kate today, have you? B: No, I haven't."		
+GU052S044	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚ ‚È‚½‚Í„‚É‚¨Šè‚¢‚ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½‚Ì‚Å‚·‚ËH B: ‚»‚ê‚ª‰½‚Å‚ ‚é‚©‚É‚æ‚é‚æB	"A: You couldn't do me a favour, could yo?? B: It depends what it is."		
+GU052S045	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Æ—Fl‚ÍƒŒƒXƒgƒ‰ƒ“‚ÌŠO‚É‚¢‚Ü‚·B ‰¿Ši‚ğŒ©‚Ä‚İ‚é‚ÆA”ñí‚É‚‚¢‚Å‚·B ‚ ‚È‚½‚ÍŒ¾‚¢‚Ü‚·F‚»‚ê‚Í‚Æ‚Ä‚à‚‰¿‚Å‚·‚æ‚ËH	"You and a friend are outside a restaurant. You're looking at the prices, which are very high. You say: It's very expensive, isn't it?"		
+GU052S046	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Æ“¯—»‚ÍƒgƒŒ[ƒjƒ“ƒO ƒR[ƒX‚ğI‚¦‚½‚Î‚©‚è‚Å‚·B –{“–‚ÉŠy‚µ‚©‚Á‚½‚Å‚·‚ËB ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·FƒR[ƒX‚Í‘f°‚ç‚µ‚©‚Á‚½‚Å‚·‚æ‚ËH	"You and a colleague have just finished a training course. You really enjoyed it. You say: The course was great, wasn't it?"		
+GU052S047	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Í—«‚Ì‰Ì‚ğ•·‚¢‚Ä‚¢‚Ü‚·B ”Ş—‚Í‚Æ‚Ä‚àãè‚Å‚·B ‚ ‚È‚½‚Í—F’B‚É‚±‚¤Œ¾‚¢‚Ü‚·Bu”Ş—‚Í‘f“G‚Èº‚ğ‚Á‚Ä‚¢‚Ü‚·‚æ‚ËHv	"You're listening to a woman singing. She's very good. You say to your friend: She's got a lovely voice, hasn't she?"		
+GU052S048	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Í“X‚ÅƒWƒƒƒPƒbƒg‚ğ’…‚µ‚Ä‚¢‚Ü‚·B ‚ ‚È‚½‚Í‹¾‚ğŒ©‚ÄA‚»‚±‚É‚ ‚é‚à‚Ì‚ª‹C‚É“ü‚ç‚È‚¢‚ÆŠ´‚¶‚Ü‚·B ‚ ‚È‚½‚Í—F’B‚É‚±‚¤Œ¾‚¢‚Ü‚·Bu‚ ‚Ü‚è—Ç‚­‚È‚¢‚æ‚¤‚Å‚·‚Ë?v	"You're trying on a jacket in a shop. You look in the mirror and you don't like what you see. You say to your friend: It doesn't look very good, does it?"		
+GU052S049	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Ì—F’B‚Ì”¯‚ÍA‚ ‚È‚½‚ªÅŒã‚É‰ï‚Á‚½‚æ‚è‚à‚¸‚Á‚Æ’Z‚­‚È‚è‚Ü‚µ‚½B ‚ ‚È‚½‚Í—F’B‚É‚±‚¤Œ¾‚¢‚Ü‚·Bu”¯‚ğØ‚Á‚½‚ËHv	"Your friend's hair is much shorter than when you last met. You say to your friend: You've had your hair cut, haven't you?"		
+GU052S050	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚Æ—Fl‚Í¬‚³‚È–Ø‚Ì‹´‚ğ•à‚¢‚Ä‚¢‚Ü‚·B ‹´‚ÍŒÃ‚­A‰ó‚ê‚Ä‚¢‚é•”•ª‚à‚ ‚è‚Ü‚·B ‚ ‚È‚½‚Í‚±‚¤Œ¾‚¢‚Ü‚·Bu‚±‚Ì‹´‚Í‚ ‚Ü‚èˆÀ‘S‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Ë?v	"You and a friend are walking over a small wooden bridge. The bridge is old and some parts are broken. You say: This bridge isn't very safe, is it?"		
+GU052S051	1	52	7_Reported speech Questions and auxiliary verbs	ƒyƒ“‚ª•K—v‚Å‚·B ‚¨‚»‚ç‚­ƒWƒF[ƒ“‚Í‚»‚ê‚ğ‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤B ”Ş—‚Éq‚Ë‚Ä‚­‚¾‚³‚¢FƒWƒF[ƒ“Aƒyƒ“‚ğ‚Á‚Ä‚¢‚È‚¢‚ñ‚Å‚·‚æ‚ËH	"You need a pen. Perhaps Jane has got one. Ask her: Jane, you haven't got a pen, have you?"		
+GU052S052	1	52	7_Reported speech Questions and auxiliary verbs	d‚¢ƒe[ƒuƒ‹‚ğˆÚ“®‚³‚¹‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ƒWƒ‡[‚Éè“`‚Á‚Ä‚à‚ç‚¤•K—v‚ª‚ ‚è‚Ü‚·B ”Ş‚Éq‚Ë‚Ä‚­‚¾‚³‚¢FƒWƒ‡[A‚ ‚È‚½‚Í‚±‚Ìƒe[ƒuƒ‹‚É‚Â‚¢‚Ä„‚ğ•‚¯‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½‚ËH	"You have to move a heavy table. You need Joe to help you. Ask him: Joe, you couldn't help me with this table, could you?"		
+GU052S053	1	52	7_Reported speech Questions and auxiliary verbs	ƒTƒ‰‚ğ’T‚µ‚Ä‚¢‚é‚ñ‚Å‚·‚ËB ‚¨‚»‚ç‚­ƒŠƒT‚Í©•ª‚ª‚Ç‚±‚É‚¢‚é‚Ì‚©’m‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤B ”Ş—‚Éq‚Ë‚Ä‚­‚¾‚³‚¢FƒŠƒTA‚ ‚È‚½‚ÍƒTƒ‰‚ª‚Ç‚±‚É‚¢‚é‚©’m‚è‚Ü‚¹‚ñ‚ËH	"You're looking for Sarah. Perhaps Lisa knows where she is. Ask her: Lisa, you don't know where Sarah is, do you?"		
+GU052S054	1	52	7_Reported speech Questions and auxiliary verbs	‚ ‚È‚½‚ÍƒeƒjƒXƒ‰ƒPƒbƒg‚ğØ‚è‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B ‚¨‚»‚ç‚­ƒwƒŒƒ“‚Í‚»‚ê‚ğ‚Á‚Ä‚¢‚é‚Å‚µ‚å‚¤B ”Ş—‚Éq‚Ë‚Ä‚­‚¾‚³‚¢FƒwƒŒƒ“A‚ ‚È‚½‚ÍƒeƒjƒXƒ‰ƒPƒbƒg‚ğ‚Á‚Ä‚¢‚È‚¢‚Å‚µ‚å‚¤H	"You want to borrow a tennis racket. Perhaps Helen has got one. Ask her: Helen, you haven't got a tennis racket, have you?"		
+GU052S055	1	52	7_Reported speech Questions and auxiliary verbs	ƒAƒ“ƒi‚ÍÔ‚ğ‚Á‚Ä‚¢‚é‚Ì‚ÅA‚ ‚È‚½‚Í‰w‚Ü‚Ås‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB ‚¨‚»‚ç‚­”Ş—‚Í‚ ‚È‚½‚ğ˜A‚ê‚Äs‚Á‚Ä‚­‚ê‚é‚Å‚µ‚å‚¤B ”Ş—‚Éq‚Ë‚Ä‚­‚¾‚³‚¢FƒAƒ“ƒiA„‚ğ‰w‚Ü‚Å˜A‚ê‚Äs‚Á‚Ä‚à‚ç‚¦‚Ü‚¹‚ñ‚©H	"Anna has a car and you need to get to the station. Perhaps she'll take you. Ask her: Anna, you couln't take me to the station, could you?"		
+GU052S056	1	52	7_Reported speech Questions and auxiliary verbs	Œ®‚ğ’T‚µ‚Ä‚¢‚é‚ñ‚Å‚·‚ËB ‚¨‚»‚ç‚­ƒƒo[ƒg‚Í”Ş‚ç‚ğŒ©‚½‚Ì‚Å‚µ‚å‚¤B ”Ş‚Éq‚Ë‚Ä‚­‚¾‚³‚¢Fƒƒo[ƒgA‚ ‚È‚½‚Í„‚ÌŒ®‚ğŒ©‚½‚±‚Æ‚ª‚È‚¢‚Å‚µ‚å‚¤H	"You're looking for your keys. Perhaps Robert has seen them. Ask him: Robert, you haven't seen my keys, have you?"		
+GU052S057	1	52	7_Reported speech Questions and auxiliary verbs	U•à‚És‚«‚Ü‚µ‚å‚¤‚©H	"Let's go for a walk, shall w??"		
+GU052S058	1	52	7_Reported speech Questions and auxiliary verbs	’x‚µ‚È‚¢‚Å‚ËH	"Don't be late, will you?"		
+GU052S059	1	52	7_Reported speech Questions and auxiliary verbs	A: ‚»‚¤‚Å‚·‚æ‚ËH B: ‚Í‚¢A‚»‚¤‚Å‚·‚æB	"A: I'm right, aren't I? B: Yes, you are."		
+GU052S060	1	52	7_Reported speech Questions and auxiliary verbs	„‚ÍŠÔˆá‚Á‚Ä‚¢‚Ü‚¹‚ñ‚ËH	"I'm not wrong, am I?"		
+GU052S061	1	52	7_Reported speech Questions and auxiliary verbs	¡–é‚Ío‚©‚¯‚Ü‚µ‚å‚¤B	"Let's go out tonight, shall we?"		
+GU052S062	1	52	7_Reported speech Questions and auxiliary verbs	‚¹‚Á‚©‚¿‚·‚¬‚Ü‚·‚ËB	"I'm too impatient, aren't I?"		
+GU052S063	1	52	7_Reported speech Questions and auxiliary verbs	‚»‚Ì‰Ô•r‚ğ—‚Æ‚³‚È‚¢‚Å‚Ë?	"Don't drop that vase, will you?"		
+GU052S064	1	52	7_Reported speech Questions and auxiliary verbs	„‚Í‘Ó‚¯Ò‚Å‚Í‚È‚¢‚Å‚·‚æ‚ËH	"I'm not lazy, am l?"		
+GU052S065	1	52	7_Reported speech Questions and auxiliary verbs	„‚É“d˜b‚·‚é‚Ì‚ğ–Y‚ê‚È‚¢‚Å‚Ë?	"Don't forget to phone me, will you?"		
+GU052S066	1	52	7_Reported speech Questions and auxiliary verbs	‚±‚±‚ÉÀ‚è‚Ü‚µ‚å‚¤B	"Let's sit here, shall we?"		

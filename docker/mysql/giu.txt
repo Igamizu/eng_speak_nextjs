@@ -2269,7 +2269,7 @@ GU039S060	1	39	6_If and wish Passive	もっと早く読めたらいいのに。 
 GU039S061	1	39	6_If and wish Passive	できれば我々は休暇を取るでしょうが、その余裕はありません。	"We'd have a holiday if we could, but we can't afford it."		
 GU039S062	1	39	6_If and wish Passive	携帯電話があればクリスに電話できるのですが、持ってくるのを忘れてしまいました。	"I could call Chris if I had my phone, but I forgot to bring it."		
 GU040S001	1	40	6_If and wish Passive	もし知っていたら、あなたを訪ねて行ったのに。	"If I'd known, I would have gone to visit you."		
-GU040S002	1	40	6_If and wish Passive	あなたが通りですれ違ったとき、私はあなたに気づきませんでした。 もし会っていたら、もちろん挨拶しただろう。	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
+GU040S002	1	40	6_If and wish Passive	あなたが通りで私を通りすぎた時、私はあなたを見ませんでした。 もし見ていたら、もちろん挨拶しただろう。	"I didn't see you when you passed me in the street. If I'd seen you, of course I would have said hello."		
 GU040S003	1	40	6_If and wish Passive	彼らは昨夜外出しませんでした。 もし彼らがそんなに疲れていなければ、彼らは出かけていただろう。	They didn't go out last night. They would have gone out if they hadn't been so tired.		
 GU040S004	1	40	6_If and wish Passive	もし、どこへ行くのか見ていたら、壁にぶつかることはなかったでしょう。	"If you'd been looking where you were going, you wouldn't have walked into the wall."		
 GU040S005	1	40	6_If and wish Passive	景色は素晴らしかったです。 もしカメラを持っていたら、何枚か写真を撮っただろうに。	The view was wonderful. I would have taken some pictures if l'd had a camera with me.		
@@ -2280,10 +2280,10 @@ GU040S009	1	40	6_If and wish Passive	レイチェルの誕生日のことを思�
 GU040S010	1	40	6_If and wish Passive	連絡が取れませんでした。 もしあなたの電子メールアドレスを知っていたら、あなたに電子メールを送ったのに。	"I wasn't able to contact you. If I'd had your email address, I would have sent you an email."		
 GU040S011	1	40	6_If and wish Passive	私たちの旅行は問題ありませんでしたが、天気が良ければもっと楽しめたでしょう。	"Our trip was OK, but we would have enjoyed it more if the weather had been better."		
 GU040S012	1	40	6_If and wish Passive	サラは空港行きの電車に間に合うように駅に着きました。 もし彼女が電車に乗り遅れていたら、飛行機にも乗り遅れていただろう。	"Sarah got to the station just in time to catch her train to the airport. If she'd missed the train, she would have missed her flight too."		
-GU040S013	1	40	6_If and wish Passive	私は疲れていません。 疲れていたら、今すぐ家に帰ります。	"I'm not tired. If I was tired, I'd go home now."		
+GU040S013	1	40	6_If and wish Passive	私は疲れていません。 疲れていたら、今家に帰るでしょう。	"I'm not tired. If I was tired, I'd go home now."		
 GU040S014	1	40	6_If and wish Passive	昨夜は疲れていませんでした。 もし疲れていたら、早く家に帰っていただろう。	"I wasn't tired last night. If I'd been tired, I would have gone home early."		
 GU040S015	1	40	6_If and wish Passive	カレンさんはシートベルトのおかげで事故で怪我をしなかった。 もしそれを着ていなかったら、おそらく怪我をしていたでしょう。	"Karen wasn't injured in the crash thanks to her seat belt. If she hadn't been wearing it, she would probably have been injured."		
-GU040S016	1	40	6_If and wish Passive	ゲイリーが病気だと知っていればよかった。 私なら彼に会いに行っただろう。	I wish I'd known that Gary was ill. I would have gone to see him.		
+GU040S016	1	40	6_If and wish Passive	私はゲイリーが病気だと知っていたらよかった。 私は彼に会いに行っただろう。	I wish I'd known that Gary was ill. I would have gone to see him.		
 GU040S017	1	40	6_If and wish Passive	気分が悪いです。 そんなに食べなければよかった。	I feel sick. I wish I hadn't eaten so much.		
 GU040S018	1	40	6_If and wish Passive	語学ではなく科学を勉強しておけばよかったと思いますか?	Do you wish you'd studied science instead of languages?		
 GU040S019	1	40	6_If and wish Passive	彼に会えて嬉しかったです。	I'm glad I saw him.		
@@ -2293,15 +2293,15 @@ GU040S022	1	40	6_If and wish Passive	ドアを青く塗ったのは間違いで�
 GU040S023	1	40	6_If and wish Passive	新しいソファを買ったけど、今は気に入らない。 買わなければよかった。	"I bought a new sofa, but I don't like it now. I wish I hadn't bought it."		
 GU040S024	1	40	6_If and wish Passive	アランは私のアドバイスを受け入れるべきだった。 彼が私の言った通りにしてくれればよかったのに。	Alan should have taken my advice. I wish he'd done as I said.		
 GU040S025	1	40	6_If and wish Passive	パーティーは本当に退屈だった。 行かなければよかったのに。	The party was really boring. I wish we hadn't gone.		
-GU040S026	1	40	6_If and wish Passive	あなたのアイデアは素晴らしいですね。 そう考えればよかったのに。	Your idea is brilliant. I wish I'd thought of that.		
-GU040S027	1	40	6_If and wish Passive	結婚式で写真を撮っておけばよかった。 今から見てみると良いでしょう。	I wish we'd taken some pictures at the wedding. It would be nice to look at them now.		
+GU040S026	1	40	6_If and wish Passive	あなたのアイデアは素晴らしいですね。 私がそれを思いついたらよかったのに。	Your idea is brilliant. I wish I'd thought of that.		
+GU040S027	1	40	6_If and wish Passive	結婚式で写真を撮っておけばよかった。 今それらを見るのは良かったでしょう。	I wish we'd taken some pictures at the wedding. It would be nice to look at them now.		
 GU040S028	1	40	6_If and wish Passive	私の言ったことは間違っていました。 言わなければよかったのに。	What I said was wrong. I wish I hadn't said it.		
-GU040S029	1	40	6_If and wish Passive	会議は短すぎました。 もっと話し合う時間があればよかったと思います。	The meeting was too short. I wish we'd had more time to discuss things.		
-GU040S030	1	40	6_If and wish Passive	もしあなたに会っていたら、挨拶しただろうに。	"If I had seen you, I would have said hello."		
-GU040S031	1	40	6_If and wish Passive	もしあなたに会っていたら、挨拶しただろうに。	"If I'd seen you, I'd have said hello."		
-GU040S032	1	40	6_If and wish Passive	私たちが休暇に行ったとき、天気は寒かった。 もっと暖かくなればよかったのに。	The weather was cold when we were on holiday. I wish it had been warmer.		
-GU040S033	1	40	6_If and wish Passive	あなたが昨夜のパーティーに出席できなかったのは残念です。 来ていたら楽しかったでしょうね。	It's a shame you weren't at the party last night. You would have enjoyed it if you'd come.		
-GU040S034	1	40	6_If and wish Passive	早起きしなければならないとは知りませんでした。 もし知っていたら、あなたを起こしたのに。	"I didn't know you had to get up early. If I'd known, I would have woken you up."		
+GU040S029	1	40	6_If and wish Passive	会議は短すぎました。 もっと物事を議論する時間があればよかったと思います。	The meeting was too short. I wish we'd had more time to discuss things.		
+GU040S030	1	40	6_If and wish Passive	もしあなたを見ていたら、挨拶しただろうに。	"If I had seen you, I would have said hello."		
+GU040S031	1	40	6_If and wish Passive	もしあなたに見ていたら、挨拶しただろうに。	"If I'd seen you, I'd have said hello."		
+GU040S032	1	40	6_If and wish Passive	私たちが休暇だった時、天気は寒かった。 もっと暖かくなればよかったのに。	The weather was cold when we were on holiday. I wish it had been warmer.		
+GU040S033	1	40	6_If and wish Passive	あなたが昨夜のパーティーにいなかったのは残念です。 来ていたら楽しかったでしょうね。	It's a shame you weren't at the party last night. You would have enjoyed it if you'd come.		
+GU040S034	1	40	6_If and wish Passive	私はあなたが早起きしなければいけなかったとは知りませんでした。 もし知っていたら、あなたを起こしたのに。	"I didn't know you had to get up early. If I'd known, I would have woken you up."		
 GU040S035	1	40	6_If and wish Passive	私は楽器を演奏できません。 もっと若い時に演奏を習っておけばよかったと思います。	I can't play a musical instrument. I wish I'd learned to play one when I was younger.		
 GU040S036	1	40	6_If and wish Passive	道路には氷が張っていました。 道路が凍結していなければ、その事故は起こらなかったでしょう。	There was ice on the road. The accident wouldn't have happened if the road hadn't been icy.		
 GU040S037	1	40	6_If and wish Passive	私たちは数か月前に新しいアパートに引っ越しましたが、それが気に入らないのです。 引っ越しなければよかったのに。	"We moved to a new apartment a few months ago, but I don't like it. I wish we hadn't moved."		
@@ -2314,45 +2314,45 @@ GU040S043	1	40	6_If and wish Passive	もし天気がそれほど悪くなかっ�
 GU040S044	1	40	6_If and wish Passive	もし天気がそれほど悪くなかったら、私たちは出かけられたのに。	"If the weather hadn't been so bad, we could have gone out."		
 GU040S045	1	40	6_If and wish Passive	天気がそれほど悪くなかったら、私たちは出かけていたかもしれません。	"If the weather hadn't been so bad, we might have gone out."		
 GU040S046	1	40	6_If and wish Passive	残念ながら雨が降っていました。 雨が降っていなければ、私たちはビーチに行くことができたのに。	"Unfortunately it was raining. If it hadn't been raining, we could have gone to the beach."		
-GU040S047	1	40	6_If and wish Passive	私が店で見たスカーフはとても高価でした。 もう少し安かったら、買っていたかも知れません。	"The scarf I saw in the shop was really expensive. If it had been a little cheaper, I might have bought it."		
-GU040S048	1	40	6_If and wish Passive	ランチを食べられてよかったです。 何も食べていなかったら、今頃お腹が空いているでしょう。	"I'm glad I had lunch. If I hadn't eaten anything, I'd be hungry now."		
-GU040S049	1	40	6_If and wish Passive	私は学生時代にあまり勉強しませんでした。 もっと成績が良かったら大学に行けたかもしれない。	"I didn't study hard when I was at school. If I'd done better, I could have gone to university."		
+GU040S047	1	40	6_If and wish Passive	私が店で見たスカーフは本当に高価でした。 もう少し安かったら、買っていたかも知れません。	"The scarf I saw in the shop was really expensive. If it had been a little cheaper, I might have bought it."		
+GU040S048	1	40	6_If and wish Passive	ランチを食べてよかったです。 何も食べていなかったら、今頃お腹が空いているでしょう。	"I'm glad I had lunch. If I hadn't eaten anything, I'd be hungry now."		
+GU040S049	1	40	6_If and wish Passive	私は学生時代熱心に勉強しませんでした。 もっとよくしていたら大学に行くことができただろう。	"I didn't study hard when I was at school. If I'd done better, I could have gone to university."		
 GU040S050	1	40	6_If and wish Passive	何をすればいいのか分かりませんでした。 もしあなたが私の立場だったら、どうしたでしょうか？	"I didn't know what to do. If you'd been in my position, what would you have done?"		
 GU040S051	1	40	6_If and wish Passive	リサの誕生日のことを思い出させてくれて良かったです。 あなたが何も言わなかったら、私は覚えていなかったかもしれません。	"It's good that you reminded me about Lisa's birthday. If you hadn't said anything, I might not have remembered."		
-GU041S001	1	41	6_If and wish Passive	今後ともご多幸をお祈り申し上げます。	I wish you all the best in the future.		
+GU041S001	1	41	6_If and wish Passive	将来の挑戦がすべてうまくいきますように。	I wish you all the best in the future.		
 GU041S002	1	41	6_If and wish Passive	試験前にマークに会いましたが、彼は私の幸運を祈っていました。	I saw Mark before the exam and he wished me luck.		
-GU041S003	1	41	6_If and wish Passive	ごめんなさい、体調が優れません。 あなたがすぐに良い気持ちになるとうれしい。	I'm sorry you're not well. I hope you feel better soon.		
-GU041S004	1	41	6_If and wish Passive	楽しいご滞在をお祈りしております。	I wish you a pleasant stay here.		
+GU041S003	1	41	6_If and wish Passive	あなたの体調が良くないのはお気の毒です。 あなたの体調が良くなることを願います。	I'm sorry you're not well. I hope you feel better soon.		
+GU041S004	1	41	6_If and wish Passive	ここでの楽しいご滞在をお祈りしております。	I wish you a pleasant stay here.		
 GU041S005	1	41	6_If and wish Passive	楽しいご滞在をお過ごしいただければ幸いです。	I hope you have a pleasant stay here.		
-GU041S006	1	41	6_If and wish Passive	休日を楽しんで。 楽しい時間をお過ごしいただければ幸いです。	Enjoy your holiday. I hope you have a great time.		
+GU041S006	1	41	6_If and wish Passive	休暇を楽しんで。 あなたが楽しい時間を過ごすことを願います。	Enjoy your holiday. I hope you have a great time.		
 GU041S007	1	41	6_If and wish Passive	さようなら！ 皆様の今後のご多幸を心よりお祈り申し上げます。	Goodbye! I wish you all the best for the future.		
 GU041S008	1	41	6_If and wish Passive	私たちはお互いに別れを告げ、お互いの幸運を祈りました。	We said goodbye to one another and wished each other luck.		
 GU041S009	1	41	6_If and wish Passive	私たちは明日ピクニックに行く予定なので、天気がいいといいのですが。	"We're going to have a picnic tomorrow, so I hope the weather is nice."		
-GU041S010	1	41	6_If and wish Passive	新しいお仕事おめでとうございます。 皆様のご成功をお祈りしております。	Congratulations on your new job. I wish you every success.		
-GU041S011	1	41	6_If and wish Passive	新しい仕事で頑張ってください。 うまくいくことを願っています。	Good luck in your new job. I hope it works out well for you.		
+GU041S010	1	41	6_If and wish Passive	新しいお仕事おめでとうございます。 あなたの全ての成功をお祈りしております。	Congratulations on your new job. I wish you every success.		
+GU041S011	1	41	6_If and wish Passive	新しい仕事での幸運を。 あなたのためにうまくいくことを願っています。	Good luck in your new job. I hope it works out well for you.		
 GU041S012	1	41	6_If and wish Passive	その問題に対して何をすべきか知っていればよかったのですが。	I wish I knew what to do about the problem.		
-GU041S013	1	41	6_If and wish Passive	そんなに早く行かなくてもよかったのに。	I wish you didn't have to go so soon.		
+GU041S013	1	41	6_If and wish Passive	あなたがそんなにすぐ行く必要がなければよかったのに。	I wish you didn't have to go so soon.		
 GU041S014	1	41	6_If and wish Passive	海の近くに住みたいと思いますか?	Do you wish you lived near the sea?		
 GU041S015	1	41	6_If and wish Passive	ジャックはもうすぐメキシコへ旅行に行く予定です。 私も行けばよかったのに。	Jack's going on a trip to Mexico soon. I wish I was going too.		
-GU041S016	1	41	6_If and wish Passive	パーティーのことを知っていればよかった。 知っていたら行ったのに。	I wish I'd known about the party. I'd have gone if l'd known.		
+GU041S016	1	41	6_If and wish Passive	パーティーについて知っていればよかった。 知っていたら行ったのに。	I wish I'd known about the party. I'd have gone if l'd known.		
 GU041S017	1	41	6_If and wish Passive	愚かな発言でした。 言わなければよかったのに。	It was a stupid thing to say. I wish I hadn't said it.		
 GU041S018	1	41	6_If and wish Passive	どうすればいいのか分かりません。 何をすべきか知っていればよかったのですが。	I don't know what to do. I wish I knew what to do.		
-GU041S019	1	41	6_If and wish Passive	あなたはあまり忍耐強くありません。 いつも何かをすぐに欲しがります。 もっと辛抱強くなればいいのに。	You're not very patient. You always want things immediately. I wish you were more patient.		
+GU041S019	1	41	6_If and wish Passive	あなたはあまり忍耐強くありません。 あなたはいつも物をすぐに欲しがります。 あなたがもっと辛抱強くなればいいのに。	You're not very patient. You always want things immediately. I wish you were more patient.		
 GU041S020	1	41	6_If and wish Passive	とても疲れていて、やるべきことがたくさんあります。 そんなに疲れてなかったらよかったのに。	I'm very tired and I have so much to do. I wish I weren't so tired.		
-GU041S021	1	41	6_If and wish Passive	あなたは私に病気だとは言いませんでした。 なぜだめですか？ 教えてくれればよかったのに。	You didn't tell me you were ill. Why not? I wish you had told me.		
-GU041S022	1	41	6_If and wish Passive	雨が降っている。 傘を持っていないので、かなり濡れてしまいます。 傘があればいいのに。	It's raining. I don't have an umbrella and I'm getting very wet. I wish I had an umbrella.		
+GU041S021	1	41	6_If and wish Passive	あなたは私にあなたが病気だとは言いませんでした。 なぜ（言わなかったのですか）？ 私に言ってくれたらよかったのに。	You didn't tell me you were ill. Why not? I wish you had told me.		
+GU041S022	1	41	6_If and wish Passive	雨が降っている。 私は傘を持っておらず、かなり濡れていきます。 傘があればいいのに。	It's raining. I don't have an umbrella and I'm getting very wet. I wish I had an umbrella.		
 GU041S023	1	41	6_If and wish Passive	この靴を買ったけど、今は気に入らない。 買わなければよかったです。	"I bought these shoes, but now I don't like them. I wish I hadn't bought them."		
 GU041S024	1	41	6_If and wish Passive	今は出かけなければなりませんが、行きたくないです。 今は外出しなくてもよかったのに。	We have to go out now and I don't want to go. I wish we didn't have to go out now.		
 GU041S025	1	41	6_If and wish Passive	私たちはひどい休日を過ごしました。 私たちは全く楽しめませんでした。 家にいればよかった。	We had a terrible holiday. We didn't enjoy it at all. I wish we'd stayed at home.		
-GU041S026	1	41	6_If and wish Passive	ごめんなさい、行かなければなりません。 もっと長く滞在していただければと思います。	I'm sorry you have to go. I wish you could stay longer.		
+GU041S026	1	41	6_If and wish Passive	あなたが行かなければならないのはお気の毒です。 あなたがもっと長く滞在できればよかったのに。	I'm sorry you have to go. I wish you could stay longer.		
 GU041S027	1	41	6_If and wish Passive	私は前にその男に会ったことがあります。 彼の名前を覚えていられたらいいのに。	I've met that man before. I wish I could remember his name.		
 GU041S028	1	41	6_If and wish Passive	パーティーは素晴らしかったと聞いています。 行けばよかったのに。	I hear the party was great. I wish I could have gone.		
 GU041S029	1	41	6_If and wish Passive	ノートを紛失してしまいました。 見つけられたらいいのですが。	I've lost my notebook. I wish I could find it.		
 GU041S030	1	41	6_If and wish Passive	何をすればいいのか分かりません。 決められたらいいのに。	I'm not sure what I should do. I wish I could decide.		
 GU041S031	1	41	6_If and wish Passive	私たちはパリで本当に良い週末を過ごしました。 もっと長く滞在できればよかったと思います。	We had a really good weekend in Paris. I wish we could have stayed longer.		
 GU041S032	1	41	6_If and wish Passive	私はあまり良い声を持っていません。 もっと上手に歌えたらいいのに。	I don't have a very good voice. I wish I could sing better.		
-GU041S033	1	41	6_If and wish Passive	車があればいいですね。 余裕があればいいのですが。	It would be nice to have a car. I wish we could afford it.		
-GU041S034	1	41	6_If and wish Passive	残念ながら結婚式には欠席してしまいました。 行けばよかったのに。	I missed the wedding unfortunately. I wish I could have gone.		
+GU041S033	1	41	6_If and wish Passive	車を持つことは良かったことでしょう。 我々にその余裕があればよかったのですが。	It would be nice to have a car. I wish we could afford it.		
+GU041S034	1	41	6_If and wish Passive	残念ながら結婚式には行き損ないました。 行くことができればよかったのに。	I missed the wedding unfortunately. I wish I could have gone.		
 GU041S035	1	41	6_If and wish Passive	雨が止んでくれるといいのですが。	I wish it would stop raining.		
 GU041S036	1	41	6_If and wish Passive	電話が5分間鳴り続けています。 誰かが答えてくれるといいのですが。	The phone has been ringing for five minutes. I wish somebody would answer it.		
 GU041S037	1	41	6_If and wish Passive	何もせずに座っているだけでなく、何かをしてほしいと思います。	I wish you'd do something instead of just sitting and doing nothing.		
@@ -2361,38 +2361,38 @@ GU041S039	1	41	6_If and wish Passive	彼女が急いでくれればいいのに�
 GU041S040	1	41	6_If and wish Passive	誰かが私に仕事を与えてくれればいいのに。	I wish somebody would give me a job.		
 GU041S041	1	41	6_If and wish Passive	そんなに速く運転しないでほしいです。	I wish you wouldn't drive so fast.		
 GU041S042	1	41	6_If and wish Passive	あの犬が吠えるのをやめてくれればいいのに。	I wish that dog would stop barking.		
-GU041S043	1	41	6_If and wish Passive	新しい服を買ってくれるといいのですが。	I wish you would buy some new clothes.		
+GU041S043	1	41	6_If and wish Passive	あなたがいくつか新しい服を買うとよいのですが。	I wish you would buy some new clothes.		
 GU041S044	1	41	6_If and wish Passive	ずっとドアを開けっ放しにしないでほしいです。	I wish you wouldn't leave the door open all the time.		
-GU041S045	1	41	6_If and wish Passive	人々が道にゴミを捨てないでほしいと思います。	I wish people wouldn't drop litter in the street.		
+GU041S045	1	41	6_If and wish Passive	人々が通りにゴミを捨てなければいいのに。	I wish people wouldn't drop litter in the street.		
 GU041S046	1	41	6_If and wish Passive	サラが来てくれればいいのに。	I wish Sarah would come.		
 GU041S047	1	41	6_If and wish Passive	サラが今ここにいればよかったのに。	I wish Sarah was here now.	I wish Sarah were here now.	
 GU041S048	1	41	6_If and wish Passive	誰かが私に車を買ってくれたらいいのに。	I wish somebody would buy me a car.		
-GU041S049	1	41	6_If and wish Passive	車があればいいのに。	I wish I had a car.		
-GU041S050	1	41	6_If and wish Passive	難しい質問ですね。 答えがわかればいいのですが。	It's a difficult question. I wish I knew the answer.		
+GU041S049	1	41	6_If and wish Passive	車が持っていたらいいのに。	I wish I had a car.		
+GU041S050	1	41	6_If and wish Passive	難しい質問ですね。 答えを知っていたらいいのですが。	It's a difficult question. I wish I knew the answer.		
 GU041S051	1	41	6_If and wish Passive	バスが来ればいいのに。 20分も待っています。	I wish the bus would come. We've been waiting for 20 minutes.		
 GU041S052	1	41	6_If and wish Passive	私は緑のジャケットを着たあの男が好きではありません。 彼がいなくなってくれればいいのに。	I don't like that man in the green jacket. I wish he'd go away.		
-GU041S053	1	41	6_If and wish Passive	今日は寒いです。 そんなに寒くないといいのですが。	It's freezing today. I wish it wasn't so cold.		
+GU041S053	1	41	6_If and wish Passive	今日は凍えるほど(寒い)です。 そんなに寒くないとよかったのですが。	It's freezing today. I wish it wasn't so cold.		
 GU041S054	1	41	6_If and wish Passive	あなたが言ったことをすべきだった。 あなたのアドバイスを聞いておけばよかったです。	I should have done what you said. I wish I'd taken your advice.		
-GU041S055	1	41	6_If and wish Passive	遠ざかっていくのは幸運だ。 一緒に来れたらいいのに。	You're lucky to be going away. I wish I could come with you.		
-GU041S056	1	41	6_If and wish Passive	なぜあなたは私の邪魔をし続けるのですか？ 聞いていただければ幸いです。	Why do you keep interrupting me? I wish you would listen.		
+GU041S055	1	41	6_If and wish Passive	あなたは出ていく予定とのことで幸運です。 私はあなたと一緒に来れたらよかったのですが。	You're lucky to be going away. I wish I could come with you.		
+GU041S056	1	41	6_If and wish Passive	なぜあなたは私の邪魔をし続けるのですか？ （私の言うことを）聴いてくれたらよかったのですが。	Why do you keep interrupting me? I wish you would listen.		
 GU041S057	1	41	6_If and wish Passive	生活費はとても高いです。 すべてがそれほど高価でなければいいのにと思います。	The cost of living is very high. I wish everything wasn't so expensive.		
-GU041S058	1	41	6_If and wish Passive	ピアノがあればいいのに。 ぜひお持ちいただきたいです。	I wish I had a piano. I'd love to have one.		
+GU041S058	1	41	6_If and wish Passive	私がピアノを持っていたら良かったのに。 ぜひピアノを持ちたい。	I wish I had a piano. I'd love to have one.		
 GU041S059	1	41	6_If and wish Passive	誰か私にピアノをくれたらいいのに。	I wish somebody would give me a piano.		
 GU041S060	1	41	6_If and wish Passive	あなたは文句を言うのが大好きです！ いつも文句を言わないでほしいです。	You love complaining! I wish you wouldn't complain all the time.		
 GU042S001	1	42	6_If and wish Passive	1981年に誰かがこの家を建てました。	Somebody built this house in 1981.		
 GU042S002	1	42	6_If and wish Passive	この家は1981年に建てられました。	This house was built in 1981.		
 GU042S003	1	42	6_If and wish Passive	私の祖父は建設業者でした。 彼は1981年にこの家を建てました。	My grandfather was a builder. He built this house in 1981.		
-GU042S004	1	42	6_If and wish Passive	大きな会社ですよ。 従業員は 200 人です。	It's a big company. It employs two hundred people.		
+GU042S004	1	42	6_If and wish Passive	それは大きな会社です。 それは200人を雇っている。	It's a big company. It employs two hundred people.		
 GU042S005	1	42	6_If and wish Passive	A: この家は築何年ですか? B: 1981 年に建てられました。	A: How old is this house? B: It was built in 1981.		
 GU042S006	1	42	6_If and wish Passive	その会社には200人が雇用されています。	Two hundred people are employed by the company.		
 GU042S007	1	42	6_If and wish Passive	空港は霧のため閉鎖されました。 彼らはすべてのフライトをキャンセルしました。	The airport was closed because of fog.  They cancelled all flights.		
 GU042S008	1	42	6_If and wish Passive	空港は霧のため閉鎖されました。 すべてのフライトがキャンセルされました。	The airport was closed because of fog. All flights were cancelled.		
-GU042S009	1	42	6_If and wish Passive	価格には税金とサービスが含まれています。 価格はまさに支払わなければならないものです。	The price includes taxes and service. The price is exactly what you have to pay.		
-GU042S010	1	42	6_If and wish Passive	税金とサービス料は料金に含まれております。 価格はまさに支払わなければならないものです。	Taxes and service are included in the price. The price is exactly what you have to pay.		
+GU042S009	1	42	6_If and wish Passive	価格は税金とサービスを含んでいます。 価格はまさにあなたが支払わなければいけないものです。	The price includes taxes and service. The price is exactly what you have to pay.		
+GU042S010	1	42	6_If and wish Passive	税金とサービス料は料金に含まれております。 価格はまさにあなたが支払わなければいけないものです。	Taxes and service are included in the price. The price is exactly what you have to pay.		
 GU042S011	1	42	6_If and wish Passive	私たちは傘を持って行きましたが、雨は降りませんでした。 傘は必要ありませんでした。	"We took an umbrella with us, but it didn't rain. We didn't need the umbrella."		
 GU042S012	1	42	6_If and wish Passive	私たちは傘を持って行きましたが、雨は降りませんでした。 傘は必要ありませんでした。	"We took an umbrella with us, but it didn't rain. The umbrella wasn't needed."		
-GU042S013	1	42	6_If and wish Passive	盛大な結婚式でした。 たくさんの人がいました。 彼らは結婚式に500人を招待した。	It was a big wedding. There were lots of people. They invited five hundred people to the wedding.		
-GU042S014	1	42	6_If and wish Passive	盛大な結婚式でした。 たくさんの人がいました。 結婚式には500人が招待された。	It was a big wedding. There were lots of people. Five hundred people were invited to the wedding.		
+GU042S013	1	42	6_If and wish Passive	大規模な結婚式でした。 たくさんの人がいました。 彼らは結婚式に500人を招待した。	It was a big wedding. There were lots of people. They invited five hundred people to the wedding.		
+GU042S014	1	42	6_If and wish Passive	大規模な結婚式でした。 たくさんの人がいました。 500人が結婚式に招待された。	It was a big wedding. There were lots of people. Five hundred people were invited to the wedding.		
 GU042S015	1	42	6_If and wish Passive	この道は交通量があまり多くありません。 この道を使う人はあまり多くありません。	There isn't much traffic on this road. Not many people use this road.		
 GU042S016	1	42	6_If and wish Passive	この道は交通量があまり多くありません。 この道はあまり使われていない。	There isn't much traffic on this road. This road isn't used a lot.		
 GU042S017	1	42	6_If and wish Passive	この言葉は今まで見たことがありません。 この言葉はどうやって発音しますか？	I've never seen this word before. How do you pronounce this word?		
@@ -2407,46 +2407,46 @@ GU042S025	1	42	6_If and wish Passive	強盗事件の直後、男が逮捕され�
 GU042S026	1	42	6_If and wish Passive	私は速く走っていましたが、他の多くの車に追い抜かれました。	"I was driving fast, but we were overtaken by a lot of other cars."		
 GU042S027	1	42	6_If and wish Passive	数日前、嵐で建物の屋根が破損しました。	A few days ago the roof of the building was damaged in a storm.		
 GU042S028	1	42	6_If and wish Passive	アメリカでは大統領選挙が4年ごとに行われます。	"In the USA, elections for president are held every four years."		
-GU042S029	1	42	6_If and wish Passive	道路からは家は見えません。 木々に囲まれています。	You can't see the house from the road. It is surrounded by trees.		
+GU042S029	1	42	6_If and wish Passive	あなたは道路からは家を見ることができません。 （家は）木々に囲まれています。	You can't see the house from the road. It is surrounded by trees.		
 GU042S030	1	42	6_If and wish Passive	誰かが毎日この部屋を掃除します。	Somebody cleans this room every day.		
 GU042S031	1	42	6_If and wish Passive	この部屋は毎日掃除されます。	This room is cleaned every day.		
 GU042S032	1	42	6_If and wish Passive	天気の変化によって頭痛が起こることがあります。	Sometimes headaches are caused by changes in the weather.		
-GU042S033	1	42	6_If and wish Passive	パーティーにはあまり誘われないんです。	I'm not invited to parties very often.		
+GU042S033	1	42	6_If and wish Passive	私はパーティーにはあまり頻繁に誘われないんです。	I'm not invited to parties very often.		
 GU042S034	1	42	6_If and wish Passive	この建物は何と呼ばれますか? 名前はありますか？	What is this building called? Does it have a name?		
-GU042S035	1	42	6_If and wish Passive	映画館とは映画を上映する場所です。	A cinema is a place where films are shown.		
-GU042S036	1	42	6_If and wish Passive	この植物はとても珍しいです。 ごく限られた場所で発見されています。	This plant is very rare. It is found in very few places.		
+GU042S035	1	42	6_If and wish Passive	映画館は映画が上映される場所です。	A cinema is a place where films are shown.		
+GU042S036	1	42	6_If and wish Passive	この植物はとても珍しいです。 それはとても数少ない場所で発見されます。	This plant is very rare. It is found in very few places.		
 GU042S037	1	42	6_If and wish Passive	銀は何に使われるのですか？	What is silver used for?		
 GU042S038	1	42	6_If and wish Passive	これらのおもちゃはすべて木でできています。	All these toys are made of wood.		
 GU042S039	1	42	6_If and wish Passive	私はこれらの花を今まで見たことがありません。 彼らは何と呼ばれている？	I haven't seen these flowers before. What are they called?		
 GU042S040	1	42	6_If and wish Passive	このオフィスは現在空になっています。 もう使われていません。	This office is now empty. It is not used any more.		
 GU042S041	1	42	6_If and wish Passive	通りの端にある 3 軒の家は同じ人が所有しています。	The three houses at the end of the street are owned by the same person.		
-GU042S042	1	42	6_If and wish Passive	会議のためにそこにいる必要はありません。 私は必要とされていません。	I don't have to stay for the meeting. I'm not needed.		
+GU042S042	1	42	6_If and wish Passive	私は会議のためにそこにいる必要はありません。 私は必要とされていません。	I don't have to stay for the meeting. I'm not needed.		
 GU042S043	1	42	6_If and wish Passive	昨日誰かがこの部屋を掃除しました。	Somebody cleaned this room yesterday.		
 GU042S044	1	42	6_If and wish Passive	この部屋は昨日掃除されました。	This room was cleaned yesterday.		
 GU042S045	1	42	6_If and wish Passive	私たちは夜中に大きな騒音で目が覚めました。	We were woken up by a loud noise during the night.		
 GU042S046	1	42	6_If and wish Passive	強盗で盗まれたお金はいくらですか?	How much money was stolen in the robbery?		
 GU042S047	1	42	6_If and wish Passive	A: パーティーに行きましたか? B: いいえ、招待されていません。	"A: Did you go to the party? B: No, I wasn't invited."		
-GU042S048	1	42	6_If and wish Passive	天気が悪かったので、私たちの旅行はキャンセルされました。	Our trip was cancelled because the weather was so bad.		
+GU042S048	1	42	6_If and wish Passive	天気が非常に悪かったので、私たちの旅行はキャンセルされました。	Our trip was cancelled because the weather was so bad.		
 GU042S049	1	42	6_If and wish Passive	私たちはパーティーに行きませんでした。 私たちは招待されていませんでした。	We didn't go to the party. We weren't invited.		
 GU042S050	1	42	6_If and wish Passive	私はその手紙を受け取ったことがありません。 間違った住所に送られてきました。	I never received the letter. It was sent to the wrong address.		
-GU042S051	1	42	6_If and wish Passive	昨夜事故がありましたが、幸いなことに怪我はありませんでした。	"There was an accident last night, but fortunately nobody was injured."		
-GU042S052	1	42	6_If and wish Passive	抗生物質をどれくらい前から服用していますか? 初めて使用されたのはいつですか?	How long have we had antibiotics? When were they first used?		
+GU042S051	1	42	6_If and wish Passive	昨夜事故がありましたが、幸いなことに誰も怪我をしませんでした。	"There was an accident last night, but fortunately nobody was injured."		
+GU042S052	1	42	6_If and wish Passive	どれくらい長く我々は抗生物質を服用してきましたか? いつそれらが初めて使われましたか?	How long have we had antibiotics? When were they first used?		
 GU042S053	1	42	6_If and wish Passive	大学に応募しましたが、残念ながら受け入れられませんでした。	"I applied for a place at university, but unfortunately I wasn't accepted."		
 GU042S054	1	42	6_If and wish Passive	私が働いている会社は、はるかに大きな会社が所有しています。	The company I work for is owned by a much larger company.		
 GU042S055	1	42	6_If and wish Passive	テレビはどれくらい前から存在していましたか？ いつ発明されましたか?	How long has television existed? When was it invented?		
 GU042S056	1	42	6_If and wish Passive	ボートは岩に衝突し、すぐに沈没した。 幸いなことに全員が救出されました。	The boat hit a rock and sank quickly. Fortunately everybody was rescued.		
-GU042S057	1	42	6_If and wish Passive	ロバートの両親は彼が幼い頃に亡くなりました。 彼と彼の妹は祖父母に育てられました。	Robert's parents died when he was very young. He and his sister were brought up by their grandparents.		
-GU042S058	1	42	6_If and wish Passive	休暇中にホテルの部屋からカメラが盗まれました。 私が休暇中にホテルの部屋からカメラが消えてしまいました。	"While I was on holiday, my camera was stolen from my hotel room. While I was on holiday, my camera disappeared from my hotel room."		
+GU042S057	1	42	6_If and wish Passive	ロバートの両親は彼がとても幼い頃に亡くなりました。 彼と彼の妹は彼らの祖父母に育てられました。	Robert's parents died when he was very young. He and his sister were brought up by their grandparents.		
+GU042S058	1	42	6_If and wish Passive	私が休暇中に、ホテルの部屋から私のカメラが盗まれました。 私が休暇中に、ホテルの部屋から私のカメラが消えてしまいました。	"While I was on holiday, my camera was stolen from my hotel room. While I was on holiday, my camera disappeared from my hotel room."		
 GU042S059	1	42	6_If and wish Passive	スーはなぜ仕事を辞めたのですか? 彼女はもう楽しめなかったのでしょうか？ なぜビルは仕事を解雇されたのですか? 彼は何か悪いことをしましたか？	Why did Sue resign from her job? Didn't she enjoy it any more? Why was Bill fired from his job? Did he do something wrong?		
-GU042S060	1	42	6_If and wish Passive	素敵な写真ですね。 彼らはどこに連れて行かれたのでしょうか？ ロンドンで？ これらの写真を撮ったのは誰ですか? あなたが連れて行ったのですか、それとも他の誰かが連れて行ったのですか？	"These are nice pictures. Where were they taken? In London? Who took these pictures? Did you take them, or somebody else?"		
+GU042S060	1	42	6_If and wish Passive	これらは素敵な写真ですね。それらはどこで撮られましたか？ ロンドンで？ これらの写真を撮ったのは誰ですか? あなたがそれらを撮ったのですか、それとも他の誰か？	"These are nice pictures. Where were they taken? In London? Who took these pictures? Did you take them, or somebody else?"		
 GU042S061	1	42	6_If and wish Passive	水は地球の表面の大部分を覆っています。	Water covers most of the earth's surface.		
 GU042S062	1	42	6_If and wish Passive	地球の表面のどれくらいが水で覆われていますか?	How much of the earth's surface is covered by water?		
 GU042S063	1	42	6_If and wish Passive	私はロンドンで生まれましたが、カナダで育ちました。	"I was born in London, but I grew up in Canada."		
 GU042S064	1	42	6_If and wish Passive	私はロンドンで生まれましたが、カナダで育ちました。	"I was born in London, but I was brought up in Canada."		
 GU042S065	1	42	6_If and wish Passive	どのように自分を傷つけましたか？ 自転車から落ちましたか？	How did you hurt yourself? Did you fall off your bike?		
 GU042S066	1	42	6_If and wish Passive	どのように自分を傷つけましたか？ 自転車から落とされましたか？	How did you hurt yourself? Were you knocked off your bike?		
-GU042S067	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 気にしていません。	"Sometimes it's noisy here, but it's not a problem. I'm not bothered by it."		
-GU042S068	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 気にしません。	"Sometimes it's noisy here, but it's not a problem. It doesn't bother me."		
+GU042S067	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 私はそれに悩まされていません。	"Sometimes it's noisy here, but it's not a problem. I'm not bothered by it."		
+GU042S068	1	42	6_If and wish Passive	時々騒がしいことがありますが、問題ありません。 それは私を悩ませていません。	"Sometimes it's noisy here, but it's not a problem. It doesn't bother me."		
 GU042S069	1	42	6_If and wish Passive	空港でストライキがありましたが、私たちには影響ありませんでした。	"There was a strike at the airport, but it didn't affect us."		
 GU042S070	1	42	6_If and wish Passive	空港でストライキがありましたが、私たちは影響を受けませんでした。	"There was a strike at the airport, but we weren't affected."		
 GU043S001	1	43	6_If and wish Passive	後で誰かが部屋を掃除します。	Somebody will clean the room later.		
@@ -2460,12 +2460,12 @@ GU043S008	1	43	6_If and wish Passive	明日は何時に着くか分かりませ�
 GU043S009	1	43	6_If and wish Passive	彼らは新しい学校を建設中です。 古いものは取り壊される予定です。	They're building a new school. The old one is going to be knocked down.		
 GU043S010	1	43	6_If and wish Passive	問題はローラのせいではない。 彼女は責められるべきではない。	The problem isn't Laura's fault. She shouldn't be blamed.		
 GU043S011	1	43	6_If and wish Passive	彼女はあまり忍耐強くありません。 彼女は待たされるのが好きではありません。	She's not very patient. She doesn't like to be kept waiting.		
-GU043S012	1	43	6_If and wish Passive	これらの書類は重要です。 それらは安全な場所に保管する必要があります。	These documents are important. They should be kept in a safe place.		
+GU043S012	1	43	6_If and wish Passive	これらの書類は重要です。 それらは安全な場所に保管されるのがよい。	These documents are important. They should be kept in a safe place.		
 GU043S013	1	43	6_If and wish Passive	彼はつけひげを生やし、眼鏡をかけていた。 彼は認められたくなかった。	He was wearing a false beard and glasses. He didn't want to be recognised.		
 GU043S014	1	43	6_If and wish Passive	選挙は日曜日に行われます。 完全な結果は火曜日に判明する予定だ。	The election takes place on Sunday. The full results will be known on Tuesday.		
-GU043S015	1	43	6_If and wish Passive	見えるものなら見える。	If something is visible it can be seen.		
-GU043S016	1	43	6_If and wish Passive	何かが信じられないほどのものであれば、それは信じられません。	If something is incredible it can't be believed.		
-GU043S017	1	43	6_If and wish Passive	食べられるものであれば食べられます。	If something is edible it can be eaten.		
+GU043S015	1	43	6_If and wish Passive	何かが目に見えるなら、それは見える。	If something is visible it can be seen.		
+GU043S016	1	43	6_If and wish Passive	何かが信じられないなら、それは信じられません。	If something is incredible it can't be believed.		
+GU043S017	1	43	6_If and wish Passive	何かが食べられるものであれば、それは食べられます。	If something is edible it can be eaten.		
 GU043S018	1	43	6_If and wish Passive	食べられないものは食べられません。	If something is inedible it can't be eaten.		
 GU043S019	1	43	6_If and wish Passive	判読できないものがある場合は、読み取ることができません。	If something is illegible it can't be read.		
 GU043S020	1	43	6_If and wish Passive	何かが聞こえる場合、それは聞こえます。	If something is audible it can be heard.		
@@ -2483,7 +2483,7 @@ GU043S031	1	43	6_If and wish Passive	負傷した男性は歩くことができ�
 GU043S032	1	43	6_If and wish Passive	なぜ警察官に怒鳴ったのですか？ そうしなければ逮捕されなかったでしょう。	"Why did you shout at the police officer? If you hadn't done that, you wouldn't have been arrested."		
 GU043S033	1	43	6_If and wish Passive	火災がどのように発生したのかは定かではない。 電気的な故障が原因である可能性があります。	It's not certain how the fire started. It might have been caused by an electrical fault.		
 GU043S034	1	43	6_If and wish Passive	ホテルの受付係に6時半に起こして欲しいと伝えました。	I told the hotel receptionist that I wanted to be woken up at 6.30.		
-GU043S035	1	43	6_If and wish Passive	先週、彼らはお互いに話をしていませんでした。 今、彼らは再び幸せです。 問題は忘れ去られてしまったようだ。	Last week they weren't speaking to one another. Now they're happy again. The problem seems to have been forgotten.		
+GU043S035	1	43	6_If and wish Passive	先週彼らは互いと話をしていませんでした。 今、彼らは再び幸せです。 問題は忘れられているように見えます。	Last week they weren't speaking to one another. Now they're happy again. The problem seems to have been forgotten.		
 GU043S036	1	43	6_If and wish Passive	部屋はいい感じです。 誰かが掃除してくれました。	The room looks nice. Somebody has cleaned it.		
 GU043S037	1	43	6_If and wish Passive	部屋はいい感じです。 掃除済みです。	The room looks nice. It has been cleaned.		
 GU043S038	1	43	6_If and wish Passive	その旅行について聞いたことがありますか？ キャンセルされました。	Have you heard about the trip? It's been cancelled.		
@@ -2492,19 +2492,19 @@ GU043S040	1	43	6_If and wish Passive	A: パーティーに行きますか? B: �
 GU043S041	1	43	6_If and wish Passive	部屋は素敵に見えました。 誰かが掃除していたのだ。	The room looked nice. Somebody had cleaned it.		
 GU043S042	1	43	6_If and wish Passive	部屋は素敵に見えました。 掃除されていました。	The room looked nice. It had been cleaned.		
 GU043S043	1	43	6_If and wish Passive	野菜はあまり美味しくありませんでした。 調理時間が長すぎました。	The vegetables didn't taste very good. They had been cooked for too long.		
-GU043S044	1	43	6_If and wish Passive	車は3年前のものでしたが、あまり使用されていませんでした。	"The car was three years old, but hadn't been used very much."		
+GU043S044	1	43	6_If and wish Passive	車は3年落ちでしたが、あまり使用されていませんでした。	"The car was three years old, but hadn't been used very much."		
 GU043S045	1	43	6_If and wish Passive	私たちはパーティーに招待されていないので、行きません。	"We haven't been invited to the party, so we're not going."		
 GU043S046	1	43	6_If and wish Passive	今日は会議はありません。 明日に延期になりました。	There's no meeting today. It's been postponed until tomorrow.		
 GU043S047	1	43	6_If and wish Passive	このホテルは私が最後に滞在して以来改装されました。 今はずっと良くなりました。	This hotel has been renovated since I last stayed here. It's much nicer now.		
 GU043S048	1	43	6_If and wish Passive	窓はとても汚れていました。 彼らは何年も掃除されていませんでした。	The windows were very dirty. They hadn't been cleaned for ages.		
-GU043S049	1	43	6_If and wish Passive	この本はもともとスペイン語で書かれていましたが、英語に翻訳されました。	"The book was originally written in Spanish, but it's been translated into English."		
+GU043S049	1	43	6_If and wish Passive	この本はもともとスペイン語で書かれましたが、英語に翻訳されています。	"The book was originally written in Spanish, but it's been translated into English."		
 GU043S050	1	43	6_If and wish Passive	スタジアムに着いたとき、私たちはがっかりしました。 私たちは試合が中止されたことを発見した。	"When we got to the stadium, we were disappointed. We found that the game had been cancelled."		
 GU043S051	1	43	6_If and wish Passive	A: トム、ハチに刺されたことはある？ B: いや、痛いですか？	"A: Tom, have you ever been stung by a bee? B: No, is it painful?"		
 GU043S052	1	43	6_If and wish Passive	最近橋が損傷しました。 まだ修復されていません。	The bridge was damaged recently. It hasn't been repaired yet.		
 GU043S053	1	43	6_If and wish Passive	今誰かが部屋を掃除中です。	Somebody is cleaning the room at the moment.		
 GU043S054	1	43	6_If and wish Passive	部屋は現在掃除中です。	The room is being cleaned at the moment.		
 GU043S055	1	43	6_If and wish Passive	誰かが私たちの後ろを歩いています。 私たちは追跡されていると思います。	There's somebody walking behind us. I think we're being followed.		
-GU043S056	1	43	6_If and wish Passive	A: お手伝いできますか? B: お世話になりました、ありがとう。	"A: Can I help you? B: I'm being served, thanks."		
+GU043S056	1	43	6_If and wish Passive	A: お手伝いしましょうか? B: 間に合ってます、ありがとう。	"A: Can I help you? B: I'm being served, thanks."		
 GU043S057	1	43	6_If and wish Passive	私が到着したとき、誰かが部屋を掃除していた。	Somebody was cleaning the room when I arrived.		
 GU043S058	1	43	6_If and wish Passive	私が到着したとき、部屋は掃除中でした。	The room was being cleaned when I arrived.		
 GU043S059	1	43	6_If and wish Passive	私たちの後ろを誰かが歩いていました。 私たちは尾行されていたと思います。	There was somebody walking behind us. I think we were being followed.		
@@ -2523,13 +2523,13 @@ GU043S071	1	43	6_If and wish Passive	私たちの会話が録音されていた�
 GU043S072	1	43	6_If and wish Passive	野菜がきれいではなかった。 誰も洗っていませんでした。	The vegetables weren't clean. Nobody had washed them.		
 GU043S073	1	43	6_If and wish Passive	野菜がきれいではなかった。 それらは洗われていませんでした。	The vegetables weren't clean. They hadn't been washed.		
 GU043S074	1	43	6_If and wish Passive	私の車はここに駐車していましたが、もうここにはありません。 私の車が盗まれました。	"My car was parked here, but it's not here any more. My car has been stolen."		
-GU043S075	1	43	6_If and wish Passive	傘をここに置いてきましたが、もうなくなってしまいました。 誰かがそれを持って行ってしまったのです。	"I left my umbrella here, but now it's gone. Somebody has taken it."		
+GU043S075	1	43	6_If and wish Passive	傘をここに置いてきましたが、現在なくなりました。 誰かがそれを持って行ってしまったのです。	"I left my umbrella here, but now it's gone. Somebody has taken it."		
 GU043S076	1	43	6_If and wish Passive	サムは新しい役職を獲得し、より高い給料を得るようになりました。 サムは昇進しました。	Sam has a new job title and he gets a higher salary now. Sam has been promoted.		
-GU043S077	1	43	6_If and wish Passive	リサはちょうどグラスをひっくり返したところです。 今ではバラバラになってしまいました。 リサはガラスを割ってしまいました。	Lisa has just knocked over a glass. Now it's in pieces. Lisa has broken a glass.		
+GU043S077	1	43	6_If and wish Passive	リサはちょうどグラスをひっくり返してしまいました。 今ではそれはバラバラです。 リサはガラスを割ってしまいました。	Lisa has just knocked over a glass. Now it's in pieces. Lisa has broken a glass.		
 GU043S078	1	43	6_If and wish Passive	アンは今週オフィスを使えません。 そこでは画家たちが働いています。 アンのオフィスはペンキ塗り中です。	Ann can't use her office this week. The painters are working there. Ann's office is being painted.		
-GU043S079	1	43	6_If and wish Passive	昨日は携帯電話に問題がありましたが、今は大丈夫です。 修正しました。	"I had a problem with my phone yesterday, but it's OK now. I've fixed it."		
+GU043S079	1	43	6_If and wish Passive	昨日は私の携帯電話に問題がありましたが、今は大丈夫です。 私はそれを修理しました。	"I had a problem with my phone yesterday, but it's OK now. I've fixed it."		
 GU043S080	1	43	6_If and wish Passive	部屋に入ると、テーブルと椅子が以前と同じ場所にないことに気づきました。 家具は移動されていました。	I went into the room and saw that the tables and chairs were not in the same place as before. The furniture had been moved.		
-GU043S081	1	43	6_If and wish Passive	私の隣人は半年前に失踪しました。 それ以来、彼の姿は見えていない。	A neighbour of mine disappeared six months ago. He hasn't been seen since then.		
+GU043S081	1	43	6_If and wish Passive	私の隣人は半年前に失踪しました。 それ以来彼は見られていません。	A neighbour of mine disappeared six months ago. He hasn't been seen since then.		
 GU044S001	1	44	6_If and wish Passive	私の祖父は私にこの時計をくれました。	My grandfather gave me this watch.		
 GU044S002	1	44	6_If and wish Passive	私はこの時計を（祖父から）もらいました。	I was given this watch (by my grandfather).	This watch was given to me (by my grandfather).	
 GU044S003	1	44	6_If and wish Passive	仕事のオファーを受けましたが、やりたいとは思えません。	"I've been offered a job, but I don't think I want it."		
@@ -2538,22 +2538,22 @@ GU044S005	1	44	6_If and wish Passive	原本は見ていませんが、コピー�
 GU044S006	1	44	6_If and wish Passive	ティムはとても楽な仕事に就いています。ほとんど何もしないのに多額の金を払っているのです。	Tim has a very easy job - he's paid a lot of money to do very little.		
 GU044S007	1	44	6_If and wish Passive	面接は簡単ではありませんでした。 いくつか難しい質問をされました。	The interview wasn't easy. I was asked some difficult questions.		
 GU044S008	1	44	6_If and wish Passive	問題があるとは知りませんでした。 それについては何も言われませんでした。	I didn't know there was a problem. I wasn't told anything about it.		
-GU044S009	1	44	6_If and wish Passive	彼女の給料はとても安いです。 なぜ彼女の給料はこんなに少ないのでしょうか？	Her salary is very low. Why is she paid so little?		
+GU044S009	1	44	6_If and wish Passive	彼女の給料はとても安いです。 なぜ彼女の給料はこんなに少ないのでしょうか（とても少なく支払われる）？	Her salary is very low. Why is she paid so little?		
 GU044S010	1	44	6_If and wish Passive	エイミーは最近仕事を退職しました。 彼女は同僚からプレゼントをもらいました。	Amy retired from her job recently. She was given a present by her colleagues.		
 GU044S011	1	44	6_If and wish Passive	面接がうまくいくとは思えなかった。 その仕事をオファーされるとは予想していませんでした。	I didn't think the interview went well. I didn't expect to be offered the job.		
 GU044S012	1	44	6_If and wish Passive	彼らは私たちにそのプロジェクトについてあまり話してくれませんでした。 十分な情報が与えられませんでした。	They didn't tell us much about the project. We weren't given enough information.		
 GU044S013	1	44	6_If and wish Passive	機械の使い方を知っていますか？ それがどのように機能するかを見せられましたか？	Do you know how to use the machine? Have you been shown how it works?		
 GU044S014	1	44	6_If and wish Passive	私は人に何をすべきか指示されるのが好きではありません。	I don't like people telling me what to do.		
 GU044S015	1	44	6_If and wish Passive	私は何をすべきかを指示されるのが好きではありません。	I don't like being told what to do.		
-GU044S016	1	44	6_If and wish Passive	子供の頃に動物園に連れて行ってもらった記憶があります。	I remember being taken to the zoo when I was a child.		
+GU044S016	1	44	6_If and wish Passive	私は子供の頃に動物園に連れて行ってもらったことを覚えています。	I remember being taken to the zoo when I was a child.		
 GU044S017	1	44	6_If and wish Passive	スティーブは待たされるのが嫌いです。	Steve hates being kept waiting.		
-GU044S018	1	44	6_If and wish Passive	私たちは見つからずに壁を乗り越えることができました。	We managed to climb over the wall without being seen.		
+GU044S018	1	44	6_If and wish Passive	私たちは見つからずになんとか壁を乗り越えることができました。	We managed to climb over the wall without being seen.		
 GU044S019	1	44	6_If and wish Passive	私たちは招待されていないのに結婚式に行きました。	We went to the wedding without being invited.		
 GU044S020	1	44	6_If and wish Passive	私はプレゼントをあげるのも好きですし、プレゼントされるのも好きです。	I like giving presents and I also like being given them.		
-GU044S021	1	44	6_If and wish Passive	渋滞にはまってしまうとどうすることもできません。	You can't do anything about being stuck in a traffic jam.		
+GU044S021	1	44	6_If and wish Passive	渋滞にはまってしまうことについてあなたは何もできません。	You can't do anything about being stuck in a traffic jam.		
 GU044S022	1	44	6_If and wish Passive	私は大人です。 私は子供扱いされるのが好きではありません。	I'm an adult. I don't like being treated like a child.		
 GU044S023	1	44	6_If and wish Passive	自分のせいではないことで責められるのが嫌いです。	I hate being blamed for things that are not my fault.		
-GU044S024	1	44	6_If and wish Passive	どうすれば蚊に刺されないようにできますか？	How do you avoid being bitten by mosquitoes?		
+GU044S024	1	44	6_If and wish Passive	あなたはどうやって蚊に刺されることを避けますか？	How do you avoid being bitten by mosquitoes?		
 GU044S025	1	44	6_If and wish Passive	私はシカゴで生まれました。	I was born in Chicago.		
 GU044S026	1	44	6_If and wish Passive	あなたはどこで生まれましたか？	Where were you born?		
 GU044S027	1	44	6_If and wish Passive	毎日何人の赤ちゃんが生まれますか？	How many babies are born every day?		
@@ -2564,27 +2564,27 @@ GU044S031	1	44	6_If and wish Passive	ガリレオとシェイクスピアは同�
 GU044S032	1	44	6_If and wish Passive	レオナルド・ダ・ヴィンチは1452年に生まれました。	Leonardo da Vinci was born in 1452.		
 GU044S033	1	44	6_If and wish Passive	ニコール・キッドマンはハワイのホノルルで生まれました。	"Nicole Kidman was born in Honolulu, Hawaii."		
 GU044S034	1	44	6_If and wish Passive	パーティーで喧嘩があったが、誰も怪我をしなかった。	"There was a fight at the party, but nobody got hurt."		
-GU044S035	1	44	6_If and wish Passive	あまりパーティーに誘われないんです。	I don't get invited to many parties.		
-GU044S036	1	44	6_If and wish Passive	リズがその仕事のオファーを受けなかったのには驚いた。	I'm surprised Liz didn't get offered the job.		
+GU044S035	1	44	6_If and wish Passive	私は多くのパーティーに誘われません。	I don't get invited to many parties.		
+GU044S036	1	44	6_If and wish Passive	リズがその仕事のオファーを受けなかったのに私は驚いています。	I'm surprised Liz didn't get offered the job.		
 GU044S037	1	44	6_If and wish Passive	ジェシカは誰からも好かれています。	Jessica is liked by everybody.		
 GU044S038	1	44	6_If and wish Passive	ピーターは謎の男だった。 彼についてはほとんど知られていなかった。	Peter was a mystery man. Very little was known about him.		
 GU044S039	1	44	6_If and wish Passive	アレックスは庭仕事中に蜂に刺されました。	Alex got stung by a bee while he was working in the garden.		
 GU044S040	1	44	6_If and wish Passive	学生の一人が試験でカンニングをしたのが見つかった。	One of the students got caught cheating in the exam.		
-GU044S041	1	44	6_If and wish Passive	このテニスコートはあまり使われていません。 遊びたい人はあまりいません。	These tennis courts don't get used much. Not many people want to play.		
+GU044S041	1	44	6_If and wish Passive	これらのテニスコートはあまり使われていません。 遊びたい人はあまりいません。	These tennis courts don't get used much. Not many people want to play.		
 GU044S042	1	44	6_If and wish Passive	私は自転車を持っていましたが、数か月前に盗難に遭いました。	"I used to have a bike, but it got stolen a few months ago."		
 GU044S043	1	44	6_If and wish Passive	レイチェルは一生懸命働いていますが、給料はあまり多くありません。	"Rachel works hard, but doesn't get paid very much."		
 GU044S044	1	44	6_If and wish Passive	昨日の夜、車で帰宅中警察に呼び止められました。	Last night I got stopped by the police as I was driving home.		
-GU044S045	1	44	6_If and wish Passive	これらのものは慎重に梱包してください。 何も壊れたくない。	Please pack these things carefully. I don't want anything to get broken.		
+GU044S045	1	44	6_If and wish Passive	これらのものは慎重に梱包してください。 私は何にも壊れてほしくない。	Please pack these things carefully. I don't want anything to get broken.		
 GU044S046	1	44	6_If and wish Passive	人々はよく私の仕事が何なのか知りたがります。 その質問をよく受けます。	People often want to know what my job is. I get asked that question a lot.		
 GU044S047	1	44	6_If and wish Passive	あなたは何年に生まれましたか?	Which year were you born in?		
 GU044S048	1	44	6_If and wish Passive	まだ何の情報も与えられていない。	I haven't been given any information yet.		
 GU044S049	1	44	6_If and wish Passive	道が分からなかったので迷ってしまいました。	"I didn't know the way, so I got lost."		
-GU044S050	1	44	6_If and wish Passive	彼は話しているときに邪魔されるのが嫌いです。	He doesn't like being interrupted when he's speaking.		
-GU044S051	1	44	6_If and wish Passive	窓はどうやって壊れたのですか？ どうしたの？	How did the window get broken? What happened?		
-GU044S052	1	44	6_If and wish Passive	彼女はボランティア活動家です。 彼女は給料をもらっていません。	She's a volunteer worker. She doesn't get paid.		
+GU044S050	1	44	6_If and wish Passive	彼は話しているときに邪魔されるのが好きではありません。	He doesn't like being interrupted when he's speaking.		
+GU044S051	1	44	6_If and wish Passive	窓はどうやって壊れたのですか？ 何が起きたの？	How did the window get broken? What happened?		
+GU044S052	1	44	6_If and wish Passive	彼女はボランティア職員です。 彼女は給料をもらっていません（支払われていない）。	She's a volunteer worker. She doesn't get paid.		
 GU044S053	1	44	6_If and wish Passive	私は国の北部の小さな町で生まれました。	I was born in a small town in the north of the country.		
 GU044S054	1	44	6_If and wish Passive	私たちはやるべきことをしなければなりませんでした。 私たちには選択肢が与えられませんでした。	We had to do what we did. We weren't given any choice.		
-GU045S001	1	45	6_If and wish Passive	108歳だそうです。	It is said that he is 108 years old.	He is said to be 108 years old.	
+GU045S001	1	45	6_If and wish Passive	彼は108歳だと言われています。	It is said that he is 108 years old.	He is said to be 108 years old.	
 GU045S002	1	45	6_If and wish Passive	キャシーは走るのが大好きです。 彼女は毎日10マイル走ると言われています。	Cathy loves running. It is said that she runs ten miles every day.	Cathy loves running. She is said to run ten miles every day.	
 GU045S003	1	45	6_If and wish Passive	2 つの家は同じ家族に属しています。 二人の間には秘密のトンネルがあると言われています。	The two houses belong to the same family. It is said that there is a secret tunnel between them.	The two houses belong to the same family. There is said to be a secret tunnel between them.	
 GU045S004	1	45	6_If and wish Passive	フランクは旅行が大好きでした。 100カ国以上を訪れたと言われています。	Frank loved travelling. It is said that he visited more than a hundred countries.	Frank loved travelling. He is said to have visited more than a hundred countries.	
@@ -2593,78 +2593,78 @@ GU045S006	1	45	6_If and wish Passive	これらの木はとても長い間ここ�
 GU045S007	1	45	6_If and wish Passive	彼らがどこにいるのか誰も知りません。 彼らは出国したと言われている。	Nobody knows where they are. They're said to have left the country.		
 GU045S008	1	45	6_If and wish Passive	会社の業績は良くありません。 損をしていると言われています。	The company is not doing well. It's said to be losing money.		
 GU045S009	1	45	6_If and wish Passive	ジャックは若い頃サッカーをしていました。 とても良い選手だったと言われています。	Jack played football when he was younger. He's said to have been a very good player.		
-GU045S010	1	45	6_If and wish Passive	おそらく建物は予定通りに完成しないだろう。 トラブルも多いと言われています。	The building will probably not be completed on time. There are said to be a lot of problems.		
-GU045S011	1	45	6_If and wish Passive	警察は行方不明の少年を探している。 少年は白いセーターとブルージーンズを着ていたとみられる。	The police are looking for a missing boy. It is believed that the boy is wearing a white sweater and blue jeans.	The police are looking for a missing boy. The boy is believed to be wearing a white sweater and blue jeans.	
+GU045S010	1	45	6_If and wish Passive	おそらく建物は予定通りに完成しないだろう。 多くの問題があると言われています。	The building will probably not be completed on time. There are said to be a lot of problems.		
+GU045S011	1	45	6_If and wish Passive	警察は行方不明の少年を探している。 少年は白いセーターとブルージーンズを着ていると信じられている。	The police are looking for a missing boy. It is believed that the boy is wearing a white sweater and blue jeans.	The police are looking for a missing boy. The boy is believed to be wearing a white sweater and blue jeans.	
 GU045S012	1	45	6_If and wish Passive	ストライキは３週間前に始まった。 まもなく終了することが予想されます。	The strike started three weeks ago. It is expected that it will end soon.	The strike started three weeks ago. The strike is expected to end soon.	
-GU045S013	1	45	6_If and wish Passive	私の友人が逮捕されました。 彼は車を盗んだと言われている。	A friend of mine has been arrested. It is alleged that he stole a car.	A friend of mine has been arrested. He is alleged to have stolen a car.	
+GU045S013	1	45	6_If and wish Passive	私の友人が逮捕されました。 彼は車を盗んだと疑いをかけられている。	A friend of mine has been arrested. It is alleged that he stole a car.	A friend of mine has been arrested. He is alleged to have stolen a car.	
 GU045S014	1	45	6_If and wish Passive	この爆発で２人が負傷したと報じられている。	It is reported that two people were injured in the explosion.	Two people are reported to have been injured in the explosion.	
-GU045S015	1	45	6_If and wish Passive	今は天気があまり良くありません。 今後改善されることが期待されます。	The weather isn't so good right now. It is expected to improve later.		
-GU045S016	1	45	6_If and wish Passive	洪水は大きな問題を引き起こしました。 多くの人がホームレスになっていると報告されている。	The floods have caused great problems. Many people are reported to be homeless.		
-GU045S017	1	45	6_If and wish Passive	2人の囚人が刑務所から脱走した。 壁を乗り越えて逃走したとみられる。	Two prisoners escaped from the prison. They are thought to have escaped by climing over a wall.		
-GU045S018	1	45	6_If and wish Passive	警察は強盗事件として捜査を行っている。 泥棒たちは窓から侵入したとみられている。	Police are investigating the robbery. The thieves are believed to have got in through a window.		
+GU045S015	1	45	6_If and wish Passive	ただ今は天気がそこまで良くありません。 今後改善されることが期待されます。	The weather isn't so good right now. It is expected to improve later.		
+GU045S016	1	45	6_If and wish Passive	洪水はすごい問題を引き起こしています。 多くの人がホームレスになっていると報告されている。	The floods have caused great problems. Many people are reported to be homeless.		
+GU045S017	1	45	6_If and wish Passive	2人の囚人が刑務所から脱走した。 壁を乗り越えて逃走したと考えられている。	Two prisoners escaped from the prison. They are thought to have escaped by climing over a wall.		
+GU045S018	1	45	6_If and wish Passive	警察は強盗事件を捜査している。 泥棒たちは窓を通じて入りこんだ信じられている。	Police are investigating the robbery. The thieves are believed to have got in through a window.		
 GU045S019	1	45	6_If and wish Passive	市内中心部のオフィスビルで大規模な火災が発生した。 建物は甚大な被害を受けたと伝えられている。	There was a big fire at an office building in the city centre. The building is reported to have been badly damaged.		
-GU045S020	1	45	6_If and wish Passive	警察はスピードを出しすぎた車を止めた。 運転手は時速110マイルで運転していたとみられる。	Police stopped a car that was going too fast. The driver is alleged to have been driving at 110 miles an hour.		
+GU045S020	1	45	6_If and wish Passive	警察はスピードを出しすぎた車を止めた。 運転手は時速110マイルで運転していたと疑いをかけられている。	Police stopped a car that was going too fast. The driver is alleged to have been driving at 110 miles an hour.		
 GU045S021	1	45	6_If and wish Passive	その映画が見たいです。 それは良いはずです。	I want to see that film. It's supposed to be good.		
 GU045S022	1	45	6_If and wish Passive	花火は中国で発明されたとされています。 本当ですか？	Fireworks are supposed to have been invented in China. Is it true?		
 GU045S023	1	45	6_If and wish Passive	A: これらの絵の価値はいくらですか? B: よくわかりませんが、とても貴重なものだと思われます。	"A: How much are these paintings worth? B: I'm not sure, but they're supposed to be very valuable."		
-GU045S024	1	45	6_If and wish Passive	A: あなたの近所の人が宝くじで幸運だったというのは本当ですか? B: はい、彼らは大金を獲得したはずです。	"A: Is it true that your neighbours were lucky in the lottery? B: Yes, they're supposed to have won a lot of money."		
-GU045S025	1	45	6_If and wish Passive	A: ローラがいなくなってしまったと聞きました。 B: はい、彼女は今ロンドンに住んでいるはずです。	"A: I heard that Laura has gone away. B: Yes, she's supposed to be living in London now."		
-GU045S026	1	45	6_If and wish Passive	A: これは面白い建物ですね。 B: はい、昔は刑務所だったはずです。	"A: This looks an interesting building. B: Yes, it's supposed to have been a prison a long time ago."		
+GU045S024	1	45	6_If and wish Passive	A: あなたの近所の人たちが宝くじで幸運だったというのは本当ですか? B: はい、彼らは大金を獲得したはずです。	"A: Is it true that your neighbours were lucky in the lottery? B: Yes, they're supposed to have won a lot of money."		
+GU045S025	1	45	6_If and wish Passive	A: ローラが出ていってしまったと聞きました。 B: はい、彼女は今ロンドンに住んでいるはずです。	"A: I heard that Laura has gone away. B: Yes, she's supposed to be living in London now."		
+GU045S026	1	45	6_If and wish Passive	A: これは面白い建物に見えます。 B: はい、昔は刑務所だったはずです。	"A: This looks an interesting building. B: Yes, it's supposed to have been a prison a long time ago."		
 GU045S027	1	45	6_If and wish Passive	A: 塔の頂上まで登ることは可能ですか? B: はい、とても景色がいいはずです。	"A: Is it possible to climb to the top of the tower? B: Yes, the view is supposed to be very nice."		
 GU045S028	1	45	6_If and wish Passive	A: ティナはなぜ逮捕されたのですか? B: よくわからないけど、彼女は警察官を殴ったらしいよ。	"A: Why was Tina arrested? B: I don't know for sure, but she's supposed to have hit a police officer."		
-GU045S029	1	45	6_If and wish Passive	この計画は秘密であるはずだが、誰もがそれを知っているようだ。	"The plan is supposed to be a secret, but everybody seems to know about it."		
+GU045S029	1	45	6_If and wish Passive	この計画は秘密であるはずだが、誰もがそれについて知っているように見える。	"The plan is supposed to be a secret, but everybody seems to know about it."		
 GU045S030	1	45	6_If and wish Passive	なぜ今日仕事にいるのですか？ あなたは休暇中のはずです。	Why are you at work today? You're supposed to be on holiday.		
-GU045S031	1	45	6_If and wish Passive	私たちのゲストは7時半に来るはずだったのですが、遅れてしまいました。	"Our guests were supposed to come at 7.30, but they were late."		
-GU045S032	1	45	6_If and wish Passive	急いだほうがいいよ。 10分以内にクリスに会う予定です。	I'd better hurry. I'm supposed to be meeting Chris in ten minutes.		
-GU045S033	1	45	6_If and wish Passive	ここに車を駐車してはいけません。 専用駐車場のみです。	You're not supposed to park your car here. It's private parking only.		
+GU045S031	1	45	6_If and wish Passive	私たちのゲストは7時半に来るはずだったのですが、彼らは遅れました。	"Our guests were supposed to come at 7.30, but they were late."		
+GU045S032	1	45	6_If and wish Passive	私は急いだほうがいいです。 私は10分以内にクリスに会う予定のはずです。	I'd better hurry. I'm supposed to be meeting Chris in ten minutes.		
+GU045S033	1	45	6_If and wish Passive	あなたはあなたの車をここに駐車してはいけないことになっています。 それは専用駐車場のみです。	You're not supposed to park your car here. It's private parking only.		
 GU045S034	1	45	6_If and wish Passive	ジェフは病気の後、かなり良くなりましたが、それでも重労働をするべきではありません。	"Jeff is much better after his illness, but he's still not supposed to do any heavy work."		
-GU045S035	1	45	6_If and wish Passive	私をいつも批判してはいけません。 あなたは私の友達になるはずです。	You shouldn't criticise me all the time. You're supposed to be my friend.		
-GU045S036	1	45	6_If and wish Passive	本当はこのケーキを食べるべきではないのですが。 ダイエット中のはずなんです。	I shouldn't be eating this cake really. I'm supposed to be on a diet.		
-GU045S037	1	45	6_If and wish Passive	言ってしまってごめんなさい。 面白くしようとしていたんだ。 冗談のはずだった。	I'm sorry for what I said. I was trying to be funny. It was supposed to be a joke.		
+GU045S035	1	45	6_If and wish Passive	私を常に批判しないほうがいいですよ。 あなたは私の友達になるはずです。	You shouldn't criticise me all the time. You're supposed to be my friend.		
+GU045S036	1	45	6_If and wish Passive	私は本当にこのケーキを食べているべきではないです。 私はダイエット中のはずなんです。	I shouldn't be eating this cake really. I'm supposed to be on a diet.		
+GU045S037	1	45	6_If and wish Passive	私が言ったことについてごめんなさい。 面白くしようとしていたんだ。 冗談のはずだった。	I'm sorry for what I said. I was trying to be funny. It was supposed to be a joke.		
 GU045S038	1	45	6_If and wish Passive	この絵は何ですか? 木ですか？ あるいは、花だと思われるかもしれません。	What's this drawing? Is it a tree? Or maybe it's supposed to be a flower.		
 GU045S039	1	45	6_If and wish Passive	あなたは今その新聞を読んではいけない。 あなたは仕事をしているはずです。	You shouldn't be reading the paper now. You're supposed to be working.		
 GU045S040	1	45	6_If and wish Passive	それは奇妙だ。 博物館は閉館しているようです。 毎日開いているはずです。	That's strange. The museum seems to be closed. It's supposed to be open every day.		
-GU045S041	1	45	6_If and wish Passive	私たちは 8 時 15 分に仕事を始めることになっていますが、8 時半より前に何もすることはほとんどありません。	"We're supposed to start work at 8.15, but we rarely do anything before 8.30."		
+GU045S041	1	45	6_If and wish Passive	私たちは 8 時 15 分に仕事を始めることになっていますが、8 時半より前に何もすることはめったにありません。	"We're supposed to start work at 8.15, but we rarely do anything before 8.30."		
 GU045S042	1	45	6_If and wish Passive	昨夜ヘレンに電話する予定だったのですが、すっかり忘れてしまいました。	"I was supposed to phone Helen last night, but I completely forgot."		
 GU045S043	1	45	6_If and wish Passive	この扉は非常口です。 その前には何も置かないでください。	This door is a fire exit. We're not supposed to put anything in front of it.		
-GU045S044	1	45	6_If and wish Passive	私の飛行機は10時15分に出発する予定でしたが、出発したのは11時30分でした。	"My flight was supposed to depart at 10.15, but it didn't leave until 11.30."		
+GU045S044	1	45	6_If and wish Passive	私の飛行機は10時15分に出発する予定でしたが、11時30分まで出発（去り）ませんでした。	"My flight was supposed to depart at 10.15, but it didn't leave until 11.30."		
 GU045S045	1	45	6_If and wish Passive	バスは20分ごとに運行するはずですが、すでに30分待っています。	"The buses are supposed to run every 20 minutes, but we've already been waiting half an hour."		
 GU045S046	1	45	6_If and wish Passive	ジョナサンは背中に問題を抱えています。 彼は重いものを持ち上げるべきではない。	Jonathan has a problem with his back. He's not supposed to lift anything heavy.		
-GU045S047	1	45	6_If and wish Passive	こんにちは！ 早いですね。 あなたはまだここにいるべきではありません。 まだ準備出来ていません。	Hi! You're early. You're not supposed to be here yet. I'm not ready.		
+GU045S047	1	45	6_If and wish Passive	こんにちは！ あなたは早いですね。 あなたはまだここにいるべきではありません。 私は準備出来ていません。	Hi! You're early. You're not supposed to be here yet. I'm not ready.		
 GU046S001	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
 GU046S002	1	46	6_If and wish Passive	リサは屋根を修理した。	Lisa repaired the roof.		
 GU046S003	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
-GU046S004	1	46	6_If and wish Passive	A: そのカーテンは自分で作ったのですか? B: はい、ものづくりが好きです。	"A: Did you make those curtains yourself? B: Yes, I like making things."		
-GU046S005	1	46	6_If and wish Passive	A: そのカーテンはあなたが作ったのですか? B: いいえ、自分で作りました。	"A: Did you have those curtains made? B: No, I made them myself."		
-GU046S006	1	46	6_If and wish Passive	サラは髪を切っています。	Sarah is having her hair cut.		
+GU046S004	1	46	6_If and wish Passive	A: それらのカーテンは自分で作ったのですか? B: はい、ものづくりが好きです。	"A: Did you make those curtains yourself? B: Yes, I like making things."		
+GU046S005	1	46	6_If and wish Passive	A: そのカーテンはあなたが作ってもらったのですか? B: いいえ、自分で作りました。	"A: Did you have those curtains made? B: No, I made them myself."		
+GU046S006	1	46	6_If and wish Passive	サラは髪を切ってもらっています。	Sarah is having her hair cut.		
 GU046S007	1	46	6_If and wish Passive	ビルは髪を切っています。	Bill is cutting his hair.		
 GU046S008	1	46	6_If and wish Passive	ジョンは靴を掃除しています。	John is cleaning his shoes.		
 GU046S009	1	46	6_If and wish Passive	ケイトは門のペンキを塗ってもらっています。	Kate is having the gate painted.		
 GU046S010	1	46	6_If and wish Passive	ケイトは写真を撮っています。	Kate is taking a picture.		
 GU046S011	1	46	6_If and wish Passive	スーは写真を撮ってもらっています。	Sue is having her picture taken.		
 GU046S012	1	46	6_If and wish Passive	リサは屋根を修理してもらいました。	Lisa had the roof repaired.		
-GU046S013	1	46	6_If and wish Passive	髪を切りましたか？	Did you have your hair cut?		
+GU046S013	1	46	6_If and wish Passive	髪を切ってもらいましたか？	Did you have your hair cut?		
 GU046S014	1	46	6_If and wish Passive	私たちは家の塗装を行っています。	We are having the house painted.		
-GU046S015	1	46	6_If and wish Passive	そのコートはクリーニングに出すべきです。	You should have that coat cleaned.		
+GU046S015	1	46	6_If and wish Passive	あなたはそのコートを掃除してもらうのがよいです。	You should have that coat cleaned.		
 GU046S016	1	46	6_If and wish Passive	私は写真を撮られるのが好きではありません。	I don't like having my picture taken.		
 GU046S017	1	46	6_If and wish Passive	どのくらいの頻度で車の整備を受けていますか?	How often do you have your car serviced?		
 GU046S018	1	46	6_If and wish Passive	あなたの髪は素敵ですね。 カットしてもらったんですか？	Your hair looks nice. Did you have it cut?		
-GU046S019	1	46	6_If and wish Passive	私たちの隣人はガレージを建てています。	Our neighbour is having a garage built.		
+GU046S019	1	46	6_If and wish Passive	私たちの隣人はガレージを建ててもらっています。	Our neighbour is having a garage built.		
 GU046S020	1	46	6_If and wish Passive	私たちは数週間前に家の塗装をしてもらいました。	We had the house painted a few weeks ago.		
 GU046S021	1	46	6_If and wish Passive	サラは年に一度車の整備を受けています。	Sarah has her car serviced once a year.		
-GU046S022	1	46	6_If and wish Passive	キッチンに新しい食器棚を取り付けました。	We've had some new cupboards fitted in the kitchen.		
-GU046S023	1	46	6_If and wish Passive	最近目の検査を受けましたか?	Have you had your eyes tested recently?		
-GU046S024	1	46	6_If and wish Passive	私は髪を切るのが好きではありません。	I don't like having my hair cut.		
-GU046S025	1	46	6_If and wish Passive	私のスーツをクリーニングに出すのに12ポンドかかりました。	It cost twelve pounds to have my suit cleaned.		
+GU046S022	1	46	6_If and wish Passive	我々はいくつかの新しい食器棚をキッチンに取り付けてもらいました。	We've had some new cupboards fitted in the kitchen.		
+GU046S023	1	46	6_If and wish Passive	あなたは最近目を検査してもらいましたか?	Have you had your eyes tested recently?		
+GU046S024	1	46	6_If and wish Passive	私は髪を切ってもらうのが好きではありません。	I don't like having my hair cut.		
+GU046S025	1	46	6_If and wish Passive	私のスーツを掃除してもらうのに12ポンドかかりました。	It cost twelve pounds to have my suit cleaned.		
 GU046S026	1	46	6_If and wish Passive	自分で髪を切ったわけではありません。 髪を切ってもらいました。	I didn't cut my hair myself. I had my hair cut.		
-GU046S027	1	46	6_If and wish Passive	私たちはカーペットを自分たちで掃除しませんでした。 私たちはカーペットを掃除してもらいました。	We didn't clean the carpets ourselves. We had the carpets cleaned.		
+GU046S027	1	46	6_If and wish Passive	私たちはカーペット(達)を自分たちで掃除しませんでした。 私たちはカーペット(達)を掃除してもらいました。	We didn't clean the carpets ourselves. We had the carpets cleaned.		
 GU046S028	1	46	6_If and wish Passive	ベンは自分で壁を建てたわけではありません。 彼は壁を建てさせた。	Ben didn't build the wall himself. He had the wall built.		
-GU046S029	1	46	6_If and wish Passive	自分で花を届けたわけではありません。 お花をお届けさせていただきました。	I didn't deliver the flowers myself. I had the flowers delivered.		
+GU046S029	1	46	6_If and wish Passive	自分で花を届けたわけではありません。 私はお花を届けてもらいました。	I didn't deliver the flowers myself. I had the flowers delivered.		
 GU046S030	1	46	6_If and wish Passive	サラは自分で靴を修理しませんでした。 彼女は靴を修理してもらいました。	Sarah didn't repair her shoes herself. She had her shoes repaired.		
 GU046S031	1	46	6_If and wish Passive	いつ屋根を修理してもらいますか？	When are you going to get the roof repaired?		
-GU046S032	1	46	6_If and wish Passive	髪を本当に短く切ったほうがいいと思います。	I think you should get your hair cut really short.		
-GU046S033	1	46	6_If and wish Passive	髪が長くなってきました。 切ってもらおうかな。	My hair is getting long. I should get it cut.		
-GU046S034	1	46	6_If and wish Passive	鍵を紛失してしまいました。 もう一つ作ってもらわなければなりません。	I've lost my key. I'll have to get another one made.		
+GU046S032	1	46	6_If and wish Passive	あなたは髪を本当に短く切ってもらったほうがいいと思います。	I think you should get your hair cut really short.		
+GU046S033	1	46	6_If and wish Passive	私の髪が長くなってきました。 私はそれを切ってもらったほうがいいです。	My hair is getting long. I should get it cut.		
+GU046S034	1	46	6_If and wish Passive	鍵を紛失してしまいました。 私はもう一つ作ってもらわなければならないでしょう。	I've lost my key. I'll have to get another one made.		
 GU046S035	1	46	6_If and wish Passive	この絵が本当に好きです。 額装してもらうつもりです。	I really like this picture. I'm going to get it framed.		
 GU046S036	1	46	6_If and wish Passive	洗濯機が壊れています。 直してもらう必要がある。	The washing machine is broken. I need to get it fixed.		
 GU046S037	1	46	6_If and wish Passive	イヤリングをつけたいです。 耳にピアスを開けるつもりです。	I want to wear earrings. I'm going to get my ears pierced.		
@@ -2674,4 +2674,376 @@ GU046S040	1	46	6_If and wish Passive	ゲイリーは喧嘩で鼻を骨折した�
 GU046S041	1	46	6_If and wish Passive	マークは最近強盗に遭いました。 彼は財布を盗まれました。	Mark was robbed recently. He had his wallet stolen.		
 GU046S042	1	46	6_If and wish Passive	空港の警備はとても厳重でした。 私たちは皆、バッグを調べられました。	Security at the airport was very strict. We all had our bags searched.		
 GU046S043	1	46	6_If and wish Passive	彼はビザを取得できない。 彼は申請を拒否された。	He can't get a visa. He had his application refused.		
-GU046S044	1	46	6_If and wish Passive	アンナさんから良い知らせがありました。 彼女は給料が増えました。	Anna's had some good news. She's had her salary increased.		
+GU046S044	1	46	6_If and wish Passive	アンナはいくつか良い知らせを持っています。 彼女は給料が増えていました。	Anna's had some good news. She's had her salary increased.		
+GU047S001	1	47	7_Reported speech Questions and auxiliary verbs	ポールは「気分が悪い」と言いました。	"Paul said, 'I'm feeling ill.'"		
+GU047S002	1	47	7_Reported speech Questions and auxiliary verbs	ポールは気分が悪いと言った。	Paul said that he was feeling ill.		
+GU047S003	1	47	7_Reported speech Questions and auxiliary verbs	彼女は駅まで歩くには遠すぎると言った。	She said that it was too far to walk to the station.		
+GU047S004	1	47	7_Reported speech Questions and auxiliary verbs	両親は二人とも元気だと彼は言った。	He said that his parents were both well.		
+GU047S005	1	47	7_Reported speech Questions and auxiliary verbs	彼は警備員として働いていると言いました。	He said that he was working as a security guard.		
+GU047S006	1	47	7_Reported speech Questions and auxiliary verbs	彼女はお腹が空いていないと言いました。	She said that she wasn't hungry.		
+GU047S007	1	47	7_Reported speech Questions and auxiliary verbs	彼女は自分の仕事が退屈だと言いました。	She said that her job was boring.		
+GU047S008	1	47	7_Reported speech Questions and auxiliary verbs	彼はその試合のチケットは残っていないと言った。	He said that there weren't any tickets left for the game.		
+GU047S009	1	47	7_Reported speech Questions and auxiliary verbs	ポールは気分が悪いと言った。	Paul said that he was feeling ill.		
+GU047S010	1	47	7_Reported speech Questions and auxiliary verbs	私はリサにお金がないと言いました。	I told Lisa that I didn't have any money.		
+GU047S011	1	47	7_Reported speech Questions and auxiliary verbs	ポールは気分が悪いと言った。	Paul said that he was feeling ill.	Paul said he was feeling ill.	
+GU047S012	1	47	7_Reported speech Questions and auxiliary verbs	携帯電話を紛失してしまいました。	I've lost my phone.		
+GU047S013	1	47	7_Reported speech Questions and auxiliary verbs	アンナは携帯電話をなくしたと言った。	Anna said she'd lost her phone.		
+GU047S014	1	47	7_Reported speech Questions and auxiliary verbs	私はスペイン語を少し話せます。	I can speak a little Spanish.		
+GU047S015	1	47	7_Reported speech Questions and auxiliary verbs	アンナはスペイン語を少し話せると言った。	Anna said she could speak a little Spanish.		
+GU047S016	1	47	7_Reported speech Questions and auxiliary verbs	トムが好きです。	I like Tom.		
+GU047S017	1	47	7_Reported speech Questions and auxiliary verbs	アンナはトムが好きだと言いました。	Anna said she liked Tom.		
+GU047S018	1	47	7_Reported speech Questions and auxiliary verbs	トムは私のことが好きではありません。	Tom doesn?t like me.		
+GU047S019	1	47	7_Reported speech Questions and auxiliary verbs	アンナはトムが彼女を好きではないと言いました。	Anna said Tom didn't like her.		
+GU047S020	1	47	7_Reported speech Questions and auxiliary verbs	数日間出かける予定です。 戻ったら電話します。	I'm going away for a few days. l'Il call you when I get back.		
+GU047S021	1	47	7_Reported speech Questions and auxiliary verbs	アンナは数日間旅行するので戻ったら私に電話すると言いました。	Anna said she was going away for a few days and would call me when she got back.		
+GU047S022	1	47	7_Reported speech Questions and auxiliary verbs	スティーブはロンドンに住んでいると言いました。	Steve said that he was living in London.		
+GU047S023	1	47	7_Reported speech Questions and auxiliary verbs	彼はレイチェルとマークがもうすぐ結婚すると言いました。	He said Rachel and Mark were getting married soon.		
+GU047S024	1	47	7_Reported speech Questions and auxiliary verbs	彼はジョーが何をしているのか分からないと言いました。	He said that he didn't know what Joe was doing.		
+GU047S025	1	47	7_Reported speech Questions and auxiliary verbs	彼は妹に赤ちゃんが生まれたと言いました。	He said his sister had had a baby.		
+GU047S026	1	47	7_Reported speech Questions and auxiliary verbs	彼は父親の体調があまり良くないと言いました。	He said that his father wasn't very well.		
+GU047S027	1	47	7_Reported speech Questions and auxiliary verbs	彼は最近トレイシーに会っていないと言いました。	He said he hadn't seen Tracy recently.		
+GU047S028	1	47	7_Reported speech Questions and auxiliary verbs	彼は休暇に行きたかったが、そんな余裕がなかったと言いました。	He said that he wanted to go on holiday but he couldn't afford it.		
+GU047S029	1	47	7_Reported speech Questions and auxiliary verbs	彼は、いつか私に電話すると言った。	He said he would give me a call sometime.		
+GU047S030	1	47	7_Reported speech Questions and auxiliary verbs	ポールは「朝起きたら気分が悪かったので、仕事に行きませんでした。」と言いました。	"Paul said: 'I woke up feeling ill, so I didn't go to work.'"		
+GU047S031	1	47	7_Reported speech Questions and auxiliary verbs	ポールは、目が覚めると気分が悪かったので、仕事に行かなかったと言いました。	"Paul said that he woke up feeling ill, so he didn't go to work."		
+GU047S032	1	47	7_Reported speech Questions and auxiliary verbs	ポールは、目が覚めると気分が悪かったので仕事に行かなかったと言いました。	"Paul said that he had woken up feeling ill, so he hadn't gone to work."		
+GU047S033	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムは保険会社で働いています。 あなた：本当ですか？ 彼はスーパーマーケットで働いていると言いました。	AMY: Tom works for an insurance company. YOU: Are you sure? He told me he worked in a supermarket.		
+GU047S034	1	47	7_Reported speech Questions and auxiliary verbs	AMY: ホテルから駅まではかなり遠いです。 あなた：そうですか？ トムはそこまで歩いて5分しかかからないと言いました。	AMY: It's quite a long way from the hotel to the station. YOU: Is it? Tom said it was only five minutes' walk.		
+GU047S035	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: サラはポールと仲良くやってます。 あなた：それはトムの考えではありません。 彼は、彼らはお互いに我慢できないと言った。	AMY: Sarah gets on fine with Paul. YOU: That's not what Tom thinks. He said they couldn't stand one another.		
+GU047S036	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムから連絡がありません。 あなた：そうでしょう？ 彼はあなたに電話すると言った。	AMY: Tom hasn't contacted me. YOU: Hasn't he? He said he would call you.		
+GU047S037	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムは他の言語を話すことができません。 あなた：本当ですか？ 彼はスペイン語を話せると言いました。	AMY: Tom can't speak any other languages. YOU: Are you sure? He told me he could speak Spanish.		
+GU047S038	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムは休暇でイタリアに行きました。 あなた：イタリア？ 彼はフランスに行ったと言った。	AMY: Tom went to Italy for a holiday. YOU: Italy? He told me he went to France.		
+GU047S039	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムと一緒にフットボールの試合を見に行きました。 あなた：トムはフットボールの試合に行きましたか？ 彼はフットボールが好きではないと言った。	AMY: I went to a football match with Tom. YOU: Tom went to a football match? He told me he didn't like football.		
+GU047S040	1	47	7_Reported speech Questions and auxiliary verbs	エイミー: トムはパーティーに来ませんでした。 なぜだろう。 あなた：彼は招待されていないと言っていました。	AMY: Tom didn't come to the party. I wonder why. YOU: He told me he hadn't been invited.		
+GU047S041	1	47	7_Reported speech Questions and auxiliary verbs	エイミー：トムには最近会っていないんです。 あなた：それは不思議ですね。 彼は先週末あなたに会ったと言いました。	AMY: I haven't seen Tom recently. YOU: That's strange. He told me he saw you last weekend.		
+GU047S042	1	47	7_Reported speech Questions and auxiliary verbs	エイミー：トムは私のことを好きじゃないと思うよ。 あなた：はい、そうですよ！ 彼はあなたはとても親切だと言いました。	"AMY: I don't think Tom likes me. YOU: Yes, he does! He said you were very nice."		
+GU048S001	1	48	7_Reported speech Questions and auxiliary verbs	ポールは「私の新しい仕事は退屈だ」と言った。	"Paul said, 'My new job is boring.'"		
+GU048S002	1	48	7_Reported speech Questions and auxiliary verbs	ポールは彼の新しい仕事は退屈だと言いました。	Paul said that his new job is boring.		
+GU048S003	1	48	7_Reported speech Questions and auxiliary verbs	ヘレンは「来年カナダに行きたいです」と言いました。	"Helen said, 'I want to go to Canada next year.'"		
+GU048S004	1	48	7_Reported speech Questions and auxiliary verbs	ヘレンは私に、来年カナダに行きたいと言いました。	Helen told me that she wants to go to Canada next year.		
+GU048S005	1	48	7_Reported speech Questions and auxiliary verbs	ポールは新しい仕事は退屈だと言いました。	Paul said that his new job was boring.		
+GU048S006	1	48	7_Reported speech Questions and auxiliary verbs	ヘレンは私に、来年カナダに行きたいと言いました。	Helen told me that she wanted to go to Canada next year.		
+GU048S007	1	48	7_Reported speech Questions and auxiliary verbs	ポールは「行かなければなりません」と言いました。	"Paul said, 'I have to go.'"		
+GU048S008	1	48	7_Reported speech Questions and auxiliary verbs	ポールは突然オフィスを去りました。 彼は行かなければならないと言った。	Paul left the office suddenly. He said he had to go.		
+GU048S009	1	48	7_Reported speech Questions and auxiliary verbs	スティーブは明日は会えないと言いました。 彼は遅くまで働かなければならないと私に言いました。	Steve said he can't meet us tomorrow. He told me he has to work late.		
+GU048S010	1	48	7_Reported speech Questions and auxiliary verbs	私の友人が最近このレストランで食事をしました。 彼女は食べ物がとてもおいしいと言いました。	A friend of mine ate at this restaurant recently. She said the food is very good.		
+GU048S011	1	48	7_Reported speech Questions and auxiliary verbs	私はベンに彼の計画について尋ねました。 彼はパイロットになるために訓練したいと私に言いました。	I asked Ben about his plans. He told me he wants to train to be a pilot.		
+GU048S012	1	48	7_Reported speech Questions and auxiliary verbs	ベッキーさんはとても心配しています。 彼女は何をすればいいのか分からないと言いました。	Becky is very worried. She said she doesn't know what to do.		
+GU048S013	1	48	7_Reported speech Questions and auxiliary verbs	駅からタクシーに乗る必要はありません。 アンナは私たちに会えると言った。	We won't need to take a taxi from the station. Anna said she'll meet us.		
+GU048S014	1	48	7_Reported speech Questions and auxiliary verbs	私はポールに彼の新しいオフィスについて尋ねました。 彼は、古いものよりもはるかに優れていると言いました。	I asked Paul about his new office. He told me it's much better than his old one.		
+GU048S015	1	48	7_Reported speech Questions and auxiliary verbs	聞いてますか？ ジョーは入院しています。	Have you heard? Joe is in hospital.		
+GU048S016	1	48	7_Reported speech Questions and auxiliary verbs	こんにちは、ジョー！ あなたに会えるとは思っていませんでした。 ソニアはあなたが入院していると言いました。	Hi Joe! I didn't expect to see you. Sonia said you were in hospital.		
+GU048S017	1	48	7_Reported speech Questions and auxiliary verbs	ソニアはあなたが入院していると私に言いました。	Sonia told me that you were in hospital.		
+GU048S018	1	48	7_Reported speech Questions and auxiliary verbs	警察には何て言いましたか？	What did you tell the police?		
+GU048S019	1	48	7_Reported speech Questions and auxiliary verbs	ソニアはあなたが入院していると言いました。	Sonia said that you were in hospital.		
+GU048S020	1	48	7_Reported speech Questions and auxiliary verbs	何って言ったの？	What did you say?		
+GU048S021	1	48	7_Reported speech Questions and auxiliary verbs	アンは私に別れを告げて去っていきました。	Ann said goodbye to me and left.		
+GU048S022	1	48	7_Reported speech Questions and auxiliary verbs	警察には何て言いましたか？	What did you say to the police?		
+GU048S023	1	48	7_Reported speech Questions and auxiliary verbs	ダンは私に、自分の仕事にうんざりしていると言いました。	Dan told me that he was bored with his job.		
+GU048S024	1	48	7_Reported speech Questions and auxiliary verbs	ただそこに立っていないでください！ 何か言って。	Don't just stand there! Say something.		
+GU048S025	1	48	7_Reported speech Questions and auxiliary verbs	スーはどこにいるのだろうか。 彼女は8時にここに来ると言った。	I wonder where Sue is. She said she would be here at 8 o'clock.		
+GU048S026	1	48	7_Reported speech Questions and auxiliary verbs	これは秘密です。 誰にも言わないでください。	This is a secret. Please don't tell anybody.		
+GU048S027	1	48	7_Reported speech Questions and auxiliary verbs	医者は少なくとも一週間は休むべきだと言いました。	The doctor said that I should rest for at least a week.		
+GU048S028	1	48	7_Reported speech Questions and auxiliary verbs	あなたの休暇について教えてください。 良い時間をお過ごしできましたか？	Tell us about your holiday. Did you have a nice time?		
+GU048S029	1	48	7_Reported speech Questions and auxiliary verbs	何が起こったのか分かりません。 ティナは私に何も言いませんでした。	I don't know what happened. Tina didn't say anything to me.		
+GU048S030	1	48	7_Reported speech Questions and auxiliary verbs	ティナはあなたと話しましたか？ 彼女は何が起こったのか話しましたか？	Did Tina talk to you? Did she tell you what happened?		
+GU048S031	1	48	7_Reported speech Questions and auxiliary verbs	「水をたくさん飲みなさい」と医者は私に言った。	"'Drink plenty of water,' the doctor said to me."		
+GU048S032	1	48	7_Reported speech Questions and auxiliary verbs	医者は私に水をたくさん飲むように言いました。	The doctor told me to drink plenty of water.		
+GU048S033	1	48	7_Reported speech Questions and auxiliary verbs	「あまり頑張りすぎないでね」と私はジョーに言いました。	"'Don't work too hard,' I said to Joe."		
+GU048S034	1	48	7_Reported speech Questions and auxiliary verbs	私はジョーに頑張りすぎないように言いました。	I told Joe not to work too hard.		
+GU048S035	1	48	7_Reported speech Questions and auxiliary verbs	「助けてもらえませんか？」 ジャッキーは私に言いました。	"'Can you help me, please?' Jackie said to me."		
+GU048S036	1	48	7_Reported speech Questions and auxiliary verbs	ジャッキーは私に彼女を助けてくれるように頼んだ。	Jackie asked me to help her.		
+GU048S037	1	48	7_Reported speech Questions and auxiliary verbs	パウロは自分のことは心配しないでくださいと言いました。	Paul said not to worry about him.		
+GU048S038	1	48	7_Reported speech Questions and auxiliary verbs	ウィルは準備に時間がかかっていたので、早くするように言いました。	"Will was taking a long time to get ready, so I told him to hurry up."		
+GU048S039	1	48	7_Reported speech Questions and auxiliary verbs	サラは運転速度が速すぎたので、私は彼女に速度を落とすように頼みました。	"Sarah was driving too fast, so I asked her to slow down."		
+GU048S040	1	48	7_Reported speech Questions and auxiliary verbs	スーはこの状況に不安を感じていました。 私は彼女に心配しないように言いました。	Sue was nervous about the situation. I told her not to worry.		
+GU048S041	1	48	7_Reported speech Questions and auxiliary verbs	私一人ではピアノを動かすことができなかったので、トムに手を貸してもらいました。	"I couldn't move the piano alone, so I asked Tom to give me a hand."		
+GU048S042	1	48	7_Reported speech Questions and auxiliary verbs	警備員は私を怪訝そうな目で見て、カバンを開けるように言いました。	The security guard looked at me suspiciously and asked me to open my bag.		
+GU048S043	1	48	7_Reported speech Questions and auxiliary verbs	ジョンはマドレーヌに恋をしていたので、彼女に結婚してほしいと頼みました。	"John was in love with Madeleine, so he asked her to marry him."		
+GU048S044	1	48	7_Reported speech Questions and auxiliary verbs	私はヘレンを遅らせたくなかったので、遅れても待たないでくださいと彼女に言いました。	"I didn't want to delay Helen, so I told her not to wait for me if I was late."		
+GU048S045	1	48	7_Reported speech Questions and auxiliary verbs	その男性は私に個人的な質問をし始めたので、私は彼に自分のことは気にするように言いました。	"The man started asking me personal questions, so I told him to mind his own business."		
+GU049S001	1	49	7_Reported speech Questions and auxiliary verbs	トムは明日ここに来ますか？	Will Tom be here tomorrow?		
+GU049S002	1	49	7_Reported speech Questions and auxiliary verbs	頑張ってきましたか？	Have you been working hard?		
+GU049S003	1	49	7_Reported speech Questions and auxiliary verbs	その家はいつ建てられましたか?	When was the house built?		
+GU049S004	1	49	7_Reported speech Questions and auxiliary verbs	キャサリンは今日仕事していますか?	Is Katherine working today?		
+GU049S005	1	49	7_Reported speech Questions and auxiliary verbs	A: 今夜出かけるんですか？ B: いいえ、とても疲れています。	"A: Are you going out tonight? B: No, I'm too tired."		
+GU049S006	1	49	7_Reported speech Questions and auxiliary verbs	A: チーズはどのように作られるのですか? B: 分かりませんが、牛乳からできています。	"A: How is cheese made? B: I don't know, but it's made from milk."		
+GU049S007	1	49	7_Reported speech Questions and auxiliary verbs	A: あなたの両親はどこで生まれましたか? B: ロンドンです。	A: Where were your parents born? B: In London.		
+GU049S008	1	49	7_Reported speech Questions and auxiliary verbs	A: 紙はいつ発明されましたか? B: 約 2000 年前です。	A: When was paper invented? B: About two thousand years ago.		
+GU049S009	1	49	7_Reported speech Questions and auxiliary verbs	A: 何ヶ国語を話せますか? B: 英語のみです。	A: How many languages can you speak? B: Only English.		
+GU049S010	1	49	7_Reported speech Questions and auxiliary verbs	A: 今朝は交通量が多かったですか? B: はい、仕事に行くまでに長い時間がかかりました。	"A: Was there a lot of traffic this morning? B: Yes, it took a long time to get to work."		
+GU049S011	1	49	7_Reported speech Questions and auxiliary verbs	A: 会議はなぜキャンセルされたのですか? B: 来られなかった人もいたから。	A: Why was the meeting cancelled? B: Because some people couldn't come.		
+GU049S012	1	49	7_Reported speech Questions and auxiliary verbs	A: この家に長く住んでいますか? B: 10年くらいですね。	A: Have you lived in this house a long time? B: About ten years.		
+GU049S013	1	49	7_Reported speech Questions and auxiliary verbs	A: ドアを開けてもらえませんか？ B: はい、もちろんです。	"A: Could you open the door for me? B: Yes, of course."		
+GU049S014	1	49	7_Reported speech Questions and auxiliary verbs	A: 明日の朝は家にいますか？ B: いいえ、仕事に行きます。	"A: Will you be at home tomorrow morning? B: No, I'll be at work."		
+GU049S015	1	49	7_Reported speech Questions and auxiliary verbs	あなたはこの近くにお住まいですか？	Do you live near here?		
+GU049S016	1	49	7_Reported speech Questions and auxiliary verbs	映画は何時に始まりますか?	What time does the film start?		
+GU049S017	1	49	7_Reported speech Questions and auxiliary verbs	車を売りましたか？	Did you sell your car?		
+GU049S018	1	49	7_Reported speech Questions and auxiliary verbs	なぜ電車が止まったのですか？	Why did the train stop?		
+GU049S019	1	49	7_Reported speech Questions and auxiliary verbs	A: 魚介類は食べますか? B: いいえ、好きではありません。	"A: Do you eat seafood? B: No, I don't like it."		
+GU049S020	1	49	7_Reported speech Questions and auxiliary verbs	A: 鍵をどこに置きましたか? B: あなたの机の上にありますよ。	A: Where did I put my keys? B: They're on your desk.		
+GU049S021	1	49	7_Reported speech Questions and auxiliary verbs	A: 駅まで歩くのにどれくらいかかりますか? B: 20分くらいです。	A: How long does it take to walk to the station? B: About 20 minutes.		
+GU049S022	1	49	7_Reported speech Questions and auxiliary verbs	A: パーティーは楽しかったですか? B: はい、楽しかったです。	"A: Did you enjoy the party? B: Yes, it was fun."		
+GU049S023	1	49	7_Reported speech Questions and auxiliary verbs	A: いつもどうやって通勤していますか? B: 歩きます。	A: How do you usually travel to work? B: I walk.		
+GU049S024	1	49	7_Reported speech Questions and auxiliary verbs	A: 先週末は何をしましたか? B: 特に何もありません。	A: What did you do last weekend? B: Nothing special.		
+GU049S025	1	49	7_Reported speech Questions and auxiliary verbs	A: 昨日は雨が降りましたか? B: いいえ、いい一日でした。	"A: Did it rain yesterday? B: No, it was a nice day."		
+GU049S026	1	49	7_Reported speech Questions and auxiliary verbs	A: ゲイリーはよく文句を言いますか? B: はい、彼は決して満足していません。	"A: Does Gary complain a lot? B: Yes, he's never satisfied."		
+GU049S027	1	49	7_Reported speech Questions and auxiliary verbs	A: どこに住んでいますか? B: マンチェスターです。	A: Where do you live? B: In Manchester.		
+GU049S028	1	49	7_Reported speech Questions and auxiliary verbs	A: そこで生まれたんですか？ B: いいえ、私はロンドンで生まれました。	"A: Were you born there? B: No, I was born in London."		
+GU049S029	1	49	7_Reported speech Questions and auxiliary verbs	A: 結婚していますか？ B: はい。	A: Are you married? B: Yes.		
+GU049S030	1	49	7_Reported speech Questions and auxiliary verbs	A: 結婚してどのくらいですか? B: 17年です。	A: How long have you been married? B: 17 years.		
+GU049S031	1	49	7_Reported speech Questions and auxiliary verbs	A：子供はいますか？ B: はい、男の子が 2 人です。	"A: Do you have children? B: Yes, two boys."		
+GU049S032	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼らは何歳ですか? B: 12 と 15。	A: How old are they? B: 12 and 15.		
+GU049S033	1	49	7_Reported speech Questions and auxiliary verbs	A: 何をしますか? B: 私はジャーナリストです。	A: What do you do? B: I'm a journalist.		
+GU049S034	1	49	7_Reported speech Questions and auxiliary verbs	A: あなたの妻は何をしていますか? B: 彼女は医者です。	A: What does your wife do? B: She's a doctor.		
+GU049S035	1	49	7_Reported speech Questions and auxiliary verbs	何か食べたい人はいますか？	Who wants something to eat?		
+GU049S036	1	49	7_Reported speech Questions and auxiliary verbs	どうしたの？	What happened?		
+GU049S037	1	49	7_Reported speech Questions and auxiliary verbs	誰かがエマに電話しました。	Somebody phoned Emma.		
+GU049S038	1	49	7_Reported speech Questions and auxiliary verbs	エマに電話したのは誰ですか?	Who phoned Emma?		
+GU049S039	1	49	7_Reported speech Questions and auxiliary verbs	エマは誰かに電話しました。	Emma phoned somebody.		
+GU049S040	1	49	7_Reported speech Questions and auxiliary verbs	エマは誰に電話をかけましたか?	Who did Emma phone?		
+GU049S041	1	49	7_Reported speech Questions and auxiliary verbs	何人がパーティーに来ましたか。	How many people came to the party?		
+GU049S042	1	49	7_Reported speech Questions and auxiliary verbs	何人をパーティーに招待しましたか?	How many people did you invite to the party?		
+GU049S043	1	49	7_Reported speech Questions and auxiliary verbs	どのバスが中心部へ行きますか?	Which bus goes to the centre?		
+GU049S044	1	49	7_Reported speech Questions and auxiliary verbs	どのバスに乗りましたか?	Which bus did you take?		
+GU049S045	1	49	7_Reported speech Questions and auxiliary verbs	A: 誰かが私を殴りました。 B: 誰があなたを殴ったのですか?	A: Somebody hit me. B: Who hit you?		
+GU049S046	1	49	7_Reported speech Questions and auxiliary verbs	A: 人を殴ってしまいました。 B: 誰を殴ったの？	A: I hit somebody. B: Who did you hit?		
+GU049S047	1	49	7_Reported speech Questions and auxiliary verbs	A: 誰かが請求書を支払いました。 B: 請求書は誰が支払いましたか?	A: Somebody paid the bill. B: Who paid the bill?		
+GU049S048	1	49	7_Reported speech Questions and auxiliary verbs	A: 何かが起こりました。 B: 何が起こったのですか?	A: Something happened. B: What happened?		
+GU049S049	1	49	7_Reported speech Questions and auxiliary verbs	A: ダイアンが何か言いました。 B: 彼女は何と言ったんですか?	A: Diane said something. B: What did she say?		
+GU049S050	1	49	7_Reported speech Questions and auxiliary verbs	A: あの家に誰かが住んでいます。 B: そこには誰が住んでいますか?	A: Somebody lives in that house. B: Who lives there?		
+GU049S051	1	49	7_Reported speech Questions and auxiliary verbs	A: この言葉には意味があります。 B: この言葉はどういう意味ですか?	A: This word means something. B: What does this word mean?		
+GU049S052	1	49	7_Reported speech Questions and auxiliary verbs	誰と話したいですか?	Who do you want to speak to?		
+GU049S053	1	49	7_Reported speech Questions and auxiliary verbs	天気はどうでしたか？	What was the weather like?		
+GU049S054	1	49	7_Reported speech Questions and auxiliary verbs	ティナはどの仕事に応募しましたか?	Which job has Tina applied for?		
+GU049S055	1	49	7_Reported speech Questions and auxiliary verbs	どこの出身ですか？	Where are you from?		
+GU049S056	1	49	7_Reported speech Questions and auxiliary verbs	誰に話したいですか?	To whom do you wish to speak?		
+GU049S057	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼らは心配しています。 B: 彼らは何を心配しているのですか?	A: They're worried.  B: What are they worried about?		
+GU049S058	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼女は誰かと一緒にいました。 B: 彼女は誰と一緒にいましたか?	A: She was with somebody. B: Who was she with?		
+GU049S059	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼は亡くなりました。 B: 彼は何で死んだのですか?	A: He died. B: What did he die of?		
+GU049S060	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼女はお金をたくさん使います。 B: 彼女は何にお金を使いますか?	A: She spends a lot of money. B: What does she spend it on?		
+GU049S061	1	49	7_Reported speech Questions and auxiliary verbs	A: お金を借りました。 B: 誰から借りたんですか?	A: I borrowed some money. B: Who did you borrow it from?		
+GU049S062	1	49	7_Reported speech Questions and auxiliary verbs	A: 彼女は私に誰かを思い出させます。 B: 彼女は誰を思い出しますか?	A: She reminds me of somebody. B: Who does she remind you of?		
+GU049S063	1	49	7_Reported speech Questions and auxiliary verbs	A: この都市は有名です。 B: それは何で有名ですか?	A: This city is famous. B: What is it famous for?		
+GU049S064	1	49	7_Reported speech Questions and auxiliary verbs	A: この傘は私のものではありません。 B: それは誰のものですか?	A: This umbrella isn't mine. B: Who does it belong to?		
+GU049S065	1	49	7_Reported speech Questions and auxiliary verbs	A: 何かを見ています。 B: 何を見てるんですか？	A: I'm looking at something. B: What are you looking at?		
+GU049S066	1	49	7_Reported speech Questions and auxiliary verbs	A: これはとても興味深い本です。 B: それは誰によって書かれたのですか?	A: This is a very interesting book. B: Who was it written by?		
+GU049S067	1	49	7_Reported speech Questions and auxiliary verbs	ドアホンが聞こえませんでしたか？ 3回鳴らしました。	Didn't you hear the doorbell? I rang it three times.		
+GU049S068	1	49	7_Reported speech Questions and auxiliary verbs	A: 私たちは前に会ったことがありませんか？ B: はい、そうだと思います。	"A: Haven't we met before? B: Yes, I think we have."		
+GU049S069	1	49	7_Reported speech Questions and auxiliary verbs	A: 行きたくないの? B: はい。	A: Don't you want to go? B: Yes.		
+GU049S070	1	49	7_Reported speech Questions and auxiliary verbs	A: 行きたくないの? B: いいえ。	A: Don't you want to go? B: No.		
+GU049S071	1	49	7_Reported speech Questions and auxiliary verbs	今夜外食しませんか?	Why don't we eat out tonight?		
+GU049S072	1	49	7_Reported speech Questions and auxiliary verbs	エマはなぜ昨日仕事にいなかったのですか?	Why wasn't Emma at work yesterday?		
+GU049S073	1	49	7_Reported speech Questions and auxiliary verbs	A: 今夜はルークに会わないといいのですが。 B: どうして? 彼のことが好きではないのですか？	A: I hope we don't meet Luke tonight. B: Why? Don't you like him?		
+GU049S074	1	49	7_Reported speech Questions and auxiliary verbs	A: その映画を見に行かないでください。 B: どうしてですか? いいんじゃないですか？	A: Don't go and see that film. B: Why not? Isn't it good?		
+GU049S075	1	49	7_Reported speech Questions and auxiliary verbs	A: ベンは何が起こったのか知りません。 B: 本当ですか？ まだ彼に言っていませんか？	A: Ben doesn't know what happened. B: Really? Haven't you told him yet?		
+GU049S076	1	49	7_Reported speech Questions and auxiliary verbs	A: ポールの買い物をしなければなりません。 B: どうして? 彼は自分でそれができないのですか？	A: I have to do Paul's shopping for him. B: Why? Can't he do it himself?		
+GU049S077	1	49	7_Reported speech Questions and auxiliary verbs	A: 結婚するって本当ですか？ B: はい。 知らなかったのですか？	A: Is it true you're getting married? B: Yes. Didn't you know?		
+GU049S078	1	49	7_Reported speech Questions and auxiliary verbs	なぜ幸せではないのですか？ どうしたの？	Why aren't you happy? What's the problem?		
+GU049S079	1	49	7_Reported speech Questions and auxiliary verbs	なぜこの機械は動かないのでしょうか？ どうしたの？	Why doesn't this machine work? What's wrong with it?		
+GU049S080	1	49	7_Reported speech Questions and auxiliary verbs	なぜ彼らは明日私たちに会えないのですか？ 彼らは忙しいですか？	Why can't they meet us tomorrow? Are they busy?		
+GU049S081	1	49	7_Reported speech Questions and auxiliary verbs	スーはなぜ今日仕事をしないのですか? 休日ですか？	Why isn't Sue working today? Is it a holiday?		
+GU049S082	1	49	7_Reported speech Questions and auxiliary verbs	なぜ私の質問に答えてくれないのですか？ ３回も質問してしまいました。	Why don't you answer my question? I've asked you three times.		
+GU049S083	1	49	7_Reported speech Questions and auxiliary verbs	なぜケイトは私たちに電話をかけないのですか? 彼女はそうすると言った。	Why hasn't Kate phoned us? She said she would.		
+GU050S001	1	50	7_Reported speech Questions and auxiliary verbs	トムはどこへ行ったの？	Where has Tom gone?		
+GU050S002	1	50	7_Reported speech Questions and auxiliary verbs	トムがどこへ行ったのか分かりません。	I don't know where Tom has gone.		
+GU050S003	1	50	7_Reported speech Questions and auxiliary verbs	今何時ですか？	What time is it?		
+GU050S004	1	50	7_Reported speech Questions and auxiliary verbs	今は何時ですか？	Do you know what time it is?		
+GU050S005	1	50	7_Reported speech Questions and auxiliary verbs	あの人たちはだれ？	Who are those people?		
+GU050S006	1	50	7_Reported speech Questions and auxiliary verbs	その人たちが誰なのか知りません。	I don't know who those people are.		
+GU050S007	1	50	7_Reported speech Questions and auxiliary verbs	ルイーズはどこで見つけられますか？	Where can I find Louise?		
+GU050S008	1	50	7_Reported speech Questions and auxiliary verbs	ルイーズをどこで見つけられるか教えてもらえますか？	Can you tell me where I can find Louise?		
+GU050S009	1	50	7_Reported speech Questions and auxiliary verbs	費用はいくらですか？	How much will it cost?		
+GU050S010	1	50	7_Reported speech Questions and auxiliary verbs	いくらかかるか分かりません。	I have no idea how much it will cost.		
+GU050S011	1	50	7_Reported speech Questions and auxiliary verbs	サラは明日仕事ですか?	Is Sarah working tomorrow?		
+GU050S012	1	50	7_Reported speech Questions and auxiliary verbs	サラが明日仕事をしているかどうかは分かりません。	I don't know if Sarah is working tomorrow.	I don't know whether Sarah is working tomorrow.	
+GU050S013	1	50	7_Reported speech Questions and auxiliary verbs	A: あの人たちが誰なのか知っていますか? B: いいえ、見たことがありません。	"A: Do you know who those people are? B: No, I've never seen them before."		
+GU050S014	1	50	7_Reported speech Questions and auxiliary verbs	A: ローラはいつ結婚しますか? B: 来月です。	A: When is Laura getting married? B: Next month.		
+GU050S015	1	50	7_Reported speech Questions and auxiliary verbs	A: ローラはいつ結婚するのかな。 B: 来月です。	A: I wonder when Laura is getting married. B: Next month.		
+GU050S016	1	50	7_Reported speech Questions and auxiliary verbs	A: お手伝いしたいのですが、何ができるか分かりません。 B: 心配しないでください。 なんとかなりますよ。	"A: I'd like to help, but I don't know what I can do. B: Don't worry. I'll manage OK."		
+GU050S017	1	50	7_Reported speech Questions and auxiliary verbs	A: 駅がどこにあるのか教えていただけますか。 B: 真っ直ぐ進むと左側にあります。	A: Could you tell me where the station is? B: Straight on and it's on the left.		
+GU050S018	1	50	7_Reported speech Questions and auxiliary verbs	A: その事故で怪我をした人がいるか知っていますか? B: いいえ、みんな大丈夫でした。	"A: Do you know whether anyone was injured in the accident? B: No, everybody was OK."		
+GU050S019	1	50	7_Reported speech Questions and auxiliary verbs	A: 今夜はどの映画を見るつもりですか? B: まだ決めていません。	A: Which film are you going to see tonight? B: We haven't decided yet.		
+GU050S020	1	50	7_Reported speech Questions and auxiliary verbs	A: 明日は何時に到着するかまだわかりません。 B: 大丈夫ですよ。 ここに着いたら電話してください。	A: I don't know yet what time I will arrive tomorrow. B: That's OK. Call me when you get here.		
+GU050S021	1	50	7_Reported speech Questions and auxiliary verbs	A: ヴィッキーはなぜ不幸なのですか? B: 分かりません。 彼女は何が問題なのか言わない。	A: Why is Vicky unhappy? B: I don't know. She won't say what the problem is.		
+GU050S022	1	50	7_Reported speech Questions and auxiliary verbs	映画は何時に始まりますか?	What time does the film start?		
+GU050S023	1	50	7_Reported speech Questions and auxiliary verbs	映画が何時に始まるか知っていますか?	Do you know what time the film starts?		
+GU050S024	1	50	7_Reported speech Questions and auxiliary verbs	どういう意味ですか？	What do you mean?		
+GU050S025	1	50	7_Reported speech Questions and auxiliary verbs	どういう意味なのか説明してください。	Please explain what you mean.		
+GU050S026	1	50	7_Reported speech Questions and auxiliary verbs	なぜ彼女はそんなに早く出発したのですか?	Why did she leave so early?		
+GU050S027	1	50	7_Reported speech Questions and auxiliary verbs	なぜ彼女は早く出発したのだろうか。	I wonder why she left early.		
+GU050S028	1	50	7_Reported speech Questions and auxiliary verbs	誰かあなたを見ましたか？	Did anybody see you?		
+GU050S029	1	50	7_Reported speech Questions and auxiliary verbs	誰かがあなたを見たかどうか知っていますか？	Do you know if anybody saw you?	Do you know whether anybody saw you?	
+GU050S030	1	50	7_Reported speech Questions and auxiliary verbs	バスが何時に出発するか知っていますか？	Do you know what time the bus leaves?		
+GU050S031	1	50	7_Reported speech Questions and auxiliary verbs	エイミーはなぜ毎日そんなに早く起きるのですか?	Why does Amy get up so early every day?		
+GU050S032	1	50	7_Reported speech Questions and auxiliary verbs	この言葉の意味が知りたいです。	I want to know what this word means.		
+GU050S033	1	50	7_Reported speech Questions and auxiliary verbs	ここの駐車料金はいくらですか?	How much does it cost to park here?		
+GU050S034	1	50	7_Reported speech Questions and auxiliary verbs	何が欲しいのか教えてください。	Tell me what you want.		
+GU050S035	1	50	7_Reported speech Questions and auxiliary verbs	車をどこに駐車したのか思い出せません。	I can't remember where I parked the car.		
+GU050S036	1	50	7_Reported speech Questions and auxiliary verbs	なぜ昨日電話しなかったのですか？	Why didn't you phone yesterday?		
+GU050S037	1	50	7_Reported speech Questions and auxiliary verbs	ヘレンがどこで働いているか知っていますか?	Do you have any idea where Helen works?		
+GU050S038	1	50	7_Reported speech Questions and auxiliary verbs	'どこに行くの？'	'Where are you going?'		
+GU050S039	1	50	7_Reported speech Questions and auxiliary verbs	トムは私にどこへ行くのかと尋ねました。	Tom asked me where I was going.		
+GU050S040	1	50	7_Reported speech Questions and auxiliary verbs	「お店は何時に閉まりますか？」	'What time do the shops close?'		
+GU050S041	1	50	7_Reported speech Questions and auxiliary verbs	トムは店が何時に閉まるかを尋ねた。	Tom asked what time the shops closed.		
+GU050S042	1	50	7_Reported speech Questions and auxiliary verbs	「あなたの車を借りてもいいですか？」	'Can I borrow your car?'		
+GU050S043	1	50	7_Reported speech Questions and auxiliary verbs	トムは私の車を貸してもらえないかと尋ねました。	Tom asked if he could borrow my car.		
+GU050S044	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私に運転免許証を持っているかどうか尋ねました。	She asked if I had a driving licence.		
+GU050S045	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私に旅行する気があるかどうか尋ねました。	She asked whether I was willing to travel.		
+GU050S046	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私が暇なときに何をしていたか尋ねました。	She asked what I did in my spare time.		
+GU050S047	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私が現在の仕事でどれくらい働いているか尋ねました。	She asked how long I'd been working in my present job.		
+GU050S048	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私がその仕事に応募した理由を尋ねました。	She asked why I'd applied for the job.		
+GU050S049	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私に他の言語を話せるかどうか尋ねました。	She asked whether I could speak any other languages.		
+GU050S050	1	50	7_Reported speech Questions and auxiliary verbs	彼は私に出身地を尋ねました。	He asked me where I was from.		
+GU050S051	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私にどのくらいロンドンにいるのかと尋ねました。	She asked me how long I'd been in London.		
+GU050S052	1	50	7_Reported speech Questions and auxiliary verbs	彼は私に、これまでにロンドンに行ったことがあるかどうか尋ねました。	He asked me whether I'd been to London before.		
+GU050S053	1	50	7_Reported speech Questions and auxiliary verbs	彼は私がロンドンが好きかどうか知りたかったのです。	He wanted to know if I liked London.		
+GU050S054	1	50	7_Reported speech Questions and auxiliary verbs	彼は私に楽しい時間を過ごしたかどうか尋ねました。	He asked me if I was having a good time.		
+GU050S055	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私にどれくらい滞在するつもりか尋ねました。	She asked me how long I was going to stay.		
+GU050S056	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私に、ロンドンは物価が高いと思うかと尋ねました。	She asked me if I thought London was expensive.		
+GU050S057	1	50	7_Reported speech Questions and auxiliary verbs	彼は私にどこに泊まっているか尋ねました。	He asked me where I was staying.		
+GU050S058	1	50	7_Reported speech Questions and auxiliary verbs	彼女は私がなぜロンドンに来たのか知りたかったのです。	She wanted to know why l'd come to London.		
+GU051S001	1	51	7_Reported speech Questions and auxiliary verbs	鍵を紛失してしまいました。	I have lost my keys.		
+GU051S002	1	51	7_Reported speech Questions and auxiliary verbs	彼女はパーティーに来られません。	She can't come to the party.		
+GU051S003	1	51	7_Reported speech Questions and auxiliary verbs	そのホテルは10年前に建てられました。	The hotel was built ten years ago.		
+GU051S004	1	51	7_Reported speech Questions and auxiliary verbs	なぜ家に帰りたいのですか？	Why do you want to go home?		
+GU051S005	1	51	7_Reported speech Questions and auxiliary verbs	A: ドアに鍵をかけましたか? B: はい、あります。	"A: Have you locked the door? B: Yes, I have."		
+GU051S006	1	51	7_Reported speech Questions and auxiliary verbs	ゲイリーは働いていませんでしたが、ローラは働いていました。	"Gary wasn't working, but Laura was."		
+GU051S007	1	51	7_Reported speech Questions and auxiliary verbs	ジェシカは私にお金を貸してくれるかもしれませんが、貸してくれません。	"Jessica could lend me the money, but she won't."		
+GU051S008	1	51	7_Reported speech Questions and auxiliary verbs	A: 玉ねぎは好きですか? B: はい、そうです。	"A: Do you like onions? B: Yes, I do."		
+GU051S009	1	51	7_Reported speech Questions and auxiliary verbs	A: サイモンはロンドンに住んでいますか? B: 彼はそうしましたが、もうしません。	"A: Does Simon live in London? B: He did, but he doesn't any more."		
+GU051S010	1	51	7_Reported speech Questions and auxiliary verbs	A: あなたは私の場所に座っています。 B: いいえ、違います。	"A: You're sitting in my place. B: No, I'm not."		
+GU051S011	1	51	7_Reported speech Questions and auxiliary verbs	A: 出かける前にドアに鍵をかけませんでした。 B: はい、そうでした。	"A: You didn't lock the door before you left. B: Yes, I did."		
+GU051S012	1	51	7_Reported speech Questions and auxiliary verbs	私は疲れていませんでしたが、友達は疲れていました。	"I wasn't tired, but my friends were."		
+GU051S013	1	51	7_Reported speech Questions and auxiliary verbs	私は暑い気候が好きですが、アンはそうではありません。	"I like hot weather, but Ann doesn't."		
+GU051S014	1	51	7_Reported speech Questions and auxiliary verbs	私は明日パーティーに行くつもりですが、クリスは欠席です。	"I'm going to the party tomorrow, but Chris isn?t."		
+GU051S015	1	51	7_Reported speech Questions and auxiliary verbs	あなたはあまりテレビを見ませんが、私は見ます。	"You don't watch TV much, but I do."		
+GU051S016	1	51	7_Reported speech Questions and auxiliary verbs	私はあまり旅行したことがありませんが、ゲイリーはよく旅行しました。	"I haven't travelled much, but Gary has."		
+GU051S017	1	51	7_Reported speech Questions and auxiliary verbs	ケイトから電話が来ると思っていたのですが、電話はありませんでした。	"I was expecting Kate to call me, but she didn't."		
+GU051S018	1	51	7_Reported speech Questions and auxiliary verbs	トムは明日ここにいませんが、私は来ます。	"Tom won't be here tomorrow, but I will."		
+GU051S019	1	51	7_Reported speech Questions and auxiliary verbs	今日はお店は開いていますが、銀行は開いていません。	"The shops are open today, but the banks aren't."		
+GU051S020	1	51	7_Reported speech Questions and auxiliary verbs	A: アンディはここにいますか? B: 彼は5分前にいましたが、もう帰ってしまったと思います。	"A: Is Andy here? B: He was five minutes ago, but I think he's gone home."		
+GU051S021	1	51	7_Reported speech Questions and auxiliary verbs	A: 今夜一緒に出かけませんか？ B: 残念ながらできません。 やるべきことが多すぎます。	A: Are you coming out with us tonight? B: I can't unfortunately. I have too much to do.		
+GU051S022	1	51	7_Reported speech Questions and auxiliary verbs	A: 雨が降ると思いますか? B: そうかもしれません。 万が一に備えて傘を持っていきましょう。	A: Do you think it's going to rain? B: It might. Take an umbrella in case.		
+GU051S023	1	51	7_Reported speech Questions and auxiliary verbs	A: あなたは私の言うことを決して聞きません。 B: はい、そうです！	"A: You never listen to me. B: Yes, I do!"		
+GU051S024	1	51	7_Reported speech Questions and auxiliary verbs	A: 何が起こったのかは誰にも言わないでください。 B: 心配しないでください。 私はしません。	A: Please don't tell anybody what happened. B: Don't worry. I won't.		
+GU051S025	1	51	7_Reported speech Questions and auxiliary verbs	A: その仕事に応募するかどうかわかりません。 B: そうすべきだと思います。	A: I don't know whether to apply for the job. B: I think you should.		
+GU051S026	1	51	7_Reported speech Questions and auxiliary verbs	A: 土曜日は仕事をしますか？ B: いつもはそうしますが、先週の土曜日はそうしませんでした。	"A: Do you work on Saturdays? B: Usually yes, but last Saturday I didn't."		
+GU051S027	1	51	7_Reported speech Questions and auxiliary verbs	A: ケイトが私に電話してくれる？ B: はい、彼女はそうするって言いました。	"A: Is Kate going to call me? B: Yes, she said she would."		
+GU051S028	1	51	7_Reported speech Questions and auxiliary verbs	A: スティーブンに会ったところです。 B: ああ、そうですか？ 彼はどのように？	"A: I've just seen Stephen. B: Oh, have you? How is he?"		
+GU051S029	1	51	7_Reported speech Questions and auxiliary verbs	A: リサは今日はあまり調子が良くありません。 B: 彼女じゃないの？ 彼女の何が問題なのでしょうか？	A: Lisa isn't very well today. B: Isn't she? What's wrong with her?		
+GU051S030	1	51	7_Reported speech Questions and auxiliary verbs	A: 休暇中は毎日雨が降りました。 B: そうなの？ 残念だ！	A: It rained every day during our holiday. B: Did it? What a shame!		
+GU051S031	1	51	7_Reported speech Questions and auxiliary verbs	A: ジェームズとターニャは結婚する予定です。 B: そうですか？ 本当に？	A: James and Tanya are getting married. B: Are they? Really?		
+GU051S032	1	51	7_Reported speech Questions and auxiliary verbs	A: お腹が空いたよ。 B: そうですか？ それなら何か食べてください。	A: I'm hungry. B: Are you? Have something to eat then.		
+GU051S033	1	51	7_Reported speech Questions and auxiliary verbs	A: 嬉しくないです。 B: そうじゃないの？ どうしたの？	A: I'm not happy. B: Aren't you? What's wrong?		
+GU051S034	1	51	7_Reported speech Questions and auxiliary verbs	A: 私はサッカーが好きです。 B: そうですか？ どのチームを応援しますか？	A: I like football. B: Do you? Which team do you support?		
+GU051S035	1	51	7_Reported speech Questions and auxiliary verbs	A: 飛行機に乗ったことがありません。 B: そうじゃないの？ したいですか？	A: I've never flown in a plane. B: Haven't you? Would you like to?		
+GU051S036	1	51	7_Reported speech Questions and auxiliary verbs	A: その映画は楽しめませんでした。 B: そうじゃなかった？ なぜだめですか？	A: I didn't enjoy the film. B: Didn't you? Why not?		
+GU051S037	1	51	7_Reported speech Questions and auxiliary verbs	A: トムはもうここには住んでいません。 B: そうじゃないの？ 彼の新しい住所を知っていますか？	A: Tom doesn't live here any more. B: Doesn't he? Do you know his new address?		
+GU051S038	1	51	7_Reported speech Questions and auxiliary verbs	A: 試験は簡単だと思いました。 B: そうでしたか？ かなり大変でした。	A: I thought the exam was easy. B: Did you? I found it quite hard.		
+GU051S039	1	51	7_Reported speech Questions and auxiliary verbs	A: アンは 35 歳です。 B: 彼女ですか? 彼女は若く見えると思います。	A: Ann is 35. B: Is she? I think she looks younger.		
+GU051S040	1	51	7_Reported speech Questions and auxiliary verbs	A: 疲れています。 B: 私もそうですよ。	A: I'm tired. B: So am I.		
+GU051S041	1	51	7_Reported speech Questions and auxiliary verbs	A: 私は新聞をまったく読みません。 B: 私もそうではありません。	A: I never read newspapers. B: Neither do I.		
+GU051S042	1	51	7_Reported speech Questions and auxiliary verbs	サラは運転できませんし、マークも運転できません。	Sarah can't drive and neither can Mark.		
+GU051S043	1	51	7_Reported speech Questions and auxiliary verbs	私は試験に合格し、ポールも合格しました。	I passed the exam and so did Paul.		
+GU051S044	1	51	7_Reported speech Questions and auxiliary verbs	A: 分かりません。 B: 私もそうではありません。	A: I don't know. B: Neither do I.	Nor do I.	I don't either.
+GU051S045	1	51	7_Reported speech Questions and auxiliary verbs	A: 私は料理が好きです。 B: 私もそうですよ。	A: I enjoy cooking. B: So do I.		
+GU051S046	1	51	7_Reported speech Questions and auxiliary verbs	A: もう何年も映画館に行っていないんです。 B: 私もしたことがありません。	A: I haven't been to the cinema for ages. B: I haven't either.		
+GU051S047	1	51	7_Reported speech Questions and auxiliary verbs	A: 昨夜はよく眠れませんでした。 B: そうじゃなかった？	A: I didn't sleep well last night. B: Didn't you?		
+GU051S048	1	51	7_Reported speech Questions and auxiliary verbs	A: 週末を楽しみにしています。 B: 私もそうですよ。	A: I'm looking forward to the weekend. B: So am I.		
+GU051S049	1	51	7_Reported speech Questions and auxiliary verbs	A: 今朝は仕事に遅刻しました。 B: そうだったんですか？	A: I was late for work this morning. B: Were you?		
+GU051S050	1	51	7_Reported speech Questions and auxiliary verbs	A: 私はテレビをまったく見ません。 B: 私もそうではありません	A: I never watch TV. B: Nor do I		
+GU051S051	1	51	7_Reported speech Questions and auxiliary verbs	A: 昨夜はとても遅く寝ました。 B: そうでしたか？	A: I went to bed very late last night. B: Did you?		
+GU051S052	1	51	7_Reported speech Questions and auxiliary verbs	A: エイミーのパーティーには行けません。 B: 私もそうしません。	A: I won't be able to go to Amy's party. B: Neither will I.		
+GU051S053	1	51	7_Reported speech Questions and auxiliary verbs	A: もっと自由な時間が欲しいです。 B: 私もそうします。	A: I'd like to have more free time. B: So would I.		
+GU051S054	1	51	7_Reported speech Questions and auxiliary verbs	A: 明日は仕事がありません。 B: 私もそうではありません。	A: I'm not working tomorrow. B: Nor am I.		
+GU051S055	1	51	7_Reported speech Questions and auxiliary verbs	A: あの人たちは韓国人ですか? B: そうだと思います。	A: Are those people Korean? B: I think so.		
+GU051S056	1	51	7_Reported speech Questions and auxiliary verbs	A: ケイトは明日仕事ですか? B: そうだと思います。	A: Is Kate working tomorrow? B: I suppose so.	I guess so.	
+GU051S057	1	51	7_Reported speech Questions and auxiliary verbs	A: 天気は良くなると思いますか? B: そうだといいですね。	A: Do you think the weather will be good? B: I hope so.		
+GU051S058	1	51	7_Reported speech Questions and auxiliary verbs	そう思います。	I think so.		
+GU051S059	1	51	7_Reported speech Questions and auxiliary verbs	私はそうは思わない。	I don't think so.		
+GU051S060	1	51	7_Reported speech Questions and auxiliary verbs	そう期待しています。	I expect so.		
+GU051S061	1	51	7_Reported speech Questions and auxiliary verbs	そんなことは期待していない。	I don't expect so.		
+GU051S062	1	51	7_Reported speech Questions and auxiliary verbs	そうだといい。	I hope so.		
+GU051S063	1	51	7_Reported speech Questions and auxiliary verbs	そうならないことを願います。	I hope not.		
+GU051S064	1	51	7_Reported speech Questions and auxiliary verbs	私はそう思います。	I guess so.		
+GU051S065	1	51	7_Reported speech Questions and auxiliary verbs	そうではないと思います。	I guess not.		
+GU051S066	1	51	7_Reported speech Questions and auxiliary verbs	残念ながらそのようですね。	I'm afraid so.		
+GU051S067	1	51	7_Reported speech Questions and auxiliary verbs	そうではないと思います。	I'm afraid not.		
+GU051S068	1	51	7_Reported speech Questions and auxiliary verbs	そうだと思います。	I suppose so.		
+GU051S069	1	51	7_Reported speech Questions and auxiliary verbs	そうではないと思います。	I don't suppose so.	I suppose not.	
+GU051S070	1	51	7_Reported speech Questions and auxiliary verbs	A: あの女性はアメリカ人ですか? B: そうは思いません。	A: Is that woman American? B: I don't think so.		
+GU051S071	1	51	7_Reported speech Questions and auxiliary verbs	A: 雨が降ると思いますか? B: そうならないことを祈ります。	A: Do you think it will rain? B: I hope not.		
+GU051S072	1	51	7_Reported speech Questions and auxiliary verbs	もっとお金が必要です。 サム: もうすぐ給料が上がると思いますか? あなた：そう願っています。	You need more money. SAM: Do you think you'll get a pay rise soon? YOU: I hope so.		
+GU051S073	1	51	7_Reported speech Questions and auxiliary verbs	あなたはホテルの受付係です。 ホテルは満室です。 サム：今夜の部屋はありますか？ あなた：残念ながらそうではありません。	You are the receptionist at a hotel. The hotel is full. SAM: Do you have a room for tonight? YOU: I'm afraid not.		
+GU051S074	1	51	7_Reported speech Questions and auxiliary verbs	エイミーが結婚しているかどうかはわかりませんが、おそらく結婚していません。 サム：エイミーは結婚しているの？ あなた：そうは思いません。	You are not sure whether Amy is married - probably not. SAM: Is Amy married? YOU: I don't think so.		
+GU051S075	1	51	7_Reported speech Questions and auxiliary verbs	あなたが知っている限り、レイチェルは明日仕事です。 サム: レイチェルは明日仕事ですか? あなた：そうだと思います。	"As far as you know, Rachel is working tomorrow. SAM: Is Rachel working tomorrow? YOU: I suppose so."		
+GU051S076	1	51	7_Reported speech Questions and auxiliary verbs	あなたはパーティーに行く予定です。 ジョンには我慢できないよ。 サム：ジョンはパーティーに参加しますか？ あなた：そうならないことを願っています。	You are going to a party. You can't stand John. SAM: Will John be at the party? YOU: I hope not.		
+GU051S077	1	51	7_Reported speech Questions and auxiliary verbs	映画がいつ始まるかはわかりませんが、おそらく 7 時 30 分です。 サム：その映画は何時ですか？ 7.30? あなた：そう思います。	You aren't sure when the film begins - probably 7.30. SAM: What time is the film? 7.30? YOU: I think so.		
+GU051S078	1	51	7_Reported speech Questions and auxiliary verbs	あなたはパーティーに参加しています。 早く出発しなければなりません。 サム：もう行かなきゃいけないの？ あなた：残念ですがそうです。	You are at a party. You have to leave early. SAM: Do you have to leave already? YOU: I'm afraid so.		
+GU052S001	1	52	7_Reported speech Questions and auxiliary verbs	ケイトを見たことがありませんよね？	"You haven't seen Kate, have you?"		
+GU052S002	1	52	7_Reported speech Questions and auxiliary verbs	良い映画でしたね。	"It was a good film, wasn't it?"		
+GU052S003	1	52	7_Reported speech Questions and auxiliary verbs	A: カレンはピアノを弾きますね。 B: そうですね、でもあまり良くはありません。	"A: Karen plays the piano, doesn't she? B: Well, yes, but not very well."		
+GU052S004	1	52	7_Reported speech Questions and auxiliary verbs	A: ドアに鍵をかけませんでしたね? B: いいえ、忘れていました。	"A: You didn't lock the door, did you? B: No, I forgot."		
+GU052S005	1	52	7_Reported speech Questions and auxiliary verbs	A: ロンドンに行ったことがありますよね？ B: はい、数回です。	"A: You've been to London, haven't you? B: Yes, a few times."		
+GU052S006	1	52	7_Reported speech Questions and auxiliary verbs	A: あなたの奥さんは教師ですよね。 B: はい、その通りです。	"A: Your wife is a teacher, isn't she? B: Yes, that's right."		
+GU052S007	1	52	7_Reported speech Questions and auxiliary verbs	A: ここの近くに住んでるんですよね？ B: はい、わずか 5 分です。	"A: You live near here, don't you? B: Yes, just five minutes away."		
+GU052S008	1	52	7_Reported speech Questions and auxiliary verbs	A: とても美味しかったですね。 B: はい、素晴らしいです。	"A: That was a really good meal, wasn't it? B: Yes, excellent."		
+GU052S009	1	52	7_Reported speech Questions and auxiliary verbs	A: あなたはクリスをパーティーに招待しましたよね? B: はい、もちろんです。	"A: You invited Chris to the party, didn't you? B: Yes, of course."		
+GU052S010	1	52	7_Reported speech Questions and auxiliary verbs	A: 明日はパリ行きの飛行機ですね。 B: はい、毎日 1 つあります。	"A: There's a flight to Paris tomorrow, isn't there? B: Yes, there's one every day."		
+GU052S011	1	52	7_Reported speech Questions and auxiliary verbs	A: ジェームスを知らないんですね？ B: いいえ、会ったことはありません。	"A: You don't know James, do you? B: No, we've never met."		
+GU052S012	1	52	7_Reported speech Questions and auxiliary verbs	A: 橋の状態はあまり良くありませんね。 B: いいえ、修理する必要があります。	"A: The bridge isn't in very good condition, is it? B: No, it needs to be repaired."		
+GU052S013	1	52	7_Reported speech Questions and auxiliary verbs	A: ゲイリーは眼鏡をかけていませんね。 B: いいえ、彼はコンタクトレンズを着用しています。	"A: Gary doesn't wear glasses, does he? B: No. He wears contact lenses."		
+GU052S014	1	52	7_Reported speech Questions and auxiliary verbs	A: 急いでいませんね。 B: いいえ、時間はたっぷりあります。	"A: We're not in a hurry, are we? B: No, we have plenty of time."		
+GU052S015	1	52	7_Reported speech Questions and auxiliary verbs	A: ここに車で来たんじゃないんですよね？ B: いいえ、バスで来ました。	"A: You didn't drive here, did you? B: No, I came by bus."		
+GU052S016	1	52	7_Reported speech Questions and auxiliary verbs	A: 何が起こったのか誰にも言わないでしょう？ B: いいえ、もちろん違います。	"A: You won't tell anyone what happened, will you? B: No, of course not."		
+GU052S017	1	52	7_Reported speech Questions and auxiliary verbs	ケイトはもうすぐここに来るでしょうね？	"Kate will be here soon, won't she?"		
+GU052S018	1	52	7_Reported speech Questions and auxiliary verbs	交通量が多かったですね。	"There was a lot of traffic, wasn't there?"		
+GU052S019	1	52	7_Reported speech Questions and auxiliary verbs	ジョーは試験に合格するはずですよね？	"Joe should pass the exam, shouldn't he?"		
+GU052S020	1	52	7_Reported speech Questions and auxiliary verbs	ケイトは遅刻しないでしょう?	"Kate won't be late, will she?"		
+GU052S021	1	52	7_Reported speech Questions and auxiliary verbs	彼らは私たちのことを好きではありませんよね？	"They don't like us, do they?"		
+GU052S022	1	52	7_Reported speech Questions and auxiliary verbs	まだ食べてないですよね？	"You haven't eaten yet, have you?"		
+GU052S023	1	52	7_Reported speech Questions and auxiliary verbs	A: 今日は外出しないんですよね？ B: はい。 買い物に行きます。	"A: You're not going out today, are you? B: Yes. I'm going shopping."		
+GU052S024	1	52	7_Reported speech Questions and auxiliary verbs	A: 今日は外出しないんですよね？ B: いいえ、家にいます。	"A: You're not going out today, are you? B: No. I'm staying at home."		
+GU052S025	1	52	7_Reported speech Questions and auxiliary verbs	A: 彼らはイタリアに住んでいますね。 B: はい、ローマの近くです。	"A: They live in Italy, don't they? B: Yes, near Rome."		
+GU052S026	1	52	7_Reported speech Questions and auxiliary verbs	A: 彼は休暇中ですよね？ B: その通りです。 彼はオーストラリアにいます。	"A: He's on holiday, isn't he? B: That's right. He's in Australia."		
+GU052S027	1	52	7_Reported speech Questions and auxiliary verbs	A: 聞いてないですよね？ B: はい、そうです！	"A: You aren't listening, are you? B: Yes, I am!"		
+GU052S028	1	52	7_Reported speech Questions and auxiliary verbs	A: ドイツ語を話せるんですね。 B: はい、でも流暢ではありません。	"A: You can speak German, can't you? B: Yes, but not fluently."		
+GU052S029	1	52	7_Reported speech Questions and auxiliary verbs	A: 写真を撮っても気にしないでしょう? B: いいえ、もちろんそんなことはありません。	"A: They won't mind if I take a picture, will they? B: No, of course they won't."		
+GU052S030	1	52	7_Reported speech Questions and auxiliary verbs	A: 彼女はよく旅行しますね。 B: はい、彼女は旅行が大好きです。	"A: She travels a lot, doesn't she? B: Yes, she loves travelling."		
+GU052S031	1	52	7_Reported speech Questions and auxiliary verbs	A: あまり面白くないですね。 B: いいえ、そうではありません。	"A: This isn't very interesting, is it? B: No, not really."		
+GU052S032	1	52	7_Reported speech Questions and auxiliary verbs	A: ここに来るのにそれほど時間はかかりませんでしたね。 B: いいえ、10 分だけです。	"A: It didn't take long to get here, did it? B: No, just ten minutes."		
+GU052S033	1	52	7_Reported speech Questions and auxiliary verbs	A: 天気があまり良くないですね。 B: いや、ひどいよ。	"A: The weather isn't very good, is it? B: No, it's horrible."		
+GU052S034	1	52	7_Reported speech Questions and auxiliary verbs	A: この花はとても素敵ですね。 B: はい。 美しいですね。	"A: These flowers are very nice, aren't they? B: Yes. They're beautiful."		
+GU052S035	1	52	7_Reported speech Questions and auxiliary verbs	A: 誰にも言わないですよね？ B: いいえ、もちろん違います。	"A: You wouldn't tell anyone, would you? B: No, of course not."		
+GU052S036	1	52	7_Reported speech Questions and auxiliary verbs	A: アンはここに長い間住んでいますね。 B: はい、20年です。	"A: Ann has lived here a long time, hasn't she? B: Yes, 20 years."		
+GU052S037	1	52	7_Reported speech Questions and auxiliary verbs	A: ここにはたくさんの人がいますね。 B: はい、予想以上でした。	"A: There are a lot of people here, aren't there? B: Yes, more than I expected."		
+GU052S038	1	52	7_Reported speech Questions and auxiliary verbs	A: カッとなってはいけませんね。 B: いいえ、でもそれは問題ではありません。	"A: I shouldn't have lost my temper, should I? B: No, but it doesn't matter."		
+GU052S039	1	52	7_Reported speech Questions and auxiliary verbs	A: ローザはホテルで働いていますね。 B: その通りです。 彼女は受付係です。	"A: Rosa works in a hotel, doesn't she? B: That's right. She's a receptionist."		
+GU052S040	1	52	7_Reported speech Questions and auxiliary verbs	A:彼はこれまで彼女に会ったことがなかったのですね? B: いいえ、初めてでした。	"A:He'd never met her before, had he? B: No, that was the first time."		
+GU052S041	1	52	7_Reported speech Questions and auxiliary verbs	A: いい日ですね。 B: はい、美しいですね。	"A: It's a nice day, isn't it? B: Yes, beautiful."		
+GU052S042	1	52	7_Reported speech Questions and auxiliary verbs	A: ポールは今日は調子が良くないようですね。 B: いいえ、彼はとても疲れているようです。	"A: Paul doesn't look well today, does he? B: No, he looks very tired."		
+GU052S043	1	52	7_Reported speech Questions and auxiliary verbs	A: 今日はケイトに会いませんね? B: いいえ、していません。	"A: You haven't seen Kate today, have you? B: No, I haven't."		
+GU052S044	1	52	7_Reported speech Questions and auxiliary verbs	A: あなたは私にお願いをすることができなかったのですね？ B: それが何であるかによるよ。	"A: You couldn't do me a favour, could yo?? B: It depends what it is."		
+GU052S045	1	52	7_Reported speech Questions and auxiliary verbs	あなたと友人はレストランの外にいます。 価格を見てみると、非常に高いです。 あなたは言います：それはとても高価ですよね？	"You and a friend are outside a restaurant. You're looking at the prices, which are very high. You say: It's very expensive, isn't it?"		
+GU052S046	1	52	7_Reported speech Questions and auxiliary verbs	あなたと同僚はトレーニング コースを終えたばかりです。 本当に楽しかったですね。 あなたはこう言います：コースは素晴らしかったですよね？	"You and a colleague have just finished a training course. You really enjoyed it. You say: The course was great, wasn't it?"		
+GU052S047	1	52	7_Reported speech Questions and auxiliary verbs	あなたは女性の歌を聞いています。 彼女はとても上手です。 あなたは友達にこう言います。「彼女は素敵な声を持っていますよね？」	"You're listening to a woman singing. She's very good. You say to your friend: She's got a lovely voice, hasn't she?"		
+GU052S048	1	52	7_Reported speech Questions and auxiliary verbs	あなたは店でジャケットを試着しています。 あなたは鏡を見て、そこにあるものが気に入らないと感じます。 あなたは友達にこう言います。「あまり良くないようですね?」	"You're trying on a jacket in a shop. You look in the mirror and you don't like what you see. You say to your friend: It doesn't look very good, does it?"		
+GU052S049	1	52	7_Reported speech Questions and auxiliary verbs	あなたの友達の髪は、あなたが最後に会った時よりもずっと短くなりました。 あなたは友達にこう言います。「髪を切ったね？」	"Your friend's hair is much shorter than when you last met. You say to your friend: You've had your hair cut, haven't you?"		
+GU052S050	1	52	7_Reported speech Questions and auxiliary verbs	あなたと友人は小さな木の橋を歩いています。 橋は古く、壊れている部分もあります。 あなたはこう言います。「この橋はあまり安全ではありませんね?」	"You and a friend are walking over a small wooden bridge. The bridge is old and some parts are broken. You say: This bridge isn't very safe, is it?"		
+GU052S051	1	52	7_Reported speech Questions and auxiliary verbs	ペンが必要です。 おそらくジェーンはそれを持っているでしょう。 彼女に尋ねてください：ジェーン、ペンを持っていないんですよね？	"You need a pen. Perhaps Jane has got one. Ask her: Jane, you haven't got a pen, have you?"		
+GU052S052	1	52	7_Reported speech Questions and auxiliary verbs	重いテーブルを移動させなければなりません。 ジョーに手伝ってもらう必要があります。 彼に尋ねてください：ジョー、あなたはこのテーブルについて私を助けることができませんでしたね？	"You have to move a heavy table. You need Joe to help you. Ask him: Joe, you couldn't help me with this table, could you?"		
+GU052S053	1	52	7_Reported speech Questions and auxiliary verbs	サラを探しているんですね。 おそらくリサは自分がどこにいるのか知っているでしょう。 彼女に尋ねてください：リサ、あなたはサラがどこにいるか知りませんね？	"You're looking for Sarah. Perhaps Lisa knows where she is. Ask her: Lisa, you don't know where Sarah is, do you?"		
+GU052S054	1	52	7_Reported speech Questions and auxiliary verbs	あなたはテニスラケットを借りたいと思っています。 おそらくヘレンはそれを持っているでしょう。 彼女に尋ねてください：ヘレン、あなたはテニスラケットを持っていないでしょう？	"You want to borrow a tennis racket. Perhaps Helen has got one. Ask her: Helen, you haven't got a tennis racket, have you?"		
+GU052S055	1	52	7_Reported speech Questions and auxiliary verbs	アンナは車を持っているので、あなたは駅まで行かなければなりません。 おそらく彼女はあなたを連れて行ってくれるでしょう。 彼女に尋ねてください：アンナ、私を駅まで連れて行ってもらえませんか？	"Anna has a car and you need to get to the station. Perhaps she'll take you. Ask her: Anna, you couln't take me to the station, could you?"		
+GU052S056	1	52	7_Reported speech Questions and auxiliary verbs	鍵を探しているんですね。 おそらくロバートは彼らを見たのでしょう。 彼に尋ねてください：ロバート、あなたは私の鍵を見たことがないでしょう？	"You're looking for your keys. Perhaps Robert has seen them. Ask him: Robert, you haven't seen my keys, have you?"		
+GU052S057	1	52	7_Reported speech Questions and auxiliary verbs	散歩に行きましょうか？	"Let's go for a walk, shall w??"		
+GU052S058	1	52	7_Reported speech Questions and auxiliary verbs	遅刻しないでね？	"Don't be late, will you?"		
+GU052S059	1	52	7_Reported speech Questions and auxiliary verbs	A: そうですよね？ B: はい、そうですよ。	"A: I'm right, aren't I? B: Yes, you are."		
+GU052S060	1	52	7_Reported speech Questions and auxiliary verbs	私は間違っていませんね？	"I'm not wrong, am I?"		
+GU052S061	1	52	7_Reported speech Questions and auxiliary verbs	今夜は出かけましょう。	"Let's go out tonight, shall we?"		
+GU052S062	1	52	7_Reported speech Questions and auxiliary verbs	せっかちすぎますね。	"I'm too impatient, aren't I?"		
+GU052S063	1	52	7_Reported speech Questions and auxiliary verbs	その花瓶を落とさないでね?	"Don't drop that vase, will you?"		
+GU052S064	1	52	7_Reported speech Questions and auxiliary verbs	私は怠け者ではないですよね？	"I'm not lazy, am l?"		
+GU052S065	1	52	7_Reported speech Questions and auxiliary verbs	私に電話するのを忘れないでね?	"Don't forget to phone me, will you?"		
+GU052S066	1	52	7_Reported speech Questions and auxiliary verbs	ここに座りましょう。	"Let's sit here, shall we?"		
