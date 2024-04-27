@@ -3047,3 +3047,466 @@ GU052S063	1	52	7_Reported speech Questions and auxiliary verbs	‚»‚Ì‰Ô•r‚ğ—‚Æ‚³‚
 GU052S064	1	52	7_Reported speech Questions and auxiliary verbs	„‚Í‘Ó‚¯Ò‚Å‚Í‚È‚¢‚Å‚·‚æ‚ËH	"I'm not lazy, am l?"		
 GU052S065	1	52	7_Reported speech Questions and auxiliary verbs	„‚É“d˜b‚·‚é‚Ì‚ğ–Y‚ê‚È‚¢‚Å‚Ë?	"Don't forget to phone me, will you?"		
 GU052S066	1	52	7_Reported speech Questions and auxiliary verbs	‚±‚±‚ÉÀ‚è‚Ü‚µ‚å‚¤B	"Let's sit here, shall we?"		
+GU053S001	1	53	09_ing and to 1	„‚Í“Ç‘‚ğŠy‚µ‚İ‚Ü‚·B	I enjoy reading.		
+GU053S002	1	53	09_ing and to 1	ƒhƒA‚ğ•Â‚ß‚Ä‚¢‚½‚¾‚¯‚Ü‚¹‚ñ‚©H	Would you mind closing the door?		
+GU053S003	1	53	9_ing and to 1	ƒNƒŠƒX‚Í‰f‰æ‚És‚­‚±‚Æ‚ğ’ñˆÄ‚µ‚Ü‚µ‚½B	Chris suggested going to the cinema.		
+GU053S004	1	53	9_ing and to 1	‹x‰É’†‚Í‘‹N‚«‚µ‚È‚­‚Ä‚¢‚¢‚Ì‚ªŠğ‚µ‚¢‚Å‚·B	"When I'm on holiday, I enjoy not having to get up early."		
+GU053S005	1	53	9_ing and to 1	‚»‚Ìó‹µ‚Í‚Æ‚Ä‚à–Ê”’‚©‚Á‚½‚Å‚·B Î‚¢‚ª~‚Ü‚ç‚È‚©‚Á‚½B	The situation was very funny. I couldn't stop laughing.		
+GU053S006	1	53	9_ing and to 1	¡–é‚Í‰Æ‚É‹‚Ü‚µ‚å‚¤B ŠOo‚·‚é‹C‚Í‚ ‚è‚Ü‚¹‚ñB	Let's stay at home tonight. I don't fancy going out.		
+GU053S007	1	53	9_ing and to 1	„‚Í‹}‚¢‚Å‚¢‚È‚¢B ‘Ò‚Á‚Ä‚à\‚¢‚Ü‚¹‚ñB	I'm not in a hurry. I don't mind waiting.		
+GU053S008	1	53	9_ing and to 1	”Ş‚Í„‚Ì¿–â‚É“š‚¦‚é‚Ì‚ğ”ğ‚¯‚æ‚¤‚Æ‚µ‚½B	He tried to avoid answering my questions.		
+GU053S009	1	53	9_ing and to 1	”Ş‚ç‚Í©•ª‚½‚¿‚Í–³À‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B ”Ş‚ç‚Í‰½‚àˆ«‚¢‚±‚Æ‚ğ‚µ‚Ä‚¢‚È‚¢‚Æ”Û’è‚µ‚½B	They said they were innocent. They denied doing anything wrong.		
+GU053S010	1	53	9_ing and to 1	‚»‚Ìd–‚É‰•å‚·‚é‚±‚Æ‚àl‚¦‚Ü‚µ‚½‚ªA‚â‚ß‚Ü‚µ‚½B	"I considered applying for the job, but I decided against it."		
+GU053S011	1	53	9_ing and to 1	„‚ÌM‚ğæ‚èã‚°‚È‚¢‚Å‚­‚¾‚³‚¢I ‚Ü‚¾H‚×I‚í‚Á‚Ä‚¢‚Ü‚¹‚ñB	Don't take my plate away! I haven't finished eating yet.		
+GU053S012	1	53	9_ing and to 1	ƒ[ƒ‰‚Í‚½‚­‚³‚ñ‚ÌêŠ‚És‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·B ”Ş—‚Í—·s‚ªD‚«‚Å‚·B	Laura has been to lots of places. She enjoys travelling.		
+GU053S013	1	53	9_ing and to 1	”Ş—‚Í‹»–¡[‚¢l‚Å‚·B ”Ş—‚Æ˜b‚·‚Ì‚Í‚¢‚Â‚àŠy‚µ‚¢‚Å‚·B	She's an interesting person. I always enjoy talking to her.		
+GU053S014	1	53	9_ing and to 1	ˆÖq‚Í‚ ‚è‚Ü‚¹‚ñB °‚ÉÀ‚Á‚Ä‚à\‚í‚È‚¢‚Æv‚¢‚Ü‚·B	There are no chairs. I hope you don't mind sitting on the floor.		
+GU053S015	1	53	9_ing and to 1	W’†‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·B ‚ ‚Ü‚è‘›‚®‚Ì‚Í‚â‚ß‚Ä‚­‚¾‚³‚¢B	I'm trying to concentrate. Please stop making so much noise.		
+GU053S016	1	53	9_ing and to 1	„‚Ìd–‚ª‘åD‚«‚Å‚·B ‘¼‚É‰½‚©‚ğ‚·‚é‚È‚ñ‚Äl‚¦‚ç‚ê‚Ü‚¹‚ñB	I love my job. I can't imagine doing anything else.		
+GU053S017	1	53	9_ing and to 1	ƒMƒƒƒ“ƒuƒ‹‚ÍŠëŒ¯‚Å‚·B ‚¨‹à‚ğ¸‚¤ŠëŒ¯‚ª‚ ‚è‚Ü‚·B	Gambling is dangerous. You risk losing your money.		
+GU053S018	1	53	9_ing and to 1	‰½‚©V‚µ‚¢‚±‚Æ‚ğ‚µ‚½‚©‚Á‚½‚Ì‚Å‚·B ƒxƒ“‚ÍŒ¾Œê‚ğŠw‚Ô‚±‚Æ‚ğ’ñˆÄ‚µ‚Ü‚µ‚½B	I wanted to do something new. Ben suggested learning a language.		
+GU053S019	1	53	9_ing and to 1	A: ƒeƒjƒX‚ğ‚µ‚½‚¢‚Å‚·‚©? B: ‚¢‚¢‚¦A‚»‚¤‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"A: Do you want to play tennis? B: No, not really."		
+GU053S020	1	53	9_ing and to 1	”Ş‚ÍƒeƒjƒX‚ğ‚·‚é‚Ì‚ªD‚«‚Å‚Í‚È‚©‚Á‚½B	He didn't fancy playing tennis.		
+GU053S021	1	53	9_ing and to 1	A: ”•ª‘Ò‚Á‚Ä‚à‚ç‚¦‚Ü‚·‚©H B: ‚»‚¤‚Å‚·‚ËB –â‘è‚È‚¢B	A: Can you wait a few minutes? B: Sure. No problem.		
+GU053S022	1	53	9_ing and to 1	”Ş—‚Í”•ªŠÔ‘Ò‚Â‚±‚Æ‚ğ‹C‚É‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	She didn't mind waiting a few minutes.		
+GU053S023	1	53	9_ing and to 1	A: ‚ ‚È‚½‚ª–ŒÌ‚ğ‹N‚±‚µ‚Ü‚µ‚½B B: ‚¢‚¢‚¦A‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	"A: You caused the accident. B: No, I didn't."		
+GU053S024	1	53	9_ing and to 1	”Ş‚Í–ŒÌ‚ğ‹N‚±‚µ‚½‚±‚Æ‚ğ”Û’è‚µ‚½B	He denied causing the accident.		
+GU053S025	1	53	9_ing and to 1	A: ‹x‰É‚ğ‚Æ‚è‚Ü‚¹‚ñ‚©? B: ‚»‚ê‚Í‚¢‚¢‚Å‚·‚ËB	A: Why don't we have a holiday? B: That would be nice.		
+GU053S026	1	53	9_ing and to 1	”Ş—‚Í‹x‰É‚ğæ‚é‚±‚Æ‚ğ’ñˆÄ‚µ‚½B	She suggested having a holiday.		
+GU053S027	1	53	9_ing and to 1	A: ‚ ‚È‚½‚Í–{“–‚Ì‚±‚Æ‚ğŒ¾‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B B: ‚»‚Ì’Ê‚è‚Å‚·B „‚Í‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	A: You didn't tell the truth. B: That's right. I didn't.		
+GU053S028	1	53	9_ing and to 1	”Ş—‚Í^À‚ğ˜b‚µ‚Ä‚¢‚È‚¢‚±‚Æ‚ğ”F‚ß‚½B	She admitted not telling the truth.		
+GU053S029	1	53	9_ing and to 1	ƒWƒ‡[ƒW‚ªƒoƒCƒN‚Éæ‚Á‚Ä‚¢‚é‚È‚ñ‚Ä‘z‘œ‚Å‚«‚Ü‚¹‚ñB	I can't imagine George riding a motorbike.		
+GU053S030	1	53	9_ing and to 1	lX‚ª‚â‚è‚½‚¢‚±‚Æ‚ğ‚·‚é‚Ì‚ğ~‚ß‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	You can't stop people doing what they want.		
+GU053S031	1	53	9_ing and to 1	“d˜b‚Å\‚¢‚Ü‚¹‚ñ‚ªA‚Ü‚¸‚Í‚¨–â‚¢‡‚í‚¹‚­‚¾‚³‚¢B	"I don't mind you using my phone, but please ask first."		
+GU053S032	1	53	9_ing and to 1	A: „‚ÌÔ‚ğ‰^“]‚µ‚Ä‚à‘åä•v‚Å‚·B B: ‚ ‚È‚½‚ª‰^“]‚µ‚Ä‚à\‚¢‚Ü‚¹‚ñB	A: It's OK if you want to drive my car. B: I don't mind you driving it.		
+GU053S033	1	53	9_ing and to 1	A: –{“–‚É‚»‚¤Œ¾‚Á‚½‚ñ‚Å‚·‚©H B: ‚ ‚È‚½‚ª‚»‚ñ‚È‚±‚Æ‚ğŒ¾‚Á‚½Šo‚¦‚Í‚ ‚è‚Ü‚¹‚ñB	A: Did you really say that?  B: I don't remember you saying that.		
+GU053S034	1	53	9_ing and to 1	A: ‚È‚ñ‚Ä‹ğ‚©‚È‚±‚Æ‚ğ‚·‚é‚Ì‚Å‚µ‚å‚¤I B: ‚±‚ñ‚È‚É‹ğ‚©‚Èl‚ª‚¢‚é‚È‚ñ‚Ä‘z‘œ‚Å‚«‚Ü‚·‚©?	A: What a stupid thing to do! B: Can you imagine anybody being so stupid?		
+GU053S035	1	53	9_ing and to 1	A: “V‹C‚ÍƒRƒ“ƒgƒ[ƒ‹‚Å‚«‚Ü‚¹‚ñB B: ‰J‚ğ~‚ß‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	A: We can't control the weather. B: We can't stop it raining.		
+GU053S036	1	53	9_ing and to 1	A: ‘å•Ï’·‚ç‚­‚¨‘Ò‚½‚¹‚µ‚Ä\‚µ–ó‚²‚´‚¢‚Ü‚¹‚ñB B: –â‘è‚ ‚è‚Ü‚¹‚ñB	A: I'm sorry to keep you waiting so long. B: No problem.		
+GU053S037	1	53	9_ing and to 1	V•·‚ğ”ƒ‚¤‚Ì‚ğ‚â‚ß‚Ü‚µ‚½B ‚à‚¤“Ç‚Ü‚È‚¢B	I've given up buying newspapers. I don't read them any more.		
+GU053S038	1	53	9_ing and to 1	‰½‚ª‹N‚±‚Á‚½‚Ì‚©‚ğ”Ş‚ç‚É˜b‚·‚Ì‚ğæ‰„‚Î‚µ‚É‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ¡‚·‚®”Ş‚ç‚É“`‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B	Don't put off telling them what happened. You need to tell them now.		
+GU053S039	1	53	9_ing and to 1	ƒLƒƒƒTƒŠƒ“‚Íˆø‘Ş‚µ‚½‚­‚È‚¢B ”Ş—‚Íd–‚ğ‘±‚¯‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	Katherine doesn't want to retire. She wants to go on working.	She wants to carry on working.	
+GU053S040	1	53	9_ing and to 1	„‚ª˜b‚µ‚Ä‚¢‚é‚Æ‚«‚É‚ ‚È‚½‚Í‚¢‚Â‚à×–‚‚ğ‚µ‚Ü‚·B	You keep interrupting when I'm talking.	You keep on interrupting when I'm talking.	
+GU053S041	1	53	9_ing and to 1	„‚½‚¿‚Í“úí¶Šˆ‚ğ•Ï‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B ‚±‚Ì‚Ü‚Ü‚Å‚Í¶‚«‚Ä‚¢‚¯‚È‚¢B	We need to change our routine. We can't go on living like this.		
+GU053S042	1	53	9_ing and to 1	‹L‰¯—Í‚ªˆ«‚­‚È‚Á‚Ä‚«‚Ä‚¢‚Ü‚·B „‚Í•¨–‚ğ–Y‚ê‘±‚¯‚Ü‚·B	My memory is getting worse. I keep forgetting things.		
+GU053S043	1	53	9_ing and to 1	„‚Í‚±‚Ì¿‹‘‚Ìx•¥‚¢‚ğ‰½“x‚àæ‰„‚Î‚µ‚É‚µ‚Ä‚«‚Ü‚µ‚½B ‚Ç‚¤‚µ‚Ä‚à¡“ú‚â‚ç‚È‚¯‚ê‚Î‚¢‚¯‚È‚¢‚Ì‚Å‚·B	I've put off paying this bill so many times. I really must do it today.		
+GU053S044	1	53	9_ing and to 1	„‚Í‘Ìd‚ğŒ¸‚ç‚·‚±‚Æ‚ğ‚ ‚«‚ç‚ß‚Ü‚µ‚½A‚»‚ê‚Í•s‰Â”\‚Å‚·B	I've given up trying to lose weight - it's impossible.		
+GU053S045	1	53	9_ing and to 1	”Ş‚Æ‚Í˜b‚µ‚½‚­‚È‚¢B ”Ş‚ª„‚É“d˜b‚ğ‚©‚¯‘±‚¯‚È‚¯‚ê‚Î‚¢‚¢‚Ì‚É‚Æv‚¢‚Ü‚·B	I don't want to talk to him. I wish he wouldn't keep on calling me.		
+GU053S046	1	53	9_ing and to 1	˜b‚µè‚Í­‚µ‚ÌŠÔ—§‚¿~‚Ü‚èA‚»‚ÌŒã˜b‚µ‘±‚¯‚Ü‚µ‚½B	"The speaker paused for a moment, and then carried on talking."		
+GU053S047	1	53	9_ing and to 1	”Ş‚ç‚Í‚¨‹à‚ğ“‚ñ‚¾‚±‚Æ‚ğ”F‚ß‚½B	They admitted having stolen the money.		
+GU053S048	1	53	9_ing and to 1	¡A©•ª‚ªŒ¾‚Á‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·B	I now regret having said what I said.		
+GU053S049	1	53	9_ing and to 1	”Ş‚ç‚Í‚¨‹à‚ğ“‚ñ‚¾‚±‚Æ‚ğ”F‚ß‚½B	They admitted stealing the money.		
+GU053S050	1	53	9_ing and to 1	¡A©•ª‚ªŒ¾‚Á‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·B	I now regret saying what I said.		
+GU053S051	1	53	9_ing and to 1	”Ş‚ç‚Í‚¨‹à‚ğ“‚ñ‚¾‚±‚Æ‚ğ”Û’è‚µ‚½B	They denied that they had stolen the money.	They denied stealing the money.	
+GU053S052	1	53	9_ing and to 1	ƒNƒŠƒX‚Í„‚½‚¿‚É‰f‰æ‚És‚­‚×‚«‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	Chris suggested that we should go to the cinema.	Chris suggested going to the cinema.	
+GU054S001	1	54	9_ing and to 1	•à‚­‚Æ‰“‚©‚Á‚½‚Ì‚ÅAƒ^ƒNƒV[‚Å‹A‚é‚±‚Æ‚É‚µ‚Ü‚µ‚½B	"It was a long way to walk, so we decided to take a taxi home."		
+GU054S002	1	54	9_ing and to 1	ƒTƒCƒ‚ƒ“‚Í¢“ï‚Èó‹µ‚É‚ ‚Á‚½‚Ì‚ÅA„‚Í”Ş‚ğ•‚¯‚é‚±‚Æ‚É“¯ˆÓ‚µ‚Ü‚µ‚½B	"Simon was in a difficult situation, so l agreed to help him."		
+GU054S003	1	54	9_ing and to 1	„‚ÍƒJƒŒƒ“‚Éè‚ğU‚è‚Ü‚µ‚½‚ªA”Ş—‚Ì’ˆÓ‚ğˆø‚­‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"I waved to Karen, but failed to attract her attention."		
+GU054S004	1	54	9_ing and to 1	„‚Íƒ_ƒ“‚Ì‚±‚Æ‚ªD‚«‚Å‚·‚ªA”Ş‚Í˜b‚µ‚·‚¬‚éŒXŒü‚ª‚ ‚é‚Æv‚¢‚Ü‚·B	"I like Dan, but I think he tends to talk too much."		
+GU054S005	1	54	9_ing and to 1	“V‹C‚ª‚Æ‚Ä‚àˆ«‚©‚Á‚½‚Ì‚ÅA„‚½‚¿‚ÍŠOo‚µ‚È‚¢‚±‚Æ‚É‚µ‚Ü‚µ‚½B	We decided not to go out because the weather was so bad.		
+GU054S006	1	54	9_ing and to 1	ƒAƒ“ƒfƒB‚ÍƒR[ƒq[‚ğˆù‚İ‚È‚ª‚ç‰ï‚¤‚±‚Æ‚ğ’ñˆÄ‚µ‚Ü‚µ‚½B	Andy suggested meeting for coffee.		
+GU054S007	1	54	9_ing and to 1	Ô‚Ìw“ü‚ğl‚¦‚Ä‚¢‚Ü‚·‚©?	Are you thinking of buying a car?		
+GU054S008	1	54	9_ing and to 1	ƒMƒ^[‚ğK‚¢‚½‚¢‚Å‚·B	I'd like to learn to play the guitar.		
+GU054S009	1	54	9_ing and to 1	”Ş—‚Ì‚©‚Î‚ñ‚ª‚Æ‚Ä‚àd‚»‚¤‚¾‚Á‚½‚Ì‚ÅA„‚Í”Ş—‚ğè“`‚¨‚¤‚Æ\‚µo‚Ü‚µ‚½B	"Her bag looked very heavy, so I offered to help her."		
+GU054S010	1	54	9_ing and to 1	Œğ’Ê—Ê‚Í‘½‚©‚Á‚½‚Å‚·‚ªA‚È‚ñ‚Æ‚©ŠÔ“à‚É‹ó`‚É“’…‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"There was a lot of traffic, but we managed to get to the airport in time."		
+GU054S011	1	54	9_ing and to 1	„‚½‚¿‚É‚Íƒƒ“ƒhƒ“‚ÉZ‚Ş—]—T‚ª‚È‚©‚Á‚½B ‚±‚ê‚Í‚‚·‚¬‚éB	We couldn't afford to live in London. It's too expensive.		
+GU054S012	1	54	9_ing and to 1	‰½‚ª‹N‚±‚Á‚½‚Ì‚©ƒ}[ƒN‚É‚Í’m‚ç‚ê‚½‚­‚È‚¢B „‚Í”Ş‚É‚ÍŒ¾‚í‚È‚¢‚±‚Æ‚ÉŒˆ‚ß‚Ü‚µ‚½B	I don't want Mark to know what happened. I've decided not to tell him.		
+GU054S013	1	54	9_ing and to 1	„‚½‚¿‚Í‘¼‚Ìƒ`[ƒ€‚æ‚è‚à—Ç‚¢ƒvƒŒ[‚ğ‚µ‚½ - „‚½‚¿‚Í‡‚ÉŸ‚Â‚É’l‚µ‚½B	We played better than the other team - we deserved to win the game.		
+GU054S014	1	54	9_ing and to 1	ƒfƒrƒbƒh‚Í‚Æ‚Ä‚à•¨Ã‚©‚ÅA‘½‚­‚ğŒê‚ç‚È‚¢ŒXŒü‚ª‚ ‚è‚Ü‚·B	David is very quiet - he tends not to say much.		
+GU054S015	1	54	9_ing and to 1	“d˜b‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñB ‚Á‚Ä‚¢‚­‚Ì‚ğ–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	I don't have my phone. I forgot to bring it with me.		
+GU054S016	1	54	9_ing and to 1	‰´‚Í‚Ç‚±‚É‚à‚¢‚©‚Ë‚¦I “®‚­‚±‚Æ‚ğ‹‘”Û‚µ‚Ü‚·I	I'm not going anywhere! I refuse to move!		
+GU054S017	1	54	9_ing and to 1	‚²‚ß‚ñ‚È‚³‚¢B ‚ ‚È‚½‚ğ“{‚ç‚¹‚é‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I'm sorry. I didn't mean to offend you.		
+GU054S018	1	54	9_ing and to 1	A: •‚¯‚Ä‚­‚¾‚³‚¢B B: ‚í‚©‚è‚Ü‚µ‚½B	A: Please help me. B: OK.		
+GU054S019	1	54	9_ing and to 1	”Ş—‚Í”Ş‚ğ•‚¯‚é‚±‚Æ‚É“¯ˆÓ‚µ‚½B	She agreed to help him.		
+GU054S020	1	54	9_ing and to 1	A: ‚ ‚È‚½‚ÌƒJƒoƒ“‚ğ‰^‚ñ‚Å‚à‚¢‚¢‚Å‚·‚©H B: ‚¢‚¢‚¦A‚ ‚è‚ª‚Æ‚¤B ‚È‚ñ‚Æ‚©‚È‚é‚æB	"A:  Can I carry your bag for you? B: No, thanks. I can manage."		
+GU054S021	1	54	9_ing and to 1	”Ş‚Í”Ş—‚ÌŠ“‚ğ‰^‚Ô‚Æ\‚µo‚½B	He offered to carry her bag.		
+GU054S022	1	54	9_ing and to 1	A: ’N‚É‚àŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B B: ‚µ‚Ü‚¹‚ñB –ñ‘©‚µ‚Ü‚·B	A: Please don't tell anyone. B: I won't. I promise.		
+GU054S023	1	54	9_ing and to 1	”Ş—‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Æ–ñ‘©‚µ‚½B	She promised not to tell anyone.		
+GU054S024	1	54	9_ing and to 1	A: 8‚É‰ï‚¢‚Ü‚µ‚å‚¤B B: ‚í‚©‚è‚Ü‚µ‚½A‘åä•v‚Å‚·B	"A: Let's meet at 8 o'clock. B: OK, fine."		
+GU054S025	1	54	9_ing and to 1	”Ş‚ç‚Í8‚É‰ï‚¤–ñ‘©‚ğ‚µ‚½B	They arranged to meet at 8 o'clock.		
+GU054S026	1	54	9_ing and to 1	A: ‚ ‚È‚½‚Ì–¼‘O‚Í‰½‚Å‚·‚©? B: ‹³‚¦‚é‚Â‚à‚è‚Í‚È‚¢‚æB	A:  What?s your name? B: I'm not going to tell you.		
+GU054S027	1	54	9_ing and to 1	”Ş—‚Í”Ş‚É©•ª‚Ì–¼‘O‚ğ‹³‚¦‚é‚±‚Æ‚ğ‹‘”Û‚µ‚½B	She refused to tell him her name.		
+GU054S028	1	54	9_ing and to 1	A: Ô‚ğ”ƒ‚¤‚×‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·B B: “¯ˆÓ‚µ‚Ü‚·B	A: I don't think we should buy a car. B: l agree.		
+GU054S029	1	54	9_ing and to 1	”Ş‚ç‚ÍÔ‚ğ”ƒ‚í‚È‚¢‚ÆŒˆ‚ß‚½B	They decided not to buy a car.		
+GU054S030	1	54	9_ing and to 1	”Ş‚ç‚Í‚¨‹à‚ğ‚½‚­‚³‚ñ‚Á‚Ä‚¢‚é‚æ‚¤‚Å‚·B	They seem to have plenty of money.		
+GU054S031	1	54	9_ing and to 1	ƒAƒ“‚Í„‚ğŒ©‚È‚¢‚Ó‚è‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½‚ªA„‚É‚ÍŒ©‚¦‚Ä‚¢‚½‚Æv‚¢‚Ü‚·B	"Ann pretended not to see me, but I think she did."		
+GU054S032	1	54	9_ing and to 1	„‚Í–{‚ğ“Ç‚ñ‚Å‚¢‚é‚Ó‚è‚ğ‚µ‚Ü‚µ‚½B	I pretended to be reading a book.		
+GU054S033	1	54	9_ing and to 1	‘Ìd‚ªŒ¸‚Á‚½‚İ‚½‚¢‚Å‚·‚ËB	You seem to have lost weight.		
+GU054S034	1	54	9_ing and to 1	”Ş—‚Í„‚ğŒ©‚Ä‚¢‚È‚¢‚Æå’£‚µ‚½B	She claimed not to have seen me.		
+GU054S035	1	54	9_ing and to 1	„‚ÌŒ®‚ğ‚Ç‚±‚©‚ÅŒ©‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚©? •´¸‚µ‚½‚æ‚¤‚Å‚·B	Have you seen my keys anywhere? I seem to have lost them.		
+GU054S036	1	54	9_ing and to 1	”Ş‚ç‚Í„‚ª•·‚¢‚Ä‚¢‚é‚±‚Æ‚ğ’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B „‚Í–°‚Á‚½‚Ó‚è‚ğ‚µ‚½B	They didn't know I was listening. I pretended to be asleep.		
+GU054S037	1	54	9_ing and to 1	ƒŒƒCƒ`ƒFƒ‹‚ÍV‚µ‚¢d–‚É–‘«‚µ‚Ä‚¢‚Ü‚·B ”Ş—‚Í‚»‚ê‚ğŠy‚µ‚ñ‚Å‚¢‚é‚İ‚½‚¢‚¾B	Rachel is happy in her new job. She seems to be enjoying it.		
+GU054S038	1	54	9_ing and to 1	‚±‚±‚É’·‚­Z‚ñ‚Å‚¢‚Ü‚·‚©H ‚½‚­‚³‚ñ‚Ìl‚ğ’m‚Á‚Ä‚¢‚é‚æ‚¤‚Å‚·‚ËB	Have you lived here long? You seem to know a lot of people.		
+GU054S039	1	54	9_ing and to 1	”Ş‚ç‚Í¡‚Í‚·‚×‚Ä‘åä•v‚¾‚ÆŒ¾‚¢‚Ü‚·B ”Ş‚ç‚Í–â‘è‚ğ‰ğŒˆ‚µ‚½‚Æå’£‚µ‚Ä‚¢‚éB	They say everything is OK now. They claim to have solved the problem.		
+GU054S040	1	54	9_ing and to 1	ƒgƒ€‚Í‘åä•v‚Å‚·‚©H ”Ş‚Í‰½‚©‚ğS”z‚µ‚Ä‚¢‚é‚æ‚¤‚¾B	Is Tom OK? He appears to be worried about something.		
+GU054S041	1	54	9_ing and to 1	„‚½‚¿‚Í‰w‚Ö‚Ìs‚«•û‚ğq‚Ë‚Ü‚µ‚½B	We asked how to get to the station.		
+GU054S042	1	54	9_ing and to 1	‹x“ú‚É‚Ç‚±‚És‚­‚©Œˆ‚ß‚Ü‚µ‚½‚©H	Have you decided where to go on holiday?		
+GU054S043	1	54	9_ing and to 1	‚»‚Ìd–‚É‰•å‚·‚×‚«‚©‚Ç‚¤‚©‚í‚©‚è‚Ü‚¹‚ñB	I don't know whether to apply for the job or not.		
+GU054S044	1	54	9_ing and to 1	’N‚©‚±‚ÌƒJƒƒ‰‚Ìg‚¢•û‚ğ‹³‚¦‚Ä‚­‚ê‚Ü‚¹‚ñ‚©?	Can somebody show me how to use this camera?		
+GU054S045	1	54	9_ing and to 1	ƒWƒƒƒbƒN‚É•·‚¢‚Ä‚­‚¾‚³‚¢B ”Ş‚ª‰½‚ğ‚·‚×‚«‚©‹³‚¦‚Ä‚­‚ê‚é‚Å‚µ‚å‚¤B	Ask Jack. He'll tell you what to do.		
+GU054S046	1	54	9_ing and to 1	—ˆTŒ‹¥®‚ÉoÈ‚·‚é‚Ì‚Å‚·‚ªA‰½‚ğ’…‚Ä‚¢‚¯‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB	I'm going to a wedding next week and I don't know what to wear.		
+GU054S047	1	54	9_ing and to 1	ƒTƒ€‚Ì‰Æ‚Ö‚Ìs‚«•û‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚©?	Do you know how to get to Sam's house?		
+GU054S048	1	54	9_ing and to 1	„‚Íƒp[ƒeƒB[‚És‚­‚©s‚©‚È‚¢‚©Œˆ‚ß‚Ä‚¢‚Ü‚¹‚ñB	I haven't decided whether to go to the party or not.		
+GU054S049	1	54	9_ing and to 1	©“]Ô‚Ìæ‚è•û‚Íˆê“xŠo‚¦‚½‚ç–Y‚ê‚é‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB	You'll never forget how to ride a bike once you've learnt.		
+GU054S050	1	54	9_ing and to 1	ô‘ó‚·‚é•‚ª‚¢‚­‚Â‚©‚ ‚è‚Ü‚·B ô‘ó‹@‚Ìg‚¢•û‚ğ‹³‚¦‚Ä‚à‚ç‚¦‚Ü‚·‚©H	I have some clothes to wash. Can you show me how to use the washing machine?		
+GU054S051	1	54	9_ing and to 1	„‚Ì•”‰®‚ÍU‚ç‚©‚Á‚Ä‚¢‚Ü‚·B •¨‚ª‘½‚·‚¬‚Ä‚Ç‚±‚É’u‚¯‚Î‚¢‚¢‚Ì‚©•ª‚©‚è‚Ü‚¹‚ñB	My room is untidy. I have so many things and I don't know where to put them.		
+GU054S052	1	54	9_ing and to 1	‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚Ì‚©‚í‚©‚è‚Ü‚¹‚ñB ©•ª‚ÅŒˆ‚ß‚é•K—v‚ª‚ ‚è‚Ü‚·B	I can't tell you what to do. You have to decide for yourself.		
+GU054S053	1	54	9_ing and to 1	„‚Í”Ş‚ÉŒ¾‚¤—E‹C‚ª‚È‚©‚Á‚½B	I didn't dare to tell him.	I didn't dare tell him.	
+GU054S054	1	54	9_ing and to 1	‰½‚ª‹N‚±‚Á‚½‚Ì‚©”Ş‚É˜b‚·—E‹C‚Í‚ ‚è‚Ü‚¹‚ñB	I daren't tell him what happened.		
+GU055S001	1	55	9_ing and to 1	„‚½‚¿‚Í’x‚ê‚é‚±‚Æ‚ª—\‘z‚³‚ê‚Ä‚¢‚Ü‚µ‚½B	We expected to be late.		
+GU055S002	1	55	9_ing and to 1	„‚½‚¿‚Íƒ_ƒ“‚ª’x‚ê‚é‚±‚Æ‚ğ—\‘z‚µ‚Ä‚¢‚Ü‚µ‚½B	We expected Dan to be late.		
+GU055S003	1	55	9_ing and to 1	¡‚·‚®s‚«‚Ü‚·‚©H	Would you like to go now?		
+GU055S004	1	55	9_ing and to 1	¡‚©‚çs‚«‚Ü‚µ‚å‚¤‚©H	Would you like me to go now?		
+GU055S005	1	55	9_ing and to 1	”Ş‚Í’m‚è‚½‚­‚È‚¢‚Ì‚Å‚·B	He doesn't want to know.		
+GU055S006	1	55	9_ing and to 1	”Ş‚Í’N‚É‚à’m‚ç‚ê‚½‚­‚È‚¢‚Ì‚Å‚·B	He doesn't want anybody to know.		
+GU055S007	1	55	9_ing and to 1	ˆê‚É—ˆ‚Ä‚à‚¢‚¢‚Å‚·‚©H	Do you want me to come with you?		
+GU055S008	1	55	9_ing and to 1	‚±‚Ìƒe[ƒuƒ‹‚ğˆÚ“®‚·‚é‚Ì‚ğè“`‚Á‚Ä‚­‚ê‚Ü‚¹‚ñ‚©H	Can you help me to move this table?	Can you help me move this table?	
+GU055S009	1	55	9_ing and to 1	‚à‚¤s‚Á‚Ä‚à‚¢‚¢‚Å‚·‚©A‚»‚ê‚Æ‚à‘Ò‚Á‚Ä‚¢‚Ä‚Ù‚µ‚¢‚Å‚·‚©H	"Can I go now, or do you want me to wait?"		
+GU055S010	1	55	9_ing and to 1	ƒJƒƒ‰‚Ìg‚¢•û‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚©A‚»‚ê‚Æ‚à‹³‚¦‚Ä‚Ù‚µ‚¢‚Å‚·‚©?	"Do you know how to use the camera, or would you like me to show you?"		
+GU055S011	1	55	9_ing and to 1	„‚ÌŒ¾‚Á‚½‚±‚Æ‚ğ•·‚«‚Ü‚µ‚½‚©A‚»‚ê‚Æ‚àŒJ‚è•Ô‚µ‚Ä‚Ù‚µ‚¢‚Å‚·‚©H	"Did you hear what I said, or do you want me to repeat it?"		
+GU055S012	1	55	9_ing and to 1	‚±‚Ì•¶‘‚Í—‰ğ‚Å‚«‚Ü‚µ‚½‚©A‚»‚ê‚Æ‚à„‚É–|–ó‚µ‚Ä‚à‚ç‚¢‚½‚¢‚Å‚·‚©?	"Do you understand the document, or would you like me to translate it?"		
+GU055S013	1	55	9_ing and to 1	‘‹‚ğŠJ‚¯‚½‚Ü‚Ü‚É‚µ‚Ä‚¨‚«‚Ü‚·‚©A‚»‚ê‚Æ‚à•Â‚ß‚Ä‚à‚ç‚¢‚Ü‚·‚©?	"Shall I leave the window open, or would you like me to shut it?"		
+GU055S014	1	55	9_ing and to 1	\•ª‚È‚¨‹à‚ª‚ ‚è‚Ü‚·‚©A‚»‚ê‚Æ‚à­‚µ‘İ‚µ‚Ä‚­‚¾‚³‚¢B	"Do you have enough money, or do you want me to lend you some?"		
+GU055S015	1	55	9_ing and to 1	ƒzƒeƒ‹‚Í‚©‚È‚è¬‚³‚©‚Á‚½‚Å‚·B ‚à‚Á‚Æ‘å‚«‚­‚È‚é‚¾‚ë‚¤‚Æ—\‘z‚µ‚Ä‚¢‚Ü‚µ‚½B	The hotel was quite small. We expected it to be bigger.		
+GU055S016	1	55	9_ing and to 1	¿–â‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B ‚¨“š‚¦‚¢‚½‚¾‚«‚½‚¢‚Æv‚¢‚Ü‚·B	I asked you a question. I'd like you to answer it.		
+GU055S017	1	55	9_ing and to 1	–¾“ú‚Í‰ï‚¦‚È‚¢‚ÆŒ¾‚í‚ê‚Ü‚µ‚½B ”Ş‚ç‚Í„‚É‹³‚¦‚Ä‚Ù‚µ‚¢‚Æ—Š‚ñ‚¾‚Ì‚Å‚·B	They said they can't meet you tomorrow. They asked me to tell you.		
+GU055S018	1	55	9_ing and to 1	‘f°‚ç‚µ‚¢‹x“ú‚ğ‰ß‚²‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚µ‚½B I‚í‚Á‚Ä‚Ù‚µ‚­‚È‚©‚Á‚½B	We had a beautiful holiday. I didn't want it to end.		
+GU055S019	1	55	9_ing and to 1	‚ ‚È‚½‚ª‚¢‚È‚­‚È‚Á‚Ä‚Ù‚µ‚­‚È‚¢‚Ì‚Å‚·B ‚±‚±‚É‚¢‚Ä‚Ù‚µ‚¢‚Å‚·B	I don't want you to go away. I'd prefer you to stay here.		
+GU055S020	1	55	9_ing and to 1	P‚ğ‚Á‚Ä‚«‚Ü‚¹‚ñ‚Å‚µ‚½B ‰J‚ª~‚é‚Æ‚Ív‚í‚È‚©‚Á‚½B	I didn't bring an umbrella. I didn't expect it to rain.		
+GU055S021	1	55	9_ing and to 1	ƒTƒ€‚É“d˜b‚·‚é‚æ‚¤v‚¢o‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H	Can you remind me to call Sam?		
+GU055S022	1	55	9_ing and to 1	„‚ÍƒsƒAƒm‚ğ©•ª‚Å“®‚©‚µ‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ’N‚©‚É•‚¯‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	I didn't move the piano by myself. I got somebody to help me.		
+GU055S023	1	55	9_ing and to 1	ƒWƒ‡[‚ÍAƒXƒCƒbƒ`‚ÍŠëŒ¯‚¾‚ÆŒ¾‚¢AG‚ç‚È‚¢‚æ‚¤‚ÉŒx‚µ‚Ü‚µ‚½B	Joe said the switch was dangerous and warned me not to touch it.		
+GU055S024	1	55	9_ing and to 1	ƒXƒCƒbƒ`‚ÉG‚ê‚È‚¢‚æ‚¤‚É’ˆÓ‚³‚ê‚Ü‚µ‚½B	I was warned not to touch the switch.		
+GU055S025	1	55	9_ing and to 1	‚±‚±‚É’“Ô‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H	Are we allowed to park here?		
+GU055S026	1	55	9_ing and to 1	“dÔ‚Ås‚­‚±‚Æ‚ğ‚¨Š©‚ß‚µ‚Ü‚·B	I suggest you go by train.	I suggest going by train.	
+GU055S027	1	55	9_ing and to 1	ƒTƒ€‚Í“ÆŠw‚ÅƒsƒAƒm‚ğ’e‚«‚Ü‚µ‚½B	Sam taught himself to play the piano.		
+GU055S028	1	55	9_ing and to 1	ƒTƒ‰‚Í„‚É‚»‚Ìd–‚É‰•å‚·‚é‚æ‚¤à“¾‚µ‚Ä‚­‚ê‚Ü‚µ‚½B	Sarah persuaded me to apply for the job.		
+GU055S029	1	55	9_ing and to 1	•ÙŒìm‚Í„‚ÉŒx@‚É‚Í‰½‚àŒ¾‚í‚È‚¢‚æ‚¤‚É‚ÆƒAƒhƒoƒCƒX‚µ‚Ü‚µ‚½B	My lawyer advised me not to say anything to the police.		
+GU055S030	1	55	9_ing and to 1	‚±‚±‚ÅÊ^‚ğB‚é‚±‚Æ‚Í‹–‰Â‚³‚ê‚Ä‚¢‚Ü‚¹‚ñB	You aren't allowed to take pictures here.		
+GU055S031	1	55	9_ing and to 1	Ô‚ğ‚Á‚Ä‚¢‚é‚ÆA‚æ‚èŠÈ’P‚ÉˆÚ“®‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·B	Having a car enables you to get around more easily.		
+GU055S032	1	55	9_ing and to 1	„‚Í”Ş‚ÌŒ¾‚¤‚±‚Æ‚ğ‚·‚×‚ÄM‚¶‚È‚¢‚æ‚¤‚ÉŒx‚³‚ê‚Ü‚µ‚½B	I was warned not to believe everything he says.		
+GU055S033	1	55	9_ing and to 1	A: ‚ ‚È‚½‚Í„‚½‚¿‚Æˆê‚É—ˆ‚Ä”‘‚Ü‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB B: ‚»‚ê‚Í‚¢‚¢‚Å‚·‚ËB	A: You must come and stay with us. B: That would be nice.		
+GU055S034	1	55	9_ing and to 1	”Ş‚ç‚Í”Ş—‚ğ‰Æ‚É—ˆ‚Äˆê‚É”‘‚Ü‚é‚æ‚¤‚É—U‚Á‚½B	They invited her to come and stay with them.		
+GU055S035	1	55	9_ing and to 1	A: ƒWƒ‡[‚É“d˜b‚·‚é‚Ì‚ğ–Y‚ê‚È‚¢‚Å‚ËB B: ‚¢‚¢‚¦A–Y‚ê‚Ü‚¹‚ñB	"A: Don't forget to call Joe. B: No, I won't forget."		
+GU055S036	1	55	9_ing and to 1	”Ş‚Í”Ş—‚ÉƒWƒ‡[‚É“d˜b‚·‚é‚æ‚¤v‚¢o‚³‚¹‚½B	He reminded her to call Joe.		
+GU055S037	1	55	9_ing and to 1	A: ‹C‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B B: S”z‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B „‚Í‚µ‚Ü‚·B	A: Be careful. B: Don't worry. I will.		
+GU055S038	1	55	9_ing and to 1	”Ş—‚Í”Ş‚É‹C‚ğ‚Â‚¯‚é‚æ‚¤‚ÉŒx‚µ‚½B	She warned him to be careful.		
+GU055S039	1	55	9_ing and to 1	A: è‚ğ‘İ‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H B: ‚»‚¤‚Å‚·‚ËB	A: Can you give me a hand? B: Sure.		
+GU055S040	1	55	9_ing and to 1	”Ş‚Í”Ş—‚Éè‚ğ‘İ‚µ‚Ä‚­‚ê‚é‚æ‚¤—Š‚ñ‚¾B	He asked her to give him a hand.		
+GU055S041	1	55	9_ing and to 1	A: ‘Ò‚½‚È‚¢‚Å‚­‚¾‚³‚¢B B: ‚í‚©‚è‚Ü‚µ‚½B	A: Don?t wait for me. B: OK.		
+GU055S042	1	55	9_ing and to 1	”Ş‚Í”Ş—‚É©•ª‚ğ‘Ò‚½‚È‚¢‚æ‚¤‚ÉŒ¾‚¢‚Ü‚µ‚½B	He told her not to wait for him.		
+GU055S043	1	55	9_ing and to 1	A: Œğ’Ê—Ê‚Í‘½‚­‚È‚è‚Ü‚·‚©? B: ‚Í‚¢A‘‚­‹A‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚æB	"A: Will there be a lot of traffic? B: Yes, you should leave early."		
+GU055S044	1	55	9_ing and to 1	”Ş—‚Í”Ş‚É‘‚­o”­‚·‚é‚æ‚¤‚ÉƒAƒhƒoƒCƒX‚µ‚½B	She advised him to leave early.		
+GU055S045	1	55	9_ing and to 1	„‚Í”Ş‚É‰½‚ª‹N‚±‚Á‚½‚Ì‚©’N‚É‚à˜b‚³‚È‚¢‚Æ–ñ‘©‚³‚¹‚½B	I made him promise that he wouldn't tell anybody what happened.		
+GU055S046	1	55	9_ing and to 1	‹‚¢‚Æ”æ‚ê‚Ü‚·B	Hot weather makes me feel tired.		
+GU055S047	1	55	9_ing and to 1	”Ş—‚Ì—¼e‚Í”Ş—‚ªˆêl‚ÅŠOo‚·‚é‚±‚Æ‚ğ‹–‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	Her parents wouldn't let her go out alone.		
+GU055S048	1	55	9_ing and to 1	‚ ‚È‚½‚ÌƒoƒbƒO‚ğ‰^‚Î‚¹‚Ä‚­‚¾‚³‚¢B	Let me carry your bag for you.		
+GU055S049	1	55	9_ing and to 1	‚QŠÔ‚à‘Ò‚½‚³‚ê‚Ü‚µ‚½B	We were made to wait for two hours.		
+GU055S050	1	55	9_ing and to 1	`‚É‚Ís‚Á‚½‚±‚Æ‚ª‚È‚¢‚Ì‚Å‚·‚ªAs‚Á‚Ä‚İ‚½‚¢‚Å‚·B	"I've never been to Hong Kong, but I'd like to go there."		
+GU055S051	1	55	9_ing and to 1	„‚Í“ï‚µ‚¢—§ê‚É‚¢‚Ü‚·B „‚É‰½‚ğ‚·‚é‚æ‚¤‚ÉƒAƒhƒoƒCƒX‚µ‚Ü‚·‚©H	I'm in a difficult position. What do you advise me to do?		
+GU055S052	1	55	9_ing and to 1	‚»‚Ì‰f‰æ‚Í‚Æ‚Ä‚à”ß‚µ‚¢‚à‚Ì‚Å‚µ‚½B ‚»‚ê‚Í„‚ğ‹ƒ‚©‚¹‚½B	The film was very sad. It made me cry.		
+GU055S053	1	55	9_ing and to 1	ƒŠƒT‚Ì—¼e‚Í‚¢‚Â‚à”Ş—‚ÉŠwZ‚Åˆê¶Œœ–½•×‹­‚·‚é‚æ‚¤‚ÉŠ©‚ß‚Ü‚µ‚½B	Lisa's parents always encouraged her to study hard at school.		
+GU055S054	1	55	9_ing and to 1	ƒTƒ‰‚Í„‚ÉÔ‚ğ‘İ‚µ‚Ä‚­‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B ”Ş—‚Í„‚ğM—p‚µ‚Ä‚¢‚Ü‚¹‚ñB	Sarah wouldn't let me borrow her car. She doesn't trust me.		
+GU055S055	1	55	9_ing and to 1	ŠÏŒõƒrƒU‚Å“ü‘‚µ‚½ê‡A‚»‚±‚Å“­‚­‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	"If you enter a country with a tourist visa, you are not allowed to work there."		
+GU055S056	1	55	9_ing and to 1	”Ş‚É‰½‚ğ‚·‚×‚«‚©‚ÍŒ¾‚í‚È‚¢‚Å‚­‚¾‚³‚¢B ”Ş‚ª‚â‚è‚½‚¢‚æ‚¤‚É‚â‚ç‚¹‚Ä‚­‚¾‚³‚¢B	Don't tell him what to do. Let him do what he wants.		
+GU055S057	1	55	9_ing and to 1	l‚ª‚â‚è‚½‚­‚È‚¢‚±‚Æ‚ğ‚â‚ç‚¹‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	You can't make people do things they don't want to do.		
+GU055S058	1	55	9_ing and to 1	lX‚ª‚â‚è‚½‚­‚È‚¢‚±‚Æ‚ğ‹­§‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	You can't force people to do things they don't want to do.		
+GU055S059	1	55	9_ing and to 1	ƒTƒ‰‚Í¡ƒIƒtƒBƒX‚É‚¢‚Ü‚¹‚ñB Œã‚Å”Ş—‚©‚ç“d˜b‚ğ‚©‚¯’¼‚µ‚Ä‚à‚ç‚¢‚½‚¢‚Å‚·‚©?	Sarah isn't in the office right now. Would you like her to call you back later?		
+GU055S060	1	55	9_ing and to 1	‰f‰æ‚Í‘f°‚ç‚µ‚©‚Á‚½‚Å‚·B ‚±‚ñ‚È‚É—Ç‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	The movie was great. I didn't expect it to be so good.		
+GU055S061	1	55	9_ing and to 1	A: uƒAƒŒƒbƒNƒX‚Í„‚Ì‚±‚Æ‚ğD‚«‚Å‚Í‚È‚¢‚Æv‚¢‚Ü‚·Bv B:u‚Ç‚¤‚µ‚Ä‚»‚¤v‚¤‚Ì‚Å‚·‚©Hv	A: 'I don't think Alex likes me.' B: 'What makes you think that?'		
+GU055S062	1	55	9_ing and to 1	—F’B”l‚ªŠOH‚És‚Á‚Ä‚¢‚Ü‚µ‚½B ”Ş‚ç‚Í„‚ğ”Ş‚ç‚ÉQ‰Á‚·‚é‚æ‚¤‚É—U‚Á‚Ä‚­‚ê‚Ü‚µ‚½B	Some friends of mine were going out to eat. They invited me to join them.		
+GU055S063	1	55	9_ing and to 1	„‚½‚¿‚Í‰½‚ğ‚µ‚½‚ç‚¢‚¢‚Ì‚©•ª‚©‚ç‚È‚©‚Á‚½‚Ì‚ÅA‰f‰æ‚ğŒ©‚é‚±‚Æ‚ğ’ñˆÄ‚µ‚Ü‚µ‚½B	"We didn't know what to do, so I suggested watching a movie."		
+GU055S064	1	55	9_ing and to 1	‚¨‹C‚ğ‚Â‚¯‚­‚¾‚³‚¢B ‚ ‚È‚½‚É‚Í©•ª‚ğ‚Â‚¯‚Ä‚Ù‚µ‚­‚È‚¢‚Ì‚Å‚·B	Please be careful. I don't want you to hurt yourself.		
+GU055S065	1	55	9_ing and to 1	„‚Ì×–‚‚ğ‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B I‚í‚ç‚¹‚Ä‚­‚¾‚³‚¢B	Please don't interrupt me. Let me finish.		
+GU055S066	1	55	9_ing and to 1	‚¤‚¿‚É‚Íƒgƒ}ƒg‚ª‚ ‚è‚Ü‚¹‚ñB ‰½‚©”ƒ‚¤‚æ‚¤‚Év‚¢o‚³‚¹‚Ä‚à‚ç‚¦‚Ü‚·‚©H	We have no tomatoes. Can you remind me to buy some?		
+GU055S067	1	55	9_ing and to 1	‚È‚ºŒˆ’è‚ğ•ÏX‚µ‚½‚Ì‚Å‚·‚©? ‰½‚ªl‚¦‚ğ•Ï‚¦‚½‚Ì‚Å‚·‚©H	Why did you change your decision? What made you change your mind?		
+GU056S001	1	56	9_ing and to 1	‰^“]‚ªŠy‚µ‚¢‚Å‚·B	I enjoy driving.		
+GU056S002	1	56	9_ing and to 1	‘‹N‚«‚·‚é‚Ì‚Í‹C‚É‚µ‚Ü‚¹‚ñB	I don't mind getting up early.		
+GU056S003	1	56	9_ing and to 1	‰½‚ğ‚·‚é‚±‚Æ‚ğ‚¨Š©‚ß‚µ‚Ü‚·‚©?	What do you suggest doing?		
+GU056S004	1	56	9_ing and to 1	–¾“úƒTƒ€‚É‰ï‚¤–ñ‘©‚ğ‚µ‚Ü‚µ‚½B	I've arranged to meet Sam tomorrow.		
+GU056S005	1	56	9_ing and to 1	„‚É“d˜b‚·‚é‚Ì‚ğ–Y‚ê‚È‚¢‚Å‚ËB	Don't forget to call me.		
+GU056S006	1	56	9_ing and to 1	‰½‚ğ‚·‚é‚±‚Æ‚É‚µ‚Ü‚µ‚½‚©H	What have you decided to do?		
+GU056S007	1	56	9_ing and to 1	”Ş‚ç‚Í‹à‚ğ“‚ñ‚¾‚±‚Æ‚ğ”Û’è‚µ‚½B	They denied stealing the money.		
+GU056S008	1	56	9_ing and to 1	‘¼‚Ì‘‚ÉZ‚à‚¤‚Æl‚¦‚½‚±‚Æ‚Í‚ ‚è‚Ü‚·‚©?	Have you ever considered going to live in another country?		
+GU056S009	1	56	9_ing and to 1	—£‚ê‚é‚í‚¯‚É‚Í‚¢‚©‚È‚¢B ‚¨‹à‚ª‘«‚è‚È‚¢‚ñ‚Å‚·B	I can't afford to go away. I don't have enough money.		
+GU056S010	1	56	9_ing and to 1	ƒ}[ƒN‚Í„‚½‚¿‚Ì•‚¯‚ğ•K—v‚Æ‚µ‚Ä‚¢‚½‚Ì‚ÅA„‚½‚¿‚Í‚Å‚«‚éŒÀ‚è‚Ì‚±‚Æ‚ğ‚·‚é‚Æ–ñ‘©‚µ‚Ü‚µ‚½B	Mark needed our help and we promised to do what we could.		
+GU056S011	1	56	9_ing and to 1	‚»‚Ì‚¤‚¿‚Ì1‘ä‚Ì‰^“]è‚Í–ŒÌ‚ğ‹N‚±‚µ‚½‚±‚Æ‚ğ”F‚ß‚½B	The driver of one of the cars admitted causing the accident.		
+GU056S012	1	56	9_ing and to 1	•Ç‚Í‚©‚È‚è‚‚©‚Á‚½‚Å‚·‚ªA‚È‚ñ‚Æ‚©æ‚è‰z‚¦‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"The wall was quite high, but I managed to climb over it."		
+GU056S013	1	56	9_ing and to 1	ˆêl‚Å‚¢‚é‚±‚Æ‚ÍŒ™‚¢‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA‘¼‚Ìl‚Æˆê‚É‚¢‚é‚Ù‚¤‚ªD‚«‚Å‚·B	"I don't mind being alone, but I'd rather be with other people."		
+GU056S014	1	56	9_ing and to 1	ƒPƒCƒg‚É‚»‚Ì‰ï‹c‚Ì‚±‚Æ‚ğ“`‚¦‚é‚Â‚à‚è‚¾‚Á‚½‚Ì‚Å‚·‚ªA–Y‚ê‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"I meant to tell Kate about the meeting, but I forgot."		
+GU056S015	1	56	9_ing and to 1	‰ï‚¦‚Ä—Ç‚©‚Á‚½‚Å‚·B ‚Ü‚½‚¨‰ï‚¢‚µ‚Ü‚µ‚å‚¤B	It was good to see you. I hope to see you again soon.		
+GU056S016	1	56	9_ing and to 1	‚È‚º„‚É¿–â‚µ‘±‚¯‚é‚Ì‚Å‚·‚©H „‚ğ•ú‚Á‚Ä‚¨‚¢‚ÄI	Why do you keep asking me questions? Leave me alone!		
+GU056S017	1	56	9_ing and to 1	„‚Ö‚Ì¿–â‚Í‚â‚ß‚Ä‚­‚¾‚³‚¢B	Please stop asking me questions.		
+GU056S018	1	56	9_ing and to 1	‚±‚êˆÈã‚Ì¿–â‚É‚Í‚¨“š‚¦‚µ‚Ü‚¹‚ñB	I refuse to answer any more questions.		
+GU056S019	1	56	9_ing and to 1	ƒ^ƒNƒV[‚Éæ‚è‚Ü‚µ‚å‚¤B •à‚¢‚Ä‰Æ‚É‹A‚é‹C‚Í‚ ‚è‚Ü‚¹‚ñB	Let's get a taxi. I don't fancy walking home.		
+GU056S020	1	56	9_ing and to 1	ƒAƒp[ƒg‚Ì‘|œ‚ªI‚í‚Á‚½‚ç”ƒ‚¢•¨‚ğ‚µ‚Ü‚·B	I'Il do the shopping when I've finished cleaning the flat.		
+GU056S021	1	56	9_ing and to 1	•Ï‰»‚ª•K—v‚È‚Ì‚ÅA•Ê‚Ìd–‚ğ’T‚·‚±‚Æ‚É‚µ‚Ü‚µ‚½B	"I need a change, so I've decided to look for another job."		
+GU056S022	1	56	9_ing and to 1	„‚½‚¿‚Í‚µ‚Î‚ç‚­‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½‚Ì‚ÅAƒjƒRƒ‰‚ÍŒ—j“ú‚Ìd–‚ÌŒã‚É‰ï‚¨‚¤‚Æ’ñˆÄ‚µ‚Ü‚µ‚½B	"We haven't seen each other for a while, so Nicola suggested meeting after work on Monday."		
+GU056S023	1	56	9_ing and to 1	ƒWƒ‡[‚Æ„‚Í—ˆTˆê‚Éƒ‰ƒ“ƒ`‚ğ‚·‚é—\’è‚ğ—§‚Ä‚Ä‚¢‚Ü‚·B	Joe and I have arranged to have lunch together next week.		
+GU056S024	1	56	9_ing and to 1	‹}‚¢‚ÅI “dÔ‚Éæ‚è’x‚ê‚éŠëŒ¯‚ğ–`‚µ‚½‚­‚È‚¢B	Hurry up! I don't want to risk missing the train.		
+GU056S025	1	56	9_ing and to 1	‹}‚¢‚ÅI ’x‚µ‚½‚­‚È‚¢‚ñ‚Å‚·B	Hurry up! I don't want to be late.		
+GU056S026	1	56	9_ing and to 1	ƒeƒBƒi‚ÍæTƒ}ƒ‰ƒ\ƒ“‚Éoê‚µ‚Ü‚µ‚½‚ªAŠ®‘–‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"Tina ran in a marathon last week, but she failed to finish."		
+GU056S027	1	56	9_ing and to 1	„‚ÍƒhƒA‚ÉŒ®‚ğ‚©‚¯‚½‚Ì‚Í’m‚Á‚Ä‚¢‚Ü‚·B Œ®‚ğ‚©‚¯‚½‚Ì‚ğ‚Í‚Á‚«‚è‚ÆŠo‚¦‚Ä‚¢‚Ü‚·B	I know I locked the door. I clearly remember locking it.		
+GU056S028	1	56	9_ing and to 1	”Ş‚Í–ŒÌ‚Ì’¼‘O‚É“¹˜H‚ğ‰^“]‚µ‚Ä‚¢‚½‚±‚Æ‚ÍŠo‚¦‚Ä‚¢‚½‚ªA–ŒÌ‚»‚Ì‚à‚Ì‚ÍŠo‚¦‚Ä‚¢‚È‚©‚Á‚½B	"He could remember driving along the road just before the accident, but he couldn't remember the accident itself."		
+GU056S029	1	56	9_ing and to 1	ƒhƒA‚ÉŒ®‚ğ‚©‚¯‚½‚±‚Æ‚ÍŠo‚¦‚Ä‚¢‚Ü‚µ‚½‚ªA‘‹‚ğ•Â‚ß‚é‚Ì‚ğ–Y‚ê‚Ü‚µ‚½B	"I remembered to lock the door, but I forgot to shut the windows."		
+GU056S030	1	56	9_ing and to 1	–Y‚ê‚¸‚Éƒoƒiƒi‚ğ”ƒ‚í‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I must remember to buy some bananas.		
+GU056S031	1	56	9_ing and to 1	”Ş‚ÍŠK’i‚©‚ç—‚¿‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	He remembers falling down the stairs.		
+GU056S032	1	56	9_ing and to 1	”Ş—‚Í5Î‚Ì‚Æ‚«‚Éˆø‚Á‰z‚µ‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	She remembers moving house when she was five.		
+GU056S033	1	56	9_ing and to 1	”Ş‚Í‘c•ƒ‚Æˆê‚É’Ş‚è‚ğ‚µAì‚É—‚¿‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	He remembers fishing with his granddad and falling into the river.		
+GU056S034	1	56	9_ing and to 1	”Ş—‚Í“dÔ‚Éæ‚Á‚Ä‚¢‚é‚Æ‚«‚É“Ë‘R–Ú‚ªŠo‚ß‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B ”Ş—‚Í‚İ‚ñ‚È‚ªÎ‚Á‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	She remembers waking up suddenly when she was on a train. She remembers everyone laughing.		
+GU056S035	1	56	9_ing and to 1	”Ş‚Í—c‚¢ ‚ÉƒJƒiƒ_‚És‚Á‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B ”Ş‚Íá‚ª‘f°‚ç‚µ‚¢‚Æv‚Á‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	He remembers going to Canada when he was very young. He remembers thinking the snow was wonderful.		
+GU056S036	1	56	9_ing and to 1	”Ş—‚Í’ë‚Ì’[‚Ü‚Å•à‚¢‚½‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚·B ”Ş—‚Í•à‚¢‚Ä–ß‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	She remembers walking to the end of the garden. She remembers not being able to walk back.		
+GU056S037	1	56	9_ing and to 1	”Ş—‚Í4Î‚Ì‚Æ‚«‚ÉŒZ‚ª¶‚Ü‚ê‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B ”Ş—‚Í’í‚ª‚Å‚«‚Ä‚Æ‚Ä‚à‚¤‚ê‚µ‚©‚Á‚½‚±‚Æ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	She remembers her brother being born when she was four. She remembers feeling so happy to have a little brother.		
+GU056S038	1	56	9_ing and to 1	ŠOo‚·‚éê‡‚Í•K‚¸‘‹‚ğ•Â‚ß‚Ä‚­‚¾‚³‚¢B	Please remember to close the windows if you go out.		
+GU056S039	1	56	9_ing and to 1	”Ş‚ÍˆÈ‘O‚É‰ï‚Á‚½‚±‚Æ‚ª‚ ‚é‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·‚ªA„‚Í”Ş‚É‰ï‚Á‚½Šo‚¦‚ª‚ ‚è‚Ü‚¹‚ñB	"He says we've met before, but I don't remember meeting him."		
+GU056S040	1	56	9_ing and to 1	’N‚©‚ª„‚ÌƒoƒbƒO‚ğ‚Á‚Ä‚¢‚Á‚½‚Éˆá‚¢‚ ‚è‚Ü‚¹‚ñB ‘‹Û‚É’u‚¢‚½‚Ì‚ğ‚Í‚Á‚«‚è‚ÆŠo‚¦‚Ä‚¢‚Ü‚·‚ªA¡‚Í‚ ‚è‚Ü‚¹‚ñB	Someone must have taken my bag. I clearly remember leaving it by the window and now it isn't there.		
+GU056S041	1	56	9_ing and to 1	ƒXƒeƒB[ƒu‚É‰ï‚Á‚½‚çA–Y‚ê‚¸‚É„‚©‚çˆ¥A‚µ‚Ä‚­‚¾‚³‚¢B	"When you see Steve, remember to say hello from me."		
+GU056S042	1	56	9_ing and to 1	A: ”‚©Œ‘O‚É„‚É‚¨‹à‚ğ‘İ‚µ‚Ä‚­‚ê‚Ü‚µ‚½‚ËB B: ‚»‚¤‚Å‚µ‚½‚©H –{‹C‚Å‚·‚©H ‚ ‚È‚½‚É‚¨‹à‚ğ‘İ‚µ‚½Šo‚¦‚Í‚ ‚è‚Ü‚¹‚ñB	A: You lent me some money a few months ago. B: Did I? Are you sure? I don't remember lending you money.		
+GU056S043	1	56	9_ing and to 1	A: ‚¨o‚³‚ñ‚É“d˜b‚·‚é‚Ì‚ğŠo‚¦‚Ä‚¢‚Ü‚µ‚½‚©? B: ‚ ‚ A–Y‚ê‚Ä‚½B –¾“ú”Ş—‚É“d˜b‚µ‚Ü‚·B	"A: Did you remember to phone your sister? B: Oh no, I forgot. I'll phone her tomorrow."		
+GU056S044	1	56	9_ing and to 1	¡A©•ª‚ªŒ¾‚Á‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·B Œ¾‚¤‚×‚«‚Å‚Í‚È‚©‚Á‚½B	I now regret saying what I said. I shouldn't have said it.		
+GU056S045	1	56	9_ing and to 1	‘åŠw‚És‚©‚È‚©‚Á‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·‚©H	Do you regret not going to college?		
+GU056S046	1	56	9_ing and to 1	c”O‚Å‚·‚ªA‚ ‚È‚½‚Ì\‚µo‚Í‚¨ó‚¯‚Å‚«‚Ü‚¹‚ñB	I regret to say we are unable to accept your offer.		
+GU056S047	1	56	9_ing and to 1	„‚Ìó‚¯‚½ƒR[ƒX‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªAó‚¯‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚¹‚ñB	"The course I did wasn't very good, but I don't regret doing it."		
+GU056S048	1	56	9_ing and to 1	”Ş‚ç‚ª¢‚Á‚Ä‚¢‚é‚Ì‚Í•ª‚©‚Á‚Ä‚¢‚Ü‚µ‚½‚ªA‰½‚à•‚¯‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½‚Ì‚ªc”O‚Å‚·B	"I knew they were in trouble, but I regret to say that I did nothing to help them."		
+GU056S049	1	56	9_ing and to 1	Š¦‚­‚È‚Á‚Ä‚«‚½‚Ì‚ÅA”Ş‚ÍƒR[ƒg‚ğ’…‚È‚©‚Á‚½‚±‚Æ‚ğŒã‰÷‚µ‚½B	It started to get cold and he regretted not wearing his coat.		
+GU056S050	1	56	9_ing and to 1	¡‚Å‚Íd–‚ğ«‚ß‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·B ‚»‚ê‚ÍŠÔˆá‚¢‚Å‚µ‚½B	I now regret leaving my job. It was a mistake.		
+GU056S051	1	56	9_ing and to 1	c”O‚È‚ª‚çAˆ«‚¢ƒjƒ…[ƒX‚ª‚ ‚é‚±‚Æ‚ğ‚¨“`‚¦‚µ‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I regret to have to tell you that there is some bad news.		
+GU056S052	1	56	9_ing and to 1	‘å“—Ì‚Í­‚µ‚ÌŠÔ—§‚¿~‚Ü‚èA‚»‚ÌŒã˜b‚µ‘±‚¯‚½B	The president paused for a moment and then went on talking.		
+GU056S053	1	56	9_ing and to 1	„‚½‚¿‚Í•Ï‚í‚é•K—v‚ª‚ ‚è‚Ü‚·B ‚±‚Ì‚Ü‚Ü‚Å‚Í¶‚«‚Ä‚¢‚¯‚È‚¢B	We need to change. We can't go on living like this.		
+GU056S054	1	56	9_ing and to 1	‘å“—Ì‚ÍŒoÏ‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½ŒãAŠOŒğ­ô‚É‚Â‚¢‚Ä˜b‚µn‚ß‚½B	"After discussing the economy, the president then went on to talk about foreign policy."		
+GU056S055	1	56	9_ing and to 1	‚à‚¤‚±‚±‚Å“­‚«‘±‚¯‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB •Ê‚Ìd–‚ª‚µ‚½‚¢‚Å‚·B	I can't go on working here any more. I want a different job.		
+GU056S056	1	56	9_ing and to 1	ƒAƒŒƒbƒNƒX‚ÍA„‚ªŠwZ‚Åˆê‚¾‚Á‚½‚Æ‚«A—D‚ê‚½‰^“®‘Iè‚Å‚µ‚½B ””NŒãA”Ş‚ÍƒIƒŠƒ“ƒsƒbƒN‚Åƒƒ_ƒ‹‚ğŠl“¾‚µ‚Ü‚µ‚½B	"Alex was a good athlete when I was at school with him. A few years later, he went on to win an Olympic medal."		
+GU056S057	1	56	9_ing and to 1	„‚ª•”‰®‚É“ü‚é‚ÆAƒŠƒT‚Í–{‚ğ“Ç‚ñ‚Å‚¢‚Ü‚µ‚½B ”Ş—‚ÍŠç‚ğã‚°‚Äˆ¥A‚ğ‚µA‚»‚ê‚©‚ç“Ç‚İ‘±‚¯‚Ü‚µ‚½‚©H	"When I came into the room, Lisa was reading a book. She looked up and said hello, and then went on reading?"		
+GU056S058	1	56	9_ing and to 1	H—¿•i‚Ì‰¿Ši‚ª‚Ü‚½ã‚ª‚Á‚½B ‰¿Ši‚ªã¸‚µ‘±‚¯‚½ê‡A„‚½‚¿‚Í‚Ç‚¤‚â‚Á‚Ä‘Îˆ‚·‚é‚Ì‚Å‚µ‚å‚¤‚©H	Food prices have gone up again. How are we going to manage if prices go on rising?		
+GU056S059	1	56	9_ing and to 1	ƒxƒ“‚Í 9 ”N‘O‚É‰ïĞ‚É“üĞ‚µ‚Ü‚µ‚½B ”Ş‚Í 2 ”NŒã‚ÉƒAƒVƒXƒ^ƒ“ƒgƒ}ƒl[ƒWƒƒ[‚É‚È‚èA””NŒã‚É‚Íƒ}ƒl[ƒWƒƒ[‚É‚È‚è‚Ü‚µ‚½B	"Ben joined the company nine years ago. He became assistant manager after two years, and a few years later he went on to become manager of the company."		
+GU056S060	1	56	9_ing and to 1	‰J‚ª~‚èn‚ß‚½B	It started raining.	It started to rain.	
+GU056S061	1	56	9_ing and to 1	ƒAƒ“ƒfƒB‚Í‰Æ‚ğ”ƒ‚¤‚Â‚à‚è‚Å‚·B	Andy intends buying a house.	Andy intends to buy a house.	
+GU056S062	1	56	9_ing and to 1	‚í‚´‚í‚´ƒhƒA‚ÉŒ®‚ğ‚©‚¯‚È‚¢‚Å‚­‚¾‚³‚¢B	Don't bother locking the door.	Don't bother to lock the door.	
+GU056S063	1	56	9_ing and to 1	‰J‚ª~‚èn‚ß‚Ä‚¢‚éB	It's starting to rain.		
+GU056S064	1	56	9_ing and to 1	Ô‚¿‚á‚ñ‚Í^–é’†‚É‹ƒ‚«n‚ß‚Ü‚µ‚½B	The baby started crying in the middle of the night.		
+GU056S065	1	56	9_ing and to 1	Ô‚¿‚á‚ñ‚Í^–é’†‚É‹ƒ‚«n‚ß‚Ü‚µ‚½B	The baby started to cry in the middle of the night.		
+GU056S066	1	56	9_ing and to 1	‰J‚ª~‚ñ‚¾‚Ì‚ÅAo‚©‚¯‚Ü‚µ‚å‚¤B	"It's stopped raining, so let's go out."		
+GU056S067	1	56	9_ing and to 1	ƒR[ƒX‚ğI‚¦‚½‚ç‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©H	What do you intend to do when you finish the course?		
+GU056S068	1	56	9_ing and to 1	ƒR[ƒX‚ğI‚¦‚½‚ç‰½‚ğ‚·‚é‚Â‚à‚è‚Å‚·‚©H	What do you intend doing when you finish the course?		
+GU058S001	1	58	9_ing and to 1	‚ ‚È‚½‚Í‘‹N‚«‚·‚é‚Ì‚ªD‚«‚Å‚·‚©H	Do you like getting up early?	Do you like to get up early?	
+GU058S002	1	58	9_ing and to 1	„‚ÍlX‚É‰ï‚¤‚Ì‚ª‘åD‚«‚Å‚·B	I love meeting people.	I love to meet people.	
+GU058S003	1	58	9_ing and to 1	ƒXƒeƒtƒ@ƒj[‚Í”òs‹@‚ªŒ™‚¢‚Å‚·B	Stephanie hates flying.	Stephanie hates to fly.	
+GU058S004	1	58	9_ing and to 1	‘¼‚Ìl‚Æˆê‚É‚¢‚é‚Ì‚Í—Ç‚¢‚±‚Æ‚Å‚·B „‚Íˆêl‚Å‚¢‚é‚±‚Æ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	It's good to be with other people. I don't like being on my own.		
+GU058S005	1	58	9_ing and to 1	ƒXƒeƒB[ƒu‚Í–ˆ‰ñŸ‚¿‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B ”Ş‚Í•‰‚¯‚é‚±‚Æ‚ªŒ™‚¢‚¾B	Steve wants to win every time. He hates to lose.		
+GU058S006	1	58	9_ing and to 1	‚ ‚È‚½‚Í‚Ç‚¤‚â‚Á‚ÄƒŠƒ‰ƒbƒNƒX‚·‚é‚ÌH —]‰É‚É‚Í‰½‚ğ‚·‚é‚Ì‚ªD‚«‚Å‚·‚©?	How do you relax? What do you like doing in your spare time?		
+GU058S007	1	58	9_ing and to 1	ƒeƒBƒi‚Í‚¢‚Â‚àƒJƒƒ‰‚ğ‚¿•à‚¢‚Ä‚¢‚Ü‚·B ”Ş—‚ÍÊ^‚ğB‚é‚Ì‚ªD‚«‚Å‚·B	Tina always has her camera with her. She likes to take pictures.		
+GU058S008	1	58	9_ing and to 1	V‚µ‚¢êŠ‚ğ–K‚ê‚é‚Ì‚ÍŠy‚µ‚¢‚Æv‚¢‚Ü‚·B „‚Í—·s‚·‚é‚Ì‚ª‘åD‚«B	I think it's fun to visit new places. I love to travel.		
+GU058S009	1	58	9_ing and to 1	ƒxƒ“‚Í‘½‚­‚ÌŠÔ‚ğƒLƒbƒ`ƒ“‚Å‰ß‚²‚µ‚Ü‚·B ”Ş‚Í—¿—‚ª‘åD‚«‚Å‚·B	Ben spends a lot of time in the kitchen. He loves cooking.		
+GU058S010	1	58	9_ing and to 1	ƒwƒŒƒ“‚Í‚ ‚Ü‚è‰Æ–‚ğ‚µ‚Ü‚¹‚ñB ”Ş—‚Í‘|œ‚ªŒ™‚¢‚Å‚·B	Helen doesn't do much housework. She hates cleaning.		
+GU058S011	1	58	9_ing and to 1	ƒ|[ƒ‹‚ÍŒ»İƒxƒ‹ƒŠƒ“‚ÉZ‚ñ‚Å‚¢‚Ü‚·B ”Ş‚Í‚»‚±‚ÉZ‚Ş‚Ì‚ªD‚«‚Å‚·B	Paul lives in Berlin now. He likes living there.		
+GU058S012	1	58	9_ing and to 1	Šw¶‚Å‚ ‚é‚±‚Æ‚ÍD‚«‚Å‚·‚©H	Do you like being a student?		
+GU058S013	1	58	9_ing and to 1	„‚ª“­‚¢‚Ä‚¢‚½ƒIƒtƒBƒX‚ÍÅˆ«‚Å‚µ‚½B ‚»‚±‚Å“­‚­‚Ì‚ªŒ™‚Å‚µ‚½B	The office I worked in was horrible. I hated working there.		
+GU058S014	1	58	9_ing and to 1	ƒWƒF[ƒ“‚Í¶•¨Šw‚Ì‹³t‚Å‚·B ”Ş—‚Í©•ª‚Ìd–‚ªD‚«‚Å‚·B ”Ş—‚Í¶•¨Šw‚ğ‹³‚¦‚é‚Ì‚ªD‚«‚Å‚·B	Jane is a biology teacher. She likes her job. She likes teaching biology.		
+GU058S015	1	58	9_ing and to 1	„‚ÍƒX[ƒp[ƒ}[ƒPƒbƒg‚Å“­‚¢‚Ä‚¢‚Ü‚µ‚½B ‚ ‚Ü‚èD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚»‚±‚Å“­‚­‚Ì‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I used to work in a supermarket. I didn't like it much. I didn't like working there.		
+GU058S016	1	58	9_ing and to 1	ƒŒƒCƒ`ƒFƒ‹‚ÍˆãŠw‚ğ•×‹­‚µ‚Ä‚¢‚Ü‚·B ”Ş—‚Í‚»‚ê‚ªD‚«B ”Ş—‚ÍˆãŠw‚ğ•×‹­‚·‚é‚Ì‚ªD‚«‚Å‚·B	Rachel is studying medicine. She likes it. She likes studying medicine.		
+GU058S017	1	58	9_ing and to 1	ƒ_ƒ“‚Í—L–¼‚Å‚·‚ªA‚»‚ê‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ”Ş‚Í—L–¼‚É‚È‚é‚Ì‚ªD‚«‚Å‚Í‚È‚¢B	"Dan is famous, but he doesn't like it. He doesn't like being famous."		
+GU058S018	1	58	9_ing and to 1	ƒPƒCƒg‚Íˆêl•é‚ç‚µ‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½B ”Ş—‚Í‚»‚ê‚ªŒ™‚¢‚Å‚µ‚½B ”Ş—‚Íˆêl•é‚ç‚µ‚ªŒ™‚¢‚¾‚Á‚½B	Kate used to live on her own. She hated it. She hated living on her own.		
+GU058S019	1	58	9_ing and to 1	„‚ÍƒLƒbƒ`ƒ“‚ğ‘|œ‚·‚é‚Ì‚ªD‚«‚Å‚·B	I like cleaning the kitchen.		
+GU058S020	1	58	9_ing and to 1	D‚«‚Èd–‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA‚Å‚«‚é‚¾‚¯•p”É‚ÉƒLƒbƒ`ƒ“‚ğ‘|œ‚·‚é‚Ì‚ªD‚«‚Å‚·B	"It's not my favourite job, but I like to clean the kitchen as often as possible."		
+GU058S021	1	58	9_ing and to 1	„‚Í‘’©‚Éd–‚ğn‚ß‚é‚Ì‚ªD‚«‚Å‚·B	I like to start work early in the morning.		
+GU058S022	1	58	9_ing and to 1	ƒLƒbƒ`ƒ“‚Ì‘|œ‚ªŠy‚µ‚¢‚Å‚·B	I enjoy cleaning the kitchen.		
+GU058S023	1	58	9_ing and to 1	ƒLƒbƒ`ƒ“‚Ì‘|œ‚Í‹C‚É‚µ‚Ü‚¹‚ñB	I don't mind cleaning the kitchen.		
+GU058S024	1	58	9_ing and to 1	„‚ÍƒTƒvƒ‰ƒCƒY‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í–‘O‚É•¨–‚ğ’m‚é‚Ì‚ªD‚«‚Å‚·B	I don't like surprises. I like to know things in advance.		
+GU058S025	1	58	9_ing and to 1	–Z‚µ‚¢‚Ì‚ªŠy‚µ‚¢‚Å‚·B ‰½‚à‚·‚é‚±‚Æ‚ª‚È‚¢‚Ì‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I enjoy being busy. I don't like it when there's nothing to do.		
+GU058S026	1	58	9_ing and to 1	„‚Í‚©‚Â‚Ä‹³t‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½B ‹³‚¦‚é‚Ì‚ÍD‚«‚Å‚µ‚½‚ªA‚Æ‚Ä‚à‘å•Ï‚Èd–‚Å‚µ‚½B	"I used to be a teacher. I liked teaching, but it was very hard work."		
+GU058S027	1	58	9_ing and to 1	—Ç‚¢ƒjƒ…[ƒX‚Æˆ«‚¢ƒjƒ…[ƒX‚ª‚ ‚éê‡A„‚Íˆ«‚¢ƒjƒ…[ƒX‚ğÅ‰‚É•·‚«‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	"If there's good news and bad news, I like to hear the bad news first."		
+GU058S028	1	58	9_ing and to 1	„‚Í’¬‚Ì‚±‚Ì’nˆæ‚ÉZ‚Ş‚Ì‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚Ç‚±‚©•Ê‚ÌêŠ‚ÉˆÚ“®‚µ‚½‚¢‚Å‚·B	I don't like living in this part of town. I want to move somewhere else.		
+GU058S029	1	58	9_ing and to 1	„‚Í‹}‚¢‚Å‚¢‚È‚¢B ‘Ò‚Á‚Ä‚à\‚¢‚Ü‚¹‚ñB	I'm not in a hurry. I don't mind waiting.		
+GU058S030	1	58	9_ing and to 1	Œˆ’f‚ğ‰º‚·‘O‚ÉATd‚Él‚¦‚é‚Ì‚ªD‚«‚Å‚·B	"Before I make a decision, I like to think about it carefully."		
+GU058S031	1	58	9_ing and to 1	”“úŠÔ—£‚ê‚Äs‚«‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	I'd like to go away for a few days.		
+GU058S032	1	58	9_ing and to 1	‹x“ú‚Éˆêl‚Ås‚«‚½‚­‚È‚¢B	I wouldn't like to go on holiday alone.		
+GU058S033	1	58	9_ing and to 1	‚º‚Ğ‚²‰Æ‘°‚É‚¨‰ï‚¢‚µ‚½‚¢‚Å‚·B	I'd love to meet your family.		
+GU058S034	1	58	9_ing and to 1	¡H‚×‚½‚¢‚Å‚·‚©A‚»‚ê‚Æ‚àŒã‚ÅH‚×‚½‚¢‚Å‚·‚©?	Would you prefer to eat now or later?		
+GU058S035	1	58	9_ing and to 1	‹x“ú‚Éˆêl‚Åo‚©‚¯‚é‚Ì‚à‹C‚É‚È‚ç‚È‚¢B	I wouldn't mind going on holiday alone.		
+GU058S036	1	58	9_ing and to 1	„‚ÍƒeƒjƒX‚ğ‚·‚é‚Ì‚ªD‚«‚Å‚·B	I like playing tennis.	I like to play tennis.	
+GU058S037	1	58	9_ing and to 1	¡“ú‚ÍƒeƒjƒX‚ğ‚µ‚½‚¢‚Ì‚Å‚·‚ªB	I'd like to play tennis today.		
+GU058S038	1	58	9_ing and to 1	‚¿‚å‚Á‚ÆŠÔ‚ ‚éH ‚ ‚é‚±‚Æ‚É‚Â‚¢‚Ä‚¨˜b‚µ‚µ‚½‚¢‚Æv‚¢‚Ü‚·B	Do you have a minute? I'd like to tell you about something.		
+GU058S039	1	58	9_ing and to 1	ƒŒƒCƒ`ƒFƒ‹‚ÍƒpƒŠ‚É’·‚¢ŠÔZ‚ñ‚Å‚¢‚Ü‚·B ”Ş—‚Í‚»‚±‚ÉZ‚Ş‚Ì‚ªD‚«‚Å‚·B	Rachel has lived in Paris for a long time. She likes living there.		
+GU058S040	1	58	9_ing and to 1	‚º‚Ğ‚ ‚È‚½‚ÌŒ‹¥®‚ÉoÈ‚µ‚½‚¢‚Ì‚Å‚·‚ªA‚»‚ê‚Í–³—‚Å‚·B	"I would love to come to your wedding, but I'm afraid it's impossible."		
+GU058S041	1	58	9_ing and to 1	A: À‚Á‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚·‚©H B: ‚¢‚¢‚¦A‚ ‚è‚ª‚Æ‚¤B „‚Í—§‚¿‚Ü‚·B	"A: Would you like to sit down? B: No, thanks. I'll stand."		
+GU058S042	1	58	9_ing and to 1	A: ‚±‚±‚Å“­‚­‚Ì‚ÍD‚«‚Å‚·‚©? B: ‚Í‚¢A‚Æ‚Ä‚àŠy‚µ‚¢‚Å‚·B	"A: Do you like working here? B: Yes, I enjoy it very much."		
+GU058S043	1	58	9_ing and to 1	‚à‚¤o”­‚µ‚Ü‚µ‚å‚¤‚©A‚»‚ê‚Æ‚à­‚µ‘Ò‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©H	"Shall we leave now, or would you prefer to wait a little?"		
+GU058S044	1	58	9_ing and to 1	‰¹Šy‚ª‚Æ‚Ä‚à‚¤‚é‚³‚¢‚Å‚·B ‚¨’f‚è‚µ‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©H	The music is very loud. Would you mind turning it down?		
+GU058S045	1	58	9_ing and to 1	„‚½‚¿‚ªƒƒ“ƒhƒ“‚É‚¢‚½‚Æ‚«‚ÉƒAƒ“ƒi‚É‰ï‚¦‚È‚©‚Á‚½‚Ì‚ªc”O‚Å‚·B ‚à‚¤ˆê“x”Ş—‚É‰ï‚¢‚½‚©‚Á‚½‚Å‚·B	It's a shame we didn't see Anna when we were in London. I'd like to have seen her again.		
+GU058S046	1	58	9_ing and to 1	‚Ç‚±‚©‚Ös‚«‚½‚©‚Á‚½‚Ì‚Å‚·‚ªA‰Æ‚Å‚Í–Z‚µ‚·‚¬‚Ü‚µ‚½B	"We'd like to have gone away, but we were too busy at home."		
+GU058S047	1	58	9_ing and to 1	‰Âˆ£‚»‚¤‚ÈƒfƒCƒrƒbƒhI „‚à”Ş‚Ì—§ê‚¾‚Á‚½‚çŒ™‚¾B	Poor David! I'd hate to have been in his position.		
+GU058S048	1	58	9_ing and to 1	ƒp[ƒeƒB[‚És‚«‚½‚©‚Á‚½‚¯‚ÇA–³—‚Å‚µ‚½B	"I'd love to have gone to the party, but it was impossible."		
+GU058S049	1	58	9_ing and to 1	”Ô‘g‚ğŒ©‚È‚©‚Á‚½‚Ì‚ªc”O‚Å‚·B Œ©‚½‚©‚Á‚½‚Å‚·B	It's a shame I didn't see the programme. I'd like to have seen it.		
+GU058S050	1	58	9_ing and to 1	Œv‚ğ¸‚­‚³‚È‚­‚Ä‚æ‚©‚Á‚½‚Å‚·B ¸‚­‚µ‚Ä‚µ‚Ü‚Á‚½‚çŒ™‚¾B	I'm glad I didn't lose my watch. I'd hate to have lost it.		
+GU058S051	1	58	9_ing and to 1	‚ ‚È‚½‚Ì—¼e‚É‰ï‚¦‚È‚©‚Á‚½‚Ì‚ªc”O‚Å‚·B ”Ş‚ç‚É‰ï‚¢‚½‚©‚Á‚½‚Å‚·B	It's too bad I didn't meet your parents. I'd love to have met them.		
+GU058S052	1	58	9_ing and to 1	„‚½‚¿‚Í“dÔ‚Ås‚­‚×‚«‚¾‚Á‚½B “dÔ‚Å—·s‚µ‚½•û‚ª‚æ‚©‚Á‚½‚Å‚·B	We should have gone by train. I'd prefer to have travelled by train.		
+GU058S053	1	58	9_ing and to 1	ˆêl‚¶‚á‚È‚­‚Ä‚æ‚©‚Á‚½‚Å‚·B ˆêl‚Å‚¢‚½‚­‚È‚©‚Á‚½B	I'm glad I wasn't alone. I wouldn't like to have been alone.		
+GU058S054	1	58	9_ing and to 1	ˆê‚É‰ß‚²‚·ŠÔ‚ª\•ª‚É‚È‚©‚Á‚½‚Ì‚ªc”O‚Å‚·B ‚à‚Á‚Æ‰ñ”‚ğd‚Ë‚½‚©‚Á‚½‚Å‚·B	It's a shame we didn't have enough time together. I'd like to have had more times.		
+GU058S055	1	58	9_ing and to 1	”Ş—‚ÍT––‚É“­‚­‚Ì‚ğ‹C‚É‚µ‚Ü‚¹‚ñB	She doesn't mind working at weekends.		
+GU058S056	1	58	9_ing and to 1	”Ş‚Í‰Æ‹ïHê‚Å“­‚­‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	He didn't like working in the furniture factory.		
+GU058S057	1	58	9_ing and to 1	”Ş—‚Í‰•å‚·‚é‘O‚É‚»‚Ìd–‚É‚Â‚¢‚Ä‚à‚Á‚Æ’m‚è‚½‚¢‚Æv‚Á‚Ä‚¢‚Ü‚·B	She'd like to know more about the job before applying for it.		
+GU058S058	1	58	9_ing and to 1	”Ş‚Í‰^“]‚ğŠy‚µ‚ñ‚Å‚¢‚Ü‚·B ‚»‚ê‚ª”Ş‚Ìd–‚ÌÅ‚‚Ì•”•ª‚¾B	He enjoys driving. It's the best part of his job.		
+GU058S059	1	58	9_ing and to 1	”Ş—‚Í‹³t‚É‚È‚é‚±‚Æ‚ğ‹C‚É‚µ‚È‚¢‚¾‚ë‚¤B	She wouldn't mind being a teacher.		
+GU058S060	1	58	9_ing and to 1	”Ş‚Íá‚¢ ‚Éƒjƒ…[ƒˆ[ƒN‚Å“­‚«‚½‚©‚Á‚½‚Æv‚Á‚Ä‚¢‚Ü‚·B	He would like to have worked in New York when he was younger.		
+GU057S001	1	57	9_ing and to 1	„‚Í”ñí‚É”æ‚ê‚Ä‚¢‚Ü‚µ‚½B –Ú‚ğŠJ‚¯‚Ä‚¢‚æ‚¤‚Æ‚µ‚Ü‚µ‚½‚ªA‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"I was very tired. I tried to keep my eyes open, but I couldn't."		
+GU057S002	1	57	9_ing and to 1	‹A‘îŒã‚ÍÃ‚©‚É‰ß‚²‚µ‚Ä‚­‚¾‚³‚¢B ’N‚à‚ª–°‚Á‚Ä‚µ‚Ü‚¤‚Å‚µ‚å‚¤B	Please try to be quiet when you come home. Everyone will be asleep.		
+GU057S003	1	57	9_ing and to 1	‚±‚ê‚ç‚ÌƒP[ƒL‚Í‚¨‚¢‚µ‚¢‚Å‚·B ‚µ‚Ä‚İ‚é‚Æ‚¢‚¢‚Å‚µ‚å‚¤B	These cakes are delicious. You should try one.		
+GU057S004	1	57	9_ing and to 1	„‚½‚¿‚Í”‘‚Ü‚é‚Æ‚±‚ë‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ’¬’†‚Ìƒzƒeƒ‹‚ğ‚·‚×‚Ä‰ñ‚è‚Ü‚µ‚½‚ªA‚Ç‚±‚à–º‚Å‚µ‚½B	"We couldn't find anywhere to stay. We tried every hotel in the town, but they were all full."		
+GU057S005	1	57	9_ing and to 1	A: ƒRƒs[‹@‚ªŒÌá‚µ‚Ä‚¢‚Ü‚·B B: —ÎF‚Ìƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B	A: The photocopier isn't working. B: Try pressing the green button.		
+GU057S006	1	57	9_ing and to 1	ƒe[ƒuƒ‹‚ğ“®‚©‚»‚¤‚Æ‚µ‚Ü‚µ‚½‚ªAd‚·‚¬‚Ü‚µ‚½B	"I tried to move the table, but it was too heavy."		
+GU057S007	1	57	9_ing and to 1	‰Æ‹ï‚Ì”z’u‚ª‹C‚É“ü‚ç‚È‚©‚Á‚½‚Ì‚ÅAƒe[ƒuƒ‹‚ğ•”‰®‚Ì”½‘Î‘¤‚ÉˆÚ“®‚µ‚Ä‚İ‚Ü‚µ‚½B ‚µ‚©‚µAŒ©‚½–Ú‚ª—Ç‚­‚È‚©‚Á‚½‚Ì‚ÅA‚à‚¤ˆê“xŒ³‚É–ß‚µ‚Ü‚µ‚½B	"I didn't like the way the furniture was arranged, so I tried moving the table to the other side of the room. But it didn't look right, so I moved it back again."		
+GU057S008	1	57	9_ing and to 1	A: ƒ‰ƒWƒI‚ª‹@”\‚µ‚Ü‚¹‚ñB B: “d’r‚ğŒğŠ·‚µ‚Ä‚İ‚Ü‚µ‚½‚©?	A: The radio isn't working. B: Have you tried changing the batteries?		
+GU057S009	1	57	9_ing and to 1	A: ƒhƒA‚ªŠJ‚¯‚ç‚ê‚È‚¢‚ñ‚Å‚·B Œ®‚ª‰ñ‚ç‚È‚¢B	A: I can't open the door. The key won't turn.		
+GU057S010	1	57	9_ing and to 1	B: ”½‘Î‘¤‚É‰ñ‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B	B: Try turning it the other way.		
+GU057S011	1	57	9_ing and to 1	A: ƒRƒ“ƒsƒ…[ƒ^[‚ª³í‚É“®ì‚µ‚Ä‚¢‚Ü‚¹‚ñB B: Ä‹N“®‚µ‚Ä‚İ‚Ü‚µ‚½‚©?	A: The computer isn't working properly. B: Have you tried restarting it?		
+GU057S012	1	57	9_ing and to 1	A: ƒtƒŒƒbƒh‚Í“d˜b‚Éo‚Ü‚¹‚ñB ‰½‚ğ‚·‚ê‚Î‚æ‚¢‚Å‚µ‚å‚¤‚©H B: ”Ş‚ÌƒIƒtƒBƒX‚É“d˜b‚µ‚Ä‚İ‚Ä‚à‚¢‚¢‚æB	A: Fred isn't answering his phone. What shall I do? B: You could try calling his office.		
+GU057S013	1	57	9_ing and to 1	A: “ª‚ª’É‚¢‚Å‚·B ‚»‚¤‚È‚ê‚Î‚¢‚¢‚Ì‚ÉB B: ƒAƒXƒsƒŠƒ“‚ğˆù‚ñ‚Å‚İ‚½‚±‚Æ‚Í‚ ‚è‚Ü‚·‚©?	A: I've got a headache. I wish it would go. B: Have you tried taking aspirin?		
+GU057S014	1	57	9_ing and to 1	’I‚Éè‚ğL‚Î‚»‚¤‚Æ‚µ‚Ü‚µ‚½‚ªAg’·‚ª‘«‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"I tried to reach the shelf, but I wasn't tall enough."		
+GU057S015	1	57	9_ing and to 1	ŒºŠÖ‚ÌŒÄ‚Ñ—é‚ğ–Â‚ç‚µ‚Ü‚µ‚½‚ªA‰“š‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B ‚»‚±‚Å‘‹‚ğƒmƒbƒN‚µ‚Ä‚İ‚Ü‚µ‚½‚ªA‚â‚Í‚è•Ô–‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"I rang the doorbell, but there was no answer. Then I tried knocking on the window, but there was still no answer."		
+GU057S016	1	57	9_ing and to 1	„‚½‚¿‚Í‰Î‚ğÁ‚»‚¤‚Æ‚µ‚Ü‚µ‚½‚ªA‚¤‚Ü‚­‚¢‚«‚Ü‚¹‚ñ‚Å‚µ‚½B „‚½‚¿‚ÍÁ–h‘à‚ğŒÄ‚Î‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"We tried to put the fire out, but without success. We had to call the fire brigade."		
+GU057S017	1	57	9_ing and to 1	‚Ç‚¤‚©„‚ğˆêl‚É‚µ‚Ä‰º‚³‚¢B W’†‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·B	Please leave me alone. I'm trying to concentrate.		
+GU057S018	1	57	9_ing and to 1	ƒX[‚Í‚¨‹à‚ğØ‚è‚é•K—v‚ª‚ ‚è‚Ü‚µ‚½B ”Ş—‚ÍƒQƒCƒŠ[‚Éq‚Ë‚Ä‚İ‚Ü‚µ‚½‚ªAƒQƒCƒŠ[‚à‚¨‹à‚ª‘«‚è‚È‚¢‚ÆŒ¾‚¢‚Ü‚µ‚½B	"Sue needed to borrow some money. She tried asking Gary, but he said he was short of money too."		
+GU057S019	1	57	9_ing and to 1	ƒxƒlƒbƒg‚³‚ñ‚Í¡‚±‚±‚É‚¢‚Ü‚¹‚ñB Œã‚Å“d˜b‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B	Mr Bennett isn't here right now. Please try calling later.		
+GU057S020	1	57	9_ing and to 1	‚»‚Ì—«‚ÌŠç‚É‚ÍŒ©Šo‚¦‚ª‚ ‚Á‚½B „‚ÍˆÈ‘O‚É‚Ç‚±‚Å”Ş—‚É‰ï‚Á‚½‚©‚ğv‚¢o‚»‚¤‚Æ‚µ‚Ü‚µ‚½B	The woman's face was familiar. I tried to remember where I'd seen her before.		
+GU057S021	1	57	9_ing and to 1	i•à‚µ‚½‚¢‚È‚çA”Ş‚Í‚à‚Á‚Æ“w—Í‚·‚é•K—v‚ª‚ ‚éB	He needs to work harder if he wants to make progress.		
+GU057S022	1	57	9_ing and to 1	‰ï‹c‚É—ˆ‚é•K—v‚Í‚È‚¢‚Å‚·‚æ‚ËH	"I don't need to come to the meeting, do I?"		
+GU057S023	1	57	9_ing and to 1	Œg‘Ñ“d˜b‚ğ[“d‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	My phone needs charging.		
+GU057S024	1	57	9_ing and to 1	“ï‚µ‚¢–â‘è‚Å‚·‚ËB ”ñí‚ÉTd‚Él‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B	It's a difficult problem. It needs thinking about very carefully.		
+GU057S025	1	57	9_ing and to 1	‚±‚ÌƒWƒƒƒPƒbƒg‚Í‰˜‚ê‚Ä‚¢‚Ü‚·B ‘|œ‚ª•K—v‚Å‚·B	This jacket is dirty. It needs cleaning.		
+GU057S026	1	57	9_ing and to 1	•Ç‚Í‚ ‚Ü‚èãY—í‚Å‚Í‚È‚¢‚æ‚¤‚Å‚·B ”Ş‚ç‚ÍŠG‚ğ•`‚­•K—v‚ª‚ ‚éB	The walls don't look very nice. They need painting.		
+GU057S027	1	57	9_ing and to 1	‘‚ª‚Æ‚Ä‚à’·‚¢‚Å‚·B ƒJƒbƒg‚ª•K—v‚Å‚·B	The grass is very long. It needs cutting.		
+GU057S028	1	57	9_ing and to 1	ƒlƒW‚ªŠÉ‚ñ‚Å‚¢‚Ü‚·B ’÷‚ß•t‚¯‚ª•K—v‚Å‚·B	The screws are loose. They need tightening.		
+GU057S029	1	57	9_ing and to 1	ƒSƒ~” ‚ª‚¢‚Á‚Ï‚¢‚Å‚·B ‹ó‚É‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	The bin is full. It needs emptying.		
+GU057S030	1	57	9_ing and to 1	„‚½‚¿‚ÍÀ‚Á‚Ä‰ß‚²‚·ŠÔ‚ª‘½‚·‚¬‚Ü‚·B ‚à‚Á‚Æ‰^“®‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	We spend too much time sitting down. We need to get more exercise.		
+GU057S031	1	57	9_ing and to 1	‘‹‚ª‰˜‚ê‚Ä‚¢‚Ü‚·B ‘|œ‚ª•K—v‚Å‚·B	The windows are dirty. They need cleaning.		
+GU057S032	1	57	9_ing and to 1	„‚Ì‘c•ê‚Í‚à‚¤©•ª‚Ì¢˜b‚ğ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB ”Ş—‚É‚Í¢˜b‚ª•K—v‚¾B	My grandmother isn't able to look after herself any more. She needs looking after.		
+GU057S033	1	57	9_ing and to 1	¡‚ÍŒˆ’f‚Å‚«‚Ü‚¹‚ñB „‚Í‚»‚ê‚É‚Â‚¢‚Äl‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B	I can't make a decision right now. I need to think about it.		
+GU057S034	1	57	9_ing and to 1	‚ ‚È‚½‚Ì”¯‚Í‚Æ‚Ä‚à’·‚­‚È‚è‚Ü‚µ‚½B ‚·‚®‚ÉƒJƒbƒg‚ª•K—v‚É‚È‚è‚Ü‚·B	Your hair is getting very long. It will need cutting soon.		
+GU057S035	1	57	9_ing and to 1	‚»‚ÌƒVƒƒƒc‚Í‚«‚ê‚¢‚ÉŒ©‚¦‚Ü‚·B ƒAƒCƒƒ“‚ğ‚©‚¯‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	That shirt looks fine. You don't need to iron it.		
+GU057S036	1	57	9_ing and to 1	‚»‚ÌƒVƒƒƒc‚Í‚¢‚¢Š´‚¶‚Å‚·‚ËB ƒAƒCƒƒ“‚à•K—v‚ ‚è‚Ü‚¹‚ñB	That shirt looks fine. It doesn't need ironing.		
+GU057S037	1	57	9_ing and to 1	‚±‚Ìƒe[ƒuƒ‹‚ğˆÚ“®‚·‚é‚Ì‚ğè“`‚Á‚Ä‚­‚ê‚Ü‚¹‚ñ‚©H	Can you help me move this table?	Can you help me to move this table?	
+GU057S038	1	57	9_ing and to 1	„‚Í”Ş‚Ì‚±‚Æ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªA”Ş‚É‚Í‘½‚­‚Ì–â‘è‚ª‚ ‚è‚Ü‚·B ”Ş‚É‚Í“¯î‚¹‚¸‚É‚Í‚¢‚ç‚ê‚Ü‚¹‚ñB	"I don't like him, but he has a lot of problems. I can't help feeling sorry for him."		
+GU057S039	1	57	9_ing and to 1	”Ş—‚Í^Œ•‚É˜b‚»‚¤‚Æ‚µ‚½‚ªAÎ‚¢‚ª~‚Ü‚ç‚È‚©‚Á‚½B	"She tried to be serious, but she couldn't help laughing."		
+GU057S040	1	57	9_ing and to 1	‹Ù’£‚µ‚Ä‚²‚ß‚ñ‚È‚³‚¢B d•û‚È‚¢‚Å‚·‚ËB	I'm sorry I'm so nervous. I can't help it.		
+GU057S041	1	57	9_ing and to 1	”Ş‚ç‚Í‚Æ‚Ä‚à‘åº‚Å˜b‚µ‚Ä‚¢‚Ü‚µ‚½B „‚½‚¿‚Í”Ş‚ç‚ÌŒ¾‚¤‚±‚Æ‚ğ•·‚©‚¸‚É‚Í‚¢‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	They were talking very loudly. We couldn't help overhearing what they said.		
+GU057S042	1	57	9_ing and to 1	Œg‘Ñ“d˜b‚ğ•´¸‚µ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B ’T‚·‚Ì‚ğè“`‚Á‚Ä‚­‚ê‚Ü‚¹‚ñ‚©H	I've lost my phone. Can you help me look for it?		
+GU057S043	1	57	9_ing and to 1	”Ş‚Í‚Æ‚Ä‚à–Ê”’‚¢‚Å‚·‚ËB ”Ş‚ğŒ©‚é‚½‚Ñ‚ÉA„‚ÍÎ‚í‚¸‚É‚Í‚¢‚ç‚ê‚Ü‚¹‚ñB	"He looks so funny. Whenever I see him, I can't help smiling."		
+GU057S044	1	57	9_ing and to 1	“V‹C‚à—Ç‚­‚Ä–{“–‚É—Ç‚¢‹x“ú‚É‚È‚è‚Ü‚µ‚½B	The fine weather helped make it a really nice holiday.		
+GU057S045	1	57	9_ing and to 1	ƒp[ƒeƒB[‚ÌŒã•Ğ•t‚¯‚ğè“`‚Á‚Ä‚­‚ê‚Ü‚µ‚½‚©H	Did you help to clean up after the party?		
+GU057S046	1	57	9_ing and to 1	‰½‚ª‹N‚±‚Á‚½‚Ì‚©‚ğ‚¢‚Â‚àl‚¦‚Ä‚¢‚Ü‚·B l‚¦‚Ä‚àd•û‚ª‚ ‚è‚Ü‚¹‚ñB	I think about what happened all the time. I can't help thinking about it.		
+GU057S047	1	57	9_ing and to 1	„‚Í‚ ‚È‚½‚ÌAE‚ğè“`‚¤‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB ©•ª‚ÅŒ©‚Â‚¯‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	I can't help you get a job. You have to find one yourself.		
+GU059S001	1	59	9_ing and to 1	„‚Í“s‰ï‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í“cÉ‚ÉZ‚Ş‚Ù‚¤‚ªD‚«‚Å‚·B	I don't like cities. I prefer to live in the country.	I prefer living in the country.	
+GU059S002	1	59	9_ing and to 1	„‚Í‘¼‚ÌƒR[ƒg‚æ‚è‚à‚±‚ÌƒR[ƒg‚Ì•û‚ªD‚«‚Å‚·B	I prefer this coat to the other one.		
+GU059S003	1	59	9_ing and to 1	„‚Í“dÔ‚Å—·s‚·‚é‚æ‚è‚àÔ‚Å—·s‚·‚é‚Ì‚ªD‚«‚Å‚·B	I prefer driving to travelling by train.		
+GU059S004	1	59	9_ing and to 1	„‚Í“dÔ‚Å—·s‚·‚é‚æ‚è‚àÔ‚Å—·s‚·‚é‚Ì‚ªD‚«‚Å‚·B	I prefer to drive rather than travel by train.		
+GU059S005	1	59	9_ing and to 1	ƒTƒ‰‚Í“s‰ï‚æ‚è‚à“cÉ‚ÉZ‚Ş‚±‚Æ‚ğD‚İ‚Ü‚·B	Sarah prefers to live in the country rather than in a city.		
+GU059S006	1	59	9_ing and to 1	”Ş‚Íƒtƒbƒgƒ{[ƒ‹‚æ‚è‚àƒoƒXƒPƒbƒgƒ{[ƒ‹‚Ì•û‚ªD‚«‚Å‚·B	He prefers basketball to football.		
+GU059S007	1	59	9_ing and to 1	”Ş—‚Í‰Æ‚Å‰f‰æ‚ğŒ©‚é‚æ‚è‚à‰f‰æŠÙ‚És‚­‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers going to the cinema to watching movies at home.		
+GU059S008	1	59	9_ing and to 1	”Ş‚Í‰½‚à‚·‚é‚±‚Æ‚ª‚È‚¢‚æ‚è‚àA‚Æ‚Ä‚à–Z‚µ‚¢‚±‚Æ‚ğD‚İ‚Ü‚·B	He prefers being very busy to having nothing to do.		
+GU059S009	1	59	9_ing and to 1	”Ş—‚Íˆêl‚Åd–‚ğ‚·‚é‚æ‚è‚àA‘¼‚Ìl‚Æˆê‚Éd–‚ğ‚·‚é‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers working with other people to working on her own.		
+GU059S010	1	59	9_ing and to 1	”Ş—‚Í‰Æ‚Å‰f‰æ‚ğŒ©‚é‚æ‚è‚à‰f‰æŠÙ‚És‚­‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers going to the cinema to watching movies at home.		
+GU059S011	1	59	9_ing and to 1	”Ş—‚Í‰Æ‚Å‰f‰æ‚ğŒ©‚é‚æ‚è‚à‰f‰æŠÙ‚És‚­‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers to go to the cinema rather than watch movies at home.		
+GU059S012	1	59	9_ing and to 1	”Ş‚Í‰½‚à‚·‚é‚±‚Æ‚ª‚È‚¢‚æ‚è‚àA‚Æ‚Ä‚à–Z‚µ‚¢‚±‚Æ‚ğD‚İ‚Ü‚·B	He prefers being very busy to having nothing to do.		
+GU059S013	1	59	9_ing and to 1	”Ş‚Í‰½‚à‚·‚é‚±‚Æ‚ª‚È‚¢‚æ‚è‚ÍA‚Æ‚Ä‚à–Z‚µ‚¢‚±‚Æ‚ğD‚İ‚Ü‚·B	He prefers to ve very busy rather than have nothing to do.		
+GU059S014	1	59	9_ing and to 1	”Ş—‚Íˆêl‚Åd–‚ğ‚·‚é‚æ‚è‚àA‘¼‚Ìl‚Æˆê‚Éd–‚ğ‚·‚é‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers working with other people to working on her own.		
+GU059S015	1	59	9_ing and to 1	”Ş—‚Íˆêl‚Å“­‚­‚æ‚è‚àA‘¼‚Ìl‚Æˆê‚É“­‚­‚±‚Æ‚ğD‚İ‚Ü‚·B	She prefers to work with other people rather than on her own.		
+GU059S016	1	59	9_ing and to 1	A: g’ƒ‚ÆƒR[ƒq[‚Ç‚Á‚¿‚ª‚¢‚¢‚Å‚·‚©? B: ƒR[ƒq[‚ğ‚­‚¾‚³‚¢B	"A: Would you prefer tea or coffee? B: Coffee, please."		
+GU059S017	1	59	9_ing and to 1	A: “dÔ‚Ås‚«‚Ü‚µ‚å‚¤‚©H B: „‚Í‰^“]‚·‚é‚Ù‚¤‚ªD‚«‚Å‚·B	A: Shall we go by train? B: I'd prefer to drive.		
+GU059S018	1	59	9_ing and to 1	¡–é‚Í‰f‰æŠÙ‚És‚­‚æ‚è‰Æ‚É‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	I'd prefer to stay at home tonight rather than go to the cinema.		
+GU059S019	1	59	9_ing and to 1	A: •à‚¢‚Ä‹A‚è‚Ü‚µ‚å‚¤‚©H B: ƒ^ƒNƒV[‚Éæ‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB	A: Shall we walk home? B: I'd prefer to get a taxi.		
+GU059S020	1	59	9_ing and to 1	A: À‚Á‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚·‚©H B: —§‚Á‚Ä‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·A‚ ‚è‚ª‚Æ‚¤B	"A: Would you like to sit down? B: I'd prefer to stand, thank you."		
+GU059S021	1	59	9_ing and to 1	A: ‰f‰æ‚ğŒ©‚Ü‚¹‚ñ‚©? B: ‰¹Šy‚ğ’®‚«‚½‚¢‚Ì‚Å‚·‚ªB	A: Would you like to watch a movie? B: I'd prefer to listen to some music.		
+GU059S022	1	59	9_ing and to 1	A: ƒŒƒXƒgƒ‰ƒ“‚És‚«‚½‚¢‚Å‚·‚©? B: ‰Æ‚ÅH‚×‚½‚¢‚Å‚·B	A: Do you want to go to a restaurant? B: I'd prefer to eat at home.		
+GU059S023	1	59	9_ing and to 1	A: ¡Œˆ‚ß‚é‚×‚«‚¾‚Æv‚¢‚Ü‚·B B: ‚µ‚Î‚ç‚­l‚¦‚Ä‚İ‚½‚¢‚Æv‚¢‚Ü‚·B	A: I think we should decide now. B: I'd prefer to think about it for a while.		
+GU059S024	1	59	9_ing and to 1	A: ˆê‚É—ˆ‚Ä‚à‚¢‚¢‚Å‚·‚©H B: ˆêl‚Ås‚«‚½‚¢‚Å‚·B	A: Do you want me to come with you? B: I'd prefer to go alone.		
+GU059S025	1	59	9_ing and to 1	A: “dÔ‚Ås‚«‚Ü‚µ‚å‚¤‚©H B: „‚Í‚Ş‚µ‚ë‰^“]‚µ‚½‚¢‚Å‚·B	A: Shall we go by train? B: I'd rather drive.	l'd prefer to drive.	
+GU059S026	1	59	9_ing and to 1	‰Æ‚É‚¢‚é‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©A‚»‚ê‚Æ‚àŠOo‚µ‚Ü‚·‚©?	Would you rather stay at home or go out?	Would you prefer to stay at home or go out?	
+GU059S027	1	59	9_ing and to 1	„‚Í”æ‚ê‚Ä‚¢‚éB ¡–é‚ÍŠOo‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	I'm tired. I'd rather not go out tonight.		
+GU059S028	1	59	9_ing and to 1	A: ¡–éŠOo‚µ‚Ü‚¹‚ñ‚©? B: ‚â‚ß‚½‚Ù‚¤‚ª‚¢‚¢‚æB	A: Do you want to go out tonight? B: I'd rather not.		
+GU059S029	1	59	9_ing and to 1	¡–é‚Í‰f‰æŠÙ‚És‚­‚æ‚è‰Æ‚É‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	I'd rather stay at home tonight than go to the cinema.		
+GU059S030	1	59	9_ing and to 1	¡‚·‚®o”­‚µ‚Ü‚µ‚å‚¤‚©A‚»‚ê‚Æ‚à”•ª‘Ò‚Á‚Ä‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©?	"Shall we leave now, or would you prefer to wait a few minutes?"		
+GU059S031	1	59	9_ing and to 1	‰J‚Ì’†‚ÍŠOo‚µ‚½‚­‚È‚¢B ‚»‚ê‚ª~‚Ü‚é‚Ü‚Å‘Ò‚Á‚½•û‚ª‚¢‚¢‚Å‚·B	I don't want to go out in the rain. I'd rather wait until it stops.		
+GU059S032	1	59	9_ing and to 1	‚±‚±‚ÉÀ‚è‚Ü‚µ‚å‚¤‚©A‚»‚ê‚Æ‚à‘‹Û‚ÉÀ‚Á‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©H	"Shall we sit here, or would you rather sit by the window?"		
+GU059S033	1	59	9_ing and to 1	‚Ü‚¾H‚×‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B ‚¨‚È‚©‚ª‚·‚¢‚Ä‚¢‚È‚¢B	I'd rather not eat yet. I'm not hungry.		
+GU059S034	1	59	9_ing and to 1	‰½‚ğ‚µ‚½‚¢‚Å‚·‚©? ƒVƒ‡ƒbƒsƒ“ƒO‚És‚«‚Ü‚·‚©A‚»‚ê‚Æ‚àƒr[ƒ`‚És‚«‚Ü‚·‚©H	What would you prefer to do ? Go shopping or go to the beach?		
+GU059S035	1	59	9_ing and to 1	„‚ÍƒIƒ“ƒ‰ƒCƒ“‚Å•¨‚ğ”ƒ‚¤‚æ‚è‚àA”ƒ‚¢•¨‚És‚­‚Ù‚¤‚ªD‚«‚Å‚·B	I'd rather go shopping than buy things online.		
+GU059S036	1	59	9_ing and to 1	„‚Í‚ ‚Ü‚è_‚ç‚©‚¢ƒxƒbƒh‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB „‚Í°‚ÅQ‚½‚¢‚Å‚·B	I don't like very soft beds. I'd prefer to sleep on the floor.		
+GU059S037	1	59	9_ing and to 1	‚Ş‚µ‚ë‰½‚ğ‚µ‚½‚¢‚Å‚·‚©H –{‚ğ“Ç‚ñ‚¾‚èƒeƒŒƒr‚ğŒ©‚½‚è‚µ‚Ü‚·‚©H	What would you rather do? Read a book or watch TV?		
+GU059S038	1	59	9_ing and to 1	„‚ÍƒIƒtƒBƒX‚Å“­‚­‚æ‚è‰®ŠO‚Å“­‚«‚½‚¢‚Å‚·B	I'd rather work outdoors than work in an office.		
+GU059S039	1	59	9_ing and to 1	‡‚És‚«‚½‚­‚È‚¢B ƒeƒŒƒr‚ÅŒ©‚½‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	I don't want to go to the game. I'd prefer to watch it on TV.		
+GU059S040	1	59	9_ing and to 1	A: ‚ ‚È‚½‚Æ„A‚Ç‚¿‚ç‚ª‰^“]‚µ‚Ü‚·‚©? B: ‚Ş‚µ‚ë‚ ‚È‚½‚ª‰^“]‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB	"A: Who's going to drive, you or me? B: I'd rather you drove."		
+GU059S041	1	59	9_ing and to 1	A: ƒWƒƒƒbƒN‚Í–¾“ú‚ ‚È‚½‚Ì©“]Ô‚ğC—‚·‚é‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·‚ËB B: ‚Ş‚µ‚ë¡“ú‚Í‚»‚¤‚µ‚Ä‚Ù‚µ‚©‚Á‚½‚Å‚·‚ËB	"A: Jack says he'll repair your bike tomorrow, OK? B: I'd rather he did it today."		
+GU059S042	1	59	9_ing and to 1	ƒAƒ“ƒi‚É‰½‚ª‹N‚±‚Á‚½‚Ì‚©˜b‚·‚Â‚à‚è‚Å‚·‚©A‚»‚ê‚Æ‚à„‚ª”Ş—‚É˜b‚µ‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©H	"Are you going to tell Anna what happened, or would you rather I told her?"		
+GU059S043	1	59	9_ing and to 1	‚Ş‚µ‚ë¡‚©‚ç—[H‚ğì‚è‚½‚¢‚Æv‚¢‚Ü‚·B	I'd rather make dinner now.		
+GU059S044	1	59	9_ing and to 1	‚Ş‚µ‚ëA¡‚©‚ç—[H‚ğì‚Á‚Ä‚à‚ç‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	I'd rather you made dinner now.		
+GU059S045	1	59	9_ing and to 1	„‚ªŒ¾‚Á‚½‚±‚Æ‚Í’N‚É‚àŒ¾‚í‚È‚¢‚Å‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	I'd rather you didn't tell anyone what I said.		
+GU059S046	1	59	9_ing and to 1	A: ƒAƒ“ƒi‚É‰½‚ª‹N‚±‚Á‚½‚Ì‚©˜b‚µ‚Ü‚µ‚å‚¤‚©? B: ‚»‚¤‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB	A: Shall I tell Anna what happened? B: I'd rather you didn't.		
+GU059S047	1	59	9_ing and to 1	A: ƒAƒ“ƒi‚É‰½‚ª‹N‚±‚Á‚½‚Ì‚©˜b‚·‚Â‚à‚è‚Å‚·‚©? B: ‚¢‚¢‚¦A‚Ş‚µ‚ë”Ş—‚É‚Í’m‚ç‚ê‚È‚¢‚Ù‚¤‚ª‚æ‚©‚Á‚½‚Å‚·B	A: Are you going to tell Anna what happened? B: No. I'd rather she didn't know.		
+GU059S048	1	59	9_ing and to 1	¡–é‚ÍŠOo‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	l'd rather not go out tonight.		
+GU059S049	1	59	9_ing and to 1	¡–é‚ÍŠOo‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	I'd rather you didn't go out tonight.		
+GU059S050	1	59	9_ing and to 1	–]‚Ş‚È‚ç‚±‚±‚É‚¢‚Ä‚à‚¢‚¢‚¯‚ÇA‚Ş‚µ‚ëˆê‚É—ˆ‚Ä‚Ù‚µ‚¢B	"You can stay here if you want to, but I'd rather you came with us."		
+GU059S051	1	59	9_ing and to 1	ƒWƒƒƒbƒN‚Í—ˆT‚¨‹à‚ğ‚­‚ê‚é‚ÆŒ¾‚Á‚½‚¯‚ÇA¡‚·‚®‚à‚ç‚Á‚½‚Ù‚¤‚ª‚¢‚¢‚æB	"Jack said he'd give us the money next week, but I'd rather we had it now."		
+GU059S052	1	59	9_ing and to 1	¡˜b‚µ‚Ä‚à‘åä•v‚Å‚·‚©A‚»‚ê‚Æ‚àŒã‚Å‚©‚¯’¼‚µ‚½‚Ù‚¤‚ª‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©?	"Is it OK to talk now, or would you rather I called back later?"		
+GU059S053	1	59	9_ing and to 1	“V‹C‚Í—Ç‚¢‚Å‚·‚ªA‚à‚¤­‚µ’g‚©‚­‚È‚é‚ÆŠğ‚µ‚¢‚Å‚·B	"The weather here is OK, but I'd rather it was a little warmer."		
+GU059S054	1	59	9_ing and to 1	^À‚ğ’m‚è‚½‚¢‚Å‚·‚©A‚»‚ê‚Æ‚àŒ¾‚í‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©H	"Do you want to know the truth, or would you rather I didn't tell you?"		
+GU059S055	1	59	9_ing and to 1	„‚Í”ƒ‚¢•¨‚ğ‚·‚é‚Ì‚ªŒ™‚¢‚Å‚·B ‚Ş‚µ‚ë‘¼‚Ìl‚ª‚â‚Á‚Ä‚­‚ê‚ê‚Î‚æ‚©‚Á‚½‚Ì‚ÉB	I hate doing the shopping. I'd rather somebody else did it.		
+GU059S056	1	59	9_ing and to 1	¡‚·‚®s‚Á‚Ä‚Ù‚µ‚¢‚Å‚·‚©A‚»‚ê‚Æ‚à‚±‚±‚É‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©H	"Do you want me to go now, or would you rather I stayed here?"		
+GU059S057	1	59	9_ing and to 1	ŠOo‚µ‚½‚¢‚Å‚·‚©A‚»‚ê‚Æ‚à‰Æ‚É‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚©?	"Do you want to go out, or would you rather stay at home?"		
+GU059S058	1	59	9_ing and to 1	‚±‚ê‚Í„“I‚È–â‘è‚Å‚·B ‘¼‚Ìl‚É‚ÍŒ¾‚í‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Æv‚¢‚Ü‚·B	This is a private matter. I'd rather you didn't tell anybody else.		
+GU059S059	1	59	9_ing and to 1	ƒWƒƒƒbƒN‚ÆƒX[‚È‚µ‚ÉŒˆ’f‚ğ‰º‚µ‚½‚­‚È‚¢‚Ì‚Å‚·B ‚Ş‚µ‚ë”Ş‚ç‚ª‚±‚±‚É‚¢‚½•û‚ª‚æ‚©‚Á‚½B	I'd prefer not to make a decision without Jack and Sue. I'd rather they were here.		
+GU059S060	1	59	9_ing and to 1	„‚Í‚±‚Ì”Ô‘g‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB ‚Ş‚µ‚ëŒ©‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	I don't like this programme. I'd rather not watch it.		
+GU059S061	1	59	9_ing and to 1	A: ‘‹‚ğŠJ‚¯‚Ä‚à‚æ‚ë‚µ‚¢‚Å‚µ‚å‚¤‚©? B: ‚»‚¤‚µ‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·‚ËB Š¦‚¢‚Å‚·B	A: Do you mind if I open the window? B: I'd rather you didn't. I'm cold.		
+GU060S001	1	60	9_ing and to 1	„‚½‚¿‚Å“­‚­‚±‚Æ‚É‹»–¡‚ª‚ ‚è‚Ü‚·‚©?	Are you interested in working for us?		
+GU060S002	1	60	9_ing and to 1	„‚ÍŒ¾Œê‚ğŠw‚Ô‚Ì‚ª‹êè‚Å‚·B	I'm not good at learning languages.		
+GU060S003	1	60	9_ing and to 1	ƒX[‚Í•×‹­‚É‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚é‚Éˆá‚¢‚È‚¢B	Sue must be fed up with studying.		
+GU060S004	1	60	9_ing and to 1	–¾“ú‚Ìƒ‰ƒ“ƒ`‰ï‚Í‚Ç‚¤‚Å‚·‚©H	How about meeting for lunch tomorrow?		
+GU060S005	1	60	9_ing and to 1	‰Æ‚Å‰½‚à‚¹‚¸‚ÉÀ‚Á‚Ä‚¢‚é‚æ‚èA‰½‚©‚ğ‚µ‚Ä‚İ‚Ü‚¹‚ñ‚©H	Why don't you do something instead of sitting at home doing nothing?		
+GU060S006	1	60	9_ing and to 1	ƒGƒCƒ~[‚Í‹C•ª‚ªˆ«‚©‚Á‚½‚É‚à‚©‚©‚í‚ç‚¸d–‚És‚«‚Ü‚µ‚½B	Amy went to work in spite of feeling ill.		
+GU060S007	1	60	9_ing and to 1	lX‚ª„‚É‰½‚ğ‚·‚×‚«‚©‚ğŒ¾‚¤‚Ì‚É‚Í‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚Ü‚·B	I'm fed up with people telling me what to do.		
+GU060S008	1	60	9_ing and to 1	‚»‚Ìd–‚É‰•å‚·‚é‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB ‚»‚Ìd–‚É‰•å‚·‚é‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB	I don't intend to apply for the job. I have no intention of applying for the job.		
+GU060S009	1	60	9_ing and to 1	ƒwƒŒƒ“‚Í–¼‘O‚Ì‹L‰¯—Í‚ª—Ç‚¢‚Å‚·B ƒwƒŒƒ“‚Í–¼‘O‚ğŠo‚¦‚é‚Ì‚ª“¾ˆÓ‚Å‚·B	Helen has a good memory for names. Helen is good at remembering names.		
+GU060S010	1	60	9_ing and to 1	Ô‚ª‚ ‚é‚Æ‚È‚º•Ö—˜‚Å‚·‚©? Ô‚ğ‚ÂƒƒŠƒbƒg‚Í‰½‚Å‚·‚©H	Why is it useful to have a car? What are the advantages of having a car?		
+GU060S011	1	60	9_ing and to 1	¡–é‰f‰æ‚És‚«‚Ü‚¹‚ñ‚©H ¡–é‰f‰æ‚És‚­‚Ì‚Í‚Ç‚¤‚Å‚·‚©H	Shall we go to the cinema tonight? How about going to the cinema tonight?		
+GU060S012	1	60	9_ing and to 1	‚¨‚»‚ç‚­•ó‚­‚¶‚Í“–‚½‚ç‚È‚¢‚Å‚µ‚å‚¤B •ó‚­‚¶‚É“–‚½‚éƒ`ƒƒƒ“ƒX‚Í‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB	You probably won't win the lottery. You don't have much chance of winning the lottery.		
+GU060S013	1	60	9_ing and to 1	Šy‚µ‚Ş‚Ì‚ÍOK‚Å‚·B Šy‚µ‚Ş‚±‚Æ‚É‰½‚à–â‘è‚Í‚ ‚è‚Ü‚¹‚ñB	It's OK to enjoy yourself. There's nothing wrong with enjoying yourself.		
+GU060S014	1	60	9_ing and to 1	‚Æ‚Ä‚àeØ‚Å‚µ‚½B ‘å•Ï‚¨¢˜b‚É‚È‚è‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B	You were very kind. Thank you very much for helping us.		
+GU060S015	1	60	9_ing and to 1	“ü‰ï‚É‚²‹»–¡‚ª‚²‚´‚¢‚Ü‚µ‚½‚çAƒNƒ‰ƒu‚ÉŠÖ‚·‚éî•ñ‚ğ‚²ˆÄ“à‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	I can give you some information about the club if you're interested in joining.		
+GU060S016	1	60	9_ing and to 1	ƒGƒCƒ~[‚Í90Î‚ğ’´‚¦‚Ä‚¢‚é‚É‚à‚©‚©‚í‚ç‚¸A¡‚Å‚àŒ³‹C‚ÅŒ’N‚Å‚·B	Amy is still fit and healthy despite being over 90 years old.		
+GU060S017	1	60	9_ing and to 1	—Ç‚¢’©‚Å‚·B U•à‚És‚­‚Ì‚Í‚Ç‚¤‚Å‚·‚©H	It's a nice morning. How about going for a walk?		
+GU060S018	1	60	9_ing and to 1	¶Ü‚¹‚¸‚É’¼i‚µ‚½‚½‚ßA–À‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	We got lost because we went straight on instead of turning left.		
+GU060S019	1	60	9_ing and to 1	‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚Ì‚©Œˆ‚ß‚ç‚ê‚È‚¢B „‚ÍŒˆ’f‚ğ‰º‚·‚Ì‚ª‚ ‚Ü‚è“¾ˆÓ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I can't decide what to do. I'm not very good at making decisions.		
+GU060S020	1	60	9_ing and to 1	’x‚µ‚Äƒgƒ‰ƒuƒ‹‚É‚È‚è‚Ü‚µ‚½‚©H	Did you get into trouble for being late?		
+GU060S021	1	60	9_ing and to 1	„‚ÍƒeƒŒƒr‚ğŒ©‚é‚±‚Æ‚É‰½‚à”½‘Î‚µ‚Ü‚¹‚ñ‚ªAƒeƒŒƒr‚ğŒ©‚·‚¬‚él‚à‚¢‚Ü‚·B	"I have nothing against watching TV, but some people watch it too much."		
+GU060S022	1	60	9_ing and to 1	o‚©‚¯‚é‘O‚ÉƒTƒ‰‚É“d˜b‚µ‚Ü‚µ‚½B	"Before going out, I phoned Sarah."		
+GU060S023	1	60	9_ing and to 1	ŠwZ‚ğ«‚ß‚½Œã‚Í‰½‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½‚©H	What did you do after leaving school?		
+GU060S024	1	60	9_ing and to 1	o‚©‚¯‚é‘O‚ÉƒTƒ‰‚É“d˜b‚µ‚Ü‚µ‚½B	"Before I went out, I phoned Sarah."		
+GU060S025	1	60	9_ing and to 1	ŠwZ‚ğo‚½Œã‚Í‰½‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½‚©H	What did you do after you left school?		
+GU060S026	1	60	9_ing and to 1	‚à‚Á‚Æ“Ç‚Ş‚±‚Æ‚Å‰pŒê—Í‚ğŒüã‚³‚¹‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B	You can improve your English by reading more.		
+GU060S027	1	60	9_ing and to 1	”Ş—‚Í‚«‚¿‚ñ‚ÆH–‚ğ‚Æ‚ç‚È‚©‚Á‚½‚½‚ß‚É•a‹C‚É‚È‚Á‚½B	She made herself ill by not eating properly.		
+GU060S028	1	60	9_ing and to 1	‘½‚­‚Ì–ŒÌ‚ÍAƒXƒs[ƒh‚Ìo‚µ‚·‚¬‚É‚æ‚Á‚Äˆø‚«‹N‚±‚³‚ê‚Ü‚·B	Many accidents are caused by people driving too fast.		
+GU060S029	1	60	9_ing and to 1	‹ğ‚©‚È”­Œ¾‚Å‚µ‚½B v‚í‚¸Œ¾‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	It was a stupid thing to say. I said it without thinking.		
+GU060S030	1	60	9_ing and to 1	”Ş—‚Íl‚É×–‚‚³‚ê‚¸‚É“­‚­•K—v‚ª‚ ‚éB	She needs to work without people disturbing her.	She needs to work without being disturbed.	
+GU060S031	1	60	9_ing and to 1	‚ ‚È‚½‚Ì‚±‚Æ‚ğS”z‚µ‚È‚­‚Ä‚àA„©g‚Ì–â‘è‚Í\•ª‚É‚ ‚è‚Ü‚·B	I have enough problems of my own without having to worry about yours.		
+GU060S032	1	60	9_ing and to 1	‹­“‚Í‘‹‚ğŠ„‚Á‚Ä‰Æ‚ÉN“ü‚µ‚½B	The burglars got into the house by breaking a window.		
+GU060S033	1	60	9_ing and to 1	ˆÖq‚Ìã‚É—§‚Á‚Äˆê”Ôã‚Ì’I‚É“’B‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	I was able to reach the top shelf by standing on a chair.		
+GU060S034	1	60	9_ing and to 1	¶‘¤‚Ìƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚ÄƒRƒ“ƒsƒ…[ƒ^‚Ì“dŒ¹‚ğ“ü‚ê‚Ü‚·B	You turn the computer on by pressing the button on the left.		
+GU060S035	1	60	9_ing and to 1	ƒPƒrƒ“‚Í‚¨‹à‚ğØ‚è‚·‚¬‚ÄŒoÏ“I¢“ï‚ÉŠ×‚è‚Ü‚µ‚½B	Kevin got himself into financial trouble by borrowing too much money.		
+GU060S036	1	60	9_ing and to 1	ƒXƒs[ƒh‚ğo‚µ‚·‚¬‚ÄlX‚Ì–½‚ğŠëŒ¯‚É‚³‚ç‚µ‚Ü‚·B	You put people's lives in danger by driving too fast.		
+GU060S037	1	60	9_ing and to 1	„‚½‚¿‚Í•Ç‚ÉÊ^‚ğü‚é‚±‚Æ‚Å•”‰®‚ğ‚æ‚è‘f“G‚ÉŒ©‚¹‚Ü‚µ‚½B	We made the room look nicer by putting some pictures on the wall.		
+GU060S038	1	60	9_ing and to 1	Q‚é‘O‚É‰·‚©‚¢ˆù‚İ•¨‚ğˆù‚Ş‚Ì‚ªD‚«‚Å‚·B	"Before going to bed, I like to have a hot drink."		
+GU060S039	1	60	9_ing and to 1	ƒ_ƒ“‚Í—¿‹à‚ğx•¥‚í‚¸‚Éƒzƒeƒ‹‚ğo‚Ü‚µ‚½B	Dan left the hotel without paying his bill.		
+GU060S040	1	60	9_ing and to 1	’·—·‚ÅA12ŠÔ‚à“dÔ‚Éæ‚Á‚Ä‚¢‚½‚Ì‚Å”æ‚ê‚Ü‚µ‚½B	"It was a long trip, and we were tired after being on a train for 12 hours."		
+GU060S041	1	60	9_ing and to 1	„‚Í«‘‚ğg‚í‚¸‚É‚»‚Ìè†‚ğ–|–ó‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	I was able to translate the letter without using a dictionary.		
+GU060S042	1	60	9_ing and to 1	10 ”NŠÔ“¯‚¶d–‚ğ‚µ‚½ŒãAƒGƒŠ[‚Í•Ï‰»‚ª•K—v‚¾‚ÆŠ´‚¶‚Ü‚µ‚½B	"After doing the same job for ten years, Elly felt she needed a change."		
+GU060S043	1	60	9_ing and to 1	„‚Í’N‚É‚àŒ©‚ç‚ê‚é‚±‚Æ‚È‚­‚È‚ñ‚Æ‚©Œš•¨‚É“ü‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	I managed to enter the building without anybody seeing me.		
+GU060S044	1	60	9_ing and to 1	d—v‚ÈŒˆ’è‚ğ‰º‚·‘O‚ÉATd‚Él‚¦‚½‚Ù‚¤‚ª‚æ‚¢‚Å‚µ‚å‚¤B	It's better to think carefully before making an important decision.		
+GU060S045	1	60	9_ing and to 1	•G‚ğ‹È‚°‚¸‚É‚Â‚Üæ‚ğG‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·‚©H	Can you touch your toes without bending your knees?		
+GU060S046	1	60	9_ing and to 1	„‚½‚¿‚Í“dÔ‚Å—·s‚·‚é‚±‚Æ‚É‚µ‚Ü‚µ‚½B	We decided to travel by train.		
+GU060S047	1	60	9_ing and to 1	–¾“úƒ‰ƒ“ƒ`‚É‰ï‚¢‚Ü‚¹‚ñ‚©H	Would you like to meet for lunch tomorrow?		
+GU060S048	1	60	9_ing and to 1	„‚½‚¿‚ÍƒpƒŠ‚©‚çƒWƒ…ƒl[ƒu‚Ü‚Å—·s‚µ‚Ü‚µ‚½B	We travelled from Paris to Geneva.		
+GU060S049	1	60	9_ing and to 1	„‚ÍƒR[ƒq[‚æ‚èg’ƒ‚Ì•û‚ªD‚«‚Å‚·B	I prefer tea to coffee.		
+GU060S050	1	60	9_ing and to 1	‹x“ú‚ğŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·‚©H	Are you looking forward to your holiday?		
+GU060S051	1	60	9_ing and to 1	“dÔ‚Å‚Ì—·s‚É‚Í‚¤‚ñ‚´‚è‚Å‚·B	I'm fed up with travelling by train.		
+GU060S052	1	60	9_ing and to 1	¡T––‚Ç‚±‚©‚Éo‚©‚¯‚Ä‚İ‚Ü‚¹‚ñ‚©H	How about going away this weekend?		
+GU060S053	1	60	9_ing and to 1	„‚Í“dÔ‚Å—·s‚·‚é‚æ‚è‚àÔ‚Å—·s‚·‚é‚Ì‚ªD‚«‚Å‚·B	I prefer driving to travelling by train.		
+GU060S054	1	60	9_ing and to 1	‹x‰É‚És‚­‚Ì‚ğŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·‚©H	Are you looking forward to going on holiday?		
