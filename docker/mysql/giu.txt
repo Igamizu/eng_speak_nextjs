@@ -3510,3 +3510,430 @@ GU060S051	1	60	9_ing and to 1	電車での旅行にはうんざりです。	I'm 
 GU060S052	1	60	9_ing and to 1	今週末どこかに出かけてみませんか？	How about going away this weekend?		
 GU060S053	1	60	9_ing and to 1	私は電車で旅行するよりも車で旅行するのが好きです。	I prefer driving to travelling by train.		
 GU060S054	1	60	9_ing and to 1	休暇に行くのを楽しみにしていますか？	Are you looking forward to going on holiday?		
+GU061S001	1	61	10_ing and to 2	彼女はそれに慣れていませんでした。	She wasn't used to it.		
+GU061S002	1	61	10_ing and to 2	彼女は左側通行に慣れていなかった。	She wasn't used to driving on the left.		
+GU061S003	1	61	10_ing and to 2	彼女は左側通行に慣れた。	She got used to driving on the left.		
+GU061S004	1	61	10_ing and to 2	彼女は左側通行に慣れています。	She is used to driving on the left.		
+GU061S005	1	61	10_ing and to 2	マークは多くの新しいこと、特に食べ物に慣れる必要がありました。 最初は嫌がりましたが、今は大丈夫です。 彼はそれに慣れています。	"Mark had to get used to many new things, especially the food. He didn't like it at first, but it's OK now. He's used to it."		
+GU061S006	1	61	10_ing and to 2	当初、ジェシカは夜勤に慣れておらず、慣れるまでに数か月かかりました。 さて、それは彼女にとって問題ではありません。 彼女は夜働くことに慣れている。	"At first Jessica wasn?t used to working nights and it took her a few months to get used to it. Now, it's not a problem for her. She's used to working nights."		
+GU061S007	1	61	10_ing and to 2	ジャックがこの仕事を始めたとき、毎朝 2 時間運転することに慣れていませんでした。 しばらくすると、彼はそれに慣れて、今では大丈夫です。 彼は毎朝２時間運転することに慣れている。	"When Jack started this job, he wasn't used to driving two hours every morning. After some time, he got used to it and now it's OK for him. He is used to driving two hours every morning."		
+GU061S008	1	61	10_ing and to 2	ポールは一人暮らしをしています。 彼は15年間一人暮らしをしているので、それは不思議ではありません。 彼はそれに慣れています。 彼は一人暮らしには慣れている。	"Paul lives alone. He has lived alone for 15 years, so it is not strange for him. He's used to it. He's used to living alone."		
+GU061S009	1	61	10_ing and to 2	新しい靴を買いました。 慣れていないので最初は少し違和感がありました。	I bought some new shoes. They felt a little strange at first because I wasn't used to them.		
+GU061S010	1	61	10_ing and to 2	私たちの新しいアパートは交通量の多い通りにあります。 騒音には慣れると思いますが、現時点では非常に不快です。	"Our new apartment is on a busy street. I expect we'll get used to the noise, but at the moment it's very disturbing."		
+GU061S011	1	61	10_ing and to 2	キャサリンの夫は家を空けることが多いです。 彼女はそれを気にしません。 彼女は彼がいないことに慣れている。	Katherine's husband is often away from home. She doesn't mind this. She's used to him being away.		
+GU061S012	1	61	10_ing and to 2	友達：ここはどうですか？ あなた：とても忙しいですね。 私は人混みに慣れていない。	FRIEND: How do you like it here? YOU: It's very busy. I'm not used to crowds.		
+GU061S013	1	61	10_ing and to 2	友人：あなたはとても一生懸命に働いているんですね。 あなた：はい、でも私は一生懸命働くことに慣れています。	"FRIEND: You work very hard, don't you? YOU: Yes, but I'm used to working hard."		
+GU061S014	1	61	10_ing and to 2	友達: 新しい携帯電話に問題がありますか? あなた：はい、まだ慣れていません。	"FRIEND: Are you having problems with your new phone? YOU: Yes, I'm not used to it yet."		
+GU061S015	1	61	10_ing and to 2	友達：ベッドで寝たくない？ あなた：いいえ、床で寝るのには慣れています。	"FRIEND: Wouldn't you prefer to sleep in a bed? YOU: No, I'm used to sleeping on the floor."		
+GU061S016	1	61	10_ing and to 2	友人: 今朝はとても疲れているようですね。 あなた：はい、そんなに早起きするのには慣れていません。	"FRIEND: You look very tired this morning. YOU: Yes, I'm not used to getting up so early."		
+GU061S017	1	61	10_ing and to 2	アンナは数年前にイギリスに住み始めました。 彼女は初めて来たときも天気が好きではありませんでしたし、今でも天気が好きではありません。 彼女は天気に慣れることができません。	"Anna went to live in Britain a few years ago. She didn't like the weather when she first came, and she still doesn't like it. She can't get used to the weather."		
+GU061S018	1	61	10_ing and to 2	スーは大きな家からずっと小さな家に引っ越しました。 彼女は最初それが奇妙だと感じました。 彼女はもっと小さな家に住むことに慣れる必要がありました。	Sue moved from a big house into a much smaller one. She found it strange at first. She had to get used to living in a much smaller house.		
+GU061S019	1	61	10_ing and to 2	子供たちは学校に新しい先生を迎えました。 彼女は前の先生とは違いましたが、それは子供たちにとって問題ではありませんでした。 彼らは新しい先生にすぐに慣れました。	"The children got a new teacher at school. She was different from the teacher before her, but this wasn't a problem for the children. They got used to their new teacher very quickly."		
+GU061S020	1	61	10_ing and to 2	ベンは最近までどこへでも車を運転していましたが、車を売ったばかりです。 これからは歩くかバスに乗らなければなりません。 彼は歩くかバスに乗ることに慣れる必要があるだろう。	"Until recently Ben drove everywhere, but he has just sold his car. Now he'll have to walk or take the bus. He'll have to get used to walking or taking the bus."		
+GU061S021	1	61	10_ing and to 2	リーさんは新しい仕事に就いたが、新しい給料はずっと減った。 彼はお金が少ないことに慣れなければなりませんでした。	"Lee got a new job, but his new salary was much less. He had to get used to having less money."		
+GU061S022	1	61	10_ing and to 2	リサは左側通行に慣れています。	Lisa is used to driving on the left.		
+GU061S023	1	61	10_ing and to 2	ポールは一人暮らしに慣れています。	Paul is used to living alone.		
+GU061S024	1	61	10_ing and to 2	私たちは騒音に慣れていません。	We're not used to the noise.		
+GU061S025	1	61	10_ing and to 2	私たちはそれに慣れていません。	We're not used to it.		
+GU061S026	1	61	10_ing and to 2	私たちはここでの生活に慣れていません。	We're not used to living here.		
+GU061S027	1	61	10_ing and to 2	私たちはここには住みたくないのです。	We don't want to live here.		
+GU061S028	1	61	10_ing and to 2	私は孤独ではありません。 他の人は必要ありません。 私は一人でいることに慣れています。	I'm not lonely. I don't need other people. I'm used to being on my own.		
+GU061S029	1	61	10_ing and to 2	気分が良くありません。 こんなに遅く寝るのには慣れていないので、午前3時まで起きていました。	I don't feel good. I stayed up until 3 a.m. I'm not used to going to bed so late.		
+GU061S030	1	61	10_ing and to 2	明日、私は新しい仕事を始めます。 新しい人たちと仕事をすることに慣れなければなりません。	Tomorrow I start a new job. I'll have to get used to working with new people.		
+GU061S031	1	61	10_ing and to 2	私は疲れている。 これ以上先には進めません。 ここまで歩くことに慣れていない。	I'm tired. I can't go any further. I'm not used to walking so far.		
+GU061S032	1	61	10_ing and to 2	私は町のこの部分が好きです。 私はここに長い間住んでいるから、ここでの生活には慣れている。	"I like this part of town. I've been here a long time, so I'm used to living here."		
+GU061S033	1	61	10_ing and to 2	昼食には早すぎます。 まだお腹は空いていません。 そんなに早く食べるのには慣れていない。	It's too early to have lunch. I'm not hungry yet. I'm not used to eating so early.		
+GU061S034	1	61	10_ing and to 2	ここの天気には慣れています。	I'm used to the weather here.		
+GU061S035	1	61	10_ing and to 2	私はイギリスに長く住んでいるので左側通行には慣れています。	I'm used to driving on the left because I've lived in Britain a long time.		
+GU061S036	1	61	10_ing and to 2	以前は毎日車で通勤していましたが、最近は自転車で行くことが多いです。	"I used to drive to work every day, but these days I usually go by bike."		
+GU061S037	1	61	10_ing and to 2	私たちは以前は町のすぐ外に住んでいましたが、今は中心部近くに住んでいます。	"We used to live just outside the town, but now we live near the centre."		
+GU061S038	1	61	10_ing and to 2	ダンはよくコーヒーを飲んでいました。 今では彼はお茶の方が好きです。	Dan used to drink a lot of coffee. Now he prefers tea.		
+GU061S039	1	61	10_ing and to 2	食事の後はとても満腹感があります。 あまり食べることに慣れていないんです。	I feel very full after that meal. I'm not used to eating so much.		
+GU061S040	1	61	10_ing and to 2	ルームシェアしたくないです。 私は自分の部屋を持つことに慣れています。	I wouldn't like to share a room. I'm used to having my own room.		
+GU061S041	1	61	10_ing and to 2	私は以前車を持っていましたが、数か月前に売りました。	"I used to have a car, but I sold it a few months ago."		
+GU061S042	1	61	10_ing and to 2	私たちは子供の頃、よく泳ぎに行っていました。	"When we were children, we used to go swimming very often."		
+GU061S043	1	61	10_ing and to 2	エマとクリスは長い間一緒に働いてきました。 彼らはお互いのことをよく知っており、一緒に働くことに慣れています。	Emma and Chris have worked together for a long time. They know each other well and they're used to working together.		
+GU061S044	1	61	10_ing and to 2	ここにはかつて学校があったのですが、取り壊されてしまいました。	"There used to be a school here, but it was knocked down."		
+GU061S045	1	61	10_ing and to 2	私がここのボスです！ 私は何をすべきかを指示されることに慣れていません。	I'm the boss here! I'm not used to being told what to do.		
+GU061S046	1	61	10_ing and to 2	私たちは小さな村に住んでいました。 私たちは数年前にロンドンに引っ越しました。	We used to live in a small village. We moved to London a few years ago.		
+GU061S047	1	61	10_ing and to 2	ロンドンに引っ越したとき、私たちは大都市での生活に慣れる必要がありました。	"When we moved to London, we had to get used to living in a big city."		
+GU062S001	1	62	10_ing and to 2	私たちはその問題について話し合いました。	We talked about the problem.		
+GU062S002	1	62	10_ing and to 2	私は自分の言ったことについて謝罪した。	I apologised for what I said.		
+GU062S003	1	62	10_ing and to 2	私たちはオーストラリアに行くことについて話しました。	We talked about going to Australia.		
+GU062S004	1	62	10_ing and to 2	私は真実を話さなかったことを謝罪した。	I apologised for not telling the truth.		
+GU062S005	1	62	10_ing and to 2	今夜は出かける気分ではありません。	I don't feel like going out tonight.		
+GU062S006	1	62	10_ing and to 2	出発するのを楽しみにしていますか？	Are you looking forward to going away?		
+GU062S007	1	62	10_ing and to 2	ポールはもう仕事を見つけることができましたか?	Has Paul succeeded in finding a job yet?		
+GU062S008	1	62	10_ing and to 2	家を購入しようと考えています。	I'm thinking of buying a house.	I'm thinking about buying a house.	
+GU062S009	1	62	10_ing and to 2	怠惰な気がします。 今日は仕事をする気がしません。	I feel lazy. I don't feel like doing any work today.		
+GU062S010	1	62	10_ing and to 2	長い時間がかかりましたが、最終的に問題を解決することに成功しました。	"It took us a long time, but we finally succeeded in solving the problem."		
+GU062S011	1	62	10_ing and to 2	私は一人で出かけたかったが、ジョーが一緒に来ると主張した。	"I wanted to go out alone, but Joe insisted on coming with me."		
+GU062S012	1	62	10_ing and to 2	今年の休暇はどこに行くことを考えていますか?	Where are you thinking of going for your holiday this year?		
+GU062S013	1	62	10_ing and to 2	お腹が空いてきました。 何か食べるのがとても楽しみです。	I'm getting hungry. I'm really looking forward to eating something.		
+GU062S014	1	62	10_ing and to 2	近所の人たちは、あまりにも騒がしかったことを謝罪しました。	Our neighbours apologised for making so much noise.		
+GU062S015	1	62	10_ing and to 2	私たちは今車を買う余裕がないので、車を買わないことにしました。	"We can't afford a car right now, so we've decided against buying one."		
+GU062S016	1	62	10_ing and to 2	私は海のそばに小さな家を持つことをいつも夢見ていました。	I've always dreamed of having a small house by the sea.		
+GU062S017	1	62	10_ing and to 2	コンサートのチケットをなんとか手に入れることができました。	I managed to get a ticket for the concert.		
+GU062S018	1	62	10_ing and to 2	私はコンサートのチケットを手に入れることに成功した。	I succeeded in getting a ticket for the concert.		
+GU062S019	1	62	10_ing and to 2	マネージャーと話さなければなりません。 私は主張します。	I must speak to the manager. I insist.		
+GU062S020	1	62	10_ing and to 2	私はマネージャーと話すことを強く主張します。	I insist on speaking to the manager.		
+GU062S021	1	62	10_ing and to 2	私は彼らにお金を要求することは決してありません。 彼らにお金を要求するとは夢にも思わなかった。	I would never ask them for money. I wouldn't dream of asking them for money.		
+GU062S022	1	62	10_ing and to 2	本当は料理したくないんです。 料理する気がしない。	I don't really want to cook. I don't feel like cooking.		
+GU062S023	1	62	10_ing and to 2	新しいバイクを買えるかもしれない。	I might get a new a motorbike.		
+GU062S024	1	62	10_ing and to 2	新しいバイクを買おうと思っています。	I'm thinking of getting a new motorbike.		
+GU062S025	1	62	10_ing and to 2	またお会いできたら嬉しいです。	It will be nice to see you again.		
+GU062S026	1	62	10_ing and to 2	またお目にかかりたいと思います。	I'm looking forward to seeing you again.		
+GU062S027	1	62	10_ing and to 2	彼は私が嘘をついたと非難した。	He accused me of telling lies.		
+GU062S028	1	62	10_ing and to 2	私は助けてくれたみんなに感謝しました。	I thanked everyone for helping me.		
+GU062S029	1	62	10_ing and to 2	私たちに会いに来るのを妨げたのは何ですか?	What prevented you from coming to see us?		
+GU062S030	1	62	10_ing and to 2	将軍をスパイではないかと疑う人もいた。	Some people suspected the general of being a spy.		
+GU062S031	1	62	10_ing and to 2	彼らは私が真実を話さなかったと非難した。	They accused me of not telling the truth.		
+GU062S032	1	62	10_ing and to 2	将軍はスパイの疑いをかけられた。	The general was suspected of being a spy.		
+GU062S033	1	62	10_ing and to 2	私がやりたいことをするのを止めることはできません。	You can't stop me doing what I want.	You can't stop me from doing what I want.	
+GU062S034	1	62	10_ing and to 2	私は彼らに遅れたことを謝りました。	I apologised to them for being late.		
+GU062S035	1	62	10_ing and to 2	相手の車の運転手は私が事故を引き起こしたと非難した。	The driver of the other car accused me of causing the accident.		
+GU062S036	1	62	10_ing and to 2	看守たちは囚人の逃走を阻止できなかった。	The guards were unable to prevent the prisoner from escaping.		
+GU062S037	1	62	10_ing and to 2	あなたのパーティーに参加できなくて残念ですが、ご招待いただきありがとうございました。	"I'm sorry I can't come to your party, but thank you very much for inviting me."		
+GU062S038	1	62	10_ing and to 2	私はサムがコンテストで一等賞を受賞したことを祝福した。	I congratulated Sam on winning first prize in the competition.		
+GU062S039	1	62	10_ing and to 2	逮捕された男は偽造パスポートを使用した疑いが持たれている。	The man who has been arrested is suspected of using a false passport.		
+GU062S040	1	62	10_ing and to 2	芝生の上を歩くのを防ぐために芝生の周りに柵が設置されています。	There's a fence around the lawn to stop people from walking on the grass.		
+GU062S041	1	62	10_ing and to 2	話を中断して申し訳ありませんが、何か聞いてもいいですか？	"Excuse me for interrupting you, but may I ask you something?"		
+GU062S042	1	62	10_ing and to 2	私はあなたを信じません。 あなたは嘘をついています！	I don't believe you. You're lying!		
+GU062S043	1	62	10_ing and to 2	ジェーンは私が嘘をついていると非難した。	Jane accused me of lying.		
+GU062S044	1	62	10_ing and to 2	会いに来てよかったです ありがとうございました。	It was nice of you to come to see me Thank you.		
+GU062S045	1	62	10_ing and to 2	ジェニーは会いに来てくれて私に感謝しました。	Jenny thanked me for coming to see her.		
+GU062S046	1	62	10_ing and to 2	結婚したと聞きました。 おめでとう！	I hear you got married. Congratulations!		
+GU062S047	1	62	10_ing and to 2	ダンは私が結婚したことを祝福してくれました。	Dan congratulated me on getting married.		
+GU062S048	1	62	10_ing and to 2	他人のことは気にしません。	You don't care about other people.		
+GU062S049	1	62	10_ing and to 2	トムは私が他の人のことを気にかけていないと非難した。	Tom accused me of not caring about other people.		
+GU062S050	1	62	10_ing and to 2	先に電話しなかったのが残念です。	I'm sorry I didn't phone earlier.		
+GU062S051	1	62	10_ing and to 2	ケイトは、もっと早く私に電話をかけなかったことを謝りました。	Kate apologised for not phoning me earlier.		
+GU062S052	1	62	10_ing and to 2	私はその話を聞きたくなかったが、ダンはどうしても私に話そうとした。	"I didn't want to hear the story, but Dan insisted on telling me."		
+GU062S053	1	62	10_ing and to 2	警察は車を止めた。 彼らは運転手がそれを盗んだのではないかと疑った。	The police stopped the car. They suspected the driver of stealing it.		
+GU062S054	1	62	10_ing and to 2	私は自分の仕事にうんざりしています。 何か別のことをしようと考えています。	I'm fed up with my job. I'm thinking of doing something else.		
+GU062S055	1	62	10_ing and to 2	雨がたくさん降りましたが、雨が降っても私たちは休暇を楽しむことができませんでした。	"It rained a lot, but the rain didn't stop us enjoying out holiday."		
+GU062S056	1	62	10_ing and to 2	来週はお休みをいただきます。 遠出するのが楽しみです。	I'll be on holiday next week. I'm looking forward to going away.		
+GU062S057	1	62	10_ing and to 2	私たちの飛行機は遅れました。 悪天候のため飛行機は離陸できなかった。	Our flight was delayed. Bad weather prevented the plane from taking off.		
+GU062S058	1	62	10_ing and to 2	私は最善を尽くしました。 誰も私が努力していないことを責めることはできません。	I did my best. Nobody can accuse me of not trying.		
+GU062S059	1	62	10_ing and to 2	あなたはスーに対して失礼でした。 あなたは彼女に失礼なことを謝るべきです。	You were rude to Sue. You should apologise to her for being rude.		
+GU063S001	1	63	10_ing and to 2	車を持っていても使わなければ意味がありません。	There's no point in having a car if you never use it.		
+GU063S002	1	63	10_ing and to 2	これ以上待っても意味がないので、出発しました。	"There was no point in waiting any longer, so we left."		
+GU063S003	1	63	10_ing and to 2	状況を心配しても無駄です。 それについては何もできません。	It's no use worrying about the situation. There's nothing you can do about it.		
+GU063S004	1	63	10_ing and to 2	説得しても無駄だよ。 成功しないでしょう。	It's no good trying to persuade me. You won't succeed.		
+GU063S005	1	63	10_ing and to 2	車を持っていても意味がありません。	There's no point in having a car.		
+GU063S006	1	63	10_ing and to 2	車を持つことに何の意味があるのでしょうか？	What's the point of having a car?		
+GU063S007	1	63	10_ing and to 2	急いでも意味がありません。 時間はたっぷりあります。	There's no point in rushing. We have plenty of time.		
+GU063S008	1	63	10_ing and to 2	私に謝ってもダメだよ。 あなたが申し訳ないとは思いません。	It's no good apologising to me. I don't believe you're sorry.		
+GU063S009	1	63	10_ing and to 2	彼にアドバイスをしようとしても無駄だ。 彼は聞きません。	There's no point in trying to give him advice. He doesn't listen.		
+GU063S010	1	63	10_ing and to 2	逃げようとしてもダメだよ。 出られなくなってしまいます。	It's no good trying to escape. You won't be able to get out.		
+GU063S011	1	63	10_ing and to 2	怒っても意味がありません。 冷静さを保つ必要があります。	There's no point in getting angry. We need to keep calm.		
+GU063S012	1	63	10_ing and to 2	私に聞いても無駄だ。 どうして私に分かると思うの？	It's no use asking me. How do you expect me to know?		
+GU063S013	1	63	10_ing and to 2	彼を探すのは無駄だ。 私たちは彼を決して見つけることはできないでしょう。	There's no point in looking for him. We'll never find him.		
+GU063S014	1	63	10_ing and to 2	ここに立って話しても無駄だ。 何かをしなければなりません！	It's no use standing here talking. We have to do something!		
+GU063S015	1	63	10_ing and to 2	素敵な街ですね。 そこで数日過ごす価値があります。	It's a nice town. It's worth spending a couple of days there.		
+GU063S016	1	63	10_ing and to 2	私たちのフライトは早朝だったので、寝る価値はありませんでした。	"Our flight was very early in the morning, so it wasn't worth going to bed."		
+GU063S017	1	63	10_ing and to 2	ここで数日過ごすといいでしょう。 価値があります。	You should spend a couple of days here. It's worth it.		
+GU063S018	1	63	10_ing and to 2	私たちは外出しませんでした。 それだけの価値はありませんでした。	We didn't go out. It wasn't worth it.		
+GU063S019	1	63	10_ing and to 2	素晴らしい映画だよ。 見る価値がある。	It's a great movie. It's worth seeing.		
+GU063S020	1	63	10_ing and to 2	泥棒が家に侵入しましたが、何も奪われませんでした。 盗む価値のあるものは何もありませんでした。	"Thieves broke into the house, but didn't take anything. There was nothing worth stealing."		
+GU063S021	1	63	10_ing and to 2	面白いアイデアですね。 考えてみる価値はあります。	It's an interesting idea. It's worth thinking about.		
+GU063S022	1	63	10_ing and to 2	丘からは美しい景色が見えました。 頂上まで登る価値はありました。	There was a beautiful view from the hill. It was worth climbing to the top.		
+GU063S023	1	63	10_ing and to 2	その国を訪れる前に、その言語をいくつか学習する価値があります。	It's worth learning a few words of the language before you visit a country.		
+GU063S024	1	63	10_ing and to 2	ホテルはここから歩いてすぐの距離にあるので、タクシーを利用する価値はありません。	"The hotel is only a short walk from here, so it's not worth taking a taxi."		
+GU063S025	1	63	10_ing and to 2	その仕事に応募する価値はないと判断しました。 手に入れるチャンスはなかった。	I decided that it wasn't worth applying for the job. I had no chance of getting it.		
+GU063S026	1	63	10_ing and to 2	渋滞を避けるために早めに出発する価値があります。 後でとても忙しくなります。	It's worth leaving early to avoid the heavy traffic. It gets very busy later.		
+GU063S027	1	63	10_ing and to 2	彼と議論する価値はない。 あなたは彼の意見を変えるつもりはありません。	It's not worth arguing with him. You won't change his opinion.		
+GU063S028	1	63	10_ing and to 2	良い本でした。 読む価値がありました。	It was a good book. It was worth reading.		
+GU063S029	1	63	10_ing and to 2	大事なことじゃない。 心配する必要はありません。	It's not important. It's not worth worrying about.		
+GU063S030	1	63	10_ing and to 2	面白い企画ですね。 検討する価値はあります。	It's an interesting plan. It's worth considering.		
+GU063S031	1	63	10_ing and to 2	古着を何着か譲っていただきました。 それらは保管する価値がありませんでした。	I gave away some old clothes. They weren't worth keeping.		
+GU063S032	1	63	10_ing and to 2	私の時計は壊れています。 修理する価値はありません。	My watch is broken. It's not worth repairing.		
+GU063S033	1	63	10_ing and to 2	私はそのテレビ番組を楽しみました。 見る価値がありました。	I enjoyed the TV programme. It was worth watching.		
+GU063S034	1	63	10_ing and to 2	泊まる場所を見つけるのに何の苦労もありませんでした。	I had no trouble finding a place to stay.		
+GU063S035	1	63	10_ing and to 2	ビザを取得するのに苦労したことはありますか？	Did you have any difficulty getting a visa?		
+GU063S036	1	63	10_ing and to 2	私の文章を読むのに苦労する人がよくいます。	People often have problems reading my writing.		
+GU063S037	1	63	10_ing and to 2	サムとは連絡が取れなかった。 サムと連絡を取るのに問題がありました。	I couldn't get in touch with Sam. I had problems contacting Sam.		
+GU063S038	1	63	10_ing and to 2	ルーシーはすぐに仕事を見つけました。 ルーシーは仕事を見つけるのに何の問題もありませんでした。	Lucy found a job very quickly. Lucy had no trouble getting a job.		
+GU063S039	1	63	10_ing and to 2	あなたは私にとって歩くのが速すぎます。 ついていけない。 あなたについていくのが難しいです。	You're walking too fast for me. I can't keep up. I'm having difficulty keeping up with you.		
+GU063S040	1	63	10_ing and to 2	私はあまり良い記憶を持っていません。 私は人の名前を覚えるのが苦手です。	I don't have a very good memory. I have a problem remembering people's names.		
+GU063S041	1	63	10_ing and to 2	私たちがお互いを理解するのは簡単でした。 私たちはお互いを理解することに何の問題もありませんでした。	It was easy for us to understand one another. We had no problem understanding one another.		
+GU063S042	1	63	10_ing and to 2	彼は時計を修理するのに何時間も費やした。	He spent hours trying to repair the clock.		
+GU063S043	1	63	10_ing and to 2	何もせずに多くの時間を無駄にしてしまいます。	I waste a lot of time doing nothing.		
+GU063S044	1	63	10_ing and to 2	彼女は私に会えないと言った。 彼女は他のことで忙しすぎました。	She said she couldn't meet me. She was too busy doing other things.		
+GU063S045	1	63	10_ing and to 2	ゲイリーは仕事を楽しんでいます。 彼は新しいプロジェクトに取り組んでいて忙しいです。	Gary is enjoying his job. He's busy working on a new project.		
+GU063S046	1	63	10_ing and to 2	毎日、職場への往復の移動にどのくらいの時間を費やしますか?	How much time do you spend travelling to and from work every day?		
+GU063S047	1	63	10_ing and to 2	テレビを見て時間を無駄にしすぎます。	I waste too much time watching TV.		
+GU063S048	1	63	10_ing and to 2	去年、私はイタリア語を学ぶためにローマに一ヶ月滞在しました。	Last year I spent a month in Rome trying to learn Italian.		
+GU063S049	1	63	10_ing and to 2	カレンは明日休暇を取るので、荷物をまとめるのに忙しいです。	"Karen's going on holiday tomorrow, so she's busy packing her things."		
+GU063S050	1	63	10_ing and to 2	エイミーはギターを習っています。 彼女は練習に多くの時間を費やしています。	Amy is learning to play the guitar. She spends a lot of time practising.		
+GU063S051	1	63	10_ing and to 2	どのくらいの頻度で泳ぎに行きますか。	How often do you go swimming?		
+GU063S052	1	63	10_ing and to 2	私たちは去年スキーに行きました。	We went skiing last year.		
+GU063S053	1	63	10_ing and to 2	トムはここにいません。 彼は買い物に行ってきました。	Tom isn't here. He's gone shopping.		
+GU063S054	1	63	10_ing and to 2	私はセーリングをしたことがありません。	I've never been sailing.		
+GU063S055	1	63	10_ing and to 2	その日はとても暑かったので、私たちは川に泳ぎに行きました。	"It was a very hot day, so we went swimming in the river."		
+GU063S056	1	63	10_ing and to 2	山には雪がたくさんあるので、スキーに行くことができます。	"There's plenty of snow in the mountains, so we'll be able to go skiing."		
+GU063S057	1	63	10_ing and to 2	ヘレンは馬を二頭飼っています。 彼女は定期的に乗馬に行きます。	Helen has two horses. She goes riding regularly.		
+GU063S058	1	63	10_ing and to 2	ダンは買い物に行きました。 彼には買わなければならないものがいくつかありました。	Dan has gone shopping. There were a few things he needed to buy.		
+GU063S059	1	63	10_ing and to 2	明日は家にいません。 釣りに行きます。	I won't be at home tomorrow. I'm going fishing.		
+GU063S060	1	63	10_ing and to 2	私たちはパリで数日間過ごしました。 初日は観光に行きました。	We spent a few days in Paris. On our first day we went sightseeing.		
+GU064S001	1	64	10_ing and to 2	私はテーブルを予約するためにレストランに電話しました。	I called the restaurant to reserve a table.		
+GU064S002	1	64	10_ing and to 2	パンを作るには何が必要ですか？	What do you need to make bread?		
+GU064S003	1	64	10_ing and to 2	私たちはみんなに危険を警告するために大声で叫びました。	We shouted to warn everybody of the danger.		
+GU064S004	1	64	10_ing and to 2	大統領には彼を守るボディーガードのチームがいる。	The president has a team of bodyguards to protect him.		
+GU064S005	1	64	10_ing and to 2	何が入っているか確認するために箱を開けました。	I opened the box to see what was in it.		
+GU064S006	1	64	10_ing and to 2	カナダへの旅行に行くためにお金を貯めています。	I'm saving money to go on a trip to Canada.		
+GU064S007	1	64	10_ing and to 2	この玉ねぎを切るにはナイフが必要です。	I need a knife to chop these onions.		
+GU064S008	1	64	10_ing and to 2	暖かく保つためにセーターを2枚着ています。	I'm wearing two sweaters to keep warm.		
+GU064S009	1	64	10_ing and to 2	警察に電話して事故を報告します。	I'll phone the police to report the accident.		
+GU064S010	1	64	10_ing and to 2	ホテルに電話して部屋があるかどうか確認しました。	I called the hotel to see if they had any rooms.		
+GU064S011	1	64	10_ing and to 2	私は仕事を手伝ってくれるアシスタントを雇いました。	I employed an assistant to help me with my work.		
+GU064S012	1	64	10_ing and to 2	友達に近づくために新しいアパートに引っ越します。	I'm moving to a new apartment to be nearer my friends.		
+GU064S013	1	64	10_ing and to 2	中心部で駐車する場所を見つけるのは難しいです。	It's difficult to find a place to park in the centre.		
+GU064S014	1	64	10_ing and to 2	何かお食事をお召し上がりになりますか？	Would you like something to eat?		
+GU064S015	1	64	10_ing and to 2	やるべきことがたくさんありますか？	Do you have much work to do?		
+GU064S016	1	64	10_ing and to 2	話し相手がいないと寂しいです。	I get lonely if there's nobody to talk to.		
+GU064S017	1	64	10_ing and to 2	この瓶を開けるのに何か必要です。	I need something to open this bottle with.		
+GU064S018	1	64	10_ing and to 2	彼らは私たちに食べ物を買うためのお金をくれました。	They gave us some money to buy food.		
+GU064S019	1	64	10_ing and to 2	英語を練習する機会はたくさんありますか?	Do you have much opportunity to practise your English?		
+GU064S020	1	64	10_ing and to 2	あなたの提案について考えるのに数日かかります。	I need a few days to think about your proposal.		
+GU064S021	1	64	10_ing and to 2	ちょっと時間ある？ 聞きたいことがあります。	Do you have a minute? I have something to ask you.		
+GU064S022	1	64	10_ing and to 2	タクシーで帰宅しました。 歩く気力もなかった。	I came home by taxi. I didn't have the energy to walk.		
+GU064S023	1	64	10_ing and to 2	新しい服が必要です。 着るのにいいものがない。	I need some new clothes. I don't have anything nice to wear.		
+GU064S024	1	64	10_ing and to 2	パーティーでヘレンに会ったが、彼女と話す機会はなかった。	"I saw Helen at the party, but I didn't have a chance to talk to her."		
+GU064S025	1	64	10_ing and to 2	何かお飲み物はいかがですか？ コーヒー？ お茶？	Would you like something to drink? Coffee? Tea?		
+GU064S026	1	64	10_ing and to 2	サムのメールに返信しなければなりません。 まだそれをする時間がありません。	I must reply to Sam's email. I haven't had time to do it yet.		
+GU064S027	1	64	10_ing and to 2	これらを入れる袋をもらえますか？	Can you give me a bag to put these things in?		
+GU064S028	1	64	10_ing and to 2	なぜ怖いのですか？ 何も恐れることはありません。	Why are you scared? There's nothing to be afraid of.		
+GU064S029	1	64	10_ing and to 2	私たちはガソリンを入れるために立ち寄りました。	We stopped for petrol.		
+GU064S030	1	64	10_ing and to 2	私はバスに向かって走らなければなりませんでした。	I had to run for the bus.		
+GU064S031	1	64	10_ing and to 2	私たちはガソリンを買うために立ち寄りました。	We stopped to get petrol.		
+GU064S032	1	64	10_ing and to 2	バスに乗るために走らなければなりませんでした。	I had to run to catch the bus.		
+GU064S033	1	64	10_ing and to 2	私たちは座る椅子がなかったので、床に座りました。	"There weren't any chairs for us to sit on, so we sat on the floor."		
+GU064S034	1	64	10_ing and to 2	私は食器を洗うのにこのブラシを使います。	I use this brush to wash the dishes.	I use this brush for washing the dishes.	
+GU064S035	1	64	10_ing and to 2	私は皿を洗うために台所へ行きました。	I went into the kitchen to wash the dishes.		
+GU064S036	1	64	10_ing and to 2	このスイッチは何のためにあるのでしょうか？	What is this switch for?		
+GU064S037	1	64	10_ing and to 2	何のためにそんなことをしたのですか？	What did you do that for?		
+GU064S038	1	64	10_ing and to 2	この仕事には多くの経験が必要です。	You need a lot of experience for this job.		
+GU064S039	1	64	10_ing and to 2	この仕事をするには多くの経験が必要です。	You need a lot of experience to do this job.		
+GU064S040	1	64	10_ing and to 2	決断を下すにはもっと時間が必要だ。	We'll need more time to make a decision.		
+GU064S041	1	64	10_ing and to 2	タクシーに乗るためにいくらかのお金が必要です。	I need some money for a taxi.		
+GU064S042	1	64	10_ing and to 2	彼はとても年をとっています。 彼には世話をしてくれる人が必要です。	He's very old. He needs someone to take care of him.		
+GU064S043	1	64	10_ing and to 2	彼らは試験の合格を祝うパーティーを開いています。	They're having a party to celebrate passing their exams.		
+GU064S044	1	64	10_ing and to 2	通知を読むために眼鏡をかけなければなりませんでした。	I had to put on my glasses to read the notice.		
+GU064S045	1	64	10_ing and to 2	読書には眼鏡をかけなければなりませんか？	Do you have to wear glasses for reading?		
+GU064S046	1	64	10_ing and to 2	来週その問題について話し合う会議が開かれる予定です。	There will be a meeting next week to discuss the problem.		
+GU064S047	1	64	10_ing and to 2	子どもたちが遊べる庭があればいいのにと思います。	I wish we had a garden for the children to play in.		
+GU064S048	1	64	10_ing and to 2	彼女はカナダに留学するために英語を勉強しています。	She's learning English so that she can study in Canada.		
+GU064S049	1	64	10_ing and to 2	私たちは友達にもっと頻繁に会うためにロンドンに引っ越しました。	We moved to London so that we could see our friends more often.		
+GU064S050	1	64	10_ing and to 2	私は遅れないように急いだ。	I hurried so that I wouldn't be late.		
+GU064S051	1	64	10_ing and to 2	私は遅れないように急いだ。	I hurried so that I wouldn't be late.	I hurried so I wouldn't be late.	
+GU064S052	1	64	10_ing and to 2	私たちは寒くないように暖かい服を着ました。	We wore warm clothes so that we wouldn't be cold.		
+GU064S053	1	64	10_ing and to 2	私はダンに連絡できるように電話番号を教えました。	I gave Dan my phone number so that he could contact me.		
+GU064S054	1	64	10_ing and to 2	私たちは誰にも聞こえないようにとても静かにしていました。	We kept very quiet so that nobody would hear us.		
+GU064S055	1	64	10_ing and to 2	後ろの車が追い越せるように速度を落としました。	I slowed down so that the car behind me could overtake.		
+GU064S056	1	64	10_ing and to 2	会議を時間通りに開始できるよう、早めに到着してください。	Please arrive early so that we can start the meeting on time.		
+GU064S057	1	64	10_ing and to 2	私たちは何も忘れないように、しなければならないことのリストを作りました。	We made a list of things we had to do so that we wouldn't forget anything.		
+GU064S058	1	64	10_ing and to 2	後でお腹が空かないように、今何か食べてください。	Eat something now so that you won't get hungry later.		
+GU064S059	1	64	10_ing and to 2	部屋が少し涼しくなるように窓を開けました。	We opened the window so that the room would be a little cooler.		
+GU064S060	1	64	10_ing and to 2	ご予約を承りますので、お電話ください。	Please call us so that we can arrange an appointment.		
+GU065S001	1	65	10_ing and to 2	彼を理解するのは難しい。	It is difficult to understand him.	He is difficult to understand.	
+GU065S002	1	65	10_ing and to 2	この水を飲んでも安全だと思いますか?	Do you think it is safe to drink this water?	Do you think this water is safe to drink?	
+GU065S003	1	65	10_ing and to 2	試験の問題はとても難しかったです。 それらに答えることは不可能でした。	The questions in the exam were very hard. It was impossible to answer them.	They were impossible to answer.	
+GU065S004	1	65	10_ing and to 2	ニコラには興味深いアイデアがたくさんあります。 彼女と話すのはとても面白いです。	Nicola has lots of interesting ideas. It's very interesting to talk to her.	She's very interesting to talk to.	
+GU065S005	1	65	10_ing and to 2	これは答えるのが難しい質問です。	This is a difficult question to answer.		
+GU065S006	1	65	10_ing and to 2	この肉は食べても安全ではありません。	This meat isn't safe to eat.		
+GU065S007	1	65	10_ing and to 2	一部の単語は翻訳不可能です。	Some words are impossible to translate.		
+GU065S008	1	65	10_ing and to 2	この窓は開けにくいです。	This window is difficult to open.		
+GU065S009	1	65	10_ing and to 2	車は維持費がかかります。	A car is expensive to maintain.		
+GU065S010	1	65	10_ing and to 2	その椅子に立つのは安全ではありません。	That chair is not safe to stand on.		
+GU065S011	1	65	10_ing and to 2	一緒にいて退屈な人もいます。	Some people are boring to be with.		
+GU065S012	1	65	10_ing and to 2	私のオフィスはここから簡単に行くことができます。	My office is easy to get to from here.		
+GU065S013	1	65	10_ing and to 2	誰もがその間違いを犯します。 それは間違いやすいことです。	Everybody makes that mistake. It's an easy mistake to make.		
+GU065S014	1	65	10_ing and to 2	私はこの町が好きです。 住むのに素敵な場所です。	I like this town. It's a nice place to live.		
+GU065S015	1	65	10_ing and to 2	なぜ彼はそんなことを言ったのだろうか。 奇妙なことを言いました。	I wonder why he said that. It was a strange thing to say.		
+GU065S016	1	65	10_ing and to 2	ゲームは楽しかったです。 見ていて良い試合だった。	I enjoyed the game. It was a good game to watch.		
+GU065S017	1	65	10_ing and to 2	そんなことはすべきではありません。 それは危険なことです。	You shouldn't do that. It's a dangerous thing to do.		
+GU065S018	1	65	10_ing and to 2	空港まで送ってくれてよかったです。 どうもありがとうございます。	It was nice of you to take me to the airport. Thank you very much.		
+GU065S019	1	65	10_ing and to 2	お金が必要なときに仕事を放棄するのはルースにとって愚かです。	It's silly of Ruth to give up her job when she needs the money.		
+GU065S020	1	65	10_ing and to 2	彼が私を批判するのは不当だと思う。	I think it was unfair of him to criticise me.		
+GU065S021	1	65	10_ing and to 2	私を助けようと申し出てくれたのは、とても親切なスーでした。	It was very kind of Sue to offer to help me.		
+GU065S022	1	65	10_ing and to 2	ダンとケイトが私をパーティーに招待してくれて嬉しいです。	It's nice of Dan and Kate to invite me to their party.		
+GU065S023	1	65	10_ing and to 2	同じ間違いを何度も繰り返すのは不注意です。	It's careless of you to make the same mistake again and again.		
+GU065S024	1	65	10_ing and to 2	あれほど騒ぐのは近所の人たちへの配慮ではありませんでした。	It was inconsiderate of our neighbours to make so much noise.		
+GU065S025	1	65	10_ing and to 2	私の誕生日を覚えていてくれて嬉しかったです。	It was nice of you to remember my birthday.		
+GU065S026	1	65	10_ing and to 2	どうでもいいことをそんなに心配するのは愚かです。	It's silly of me to worry so much about unimportant things.		
+GU065S027	1	65	10_ing and to 2	さよならも言わずに立ち去るのは彼らしい。	It's typical of him to leave without saying goodbye.		
+GU065S028	1	65	10_ing and to 2	お母様の体調が優れないと聞いて残念です。	I'm sorry to hear your mother isn't well.		
+GU065S029	1	65	10_ing and to 2	ジュリアはあなたに会って驚きましたか？	Was Julia surprised to see you?		
+GU065S030	1	65	10_ing and to 2	長くて疲れる旅でした。 私たちは家に帰ることができて嬉しかったです。	It was a long and tiring journey. We were glad to get home.		
+GU065S031	1	65	10_ing and to 2	長い間旅行してきました。 今は家に戻れてうれしいです。	I've been travelling a long time. Now I'm glad to be back home.		
+GU065S032	1	65	10_ing and to 2	アンナからは何年も連絡がありませんでした。 彼女からメールをもらってとても驚きました。	I hadn't heard from Anna for years. I was very surprised to get an email from her.		
+GU065S033	1	65	10_ing and to 2	トムの事故について聞きました。 彼が大丈夫だと聞いて安心しました。	I heard about Tom's accident. I was relieved to hear that he's OK.		
+GU065S034	1	65	10_ing and to 2	面接はうまくいったと思いました。 私はその仕事をオファーされなかったことにがっかりしました。	I thought my interview went well. I was disappointed not to be offered the job.		
+GU065S035	1	65	10_ing and to 2	ジェームズは25歳くらいだと思っていたが、40歳だと知って驚いた。	I thought James was about 25. I was amazed to discover that he was 40.		
+GU065S036	1	65	10_ing and to 2	サポートが必要な場合はお知らせください。 ぜひお役に立てれば幸いです。	Let me know if you need any assistance. I'd be very pleased to help you.		
+GU065S037	1	65	10_ing and to 2	次にプラットフォーム 4 に到着する電車は、リバプール行きの 10 時 50 分です。	The next train to arrive at platform 4 will be the 10.50 to Liverpool.		
+GU065S038	1	65	10_ing and to 2	私以外はみんな遅刻しました。 時間通りに到着したのは私だけでした。	Everybody was late except me. I was the only one to arrive on time.		
+GU065S039	1	65	10_ing and to 2	他に新しいニュースがある場合は、あなたが一番最初にお知らせします。	"If I have any more news, you'll be the first to know."	"If I have any more news, you'll be the first person to know."	
+GU065S040	1	65	10_ing and to 2	私の前では誰も話さなかった。 最初に話したのは私でした。	Nobody spoke before me. I was the first to speak.		
+GU065S041	1	65	10_ing and to 2	他のみんなはポールより先に到着した。 最後に到着したのはポールでした。	Everybody else arrived before Paul. Paul was the last person to arrive.		
+GU065S042	1	65	10_ing and to 2	エミリーは試験に合格した。 他の生徒は全員不合格でした。 エミリーは合格した唯一の生徒でした。	Emily passed the exam. All the other students failed. Emily was the only student to pass.		
+GU065S043	1	65	10_ing and to 2	私はマネージャーに苦情を言いました。 すでに別の客から苦情が出ていた。 私は苦情を言った2人目の顧客でした。	I complained to the manager. Another customer had already complained. I was the second customer to complain.		
+GU065S044	1	65	10_ing and to 2	ニール アームストロングは 1969 年に月面を歩きました。これまで誰もこれを達成したことがありませんでした。 ニール・アームストロングは初めて月面を歩いた人です。	Neil Armstrong walked on the moon in 1969. Nobody had done this before. Neil Armstrong was the first person to walk on the moon.		
+GU065S045	1	65	10_ing and to 2	カルラはとても優秀な生徒です。 彼女は必ず試験に合格するだろう。	Carla is a very good student. She's bound to pass the exam.		
+GU065S046	1	65	10_ing and to 2	いつか宝くじに当たる可能性はありますが、そうはならないでしょう。	"It's possible I'll win the lottery one day, but it's not likely to happen."		
+GU065S047	1	65	10_ing and to 2	長旅の後は休む必要があります。 きっと疲れるでしょう。	You need to rest after your long journey. You're bound to be tired.		
+GU065S048	1	65	10_ing and to 2	アンディは記憶力がとても悪いです。 彼はあなたの言ったことをきっと忘れるでしょう。	Andy has a very bad memory. He's sure to forget what you tell him.		
+GU065S049	1	65	10_ing and to 2	傘は必要ないと思います。 雨は降りそうにありません。	I don't think you need an umbrella. It's not likely to rain.		
+GU065S050	1	65	10_ing and to 2	今週末から休暇が始まります。 かなりの渋滞が予想されます。	The holidays begin this weekend. There's likely to be a lot of traffic.		
+GU065S051	1	65	10_ing and to 2	明日は選挙だ。 多くの人は与党が勝つのは確実だと考えている。	There's an election tomorrow. Most people think the government party is sure to win.		
+GU065S052	1	65	10_ing and to 2	ゲイリーはまだ来ません。 彼は決して時間通りに来ない。 彼はきっと遅刻するでしょう。	Gary won't be here yet. He's never on time. He's bound to be late.		
+GU066S001	1	66	10_ing and to 2	町のこの地域は危険です。 人々は夜にここを歩くのを恐れています。	This part of town is dangerous. People are afraid to walk here at night.		
+GU066S002	1	66	10_ing and to 2	ジェームズは何が起こったのかを両親に話すのが怖かった。	James was afraid to tell his parents what had happened.		
+GU066S003	1	66	10_ing and to 2	道が凍っていたので、慎重に歩きました。 私たちは落ちるのが怖かった。	"The path was icy, so we walked very carefully. We were afraid of falling."		
+GU066S004	1	66	10_ing and to 2	私は犬が好きではありません。 噛まれるのがいつも怖いんです。	I don't like dogs. I'm always afraid of being bitten.		
+GU066S005	1	66	10_ing and to 2	噛まれるのが怖くて犬に近づくのが怖かった。	I was afraid to go near the dog because I was afraid of being bitten.		
+GU066S006	1	66	10_ing and to 2	私は普段パスポートを持ち歩きません。 失うのが怖いです。	I don't usually carry my passport with me. I'm afraid of losing it.		
+GU066S007	1	66	10_ing and to 2	映画の途中でとても恐ろしいシーンがありました。 私たちは見るのが怖かった。	In the middle of the film there was a very horrifying scene. We were afraid to look.		
+GU066S008	1	66	10_ing and to 2	私たちは駅へ急いだ。 私たちは電車に乗り遅れるのが怖かった。	We hurried to the station. We were afraid of missing our train.		
+GU066S009	1	66	10_ing and to 2	ガソリンがあまりなかったので心配でした。 ガソリンがなくなるのが怖かった。	I was worried because we didn't have much petrol. I was afraid of running out of petrol.		
+GU066S010	1	66	10_ing and to 2	市内のこの地域には多くの問題があります。 暗くなってから家を出るのが怖い人はたくさんいます。	There are a lot of problems in this part of the city. Many people are afraid to leave their homes after dark.		
+GU066S011	1	66	10_ing and to 2	その花瓶はとても貴重なものだったので、大切に保管していました。 落とすのが怖かった。	"The vase was very valuable, so I held it carefully. I was afraid of dropping it."		
+GU066S012	1	66	10_ing and to 2	何か知りたいことがあれば、私に聞いてください。 遠慮せずに質問してください。	"If there's anything you want to know, you can ask me. Don't be afraid to ask."		
+GU066S013	1	66	10_ing and to 2	私の皿に盛られた食べ物は新鮮ではなく、良い匂いもありませんでした。 食べるのが怖かったです。	The food on my plate didn't look fresh and didn't smell good. I was afraid to eat it.		
+GU066S014	1	66	10_ing and to 2	クラブへの参加に興味がある場合はお知らせください。	Let me know if you're interested in joining the club.		
+GU066S015	1	66	10_ing and to 2	車を売ろうとしましたが、誰も買いたがりませんでした。	"I tried to sell my car, but nobody was interested in buying it."		
+GU066S016	1	66	10_ing and to 2	ターニャが仕事を辞めたと聞いて興味がありました。	I was interested to hear that Tanya left her job.		
+GU066S017	1	66	10_ing and to 2	マイクに意見を聞いてください。 彼がどう思っているか知りたいです。	Ask Mike for his opinion. I would be interested to know what he thinks.		
+GU066S018	1	66	10_ing and to 2	ターニャが仕事を辞めたと聞いて驚きました。	I was surprised to hear that Tanya left her job.		
+GU066S019	1	66	10_ing and to 2	ジュリアは自分のビジネスを始めることに興味があります。	Julia is interested in starting her own business.		
+GU066S020	1	66	10_ing and to 2	私は観光を楽しみません。 私は古い建物を見ることに興味はありません。	I don't enjoy sightseeing. I'm not interested in looking at old buildings.		
+GU066S021	1	66	10_ing and to 2	先週の新聞であなたの記事を読んで興味がありました。 あなたが書いたことすべてに同意しました。	I was interested to read your article in the paper last week. I agreed with everything you wrote.		
+GU066S022	1	66	10_ing and to 2	学校が楽しくなかった。 勉強には興味がなかった。	I didn't enjoy school. I wasn't interested in studying.		
+GU066S023	1	66	10_ing and to 2	最近マークから聞きました。 彼が現在パリで働いていることを知りたいでしょう。	I heard from Mark recently. You'll be interested to know that he's now working in Paris.		
+GU066S024	1	66	10_ing and to 2	その会社が閉店したと聞いて興味がありました。 それは驚きでした。	I was interested to hear that the company closed down. That was a surprise.		
+GU066S025	1	66	10_ing and to 2	ベンは独身でいたいと思っています。 彼は結婚に興味がありません。	Ben wants to stay single. He's not interested in getting married.		
+GU066S026	1	66	10_ing and to 2	ニッキーが病気だと聞いて残念でした。	I was sorry to hear that Nicky is ill.		
+GU066S027	1	66	10_ing and to 2	ここでの滞在は楽しかったです。 ごめんなさい。	I've enjoyed my stay here. I'll be sorry to leave.		
+GU066S028	1	66	10_ing and to 2	大変遅くに電話して申し訳ありませんが、聞きたいことがあります。	"I'm sorry to phone you so late, but I need to ask you something."		
+GU066S029	1	66	10_ing and to 2	昨日は怒鳴ってごめんなさい。	I'm sorry for shouting at you yesterday.	I'm sorry about shouting at you yesterday.	
+GU066S030	1	66	10_ing and to 2	昨日は怒鳴りつけてごめんなさい。	I'm sorry I shouted at you yesterday.		
+GU066S031	1	66	10_ing and to 2	申し訳ございませんが、あなたにお仕事をご紹介することはできません。	I'm sorry to tell you that we are unable to offer you the job.		
+GU066S032	1	66	10_ing and to 2	昨日は電話するのを忘れてごめんなさい。	I'm sorry for forgetting to call you yesterday.		
+GU066S033	1	66	10_ing and to 2	あなたのことを悪く言ってごめんなさい。 私が言ったことは本意ではありませんでした。	I'm sorry for saying bad things about you. I didn't mean what I said.		
+GU066S034	1	66	10_ing and to 2	あなたが結婚式に出席できないと聞いて残念でした。	We were sorry to hear that you can't come to the wedding.		
+GU066S035	1	66	10_ing and to 2	アランが会社を辞めるのは残念だ。 彼がいなくなるのは残念だ。	It's a shame Alan is leaving the company. I'll be sorry to see him go.		
+GU066S036	1	66	10_ing and to 2	ごめんなさい、あなたが貸してくれた本をなくしてしまいました。 もう一つ持ってきます。	Sorry I lost the book you lent me. I'll get you another one.		
+GU066S037	1	66	10_ing and to 2	私たちは建物から出たいと思っています。	We'd like to leave the building.		
+GU066S038	1	66	10_ing and to 2	私たちは建物から出ることを許されませんでした。	We weren't allowed to leave the building.		
+GU066S039	1	66	10_ing and to 2	私たちは建物から出ることを妨げられました。	We were prevented from leaving the building.		
+GU066S040	1	66	10_ing and to 2	私たちが建物から出るのを止めることはできません。	You can't stop us leaving the building.		
+GU066S041	1	66	10_ing and to 2	ピーターとクリスは問題を解決したいと考えていました。	Peter and Chris wanted to solve the problem.		
+GU066S042	1	66	10_ing and to 2	ピーターは問題を解決できませんでした。	Peter failed to solve the problem.		
+GU066S043	1	66	10_ing and to 2	クリスは問題を解決することに成功した。	Chris succeeded in solving the problem.		
+GU066S044	1	66	10_ing and to 2	来週は出かけたいと思っています。	I'm hoping to go away next week.		
+GU066S045	1	66	10_ing and to 2	来週出かけようと思っています。	I'm thinking of going away next week.		
+GU066S046	1	66	10_ing and to 2	来週出かける予定です。	I'm planning to go away next week.		
+GU066S047	1	66	10_ing and to 2	来週出かけるのが楽しみです。	I'm looking forward to going away next week.		
+GU066S048	1	66	10_ing and to 2	ヘレンは私に昼食を買ってあげたかったのです。	Helen wanted to buy me lunch.		
+GU066S049	1	66	10_ing and to 2	ヘレンは私に昼食を買ってくると主張しました。	Helen insisted on buying me lunch.		
+GU066S050	1	66	10_ing and to 2	ヘレンは私に昼食を買ってくると約束してくれました。	Helen promised to buy me lunch.		
+GU066S051	1	66	10_ing and to 2	ヘレンは私に昼食をおごってくれるとは夢にも思わなかったでしょう。	Helen wouldn't dream of buying me lunch.		
+GU067S001	1	67	10_ing and to 2	私はトムが車に乗って走り去るのを見た。	I saw Tom get into his car and drive off.		
+GU067S002	1	67	10_ing and to 2	あなたが入ってくるのは聞いていません。	I didn't hear you come in.		
+GU067S003	1	67	10_ing and to 2	リサは突然、誰かが肩に触れたように感じました。	Lisa suddenly felt somebody touch her on the shoulder.		
+GU067S004	1	67	10_ing and to 2	トムはここにいません。 彼は10分ほど前に出て行った。	Tom isn't here. He went out about ten minutes ago.		
+GU067S005	1	67	10_ing and to 2	トムはここにいません。 10分ほど前に彼が出ていくのを見ました。	Tom isn't here. I saw him go out about ten minutes ago.		
+GU067S006	1	67	10_ing and to 2	ベンは私に封筒をくれました。 彼は私がそれを開けるのを見ていました。	Ben gave me the envelope. He watched me open it.		
+GU067S007	1	67	10_ing and to 2	ベンは私に封筒をくれたので、私はそれを開けました。	Ben gave me the envelope and I opened it.		
+GU067S008	1	67	10_ing and to 2	車は私の家の外で止まり、その後再び走り去りました。	"A car stopped outside my house, and then it drove off again."		
+GU067S009	1	67	10_ing and to 2	家の外で車が止まる音が聞こえ、その後車は再び走り去った。	"I heard a car stop outside my house, and then it drove off again."		
+GU067S010	1	67	10_ing and to 2	女性が道で倒れたので、私は彼女が起き上がるのを手伝いました。	"A woman fell over in the street, so I helped her get up."		
+GU067S011	1	67	10_ing and to 2	女性が道で倒れているのを見たので、私は彼女が起き上がるのを手伝いました。	"I saw a woman fall over in the street, so l helped her get up."		
+GU067S012	1	67	10_ing and to 2	誰かがドアをノックする音が聞こえたので、誰なのか見に行きました。	"I heard somebody knock on the door, so I went to see who it was."		
+GU067S013	1	67	10_ing and to 2	誰かがドアをノックしたので、誰なのか見に行きました。	"Somebody knocked on the door, so went to see who it was."		
+GU067S014	1	67	10_ing and to 2	ニコラは素晴らしい声を持っています。 彼女が歌うのを聞いたことがありますか?	Nicola has a great voice. Have you ever heard her sing?		
+GU067S015	1	67	10_ing and to 2	鍵を紛失しましたか? 先ほどテーブルの上に置いたのを見ました。	Have you lost your keys? I saw you put them on the table earlier.		
+GU067S016	1	67	10_ing and to 2	頭に何かが当たったような気がしました。 その後は何も思い出せません。	I felt something hit me on the head. After that I can't remember anything.		
+GU067S017	1	67	10_ing and to 2	家の外で事故がありましたが、私はそれが起こっているのを見ませんでした。	"There was an accident outside my house, but I didn't see it happen."		
+GU067S018	1	67	10_ing and to 2	私が請求書を支払ったことは知っていますね。 あなたは私がそれをするのを見ました。	You know I paid the bill. You saw me do it.		
+GU067S019	1	67	10_ing and to 2	彼はカナダ人です。 彼がトロント出身だと誰かに話しているのを聞きました。	He's Canadian. I heard him tell someone he's from Toronto.		
+GU067S020	1	67	10_ing and to 2	私はケイトがバスを待っているのを見ました。	I saw Kate waiting for a bus.		
+GU067S021	1	67	10_ing and to 2	雨が降っているのが聞こえました。	I could hear it raining.		
+GU067S022	1	67	10_ing and to 2	私たちはポールを探しました、そしてついに彼が木の下に座ってリンゴを食べているのを見つけました。	"We looked for Paul, and finally we found him sitting under a tree eating an apple."		
+GU067S023	1	67	10_ing and to 2	あなたは何を見たの？ クレアがレストランで食事をしているのを見ました。	What did you see? I saw Clare eating in a restaurant.		
+GU067S024	1	67	10_ing and to 2	何を聞きましたか? ビルがギターを弾いているのが聞こえました。	What did you hear? I heard Bill playing the guitar.		
+GU067S025	1	67	10_ing and to 2	あなたは何を見たの？ リンダが走っているのが見えました。	What did you see? I saw Linda running.		
+GU067S026	1	67	10_ing and to 2	何の匂いがしますか？ 夕食が焼ける匂いがした。	What could you smell? I could smell the dinner burning.		
+GU067S027	1	67	10_ing and to 2	あなたは何を見つけましたか？ 私は台所のテーブルに猫が横たわっているのを見つけた。	What did you find? I found a cat lying on the kitchen table.		
+GU067S028	1	67	10_ing and to 2	私は彼が壁を飛び越えて逃げるのを見ました。	I saw him jump over the wall and run away.		
+GU067S029	1	67	10_ing and to 2	彼らは出かけました。 これを聞きました。	They went out. I heard this.		
+GU067S030	1	67	10_ing and to 2	彼らが出ていくのが聞こえました。	I heard them go out.		
+GU067S031	1	67	10_ing and to 2	私はトムが通りに沿って歩いているのを見た。	I saw Tom walking along the street.		
+GU067S032	1	67	10_ing and to 2	私は彼らの声を聞きました。 彼らは話していました。	I heard them. They were talking.		
+GU067S033	1	67	10_ing and to 2	彼らが話しているのが聞こえました。	I heard them talking.		
+GU067S034	1	67	10_ing and to 2	私は彼女が踊るのを一度も見たことがありません。	I've never seen her dance.	I've never seen her dancing.	
+GU067S035	1	67	10_ing and to 2	鳥たちが歌っているよ！ あの人達の話を聞いて！	The birds are singing! Listen to them!		
+GU067S036	1	67	10_ing and to 2	鳥のさえずりを聞いてください。	Listen to the birds singing.		
+GU067S037	1	67	10_ing and to 2	男性が自転車から転落した。 これは見ませんでした。	A man fell off his bike. I didn't see this.		
+GU067S038	1	67	10_ing and to 2	私は彼が自転車から落ちるところを見ませんでした。	I didn't see him fall off his bike.		
+GU067S039	1	67	10_ing and to 2	サラはドアに鍵をかけたと言いました。 これを見ましたか？	Sarah says she locked the door. Did you see this?		
+GU067S040	1	67	10_ing and to 2	彼女がドアに鍵をかけたのを見ましたか?	Did you see her lock the door?		
+GU067S041	1	67	10_ing and to 2	あなたの友達があなたのことを話していました。 私は彼らの声を聞きました。	Your friends were talking about you. I heard them.		
+GU067S042	1	67	10_ing and to 2	あなたの友達があなたのことを話しているのを聞きました。	I heard your friends talking about you.		
+GU067S043	1	67	10_ing and to 2	彼女がバス停で待っているのを見ましたが、彼女がバスに乗ったのかわかりません。	"I saw her waiting at the bus stop, but I don't know if she got on the bus."		
+GU067S044	1	67	10_ing and to 2	私は彼女がバスに乗るのを見ませんでした。	I didn't see her get on the bus.		
+GU067S045	1	67	10_ing and to 2	隣の部屋で何人かが叫んでいた。 私は彼らの声を聞きました。	Some people were shouting in the next room. I heard them.		
+GU067S046	1	67	10_ing and to 2	隣の部屋で何人かが叫んでいるのが聞こえました。	I heard some people shouting in the next room.		
+GU067S047	1	67	10_ing and to 2	辺りが暗くなり、誰かが私の手を掴んだ。 これを感じました。	It was dark and somebody grabbed my hand. I felt this.		
+GU067S048	1	67	10_ing and to 2	誰かを感じた | 私の手を掴んでください。	I felt somebody | grab my hand.		
+GU067S049	1	67	10_ing and to 2	真夜中に誰かがドアをバタンと閉めた。 聞こえました。	Somebody slammed the door in the middle of the night. I heard it.		
+GU067S050	1	67	10_ing and to 2	誰かがドアをバタンと閉める音が聞こえました。	I heard somebody slam the door.		
+GU067S051	1	67	10_ing and to 2	誰かが「こんにちは」と言っているのが聞こえたような気がして、振り向いた。	"I thought I heard somebody say 'Hi', so I turned round."		
+GU067S052	1	67	10_ing and to 2	聞く。 赤ちゃんの泣き声が聞こえますか？	Listen. Can you hear a baby crying?		
+GU067S053	1	67	10_ing and to 2	何人かの男の子が公園でサッカーをしているのが見えたので、数分間立ち止まって見ていました。	I saw some boys playing football in the park and I stopped to watch for a few minutes.		
+GU067S054	1	67	10_ing and to 2	あなたがお金を取ったのは知っています。 あなたがそれをポケットに入れているのを見ました。	I know you took the money. I saw you put it in your pocket.		
+GU067S055	1	67	10_ing and to 2	私たちは老人の話を最初から最後まで聞きました。	We listened to the old man tell his story from beginning to end.		
+GU067S056	1	67	10_ing and to 2	あなたの家の外に二人の人が立っているのを見ました。 彼らが誰だったのか分かりません。	I saw two people standing outside your house. I don't know who they were.		
+GU067S057	1	67	10_ing and to 2	誰もが爆弾が爆発するのを聞いた。 ものすごい騒音でした。	Everybody heard the bomb explode. It was a tremendous noise.		
+GU067S058	1	67	10_ing and to 2	おお！ 足に何かが這い上がってくるのを感じます。 きっと虫だろう。	Oh! I can feel something crawling up my leg. It must be an insect.		
+GU068S001	1	68	10_ing and to 2	ジョーはフットボール中に膝を痛めた。	Joe hurt his knee playing football.		
+GU068S002	1	68	10_ing and to 2	ケイトはキッチンでコーヒーを入れています。	Kate is in the kitchen making coffee.		
+GU068S003	1	68	10_ing and to 2	男は叫びながら家から飛び出した。	A man ran out of the house shouting.		
+GU068S004	1	68	10_ing and to 2	何かをしてください！ 何もせずにそこに立っていないでください！	Do something! Don't stand there doing nothing!		
+GU068S005	1	68	10_ing and to 2	ジョーはフットボール中に膝を痛めた。	Joe hurt his knee playing football.		
+GU068S006	1	68	10_ing and to 2	髭を剃って怪我をしたのですか？	Did you cut yourself shaving?		
+GU068S007	1	68	10_ing and to 2	ジョーはフットボールをしているときに膝を痛めました。	Joe hurt his knee while playing football.		
+GU068S008	1	68	10_ing and to 2	道路を渡るときは注意してください。	Be careful when crossing the road.		
+GU068S009	1	68	10_ing and to 2	スーは音を立てないように注意してドアを開けました。	Sue opened the door carefully trying not to make a noise.		
+GU068S010	1	68	10_ing and to 2	リサはパリで 2 年間英語を教えていました。	Lisa worked in Paris for two years teaching English.		
+GU068S011	1	68	10_ing and to 2	サラは昼食後、1時間以内に戻ると言って外出しました。	Sarah went out after lunch saying she would be back in an hour.		
+GU068S012	1	68	10_ing and to 2	アンナは町を歩き回り、景色を眺めたり、写真を撮ったりしました。	Anna walked around the town looking at the sights and taking pictures.		
+GU068S013	1	68	10_ing and to 2	エミリーはテレビの前に座って夕食を食べました。	Emily ate her dinner sitting in front of the TV.		
+GU068S014	1	68	10_ing and to 2	テレビを見ながら眠ってしまいました。	I fell asleep watching TV.		
+GU068S015	1	68	10_ing and to 2	雨の中を歩いていてとても濡れました。	I got very wet walking in the rain.		
+GU068S016	1	68	10_ing and to 2	ローラは仕事に行くために車で事故を起こしました。	Laura had an accident driving to work.		
+GU068S017	1	68	10_ing and to 2	私の友達はバスから降りるときに滑って転んでしまいました。	My friend slipped and fell getting off a bus.		
+GU068S018	1	68	10_ing and to 2	エミリーは重い箱を持ち上げようとして腰を痛めました。	Emily hurt her back trying to lift a heavy box.		
+GU068S019	1	68	10_ing and to 2	火を消そうとした２人が煙に巻かれて死亡した。	Two people were overcome by smoke trying to put out the fire.		
+GU068S020	1	68	10_ing and to 2	ホテルを見つけたので、私たちは食事をする場所を探しました。	"Having found a hotel, we looked for somewhere to eat."		
+GU068S021	1	68	10_ing and to 2	仕事を終えて彼女は家に帰りました。	"Having finished her work, she went home."		
+GU068S022	1	68	10_ing and to 2	仕事を終えた後、彼女は家に帰りました。	"After finishing her work, she went home."		
+GU068S023	1	68	10_ing and to 2	仕事を終えて彼女は家に帰りました。	"Having finished her work, she went home."		
+GU068S024	1	68	10_ing and to 2	その問題について話し合ったので、解決策が見つかると思います。	"Having discussed the problem, we think we'll be able to find a solution."		
+GU068S025	1	68	10_ing and to 2	チケットを購入したので、私たちは劇場に入り、席に着きました。	"Having bought our tickets, we went into the theatre and took our seats."		
+GU068S026	1	68	10_ing and to 2	お腹が空いたと言っていたダンは、今度は何も食べたくないと言います。	"Having said he was hungry, Dan now says he doesn't want to eat anything."		
+GU068S027	1	68	10_ing and to 2	人生のほとんどをロンドンで過ごしたスティーブは、昨年小さな村に住むことになりました。	"Having spent most of his life in London, last year Steve went to live in a small village."		
+GU068S028	1	68	10_ing and to 2	最近職を失い、ジェームズは現在失業中です。	"Having lost his job recently, James is now unemployed."		
+GU068S029	1	68	10_ing and to 2	65歳で退職したキャサリンは絵を描き始めた。	"Having retired at the age of 65, Katherine took up painting."		
+GU068S030	1	68	10_ing and to 2	疲れを感じたので、早めに寝ました。	"Feeling tired, I went to bed early."		
+GU068S031	1	68	10_ing and to 2	無職なので、彼はあまりお金を持っていません。	"Being unemployed, he doesn't have much money."		
+GU068S032	1	68	10_ing and to 2	彼女は車を持っていないので、移動するのが難しいと感じています。	"Not having a car, she finds it difficult to get around."		
+GU068S033	1	68	10_ing and to 2	その映画を二回見たが、もう見たくなかった。	"Having seen the film twice, I didn't want to see it again."		
+GU068S034	1	68	10_ing and to 2	疲れを感じたので、早めに寝ました。	"Feeling tired, I went to bed early."		
+GU068S035	1	68	10_ing and to 2	彼らはお腹が空いているのかもしれないと思い、私は彼らに何か食べるものを差し出しました。	"Thinking they might be hungry, I offered them something to eat."		
+GU068S036	1	68	10_ing and to 2	ベジタリアンであるロバートは肉を一切食べません。	"Being a vegetarian, Robert doesn't eat any kind of meat."		
+GU068S037	1	68	10_ing and to 2	電話を持っていなかったので、誰にも連絡する方法がありませんでした。	"Not having a phone, I had no way of contacting anyone."		
+GU068S038	1	68	10_ing and to 2	サラはよく旅行したので、他の国についてよく知っています。	"Having travelled a lot, Sarah knows a lot about other countries."		
+GU068S039	1	68	10_ing and to 2	言葉が話せないので、自分の考えを理解してもらうのに苦労しました。	"Not being able to speak the language, I had trouble making myself understood."		
+GU068S040	1	68	10_ing and to 2	お金をほぼすべて使ってしまったので、ホテルに泊まる余裕はありませんでした。	"Having spent nearly all our money, we couldn't afford to stay at a hotel."		
