@@ -3953,24 +3953,24 @@ GU069S013	1	69	11_article and nouns 1	ラジオには電池がありません。
 GU069S014	1	69	11_article and nouns 1	この家には電気がありません。	There is no electricity in this house.		
 GU069S015	1	69	11_article and nouns 1	カップが足りません。	We don't have enough cups.		
 GU069S016	1	69	11_article and nouns 1	水が足りません。	We don't have enough water.		
-GU069S017	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：biology		
-GU069S018	1	69	11_article and nouns 1	countable	可算・不可算どっち？：bus		
-GU069S019	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：concrete		
-GU069S020	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：cotton		
-GU069S021	1	69	11_article and nouns 1	countable	可算・不可算どっち？：cow		
-GU069S022	1	69	11_article and nouns 1	countable	可算・不可算どっち？：exam		
-GU069S023	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：fun		
-GU069S024	1	69	11_article and nouns 1	countable	可算・不可算どっち？：hat		
-GU069S025	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：milk		
-GU069S026	1	69	11_article and nouns 1	countable	可算・不可算どっち？：mistake		
-GU069S027	1	69	11_article and nouns 1	countable	可算・不可算どっち？：office		
-GU069S028	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：rain		
-GU069S029	1	69	11_article and nouns 1	countable	可算・不可算どっち？：student		
-GU069S030	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：traffic		
-GU069S031	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：unemployment		
-GU069S032	1	69	11_article and nouns 1	uncountable	可算・不可算どっち？：violence		
-GU069S033	1	69	11_article and nouns 1	countable	可算・不可算どっち？：wall		
-GU069S034	1	69	11_article and nouns 1	countable	可算・不可算どっち？：wedding		
+GU069S017	1	69	11_article and nouns 1	可算・不可算どっち？：biology	uncountable		
+GU069S018	1	69	11_article and nouns 1	可算・不可算どっち？：bus	countable		
+GU069S019	1	69	11_article and nouns 1	可算・不可算どっち？：concrete	uncountable		
+GU069S020	1	69	11_article and nouns 1	可算・不可算どっち？：cotton	uncountable		
+GU069S021	1	69	11_article and nouns 1	可算・不可算どっち？：cow	countable		
+GU069S022	1	69	11_article and nouns 1	可算・不可算どっち？：exam	countable		
+GU069S023	1	69	11_article and nouns 1	可算・不可算どっち？：fun	uncountable		
+GU069S024	1	69	11_article and nouns 1	可算・不可算どっち？：hat	countable		
+GU069S025	1	69	11_article and nouns 1	可算・不可算どっち？：milk	uncountable		
+GU069S026	1	69	11_article and nouns 1	可算・不可算どっち？：mistake	countable		
+GU069S027	1	69	11_article and nouns 1	可算・不可算どっち？：office	countable		
+GU069S028	1	69	11_article and nouns 1	可算・不可算どっち？：rain	uncountable		
+GU069S029	1	69	11_article and nouns 1	可算・不可算どっち？：student	countable		
+GU069S030	1	69	11_article and nouns 1	可算・不可算どっち？：traffic	uncountable		
+GU069S031	1	69	11_article and nouns 1	可算・不可算どっち？：unemployment	uncountable		
+GU069S032	1	69	11_article and nouns 1	可算・不可算どっち？：violence	uncountable		
+GU069S033	1	69	11_article and nouns 1	可算・不可算どっち？：wall	countable		
+GU069S034	1	69	11_article and nouns 1	可算・不可算どっち？：wedding	countable		
 GU069S035	1	69	11_article and nouns 1	バナナが欲しいですか？	Do you want a banana?		
 GU069S036	1	69	11_article and nouns 1	傘を持っていません。	I don't have an umbrella.		
 GU069S037	1	69	11_article and nouns 1	私はバナナが好き。	I like bananas.		
