@@ -4492,3 +4492,363 @@ GU076S039	1	76	11_article and nouns 1	フランス人は食べ物で有名です
 GU076S040	1	76	11_article and nouns 1	中国人は印刷術を発明した。	The Chinese invented printing.		
 GU076S041	1	76	11_article and nouns 1	フランス人は食べ物で有名です。	The French are famous for their food.		
 GU076S042	1	76	11_article and nouns 1	イタリア人は食べ物で有名です。	The Italians are famous for their food.		
+GU077S001	1	77	12_article and nouns 2	アフリカ、南アメリカ	"Africa, South America"		
+GU077S002	1	77	12_article and nouns 2	フランス、日本、テキサス	"France, Japan, Texas"		
+GU077S003	1	77	12_article and nouns 2	シチリア、タスマニア	"Sicily, Tasmania"		
+GU077S004	1	77	12_article and nouns 2	カイロ、バンコク	"Cairo, Bangkok"		
+GU077S005	1	77	12_article and nouns 2	エベレスト、エトナ山	"Everest, Etna"		
+GU077S006	1	77	12_article and nouns 2	チェコ共和国	the Czech Republic		
+GU077S007	1	77	12_article and nouns 2	イギリス（UK）	the United Kingdom (the UK)		
+GU077S008	1	77	12_article and nouns 2	アメリカ合衆国（USA）	the United States of America (the USA)		
+GU077S009	1	77	12_article and nouns 2	あなたはカナダやアメリカに行ったことがありますか？	Have you been to Canada or the United States?		
+GU077S010	1	77	12_article and nouns 2	メキシコ	Mexico		
+GU077S011	1	77	12_article and nouns 2	ヨーロッパ	Europe		
+GU077S012	1	77	12_article and nouns 2	チェコ共和国	the Czech Republic		
+GU077S013	1	77	12_article and nouns 2	アメリカ	America		
+GU077S014	1	77	12_article and nouns 2	アメリカ合衆国	the United States		
+GU077S015	1	77	12_article and nouns 2	ニュージーランド	New Zealand		
+GU077S016	1	77	12_article and nouns 2	スペイン	Spain		
+GU077S017	1	77	12_article and nouns 2	サウジアラビア	Saudi Arabia		
+GU077S018	1	77	12_article and nouns 2	イングランド	England		
+GU077S019	1	77	12_article and nouns 2	イギリス	the UK		
+GU077S020	1	77	12_article and nouns 2	ミスター・ジョンソン / ドクター・ジョンソン	Mr Johnson / Doctor Johnson		
+GU077S021	1	77	12_article and nouns 2	キャプテン・ジョンソン / プレジデント・ジョンソン	Captain Johnson / President Johnson		
+GU077S022	1	77	12_article and nouns 2	アンクル・ロバート / プリンス・ロバート	Uncle Robert / Prince Robert		
+GU077S023	1	77	12_article and nouns 2	セイント・キャサリン / クイーン・キャサリン	Saint Catherine / Queen Catherine		
+GU077S024	1	77	12_article and nouns 2	私たちはその医者を呼びました。	We called the doctor.		
+GU077S025	1	77	12_article and nouns 2	私たちはドクター・ジョンソンを呼びました。	We called Doctor Johnson.		
+GU077S026	1	77	12_article and nouns 2	エベレスト山	Mount Everest		
+GU077S027	1	77	12_article and nouns 2	スペリオル湖	Lake Superior		
+GU077S028	1	77	12_article and nouns 2	彼らはその湖の近くに住んでいます。	They live near the lake.		
+GU077S029	1	77	12_article and nouns 2	彼らはスペリオル湖の近くに住んでいます。	They live near Lake Superior.		
+GU077S030	1	77	12_article and nouns 2	私は病気だったので、その医者に会いに行きました。	"I was ill, so I went to see the doctor."		
+GU077S031	1	77	12_article and nouns 2	ドクター・トーマスは心臓病の専門家です。	Doctor Thomas is an expert on heart disease.		
+GU077S032	1	77	12_article and nouns 2	私はプロフェッサー・ブラウンを探しています。あなたは彼女がどこにいるか知っていますか？	I'm looking for Professor Brown. Do you know where she is?		
+GU077S033	1	77	12_article and nouns 2	アメリカ合衆国では、プレジデントは4年間選出されます。	"In the United States, the President is elected for four years."		
+GU077S034	1	77	12_article and nouns 2	プレジデント・ケネディは1963年に暗殺されました。	President Kennedy was assassinated in 1963.		
+GU077S035	1	77	12_article and nouns 2	私が警察署で話をした警官はインスペクター・ロバーツでした。	The officer I spoke to at the police station was Inspector Roberts.		
+GU077S036	1	77	12_article and nouns 2	大西洋（オーシャン）	the Atlantic (Ocean)		
+GU077S037	1	77	12_article and nouns 2	地中海（シー）	the Mediterranean (Sea)		
+GU077S038	1	77	12_article and nouns 2	フランスとイギリスの間のチャンネル	the Channel (between France and Britain)		
+GU077S039	1	77	12_article and nouns 2	アマゾン（川）	the Amazon		
+GU077S040	1	77	12_article and nouns 2	スエズ運河	the Suez Canal		
+GU077S041	1	77	12_article and nouns 2	サハラ（砂漠）	the Sahara (Desert)		
+GU077S042	1	77	12_article and nouns 2	あなたがヨーロッパからアメリカへ旅行するには何を越える必要がありますか？ 大西洋です。	What do you have to cross to travel from Europe to America? The Atlantic.		
+GU077S043	1	77	12_article and nouns 2	アフリカで最も長い川は何ですか？ ナイル川です。	What is the longest river in Africa? The Nile.		
+GU077S044	1	77	12_article and nouns 2	アフリカとオーストラリアの間の海の名前は何ですか？ インド洋です。	What is the name of the ocean between Africa and Australia? The Indian Ocean.		
+GU077S045	1	77	12_article and nouns 2	ウィーン、ブダペスト、ベオグラードを流れる川は何ですか？ ドナウ川です。	"Which river flows through Vienna, Budapest and Belgrade? The Danube."		
+GU077S046	1	77	12_article and nouns 2	北アメリカとアジアの間の海の名前は何ですか？ 太平洋です。	What is the name of the ocean between North America and Asia? The Pacific.		
+GU077S047	1	77	12_article and nouns 2	南アメリカで最も長い川は何ですか？ アマゾンです。	What is the longest river in South America? The Amazon.		
+GU077S048	1	77	12_article and nouns 2	アフリカとヨーロッパの間の海の名前は何ですか？ 地中海です。	What is the name of the sea between Africa and Europe? The Mediterranean.		
+GU077S049	1	77	12_article and nouns 2	大西洋と太平洋を結ぶものは何ですか？ パナマ運河です。	What joins the Atlantic and Pacific Oceans? The Panama Canal.		
+GU077S050	1	77	12_article and nouns 2	テイラー家、ジョンソン家	"the Taylors, the Johnsons"		
+GU077S051	1	77	12_article and nouns 2	オランダ、フィリピン	"the Netherlands, the Philippines"		
+GU077S052	1	77	12_article and nouns 2	カナリア諸島、バハマ	"the Canary Islands, the Bahamas"		
+GU077S053	1	77	12_article and nouns 2	ロッキー山脈、アンデス山脈	"the Rocky Mountains, the Andes"		
+GU077S054	1	77	12_article and nouns 2	北アメリカ西部にある山脈の名前は何ですか？ ロッキー山脈です。	What is the name of the mountain range in the west of North America? The Rockies.		
+GU077S055	1	77	12_article and nouns 2	マニラが首都の国はどこですか？ フィリピンです。	Of which country is Manila the capital? The Philippines.		
+GU077S056	1	77	12_article and nouns 2	エクアドル沖の島々の名前は何ですか？ ガラパゴス諸島です。	What is the name of the group of islands off the coast of Ecuador? The Galapagos Islands.		
+GU077S057	1	77	12_article and nouns 2	アムステルダムとロッテルダムがある国はどこですか？ オランダです。	In which country are Amsterdam and Rotterdam? The Netherlands.		
+GU077S058	1	77	12_article and nouns 2	中央ヨーロッパにある山脈の名前は何ですか？ アルプスです。	What is the name of the mountain range in central Europe? The Alps.		
+GU077S059	1	77	12_article and nouns 2	大西洋にあるスペインの島々の名前は何ですか？ カナリア諸島です。	What is the name of the Spanish group of islands in the Atlantic Ocean? The Canaries.		
+GU077S060	1	77	12_article and nouns 2	スウェーデンは北ヨーロッパにあります。	Sweden is in northern Europe.		
+GU077S061	1	77	12_article and nouns 2	スペインは南にあります。	Spain is in the south.		
+GU077S062	1	77	12_article and nouns 2	ダンはイングランド北部のマンチェスター出身です。	Dan is from Manchester in the north of England.		
+GU077S063	1	77	12_article and nouns 2	ミラノとトリノはイタリア北部の都市です。	Milan and Turin are cities in northern Italy.		
+GU077S064	1	77	12_article and nouns 2	タイ、カンボジア、マレーシアは東南アジアの国々です。	"Thailand, Cambodia and Malaysia are countries in south-east Asia."		
+GU077S065	1	77	12_article and nouns 2	ロンドンはイングランド南東部にあります。	London is in the south-east of England.		
+GU077S066	1	77	12_article and nouns 2	私はその国全体を知りません。私はその南部にしか行ったことがありません。	I don't know the whole country. I've only been to the south.		
+GU077S067	1	77	12_article and nouns 2	エラは東ヨーロッパをたくさん旅行しました。	Ella has travelled a lot in eastern Europe.		
+GU077S068	1	77	12_article and nouns 2	あなたは南アフリカに行ったことがありますか？	Have you ever been to South Africa?		
+GU077S069	1	77	12_article and nouns 2	エベレストは世界で最も高い山です。	Everest is the highest mountain in the world.		
+GU077S070	1	77	12_article and nouns 2	私はアメリカ合衆国に行ったことがありません。	I've never been to the United States.		
+GU077S071	1	77	12_article and nouns 2	フランスの人口は約6600万人です。	France has a population of about 66 million.		
+GU077S072	1	77	12_article and nouns 2	セーシェルはインド洋にある島々です。	The Seychelles are a group of islands in the Indian Ocean.		
+GU077S073	1	77	12_article and nouns 2	長江は中国で最も長い川です。	The Yangtze River is the longest in China.		
+GU077S074	1	77	12_article and nouns 2	アフリカで最大の国はどこですか？	Which is the largest country in Africa?		
+GU077S075	1	77	12_article and nouns 2	デリーはインド北部にあります。	Delhi is in the north of India.		
+GU077S076	1	77	12_article and nouns 2	シカゴ市はミシガン湖にあります。	The city of Chicago is on Lake Michigan.		
+GU077S077	1	77	12_article and nouns 2	来年、私たちはスイスアルプスでスキーをする予定です。	Next year we're going skiing in the Swiss Alps.		
+GU077S078	1	77	12_article and nouns 2	イギリスはグレートブリテンと北アイルランドで構成されています。	The UK consists of Great Britain and Northern Ireland.		
+GU078S001	1	78	12_article and nouns 2	ユニオン・ストリート	Union Street		
+GU078S002	1	78	12_article and nouns 2	フィフス・アベニュー	Fifth Avenue		
+GU078S003	1	78	12_article and nouns 2	タイムズ・スクエア	Times Square		
+GU078S004	1	78	12_article and nouns 2	ブロードウェイ	Broadway		
+GU078S005	1	78	12_article and nouns 2	ハイド・パーク	Hyde Park		
+GU078S006	1	78	12_article and nouns 2	マンチェスター空港	Manchester Airport		
+GU078S007	1	78	12_article and nouns 2	ハーバード大学	Harvard University		
+GU078S008	1	78	12_article and nouns 2	ヴィクトリア駅	Victoria Station		
+GU078S009	1	78	12_article and nouns 2	カンタベリー大聖堂	Canterbury Cathedral		
+GU078S010	1	78	12_article and nouns 2	エディンバラ城	Edinburgh Castle		
+GU078S011	1	78	12_article and nouns 2	バッキンガム宮殿	Buckingham Palace		
+GU078S012	1	78	12_article and nouns 2	皇居	the Imperial Palace		
+GU078S013	1	78	12_article and nouns 2	ホワイトハウス	the White House		
+GU078S014	1	78	12_article and nouns 2	カーネギー・ホール	Carnegie Hall		
+GU078S015	1	78	12_article and nouns 2	セントラル・パーク	Central Park		
+GU078S016	1	78	12_article and nouns 2	フィフス・アベニュー	Fifth Avenue		
+GU078S017	1	78	12_article and nouns 2	グランド・セントラル駅	Grand Central Station		
+GU078S018	1	78	12_article and nouns 2	ケネディ空港	Kennedy Airport		
+GU078S019	1	78	12_article and nouns 2	タイムズ・スクエア	Times Square		
+GU078S020	1	78	12_article and nouns 2	リンカーン・センター	Lincoln Center		
+GU078S021	1	78	12_article and nouns 2	ウォール街	Wall Street		
+GU078S022	1	78	12_article and nouns 2	シェラトンホテル、ホリデイ・イン	"the Sheraton Hotel, the Holiday Inn"		
+GU078S023	1	78	12_article and nouns 2	パレス・シアター、オデオン	"the Palace Theatre, the Odeon"		
+GU078S024	1	78	12_article and nouns 2	グッゲンハイム美術館、ナショナル・ギャラリー	"the Guggenheim Museum, the National Gallery"		
+GU078S025	1	78	12_article and nouns 2	エンパイア・ステート・ビルディング、エッフェル塔	"the Empire State Building, the Eiffel Tower"		
+GU078S026	1	78	12_article and nouns 2	シェラトン（ホテル）	the Sheraton (Hotel)		
+GU078S027	1	78	12_article and nouns 2	グッゲンハイム（美術館）	the Guggenheim (Museum)		
+GU078S028	1	78	12_article and nouns 2	アクロポリス	the Acropolis		
+GU078S029	1	78	12_article and nouns 2	クレムリン	the Kremlin		
+GU078S030	1	78	12_article and nouns 2	パリに行くとエッフェル塔を見ることができます。	"If you go to Paris, you'll see the Eiffel Tower."		
+GU078S031	1	78	12_article and nouns 2	ニューヨークのブロードウェイやその近くには多くの劇場があります。	There are many theatres on or near Broadway in New York.		
+GU078S032	1	78	12_article and nouns 2	クレムリンはモスクワの中心にあります。	The Kremlin is in the centre of Moscow.		
+GU078S033	1	78	12_article and nouns 2	アメリカ大統領はワシントンDCのホワイトハウスに住んでいます。	The US president lives at the White House in Washington DC.		
+GU078S034	1	78	12_article and nouns 2	私は月曜日までクラウンホテルに滞在しています。	I'm staying at the Crown Hotel until Monday.		
+GU078S035	1	78	12_article and nouns 2	バッキンガム宮殿はロンドンの主要な王宮です。	Buckingham Palace is the main royal palace in London.		
+GU078S036	1	78	12_article and nouns 2	ローラはマンチェスター大学の学生です。	Laura is a student at Manchester University.		
+GU078S037	1	78	12_article and nouns 2	ニューヨークに行ったときにエンパイア・ステート・ビルディングに行きましたか？	Did you go to the Empire State Building when you went to New York?		
+GU078S038	1	78	12_article and nouns 2	トラファルガー・スクエアはロンドンの中心にある大きな広場です。	Trafalgar Square is a large square in the centre of London.		
+GU078S039	1	78	12_article and nouns 2	私たちは自然史博物館を訪れましたが、それは素晴らしかったです。	"We visited the Natural History Museum, which was wonderful."		
+GU078S040	1	78	12_article and nouns 2	現代美術館	the Museum of Modern Art		
+GU078S041	1	78	12_article and nouns 2	万里の長城	the Great Wall of China		
+GU078S042	1	78	12_article and nouns 2	ケンブリッジ大学	the University of Cambridge		
+GU078S043	1	78	12_article and nouns 2	ケンブリッジ大学	Cambridge University		
+GU078S044	1	78	12_article and nouns 2	マクドナルド	McDonald's		
+GU078S045	1	78	12_article and nouns 2	ジョーズ・カフェ	Joe's Cafe		
+GU078S046	1	78	12_article and nouns 2	ロイズ（銀行）	Lloyds (bank)		
+GU078S047	1	78	12_article and nouns 2	セント・ジョンズ教会	St John's Church		
+GU078S048	1	78	12_article and nouns 2	デイビッドはオーストラリア出身で、シドニー大学で学びました。	David is from Australia and studied at the University of Sydney.		
+GU078S049	1	78	12_article and nouns 2	アンナはボストン大学で学ぶための奨学金を獲得しました。	Anna won a scholarship to study at Boston University.		
+GU078S050	1	78	12_article and nouns 2	自由の女神像はニューヨーク港の島に立っています。	The Statue of Liberty stands on an island in New York Harbor.		
+GU078S051	1	78	12_article and nouns 2	メイシーズはニューヨークや他のアメリカの都市にある有名なデパートです。	Macy's is a well-known department store in New York and other American cities.		
+GU078S052	1	78	12_article and nouns 2	現代美術館を訪れたことがありますか？	Have you visited the Museum of Contemporary Art?		
+GU078S053	1	78	12_article and nouns 2	国立博物館を訪れたことがありますか？	Have you visited the National Museum?		
+GU078S054	1	78	12_article and nouns 2	セント・ポール大聖堂はロンドンで最も有名な観光名所の一つです。	St Paul's Cathedral is one of the most famous sights of London.		
+GU078S055	1	78	12_article and nouns 2	私たちはイタリアに行き、ピサの斜塔を見ました。	We went to Italy and saw the Leaning Tower of Pisa.		
+GU078S056	1	78	12_article and nouns 2	ワシントン・ポスト、サン	"the Washington Post, the Sun"		
+GU078S057	1	78	12_article and nouns 2	欧州連合、赤十字	"the European Union, the Red Cross"		
+GU078S058	1	78	12_article and nouns 2	フィアット、サムスン、シンガポール航空	"Fiat, Samsung, Singapore Airlines"		
+GU078S059	1	78	12_article and nouns 2	ハイド・パークはロンドンで最大の公園の一つです。	Hyde Park is one of the largest parks in London.		
+GU078S060	1	78	12_article and nouns 2	インペリアルホテルは町の中心にあります。	The Imperial Hotel is right in the centre of town.		
+GU078S061	1	78	12_article and nouns 2	あなたは科学博物館に行くべきです。それは非常に面白いです。	You should go to the Science Museum. It's very interesting.		
+GU078S062	1	78	12_article and nouns 2	私は中国に行って万里の長城を見たいです。	I'd like to go to China and see the Great Wall.		
+GU078S063	1	78	12_article and nouns 2	ダブリン空港は市の中心部から約12キロメートルのところにあります。	Dublin Airport is situated about 12 kilometres from the city centre.		
+GU078S064	1	78	12_article and nouns 2	どの新聞を買えばいいですか？モーニング・ニュース？	Which newspaper shall I get? The Morning News?		
+GU078S065	1	78	12_article and nouns 2	ジャックはリバプール大学の学生です。	Jack is a student at Liverpool University.		
+GU078S066	1	78	12_article and nouns 2	通りの向かいにある建物は芸術大学です。	The building across the street is the College of Art.		
+GU078S067	1	78	12_article and nouns 2	デパートを探しているなら、ハリソンズをお勧めします。	"If you're looking for a department store, I would recommend Harrison's."		
+GU078S068	1	78	12_article and nouns 2	アクロポリスはアテネで最も有名な観光名所です。	The Acropolis is the most famous tourist attraction in Athens.		
+GU078S069	1	78	12_article and nouns 2	マーティンは客室乗務員です。彼はキャセイ・パシフィックで働いています。	Martin is a flight attendant. He works for Cathay Pacific.		
+GU078S070	1	78	12_article and nouns 2	ロンドン塔はこの都市で最も人気のある観光名所の一つです。	The Tower of London is one of the city's most popular attractions.		
+GU079S001	1	79	12_article and nouns 2	ズボンが長すぎます。	My trousers are too long.		
+GU079S002	1	79	12_article and nouns 2	それはいいジーンズです。	Those are nice jeans.		
+GU079S003	1	79	12_article and nouns 2	それはいいジーンズの一着です。	That's a nice pair of jeans.		
+GU079S004	1	79	12_article and nouns 2	新しい眼鏡が必要です。	I need some new glasses.		
+GU079S005	1	79	12_article and nouns 2	新しい眼鏡が必要です。	I need a new pair of glasses.		
+GU079S006	1	79	12_article and nouns 2	視力が悪くなってきました。眼鏡が必要です。	My eyesight is getting worse. I need glasses.		
+GU079S007	1	79	12_article and nouns 2	あなたが買ってくれたズボンは私に合いません。	The trousers you bought for me don't fit me.		
+GU079S008	1	79	12_article and nouns 2	この生地を切るためのハサミが必要です。	I need some scissors to cut this piece of material.		
+GU079S009	1	79	12_article and nouns 2	買い物に行ってジーンズを一着買いました。	I went shopping and bought a pair of jeans.		
+GU079S010	1	79	12_article and nouns 2	サッカー選手はプレー中にズボンを履きません。ショーツを履きます。	Footballers don't wear trousers when they play. They wear shorts.		
+GU079S011	1	79	12_article and nouns 2	買い物に行ってパジャマを一着買いました。	I went shopping and bought a pair of pyjamas.		
+GU079S012	1	79	12_article and nouns 2	サングラスはどこですか？	Where are my sunglasses?		
+GU079S013	1	79	12_article and nouns 2	双眼鏡が見つかりません。見かけましたか？	I can't find my binoculars. Have you seen them?		
+GU079S014	1	79	12_article and nouns 2	体操は私の好きなスポーツです。	Gymnastics is my favourite sport.		
+GU079S015	1	79	12_article and nouns 2	ニュースがあります。良いニュースです！	I have some news for you. It's good news!		
+GU079S016	1	79	12_article and nouns 2	政治については何も知りません。興味がありません。	I don't know anything about politics. I'm not interested in it.		
+GU079S017	1	79	12_article and nouns 2	物理は学校で一番好きな科目でした。	Physics was my favourite subject at school.		
+GU079S018	1	79	12_article and nouns 2	自転車は交通手段です。	The bicycle is a means of transport.		
+GU079S019	1	79	12_article and nouns 2	多くのアメリカのテレビシリーズが他の国で放送されています。	A lot of American TV series are shown in other countries.		
+GU079S020	1	79	12_article and nouns 2	トラは絶滅危惧種です。	The tiger is an endangered species.		
+GU079S021	1	79	12_article and nouns 2	問題を議論するために一連の会議が開かれます。	There will be a series of meetings to discuss the problem.		
+GU079S022	1	79	12_article and nouns 2	幸いにもニュースは予想より悪くはありませんでした。	Fortunately the news wasn't as bad as we expected.		
+GU079S023	1	79	12_article and nouns 2	政府は所得税を増やしたいと考えています。	The government want to increase income tax.		
+GU079S024	1	79	12_article and nouns 2	会社のスタッフは新しい労働条件に満足していません。	Staff at the company are not happy with their new working conditions.		
+GU079S025	1	79	12_article and nouns 2	イタリアは来週の日曜日にブラジルと対戦します。	Italy are playing Brazil next Sunday.		
+GU079S026	1	79	12_article and nouns 2	シェルはガソリンの価格を上げました。	Shell have increased the price of petrol.		
+GU079S027	1	79	12_article and nouns 2	政府は所得税を増やしたいと考えています。	The government wants to increase income tax.		
+GU079S028	1	79	12_article and nouns 2	シェルはガソリンの価格を上げました。	Shell has increased the price of petrol.		
+GU079S029	1	79	12_article and nouns 2	警察は犯罪を調査していますが、まだ誰も逮捕していません。	"The police are investigating the crime, but haven't arrested anyone yet."		
+GU079S030	1	79	12_article and nouns 2	彼はいい人です。	He's a nice person.		
+GU079S031	1	79	12_article and nouns 2	彼らはいい人たちです。	They are nice people.		
+GU079S032	1	79	12_article and nouns 2	多くの人々が十分に食べられません。	Many people don't have enough to eat.		
+GU079S033	1	79	12_article and nouns 2	私はロンドンに住んでいますが、家族は南アフリカにいます。	"I live in London, but my family are in South Africa."		
+GU079S034	1	79	12_article and nouns 2	会社は来年新しい工場を開設することを決定しました。	The company have decided to open a new factory next year.		
+GU079S035	1	79	12_article and nouns 2	このカフェが好きです。ここにいるスタッフはとても親切です。	I like this cafe. The staff here are really friendly.		
+GU079S036	1	79	12_article and nouns 2	ドイツは明日の夜スペインと対戦しますが、テレビで放送されません。	"Germany are playing Spain tomorrow night, but it's not on TV."		
+GU079S037	1	79	12_article and nouns 2	マイクロソフトは1975年以来ビジネスを続けています。	Microsoft have been in business since 1975.		
+GU079S038	1	79	12_article and nouns 2	政府は今人気がありません。恐らく選挙で敗北するでしょう。	The government are not popular right now. They'll probably lose the election.		
+GU079S039	1	79	12_article and nouns 2	警察は強盗について二人の男性にインタビューしたいと考えています。	The police want to interview two men about the robbery.		
+GU079S040	1	79	12_article and nouns 2	訪れるのに良い国です。人々はとても親切です。	It's a nice country to visit. The people are very friendly.		
+GU079S041	1	79	12_article and nouns 2	警察は事故がどのように起こったか知っていますか？	Do the police know how the accident happened?		
+GU079S042	1	79	12_article and nouns 2	ほとんどの人々が音楽を楽しんでいます。	Most people enjoy music.		
+GU079S043	1	79	12_article and nouns 2	通りで交通整理をしている警察官がいました。	There was a police officer directing traffic in the street.		
+GU079S044	1	79	12_article and nouns 2	マーティンとジェーンが好きです。彼らはとても良い人たちです。	I like Martin and Jane. They're very nice people.		
+GU079S045	1	79	12_article and nouns 2	強盗で五万ポンドが盗まれました。	Fifty thousand pounds was stolen in the robbery.		
+GU079S046	1	79	12_article and nouns 2	三年間も仕事がないのは長いです。	Three years is a long time to be without a job.		
+GU079S047	1	79	12_article and nouns 2	二マイルは歩くにはあまり遠くありません。	Two miles isn't very far to walk.		
+GU079S048	1	79	12_article and nouns 2	三十度は私には暑すぎます。暑い天気が好きではありません。	Thirty degrees is too hot for me. I don't like hot weather.		
+GU079S049	1	79	12_article and nouns 2	十ドルでは足りません。それ以上必要です。	Ten dollars isn't enough money. I need more than that.		
+GU079S050	1	79	12_article and nouns 2	四日間では休暇としては短すぎます。少なくとも一週間は必要です。	Four days isn't long enough for a holiday. You need at least a week.		
+GU079S051	1	79	12_article and nouns 2	二十キログラムは持ち運ぶには多すぎます。運べるか確かですか？	Twenty kilograms is a lot to carry. Are you sure you can manage?		
+GU079S052	1	79	12_article and nouns 2	飛行機で十二時間は長いです。とても不快に違いありません。	Twelve hours is a long time to be on a plane. It must get very uncomfortable.		
+GU079S053	1	79	12_article and nouns 2	スーは黒いジーンズを履いていました。	Sue was wearing black jeans.		
+GU079S054	1	79	12_article and nouns 2	友人が地元新聞のために一連の記事を書いています。	A friend of mine is writing a series of articles for the local newspaper.		
+GU079S055	1	79	12_article and nouns 2	新しい眼鏡があまり合いません。	My new glasses don't fit very well.		
+GU079S056	1	79	12_article and nouns 2	陸上競技は私の好きなスポーツです。	Athletics is my favourite sport.		
+GU079S057	1	79	12_article and nouns 2	警察は何をするつもりですか？	What are the police going to do?		
+GU079S058	1	79	12_article and nouns 2	ハサミを借りてもいいですか？私のは鋭くありません。	Can I borrow your scissors? Mine aren't sharp enough.		
+GU079S059	1	79	12_article and nouns 2	この植物は非常に珍しい種です。	This plant is a very rare species.		
+GU079S060	1	79	12_article and nouns 2	人々は現在の政府に不満を持っています。皆が変化を望んでいます。	People are unhappy with the government right now. Everybody wants change.		
+GU079S061	1	79	12_article and nouns 2	五千語のエッセイを書かなければなりませんでした。五千語は多いです。	I had to write an essay of five thousand words. Five thousand words is a lot.		
+GU080S001	1	80	12_article and nouns 2	バスの運転手	a bus driver		
+GU080S002	1	80	12_article and nouns 2	所得税	income tax		
+GU080S003	1	80	12_article and nouns 2	市の中心部	the city centre		
+GU080S004	1	80	12_article and nouns 2	リンゴの木	an apple tree		
+GU080S005	1	80	12_article and nouns 2	テレビカメラ	a television camera		
+GU080S006	1	80	12_article and nouns 2	テレビ番組	a television programme		
+GU080S007	1	80	12_article and nouns 2	テレビプロデューサー	a television producer		
+GU080S008	1	80	12_article and nouns 2	言語の問題	language problems		
+GU080S009	1	80	12_article and nouns 2	結婚の問題	marriage problems		
+GU080S010	1	80	12_article and nouns 2	健康の問題	health problems		
+GU080S011	1	80	12_article and nouns 2	フライパン	a frying pan		
+GU080S012	1	80	12_article and nouns 2	スイミングプール	a swimming pool		
+GU080S013	1	80	12_article and nouns 2	コーヒーカップ	a coffee cup		
+GU080S014	1	80	12_article and nouns 2	コーヒー一杯	a cup of coffee		
+GU080S015	1	80	12_article and nouns 2	列車で旅行するための切符は列車の切符です。	A ticket to travel by train is a train ticket.		
+GU080S016	1	80	12_article and nouns 2	切符を取るために使う機械は切符の自動販売機です。	A machine you use to get a ticket is a ticket machine.		
+GU080S017	1	80	12_article and nouns 2	ホテルのスタッフはホテルのスタッフです。	The staff at a hotel are the hotel staff.		
+GU080S018	1	80	12_article and nouns 2	あなたの試験の結果は試験の結果です。	The results of your exams are your exam results.		
+GU080S019	1	80	12_article and nouns 2	馬のレースは競馬です。	A race for horses is a horse race.		
+GU080S020	1	80	12_article and nouns 2	レースに出る馬は競走馬です。	A horse that runs in races is a race horse.		
+GU080S021	1	80	12_article and nouns 2	ランニング用の靴はランニングシューズです。	Shoes for running are running shoes.		
+GU080S022	1	80	12_article and nouns 2	靴を売る店は靴屋です。	A shop that sells shoes is a shoe shop.		
+GU080S023	1	80	12_article and nouns 2	店の窓はショーウィンドウです。	The window of a shop is the shop window.		
+GU080S024	1	80	12_article and nouns 2	窓を掃除する人は窓拭きです。	A person who cleans windows is a window cleaner.		
+GU080S025	1	80	12_article and nouns 2	これで物を支払うことができます。クレジットカードです。	You can use this to pay for things. A credit card.		
+GU080S026	1	80	12_article and nouns 2	これは悪い運転によって引き起こされるかもしれません。交通事故です。	This could be caused by bad driving. A road accident.		
+GU080S027	1	80	12_article and nouns 2	これは結婚している場合に身に着けるかもしれないものです。結婚指輪です。	This is something you might wear if you're married. A wedding ring.		
+GU080S028	1	80	12_article and nouns 2	この人は道路で物を運びます。トラックの運転手です。	This person transports things by road. A truck driver.		
+GU080S029	1	80	12_article and nouns 2	これは雨が降るかどうかを教えてくれます。天気予報です。	This will tell you if it's going to rain or not. The weather forecast.		
+GU080S030	1	80	12_article and nouns 2	これは年を取ることを祝う方法です。誕生日パーティーです。	This is a way to celebrate getting older. A birthday party.		
+GU080S031	1	80	12_article and nouns 2	これはたくさんの汚れた服がある場合に役立ちます。洗濯機です。	This is useful if you have a lot of dirty clothes. A washing machine.		
+GU080S032	1	80	12_article and nouns 2	ホテルに滞在している場合、これを覚えておく必要があります。部屋番号です。	"If you're staying at a hotel, you'll need to remember this. Your room number."		
+GU080S033	1	80	12_article and nouns 2	この人はトップのジャーナリストです。新聞編集者です。	This person is a top journalist. A newspaper editor.		
+GU080S034	1	80	12_article and nouns 2	運転中にこれを着用するべきです。シートベルトです。	You should wear this when you're driving. A seat belt.		
+GU080S035	1	80	12_article and nouns 2	私はホテルの受付で待っていました。	I waited at the hotel reception desk.		
+GU080S036	1	80	12_article and nouns 2	私たちはテレビで世界水泳選手権を見ました。	We watched the World Swimming Championships on TV.		
+GU080S037	1	80	12_article and nouns 2	卓球をしたいなら、卓球台が必要です。	"If you want to play table tennis, you need a table tennis table."		
+GU080S038	1	80	12_article and nouns 2	私はリビングのカーペットにコーヒーをこぼしました。	I spilt coffee on the living room carpet.		
+GU080S039	1	80	12_article and nouns 2	ジャックはスポーツが好きです。彼は学校のサッカーチームに所属しています。	Jack likes sport. He plays for his school football team.		
+GU080S040	1	80	12_article and nouns 2	エミリーは映画制作会社に就職したばかりです。	Emily has just got a job in a film production company.		
+GU080S041	1	80	12_article and nouns 2	多くの人が生命保険に投資します。	A lot of people invest in a life insurance policy.		
+GU080S042	1	80	12_article and nouns 2	ベンは大学のコンピューター科学部で働いています。	Ben works at the university in the computer science department.		
+GU080S043	1	80	12_article and nouns 2	地図が必要なら、観光案内所で手に入れることができます。	"If you need a map, you can get one at the tourist information office."		
+GU080S044	1	80	12_article and nouns 2	3時間の旅	a three-hour journey		
+GU080S045	1	80	12_article and nouns 2	4週間のコース	a four-week course		
+GU080S046	1	80	12_article and nouns 2	6マイルの歩行	a six-mile walk		
+GU080S047	1	80	12_article and nouns 2	14歳の少女2人	two 14-year-old girls		
+GU080S048	1	80	12_article and nouns 2	それは4週間のコースでした。	It was a four-week course.		
+GU080S049	1	80	12_article and nouns 2	コースは4週間続きました。	The course lasted four weeks.		
+GU080S050	1	80	12_article and nouns 2	ロンドンからマドリードへの飛行は2時間です。	It's only a two-hour flight from London to Madrid.		
+GU080S051	1	80	12_article and nouns 2	ロンドンからマドリードまでは2時間です。	It's only two hours from London to Madrid.		
+GU080S052	1	80	12_article and nouns 2	お釣りがありません。20ポンド紙幣しか持っていません。	I don't have any change. I only have a twenty-pound note.		
+GU080S053	1	80	12_article and nouns 2	下を見て、地面に2枚の10ポンド紙幣が見えました。	I looked down and saw two ten-pound notes on the ground.		
+GU080S054	1	80	12_article and nouns 2	これはかなり大きな本です。500ページ以上あります。	It's quite a big book. There are more than 500 pages.		
+GU080S055	1	80	12_article and nouns 2	通常、午前中の仕事中に15分間のコーヒーブレイクを取ります。	At work in the morning we usually have a fifteen-minute break for coffee.		
+GU080S056	1	80	12_article and nouns 2	私のオフィスは12階建てビルの10階にあります。	My office is on the tenth floor of a twelve-storey building.		
+GU080S057	1	80	12_article and nouns 2	私は週5日働いています。土曜日と日曜日は休みです。	I work five days a week. Saturday and Sunday are free.		
+GU080S058	1	80	12_article and nouns 2	五つ星ホテルは最も高価です。	Five-star hotels are the most expensive.		
+GU080S059	1	80	12_article and nouns 2	サムの娘は6歳です。	Sam's daughter is six years old.		
+GU080S060	1	80	12_article and nouns 2	サムには6歳の娘がいます。	Sam has a six-year-old daughter.		
+GU081S001	1	81	12_article and nouns 2	トムのコンピュータは動作していません。	Tom's computer isn't working.		
+GU081S002	1	81	12_article and nouns 2	クリスの子供たちは何歳ですか？	How old are Chris's children?		
+GU081S003	1	81	12_article and nouns 2	あなたの姉妹の名前は何ですか？	What is your sister's name?		
+GU081S004	1	81	12_article and nouns 2	トムの姉妹の名前は何ですか？	What is Tom's sister's name?		
+GU081S005	1	81	12_article and nouns 2	気をつけて。猫のしっぽを踏まないで。	Be careful. Don't step on the cat's tail.		
+GU081S006	1	81	12_article and nouns 2	リサとベンの子供たちは何歳ですか？	How old are Lisa and Ben's children?		
+GU081S007	1	81	12_article and nouns 2	あなたの友達のお母さん	your friend's mother		
+GU081S008	1	81	12_article and nouns 2	昨日会った女性のお母さん	the mother of the woman we met yesterday.		
+GU081S009	1	81	12_article and nouns 2	これは私の本ではありません。私の姉妹のものです。	This isn't my book. It's my sister's.		
+GU081S010	1	81	12_article and nouns 2	トムはニコラの夫です。	Tom is Nicola's husband.		
+GU081S011	1	81	12_article and nouns 2	レイチェルはトムの姉妹です。	Rachel is Tom's sister.		
+GU081S012	1	81	12_article and nouns 2	トムとニコラはサラの両親です。	Tom and Nicola are Sarah's parents.		
+GU081S013	1	81	12_article and nouns 2	レイチェルはサラのおばです。	Rachel is Sarah's aunt.		
+GU081S014	1	81	12_article and nouns 2	レイチェルはマイケルとローラの娘です。	Rachel is Michael and Laura's daughter.		
+GU081S015	1	81	12_article and nouns 2	サラはレイチェルの姪です。	Sarah is Rachel's niece.		
+GU081S016	1	81	12_article and nouns 2	ジョーはトムの甥です。	Joe is Tom's nephew.		
+GU081S017	1	81	12_article and nouns 2	ジョーはダンとレイチェルの息子です。	Joe is Dan and Rachel's son.		
+GU081S018	1	81	12_article and nouns 2	トムはジョーのおじです。	Tom is Joe's uncle.		
+GU081S019	1	81	12_article and nouns 2	サラはジョーのいとこです。	Sarah is Joe's cousin.		
+GU081S020	1	81	12_article and nouns 2	私の姉妹の部屋	my sister's room		
+GU081S021	1	81	12_article and nouns 2	カーターさんの家	Mr Carter's house		
+GU081S022	1	81	12_article and nouns 2	リサとエイミーの部屋	Lisa and Amy's room.		
+GU081S023	1	81	12_article and nouns 2	私の姉妹たちの部屋	my sisters' room		
+GU081S024	1	81	12_article and nouns 2	カーター家の家	the Carters' house		
+GU081S025	1	81	12_article and nouns 2	男性用更衣室	the men's changing room		
+GU081S026	1	81	12_article and nouns 2	子供向けの本	a children's book		
+GU081S027	1	81	12_article and nouns 2	私は兄弟と二人の姉妹がいます。	I have a brother and two sisters.		
+GU081S028	1	81	12_article and nouns 2	これは私の部屋ではありません。私の姉妹の部屋です。	This isn't my room. It's my sister's.		
+GU081S029	1	81	12_article and nouns 2	これは私の部屋ではありません。私の姉妹たちの部屋です。	This isn't my room. It's my sisters'.		
+GU081S030	1	81	12_article and nouns 2	明日は父の誕生日です。	It's my father's birthday tomorrow.		
+GU081S031	1	81	12_article and nouns 2	あなたはジャックとカレンの結婚式に行きますか？	Are you going to Jack and Karen's wedding?		
+GU081S032	1	81	12_article and nouns 2	そのリンゴは美味しそうです。いくつか買いましょうか？	Those apples look nice. Shall we buy some?		
+GU081S033	1	81	12_article and nouns 2	子供の服は高いです。	Children's clothes are expensive.		
+GU081S034	1	81	12_article and nouns 2	あなたの両親の両親はあなたの祖父母です。	Your parents' parents are your grandparents.		
+GU081S035	1	81	12_article and nouns 2	シェイクスピアの詩を読んだことがありますか？	Have you read any of Shakespeare's poems?		
+GU081S036	1	81	12_article and nouns 2	休暇中にたくさんの写真を撮りました。	I took a lot of photos when I was on holiday.		
+GU081S037	1	81	12_article and nouns 2	この傘は私のものではありません。誰かのものです。	This umbrella isn't mine. It's somebody else's.		
+GU081S038	1	81	12_article and nouns 2	私の隣人の車が売りに出されています。興味があるかどうか尋ねられました。	My neighbours' car is for sale. They asked me if I was interested.		
+GU081S039	1	81	12_article and nouns 2	マイクの両親の車を見たことがありますか？	Have you seen Mike's parents' car?		
+GU081S040	1	81	12_article and nouns 2	水の温度	the temperature of the water		
+GU081S041	1	81	12_article and nouns 2	本の名前	the name of the book		
+GU081S042	1	81	12_article and nouns 2	レストランのオーナー	the owner of the restaurant		
+GU081S043	1	81	12_article and nouns 2	水温	the water temperature		
+GU081S044	1	81	12_article and nouns 2	レストランのオーナー	the restaurant owner		
+GU081S045	1	81	12_article and nouns 2	月の初めに会いましょう。	Let's meet at the beginning of the month.		
+GU081S046	1	81	12_article and nouns 2	丘の頂上まで歩きました。	We walked to the top of the hill.		
+GU081S047	1	81	12_article and nouns 2	車の後部座席に座りました。	I sat in the back of the car.		
+GU081S048	1	81	12_article and nouns 2	これはあなたの友達の傘ですか？	Is this your friend's umbrella?		
+GU081S049	1	81	12_article and nouns 2	ページの上部にあなたの名前を書いてください。	Write your name at the top of the page.		
+GU081S050	1	81	12_article and nouns 2	ジェームズの娘に会ったことがありません。	I've never met James's daughter		
+GU081S051	1	81	12_article and nouns 2	ヘレンとダンの息子は何歳ですか？	How old is Helen and Dan's son?		
+GU081S052	1	81	12_article and nouns 2	問題の原因が分かりません。	We don't know the cause of the problem.		
+GU081S053	1	81	12_article and nouns 2	新しいコンピュータの費用はいくらですか？	What is the cost of a new computer?		
+GU081S054	1	81	12_article and nouns 2	あなたの子供たちの友達がここにいます。	Your children's friends are here.		
+GU081S055	1	81	12_article and nouns 2	私たちの隣人の庭はとても小さいです。	Our neighbours' garden is very small.		
+GU081S056	1	81	12_article and nouns 2	私は建物の一階で働いています。	I work on the ground floor of the building.		
+GU081S057	1	81	12_article and nouns 2	デイビッドの髪はとても長いです。	David's hair is very long.		
+GU081S058	1	81	12_article and nouns 2	キャサリンのパーティーに行けませんでした。	I couldn't go to Katherine's party.		
+GU081S059	1	81	12_article and nouns 2	この歌の歌詞が分かりません。	I don't know the words of this song.		
+GU081S060	1	81	12_article and nouns 2	この表現の意味は何ですか？	What's the meaning of this expression?		
+GU081S061	1	81	12_article and nouns 2	ジョージは大学で知り合った誰かの兄弟です。	George is the brother of somebody I knew at college.		
+GU081S062	1	81	12_article and nouns 2	政府の決定	the government's decision		
+GU081S063	1	81	12_article and nouns 2	政府の決定	the decision of the government		
+GU081S064	1	81	12_article and nouns 2	会社の成功	the company's success		
+GU081S065	1	81	12_article and nouns 2	会社の成功	the success of the company		
+GU081S066	1	81	12_article and nouns 2	市の通り	the city's streets		
+GU081S067	1	81	12_article and nouns 2	世界の人口	the world's population		
+GU081S068	1	81	12_article and nouns 2	イタリアの首相	Italy's prime minister		
+GU081S069	1	81	12_article and nouns 2	イギリスの天気はとても変わりやすいです。	Britain's weather is very changeable.		
+GU081S070	1	81	12_article and nouns 2	ここには多くの観光客がいます - この地域の主要産業は観光です。	We have many visitors here - the region's main industry is tourism.		
+GU081S071	1	81	12_article and nouns 2	城は古いですが、町で最も古い建物ではありません。	"The castle is old, but it's not the town's oldest building."		
+GU081S072	1	81	12_article and nouns 2	政府の経済政策に賛成ですか？	Do you agree with the government's economic policy?		
+GU081S073	1	81	12_article and nouns 2	チューリッヒは人口が100万人を超えるスイス最大の都市です。	Zurich is Switzerland's largest city with a population of more than a million.		
+GU081S074	1	81	12_article and nouns 2	日焼け止めクリームは太陽の有害な光線から肌を守ります。	Sun cream protects the skin from the sun's harmful rays.		
+GU081S075	1	81	12_article and nouns 2	私たちの事業は昨年大きく成長しました。それは会社の歴史の中で最高の年でした。	Our business grew a lot last year. It was the best year in the company's history.		
+GU081S076	1	81	12_article and nouns 2	ここの食べ物は美味しいですが、このレストランの価格は高すぎると思います。	"The food here is good, but I think this restaurant's prices are too high."		
+GU081S077	1	81	12_article and nouns 2	まだ昨日の新聞がありますか？	Do you still have yesterday's newspaper?		
+GU081S078	1	81	12_article and nouns 2	来週の会議はキャンセルされました。	Next week's meeting has been cancelled.		
+GU081S079	1	81	12_article and nouns 2	月曜日から一週間の休暇があります。	I have a week's holiday starting on Monday.		
+GU081S080	1	81	12_article and nouns 2	ジュリアは三週間の休暇があります。	Julia has three weeks' holiday.		
+GU081S081	1	81	12_article and nouns 2	駅の近くに住んでいます - 歩いて約10分です。	I live near the station - it's only about ten minutes' walk.		
+GU081S082	1	81	12_article and nouns 2	先週の嵐は多くの被害を引き起こしました。	Last week's storm caused a lot of damage.		
+GU081S083	1	81	12_article and nouns 2	先週の嵐は多くの被害を引き起こしました。	The storm last week caused a lot of damage.		
+GU081S084	1	81	12_article and nouns 2	私の家から空港まで車で約二時間です。	It's about two hours' drive from my house to the airport.		
+GU081S085	1	81	12_article and nouns 2	今日はとても疲れています。昨晩は一時間しか眠れませんでした。	I'm very tired today. Last night I only had an hour's sleep.		
+GU081S086	1	81	12_article and nouns 2	ここから市の中心部まで歩いて二十分です。	It's twenty minutes' walk from here to the city centre.		
+GU081S087	1	81	12_article and nouns 2	ここから市の中心部まで歩いて二十分しかかかりません。	It only takes twenty minutes to walk from here to the city centre.		
+GU081S088	1	81	12_article and nouns 2	明日の試合は後日まで延期されました。	Tomorrow's game has been postponed until a later date.		
+GU081S089	1	81	12_article and nouns 2	来週は数日間留守にします。	I'll be away for a few days next week.		
+GU081S090	1	81	12_article and nouns 2	今月後半に一週間の休暇があります。それを楽しみにしています。	I have a week's holiday later this month. I'm looking forward to it.		
+GU081S091	1	81	12_article and nouns 2	まだ先週の月曜日の新聞がありますか？	Do we still have last Monday's newspaper?		
