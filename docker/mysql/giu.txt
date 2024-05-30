@@ -4852,3 +4852,373 @@ GU081S088	1	81	12_article and nouns 2	明日の試合は後日まで延期され
 GU081S089	1	81	12_article and nouns 2	来週は数日間留守にします。	I'll be away for a few days next week.		
 GU081S090	1	81	12_article and nouns 2	今月後半に一週間の休暇があります。それを楽しみにしています。	I have a week's holiday later this month. I'm looking forward to it.		
 GU081S091	1	81	12_article and nouns 2	まだ先週の月曜日の新聞がありますか？	Do we still have last Monday's newspaper?		
+GU082S001	1	82	13_pronouns and determiners	スティーブは他の客に自己紹介をした。	Steve introduced himself to the other guests.		
+GU082S002	1	82	13_pronouns and determiners	あなたに私の分を支払ってほしくない。自分で支払う。	I don't want you to pay for me. I'll pay for myself.		
+GU082S003	1	82	13_pronouns and determiners	エイミーは素晴らしい休暇を過ごした。彼女は本当に楽しんだ。	Amy had a great holiday. She really enjoyed herself.		
+GU082S004	1	82	13_pronouns and determiners	時々、自分に話しかけることがありますか？	Do you talk to yourself sometimes?		
+GU082S005	1	82	13_pronouns and determiners	もっと食べたいなら、自分で取ってください。	"If you want more to eat, help yourselves."		
+GU082S006	1	82	13_pronouns and determiners	ベンは階段をいくつか転んだけど、幸いにも怪我をしなかった。	"Ben fell down some steps, but fortunately he didn't hurt himself."		
+GU082S007	1	82	13_pronouns and determiners	気をつけて！その鍋は熱いよ。自分を火傷しないように。	Be careful! That pan is hot. Don't burn yourself.		
+GU082S008	1	82	13_pronouns and determiners	それはスーのせいではない。彼女は自分を責めるべきではない。	It isn't Sue's fault. She really shouldn't blame herself.		
+GU082S009	1	82	13_pronouns and determiners	子供たちはビーチで楽しい時間を過ごすだろう。彼らは楽しむだろう。	The children will have a great time at the beach. They'll enjoy themselves.		
+GU082S010	1	82	13_pronouns and determiners	私の気持ちを理解しようとしてみてください。私の立場になってみてください。	Please try and understand how I feel. You have to put yourself in my position.		
+GU082S011	1	82	13_pronouns and determiners	時々、自分の言いたいことを正確に言えないことがあります。もっと上手に自分を表現できればいいのに。	Sometimes I can't say exactly what I mean. I wish I could express myself better.		
+GU082S012	1	82	13_pronouns and determiners	リサは私を他の客に紹介した。	Lisa introduced me to the other guests.		
+GU082S013	1	82	13_pronouns and determiners	私は他の客に自己紹介をした。	I introduced myself to the other guests.		
+GU082S014	1	82	13_pronouns and determiners	それは私たちのせいではない。私たちを責めることはできない。	It's not our fault. You can't blame us.		
+GU082S015	1	82	13_pronouns and determiners	それは私たち自身のせいだ。私たちは自分を責めるべきだ。	It's our own fault. We should blame ourselves.		
+GU082S016	1	82	13_pronouns and determiners	エイミーは素晴らしい休暇を過ごした。彼女は楽しんだ。	Amy had a great holiday. She enjoyed herself.		
+GU082S017	1	82	13_pronouns and determiners	それは私のせいではない。私を責めることはできない。	It's not my fault. You can't blame me.		
+GU082S018	1	82	13_pronouns and determiners	私がしたことは本当に悪かった。私は自分を恥じている。	What I did was really bad. I'm ashamed of myself.		
+GU082S019	1	82	13_pronouns and determiners	私たちは問題を抱えている。あなたが助けてくれることを望んでいる。	We have a problem. I hope you can help us.		
+GU082S020	1	82	13_pronouns and determiners	もしもっとコーヒーが欲しいなら、自分でどうぞ。	"If you'd like some more coffee, please help yourself."		
+GU082S021	1	82	13_pronouns and determiners	アンナは困難な状況にある。私は彼女を気の毒に思う。	Anna is in a difficult situation. I feel sorry for her.		
+GU082S022	1	82	13_pronouns and determiners	私は彼らに家の鍵を渡して、彼らが自分で中に入れるようにした。	I gave them a key to our house so that they could let themselves in.		
+GU082S023	1	82	13_pronouns and determiners	あなたはサラに会うべきです。彼女を紹介します。	You must meet Sarah. I'll introduce you to her.		
+GU082S024	1	82	13_pronouns and determiners	私たちのことは心配しないで。私たちは自分で対処できる。	Don't worry about us. We can take care of ourselves.		
+GU082S025	1	82	13_pronouns and determiners	子供たちのことは心配しないで。私が面倒を見る。	Don't worry about the children. I'll take care of them.		
+GU082S026	1	82	13_pronouns and determiners	私は緊張している。	I feel nervous.		
+GU082S027	1	82	13_pronouns and determiners	リラックス！すべて大丈夫だよ！	Relax! Everything is OK!		
+GU082S028	1	82	13_pronouns and determiners	集中しようとしなければならない。	You must try and concentrate.		
+GU082S029	1	82	13_pronouns and determiners	何時に会おうか？	What time shall we meet?		
+GU082S030	1	82	13_pronouns and determiners	彼は起きて、洗顔し、ひげを剃り、服を着た。	"He got up, washed, shaved and dressed."		
+GU082S031	1	82	13_pronouns and determiners	ニールはひげを剃るのが嫌いなので、ひげを伸ばすことにした。	Neil decided to grow a beard because he doesn't like shaving.		
+GU082S032	1	82	13_pronouns and determiners	私は昨日具合が悪かったが、今日は気分が良くなった。	"I wasn't well yesterday, but feel better today."		
+GU082S033	1	82	13_pronouns and determiners	プールから出て、タオルで体を拭いた。	I climbed out of the swimming pool and dried myself with a towel.		
+GU082S034	1	82	13_pronouns and determiners	勉強しようとしたが、集中できなかった。	"I tried to study, but I couldn't concentrate."		
+GU082S035	1	82	13_pronouns and determiners	誰かがあなたを攻撃したら、自分を守る権利がある。	"If somebody attacks you, you have the right to defend yourself."		
+GU082S036	1	82	13_pronouns and determiners	今晩はクリスと出かける。私たちは7時30分に会う。	I'm going out with Chris this evening. We're meeting at 7.30.		
+GU082S037	1	82	13_pronouns and determiners	いつも忙しそうにしているね。座ってリラックスしたらどう？	You're always rushing around. Why don't you sit down and relax?		
+GU082S038	1	82	13_pronouns and determiners	ケイトとジョーは鏡の前に立って、自分たちを見た。	Kate and Joe stood in front of the mirror and looked at themselves.		
+GU082S039	1	82	13_pronouns and determiners	ケイトはジョーを見て、ジョーはケイトを見た。彼らはお互いを見た。	"Kate looked at Joe, and Joe looked at Kate. They looked at each other."		
+GU082S040	1	82	13_pronouns and determiners	あなたとベンはどれくらい知り合っているの？	How long have you and Ben known each other?		
+GU082S041	1	82	13_pronouns and determiners	あなたとベンはどれくらいの間知り合っているの？	How long have you and Ben known one another?		
+GU082S042	1	82	13_pronouns and determiners	彼らはお互いの近くに住んでいるの？	Do they live near each other?		
+GU082S043	1	82	13_pronouns and determiners	彼らはお互いの近くに住んでいるの？	Do they live near one another?		
+GU082S044	1	82	13_pronouns and determiners	人々が働きすぎると、病気になることがある。	"If people work too hard, they can make themselves ill."		
+GU082S045	1	82	13_pronouns and determiners	私はあなたを必要として、あなたも私を必要としている。私たちはお互いを必要としている。	I need you and you need me. We need each other.		
+GU082S046	1	82	13_pronouns and determiners	イギリスでは、友達はクリスマスにお互いにプレゼントを贈ることが多い。	In Britain friends often give each other presents at Christmas.		
+GU082S047	1	82	13_pronouns and determiners	一部の人々は利己的だ。彼らは自分のことしか考えない。	Some people are selfish. They only think of themselves.		
+GU082S048	1	82	13_pronouns and determiners	最近、トレイシーと私はあまり会わない。	Tracy and I don't see each other very often these days.		
+GU082S049	1	82	13_pronouns and determiners	私たちは家に戻れなかった。私たちは鍵を家に置き忘れた。	We couldn't get back into the house. We had locked ourselves out.		
+GU082S050	1	82	13_pronouns and determiners	彼らは喧嘩した。今、彼らはお互いに話していない。	They've had an argument. Now they're not speaking to each other.		
+GU082S051	1	82	13_pronouns and determiners	私たちは以前に会ったことがなかったので、お互いに自己紹介した。	"We'd never met before, so we introduced ourselves to each other."		
+GU082S052	1	82	13_pronouns and determiners	A: 誰があなたの自転車を修理してくれたの？B: 自分で修理した。	A: Who repaired your bike for you? B: I repaired it myself.		
+GU082S053	1	82	13_pronouns and determiners	私はあなたの仕事を代わりにやるつもりはない。自分でやって。	I'm not going to do your work for you. You can do it yourself.		
+GU082S054	1	82	13_pronouns and determiners	私たちで家を塗ろう。それはもっと安くなる。	Let's paint the house ourselves. It will be much cheaper.		
+GU082S055	1	82	13_pronouns and determiners	映画自体は良くなかったけど、音楽は大好きだった。	"The film itself wasn't good, but I loved the music."		
+GU082S056	1	82	13_pronouns and determiners	ケイトは皆のために夕食を作ったが、彼女自身は何も食べなかった。	"Kate cooked dinner for everybody, but she didn't eat anything herself."		
+GU082S057	1	82	13_pronouns and determiners	エイミーに何が起こったか話しましょうか、それとも自分で話したいですか？	"Shall I tell Amy what happened, or do you want to tell her yourself?"		
+GU082S058	1	82	13_pronouns and determiners	彼らが何を計画しているのか私は知らない。彼ら自身も知らない。	I don't know what they're planning to do. They don't know themselves.		
+GU082S059	1	82	13_pronouns and determiners	事故を見た人と話をしたが、自分では見ていなかった。	"I talked to somebody who saw the accident, but I didn't see it myself."		
+GU082S060	1	82	13_pronouns and determiners	サラは新しい仕事に満足していない。仕事自体は問題ないが、彼女は上司が好きではない。	"Sarah isn't happy in her new job. The work itself is OK, but she doesn't like her boss."		
+GU082S061	1	82	13_pronouns and determiners	ポールの髪は少し変に見える。自分で切ったようだ。	Paul's hair looks a bit strange. It looks like he cut it himself.		
+GU083S001	1	83	13_pronouns and determiners	私は土曜日に結婚式に行く予定です。私の友人が結婚します。	I'm going to a wedding on Saturday. A friend of mine is getting married.		
+GU083S002	1	83	13_pronouns and determiners	私たちは何人かの友人と一緒に休暇に行きました。	We went on holiday with some friends of ours.		
+GU083S003	1	83	13_pronouns and determiners	マイクは彼の隣人と口論しました。	Mike had an argument with a neighbour of his.		
+GU083S004	1	83	13_pronouns and determiners	映画に行くというのはあなたのいいアイデアでした。	It was a good idea of yours to go to the cinema.		
+GU083S005	1	83	13_pronouns and determiners	あそこにいるあの女性は私の妹の友達です。	That woman over there is a friend of my sister's.		
+GU083S006	1	83	13_pronouns and determiners	映画に行くというのはトムのいいアイデアでした。	It was a good idea of Tom's to go to the cinema.		
+GU083S007	1	83	13_pronouns and determiners	あそこに座っている男を知っていますか？彼はあなたの友達ですか？	Do you know the guy sitting over there? Is he a friend of yours?		
+GU083S008	1	83	13_pronouns and determiners	最近パーティーであなたの親戚に会いました。彼はあなたのいとこと言っていました。	I met a relative of yours at a party recently. He said he was your cousin.		
+GU083S009	1	83	13_pronouns and determiners	ポールは私のとても良い友人です。実際、彼はおそらく私の一番の友達です。	Paul is a very good friend of mine. In fact he's probably my best friend.		
+GU083S010	1	83	13_pronouns and determiners	昨夜、私たちは隣人と一緒に夕食を食べました。彼女は私たちの隣に住んでいます。	We had dinner with a neighbour of ours last night. She lives next door to us.		
+GU083S011	1	83	13_pronouns and determiners	私はジェーンの友達に会いました。彼女とジェーンは学校で一緒でした。	I met a friend of Jane's. She and Jane were at school together.		
+GU083S012	1	83	13_pronouns and determiners	リサはずいぶん前に私の本を借りて、まだ持っています。	Lisa borrowed a book of mine ages ago and she still has it.		
+GU083S013	1	83	13_pronouns and determiners	ジェイソンは彼の友人を彼のアパートに招待しました。彼らは皆彼が働いている人たちです。	Jason invited some friends of his to his flat. They were all people he works with.		
+GU083S014	1	83	13_pronouns and determiners	私は二人の友人と一緒に休暇に行きました。	I went on holiday with two friends of mine.		
+GU083S015	1	83	13_pronouns and determiners	世界中を旅することは私の長年の夢でした。	It's always been an ambition of mine to travel round the world. ?		
+GU083S016	1	83	13_pronouns and determiners	ビッキーとゲイリーは自分たちの家を持ちたいと思っています。	Vicky and Gary would like to have their own house.		
+GU083S017	1	83	13_pronouns and determiners	そのアパートに専用の駐車スペースがないのは残念です。	It's a shame that the apartment hasn't got its own parking space.		
+GU083S018	1	83	13_pronouns and determiners	お金がないのは私自身のせいです。私は必要ないものをたくさん買います。	It's my own fault that I have no money. I buy too many things I don't need.		
+GU083S019	1	83	13_pronouns and determiners	なぜ私の車を借りたいのですか？自分のを使ったらどうですか？	Why do you want to borrow my car? Why don't you use your own?		
+GU083S020	1	83	13_pronouns and determiners	個人的な質問はしないでください！あなたのことに専念してください！	Don't ask me personal questions! Mind your own business!		
+GU083S021	1	83	13_pronouns and determiners	自分の部屋が欲しいです。	I'd like to have a room of my own.		
+GU083S022	1	83	13_pronouns and determiners	スティーブはあなたの問題を助けられません。彼は自分の問題が多すぎます。	Steve won't be able to help you with your problems. He has too many problems of his own.		
+GU083S023	1	83	13_pronouns and determiners	私はキッチンを共有していますが、自分のバスルームを持っています。	"I share a kitchen, but I have my own bathroom."		
+GU083S024	1	83	13_pronouns and determiners	ゲイリーは私のように考えません。彼には彼自身の意見があります。	Gary doesn't think like me. He has his own opinions.		
+GU083S025	1	83	13_pronouns and determiners	ジュリアは他の人のために働きたくありません。彼女は自分のビジネスを始めたいと思っています。	Julia doesn't want to work for other people. She wants to start her own business.		
+GU083S026	1	83	13_pronouns and determiners	テストでは物語を読んで、それを自分の言葉で書かなければなりませんでした。	"In the test we had to read a story, and then write it in our own words."		
+GU083S027	1	83	13_pronouns and determiners	私たちは海の近くの高級ホテルに泊まりました。そのホテルには専用のビーチがありました。	We stayed at a luxury hotel by the sea. The hotel had its own private beach.		
+GU083S028	1	83	13_pronouns and determiners	あなたに何が起こったかについて私を責めることはできません。それはあなた自身のせいです。	You can't blame me for what happened to you. It was your own fault.		
+GU083S029	1	83	13_pronouns and determiners	自分で決断しなければなりません。私があなたに何をすべきか教えることはできません。	You have to make your own decisions. I can't tell you what to do.		
+GU083S030	1	83	13_pronouns and determiners	私のことを心配しないでください。きっとあなたには自分の問題があるでしょう。	Please don't worry about me. I'm sure you have your own problems.		
+GU083S031	1	83	13_pronouns and determiners	あなたには自分の電話があります。なぜ私のを借りたいのですか？	You have your own phone. Why do you want to borrow mine?		
+GU083S032	1	83	13_pronouns and determiners	他の人が言うことをいつも真似しないでください。自分のアイデアを使うことを恐れないでください。	Don't always copy what other people say. Don't be afraid to use your own ideas.		
+GU083S033	1	83	13_pronouns and determiners	ブライアンは通常、自分の髪を切ります。	Brian usually cuts his own hair.		
+GU083S034	1	83	13_pronouns and determiners	自分の野菜を育てるために庭が欲しいです。	I'd like to have a garden so that I could grow my own vegetables.		
+GU083S035	1	83	13_pronouns and determiners	私たちはパンを買いません。いつも自分でパンを作ります。	We don't buy bread. We always make our own bread.		
+GU083S036	1	83	13_pronouns and determiners	ポールとジョーは歌手で作詞作曲家です。彼らは自分の曲をすべて書いています。	Paul and Joe are singers and songwriters. They write all their own songs.		
+GU083S037	1	83	13_pronouns and determiners	なぜあなたの靴を磨く必要があるのですか？なぜ自分で磨けないのですか？	Why should I clean your shoes? Why can't you clean your own shoes?		
+GU083S038	1	83	13_pronouns and determiners	ヘレンはあまり服を買いません。彼女は自分の服を作るのが好きです。	Helen doesn't buy many clothes. She prefers to make her own clothes.		
+GU083S039	1	83	13_pronouns and determiners	アンナとスティーブは土地を買うつもりです。彼らは自分の家を建てたいと思っています。	Anna and Steve are going to buy some land. They want to build their own house.		
+GU083S040	1	83	13_pronouns and determiners	一人で住むのが好きです。	I like living on my own.		
+GU083S041	1	83	13_pronouns and determiners	一人で住むのが好きです。	I like living by myself.		
+GU083S042	1	83	13_pronouns and determiners	ジャックはカフェにいました、一人で座っていました。	"Jack was in the cafe, sitting on his own."		
+GU083S043	1	83	13_pronouns and determiners	ジャックはカフェにいました、一人で座っていました。	"Jack was in the cafe, sitting by himself."		
+GU083S044	1	83	13_pronouns and determiners	運転初心者は一人で運転することは許されていません。	Learner drivers are not allowed to drive on their own.		
+GU083S045	1	83	13_pronouns and determiners	運転初心者は一人で運転することは許されていません。	Learner drivers are not allowed to drive by themselves.		
+GU083S046	1	83	13_pronouns and determiners	一人で休暇に行きましたか？	Did you go on holiday on your own?		
+GU083S047	1	83	13_pronouns and determiners	箱は重すぎて一人で持ち上げられませんでした。	The box was too heavy for me to lift by myself.		
+GU083S048	1	83	13_pronouns and determiners	トムは誰とも一緒にいませんでした。彼は一人でした。	Tom wasn't with anyone when I saw him. He was by himself.		
+GU083S049	1	83	13_pronouns and determiners	非常に幼い子供は一人で泳ぎに行くべきではありません。	Very young children should not go swimming by themselves.		
+GU083S050	1	83	13_pronouns and determiners	一人で住むのは嫌です。	I wouldn't like to live on my own.		
+GU083S051	1	83	13_pronouns and determiners	私はイチゴにクリームをつけるのが好きではありません。そのまま食べるのが好きです。	I don't like strawberries with cream. I like them on their own.		
+GU083S052	1	83	13_pronouns and determiners	人と働くのが好きですか、それとも一人で働くのが好きですか？	Do you like working with people or do you prefer working by yourself?		
+GU083S053	1	83	13_pronouns and determiners	アパートの装飾には何の助けもありませんでした。完全に自分たちでやりました。	We had no help decorating the flat. We did it completely on our own.		
+GU083S054	1	83	13_pronouns and determiners	こちらはトムです。私の友人です。	This is Tom. He's a friend of mine.		
+GU083S055	1	83	13_pronouns and determiners	怖かったです。一人で外に出たくありませんでした。	I was scared. I didn't want to go out on my own.		
+GU083S056	1	83	13_pronouns and determiners	前の仕事では、自分のオフィスを持っていました。	In my last job I had my own office.		
+GU083S057	1	83	13_pronouns and determiners	彼女はあまり人を知らないと思います。いつも一人でいます。	I don't think she knows many people. She's always by herself.		
+GU083S058	1	83	13_pronouns and determiners	私の両親は彼らの友人と一緒に休暇に行きました。	My parents have gone on holiday with some friends of theirs.		
+GU083S059	1	83	13_pronouns and determiners	いくつかの国は食料を輸入する必要がありません。自分たちの食料をすべて生産します。	Some countries don't need to import food. They produce all their own food.		
+GU084S001	1	84	13_pronouns and determiners	ヒルストリートに新しいレストランがあります。	There's a new restaurant in Hill Street.		
+GU084S002	1	84	13_pronouns and determiners	遅れてごめんなさい。交通渋滞が多かったです。	I'm sorry I'm late. There was a lot of traffic.		
+GU084S003	1	84	13_pronouns and determiners	今では物事がずっと高くなりました。生活費が大幅に上がりました。	Things are much more expensive now. There has been a big rise in the cost of living.		
+GU084S004	1	84	13_pronouns and determiners	私たちは新しいレストランに行きました。それはとても良かったです。	We went to the new restaurant. It's very good.		
+GU084S005	1	84	13_pronouns and determiners	彼女が私に電話するとは思っていませんでした。それは完全な驚きでした。	I wasn't expecting her to call me. It was a complete surprise.		
+GU084S006	1	84	13_pronouns and determiners	この町が好きではありません。ここには何もすることがありません。退屈な場所です。	I don't like this town. There's nothing to do here. It's a boring place.		
+GU084S007	1	84	13_pronouns and determiners	洗濯機に何か問題があります。ちゃんと動いていません。	There's something wrong with the washing machine. It's not working properly.		
+GU084S008	1	84	13_pronouns and determiners	あそこにある新しい建物は何ですか？それはホテルですか？	What's that new building over there? Is it a hotel?		
+GU084S009	1	84	13_pronouns and determiners	川を渡るにはどうしたらいいですか？橋がありますか？	How can we get across the river? Is there a bridge?		
+GU084S010	1	84	13_pronouns and determiners	昨日博物館を訪れたかったのですが、時間が足りませんでした。	"I wanted to visit the museum yesterday, but there wasn't enough time."		
+GU084S011	1	84	13_pronouns and determiners	電話が見つかりません。それはバッグの中にはありません−今見たばかりです。	I can't find my phone. It isn't in my bag ? I just looked.		
+GU084S012	1	84	13_pronouns and determiners	部屋に家具が多すぎます。ここでは動くことができません。	There's too much furniture in the room. You can't move in here.		
+GU084S013	1	84	13_pronouns and determiners	テレビに興味のあるものが何もなかったので、それを消しました。	"There wasn't anything interesting on television, so I turned it off."		
+GU084S014	1	84	13_pronouns and determiners	A: 旅行はどうでしたか？B: 災難でした。すべてがうまくいきませんでした。	A: How was your trip? B: It was a disaster. Everything went wrong.		
+GU084S015	1	84	13_pronouns and determiners	A: 近くに本屋がありますか？B: はい、ハイストリートにあります。そこに行きたいですか？	"A: Is there a bookshop near here? B: Yes, on the High Street. Do you want to go there?"		
+GU084S016	1	84	13_pronouns and determiners	映画館に着いたとき、外に行列がありました。それは非常に長い行列だったので、待たないことにしました。	"When we got to the cinema, there was a queue outside. It was a very long queue, so we decided not to wait."		
+GU084S017	1	84	13_pronouns and determiners	明日忙しいですか？やることがたくさんありますか？	Will you be busy tomorrow? Will there be much to do?		
+GU084S018	1	84	13_pronouns and determiners	A: 今夜ローマ行きの便はありますか？B: あるかもしれません。オンラインで確認します。	A: Is there a flight to Rome tonight? B: There might be. I'll check online.		
+GU084S019	1	84	13_pronouns and determiners	人々がもっと注意深く運転すれば、事故はこんなに多くならないでしょう。	"If people drove more carefully, there wouldn't be so many accidents."		
+GU084S020	1	84	13_pronouns and determiners	家から音楽が聞こえました。誰かが家にいたに違いありません。	I could hear music coming from the house. There must have been somebody at home.		
+GU084S021	1	84	13_pronouns and determiners	この近くにカフェがあるはずです。	There's bound to be a cafe somewhere near here.		
+GU084S022	1	84	13_pronouns and determiners	すべてがうまくいくと思います。問題はないでしょう。	I think everything will be OK. There won't be any problems.		
+GU084S023	1	84	13_pronouns and determiners	村には学校がありません。以前はありましたが、閉鎖されました。	"There isn't a school in the village. There used to be one, but it closed."		
+GU084S024	1	84	13_pronouns and determiners	昨日道路が閉鎖されていました。事故があったに違いありません。	The road was closed yesterday. There must have been an accident.		
+GU084S025	1	84	13_pronouns and determiners	空を見てください。嵐が来ます。	Look at the sky. There's going to be a storm.		
+GU084S026	1	84	13_pronouns and determiners	ショーが時間通りに始まらない可能性があります。短い遅延があるかもしれません。	It's possible the show won't start on time. There may be a short delay.		
+GU084S027	1	84	13_pronouns and determiners	この道で人々が速すぎます。速度制限があるべきです。	People drive too fast on this road. There should be a speed limit.		
+GU084S028	1	84	13_pronouns and determiners	人々がそんなに攻撃的でなければ、世界はもっと良い場所になるでしょう。戦争はなくなるでしょう。	"If people weren't so aggressive, the world would be a better place. There wouldn't be any wars."		
+GU084S029	1	84	13_pronouns and determiners	もっと早く旅を始めるべきでした。交通渋滞はこんなに多くならなかったでしょう。	We should have started our journey earlier. There wouldn't have been so much traffic.		
+GU084S030	1	84	13_pronouns and determiners	彼らは忙しい道路に住んでいます。交通渋滞の騒音が多いはずです。	They live on a busy road. There must be a lot of noise from the traffic.		
+GU084S031	1	84	13_pronouns and determiners	彼らは忙しい道路に住んでいます。それは非常にうるさいに違いありません。	They live on a busy road. It must be very noisy.		
+GU084S032	1	84	13_pronouns and determiners	ここには以前映画館がありましたが、数年前に閉鎖されました。	"There used to be a cinema here, but it closed a few years ago."		
+GU084S033	1	84	13_pronouns and determiners	その建物は今スーパーです。以前は映画館でした。	That building is now a supermarket. It used to be a cinema.		
+GU084S034	1	84	13_pronouns and determiners	今夜ローマ行きの便があるはずです。	There's sure to be a flight to Rome tonight.		
+GU084S035	1	84	13_pronouns and determiners	今夜ローマ行きの便がありますが、満席に違いありません。	"There's a flight to Rome tonight, but it's sure to be full."		
+GU084S036	1	84	13_pronouns and determiners	会議はよく参加されました。100人以上の人がいたに違いありません。	The meeting was well attended. There must have been over a hundred people.		
+GU084S037	1	84	13_pronouns and determiners	フライトがキャンセルされたと聞いて残念です。それは非常に迷惑だったに違いありません。	I'm sorry to hear your flight was cancelled. It must have been very annoying.		
+GU084S038	1	84	13_pronouns and determiners	ドアのそばにスイッチがあるはずですが、見えません。	"There's supposed to be a switch by the door, but I can't see one."		
+GU084S039	1	84	13_pronouns and determiners	私の電話がここで動作するかどうか確信が持てません。信号がないかもしれません。	I'm not sure that my phone will work here. There may not be a signal.		
+GU084S040	1	84	13_pronouns and determiners	最寄りの店は通りの端にありますが、今日は開いていないかもしれません。	"The nearest shop is at the end of the street, but it might not be open today."		
+GU084S041	1	84	13_pronouns and determiners	なぜこのゲートが開いているのですか？それはロックされているべきです。	Why is this gate open? It should be locked.		
+GU084S042	1	84	13_pronouns and determiners	ゲートには二人の警備員がいるはずですが、一人しか見えません。	"There should be two guards at the gate, but I can only see one."		
+GU084S043	1	84	13_pronouns and determiners	ここには以前多くの観光客がいましたが、最近はあまり来ません。	"There used to be a lot of tourists here, but not many come these days."		
+GU084S044	1	84	13_pronouns and determiners	道路を歩くのは危険です。	It's dangerous to walk in the road.		
+GU084S045	1	84	13_pronouns and determiners	ここに来るのに長くかかりませんでした。	It didn't take us long to get here.		
+GU084S046	1	84	13_pronouns and determiners	あなたがパーティーに来られないのは残念です。	It's a shame that you can't come to the party.		
+GU084S047	1	84	13_pronouns and determiners	行きましょう。もう待つ価値はありません。	Let's go. It's not worth waiting any longer.		
+GU084S048	1	84	13_pronouns and determiners	ここから空港までは遠くありません。	It's not far from here to the airport.		
+GU084S049	1	84	13_pronouns and determiners	遅いです。行かなければなりません。	It's late. I must go.		
+GU084S050	1	84	13_pronouns and determiners	霧がひどくて何も見えませんでした。	"It was so foggy, we couldn't see anything."		
+GU084S051	1	84	13_pronouns and determiners	風が強かったです。	It was windy.		
+GU084S052	1	84	13_pronouns and determiners	冷たい風がありました。	There was a cold wind.		
+GU084S053	1	84	13_pronouns and determiners	また会えてよかったです。またすぐに会いましょう。	It was nice to see you again. We must meet again soon.		
+GU084S054	1	84	13_pronouns and determiners	彼女の体調が悪いのは残念です。早く良くなるといいですね。	It's a shame she isn't well. I hope she gets better soon.		
+GU084S055	1	84	13_pronouns and determiners	彼女に連絡するのは難しいです。彼女は電話を持っていません。	It's difficult to contact her. She doesn't have a phone.		
+GU084S056	1	84	13_pronouns and determiners	文句を言っても無駄です。それは誰の助けにもなりません。	It's no use complaining. That won't help anybody.		
+GU084S057	1	84	13_pronouns and determiners	家に帰るのに1時間かかりました。交通渋滞が多かったです。	It took me an hour to get home. There was a lot of traffic.		
+GU084S058	1	84	13_pronouns and determiners	傘を持っていて幸運でした。そうでなければ非常に濡れていたでしょう。	It's lucky I had an umbrella. Otherwise I would have got very wet.		
+GU084S059	1	84	13_pronouns and determiners	彼女がテストに合格したのは驚きでした。みんな彼女が失敗すると思っていました。	It was a surprise she passed the test. Everyone expected her to fail.		
+GU084S060	1	84	13_pronouns and determiners	ここでは天気が非常に寒いことが多いですが、雪はあまり降りません。	"The weather is often very cold here, but there isn't much snow."		
+GU084S061	1	84	13_pronouns and determiners	最後に劇場に行ったのはどのくらい前ですか？	How long is it since you went to the theatre?		
+GU084S062	1	84	13_pronouns and determiners	講義の後、質問する機会があります。	"After the lecture, there will be an opportunity to ask questions."		
+GU084S063	1	84	13_pronouns and determiners	このスープが好きではありません。塩辛すぎます。	I don't like this soup. It's too salty.		
+GU084S064	1	84	13_pronouns and determiners	その映画が好きではありませんでした。暴力が多すぎました。	I didn't like the film. There was too much violence.		
+GU084S065	1	84	13_pronouns and determiners	昨日はケンの誕生日でした。私たちはパーティーをしました。	It was Ken's birthday yesterday. We had a party.		
+GU084S066	1	84	13_pronouns and determiners	彼女がそんなに無愛想だったのはなぜですか？理由があったに違いありません。	Why was she so unfriendly? There must have been a reason.		
+GU084S067	1	84	13_pronouns and determiners	車を駐車するのに問題はないでしょう。駐車する場所があるはずです。	We won't have any problem parking the car. There's sure to be somewhere to park.		
+GU084S068	1	84	13_pronouns and determiners	今住んでいる場所が好きですが、海のそばに住むほうがいいでしょう。	"I like where I live, but it would be nicer to live by the sea."		
+GU084S069	1	84	13_pronouns and determiners	状況はまだ同じです。変化はありません。	The situation is still the same. There has been no change.		
+GU084S070	1	84	13_pronouns and determiners	起こったことについて申し訳ありません。それは私の責任でした。	I'm sorry about what happened. It was my fault.		
+GU084S071	1	84	13_pronouns and determiners	誰かがドアをノックし、私はそれを開けましたが、誰もいませんでした。	"Somebody knocked on the door, I opened it, but there wasn't anybody there."		
+GU085S001	1	85	13_pronouns and determiners	私たちは花を買いました。	We bought some flowers.		
+GU085S002	1	85	13_pronouns and determiners	私たちは花を買いませんでした。	We didn't buy any flowers.		
+GU085S003	1	85	13_pronouns and determiners	彼は忙しいです。やるべき仕事があります。	He's busy. He has some work to do.		
+GU085S004	1	85	13_pronouns and determiners	彼は怠け者です。彼は決して仕事をしません。	He's lazy. He never does any work.		
+GU085S005	1	85	13_pronouns and determiners	私はスープを作りました。あなたは食べなければなりません。	I made soup. You must have some.		
+GU085S006	1	85	13_pronouns and determiners	私はスープが好きではありません。食べたくありません。	I don't like soup. I don't want any.		
+GU085S007	1	85	13_pronouns and determiners	ドアに誰かがいます。	There's somebody at the door.		
+GU085S008	1	85	13_pronouns and determiners	ドアには誰もいません。	There isn't anybody at the door.		
+GU085S009	1	85	13_pronouns and determiners	私はお腹が空いています。何か食べたいです。	I'm hungry. I want something to eat.		
+GU085S010	1	85	13_pronouns and determiners	私はお腹が空いていません。何も食べたくありません。	I'm not hungry. I don't want anything to eat.		
+GU085S011	1	85	13_pronouns and determiners	否定の意味を表すときにはanyを使います：	We use any when the meaning is negative:		
+GU085S012	1	85	13_pronouns and determiners	彼女はお金を持たずに出かけました。	She went out without any money.		
+GU085S013	1	85	13_pronouns and determiners	彼は何も食べることを拒否しました。	He refused to eat anything.		
+GU085S014	1	85	13_pronouns and determiners	試験は簡単でした。ほとんど誰も不合格になりませんでした。	The exam was easy. Hardly anybody failed.		
+GU085S015	1	85	13_pronouns and determiners	今夜、私は友達と出かけます。	Tonight I'm going out with some friends of mine.		
+GU085S016	1	85	13_pronouns and determiners	すべて順調でした。問題はありませんでした。	Everything went OK. There weren't any problems.		
+GU085S017	1	85	13_pronouns and determiners	ビーチにはほとんど誰もいませんでした。それはほとんど無人でした。	There was hardly anybody on the beach. It was almost deserted.		
+GU085S018	1	85	13_pronouns and determiners	私は家に何かを忘れました。取りに帰らなければなりません。	I left something at home. I'll have to go back and get it.		
+GU085S019	1	85	13_pronouns and determiners	お金が必要なら、いくらか貸せますよ。	"If you need money, I can lend you some."		
+GU085S020	1	85	13_pronouns and determiners	彼らはいつも家にいます。どこにも行かないようです。	They stay at home all the time. They never seem to go anywhere.		
+GU085S021	1	85	13_pronouns and determiners	ドアに誰かがいます。誰か見てきてくれませんか？	There's somebody at the door. Can you go and see who it is?		
+GU085S022	1	85	13_pronouns and determiners	私たちはブドウを買いたかったのですが、店にはありませんでした。	"We wanted to buy grapes, but they didn't have any in the shop."		
+GU085S023	1	85	13_pronouns and determiners	エマはとても寛容です。彼女は決して何も文句を言いません。	Emma is very tolerant. She never complains about anything.		
+GU085S024	1	85	13_pronouns and determiners	どこか暖かくて晴れた場所に行きましょう。	Let's go away. Let's go somewhere warm and sunny.		
+GU085S025	1	85	13_pronouns and determiners	私は疲れ果てました。何もする気力がありませんでした。	I was exhausted. I was too tired to do anything.		
+GU085S026	1	85	13_pronouns and determiners	サラは動揺していて、誰とも話をしませんでした。	Sarah was upset and refused to talk to anybody.		
+GU085S027	1	85	13_pronouns and determiners	誰かを待っていますか？	Are you waiting for somebody?		
+GU085S028	1	85	13_pronouns and determiners	砂糖をいただけますか？	"Can I have some sugar, please?"		
+GU085S029	1	85	13_pronouns and determiners	何か食べ物が欲しいですか？	Would you like something to eat?		
+GU085S030	1	85	13_pronouns and determiners	荷物がありますか？	Do you have any luggage?		
+GU085S031	1	85	13_pronouns and determiners	家の中に誰かいますか？	Is there anybody in the house?		
+GU085S032	1	85	13_pronouns and determiners	コーヒーにミルクをいただけますか？	"Can I have some milk in my coffee, please?"		
+GU085S033	1	85	13_pronouns and determiners	兄弟姉妹はいますか？	Do you have any brothers or sisters?		
+GU085S034	1	85	13_pronouns and determiners	なぜベッドの下を見ているのですか？何か失くしましたか？	Why are you looking under the bed? Have you lost something?		
+GU085S035	1	85	13_pronouns and determiners	窓を開けても構いませんか？	Does anybody mind if I open the window?		
+GU085S036	1	85	13_pronouns and determiners	そのリンゴは美味しそうですね。いくつか買いましょうか？	Those apples look nice. Shall we get some?		
+GU085S037	1	85	13_pronouns and determiners	ちょっとお店に行ってきます。何か欲しいものがありますか？	I'm just going to the shop. Is there anything you want?		
+GU085S038	1	85	13_pronouns and determiners	お腹が空いているでしょう。何か食べ物を持ってきましょうか？	You must be hungry. Why don't I get you something to eat?		
+GU085S039	1	85	13_pronouns and determiners	問題について誰かと話したいですか？	Would you like to talk to somebody about the problem?		
+GU085S040	1	85	13_pronouns and determiners	何か必要なものがあれば教えてください。	Let me know if you need anything.		
+GU085S041	1	85	13_pronouns and determiners	質問がある方は、喜んでお答えします。	"If anyone has any questions, I'll be pleased to answer them."		
+GU085S042	1	85	13_pronouns and determiners	ご迷惑をおかけして申し訳ありません。	I'm sorry for any trouble I've caused.		
+GU085S043	1	85	13_pronouns and determiners	警察は事故を目撃した人と話したがっています。	Police want to speak to anyone who saw the accident.		
+GU085S044	1	85	13_pronouns and determiners	何か必要なものがあれば、私が取ってきます。	"If you need anything, I can get it for you."		
+GU085S045	1	85	13_pronouns and determiners	文書の誤りは修正する必要があります。	Any mistakes in the document will need to be corrected.		
+GU085S046	1	85	13_pronouns and determiners	誰かが私の居場所を尋ねたら、知らないと言ってください。	"If anyone asks where I am, tell them you don't know."		
+GU085S047	1	85	13_pronouns and determiners	何か問題があれば、きっと解決できるでしょう。	"If there are any problems, I'm sure we'll be able to solve them."		
+GU085S048	1	85	13_pronouns and determiners	強盗に関する情報を持っている人は警察に連絡してください。	Anybody with information about the robbery should contact the police.		
+GU085S049	1	85	13_pronouns and determiners	状況に何か変化があればお知らせします。	"If there is any change in the situation, we will let you know."		
+GU085S050	1	85	13_pronouns and determiners	わからない単語があれば辞書で調べてください。	"If there are any words you don't understand, you can look them up in a dictionary."		
+GU085S051	1	85	13_pronouns and determiners	どのバスに乗ってもいいです。すべて中心部に行きます。	You can take any bus. They all go to the centre.		
+GU085S052	1	85	13_pronouns and determiners	いつでも好きな時に会いに来てください。	Come and see me any time you want.		
+GU085S053	1	85	13_pronouns and determiners	ドアの鍵を忘れました。誰でも入ってこれました。	We forgot to lock the door. Anybody could have come in.		
+GU085S054	1	85	13_pronouns and determiners	A: お腹が空いています。何か食べたいです。B: 何がいいですか？A: なんでも構いません。	A: I'm hungry. I want something to eat. B: What would you like? A: I don't mind. Anything.		
+GU085S055	1	85	13_pronouns and determiners	A: どこかに出かけましょう。B: どこに行きますか？A: どこでもいいです。とにかく出かけたいです。	A: Let's go out somewhere. B: Where shall we go? A: Anywhere. I just want to go out.		
+GU085S056	1	85	13_pronouns and determiners	A: どんな仕事を探していますか？B: なんでもいいです。何でも構いません。	A: What job are you looking for? B: Anything. It doesn't matter what it is.		
+GU085S057	1	85	13_pronouns and determiners	A: いつ会いに行けばいいですか？月曜日？火曜日？B: いつでも構いません。来週ならどの日でもいいです。	A: When shall I come and see you? Monday? Tuesday? B: I don't mind. Any day next week will be OK for me.		
+GU085S058	1	85	13_pronouns and determiners	A: この機械は使いにくいですか？B: いいえ、簡単です。誰でもすぐに使えるようになります。	"A: Is this machine difficult to use? B: No, it's easy. Anybody can learn to use it very quickly."		
+GU085S059	1	85	13_pronouns and determiners	A: どこに座ればいいですか？窓のそば？B: あなた次第です。好きな場所に座ってください。	A: Where shall I sit? By the window? B: It's up to you. Anywhere you like.		
+GU085S060	1	85	13_pronouns and determiners	A: 誰をパーティーに招待すればいいですか？B: 誰でも好きな人を招待してください。それはあなたのパーティーです。	A: Who shall I invite to my party? B: Anyone you want. It's your party.		
+GU085S061	1	85	13_pronouns and determiners	A: どこでお金を両替できますか？B: どの銀行でもいいです。どこでも構いません。	A: Where can I change money? B: At any bank. It doesn't matter which one.		
+GU085S062	1	85	13_pronouns and determiners	町のホテルについて何か情報を教えてもらえますか？	Can you give me some information about hotels in the town?		
+GU085S063	1	85	13_pronouns and determiners	知っていることを教えてください。何でも役立ちます。	Please tell us what you know. Any information you can give us will be useful.		
+GU085S064	1	85	13_pronouns and determiners	お腹が空いていなかったので、何も食べませんでした。	"I wasn't feeling hungry, so I didn't eat anything."		
+GU085S065	1	85	13_pronouns and determiners	ジョーは何も言わずに部屋を出ました。	Joe stood up and left the room without saying anything.		
+GU085S066	1	85	13_pronouns and determiners	私は6か国語を話す人を知っています。	I know somebody who speaks six languages.		
+GU085S067	1	85	13_pronouns and determiners	通訳が必要です。ここに英語を話せる人はいますか？	I need a translator. Is there anybody here who speaks English?		
+GU085S068	1	85	13_pronouns and determiners	私が言ったことはあなたと私の間のことです。他の誰にも言わないでください。	What I said is between you and me. Don't tell anyone else.		
+GU085S069	1	85	13_pronouns and determiners	私は運転ができず、車について何も知りません。	I can't drive and I don't know anything about cars.		
+GU085S070	1	85	13_pronouns and determiners	コーヒーを入れました。いかがですか？	I've made coffee. Would you like some?		
+GU085S071	1	85	13_pronouns and determiners	A: もっとコーヒーをいただけますか？B: はい、どうぞ。	"A: Can I have some more coffee? B: Yes, help yourself."		
+GU085S072	1	85	13_pronouns and determiners	ドアの色を何色に塗っても構いません。好きな色に塗ってください。	I don't mind what colour you paint the door. Paint it any colour you like.		
+GU085S073	1	85	13_pronouns and determiners	この写真の中に誰か知っている人がいますか？	Do you know anyone in this picture?		
+GU085S074	1	85	13_pronouns and determiners	すみません、何かお聞きしてもいいですか？	"Excuse me, can I ask you something?"		
+GU085S075	1	85	13_pronouns and determiners	何時に電話しても構いません。いつでも電話してください。	It doesn't matter what time you call me. Call me at any time.		
+GU085S076	1	85	13_pronouns and determiners	医者は私の病気がわかりません。何でも考えられます。	The doctor doesn't know what's wrong with me. It could be anything. ?		
+GU085S077	1	85	13_pronouns and determiners	誰かがあなたに会いに来ています。	Someone is here to see you.		
+GU085S078	1	85	13_pronouns and determiners	誰かが傘を忘れました。	Someone has forgotten their umbrella.		
+GU085S079	1	85	13_pronouns and determiners	早く帰りたい人がいれば、帰ってもいいです。	"If anybody wants to leave early, they can."		
+GU085S080	1	85	13_pronouns and determiners	誰かがテーブルに電話を置き忘れました。それが誰のか知っていますか？	Someone has left their phone on the table. Do you know whose it is?		
+GU085S081	1	85	13_pronouns and determiners	誰かが私を必要とすれば、電話かメールで連絡できます。	"If anyone needs me, they can contact me by phone or email."		
+GU085S082	1	85	13_pronouns and determiners	誰かが助けを必要としているなら、助けてあげるべきです。	"If somebody needs help, you should try and help them."		
+GU085S083	1	85	13_pronouns and determiners	誰かが最近あなたに会ったと言っていました。誰だったか思い出せません。	Someone told me they met you recently. I can't remember who it was.		
+GU085S084	1	85	13_pronouns and determiners	パーティーで知っている人を見かけたら、よろしく伝えてください。	"If you see anybody I know at the party, please give them my best wishes."		
+GU085S085	1	85	13_pronouns and determiners	誰かが名前を教えてくれても、その名前を覚えられないときは恥ずかしいです。	It's embarrassing when somebody tells you their name and then you can't remember it.		
+GU086S001	1	86	13_pronouns and determiners	バスがなかったので、私たちは歩いて家に帰らなければならなかった。	"There was no bus, so we had to walk home."		
+GU086S002	1	86	13_pronouns and determiners	スーは仕事を見つけるのに苦労しないだろう。	Sue will have no trouble finding a job.		
+GU086S003	1	86	13_pronouns and determiners	開いている店はなかった。	There were no shops open.		
+GU086S004	1	86	13_pronouns and determiners	計画変更の理由は説明されなかった。	No reason was given for the change of plan.		
+GU086S005	1	86	13_pronouns and determiners	電話をかけたかったが、信号がなかった。	"I wanted to call you, but there was no signal."		
+GU086S006	1	86	13_pronouns and determiners	私はやらなければならなかった。選択の余地はなかった。	I had to do what I did. I had no choice.		
+GU086S007	1	86	13_pronouns and determiners	今、仕事を見つけるのは非常に難しい。仕事はない。	It's very difficult to find work right now. There are no jobs.		
+GU086S008	1	86	13_pronouns and determiners	みんな彼らが結婚することを知っている。それは秘密ではない。	Everybody knows they're getting married. It's no secret.		
+GU086S009	1	86	13_pronouns and determiners	リモコンが動かなかった。それには電池が入っていなかった。	The remote control didn't work. There were no batteries in it.		
+GU086S010	1	86	13_pronouns and determiners	最近、天気が異常に乾燥している。何週間も雨が降っていない。	The weather's been unusually dry recently. We've had no rain for weeks.		
+GU086S011	1	86	13_pronouns and determiners	ヘレンは一人っ子だ。兄弟姉妹はいない。	Helen is an only child. She has no brothers or sisters.		
+GU086S012	1	86	13_pronouns and determiners	私はあなたの声がよく聞こえる。叫ぶ必要はない。	I can hear you perfectly well. There's no need to shout.		
+GU086S013	1	86	13_pronouns and determiners	タクシーがなかったので、私たちは歩いて家に帰らなければならなかった。	We had to walk home because there were no taxis.		
+GU086S014	1	86	13_pronouns and determiners	タクシーがなかったので、私たちは歩いて家に帰らなければならなかった。	We had to walk home because there weren't any taxis.		
+GU086S015	1	86	13_pronouns and determiners	二冊の本はまったく同じだ。違いはない。	The two books are exactly the same. There isn't any difference.		
+GU086S016	1	86	13_pronouns and determiners	昼食の休憩なしで一日中働いた。	We worked all day with no break for lunch.		
+GU086S017	1	86	13_pronouns and determiners	仕事に応募したが、採用される見込みはない。	"I've applied for the job, but I have no chance of getting it."		
+GU086S018	1	86	13_pronouns and determiners	今のところすべて順調だ。問題はない。	Everything is fine so far. There haven't been any problems.		
+GU086S019	1	86	13_pronouns and determiners	今、何もする気がしない。エネルギーがない。	I don't feel like doing anything right now. I've got no energy.		
+GU086S020	1	86	13_pronouns and determiners	貯水池は空っぽだった。水はなかった。	The reservoir was empty. There wasn't any water in it.		
+GU086S021	1	86	13_pronouns and determiners	A: いくら持っている？ B: ない。	A: How much money do you have? B: None.		
+GU086S022	1	86	13_pronouns and determiners	すべてのチケットが売り切れた。残っていない。	All the tickets have been sold. There are none left.		
+GU086S023	1	86	13_pronouns and determiners	このお金は全部あなたのものだ。私のものはない。	This money is all yours. None of it is mine.		
+GU086S024	1	86	13_pronouns and determiners	学生たちは誰も満足していなかった。	None of the students were happy.		
+GU086S025	1	86	13_pronouns and determiners	学生たちは誰も満足していなかった。	None of the students was happy.		
+GU086S026	1	86	13_pronouns and determiners	荷物はない。	I have no luggage.		
+GU086S027	1	86	13_pronouns and determiners	A: 荷物はどのくらい持っている？ B: ない。	A: How much luggage do you have? B: None.		
+GU086S028	1	86	13_pronouns and determiners	A: 荷物はどのくらい持っている？ B: 持っていない。	A: How much luggage do you have? B: I don't have any.		
+GU086S029	1	86	13_pronouns and determiners	A: お金がない。 B: それは大丈夫だ。いくらか貸してあげるよ。	A: I don't have any money. B: That's all right. I can lend you some.		
+GU086S030	1	86	13_pronouns and determiners	A: コーヒーに砂糖をどのくらい入れますか？ B: なし。コーヒーには砂糖を入れない。	A: How much sugar shall I put in your coffee? B: None. I don't take sugar in coffee.		
+GU086S031	1	86	13_pronouns and determiners	A: どうやって川を渡る？ B: 渡れない。橋がない。	A: How can we cross the river? B: We can't. There's no bridge.		
+GU086S032	1	86	13_pronouns and determiners	A: 結婚式で写真を撮りましたか？ B: 少し撮ったが、どれもあまり良くなかった。	"A: Did you take any pictures at the wedding? B: A few, but none of them were very good."		
+GU086S033	1	86	13_pronouns and determiners	A: 結婚式で写真を撮りましたか？ B: いいえ、撮っていない。	"A: Did you take any pictures at the wedding? B: No, I didn't take any."		
+GU086S034	1	86	13_pronouns and determiners	A: それは愚かなことだった。 B: そう、知的な人ならそんなことはしない。	"A: It was a stupid thing to do. B: Yes, no intelligent person would do such a thing."		
+GU086S035	1	86	13_pronouns and determiners	A: この写真の中の人々は誰？ B: 知らない。見たことがない。	A: Who are the people in this picture? B: I don't know. I've never seen any of them before.		
+GU086S036	1	86	13_pronouns and determiners	A: どうしてパーティーをキャンセルしたの？ B: 招待した人が誰も来られなかったから。	A: Why did you cancel the party? B: Because none of the people we invited were able to come.		
+GU086S037	1	86	13_pronouns and determiners	A: クリスがいつ戻るか知っている？ B: すみません。わからない。	A: Do you know when Chris will be back? B: I'm sorry. I have no idea.		
+GU086S038	1	86	13_pronouns and determiners	A: この家具はどれも好きじゃない。 B: 私もだ。ひどいものだ。	A: I don't like any of this furniture. B: I don't either. It's horrible.		
+GU086S039	1	86	13_pronouns and determiners	A: どうなるの？ B: 誰も知らない。	A: What's going to happen? B: Nobody knows.	B: No-one knows.	
+GU086S040	1	86	13_pronouns and determiners	A: 何が起こったの？ B: 何も。	A: What happened? B: Nothing.		
+GU086S041	1	86	13_pronouns and determiners	A: どこへ行くの？ B: どこにも行かない。ここにいる。	A: Where are you going? B: Nowhere. I'm staying here.		
+GU086S042	1	86	13_pronouns and determiners	家は空っぽだ。誰も住んでいない。	The house is empty. There's nobody living there.		
+GU086S043	1	86	13_pronouns and determiners	食べるものがなかった。	We had nothing to eat.		
+GU086S044	1	86	13_pronouns and determiners	何も言わなかった。	I said nothing.		
+GU086S045	1	86	13_pronouns and determiners	何も言わなかった。	I didn't say anything.		
+GU086S046	1	86	13_pronouns and determiners	ジェーンは彼女の計画について誰にも言わなかった。	Jane told nobody about her plans.		
+GU086S047	1	86	13_pronouns and determiners	ジェーンは彼女の計画について誰にも言わなかった。	Jane didn't tell anybody about her plans.		
+GU086S048	1	86	13_pronouns and determiners	住む場所がない。	They have nowhere to live.		
+GU086S049	1	86	13_pronouns and determiners	住む場所がない。	They don't have anywhere to live.		
+GU086S050	1	86	13_pronouns and determiners	何も言わなかった。	I said nothing.		
+GU086S051	1	86	13_pronouns and determiners	A: 週末に何をした？ B: 何も。とても退屈だった。	A: What did you do at the weekend? B: Nothing. It was really boring.		
+GU086S052	1	86	13_pronouns and determiners	A: どれくらいのパンを買った？ B: なし。すでに十分なパンがある。	A: How much bread did you buy? B: None. We already have enough bread.		
+GU086S053	1	86	13_pronouns and determiners	A: 誰と映画に行ったの？ B: 誰とも。ひとりで行った。	A: Who did you go to the cinema with? B: Nobody. I went by myself.		
+GU086S054	1	86	13_pronouns and determiners	A: どこへ行くの？ B: どこにも行かない。ここにいる。	A: Where are you going? B: Nowhere. I'm staying here.		
+GU086S055	1	86	13_pronouns and determiners	A: 今年何冊本を読んだ？ B: なし。読まない。	A: How many books have you read this year? B: None. I don't read books.		
+GU086S056	1	86	13_pronouns and determiners	A: 展覧会に入るのにいくらかかった？ B: 何も。無料だった。	A: How much did it cost to get into the exhibition? B: Nothing. It was free.		
+GU086S057	1	86	13_pronouns and determiners	飲み物は何もいらない。喉が渇いていない。	I don't want anything to drink. I'm not thirsty.		
+GU086S058	1	86	13_pronouns and determiners	バスは完全に空っぽだった。誰も乗っていなかった。	The bus was completely empty. There was no-one on it.		
+GU086S059	1	86	13_pronouns and determiners	A: 休暇はどこに行ったの？ B: どこにも行ってない。出かけなかった。	A: Where did you go for your holidays? B: Nowhere. I didn't go away.		
+GU086S060	1	86	13_pronouns and determiners	買い物に行ったが、何も買わなかった。	"I went shopping, but I didn't buy anything."		
+GU086S061	1	86	13_pronouns and determiners	町は何年も前と同じだ。何も変わっていない。	The town is the same as it was years ago. Nothing has changed.		
+GU086S062	1	86	13_pronouns and determiners	私の腕時計を見た？ どこにも見つからない。	Have you seen my watch? I can't find it anywhere.		
+GU086S063	1	86	13_pronouns and determiners	A: 何が欲しい？ B: 何もいらない。何も欲しくない。	A: What do you want? B: Nothing. I don't want anything.		
+GU086S064	1	86	13_pronouns and determiners	部屋は完全に静かだった。誰も何も言わなかった。	There was complete silence in the room. Nobody said anything.		
+GU086S065	1	86	13_pronouns and determiners	誰も完璧ではない。	Nobody is perfect.		
+GU086S066	1	86	13_pronouns and determiners	誰も完璧ではないよね？	"Nobody is perfect, are they?"		
+GU086S067	1	86	13_pronouns and determiners	誰も私が頼んだことをしなかった。	No-one did what I asked them to do.		
+GU086S068	1	86	13_pronouns and determiners	誰も宿題をしなかった。	Nobody did their homework.		
+GU086S069	1	86	13_pronouns and determiners	誰も自分の部屋を持っていなかった。みんな共有しなければならなかった。	Nobody had their own room. Everybody had to share.		
+GU086S070	1	86	13_pronouns and determiners	A: 誰も君を見なかったよね？ B: うん、そう思う。	"A: No-one saw you, did they? B: No, I don't think so."		
+GU086S071	1	86	13_pronouns and determiners	何が起こったかを話したとき、誰も私を信じなかった。	Nobody believed me when I told them what had happened.		
+GU086S072	1	86	13_pronouns and determiners	誰も文句を言わなかった。誰も本音を言う準備ができていなかった。	Nobody complained. No-one was prepared to say what they really thought.		
+GU086S073	1	86	13_pronouns and determiners	会社が再編成されているが、誰も仕事を失わないことが望まれている。	"The company is being reorganised, but it is hoped that nobody will lose their jobs."		
+GU086S074	1	86	13_pronouns and determiners	バスがなかったので、私たちは歩いて帰った。	"There was no bus, so we walked home."		
+GU086S075	1	86	13_pronouns and determiners	どのバスでも乗れる。全部中心部に行く。	You can take any bus. They all go to the centre.		
+GU086S076	1	86	13_pronouns and determiners	A: 何を食べたい？ B: 何もいらない。お腹が空いていない。	A: What do you want to eat? B: Nothing. I'm not hungry.		
+GU086S077	1	86	13_pronouns and determiners	A: 何を食べたい？ B: 何もいらない。	A: What do you want to eat? B: I don't want anything.		
+GU086S078	1	86	13_pronouns and determiners	とてもお腹が空いている。何でも食べられる。	I'm so hungry. I could eat anything.		
+GU086S079	1	86	13_pronouns and determiners	試験はとても難しかった。誰も合格しなかった。	The exam was very hard. Nobody passed.		
+GU086S080	1	86	13_pronouns and determiners	試験はとても簡単だった。誰でも合格できた。	The exam was very easy. Anybody could have passed.		
+GU086S081	1	86	13_pronouns and determiners	あなたが尋ねるどんな質問にも答えようとする。	I'll try and answer any questions you ask.		
+GU086S082	1	86	13_pronouns and determiners	今週末何をするかはまだわからない。まだ計画がない。	I'm not sure what I'll do this weekend. I have no plans yet.		
+GU086S083	1	86	13_pronouns and determiners	私の仕事はとても簡単だ。誰でもできる。	My job is very easy. Anyone could do it.		
+GU086S084	1	86	13_pronouns and determiners	窓の外を見たが、誰も見えなかった。	"I looked out of the window, but I couldn't see anybody."		
+GU086S085	1	86	13_pronouns and determiners	事故はひどそうだったが、幸いにも誰も怪我をしなかった。	"The accident looked bad, but fortunately nobody was injured."		
+GU086S086	1	86	13_pronouns and determiners	可能性はたくさんある。何でも起こりうる。	There are so many possibilities. Anything could happen.		
+GU086S087	1	86	13_pronouns and determiners	どこかに行こう。好きなところに行ける。	Let's go away. We can go anywhere you like.		
+GU086S088	1	86	13_pronouns and determiners	箱は空っぽだ。中には何も入っていない。	The box is empty. There's nothing in it.		
+GU086S089	1	86	13_pronouns and determiners	9時から12時の間ならいつでも電話して。	You can call me any time between 9 and 12.		
+GU086S090	1	86	13_pronouns and determiners	経済学については何も知らない。	I don't know anything about economics.		
+GU086S091	1	86	13_pronouns and determiners	部屋は完全に空っぽだった。家具は何もなかった。	The room was completely empty. There wasn't any furniture.		
+GU086S092	1	86	13_pronouns and determiners	部屋は完全に空っぽだった。家具がなかった。	The room was completely empty. There was no furniture.		
+GU086S093	1	86	13_pronouns and determiners	A: 誰を待っているの？ B: 誰も待っていない。ただ立っているだけ。	A: Who are you waiting for? B: No-one. I'm just standing here.		
+GU086S094	1	86	13_pronouns and determiners	A: 誰を待っているの？ B: 誰も待っていない。	A: Who are you waiting for? B: I'm not waiting for anyone.		
