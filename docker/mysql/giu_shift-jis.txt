@@ -5222,3 +5222,303 @@ GU086S091	1	86	13_pronouns and determiners	•”‰®‚ÍŠ®‘S‚É‹ó‚Á‚Û‚¾‚Á‚½B‰Æ‹ï‚Í‰½‚à‚
 GU086S092	1	86	13_pronouns and determiners	•”‰®‚ÍŠ®‘S‚É‹ó‚Á‚Û‚¾‚Á‚½B‰Æ‹ï‚ª‚È‚©‚Á‚½B	The room was completely empty. There was no furniture.		
 GU086S093	1	86	13_pronouns and determiners	A: ’N‚ğ‘Ò‚Á‚Ä‚¢‚é‚ÌH B: ’N‚à‘Ò‚Á‚Ä‚¢‚È‚¢B‚½‚¾—§‚Á‚Ä‚¢‚é‚¾‚¯B	A: Who are you waiting for? B: No-one. I'm just standing here.		
 GU086S094	1	86	13_pronouns and determiners	A: ’N‚ğ‘Ò‚Á‚Ä‚¢‚é‚ÌH B: ’N‚à‘Ò‚Á‚Ä‚¢‚È‚¢B	A: Who are you waiting for? B: I'm not waiting for anyone.		
+GU087S001	1	87	13_pronouns and determiners	‹}‚®•K—v‚Í‚ ‚è‚Ü‚¹‚ñBŠÔ‚Í‚½‚Á‚Õ‚è‚ ‚è‚Ü‚·B	There's no need to hurry. We have plenty of time.		
+GU087S002	1	87	13_pronouns and determiners	‚±‚Ì’¬‚Å‚Í‚â‚é‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	There's plenty to do in this town.		
+GU087S003	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: information	much information		
+GU087S004	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: time	much time		
+GU087S005	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: buildings	many buildings		
+GU087S006	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: questions	many questions		
+GU087S007	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: food	much food		
+GU087S008	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: buses	many buses		
+GU087S009	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: rain	much rain		
+GU087S010	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: traffic	much traffic		
+GU087S011	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: children	many children		
+GU087S012	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: countries	many countries		
+GU087S013	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: furniture	much furniture		
+GU087S014	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: people	many people		
+GU087S015	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: luggage	much luggage		
+GU087S016	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: problems	many problems		
+GU087S017	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: pollution	much pollution		
+GU087S018	1	87	13_pronouns and determiners	much‚ÆmanyA‚Ç‚¿‚ç‚ğ‚Â‚¯‚éH: unemployment	much unemployment		
+GU087S019	1	87	13_pronouns and determiners	”Ş‚É‚ÍŒoÏ“I‚È–â‘è‚Í‚ ‚è‚Ü‚¹‚ñB”Ş‚Í‚½‚­‚³‚ñ‚Ì‚¨‹à‚ğ‚Á‚Ä‚¢‚Ü‚·B	He has no financial problems. He has plenty of money.		
+GU087S020	1	87	13_pronouns and determiners	„‚Í„‚½‚¿‚ª”‘‚Ü‚éêŠ‚ğŒ©‚Â‚¯‚ç‚ê‚é‚ÆŠmM‚µ‚Ä‚¢‚Ü‚·Bƒzƒeƒ‹‚Í‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	I'm sure we'll find somewhere to stay. There are plenty of hotels.		
+GU087S021	1	87	13_pronouns and determiners	”Ş—‚Í‘½‚­‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚ªA‚Ü‚¾Šw‚Ô‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	"She knows a lot, but she still has plenty to learn."		
+GU087S022	1	87	13_pronouns and determiners	„‚½‚¿‚Æˆê‚ÉÀ‚Á‚Ä‚­‚¾‚³‚¢B•”‰®‚Í‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	Come and sit with us. There's plenty of room.		
+GU087S023	1	87	13_pronouns and determiners	‚±‚±‚ÍƒŒƒXƒgƒ‰ƒ“‚ª‘½‚¢—Ç‚¢’¬‚Å‚·BH–‚ğ‚·‚éêŠ‚Í‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	It's a good town for restaurants. There are plenty of places to eat.		
+GU087S024	1	87	13_pronouns and determiners	ƒgƒ€‚Í—Ç‚¢ĞŒğ¶Šˆ‚ğ‘—‚Á‚Ä‚¢‚Ü‚·B”Ş‚É‚Í‚½‚­‚³‚ñ‚Ì—F’B‚ª‚¢‚Ü‚·B	Tom has a good social life. He has plenty of friends.		
+GU087S025	1	87	13_pronouns and determiners	„‚½‚¿‚Í‚ ‚Ü‚è‚¨‹à‚ğg‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	We didn't spend much money.		
+GU087S026	1	87	13_pronouns and determiners	„‚½‚¿‚Í‚½‚­‚³‚ñ‚Ì‚¨‹à‚ğg‚¢‚Ü‚µ‚½B	We spent a lot of money.		
+GU087S027	1	87	13_pronouns and determiners	‚ ‚È‚½‚ÍƒfƒCƒrƒbƒh‚É‚æ‚­‰ï‚¢‚Ü‚·‚©H	Do you see David much?		
+GU087S028	1	87	13_pronouns and determiners	„‚ÍƒfƒCƒrƒbƒh‚É‚æ‚­‰ï‚¢‚Ü‚·B	I see David a lot.		
+GU087S029	1	87	13_pronouns and determiners	„‚½‚¿‚Í‚¨‹à‚ğg‚¢‚·‚¬‚Ü‚µ‚½B	We spent too much money.		
+GU087S030	1	87	13_pronouns and determiners	‘½‚­‚Ìl‚ª‘¬‚­‰^“]‚µ‚·‚¬‚Ü‚·B	Many people drive too fast.	A lot of people drive too fast.	
+GU087S031	1	87	13_pronouns and determiners	‚ ‚È‚½‚Í‘½‚­‚Ìl‚ğ’m‚Á‚Ä‚¢‚Ü‚·‚©H	Do you know many people?	Do you know a lot of people?	
+GU087S032	1	87	13_pronouns and determiners	‚±‚±‚É‚ÍŠÏŒõ‹q‚ª‚ ‚Ü‚è‚¢‚Ü‚¹‚ñB	There aren't many tourists here.	There aren't a lot of tourists here.	
+GU087S033	1	87	13_pronouns and determiners	„‚½‚¿‚Í‚±‚±‚É‰½”N‚àZ‚ñ‚Å‚¢‚Ü‚·B	We've lived here for many years.		
+GU087S034	1	87	13_pronouns and determiners	‹}‚¢‚Å‚­‚¾‚³‚¢B„‚½‚¿‚É‚ÍŠÔ‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB	Be quick. We don't have much time.		
+GU087S035	1	87	13_pronouns and determiners	Ô‚ÌC—‚É‘½‚­‚Ì”ï—p‚ª‚©‚©‚è‚Ü‚µ‚½‚©H	Did it cost much to repair the car?		
+GU087S036	1	87	13_pronouns and determiners	¡’©‚ÍŒğ’Ê‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	There wasn't much traffic this morning.		
+GU087S037	1	87	13_pronouns and determiners	‚ ‚È‚½‚Í‰Ê•¨‚ğ‘½‚­H‚×‚Ü‚·‚©H	Do you eat much fruit?		
+GU087S038	1	87	13_pronouns and determiners	ƒQƒCƒŠ[‚Íd–‚Å‚Æ‚Ä‚à–Z‚µ‚¢‚Å‚·B‘¼‚Ì‚±‚Æ‚ğ‚·‚éŠÔ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	Gary is very busy with his job. He has little time for other things.		
+GU087S039	1	87	13_pronouns and determiners	ƒrƒbƒL[‚Íƒƒ“ƒhƒ“‚Å‚Ì¶Šˆ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB”Ş—‚É‚Í‚»‚±‚É—F’B‚ª‚Ù‚Æ‚ñ‚Ç‚¢‚Ü‚¹‚ñB	Vicky doesn't like living in London. She has few friends there.		
+GU087S040	1	87	13_pronouns and determiners	ƒQƒCƒŠ[‚É‚Í‘¼‚Ì‚±‚Æ‚ğ‚·‚éŠÔ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	Gary has very little time for other things.		
+GU087S041	1	87	13_pronouns and determiners	ƒrƒbƒL[‚É‚Íƒƒ“ƒhƒ“‚É—F’B‚ª‚Ù‚Æ‚ñ‚Ç‚¢‚Ü‚¹‚ñB	Vicky has very few friends in London.		
+GU087S042	1	87	13_pronouns and determiners	ƒAƒ“ƒi‚ÍÅ‹ß‚Æ‚Ä‚à–Z‚µ‚¢‚Å‚·B”Ş—‚É‚Í©—R‚ÈŠÔ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	Anna is very busy these days. She has little free time.		
+GU087S043	1	87	13_pronouns and determiners	A: Œ‹¥®‚Å‘½‚­‚ÌÊ^‚ğB‚è‚Ü‚µ‚½‚©HB: ‚Í‚¢A‚½‚­‚³‚ñB	"A: Did you take many pictures at the wedding? B: Yes, lots."		
+GU087S044	1	87	13_pronouns and determiners	„‚Í¡“ú–Z‚µ‚­‚ ‚è‚Ü‚¹‚ñB‚â‚é‚±‚Æ‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB	I'm not busy today. I don't have much to do.		
+GU087S045	1	87	13_pronouns and determiners	‚±‚±‚ÍŒ»‘ã“I‚È“ss‚Å‚·BŒÃ‚¢Œš•¨‚Í‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	This is a modern city. There are few old buildings.		
+GU087S046	1	87	13_pronouns and determiners	Å‹ßA“V‹C‚ª‚Æ‚Ä‚àŠ£‘‡‚µ‚Ä‚¢‚Ü‚·B‰J‚ª‚Ù‚Æ‚ñ‚Ç~‚Á‚Ä‚¢‚Ü‚¹‚ñB	The weather has been very dry recently. We've had little rain.		
+GU087S047	1	87	13_pronouns and determiners	„‚Íƒƒ“ƒhƒ“‚ğ‚æ‚­’m‚è‚Ü‚¹‚ñB‚»‚±‚É‚Í‰½”N‚às‚Á‚Ä‚¢‚Ü‚¹‚ñB	I don't know London very well. I haven't been there for many years.		
+GU087S048	1	87	13_pronouns and determiners	‚»‚Ì“ñ‘ä‚ÌÔ‚Í—‚Ä‚¢‚Ü‚·Bˆá‚¢‚Í‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	The two cars are similar. There is little difference between them.		
+GU087S049	1	87	13_pronouns and determiners	„‚Í‚±‚±‚É’·‚­Z‚ñ‚Å‚¢‚Ü‚¹‚ñB‚±‚±‚Å‚Í‚ ‚Ü‚è‘½‚­‚Ìl‚ğ’m‚è‚Ü‚¹‚ñB	I haven't lived here long. I don't know many people here.		
+GU087S050	1	87	13_pronouns and determiners	‚±‚±‚ÍZ‚Ş‚Ì‚É‘f°‚ç‚µ‚¢êŠ‚Å‚·B‚æ‚è—Ç‚¢êŠ‚Í‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	It's a wonderful place to live. There are few better places to be.		
+GU087S051	1	87	13_pronouns and determiners	‚±‚±‚Í‚Æ‚Ä‚à¬‚³‚ÈƒIƒtƒBƒX‚Å‚·BƒXƒy[ƒX‚ª‚ ‚Ü‚è‚ ‚è‚Ü‚¹‚ñB	It's a very small office. There isn't much space.		
+GU087S052	1	87	13_pronouns and determiners	ƒR[ƒq[‚ğˆù‚İ‚És‚«‚Ü‚µ‚å‚¤B“dÔ‚ªo‚é‘O‚É­‚µŠÔ‚ª‚ ‚è‚Ü‚·B	Let's go and have a coffee. We have a little time before the train leaves.		
+GU087S053	1	87	13_pronouns and determiners	A: ‚ ‚È‚½‚Í‰pŒê‚ğ˜b‚µ‚Ü‚·‚©HB: ­‚µB	A: Do you speak English? B: A little.		
+GU087S054	1	87	13_pronouns and determiners	„‚Í‚±‚±‚Å‚Ì¶Šˆ‚ğŠy‚µ‚ñ‚Å‚¢‚Ü‚·B­‚µ—F’B‚ª‚¢‚ÄA„‚½‚¿‚Í‚æ‚­‰ï‚¢‚Ü‚·B	I enjoy my life here. I have a few friends and we meet quite often.		
+GU087S055	1	87	13_pronouns and determiners	A: ÅŒã‚ÉƒNƒŒƒA‚É‰ï‚Á‚½‚Ì‚Í‚¢‚Â‚Å‚·‚©HB: ”“ú‘OB	A: When was the last time you saw Clare? B: A few days ago.		
+GU087S056	1	87	13_pronouns and determiners	A: ‚±‚Ìd–‚ğ‘S•”©•ª‚Å‚â‚è‚Ü‚µ‚½‚©HB: ‚¢‚¢‚¦A—F’B‚©‚ç­‚µ•‚¯‚Ä‚à‚ç‚¢‚Ü‚µ‚½B	"A: Did you do all this work on your own? B: No, I had a little help from my friends."		
+GU087S057	1	87	13_pronouns and determiners	A: ‚¢‚Âo‚©‚¯‚Ü‚·‚©HB: Œ—j“ú‚Å‚·B”“úŠÔo‚©‚¯‚Ü‚·B	A: When are you going away? B: On Monday. I'll be away for a few days.		
+GU087S058	1	87	13_pronouns and determiners	A: U•à‚Éo‚©‚¯‚Ü‚µ‚å‚¤BB: ‚¢‚¢l‚¦‚Å‚·B­‚µV‘N‚È‹ó‹C‚ğ‹z‚¤‚Ì‚Í—Ç‚¢‚±‚Æ‚Å‚·B	A: Let's go out for a walk. B: Good idea. It will be good to get a little fresh air.		
+GU087S059	1	87	13_pronouns and determiners	A: –Z‚µ‚¢‚Å‚·‚©HB: ‚»‚ê‚Ù‚Ç‚Å‚à‚ ‚è‚Ü‚¹‚ñB­‚µ‚â‚é‚±‚Æ‚ª‚ ‚è‚Ü‚·‚ªA’·‚­‚Í‚©‚©‚è‚Ü‚¹‚ñB	"A: Are you busy? B: Not really. I have a few things to do, but they won't take long."		
+GU087S060	1	87	13_pronouns and determiners	A: ‰½‚ğ‚·‚é‚©Œˆ‚ß‚Ü‚µ‚½‚©HB: ‚Ü‚¾‚Å‚·B­‚µl‚¦‚éŠÔ‚ª•K—v‚Å‚·B	A: Have you decided what you're going to do? B: Not yet. I need a little time to think about it.		
+GU087S061	1	87	13_pronouns and determiners	A: ‚ ‚È‚½‚Íƒtƒ‰ƒ“ƒXŒê‚ğ˜b‚¹‚Ü‚·‚©HB: ‚»‚ê‚Ù‚Ç‚Å‚Í‚ ‚è‚Ü‚¹‚ñB­‚µŒ¾—t‚ªŒ¾‚¦‚é‚¾‚¯‚Å‚·B	"A: Can you speak French? B: Not really. I can say a few words, but that's all."		
+GU087S062	1	87	13_pronouns and determiners	”Ş‚Í‰pŒê‚ğ‚Ù‚Æ‚ñ‚Ç˜b‚³‚È‚©‚Á‚½‚Ì‚ÅA”Ş‚ÆƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ğæ‚é‚Ì‚Í“ï‚µ‚©‚Á‚½‚Å‚·B	"He spoke little English, so it was difficult to communicate with him."		
+GU087S063	1	87	13_pronouns and determiners	”Ş‚Í­‚µ‰pŒê‚ğ˜b‚µ‚½‚Ì‚ÅA”Ş‚ÆƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ğæ‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	"He spoke a little English, so we were able to communicate with him."		
+GU087S064	1	87	13_pronouns and determiners	”Ş‚Í­‚µ‚µ‚©‰pŒê‚ğ˜b‚³‚È‚©‚Á‚½‚Ì‚ÅA”Ş‚ÆƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ğæ‚é‚Ì‚Í“ï‚µ‚©‚Á‚½‚Å‚·B	"He spoke only a little English, so it was difficult to communicate with him."		
+GU087S065	1	87	13_pronouns and determiners	”Ş—‚ÍK‰^‚Å‚·B”Ş—‚É‚Í‚Ù‚Æ‚ñ‚Ç–â‘è‚ª‚ ‚è‚Ü‚¹‚ñB	She's lucky. She has few problems.		
+GU087S066	1	87	13_pronouns and determiners	”Ş—‚Ìó‹µ‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñB”Ş—‚É‚Í‚¢‚­‚Â‚©‚Ì–â‘è‚ª‚ ‚è‚Ü‚·B	Things are not going so well for her. She has a few problems.		
+GU087S067	1	87	13_pronouns and determiners	‚»‚Ì‘º‚Í‚Æ‚Ä‚à¬‚³‚©‚Á‚½‚Å‚·B‰Æ‚ª‚¢‚­‚Â‚©‚µ‚©‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The village was very small. There were only a few houses.		
+GU087S068	1	87	13_pronouns and determiners	‚æ‚­•·‚¢‚Ä‚­‚¾‚³‚¢B­‚µƒAƒhƒoƒCƒX‚ğ‚µ‚Ü‚·B	Listen carefully. I'm going to give you a little advice.		
+GU087S069	1	87	13_pronouns and determiners	‚¢‚­‚Â‚©¿–â‚µ‚Ä‚à‚¢‚¢‚Å‚·‚©H	Do you mind if I ask you a few questions?		
+GU087S070	1	87	13_pronouns and determiners	‚±‚ê‚Í‚ ‚Ü‚è–Ê”’‚¢ŠX‚Å‚Í‚È‚¢‚Ì‚ÅAŠÏŒõ‹q‚Í‚Ù‚Æ‚ñ‚Ç–K‚ê‚Ü‚¹‚ñB	"This is not a very interesting city, so few tourists visit."		
+GU087S071	1	87	13_pronouns and determiners	ƒGƒCƒ~[‚Í—Ç‚¢‹³t‚É‚Í‚È‚ç‚È‚¢‚Æv‚¢‚Ü‚·B”Ş—‚É‚Í‚Ù‚Æ‚ñ‚Ç”E‘Ï—Í‚ª‚ ‚è‚Ü‚¹‚ñB	I don't think Amy would be a good teacher. She has little patience.		
+GU087S072	1	87	13_pronouns and determiners	‚±‚±‚ÍZ‚Ş‚É‚Í‘Ş‹ü‚ÈêŠ‚Å‚·B‚â‚é‚±‚Æ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	This is a boring place to live. There's little to do.		
+GU087S073	1	87	13_pronouns and determiners	„‚Í`‚ğ‚©‚È‚è‚æ‚­’m‚Á‚Ä‚¢‚Ü‚·B‰½“x‚©s‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·B	I know Hong Kong quite well. I've been there a few times.		
+GU087S074	1	87	13_pronouns and determiners	A: ƒR[ƒq[‚Éƒ~ƒ‹ƒN‚ğ“ü‚ê‚Ü‚·‚©HB: ‚Í‚¢A­‚µB	"A: Would you like milk in your coffee? B: Yes, a little."		
+GU087S075	1	87	13_pronouns and determiners	Œğ’Ê‚ª‚Ù‚Æ‚ñ‚Ç‚È‚©‚Á‚½‚Ì‚ÅA—·‚Í’·‚­‚©‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was little traffic, so the journey didn't take long."		
+GU087S076	1	87	13_pronouns and determiners	”Ş‚ª‡‚ÉŸ‚Á‚½‚Ì‚Í‹Á‚«‚Å‚µ‚½B”Ş‚ªŸ‚Â‚±‚Æ‚ğŠú‘Ò‚µ‚Ä‚¢‚½l‚Í‚Ù‚Æ‚ñ‚Ç‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	It was a surprise that he won the match. Few people expected him to win.		
+GU087S077	1	87	13_pronouns and determiners	ƒTƒ€‚Í‚Ç‚¤‚µ‚Ä‚¢‚é‚¾‚ë‚¤B”Ş‚É”ƒ–Œ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB	I wonder how Sam is. I haven't seen him for a few months.		
+GU087S078	1	87	13_pronouns and determiners	…‚É­‚µ‰–‚ğ“ü‚ê‚Ü‚µ‚½‚ªA‚Ù‚ñ‚Ì­‚µ‚¾‚¯‚Å‚·B	"I put some salt in the water, but only a little."		
+GU087S079	1	87	13_pronouns and determiners	‰ï‹c‚É‚Í”l‚µ‚©‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	There were only a few people at the meeting.		
+GU088S001	1	88	13_pronouns and determiners	ˆê•”‚Ìl‚Í‘¼‚Ìl‚æ‚è‚àŠÈ’P‚ÉŠw‚Ñ‚Ü‚·B	Some people learn more easily than others.		
+GU088S002	1	88	13_pronouns and determiners	„‚Í‚Ù‚Æ‚ñ‚Ç‚ÌT––‚Éo‚©‚¯‚Ü‚·B	I go away most weekends.		
+GU088S003	1	88	13_pronouns and determiners	ˆê•”‚ÌÔ‚Í4‚Â‚ÌƒhƒA‚ª‚ ‚èA‘¼‚ÌÔ‚Í2‚Â‚ÌƒhƒA‚ª‚ ‚è‚Ü‚·B	Some cars have four doors and some have two.		
+GU088S004	1	88	13_pronouns and determiners	„‚ªˆê‚É“­‚¢‚Ä‚¢‚él‚Ì’†‚É‚Í‚Æ‚Ä‚à—Ç‚¢l‚à‚¢‚Ü‚·B	Some of the people I work with are very nice.		
+GU088S005	1	88	13_pronouns and determiners	„‚Ì—F’B‚Ì‚Ù‚Æ‚ñ‚Ç‚ÍŠw¶‚Å‚·B	Most of my friends are students.		
+GU088S006	1	88	13_pronouns and determiners	‚Ù‚Æ‚ñ‚Ç‚Ì–â‘è‚É‚Í‰ğŒˆô‚ª‚ ‚è‚Ü‚·B	Most problems have a solution.		
+GU088S007	1	88	13_pronouns and determiners	„‚½‚¿‚Í‚Ù‚Æ‚ñ‚Ç‚Ì–â‘è‚ğ‰ğŒˆ‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚µ‚½B	We were able to solve most of the problems we had.		
+GU088S008	1	88	13_pronouns and determiners	ˆê•”‚Ì‰f‰æ‚Í”ñí‚É–\—Í“I‚Å‚·B	Some films are very violent.		
+GU088S009	1	88	13_pronouns and determiners	„‚Ì—F’B‚Ì’†‚É‚Íƒp[ƒeƒB[‚É—ˆ‚ç‚ê‚È‚¢l‚à‚¢‚Ü‚·B	Some of my friends can't come to the party.		
+GU088S010	1	88	13_pronouns and determiners	‚±‚ê‚ç‚ÌG‚Ì’†‚Å‚Ç‚ê‚©—~‚µ‚¢‚Å‚·‚©H	Do you want any of these magazines?		
+GU088S011	1	88	13_pronouns and determiners	‘½‚­‚Ìl‚ª‘¬‚­‰^“]‚µ‚·‚¬‚Ü‚·B	Many people drive too fast.		
+GU088S012	1	88	13_pronouns and determiners	ƒPƒCƒg‚Í‚Ù‚Æ‚ñ‚Ç‚Ìl¶‚ğƒƒ“ƒhƒ“‚Å‰ß‚²‚µ‚Ä‚«‚Ü‚µ‚½B	Kate has lived in London most of her life.		
+GU088S013	1	88	13_pronouns and determiners	‚Ù‚Æ‚ñ‚Ç‚Ì“ú‚Í7‘O‚É‹N‚«‚Ü‚·B	Most days I get up before 7 o'clock.		
+GU088S014	1	88	13_pronouns and determiners	„‚Íğ“ú•a‹C‚Å‚µ‚½B‚Ù‚Æ‚ñ‚Ç‚ÌŠÔ‚ğƒxƒbƒh‚Å‰ß‚²‚µ‚Ü‚µ‚½B	I was sick yesterday. I spent most of the day in bed.		
+GU088S015	1	88	13_pronouns and determiners	ƒR[ƒq[‚É­‚µ»“œ‚ğ“ü‚ê‚Ä‚à‚ç‚¦‚Ü‚·‚©H	Can I have a little sugar in my coffee?		
+GU088S016	1	88	13_pronouns and determiners	ˆê•”‚Ìl‚ÍƒeƒŒƒr‚ğŒ©‚·‚¬‚é‚Æv‚¢‚Ü‚·B	I think some people watch too much TV.		
+GU088S017	1	88	13_pronouns and determiners	‚±‚ê‚ç‚Ì–{‚Ì‚¢‚­‚Â‚©‚ğ“Ç‚İ‚Ü‚µ‚½‚ªA‘S•”‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I've read a few of these books, but not all of them."		
+GU088S018	1	88	13_pronouns and determiners	ğ”NA„‚½‚¿‚Í”“úŠÔƒƒ“ƒhƒ“‚És‚«‚Ü‚µ‚½B	Last year we spent a few days in London.		
+GU088S019	1	88	13_pronouns and determiners	‚Ù‚Æ‚ñ‚Ç‚ÌŠÏŒõ‹q‚Í‚±‚Ì’¬‚Ì‚±‚Ì•”•ª‚É‚Í—ˆ‚Ü‚¹‚ñB	Most tourists don't come to this part of the town.		
+GU088S020	1	88	13_pronouns and determiners	”Ş‚ç‚Í””N‘O‚É•ó‚­‚¶‚É“–‚½‚è‚Ü‚µ‚½‚ªA‚¨‹à‚Ì‚Ù‚Æ‚ñ‚Ç‚ğg‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	"They won the lottery a few years ago, but they've spent most of the money."		
+GU088S021	1	88	13_pronouns and determiners	“VŒó‚ª‹ó`‚Å–â‘è‚ğˆø‚«‹N‚±‚µAˆê•”‚Ì•Ö‚ªƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½B	The weather caused problems at the airport and some flights were cancelled.		
+GU088S022	1	88	13_pronouns and determiners	‚»‚ê‚Í”ü‚µ‚¢êŠ‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚ªAs‚Ìˆê•”‚Í‹»–¡[‚¢‚Å‚·B	"It's not a beautiful place, but some of the city is interesting."		
+GU088S023	1	88	13_pronouns and determiners	ƒTƒ‰‚Íƒˆ[ƒƒbƒp‚Å‘½‚­—·s‚µ‚Ü‚µ‚½B”Ş—‚Í‚Ù‚Æ‚ñ‚Ç‚Ìƒˆ[ƒƒbƒp‚Ì‘‚És‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·B	Sarah has travelled a lot in Europe. She's been to most European countries.		
+GU088S024	1	88	13_pronouns and determiners	ƒXƒeƒB[ƒu‚Æ„‚ÍˆÓŒ©‚ªˆÙ‚È‚è‚Ü‚·B„‚Í”Ş‚ÌˆÓŒ©‚Ì‘½‚­‚É‚Í“¯ˆÓ‚µ‚Ü‚¹‚ñB	Steve and I have different ideas. I don't agree with many of his opinions.		
+GU088S025	1	88	13_pronouns and determiners	’N‚àŒ‹¥®‚Ì‚±‚Æ‚ğ’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½BƒGƒ~ƒŠ[‚Í—F’B‚É‚Í‰½‚àŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	Nobody knew about the wedding. Emily didn't tell any of her friends.		
+GU088S026	1	88	13_pronouns and determiners	„‚½‚¿‚ÍXŒ¾‚¢‘ˆ‚¢‚Ü‚·‚ªA‚Ù‚Æ‚ñ‚Ç‚Ìê‡‚¤‚Ü‚­‚â‚Á‚Ä‚¢‚Ü‚·B	"We argue sometimes, but we get on well most of the time."		
+GU088S027	1	88	13_pronouns and determiners	‰¹Šy‚Í„‚É‚Æ‚Á‚Äd—v‚Å‚·B„‚Í‚Ù‚Æ‚ñ‚Ç‚Ìí—Ş‚Ì‰¹Šy‚ªD‚«‚Å‚·B	Music is important to me. I like most kinds of music.		
+GU088S028	1	88	13_pronouns and determiners	„‚Ì—F’B‚Í‚İ‚ñ‚È‚±‚±‹ß‚­‚ÉZ‚ñ‚Å‚¢‚Ü‚·B	All my friends live near here.	All of my friends live near here.	
+GU088S029	1	88	13_pronouns and determiners	‚±‚Ì‚¨‹à‚Ì”¼•ª‚Í„‚Ì‚à‚Ì‚Å‚·B	Half this money is mine.	Half of this money is mine.	
+GU088S030	1	88	13_pronouns and determiners	‚·‚×‚Ä‚Ì‰Ô‚Í”ü‚µ‚¢‚Å‚·B	All flowers are beautiful.		
+GU088S031	1	88	13_pronouns and determiners	‚±‚ê‚ç‚Ì‰Ô‚Í‚·‚×‚Ä”ü‚µ‚¢‚Å‚·B	All these flowers are beautiful.	All of these flowers are beautiful.	
+GU088S032	1	88	13_pronouns and determiners	„‚½‚¿‚É‚Í‚¨‹à‚ª‚ ‚è‚Ü‚¹‚ñB	We have no money.		
+GU088S033	1	88	13_pronouns and determiners	„‚½‚¿‚Í‚·‚×‚Ä‚ÌƒŠƒ“ƒS‚ğH‚×‚Ü‚µ‚½Bc‚Á‚Ä‚¢‚é‚à‚Ì‚Í‚ ‚è‚Ü‚¹‚ñB	We've eaten all the apples. There are none left.		
+GU088S034	1	88	13_pronouns and determiners	‚±‚Ì‚¨‹à‚Ì‚Ç‚ê‚à„‚Ì‚à‚Ì‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	None of this money is mine.		
+GU088S035	1	88	13_pronouns and determiners	ƒWƒ‡[‚Í”•¨ŠÙ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB”Ş‚Í‚·‚×‚Ä‚Ì”•¨ŠÙ‚ª‘Ş‹ü‚¾‚ÆŒ¾‚¢‚Ü‚·B	Joe doesn't like museums. He says all museums are boring.		
+GU088S036	1	88	13_pronouns and determiners	ƒLƒƒƒTƒŠƒ“‚ÍƒVƒJƒS‚Éˆê¶Z‚ñ‚Å‚¢‚Ü‚·B	Katherine has lived in Chicago all her life.		
+GU088S037	1	88	13_pronouns and determiners	„‚ÍH—~‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B—[H‚Ì”¼•ª‚µ‚©H‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I had no appetite. I could only eat half my dinner.		
+GU088S038	1	88	13_pronouns and determiners	„‚½‚¿‚Í‡‚É•‰‚¯‚Ü‚µ‚½B„‚½‚¿‚Ìƒ`[ƒ€‚Ì‘Iè‚Ì’N‚à—Ç‚¢ƒvƒŒ[‚ğ‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	We lost the game. None of the players on our team played well.		
+GU088S039	1	88	13_pronouns and determiners	‚·‚×‚Ä‚Ì’¹‚ª”ò‚×‚é‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB—á‚¦‚ÎAƒyƒ“ƒMƒ“‚Í”ò‚×‚Ü‚¹‚ñB	"Not all birds can fly. For example, the penguin cannot fly."		
+GU088S040	1	88	13_pronouns and determiners	ƒeƒXƒg‚Í“ï‚µ‚©‚Á‚½‚Å‚·B¿–â‚Ì”¼•ª‚µ‚©“š‚¦‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The test was hard. I could only answer half the questions.		
+GU088S041	1	88	13_pronouns and determiners	„‚Íˆêl‚Å‰f‰æŠÙ‚És‚«‚Ü‚µ‚½B—F’B‚Ì’N‚à—ˆ‚½‚ª‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I went to the cinema by myself. None of my friends wanted to come.		
+GU088S042	1	88	13_pronouns and determiners	A: ‚ ‚È‚½‚ª„‚É‚­‚ê‚½‚¨‹à‚ğ‘S•”g‚¢‚Ü‚µ‚½‚©HB: ‚¢‚¢‚¦A­‚µc‚Á‚Ä‚¢‚Ü‚·B	"A: Did you spend all of the money I gave you? B: No, there's some left."		
+GU088S043	1	88	13_pronouns and determiners	A: ‚±‚Ì‰¹Šy‚ªD‚«‚Å‚·‚©HB: ˆê•”‚ÍD‚«‚Å‚·B‘S•”‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	A: Do you like this music? B: Some of it. Not all of it.		
+GU088S044	1	88	13_pronouns and determiners	‚±‚ê‚ç‚Ìl‚Ì‚¢‚­‚Â‚©‚Í’m‚Á‚Ä‚¢‚Ü‚·‚ªA‘S•”‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I know some of these people, but not all of them."		
+GU088S045	1	88	13_pronouns and determiners	‚ ‚È‚½‚½‚¿‚Ì’N‚©ƒp[ƒeƒB[‚É—ˆ‚½‚¢‚Å‚·‚©H	Do any of you want to come to a party?		
+GU088S046	1	88	13_pronouns and determiners	„‚½‚¿‘Sˆõ‚ª’x‚ê‚Ü‚µ‚½B	All of us were late.		
+GU088S047	1	88	13_pronouns and determiners	„‚Í‚»‚Ì–{‚ğ“Ç‚İI‚¦‚Ä‚¢‚Ü‚¹‚ñB”¼•ª‚µ‚©“Ç‚ñ‚Å‚¢‚Ü‚¹‚ñB	I haven't finished the book. I've only read half of it.		
+GU088S048	1	88	13_pronouns and determiners	„‚½‚¿‚Í‘Sˆõ‰J‚Å”G‚ê‚Ü‚µ‚½B’N‚àP‚ğ‚Á‚Ä‚¢‚È‚©‚Á‚½‚©‚ç‚Å‚·B	We all got wet in the rain because none of us had an umbrella.		
+GU088S049	1	88	13_pronouns and determiners	‚±‚Ì‚¨‹à‚Ìˆê•”‚Í‚ ‚È‚½‚Ì‚à‚Ì‚ÅAˆê•”‚Í„‚Ì‚à‚Ì‚Å‚·B	Some of this money is yours and some of it is mine.		
+GU088S050	1	88	13_pronouns and determiners	„‚Í‚¢‚­‚Â‚©‚Ìl‚É“¹‚ğq‚Ë‚Ü‚µ‚½‚ªA’N‚à•‚¯‚Ä‚­‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I asked some people for directions, but none of them was able to help."		
+GU088S051	1	88	13_pronouns and determiners	‰f‰æ‚Ì‚Ù‚Æ‚ñ‚Ç‚Í—‰ğ‚µ‚Ü‚µ‚½‚ªA‘S•”‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I understood most of the film, but not all of it."		
+GU088S052	1	88	13_pronouns and determiners	ƒOƒ‹[ƒv‚ÌŠÏŒõ‹q‚Ì‚Ù‚Æ‚ñ‚Ç‚ÍƒCƒ^ƒŠƒAl‚Å‚µ‚½‚ªAˆê•”‚Íƒtƒ‰ƒ“ƒXl‚Å‚µ‚½B	"Most of the tourists in the group were Italian, but some of them were French."		
+GU088S053	1	88	13_pronouns and determiners	”Ş‚Í„‚½‚¿‚É©•ª‚Ìl¶‚Ì˜b‚ğ‚µ‚Ü‚µ‚½‚ªA‚Ç‚ê‚à–{“–‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚·‚×‚Äì‚è˜b‚Å‚µ‚½B	"He told us his life story, but none of it was true. It was all invented."		
+GU088S054	1	88	13_pronouns and determiners	‚à‚¤ƒoƒiƒi‚Í‚ ‚è‚Ü‚¹‚ñB‚·‚×‚ÄH‚×‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	There are no more bananas. We've eaten all of them.		
+GU089S001	1	89	13_pronouns and determiners	—¼•û‚ÌƒŒƒXƒgƒ‰ƒ“‚Í—Ç‚¢‚Å‚·B	Both restaurants are good.		
+GU089S002	1	89	13_pronouns and determiners	‚Ç‚¿‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚à‚‚­‚ ‚è‚Ü‚¹‚ñB	Neither restaurant is expensive.		
+GU089S003	1	89	13_pronouns and determiners	‚Ç‚¿‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚É‚às‚¯‚Ü‚·B„‚Í‚Ç‚¿‚ç‚Å‚à\‚¢‚Ü‚¹‚ñB	We can go to either restaurant. I don't mind.		
+GU089S004	1	89	13_pronouns and determiners	‚Ç‚¿‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚É‚às‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	I haven't been to either restaurant before.		
+GU089S005	1	89	13_pronouns and determiners	A: ƒoƒXƒPƒbƒgƒ{[ƒ‹‚ÆƒeƒjƒXA‚Ç‚¿‚ç‚ªD‚«‚Å‚·‚©HB: —¼•ûD‚«‚Å‚·B	"A: Which do you prefer, basketball or tennis? B: I like both."		
+GU089S006	1	89	13_pronouns and determiners	A: ‚ ‚È‚½‚Ì—F’B‚ÍƒCƒMƒŠƒXl‚Å‚·‚©AƒAƒƒŠƒJl‚Å‚·‚©HB: ‚Ç‚¿‚ç‚Å‚à‚ ‚è‚Ü‚¹‚ñB”Ş—‚ÍƒI[ƒXƒgƒ‰ƒŠƒAl‚Å‚·B	A: Is your friend British or American? B: Neither. She's Australian.		
+GU089S007	1	89	13_pronouns and determiners	A: ‚¨’ƒ‚©ƒR[ƒq[‚ª—~‚µ‚¢‚Å‚·‚©HB: ‚Ç‚¿‚ç‚Å‚à\‚¢‚Ü‚¹‚ñB	A: Do you want tea or coffee? B: Either. I don't mind.		
+GU089S008	1	89	13_pronouns and determiners	A: ¡“ú‚Í‰½“ú‚Å‚·‚©A18“ú‚©19“ú‚Å‚·‚©HB: ‚Ç‚¿‚ç‚Å‚à‚ ‚è‚Ü‚¹‚ñB¡“ú‚Í20“ú‚Å‚·B	"A: What day is it today, the 18th or 19th? B: Neither. It's the 20th."		
+GU089S009	1	89	13_pronouns and determiners	A: —·s‚Å‚ÍŠØ‘‚Æ“ú–{‚Ì‚Ç‚¿‚ç‚És‚«‚Ü‚µ‚½‚©HB: —¼•û‚És‚«‚Ü‚µ‚½BŠØ‘‚Å1TŠÔA“ú–{‚Å1TŠÔ‚Å‚·B	"A: Where did you go on your trip, Korea or Japan? B: We went to both. A week in Korea and a week in Japan."		
+GU089S010	1	89	13_pronouns and determiners	A: ‹÷‚ÉÀ‚è‚Ü‚·‚©A‚»‚ê‚Æ‚à‘‹‚Ì‚»‚Î‚Å‚·‚©HB: ‚Ç‚¿‚ç‚Å‚à\‚¢‚Ü‚¹‚ñB	A: Shall we sit in the corner or by the window? B: Either. I don't mind.		
+GU089S011	1	89	13_pronouns and determiners	A: ƒŠƒT‚Í‚Ç‚±‚Å‚·‚©Hd–’†‚Å‚·‚©A‚»‚ê‚Æ‚à‰Æ‚É‚¢‚Ü‚·‚©HB: ‚Ç‚¿‚ç‚Å‚à‚ ‚è‚Ü‚¹‚ñB”Ş—‚Í‹x‰É’†‚Å‚·B	A: Where's Lisa? Is she at work or at home? B: Neither. She's away on holiday.		
+GU089S012	1	89	13_pronouns and determiners	A: ¡“ú‰½‚ğ‚µ‚Ü‚µ‚½‚©H”•¨ŠÙ‚És‚«‚Ü‚µ‚½‚©A‚»‚ê‚Æ‚à”ƒ‚¢•¨‚És‚«‚Ü‚µ‚½‚©HB: ‚Ç‚¿‚ç‚É‚às‚«‚Ü‚¹‚ñ‚Å‚µ‚½BŠOo‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	A: What did you do today? Did you go to the museum or go shopping? B: We didn't do either. We didn't go out.		
+GU089S013	1	89	13_pronouns and determiners	A: ƒPƒCƒg‚ªƒXƒyƒCƒ“Œê‚ÆƒAƒ‰ƒrƒAŒê‚ğ˜b‚·‚Æ‚¢‚¤‚Ì‚Í–{“–‚Å‚·‚©HB: ‚Í‚¢A”Ş—‚Í—¼•û‚Æ‚à—¬’¨‚É˜b‚µ‚Ü‚·B	"A: Is it true that Kate speaks Spanish and Arabic? B: Yes, she speaks both fluently."		
+GU089S014	1	89	13_pronouns and determiners	ì‰ˆ‚¢‚ğ•à‚­‚©A“¹‰ˆ‚¢‚És‚­‚±‚Æ‚ª‚Å‚«‚Ü‚·B‚Ç‚¿‚ç‚Ì•û–@‚Å‚às‚¯‚Ü‚·B	You can walk along the river or go along the road. You can go either way.		
+GU089S015	1	89	13_pronouns and determiners	–ŒÌ‚Í‚ ‚Ü‚è[‚Å‚Í‚È‚­A‚Ç‚¿‚ç‚Ì‰^“]è‚à‰ö‰ä‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The accident wasn't very serious and neither driver was injured.		
+GU089S016	1	89	13_pronouns and determiners	–ŒÌ‚Í‚©‚È‚è‚Ğ‚Ç‚­A—¼•û‚ÌÔ‚ª‚Ğ‚Ç‚­‘¹‚µ‚Ü‚µ‚½B	The accident was quite bad and both cars were badly damaged.		
+GU089S017	1	89	13_pronouns and determiners	—Ç‚¢‡‚Å‚Í‚È‚­A‚Ç‚¿‚ç‚Ìƒ`[ƒ€‚à—Ç‚¢ƒvƒŒ[‚ğ‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	It wasn't a good game and neither team played well.		
+GU089S018	1	89	13_pronouns and determiners	„‚ÍƒJ[ƒ‹‚ÌƒIƒtƒBƒX‚É“ñ“xs‚«‚Ü‚µ‚½‚ªA‚Ç‚¿‚ç‚Ì‚à”Ş‚Í‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"I went to Carl's office twice, but he wasn't there either time."		
+GU089S019	1	89	13_pronouns and determiners	‰^“]‚·‚é‚Í—¼è‚ğƒnƒ“ƒhƒ‹‚É’u‚­‚×‚«‚Å‚·B	"When you're driving, you should have both hands on the steering wheel."		
+GU089S020	1	89	13_pronouns and determiners	‚±‚ê‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚Ì—¼•û‚ª—Ç‚¢‚Å‚·B	Both of these restaurants are good.		
+GU089S021	1	89	13_pronouns and determiners	‚±‚ê‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚Í‚Ç‚¿‚ç‚à—Ç‚¢‚Å‚·B	Both these restaurants are good.		
+GU089S022	1	89	13_pronouns and determiners	„‚½‚¿‚ªs‚Á‚½ƒŒƒXƒgƒ‰ƒ“‚Ì‚Ç‚¿‚ç‚à‚‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	Neither of the restaurants we went to was expensive.		
+GU089S023	1	89	13_pronouns and determiners	‚»‚ê‚ç‚ÌƒŒƒXƒgƒ‰ƒ“‚Ì‚Ç‚¿‚ç‚É‚às‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	I haven't been to either of those restaurants.		
+GU089S024	1	89	13_pronouns and determiners	‚ ‚È‚½‚½‚¿‚Ì‚Ç‚¿‚ç‚©‚ªƒƒVƒAŒê‚ğ˜b‚¹‚Ü‚·‚©H	Can either of you speak Russian?		
+GU089S025	1	89	13_pronouns and determiners	„‚Í“ñl‚É‰w‚Ö‚Ì“¹‚ğq‚Ë‚Ü‚µ‚½‚ªA‚Ç‚¿‚ç‚à•‚¯‚Ä‚­‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I asked two people the way to the station, but neither of them could help me."		
+GU089S026	1	89	13_pronouns and determiners	„‚½‚¿“ñl‚Æ‚à‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚Ü‚µ‚½B	Both of us were very tired.		
+GU089S027	1	89	13_pronouns and determiners	”Ş‚ç‚Ì‚Ç‚¿‚ç‚à‰Æ‚É‚¢‚Ü‚¹‚ñB	Neither of them is at home.	Neither of them are at home.	
+GU089S028	1	89	13_pronouns and determiners	ƒNƒŠƒX‚àƒ|[ƒ‹‚à’x‚µ‚Ü‚µ‚½B	Both Chris and Paul were late.		
+GU089S029	1	89	13_pronouns and determiners	„‚Í‰Æ‚É‹A‚Á‚½A”æ‚ê‚Ä‚¢‚Ä‚¨• ‚ª‹ó‚¢‚Ä‚¢‚Ü‚µ‚½B	I was both tired and hungry when I arrived home.		
+GU089S030	1	89	13_pronouns and determiners	ƒNƒŠƒX‚àƒ|[ƒ‹‚àƒp[ƒeƒB[‚É—ˆ‚Ü‚¹‚ñ‚Å‚µ‚½B	Neither Chris nor Paul came to the party.		
+GU089S031	1	89	13_pronouns and determiners	‰Æ‚ÌŠO‚Å–ŒÌ‚ª‚ ‚è‚Ü‚µ‚½‚ªA„‚½‚¿‚Í‰½‚àŒ©‚¸A‰½‚à•·‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"There was an accident outside our house, but we neither saw nor heard anything."		
+GU089S032	1	89	13_pronouns and determiners	ƒ}ƒŠƒA‚ª‚Ç‚±‚Ìog‚©‚Í•ª‚©‚è‚Ü‚¹‚ñB”Ş—‚ÍƒXƒyƒCƒ“l‚©ƒCƒ^ƒŠƒAl‚Ì‚Ç‚¿‚ç‚©‚Å‚·B	I'm not sure where Maria's from. She's either Spanish or Italian.		
+GU089S033	1	89	13_pronouns and determiners	‚ ‚È‚½‚ªÓ‚é‚©A„‚ª“ñ“x‚Æ‚ ‚È‚½‚Æ˜b‚³‚È‚¢‚©‚Ì‚Ç‚¿‚ç‚©‚Å‚·B	Either you apologise or I'll never speak to you again.		
+GU089S034	1	89	13_pronouns and determiners	ƒAƒ“ƒi‚Íƒƒ“ƒhƒ“‚Å¶‚Ü‚ê‚Ü‚µ‚½‚ªA”Ş—‚Ì—¼e‚Ì‚Ç‚¿‚ç‚àƒCƒMƒŠƒXl‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"Anna was born in London, but neither of her parents is British."		
+GU089S035	1	89	13_pronouns and determiners	ƒgƒ€‚ÍŒ©‚½‰f‰æ‚É‚Â‚¢‚Ä˜b‚µ‚Ä‚­‚ê‚Ü‚µ‚½‚ªA‚»‚Ì‚Ç‚ê‚à•·‚¢‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	Tom told me about two films he'd seen. I hadn't heard of either of them.		
+GU089S036	1	89	13_pronouns and determiners	„‚Í‚±‚ê‚ç‚ÌƒVƒƒƒc‚Ì—¼•û‚ªD‚«‚Å‚·B‚Ç‚ê‚ğ’…‚é‚×‚«‚Å‚µ‚å‚¤‚©H	I like both of these shirts. Which one shall I wear?		
+GU089S037	1	89	13_pronouns and determiners	ƒTƒ‰‚Æ„‚ÍƒeƒjƒX‚ª‚ ‚Ü‚è“¾ˆÓ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB„‚½‚¿‚Ì‚Ç‚¿‚ç‚à—Ç‚¢ƒvƒŒ[ƒ„[‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Sarah and I aren't very good at tennis. Neither of us is a good player.		
+GU089S038	1	89	13_pronouns and determiners	„‚ÌŒZ‚Í“­‚¢‚Ä‚¢‚Ü‚·‚ªA„‚Ìo–…‚Í—¼•û‚Æ‚à‚Ü‚¾ŠwZ‚É’Ê‚Á‚Ä‚¢‚Ü‚·B	"My brother is working, but both my sisters are still at school."		
+GU089S039	1	89	13_pronouns and determiners	„‚ÍƒTƒ€‚ÆƒNƒŠƒX‚ğ’m‚Á‚Ä‚¢‚Ü‚·B„‚Í”Ş‚ç‚Ì—¼•û‚ÆŠwZ‚É’Ê‚Á‚Ä‚¢‚Ü‚µ‚½B	I know Sam and Chris. I was at school with both of them.		
+GU089S040	1	89	13_pronouns and determiners	ƒGƒ~ƒŠ[‚ÍƒƒVƒAŒê‚ğ˜b‚µAƒhƒCƒcŒê‚à˜b‚µ‚Ü‚·BƒGƒ~ƒŠ[‚ÍƒƒVƒAŒê‚àƒhƒCƒcŒê‚à˜b‚µ‚Ü‚·B	"Emily speaks Russian, and she speaks German. Emily speaks both Russian and German."		
+GU089S041	1	89	13_pronouns and determiners	‚»‚ê‚Í‘Ş‹ü‚È‰f‰æ‚ÅA’·‚©‚Á‚½‚Å‚·B‚»‚Ì‰f‰æ‚Í‘Ş‹ü‚Å’·‚©‚Á‚½‚Å‚·B	"It was a boring movie, and it was long. The movie was both boring and long."		
+GU089S042	1	89	13_pronouns and determiners	‚ ‚Ì’j«‚Ì–¼‘O‚ÍƒŠƒ`ƒƒ[ƒh‚Å‚·‚©H‚»‚ê‚Æ‚àƒƒo[ƒg‚Å‚·‚©H‚»‚Ì‚Ç‚¿‚ç‚©‚Å‚·B‚ ‚Ì’j«‚Ì–¼‘O‚ÍƒŠƒ`ƒƒ[ƒh‚©ƒƒo[ƒg‚Å‚·B	Is that man's name Richard? Or is it Robert? It's one of the two. That man's name is either Richard or Robert.		
+GU089S043	1	89	13_pronouns and determiners	„‚½‚¿‚Í‰½‚àŒ©‚¸A‰½‚à•·‚«‚Ü‚¹‚ñ‚Å‚µ‚½B„‚½‚¿‚Í‰½‚àŒ©‚¸A‰½‚à•·‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"We didn't see anything, and we didn't hear anything. We neither saw nor heard anything."		
+GU089S044	1	89	13_pronouns and determiners	¡“ú‚Ío”­‚Å‚«‚Ü‚·‚µA–¾“ú‚Å‚ào”­‚Å‚«‚Ü‚·B‚Ç‚¿‚ç‚Å‚à\‚¢‚Ü‚¹‚ñB¡“ú‚Ío”­‚Å‚«‚Ü‚·‚µA–¾“ú‚Å‚ào”­‚Å‚«‚Ü‚·B	We can leave today or tomorrow - whichever you prefer. We can leave either today or tomorrow.		
+GU089S045	1	89	13_pronouns and determiners	—·‚Í‰õ“K‚Å‚Í‚È‚­A‹»–¡[‚­‚à‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B—·‚Í‰õ“K‚Å‚à‚È‚­A‹»–¡[‚­‚à‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"The journey wasn't comfortable, and it wasn't interesting. The journey was neither comfortable nor interesting."		
+GU089S046	1	89	13_pronouns and determiners	„‚½‚¿‚Í”•¨ŠÙ‚ğ–K‚êA”üpŠÙ‚à–K‚ê‚Ü‚µ‚½B„‚½‚¿‚Í”•¨ŠÙ‚à”üpŠÙ‚à–K‚ê‚Ü‚µ‚½B	"We visited the museum, and we visited the art gallery. We visited both the museum and the art gallery."		
+GU089S047	1	89	13_pronouns and determiners	„‚Í‹x‰É‚És‚­ŠÔ‚à‚¨‹à‚à‚ ‚è‚Ü‚¹‚ñB„‚Í‹x‰É‚És‚­‚½‚ß‚ÌŠÔ‚à‚¨‹à‚à‚ ‚è‚Ü‚¹‚ñB	"I don't have time to go on holiday, and I don't have the money. I have neither the time nor the money to go on holiday."		
+GU089S048	1	89	13_pronouns and determiners	‚±‚±‚É‚Í—Ç‚¢ƒzƒeƒ‹‚ª“ñ‚Â‚ ‚è‚Ü‚·B‚Ç‚¿‚ç‚É‚Å‚à”‘‚Ü‚ê‚Ü‚·B	There are two good hotels here. You could stay at either of them.		
+GU089S049	1	89	13_pronouns and determiners	‚±‚±‚É‚Í‘½‚­‚Ì—Ç‚¢ƒzƒeƒ‹‚ª‚ ‚è‚Ü‚·B‚Ç‚ê‚É‚Å‚à”‘‚Ü‚ê‚Ü‚·B	There are many good hotels here. You could stay at any of them.		
+GU089S050	1	89	13_pronouns and determiners	„‚½‚¿‚Í“ñ‚Â‚Ìƒzƒeƒ‹‚ğ‚µ‚Ü‚µ‚½‚ªA‚Ç‚¿‚ç‚É‚à•”‰®‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚Ç‚¿‚ç‚à–º‚Å‚µ‚½B	We tried two hotels. Neither of them had a room. Both of them were full.		
+GU089S051	1	89	13_pronouns and determiners	„‚½‚¿‚Í‘½‚­‚Ìƒzƒeƒ‹‚ğ‚µ‚Ü‚µ‚½‚ªA‚Ç‚ê‚É‚à•”‰®‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚Ç‚ê‚à–º‚Å‚µ‚½B	We tried a lot of hotels. None of them had a room. All of them were full.		
+GU089S052	1	89	13_pronouns and determiners	ƒTƒ€‚É‚Í“ñl‚Ìo–…‚ª‚¢‚Ü‚·‚ªA„‚Í‚Ç‚¿‚ç‚É‚à‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	"Sam has two sisters, but I haven't met either of them."		
+GU089S053	1	89	13_pronouns and determiners	ƒGƒ~ƒŠ[‚É‚Íll‚ÌŒZ’í‚ª‚¢‚Ü‚·‚ªA„‚Í‚Ç‚ê‚É‚à‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	"Emily has four brothers, but I haven't met any of them."		
+GU089S054	1	89	13_pronouns and determiners	‚»‚Ì’Ê‚è‚É‚Í‚¢‚­‚Â‚©‚Ì“X‚ª‚ ‚è‚Ü‚µ‚½‚ªA‚Ç‚ê‚àŠJ‚¢‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"There were a few shops in the street, but none of them was open."		
+GU089S055	1	89	13_pronouns and determiners	„‚Í‚¢‚­‚Â‚©‚Ìd–‚É‰•å‚µ‚Ü‚µ‚½‚ªA‚Ç‚ê‚à“¾‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	"I applied for several jobs, but I didn't get any of them."		
+GU089S056	1	89	13_pronouns and determiners	ƒNƒŠƒX‚Æ„‚Í‰Æ‚É“ü‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B‚Ç‚¿‚ç‚àŒ®‚ğ‚Á‚Ä‚¢‚È‚©‚Á‚½‚©‚ç‚Å‚·B	Chris and I couldn't get into the house because neither of us had a key.		
+GU089S057	1	89	13_pronouns and determiners	Œ—j“ú‚©–Ø—j“ú‚É‰ï‚¦‚Ü‚·B‚Ç‚¿‚ç‚Ì“ú‚Å‚à“s‡‚ª‚¢‚¢‚Å‚·‚©H	I could meet you on Monday or Thursday. Would either of those days suit you?		
+GU089S058	1	89	13_pronouns and determiners	„‚Íƒgƒ€‚ÆƒjƒRƒ‰‚Ì—¼•û‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½‚ªA‚Ç‚¿‚ç‚à—ˆ‚Ü‚¹‚ñ‚Å‚µ‚½B	"I invited both Tom and Nicola to the party, but neither of them came."		
+GU089S059	1	89	13_pronouns and determiners	Œ±‚Í‚Æ‚Ä‚à“ï‚µ‚©‚Á‚½‚Å‚·B“ñ\l‚ÌŠw¶‚ªó‚¯‚Ü‚µ‚½‚ªA‚Ç‚ê‚à‡Ši‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	The exam was very hard. Twenty students did it and none of them passed.		
+GU090S001	1	90	13_pronouns and determiners	‚İ‚ñ‚È”æ‚ê‚Ä‚¢‚éB	Everybody is tired.		
+GU090S002	1	90	13_pronouns and determiners	„‚Í‚İ‚ñ‚È‚ğƒp[ƒeƒB[‚Éµ‘Ò‚µ‚Ü‚µ‚½B	I invited everyone to the party.		
+GU090S003	1	90	13_pronouns and determiners	‚İ‚ñ‚È‚ÍŠy‚µ‚ñ‚¾‚ÆŒ¾‚¢‚Ü‚µ‚½B	Everyone said that they enjoyed themselves.		
+GU090S004	1	90	13_pronouns and determiners	„‚Í‘S‚Ä‚Ì—F’B‚ğµ‘Ò‚µ‚Ü‚µ‚½B	I invited all my friends.		
+GU090S005	1	90	13_pronouns and determiners	„‚½‚¿‘Sˆõ‚ª”æ‚ê‚Ä‚¢‚Ü‚µ‚½B	All of us were tired.		
+GU090S006	1	90	13_pronouns and determiners	„‚½‚¿‚Í‚İ‚ñ‚È”æ‚ê‚Ä‚¢‚Ü‚µ‚½B	We were all tired.		
+GU090S007	1	90	13_pronouns and determiners	”Ş‚ç‚Í‚İ‚ñ‚ÈŠy‚µ‚ñ‚Å‚¢‚Ü‚µ‚½B	They all enjoyed themselves.		
+GU090S008	1	90	13_pronouns and determiners	‘f°‚ç‚µ‚¢ƒp[ƒeƒB[‚Å‚µ‚½B‚İ‚ñ‚È‚ªŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚Ü‚µ‚½B	It was a great party. Everyone had a great time.		
+GU090S009	1	90	13_pronouns and determiners	ƒOƒ‹[ƒv‚É‚Í30l‚¢‚Ü‚µ‚½B‘Sˆõ‚ªŠw¶‚Å‚µ‚½B	There were 30 people in the group. All of them were students.		
+GU090S010	1	90	13_pronouns and determiners	‰ÎĞŒx•ñ‚ª–Â‚Á‚½A‚İ‚ñ‚È‚·‚®‚ÉŒš•¨‚ğo‚Ü‚µ‚½B	"When the fire alarm rang, everyone left the building immediately."		
+GU090S011	1	90	13_pronouns and determiners	„‚½‚¿‚ÌƒNƒ‰ƒX‚Ì’N‚àŒ±‚É—‚¿‚Ü‚¹‚ñ‚Å‚µ‚½B‘Sˆõ‚ª‡Ši‚µ‚Ü‚µ‚½B	Nobody in our class failed the exam. All of us passed.		
+GU090S012	1	90	13_pronouns and determiners	„‚½‚¿‚ÌƒNƒ‰ƒX‚Ì’N‚àŒ±‚É—‚¿‚Ü‚¹‚ñ‚Å‚µ‚½B‚İ‚ñ‚È‚ª‡Ši‚µ‚Ü‚µ‚½B	Nobody in our class failed the exam. Everybody passed.		
+GU090S013	1	90	13_pronouns and determiners	n‚ß‚ç‚ê‚Ü‚·‚©H‚İ‚ñ‚È€”õ‚Í‚Å‚«‚Ä‚¢‚Ü‚·‚©H	Can we begin? Is everyone ready?		
+GU090S014	1	90	13_pronouns and determiners	„‚Ì—F’B‚Í‚İ‚ñ‚È¡–éo‚©‚¯‚Ü‚·B	All my friends are going out tonight.		
+GU090S015	1	90	13_pronouns and determiners	’N‚É‚Å‚àŒ‡“_‚Í‚ ‚è‚Ü‚·BŠ®àø‚Èl‚Í‚¢‚Ü‚¹‚ñB	Everybody has their faults. Nobody is perfect.		
+GU090S016	1	90	13_pronouns and determiners	”Ş‚Í‰½‚Å‚à’m‚Á‚Ä‚¢‚é‚Æv‚Á‚Ä‚¢‚Ü‚·B	He thinks he knows everything.		
+GU090S017	1	90	13_pronouns and determiners	„‚½‚¿‚Ì‹x‰É‚Í‘å¸”s‚Å‚µ‚½B‚·‚×‚Ä‚ª‚¤‚Ü‚­‚¢‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	Our holiday was a disaster. Everything went wrong.		
+GU090S018	1	90	13_pronouns and determiners	”Ş‚ÍƒRƒ“ƒsƒ…[ƒ^‚É‚Â‚¢‚Ä‚·‚×‚Ä’m‚Á‚Ä‚¢‚Ü‚·B	He knows all about computers.		
+GU090S019	1	90	13_pronouns and determiners	„‚Í”Ş—‚ÌŒ¾‚¤‚±‚Æ‚·‚×‚Ä‚É”½‘Î‚Å‚·B	I disagree with all (that) she says.		
+GU090S020	1	90	13_pronouns and determiners	„‚Í”Ş—‚ÌŒ¾‚¤‚±‚Æ‚·‚×‚Ä‚É”½‘Î‚Å‚·B	I disagree with everything (that) she says.		
+GU090S021	1	90	13_pronouns and determiners	¡“ú„‚ªH‚×‚½‚Ì‚ÍƒTƒ“ƒhƒCƒbƒ`‚¾‚¯‚Å‚·B	All I've eaten today is a sandwich.		
+GU090S022	1	90	13_pronouns and determiners	‰½‚à•Ï‚í‚Á‚Ä‚¢‚Ü‚¹‚ñB‚·‚×‚Ä‚ªˆÈ‘O‚Æ“¯‚¶‚Å‚·B	Nothing has changed. Everything is the same as it was.		
+GU090S023	1	90	13_pronouns and determiners	‚ ‚È‚½‚Í‚¨‹à‚Ì‚±‚Æ‚ğl‚¦‚·‚¬‚Å‚·B‚¨‹à‚ª‘S‚Ä‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	You think too much about money. Money isn't everything.		
+GU090S024	1	90	13_pronouns and determiners	„‚É‚Í‚ ‚Ü‚è‚¨‹à‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚Á‚Ä‚¢‚½‚Ì‚Í10ƒ|ƒ“ƒh‚¾‚¯‚Å‚·B	I didn't have much money with me. All I had was ten pounds.		
+GU090S025	1	90	13_pronouns and determiners	‚È‚º‚»‚ñ‚È‚É‘Ó‚¯Ò‚È‚ñ‚Å‚·‚©H„‚É‚·‚×‚Ä‚ğŠú‘Ò‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	Why are you so lazy? You can't expect me to do everything for you.		
+GU090S026	1	90	13_pronouns and determiners	ƒTƒ‰‚Í‚Ç‚±‚És‚­‚©Œ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B”Ş—‚ªŒ¾‚Á‚½‚Ì‚Ío‚©‚¯‚é‚±‚Æ‚¾‚¯‚Å‚·B	Sarah didn't say where she was going. All she said was that she was going away.		
+GU090S027	1	90	13_pronouns and determiners	–{“–‚É”æ‚ê‚Ä‚¢‚Ü‚·B„‚ª‚µ‚½‚¢‚Ì‚ÍQ‚é‚±‚Æ‚¾‚¯‚Å‚·B	I'm really tired. All I want to do is sleep.		
+GU090S028	1	90	13_pronouns and determiners	–{‚ğ‘S•”“Ç‚İ‚Ü‚µ‚½‚©H	Did you read the whole book?		
+GU090S029	1	90	13_pronouns and determiners	‚Æ‚Ä‚à‚¨• ‚ª‹ó‚¢‚Ä‚¢‚½‚Ì‚ÅAƒrƒXƒPƒbƒg‚Ìˆê‘Ü‘S•”H‚×‚Ü‚µ‚½B	"I was so hungry, I ate a whole packet of biscuits."		
+GU090S030	1	90	13_pronouns and determiners	‚ ‚È‚½‚ª‚­‚ê‚½‚¨‹à‚ğ‘S•”g‚¢‚Ü‚µ‚½B	I've spent all the money you gave me.		
+GU090S031	1	90	13_pronouns and determiners	„‚Í–{‚ğ‘S•”“Ç‚İ‚Ü‚µ‚½B	I read the whole book.		
+GU090S032	1	90	13_pronouns and determiners	„‚Íî•ñ‚ğ‚·‚×‚Ä“Ç‚İ‚Ü‚µ‚½B	I read all the information.		
+GU090S033	1	90	13_pronouns and determiners	„‚½‚¿‚ÍŠÈ’P‚É‡‚ÉŸ‚¿‚Ü‚µ‚½Bƒ`[ƒ€‘S‘Ì‚ª‚¤‚Ü‚­ƒvƒŒ[‚µ‚½‚Æv‚¢‚Ü‚·B	We won the game easily. I think the whole team played well.		
+GU090S034	1	90	13_pronouns and determiners	Œx@‚Í‰½‚©‚ğ’T‚µ‚Ä‚¢‚Ü‚µ‚½B‰Æ‘S‘Ì‚ğ‘{õ‚µ‚Ü‚µ‚½B	The police were looking for something. They searched the whole house.		
+GU090S035	1	90	13_pronouns and determiners	ƒCƒ”‚Í”Ô‘g‚ğ‘S•”Œ©‚Ü‚¹‚ñ‚Å‚µ‚½B“r’†‚Å–°‚Á‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	Eve didn't watch the whole programme. She fell asleep in the middle of it.		
+GU090S036	1	90	13_pronouns and determiners	‰½‚ª‹N‚±‚Á‚½‚©‚·‚×‚Ä’m‚é•K—v‚ª‚ ‚è‚Ü‚·B‘S˜b‚ğ˜b‚µ‚Ä‚­‚¾‚³‚¢B	I need to know everything that happened. You have to tell me the whole story.		
+GU090S037	1	90	13_pronouns and determiners	“dÔ‚Í–È‚ÅÀÈ‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚¸‚Á‚Æ—§‚Á‚Ä‚¢‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The train was full and I didn't have a seat. I had to stand the whole way.		
+GU090S038	1	90	13_pronouns and determiners	ƒAƒ_ƒ€‚Íƒoƒiƒi‚ğ‚¢‚­‚Â‚©”ƒ‚¢‚Ü‚µ‚½B‚Æ‚Ä‚à‚¨• ‚ª‹ó‚¢‚Ä‚¢‚ÄA‘S•”H‚×‚Ü‚µ‚½B	Adam bought some bananas. He was very hungry and ate the whole bunch.		
+GU090S039	1	90	13_pronouns and determiners	‹x‰É’†‚Í–ˆ“úƒr[ƒ`‚És‚«‚Ü‚µ‚½B	"When we were on holiday, we went to the beach every day."		
+GU090S040	1	90	13_pronouns and determiners	ƒoƒX‚Ì‰^s‚Í—Ç‚¢‚Å‚·B10•ª‚²‚Æ‚ÉƒoƒX‚ª‚ ‚è‚Ü‚·B	The bus service is good. There's a bus every ten minutes.		
+GU090S041	1	90	13_pronouns and determiners	„‚½‚¿‚Íˆê“ú’†ƒr[ƒ`‚É‚¢‚Ü‚µ‚½B	We spent all day at the beach.	We spent the whole day at the beach.	
+GU090S042	1	90	13_pronouns and determiners	ƒ_ƒ“‚Í‚Æ‚Ä‚àÃ‚©‚Å‚µ‚½B”Ş‚Íˆê”Ó’†ˆêŒ¾‚àŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	Dan was very quiet. He didn't say a word all evening.		
+GU090S043	1	90	13_pronouns and determiners	ƒ_ƒ“‚Í‚Æ‚Ä‚àÃ‚©‚Å‚µ‚½B”Ş‚Íˆê”Ó’†ˆêŒ¾‚àŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	Dan was very quiet. He didn't say a word the whole evening.		
+GU090S044	1	90	13_pronouns and determiners	”Ş‚ç‚ÍŒˆ‚µ‚ÄŠOo‚µ‚Ü‚¹‚ñB‚¢‚Â‚à‰Æ‚É‚¢‚Ü‚·B	They never go out. They are at home all the time.		
+GU090S045	1	90	13_pronouns and determiners	‚ ‚È‚½‚É‰ï‚¤‚½‚Ñ‚ÉAŒ©‚½–Ú‚ªˆá‚¢‚Ü‚·B	"Every time I see you, you look different."		
+GU090S046	1	90	13_pronouns and determiners	”æ‚ê‚Ü‚µ‚½B730•ª‚Én‚ß‚Äˆê“ú’†“­‚¢‚Ä‚¢‚Ü‚·B	I'm tired. I started at 7.30 and I've been working all day.		
+GU090S047	1	90	13_pronouns and determiners	ƒgƒ€‚Í•a‹C‚Å‚·B”Ş‚Í4ŠÔ‚²‚Æ‚É–ò‚ğˆù‚Ü‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB	"Tom is ill. He has some medicine, which he has to take every four hours."		
+GU090S048	1	90	13_pronouns and determiners	„‚½‚¿‚ÍˆêTŠÔ‹x‰É‚És‚«‚Ü‚µ‚½‚ªA–ˆ“ú‰J‚ª~‚è‚Ü‚µ‚½B	We went on holiday for a week and it rained every day.		
+GU090S049	1	90	13_pronouns and determiners	„‚½‚¿‚Í–Z‚µ‚¢‹ó`‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚Ü‚·B5•ª‚²‚Æ‚É”òs‹@‚ª‰Æ‚Ìã‚ğ”ò‚Ñ‚Ü‚·B	We live near a busy airport. A plane flies over our house every five minutes.		
+GU090S050	1	90	13_pronouns and determiners	„‚½‚¿‚ÍˆêTŠÔ‹x‰É‚És‚«‚Ü‚µ‚½‚ªAˆêTŠÔ’†‚¸‚Á‚Æ‰J‚ª~‚è‚Ü‚µ‚½B	We went on holiday for a week and it rained the whole week.		
+GU090S051	1	90	13_pronouns and determiners	ƒIƒŠƒ“ƒsƒbƒN‚Í4”N‚²‚Æ‚ÉŠJÃ‚³‚ê‚Ü‚·B	The Olympic Games take place every four years.		
+GU090S052	1	90	13_pronouns and determiners	‚ ‚È‚½‚É‰ï‚¤‚½‚Ñ‚ÉAŒ©‚½–Ú‚ªˆá‚¢‚Ü‚·B	"Every time I see you, you look different."		
+GU090S053	1	90	13_pronouns and determiners	‚±‚±‚Å‚Ì“V‹C‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB‚¢‚Â‚à‰J‚ª~‚è‚Ü‚·B	I don't like the weather here. It rains all the time.		
+GU090S054	1	90	13_pronouns and determiners	’N‚à‚ª‘¼‚ÌŒ¾Œê‚ğŠw‚Ô‚×‚«‚¾‚Æv‚¢‚Ü‚·B	I think everybody should learn another language.		
+GU090S055	1	90	13_pronouns and determiners	„‚½‚¿‚Í‰½‚àH‚×‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B‘Sˆõ‚ª‹ó• ‚Å‚µ‚½B	We'd had nothing to eat. All of us were hungry.		
+GU090S056	1	90	13_pronouns and determiners	„‚½‚¿‚Í‚¨Œİ‚¢‚ ‚Ü‚è‰ï‚¢‚Ü‚¹‚ñB–ñ6‚©Œ‚²‚Æ‚É‰ï‚¢‚Ü‚·B	We don't see each other very often - about every six months.		
+GU090S057	1	90	13_pronouns and determiners	‹x‰É’†‚ÉA„‚Ì‰×•¨‚Í‘S•”“‚Ü‚ê‚Ü‚µ‚½B	"When I was on holiday, all my luggage was stolen."		
+GU090S058	1	90	13_pronouns and determiners	‚Ğ‚Ç‚¢‰Î–‚Å‚µ‚½BŒš•¨‘S‘Ì‚ª”j‰ó‚³‚ê‚Ü‚µ‚½B	It was a terrible fire. The whole building was destroyed.		
+GU090S059	1	90	13_pronouns and determiners	„‚Í’©‚©‚ç‚¸‚Á‚Æ‚ ‚È‚½‚ğ’T‚µ‚Ä‚¢‚Ü‚µ‚½B‚Ç‚±‚É‚¢‚Ü‚µ‚½‚©H	I've been looking for you all morning. Where have you been?		
+GU090S060	1	90	13_pronouns and determiners	ƒX[‚Í“ú—j“úˆÈŠO–ˆ“ú“­‚«‚Ü‚·B	Sue works every day except Sunday.		
+GU090S061	1	90	13_pronouns and determiners	„‚½‚¿‚Í‚²”Ñ‚ğ‘S•”H‚×‚Ü‚µ‚½‚©H‚Ü‚¾c‚Á‚Ä‚¢‚Ü‚·‚©H	Have we eaten all the rice? Isn't there any left?		
+GU091S001	1	91	13_pronouns and determiners	‚ ‚È‚½‚É‰ï‚¤‚½‚Ñ‚ÉAŒ©‚½–Ú‚ªˆá‚¢‚Ü‚·B	"Each time I see you, you look different."		
+GU091S002	1	91	13_pronouns and determiners	‚ ‚È‚½‚É‰ï‚¤‚½‚Ñ‚ÉAŒ©‚½–Ú‚ªˆá‚¢‚Ü‚·B	"Every time I see you, you look different."		
+GU091S003	1	91	13_pronouns and determiners	Še•¶‚ğ’ˆÓ[‚­•×‹­‚µ‚Ä‚­‚¾‚³‚¢B	Study each sentence carefully.		
+GU091S004	1	91	13_pronouns and determiners	‚·‚×‚Ä‚Ì•¶‚É‚Í“®Œ‚ª•K—v‚Å‚·B	Every sentence must have a verb.		
+GU091S005	1	91	13_pronouns and determiners	ƒe[ƒuƒ‹‚Ìã‚É4û‚Ì–{‚ª‚ ‚è‚Ü‚µ‚½BŠe–{‚ÍˆÙ‚È‚éF‚Å‚µ‚½B	There were four books on the table. Each book was a different colour.		
+GU091S006	1	91	13_pronouns and determiners	ƒPƒCƒg‚Í“Ç‘‚ª‘åD‚«‚Å‚·B”Ş—‚Í}‘ŠÙ‚Ì‚·‚×‚Ä‚Ì–{‚ğ“Ç‚İ‚Ü‚µ‚½B	Kate loves reading. She's read every book in the library.		
+GU091S007	1	91	13_pronouns and determiners	ƒTƒbƒJ[‚Å‚ÍAŠeƒ`[ƒ€‚É11l‚Ì‘Iè‚ª‚¢‚Ü‚·B	"In football, each team has eleven players."		
+GU091S008	1	91	13_pronouns and determiners	A: ‚ ‚È‚½‚Í‚Ç‚Ì‚­‚ç‚¢‚Ì•p“x‚ÅÔ‚ğg‚¢‚Ü‚·‚©HB: –ˆ“ú‚Å‚·B	A: How often do you use your car? B: Every day.		
+GU091S009	1	91	13_pronouns and determiners	10•ª‚²‚Æ‚ÉƒoƒX‚ª‚ ‚è‚Ü‚·B	There's a bus every ten minutes.		
+GU091S010	1	91	13_pronouns and determiners	‚±‚ÌƒQ[ƒ€‚Å‚ÍAŠeƒvƒŒƒCƒ„[‚ª3–‡‚ÌƒJ[ƒh‚ğ‚Á‚Ä‚¢‚Ü‚·B	In this game each player has three cards.		
+GU091S011	1	91	13_pronouns and determiners	„‚Í¢ŠE’†‚Ì‚·‚×‚Ä‚Ì‘‚ğ–K‚ê‚½‚¢‚Å‚·B	I'd like to visit every country in the world.		
+GU091S012	1	91	13_pronouns and determiners	³•ûŒ`‚ÌŠe•Ó‚Ì’·‚³‚Í“¯‚¶‚Å‚·B	Each side of a square is the same length.		
+GU091S013	1	91	13_pronouns and determiners	Œ€ê‚Ì‚·‚×‚Ä‚ÌÈ‚ª–„‚Ü‚Á‚Ä‚¢‚Ü‚µ‚½B	Every seat in the theatre was taken.		
+GU091S014	1	91	13_pronouns and determiners	„‚½‚¿‚ÌƒTƒbƒJ[ƒ`[ƒ€‚ÍğƒV[ƒYƒ“‚Ì‚·‚×‚Ä‚Ì‡‚ÉŸ‚¿‚Ü‚µ‚½B	Our football team won every game last season.		
+GU091S015	1	91	13_pronouns and determiners	”Ş—‚Í4‚Â‚Ìw—Ö‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½BŠew‚É1‚Â‚¸‚Â‚Å‚·B	"She was wearing four rings, one on each finger."		
+GU091S016	1	91	13_pronouns and determiners	–ˆƒƒ“ƒhƒ“s‚«‚Ì“dÔ‚ª‚ ‚è‚Ü‚·B	There's a train to London every hour.		
+GU091S017	1	91	13_pronouns and determiners	‚»‚ÌŒš•¨‚É‚Í6‚Â‚ÌƒAƒp[ƒg‚ª‚ ‚è‚Ü‚·BŠeƒAƒp[ƒg‚É‚Íƒoƒ‹ƒRƒj[‚ª‚ ‚è‚Ü‚·B	There are six apartments in the building. Each apartment has a balcony.		
+GU091S018	1	91	13_pronouns and determiners	•”‰®‚Í‚Ç‚ê‚à“¯‚¶‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½BŠe•”‰®‚ÍˆÙ‚È‚Á‚Ä‚¢‚Ü‚µ‚½B	None of the rooms was the same. Each room was different.	Each was different.	Each one was different.
+GU091S019	1	91	13_pronouns and determiners	”Ş—‚Í}‘ŠÙ‚Ì‚·‚×‚Ä‚Ì–{‚ğ“Ç‚İ‚Ü‚µ‚½B	She's read every book in the library.		
+GU091S020	1	91	13_pronouns and determiners	A: ‚±‚ê‚ç‚Ì–{‚ğ‘S•”“Ç‚İ‚Ü‚µ‚½‚©HB: ‚Í‚¢A‚·‚×‚Ä‚Å‚·B	"A: Have you read all these books? B: Yes, every one."		
+GU091S021	1	91	13_pronouns and determiners	•”‰®‚Í“¯‚¶‚Å‚Í‚ ‚è‚Ü‚¹‚ñBŠe•”‰®‚ÍˆÙ‚È‚éF‚Å‚·B	The rooms are not the same. Each of them is a different colour.		
+GU091S022	1	91	13_pronouns and determiners	„‚Í‚±‚ê‚ç‚Ì–{‚ğ‚·‚×‚Ä“Ç‚İ‚Ü‚µ‚½B	I've read every one of these books.		
+GU091S023	1	91	13_pronouns and determiners	‚·‚×‚Ä‚Ìe‚Í©•ª‚Ìq‹Ÿ‚½‚¿‚Ì‚±‚Æ‚ğS”z‚µ‚Ü‚·B	Every parent worries about their children.		
+GU091S024	1	91	13_pronouns and determiners	ƒeƒjƒX‚Å‚ÍA2l‚Ü‚½‚Í4l‚Ì‘Iè‚ª‚¢‚Ü‚·BŠe‘Iè‚Íƒ‰ƒPƒbƒg‚ğ‚Á‚Ä‚¢‚Ü‚·B	"In tennis, there are two or four players. Each player has a racket."		
+GU091S025	1	91	13_pronouns and determiners	ƒjƒRƒ‰‚Í–ˆT–Ø—j“ú‚Ì—[•û‚ÉƒoƒŒ[ƒ{[ƒ‹‚ğ‚µ‚Ü‚·B	Nicola plays volleyball every Thursday evening.		
+GU091S026	1	91	13_pronouns and determiners	˜b‚³‚ê‚½‚±‚Æ‚Ì‚Ù‚Æ‚ñ‚Ç‚ğ—‰ğ‚µ‚Ü‚µ‚½‚ªA‚·‚×‚Ä‚Ì’PŒê‚ğ—‰ğ‚µ‚½‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I understood most of what was said, but not every word."		
+GU091S027	1	91	13_pronouns and determiners	–{‚Í5‚Â‚Ì•”•ª‚É•ª‚©‚ê‚Ä‚¨‚èAŠe•”•ª‚É3‚Â‚ÌƒZƒNƒVƒ‡ƒ“‚ª‚ ‚è‚Ü‚·B	"The book is divided into five parts, and each of these has three sections."		
+GU091S028	1	91	13_pronouns and determiners	„‚Í2A3‰ñƒIƒtƒBƒX‚É“d˜b‚µ‚Ü‚µ‚½‚ªA‚»‚Ì‚½‚Ñ‚É•Â‚Ü‚Á‚Ä‚¢‚Ü‚µ‚½B	"I called the office two or three times, but each time it was closed."		
+GU091S029	1	91	13_pronouns and determiners	Ô‚ÌƒV[ƒgƒxƒ‹ƒg‚Í–½‚ğ‹~‚¢‚Ü‚·B‚·‚×‚Ä‚Ì‰^“]è‚Í’…—p‚·‚×‚«‚Å‚·B	Car seat belts save lives. Every driver should wear one.		
+GU091S030	1	91	13_pronouns and determiners	„‚Ì—Fl‚É‚Í3l‚Ìq‹Ÿ‚ª‚¢‚Ü‚·B„‚Í‚¢‚Â‚àƒNƒŠƒXƒ}ƒX‚ÉŠeq‹Ÿ‚ÉƒvƒŒƒ[ƒ“ƒg‚ğ‚ ‚°‚Ü‚·B	A friend of mine has three children. I always give each of them a present at Christmas.		
+GU091S031	1	91	13_pronouns and determiners	Šw¶‚½‚¿‚Í‚»‚ê‚¼‚ê–{‚ğ“n‚³‚ê‚Ü‚µ‚½B	The students were each given a book.		
+GU091S032	1	91	13_pronouns and determiners	‚±‚ê‚ç‚ÌƒIƒŒƒ“ƒW‚ÍŠe40ƒyƒ“ƒX‚Å‚·B	These oranges are 40 pence each.		
+GU091S033	1	91	13_pronouns and determiners	‚±‚ê‚ç‚ÌŠG—t‘‚ÍŠe90ƒyƒ“ƒX‚Å‚·B	Those postcards are ninety pence each.		
+GU091S034	1	91	13_pronouns and determiners	“W¦‰ï‚É“ü‚é‚Ì‚É„‚½‚¿‚ÍŠe10ƒ|ƒ“ƒh‚©‚©‚è‚Ü‚µ‚½B	It cost us ten pounds each to get into the exhibition.		
+GU091S035	1	91	13_pronouns and determiners	‚±‚ê‚ç‚ÌƒŠƒ“ƒS‚ÍŠe20ƒyƒ“ƒX‚©A1ƒ|ƒ“ƒh‚Å6ŒÂ‚Å‚·B	These apples are twenty pence each or six for a pound.		
+GU091S036	1	91	13_pronouns and determiners	ƒzƒeƒ‹‚ÍˆÀ‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B„‚Æ—Fl‚Í‚»‚ê‚¼‚ê50ƒhƒ‹x•¥‚¢‚Ü‚µ‚½B	The hotel wasn't cheap. My friend and I paid fifty dollars each.		
+GU091S037	1	91	13_pronouns and determiners	„‚½‚¿‚Í‚ ‚Ü‚è‚¨‹à‚ğ‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B„‚½‚¿‚Í‚»‚ê‚¼‚ê–ñ5ƒ|ƒ“ƒh‚Á‚Ä‚¢‚Ü‚µ‚½B	We didn't have much money with us. We had about five pounds each.		
+GU091S038	1	91	13_pronouns and determiners	‚İ‚ñ‚Èƒp[ƒeƒB[‚ğŠy‚µ‚İ‚Ü‚µ‚½B	Everyone enjoyed the party.		
+GU091S039	1	91	13_pronouns and determiners	ƒTƒ‰‚Í‚½‚­‚³‚ñ‚Ìƒp[ƒeƒB[‚Éµ‘Ò‚³‚êA‚·‚×‚Ä‚ÉQ‰Á‚µ‚Ü‚·B	Sarah is invited to lots of parties and she goes to every one.		
+GU091S040	1	91	13_pronouns and determiners	‚İ‚ñ‚Èƒp[ƒeƒB[‚ğŠy‚µ‚İ‚Ü‚µ‚½B	Everyone enjoyed the party.		
+GU091S041	1	91	13_pronouns and determiners	ƒTƒ‰‚Í‚½‚­‚³‚ñ‚Ìƒp[ƒeƒB[‚Éµ‘Ò‚³‚êA‚·‚×‚Ä‚ÉQ‰Á‚µ‚Ü‚·B	Sarah is invited to lots of parties and she goes to every one.		
+GU091S042	1	91	13_pronouns and determiners	‚İ‚ñ‚È‚ª“’…‚µ‚½‚Æ‚½‚ñA„‚½‚¿‚Í‰ï‹c‚ğn‚ß‚Ü‚µ‚½B	"As soon as everyone had arrived, we began the meeting."		
+GU091S043	1	91	13_pronouns and determiners	„‚Í”Ş—‚É‚½‚­‚³‚ñ‚Ì¿–â‚ğ‚µ‚Ü‚µ‚½‚ªA”Ş—‚Í‚·‚×‚Ä‚É³‚µ‚­“š‚¦‚Ü‚µ‚½B	I asked her lots of questions and she answered every one correctly.		
+GU091S044	1	91	13_pronouns and determiners	ƒGƒCƒ~[‚Í‚Æ‚Ä‚àl‹C‚ª‚ ‚è‚Ü‚·B‚İ‚ñ‚È”Ş—‚ªD‚«‚Å‚·B	Amy is very popular. Everyone likes her.		
+GU091S045	1	91	13_pronouns and determiners	‚±‚ê‚ç‚Ì‰Æ‚ÍÅ‰‚Í‚·‚×‚Ä“¯‚¶‚ÉŒ©‚¦‚Ü‚·‚ªA‚·‚×‚Ä‚ª­‚µ‚¸‚Âˆá‚¢‚Ü‚·B	"These houses all look the same at first, but every one is slightly different."		
+GU091S046	1	91	13_pronouns and determiners	„‚ÍƒOƒ‰ƒX‚ÌƒgƒŒƒC‚ğ—‚Æ‚µ‚Ü‚µ‚½Bc”O‚È‚ª‚çA‚·‚×‚Ä‚ª‰ó‚ê‚Ü‚µ‚½B	"I dropped a tray of glasses. Unfortunately, every one broke."		
+GU091S047	1	91	13_pronouns and determiners	ŠwZ‚Ì‚±‚Æ‚ğ”ñí‚É‚æ‚­Šo‚¦‚Ä‚¢‚Ü‚·BƒNƒ‰ƒX‚Ì‘Sˆõ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	I remember school very clearly. I remember everyone in my class.		

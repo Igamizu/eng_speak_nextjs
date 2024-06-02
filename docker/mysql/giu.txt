@@ -5222,3 +5222,303 @@ GU086S091	1	86	13_pronouns and determiners	部屋は完全に空っぽだった�
 GU086S092	1	86	13_pronouns and determiners	部屋は完全に空っぽだった。家具がなかった。	The room was completely empty. There was no furniture.		
 GU086S093	1	86	13_pronouns and determiners	A: 誰を待っているの？ B: 誰も待っていない。ただ立っているだけ。	A: Who are you waiting for? B: No-one. I'm just standing here.		
 GU086S094	1	86	13_pronouns and determiners	A: 誰を待っているの？ B: 誰も待っていない。	A: Who are you waiting for? B: I'm not waiting for anyone.		
+GU087S001	1	87	13_pronouns and determiners	急ぐ必要はありません。時間はたっぷりあります。	There's no need to hurry. We have plenty of time.		
+GU087S002	1	87	13_pronouns and determiners	この町ではやることがたくさんあります。	There's plenty to do in this town.		
+GU087S003	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: information	much information		
+GU087S004	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: time	much time		
+GU087S005	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: buildings	many buildings		
+GU087S006	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: questions	many questions		
+GU087S007	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: food	much food		
+GU087S008	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: buses	many buses		
+GU087S009	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: rain	much rain		
+GU087S010	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: traffic	much traffic		
+GU087S011	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: children	many children		
+GU087S012	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: countries	many countries		
+GU087S013	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: furniture	much furniture		
+GU087S014	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: people	many people		
+GU087S015	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: luggage	much luggage		
+GU087S016	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: problems	many problems		
+GU087S017	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: pollution	much pollution		
+GU087S018	1	87	13_pronouns and determiners	muchとmany、どちらをつける？: unemployment	much unemployment		
+GU087S019	1	87	13_pronouns and determiners	彼には経済的な問題はありません。彼はたくさんのお金を持っています。	He has no financial problems. He has plenty of money.		
+GU087S020	1	87	13_pronouns and determiners	私は私たちが泊まる場所を見つけられると確信しています。ホテルはたくさんあります。	I'm sure we'll find somewhere to stay. There are plenty of hotels.		
+GU087S021	1	87	13_pronouns and determiners	彼女は多くを知っていますが、まだ学ぶことがたくさんあります。	"She knows a lot, but she still has plenty to learn."		
+GU087S022	1	87	13_pronouns and determiners	私たちと一緒に座ってください。部屋はたくさんあります。	Come and sit with us. There's plenty of room.		
+GU087S023	1	87	13_pronouns and determiners	ここはレストランが多い良い町です。食事をする場所はたくさんあります。	It's a good town for restaurants. There are plenty of places to eat.		
+GU087S024	1	87	13_pronouns and determiners	トムは良い社交生活を送っています。彼にはたくさんの友達がいます。	Tom has a good social life. He has plenty of friends.		
+GU087S025	1	87	13_pronouns and determiners	私たちはあまりお金を使いませんでした。	We didn't spend much money.		
+GU087S026	1	87	13_pronouns and determiners	私たちはたくさんのお金を使いました。	We spent a lot of money.		
+GU087S027	1	87	13_pronouns and determiners	あなたはデイビッドによく会いますか？	Do you see David much?		
+GU087S028	1	87	13_pronouns and determiners	私はデイビッドによく会います。	I see David a lot.		
+GU087S029	1	87	13_pronouns and determiners	私たちはお金を使いすぎました。	We spent too much money.		
+GU087S030	1	87	13_pronouns and determiners	多くの人が速く運転しすぎます。	Many people drive too fast.	A lot of people drive too fast.	
+GU087S031	1	87	13_pronouns and determiners	あなたは多くの人を知っていますか？	Do you know many people?	Do you know a lot of people?	
+GU087S032	1	87	13_pronouns and determiners	ここには観光客があまりいません。	There aren't many tourists here.	There aren't a lot of tourists here.	
+GU087S033	1	87	13_pronouns and determiners	私たちはここに何年も住んでいます。	We've lived here for many years.		
+GU087S034	1	87	13_pronouns and determiners	急いでください。私たちには時間があまりありません。	Be quick. We don't have much time.		
+GU087S035	1	87	13_pronouns and determiners	車の修理に多くの費用がかかりましたか？	Did it cost much to repair the car?		
+GU087S036	1	87	13_pronouns and determiners	今朝は交通があまりありませんでした。	There wasn't much traffic this morning.		
+GU087S037	1	87	13_pronouns and determiners	あなたは果物を多く食べますか？	Do you eat much fruit?		
+GU087S038	1	87	13_pronouns and determiners	ゲイリーは仕事でとても忙しいです。他のことをする時間がほとんどありません。	Gary is very busy with his job. He has little time for other things.		
+GU087S039	1	87	13_pronouns and determiners	ビッキーはロンドンでの生活が好きではありません。彼女にはそこに友達がほとんどいません。	Vicky doesn't like living in London. She has few friends there.		
+GU087S040	1	87	13_pronouns and determiners	ゲイリーには他のことをする時間がほとんどありません。	Gary has very little time for other things.		
+GU087S041	1	87	13_pronouns and determiners	ビッキーにはロンドンに友達がほとんどいません。	Vicky has very few friends in London.		
+GU087S042	1	87	13_pronouns and determiners	アンナは最近とても忙しいです。彼女には自由な時間がほとんどありません。	Anna is very busy these days. She has little free time.		
+GU087S043	1	87	13_pronouns and determiners	A: 結婚式で多くの写真を撮りましたか？B: はい、たくさん。	"A: Did you take many pictures at the wedding? B: Yes, lots."		
+GU087S044	1	87	13_pronouns and determiners	私は今日忙しくありません。やることがあまりありません。	I'm not busy today. I don't have much to do.		
+GU087S045	1	87	13_pronouns and determiners	ここは現代的な都市です。古い建物はほとんどありません。	This is a modern city. There are few old buildings.		
+GU087S046	1	87	13_pronouns and determiners	最近、天気がとても乾燥しています。雨がほとんど降っていません。	The weather has been very dry recently. We've had little rain.		
+GU087S047	1	87	13_pronouns and determiners	私はロンドンをよく知りません。そこには何年も行っていません。	I don't know London very well. I haven't been there for many years.		
+GU087S048	1	87	13_pronouns and determiners	その二台の車は似ています。違いはほとんどありません。	The two cars are similar. There is little difference between them.		
+GU087S049	1	87	13_pronouns and determiners	私はここに長く住んでいません。ここではあまり多くの人を知りません。	I haven't lived here long. I don't know many people here.		
+GU087S050	1	87	13_pronouns and determiners	ここは住むのに素晴らしい場所です。より良い場所はほとんどありません。	It's a wonderful place to live. There are few better places to be.		
+GU087S051	1	87	13_pronouns and determiners	ここはとても小さなオフィスです。スペースがあまりありません。	It's a very small office. There isn't much space.		
+GU087S052	1	87	13_pronouns and determiners	コーヒーを飲みに行きましょう。電車が出る前に少し時間があります。	Let's go and have a coffee. We have a little time before the train leaves.		
+GU087S053	1	87	13_pronouns and determiners	A: あなたは英語を話しますか？B: 少し。	A: Do you speak English? B: A little.		
+GU087S054	1	87	13_pronouns and determiners	私はここでの生活を楽しんでいます。少し友達がいて、私たちはよく会います。	I enjoy my life here. I have a few friends and we meet quite often.		
+GU087S055	1	87	13_pronouns and determiners	A: 最後にクレアに会ったのはいつですか？B: 数日前。	A: When was the last time you saw Clare? B: A few days ago.		
+GU087S056	1	87	13_pronouns and determiners	A: この仕事を全部自分でやりましたか？B: いいえ、友達から少し助けてもらいました。	"A: Did you do all this work on your own? B: No, I had a little help from my friends."		
+GU087S057	1	87	13_pronouns and determiners	A: いつ出かけますか？B: 月曜日です。数日間出かけます。	A: When are you going away? B: On Monday. I'll be away for a few days.		
+GU087S058	1	87	13_pronouns and determiners	A: 散歩に出かけましょう。B: いい考えです。少し新鮮な空気を吸うのは良いことです。	A: Let's go out for a walk. B: Good idea. It will be good to get a little fresh air.		
+GU087S059	1	87	13_pronouns and determiners	A: 忙しいですか？B: それほどでもありません。少しやることがありますが、長くはかかりません。	"A: Are you busy? B: Not really. I have a few things to do, but they won't take long."		
+GU087S060	1	87	13_pronouns and determiners	A: 何をするか決めましたか？B: まだです。少し考える時間が必要です。	A: Have you decided what you're going to do? B: Not yet. I need a little time to think about it.		
+GU087S061	1	87	13_pronouns and determiners	A: あなたはフランス語を話せますか？B: それほどではありません。少し言葉が言えるだけです。	"A: Can you speak French? B: Not really. I can say a few words, but that's all."		
+GU087S062	1	87	13_pronouns and determiners	彼は英語をほとんど話さなかったので、彼とコミュニケーションを取るのは難しかったです。	"He spoke little English, so it was difficult to communicate with him."		
+GU087S063	1	87	13_pronouns and determiners	彼は少し英語を話したので、彼とコミュニケーションを取ることができました。	"He spoke a little English, so we were able to communicate with him."		
+GU087S064	1	87	13_pronouns and determiners	彼は少ししか英語を話さなかったので、彼とコミュニケーションを取るのは難しかったです。	"He spoke only a little English, so it was difficult to communicate with him."		
+GU087S065	1	87	13_pronouns and determiners	彼女は幸運です。彼女にはほとんど問題がありません。	She's lucky. She has few problems.		
+GU087S066	1	87	13_pronouns and determiners	彼女の状況はあまり良くありません。彼女にはいくつかの問題があります。	Things are not going so well for her. She has a few problems.		
+GU087S067	1	87	13_pronouns and determiners	その村はとても小さかったです。家がいくつかしかありませんでした。	The village was very small. There were only a few houses.		
+GU087S068	1	87	13_pronouns and determiners	よく聞いてください。少しアドバイスをします。	Listen carefully. I'm going to give you a little advice.		
+GU087S069	1	87	13_pronouns and determiners	いくつか質問してもいいですか？	Do you mind if I ask you a few questions?		
+GU087S070	1	87	13_pronouns and determiners	これはあまり面白い街ではないので、観光客はほとんど訪れません。	"This is not a very interesting city, so few tourists visit."		
+GU087S071	1	87	13_pronouns and determiners	エイミーは良い教師にはならないと思います。彼女にはほとんど忍耐力がありません。	I don't think Amy would be a good teacher. She has little patience.		
+GU087S072	1	87	13_pronouns and determiners	ここは住むには退屈な場所です。やることがほとんどありません。	This is a boring place to live. There's little to do.		
+GU087S073	1	87	13_pronouns and determiners	私は香港をかなりよく知っています。何度か行ったことがあります。	I know Hong Kong quite well. I've been there a few times.		
+GU087S074	1	87	13_pronouns and determiners	A: コーヒーにミルクを入れますか？B: はい、少し。	"A: Would you like milk in your coffee? B: Yes, a little."		
+GU087S075	1	87	13_pronouns and determiners	交通がほとんどなかったので、旅は長くかかりませんでした。	"There was little traffic, so the journey didn't take long."		
+GU087S076	1	87	13_pronouns and determiners	彼が試合に勝ったのは驚きでした。彼が勝つことを期待していた人はほとんどいませんでした。	It was a surprise that he won the match. Few people expected him to win.		
+GU087S077	1	87	13_pronouns and determiners	サムはどうしているだろう。彼に数ヶ月会っていません。	I wonder how Sam is. I haven't seen him for a few months.		
+GU087S078	1	87	13_pronouns and determiners	水に少し塩を入れましたが、ほんの少しだけです。	"I put some salt in the water, but only a little."		
+GU087S079	1	87	13_pronouns and determiners	会議には数人しかいませんでした。	There were only a few people at the meeting.		
+GU088S001	1	88	13_pronouns and determiners	一部の人は他の人よりも簡単に学びます。	Some people learn more easily than others.		
+GU088S002	1	88	13_pronouns and determiners	私はほとんどの週末に出かけます。	I go away most weekends.		
+GU088S003	1	88	13_pronouns and determiners	一部の車は4つのドアがあり、他の車は2つのドアがあります。	Some cars have four doors and some have two.		
+GU088S004	1	88	13_pronouns and determiners	私が一緒に働いている人の中にはとても良い人もいます。	Some of the people I work with are very nice.		
+GU088S005	1	88	13_pronouns and determiners	私の友達のほとんどは学生です。	Most of my friends are students.		
+GU088S006	1	88	13_pronouns and determiners	ほとんどの問題には解決策があります。	Most problems have a solution.		
+GU088S007	1	88	13_pronouns and determiners	私たちはほとんどの問題を解決することができました。	We were able to solve most of the problems we had.		
+GU088S008	1	88	13_pronouns and determiners	一部の映画は非常に暴力的です。	Some films are very violent.		
+GU088S009	1	88	13_pronouns and determiners	私の友達の中にはパーティーに来られない人もいます。	Some of my friends can't come to the party.		
+GU088S010	1	88	13_pronouns and determiners	これらの雑誌の中でどれか欲しいですか？	Do you want any of these magazines?		
+GU088S011	1	88	13_pronouns and determiners	多くの人が速く運転しすぎます。	Many people drive too fast.		
+GU088S012	1	88	13_pronouns and determiners	ケイトはほとんどの人生をロンドンで過ごしてきました。	Kate has lived in London most of her life.		
+GU088S013	1	88	13_pronouns and determiners	ほとんどの日は7時前に起きます。	Most days I get up before 7 o'clock.		
+GU088S014	1	88	13_pronouns and determiners	私は昨日病気でした。ほとんどの時間をベッドで過ごしました。	I was sick yesterday. I spent most of the day in bed.		
+GU088S015	1	88	13_pronouns and determiners	コーヒーに少し砂糖を入れてもらえますか？	Can I have a little sugar in my coffee?		
+GU088S016	1	88	13_pronouns and determiners	一部の人はテレビを見すぎると思います。	I think some people watch too much TV.		
+GU088S017	1	88	13_pronouns and determiners	これらの本のいくつかを読みましたが、全部ではありません。	"I've read a few of these books, but not all of them."		
+GU088S018	1	88	13_pronouns and determiners	昨年、私たちは数日間ロンドンに行きました。	Last year we spent a few days in London.		
+GU088S019	1	88	13_pronouns and determiners	ほとんどの観光客はこの町のこの部分には来ません。	Most tourists don't come to this part of the town.		
+GU088S020	1	88	13_pronouns and determiners	彼らは数年前に宝くじに当たりましたが、お金のほとんどを使ってしまいました。	"They won the lottery a few years ago, but they've spent most of the money."		
+GU088S021	1	88	13_pronouns and determiners	天候が空港で問題を引き起こし、一部の便がキャンセルされました。	The weather caused problems at the airport and some flights were cancelled.		
+GU088S022	1	88	13_pronouns and determiners	それは美しい場所ではありませんが、市の一部は興味深いです。	"It's not a beautiful place, but some of the city is interesting."		
+GU088S023	1	88	13_pronouns and determiners	サラはヨーロッパで多く旅行しました。彼女はほとんどのヨーロッパの国に行ったことがあります。	Sarah has travelled a lot in Europe. She's been to most European countries.		
+GU088S024	1	88	13_pronouns and determiners	スティーブと私は意見が異なります。私は彼の意見の多くには同意しません。	Steve and I have different ideas. I don't agree with many of his opinions.		
+GU088S025	1	88	13_pronouns and determiners	誰も結婚式のことを知りませんでした。エミリーは友達には何も言いませんでした。	Nobody knew about the wedding. Emily didn't tell any of her friends.		
+GU088S026	1	88	13_pronouns and determiners	私たちは時々言い争いますが、ほとんどの場合うまくやっています。	"We argue sometimes, but we get on well most of the time."		
+GU088S027	1	88	13_pronouns and determiners	音楽は私にとって重要です。私はほとんどの種類の音楽が好きです。	Music is important to me. I like most kinds of music.		
+GU088S028	1	88	13_pronouns and determiners	私の友達はみんなここ近くに住んでいます。	All my friends live near here.	All of my friends live near here.	
+GU088S029	1	88	13_pronouns and determiners	このお金の半分は私のものです。	Half this money is mine.	Half of this money is mine.	
+GU088S030	1	88	13_pronouns and determiners	すべての花は美しいです。	All flowers are beautiful.		
+GU088S031	1	88	13_pronouns and determiners	これらの花はすべて美しいです。	All these flowers are beautiful.	All of these flowers are beautiful.	
+GU088S032	1	88	13_pronouns and determiners	私たちにはお金がありません。	We have no money.		
+GU088S033	1	88	13_pronouns and determiners	私たちはすべてのリンゴを食べました。残っているものはありません。	We've eaten all the apples. There are none left.		
+GU088S034	1	88	13_pronouns and determiners	このお金のどれも私のものではありません。	None of this money is mine.		
+GU088S035	1	88	13_pronouns and determiners	ジョーは博物館が好きではありません。彼はすべての博物館が退屈だと言います。	Joe doesn't like museums. He says all museums are boring.		
+GU088S036	1	88	13_pronouns and determiners	キャサリンはシカゴに一生住んでいます。	Katherine has lived in Chicago all her life.		
+GU088S037	1	88	13_pronouns and determiners	私は食欲がありませんでした。夕食の半分しか食べられませんでした。	I had no appetite. I could only eat half my dinner.		
+GU088S038	1	88	13_pronouns and determiners	私たちは試合に負けました。私たちのチームの選手の誰も良いプレーをしませんでした。	We lost the game. None of the players on our team played well.		
+GU088S039	1	88	13_pronouns and determiners	すべての鳥が飛べるわけではありません。例えば、ペンギンは飛べません。	"Not all birds can fly. For example, the penguin cannot fly."		
+GU088S040	1	88	13_pronouns and determiners	テストは難しかったです。質問の半分しか答えられませんでした。	The test was hard. I could only answer half the questions.		
+GU088S041	1	88	13_pronouns and determiners	私は一人で映画館に行きました。友達の誰も来たがりませんでした。	I went to the cinema by myself. None of my friends wanted to come.		
+GU088S042	1	88	13_pronouns and determiners	A: あなたが私にくれたお金を全部使いましたか？B: いいえ、少し残っています。	"A: Did you spend all of the money I gave you? B: No, there's some left."		
+GU088S043	1	88	13_pronouns and determiners	A: この音楽が好きですか？B: 一部は好きです。全部ではありません。	A: Do you like this music? B: Some of it. Not all of it.		
+GU088S044	1	88	13_pronouns and determiners	これらの人のいくつかは知っていますが、全部ではありません。	"I know some of these people, but not all of them."		
+GU088S045	1	88	13_pronouns and determiners	あなたたちの誰かパーティーに来たいですか？	Do any of you want to come to a party?		
+GU088S046	1	88	13_pronouns and determiners	私たち全員が遅れました。	All of us were late.		
+GU088S047	1	88	13_pronouns and determiners	私はその本を読み終えていません。半分しか読んでいません。	I haven't finished the book. I've only read half of it.		
+GU088S048	1	88	13_pronouns and determiners	私たちは全員雨で濡れました。誰も傘を持っていなかったからです。	We all got wet in the rain because none of us had an umbrella.		
+GU088S049	1	88	13_pronouns and determiners	このお金の一部はあなたのもので、一部は私のものです。	Some of this money is yours and some of it is mine.		
+GU088S050	1	88	13_pronouns and determiners	私はいくつかの人に道を尋ねましたが、誰も助けてくれませんでした。	"I asked some people for directions, but none of them was able to help."		
+GU088S051	1	88	13_pronouns and determiners	映画のほとんどは理解しましたが、全部ではありません。	"I understood most of the film, but not all of it."		
+GU088S052	1	88	13_pronouns and determiners	グループの観光客のほとんどはイタリア人でしたが、一部はフランス人でした。	"Most of the tourists in the group were Italian, but some of them were French."		
+GU088S053	1	88	13_pronouns and determiners	彼は私たちに自分の人生の話をしましたが、どれも本当ではありませんでした。すべて作り話でした。	"He told us his life story, but none of it was true. It was all invented."		
+GU088S054	1	88	13_pronouns and determiners	もうバナナはありません。すべて食べてしまいました。	There are no more bananas. We've eaten all of them.		
+GU089S001	1	89	13_pronouns and determiners	両方のレストランは良いです。	Both restaurants are good.		
+GU089S002	1	89	13_pronouns and determiners	どちらのレストランも高くありません。	Neither restaurant is expensive.		
+GU089S003	1	89	13_pronouns and determiners	どちらのレストランにも行けます。私はどちらでも構いません。	We can go to either restaurant. I don't mind.		
+GU089S004	1	89	13_pronouns and determiners	どちらのレストランにも行ったことがありません。	I haven't been to either restaurant before.		
+GU089S005	1	89	13_pronouns and determiners	A: バスケットボールとテニス、どちらが好きですか？B: 両方好きです。	"A: Which do you prefer, basketball or tennis? B: I like both."		
+GU089S006	1	89	13_pronouns and determiners	A: あなたの友達はイギリス人ですか、アメリカ人ですか？B: どちらでもありません。彼女はオーストラリア人です。	A: Is your friend British or American? B: Neither. She's Australian.		
+GU089S007	1	89	13_pronouns and determiners	A: お茶かコーヒーが欲しいですか？B: どちらでも構いません。	A: Do you want tea or coffee? B: Either. I don't mind.		
+GU089S008	1	89	13_pronouns and determiners	A: 今日は何日ですか、18日か19日ですか？B: どちらでもありません。今日は20日です。	"A: What day is it today, the 18th or 19th? B: Neither. It's the 20th."		
+GU089S009	1	89	13_pronouns and determiners	A: 旅行では韓国と日本のどちらに行きましたか？B: 両方に行きました。韓国で1週間、日本で1週間です。	"A: Where did you go on your trip, Korea or Japan? B: We went to both. A week in Korea and a week in Japan."		
+GU089S010	1	89	13_pronouns and determiners	A: 隅に座りますか、それとも窓のそばですか？B: どちらでも構いません。	A: Shall we sit in the corner or by the window? B: Either. I don't mind.		
+GU089S011	1	89	13_pronouns and determiners	A: リサはどこですか？仕事中ですか、それとも家にいますか？B: どちらでもありません。彼女は休暇中です。	A: Where's Lisa? Is she at work or at home? B: Neither. She's away on holiday.		
+GU089S012	1	89	13_pronouns and determiners	A: 今日何をしましたか？博物館に行きましたか、それとも買い物に行きましたか？B: どちらにも行きませんでした。外出しませんでした。	A: What did you do today? Did you go to the museum or go shopping? B: We didn't do either. We didn't go out.		
+GU089S013	1	89	13_pronouns and determiners	A: ケイトがスペイン語とアラビア語を話すというのは本当ですか？B: はい、彼女は両方とも流暢に話します。	"A: Is it true that Kate speaks Spanish and Arabic? B: Yes, she speaks both fluently."		
+GU089S014	1	89	13_pronouns and determiners	川沿いを歩くか、道沿いに行くことができます。どちらの方法でも行けます。	You can walk along the river or go along the road. You can go either way.		
+GU089S015	1	89	13_pronouns and determiners	事故はあまり深刻ではなく、どちらの運転手も怪我はありませんでした。	The accident wasn't very serious and neither driver was injured.		
+GU089S016	1	89	13_pronouns and determiners	事故はかなりひどく、両方の車がひどく損傷しました。	The accident was quite bad and both cars were badly damaged.		
+GU089S017	1	89	13_pronouns and determiners	良い試合ではなく、どちらのチームも良いプレーをしませんでした。	It wasn't a good game and neither team played well.		
+GU089S018	1	89	13_pronouns and determiners	私はカールのオフィスに二度行きましたが、どちらの時も彼はいませんでした。	"I went to Carl's office twice, but he wasn't there either time."		
+GU089S019	1	89	13_pronouns and determiners	運転する時は両手をハンドルに置くべきです。	"When you're driving, you should have both hands on the steering wheel."		
+GU089S020	1	89	13_pronouns and determiners	これらのレストランの両方が良いです。	Both of these restaurants are good.		
+GU089S021	1	89	13_pronouns and determiners	これらのレストランはどちらも良いです。	Both these restaurants are good.		
+GU089S022	1	89	13_pronouns and determiners	私たちが行ったレストランのどちらも高くありませんでした。	Neither of the restaurants we went to was expensive.		
+GU089S023	1	89	13_pronouns and determiners	それらのレストランのどちらにも行ったことがありません。	I haven't been to either of those restaurants.		
+GU089S024	1	89	13_pronouns and determiners	あなたたちのどちらかがロシア語を話せますか？	Can either of you speak Russian?		
+GU089S025	1	89	13_pronouns and determiners	私は二人に駅への道を尋ねましたが、どちらも助けてくれませんでした。	"I asked two people the way to the station, but neither of them could help me."		
+GU089S026	1	89	13_pronouns and determiners	私たち二人ともとても疲れていました。	Both of us were very tired.		
+GU089S027	1	89	13_pronouns and determiners	彼らのどちらも家にいません。	Neither of them is at home.	Neither of them are at home.	
+GU089S028	1	89	13_pronouns and determiners	クリスもポールも遅刻しました。	Both Chris and Paul were late.		
+GU089S029	1	89	13_pronouns and determiners	私は家に帰った時、疲れていてお腹が空いていました。	I was both tired and hungry when I arrived home.		
+GU089S030	1	89	13_pronouns and determiners	クリスもポールもパーティーに来ませんでした。	Neither Chris nor Paul came to the party.		
+GU089S031	1	89	13_pronouns and determiners	家の外で事故がありましたが、私たちは何も見ず、何も聞きませんでした。	"There was an accident outside our house, but we neither saw nor heard anything."		
+GU089S032	1	89	13_pronouns and determiners	マリアがどこの出身かは分かりません。彼女はスペイン人かイタリア人のどちらかです。	I'm not sure where Maria's from. She's either Spanish or Italian.		
+GU089S033	1	89	13_pronouns and determiners	あなたが謝るか、私が二度とあなたと話さないかのどちらかです。	Either you apologise or I'll never speak to you again.		
+GU089S034	1	89	13_pronouns and determiners	アンナはロンドンで生まれましたが、彼女の両親のどちらもイギリス人ではありません。	"Anna was born in London, but neither of her parents is British."		
+GU089S035	1	89	13_pronouns and determiners	トムは見た映画について話してくれましたが、そのどれも聞いたことがありませんでした。	Tom told me about two films he'd seen. I hadn't heard of either of them.		
+GU089S036	1	89	13_pronouns and determiners	私はこれらのシャツの両方が好きです。どれを着るべきでしょうか？	I like both of these shirts. Which one shall I wear?		
+GU089S037	1	89	13_pronouns and determiners	サラと私はテニスがあまり得意ではありません。私たちのどちらも良いプレーヤーではありません。	Sarah and I aren't very good at tennis. Neither of us is a good player.		
+GU089S038	1	89	13_pronouns and determiners	私の兄は働いていますが、私の姉妹は両方ともまだ学校に通っています。	"My brother is working, but both my sisters are still at school."		
+GU089S039	1	89	13_pronouns and determiners	私はサムとクリスを知っています。私は彼らの両方と学校に通っていました。	I know Sam and Chris. I was at school with both of them.		
+GU089S040	1	89	13_pronouns and determiners	エミリーはロシア語を話し、ドイツ語も話します。エミリーはロシア語もドイツ語も話します。	"Emily speaks Russian, and she speaks German. Emily speaks both Russian and German."		
+GU089S041	1	89	13_pronouns and determiners	それは退屈な映画で、長かったです。その映画は退屈で長かったです。	"It was a boring movie, and it was long. The movie was both boring and long."		
+GU089S042	1	89	13_pronouns and determiners	あの男性の名前はリチャードですか？それともロバートですか？そのどちらかです。あの男性の名前はリチャードかロバートです。	Is that man's name Richard? Or is it Robert? It's one of the two. That man's name is either Richard or Robert.		
+GU089S043	1	89	13_pronouns and determiners	私たちは何も見ず、何も聞きませんでした。私たちは何も見ず、何も聞きませんでした。	"We didn't see anything, and we didn't hear anything. We neither saw nor heard anything."		
+GU089S044	1	89	13_pronouns and determiners	今日は出発できますし、明日でも出発できます。どちらでも構いません。今日は出発できますし、明日でも出発できます。	We can leave today or tomorrow - whichever you prefer. We can leave either today or tomorrow.		
+GU089S045	1	89	13_pronouns and determiners	旅は快適ではなく、興味深くもありませんでした。旅は快適でもなく、興味深くもありませんでした。	"The journey wasn't comfortable, and it wasn't interesting. The journey was neither comfortable nor interesting."		
+GU089S046	1	89	13_pronouns and determiners	私たちは博物館を訪れ、美術館も訪れました。私たちは博物館も美術館も訪れました。	"We visited the museum, and we visited the art gallery. We visited both the museum and the art gallery."		
+GU089S047	1	89	13_pronouns and determiners	私は休暇に行く時間もお金もありません。私は休暇に行くための時間もお金もありません。	"I don't have time to go on holiday, and I don't have the money. I have neither the time nor the money to go on holiday."		
+GU089S048	1	89	13_pronouns and determiners	ここには良いホテルが二つあります。どちらにでも泊まれます。	There are two good hotels here. You could stay at either of them.		
+GU089S049	1	89	13_pronouns and determiners	ここには多くの良いホテルがあります。どれにでも泊まれます。	There are many good hotels here. You could stay at any of them.		
+GU089S050	1	89	13_pronouns and determiners	私たちは二つのホテルを試しましたが、どちらにも部屋がありませんでした。どちらも満室でした。	We tried two hotels. Neither of them had a room. Both of them were full.		
+GU089S051	1	89	13_pronouns and determiners	私たちは多くのホテルを試しましたが、どれにも部屋がありませんでした。どれも満室でした。	We tried a lot of hotels. None of them had a room. All of them were full.		
+GU089S052	1	89	13_pronouns and determiners	サムには二人の姉妹がいますが、私はどちらにも会ったことがありません。	"Sam has two sisters, but I haven't met either of them."		
+GU089S053	1	89	13_pronouns and determiners	エミリーには四人の兄弟がいますが、私はどれにも会ったことがありません。	"Emily has four brothers, but I haven't met any of them."		
+GU089S054	1	89	13_pronouns and determiners	その通りにはいくつかの店がありましたが、どれも開いていませんでした。	"There were a few shops in the street, but none of them was open."		
+GU089S055	1	89	13_pronouns and determiners	私はいくつかの仕事に応募しましたが、どれも得られませんでした。	"I applied for several jobs, but I didn't get any of them."		
+GU089S056	1	89	13_pronouns and determiners	クリスと私は家に入ることができませんでした。どちらも鍵を持っていなかったからです。	Chris and I couldn't get into the house because neither of us had a key.		
+GU089S057	1	89	13_pronouns and determiners	月曜日か木曜日に会えます。どちらの日でも都合がいいですか？	I could meet you on Monday or Thursday. Would either of those days suit you?		
+GU089S058	1	89	13_pronouns and determiners	私はトムとニコラの両方をパーティーに招待しましたが、どちらも来ませんでした。	"I invited both Tom and Nicola to the party, but neither of them came."		
+GU089S059	1	89	13_pronouns and determiners	試験はとても難しかったです。二十人の学生が受けましたが、どれも合格しませんでした。	The exam was very hard. Twenty students did it and none of them passed.		
+GU090S001	1	90	13_pronouns and determiners	みんな疲れている。	Everybody is tired.		
+GU090S002	1	90	13_pronouns and determiners	私はみんなをパーティーに招待しました。	I invited everyone to the party.		
+GU090S003	1	90	13_pronouns and determiners	みんなは楽しんだと言いました。	Everyone said that they enjoyed themselves.		
+GU090S004	1	90	13_pronouns and determiners	私は全ての友達を招待しました。	I invited all my friends.		
+GU090S005	1	90	13_pronouns and determiners	私たち全員が疲れていました。	All of us were tired.		
+GU090S006	1	90	13_pronouns and determiners	私たちはみんな疲れていました。	We were all tired.		
+GU090S007	1	90	13_pronouns and determiners	彼らはみんな楽しんでいました。	They all enjoyed themselves.		
+GU090S008	1	90	13_pronouns and determiners	素晴らしいパーティーでした。みんなが楽しい時間を過ごしました。	It was a great party. Everyone had a great time.		
+GU090S009	1	90	13_pronouns and determiners	グループには30人いました。全員が学生でした。	There were 30 people in the group. All of them were students.		
+GU090S010	1	90	13_pronouns and determiners	火災警報が鳴った時、みんなすぐに建物を出ました。	"When the fire alarm rang, everyone left the building immediately."		
+GU090S011	1	90	13_pronouns and determiners	私たちのクラスの誰も試験に落ちませんでした。全員が合格しました。	Nobody in our class failed the exam. All of us passed.		
+GU090S012	1	90	13_pronouns and determiners	私たちのクラスの誰も試験に落ちませんでした。みんなが合格しました。	Nobody in our class failed the exam. Everybody passed.		
+GU090S013	1	90	13_pronouns and determiners	始められますか？みんな準備はできていますか？	Can we begin? Is everyone ready?		
+GU090S014	1	90	13_pronouns and determiners	私の友達はみんな今夜出かけます。	All my friends are going out tonight.		
+GU090S015	1	90	13_pronouns and determiners	誰にでも欠点はあります。完璧な人はいません。	Everybody has their faults. Nobody is perfect.		
+GU090S016	1	90	13_pronouns and determiners	彼は何でも知っていると思っています。	He thinks he knows everything.		
+GU090S017	1	90	13_pronouns and determiners	私たちの休暇は大失敗でした。すべてがうまくいきませんでした。	Our holiday was a disaster. Everything went wrong.		
+GU090S018	1	90	13_pronouns and determiners	彼はコンピュータについてすべて知っています。	He knows all about computers.		
+GU090S019	1	90	13_pronouns and determiners	私は彼女の言うことすべてに反対です。	I disagree with all (that) she says.		
+GU090S020	1	90	13_pronouns and determiners	私は彼女の言うことすべてに反対です。	I disagree with everything (that) she says.		
+GU090S021	1	90	13_pronouns and determiners	今日私が食べたのはサンドイッチだけです。	All I've eaten today is a sandwich.		
+GU090S022	1	90	13_pronouns and determiners	何も変わっていません。すべてが以前と同じです。	Nothing has changed. Everything is the same as it was.		
+GU090S023	1	90	13_pronouns and determiners	あなたはお金のことを考えすぎです。お金が全てではありません。	You think too much about money. Money isn't everything.		
+GU090S024	1	90	13_pronouns and determiners	私にはあまりお金がありませんでした。持っていたのは10ポンドだけです。	I didn't have much money with me. All I had was ten pounds.		
+GU090S025	1	90	13_pronouns and determiners	なぜそんなに怠け者なんですか？私にすべてを期待することはできません。	Why are you so lazy? You can't expect me to do everything for you.		
+GU090S026	1	90	13_pronouns and determiners	サラはどこに行くか言いませんでした。彼女が言ったのは出かけることだけです。	Sarah didn't say where she was going. All she said was that she was going away.		
+GU090S027	1	90	13_pronouns and determiners	本当に疲れています。私がしたいのは寝ることだけです。	I'm really tired. All I want to do is sleep.		
+GU090S028	1	90	13_pronouns and determiners	本を全部読みましたか？	Did you read the whole book?		
+GU090S029	1	90	13_pronouns and determiners	とてもお腹が空いていたので、ビスケットの一袋全部食べました。	"I was so hungry, I ate a whole packet of biscuits."		
+GU090S030	1	90	13_pronouns and determiners	あなたがくれたお金を全部使いました。	I've spent all the money you gave me.		
+GU090S031	1	90	13_pronouns and determiners	私は本を全部読みました。	I read the whole book.		
+GU090S032	1	90	13_pronouns and determiners	私は情報をすべて読みました。	I read all the information.		
+GU090S033	1	90	13_pronouns and determiners	私たちは簡単に試合に勝ちました。チーム全体がうまくプレーしたと思います。	We won the game easily. I think the whole team played well.		
+GU090S034	1	90	13_pronouns and determiners	警察は何かを探していました。家全体を捜索しました。	The police were looking for something. They searched the whole house.		
+GU090S035	1	90	13_pronouns and determiners	イヴは番組を全部見ませんでした。途中で眠ってしまいました。	Eve didn't watch the whole programme. She fell asleep in the middle of it.		
+GU090S036	1	90	13_pronouns and determiners	何が起こったかすべて知る必要があります。全話を話してください。	I need to know everything that happened. You have to tell me the whole story.		
+GU090S037	1	90	13_pronouns and determiners	電車は満席で座席がありませんでした。ずっと立っていなければなりませんでした。	The train was full and I didn't have a seat. I had to stand the whole way.		
+GU090S038	1	90	13_pronouns and determiners	アダムはバナナをいくつか買いました。とてもお腹が空いていて、全部食べました。	Adam bought some bananas. He was very hungry and ate the whole bunch.		
+GU090S039	1	90	13_pronouns and determiners	休暇中は毎日ビーチに行きました。	"When we were on holiday, we went to the beach every day."		
+GU090S040	1	90	13_pronouns and determiners	バスの運行は良いです。10分ごとにバスがあります。	The bus service is good. There's a bus every ten minutes.		
+GU090S041	1	90	13_pronouns and determiners	私たちは一日中ビーチにいました。	We spent all day at the beach.	We spent the whole day at the beach.	
+GU090S042	1	90	13_pronouns and determiners	ダンはとても静かでした。彼は一晩中一言も言いませんでした。	Dan was very quiet. He didn't say a word all evening.		
+GU090S043	1	90	13_pronouns and determiners	ダンはとても静かでした。彼は一晩中一言も言いませんでした。	Dan was very quiet. He didn't say a word the whole evening.		
+GU090S044	1	90	13_pronouns and determiners	彼らは決して外出しません。いつも家にいます。	They never go out. They are at home all the time.		
+GU090S045	1	90	13_pronouns and determiners	あなたに会うたびに、見た目が違います。	"Every time I see you, you look different."		
+GU090S046	1	90	13_pronouns and determiners	疲れました。7時30分に始めて一日中働いています。	I'm tired. I started at 7.30 and I've been working all day.		
+GU090S047	1	90	13_pronouns and determiners	トムは病気です。彼は4時間ごとに薬を飲まなければなりません。	"Tom is ill. He has some medicine, which he has to take every four hours."		
+GU090S048	1	90	13_pronouns and determiners	私たちは一週間休暇に行きましたが、毎日雨が降りました。	We went on holiday for a week and it rained every day.		
+GU090S049	1	90	13_pronouns and determiners	私たちは忙しい空港の近くに住んでいます。5分ごとに飛行機が家の上を飛びます。	We live near a busy airport. A plane flies over our house every five minutes.		
+GU090S050	1	90	13_pronouns and determiners	私たちは一週間休暇に行きましたが、一週間中ずっと雨が降りました。	We went on holiday for a week and it rained the whole week.		
+GU090S051	1	90	13_pronouns and determiners	オリンピックは4年ごとに開催されます。	The Olympic Games take place every four years.		
+GU090S052	1	90	13_pronouns and determiners	あなたに会うたびに、見た目が違います。	"Every time I see you, you look different."		
+GU090S053	1	90	13_pronouns and determiners	ここでの天気が好きではありません。いつも雨が降ります。	I don't like the weather here. It rains all the time.		
+GU090S054	1	90	13_pronouns and determiners	誰もが他の言語を学ぶべきだと思います。	I think everybody should learn another language.		
+GU090S055	1	90	13_pronouns and determiners	私たちは何も食べていませんでした。全員が空腹でした。	We'd had nothing to eat. All of us were hungry.		
+GU090S056	1	90	13_pronouns and determiners	私たちはお互いあまり会いません。約6か月ごとに会います。	We don't see each other very often - about every six months.		
+GU090S057	1	90	13_pronouns and determiners	休暇中に、私の荷物は全部盗まれました。	"When I was on holiday, all my luggage was stolen."		
+GU090S058	1	90	13_pronouns and determiners	ひどい火事でした。建物全体が破壊されました。	It was a terrible fire. The whole building was destroyed.		
+GU090S059	1	90	13_pronouns and determiners	私は朝からずっとあなたを探していました。どこにいましたか？	I've been looking for you all morning. Where have you been?		
+GU090S060	1	90	13_pronouns and determiners	スーは日曜日以外毎日働きます。	Sue works every day except Sunday.		
+GU090S061	1	90	13_pronouns and determiners	私たちはご飯を全部食べましたか？まだ残っていますか？	Have we eaten all the rice? Isn't there any left?		
+GU091S001	1	91	13_pronouns and determiners	あなたに会うたびに、見た目が違います。	"Each time I see you, you look different."		
+GU091S002	1	91	13_pronouns and determiners	あなたに会うたびに、見た目が違います。	"Every time I see you, you look different."		
+GU091S003	1	91	13_pronouns and determiners	各文を注意深く勉強してください。	Study each sentence carefully.		
+GU091S004	1	91	13_pronouns and determiners	すべての文には動詞が必要です。	Every sentence must have a verb.		
+GU091S005	1	91	13_pronouns and determiners	テーブルの上に4冊の本がありました。各本は異なる色でした。	There were four books on the table. Each book was a different colour.		
+GU091S006	1	91	13_pronouns and determiners	ケイトは読書が大好きです。彼女は図書館のすべての本を読みました。	Kate loves reading. She's read every book in the library.		
+GU091S007	1	91	13_pronouns and determiners	サッカーでは、各チームに11人の選手がいます。	"In football, each team has eleven players."		
+GU091S008	1	91	13_pronouns and determiners	A: あなたはどのくらいの頻度で車を使いますか？B: 毎日です。	A: How often do you use your car? B: Every day.		
+GU091S009	1	91	13_pronouns and determiners	10分ごとにバスがあります。	There's a bus every ten minutes.		
+GU091S010	1	91	13_pronouns and determiners	このゲームでは、各プレイヤーが3枚のカードを持っています。	In this game each player has three cards.		
+GU091S011	1	91	13_pronouns and determiners	私は世界中のすべての国を訪れたいです。	I'd like to visit every country in the world.		
+GU091S012	1	91	13_pronouns and determiners	正方形の各辺の長さは同じです。	Each side of a square is the same length.		
+GU091S013	1	91	13_pronouns and determiners	劇場のすべての席が埋まっていました。	Every seat in the theatre was taken.		
+GU091S014	1	91	13_pronouns and determiners	私たちのサッカーチームは昨シーズンのすべての試合に勝ちました。	Our football team won every game last season.		
+GU091S015	1	91	13_pronouns and determiners	彼女は4つの指輪をしていました。各指に1つずつです。	"She was wearing four rings, one on each finger."		
+GU091S016	1	91	13_pronouns and determiners	毎時ロンドン行きの電車があります。	There's a train to London every hour.		
+GU091S017	1	91	13_pronouns and determiners	その建物には6つのアパートがあります。各アパートにはバルコニーがあります。	There are six apartments in the building. Each apartment has a balcony.		
+GU091S018	1	91	13_pronouns and determiners	部屋はどれも同じではありませんでした。各部屋は異なっていました。	None of the rooms was the same. Each room was different.	Each was different.	Each one was different.
+GU091S019	1	91	13_pronouns and determiners	彼女は図書館のすべての本を読みました。	She's read every book in the library.		
+GU091S020	1	91	13_pronouns and determiners	A: これらの本を全部読みましたか？B: はい、すべてです。	"A: Have you read all these books? B: Yes, every one."		
+GU091S021	1	91	13_pronouns and determiners	部屋は同じではありません。各部屋は異なる色です。	The rooms are not the same. Each of them is a different colour.		
+GU091S022	1	91	13_pronouns and determiners	私はこれらの本をすべて読みました。	I've read every one of these books.		
+GU091S023	1	91	13_pronouns and determiners	すべての親は自分の子供たちのことを心配します。	Every parent worries about their children.		
+GU091S024	1	91	13_pronouns and determiners	テニスでは、2人または4人の選手がいます。各選手はラケットを持っています。	"In tennis, there are two or four players. Each player has a racket."		
+GU091S025	1	91	13_pronouns and determiners	ニコラは毎週木曜日の夕方にバレーボールをします。	Nicola plays volleyball every Thursday evening.		
+GU091S026	1	91	13_pronouns and determiners	話されたことのほとんどを理解しましたが、すべての単語を理解したわけではありません。	"I understood most of what was said, but not every word."		
+GU091S027	1	91	13_pronouns and determiners	本は5つの部分に分かれており、各部分に3つのセクションがあります。	"The book is divided into five parts, and each of these has three sections."		
+GU091S028	1	91	13_pronouns and determiners	私は2、3回オフィスに電話しましたが、そのたびに閉まっていました。	"I called the office two or three times, but each time it was closed."		
+GU091S029	1	91	13_pronouns and determiners	車のシートベルトは命を救います。すべての運転手は着用すべきです。	Car seat belts save lives. Every driver should wear one.		
+GU091S030	1	91	13_pronouns and determiners	私の友人には3人の子供がいます。私はいつもクリスマスに各子供にプレゼントをあげます。	A friend of mine has three children. I always give each of them a present at Christmas.		
+GU091S031	1	91	13_pronouns and determiners	学生たちはそれぞれ本を渡されました。	The students were each given a book.		
+GU091S032	1	91	13_pronouns and determiners	これらのオレンジは各40ペンスです。	These oranges are 40 pence each.		
+GU091S033	1	91	13_pronouns and determiners	これらの絵葉書は各90ペンスです。	Those postcards are ninety pence each.		
+GU091S034	1	91	13_pronouns and determiners	展示会に入るのに私たちは各10ポンドかかりました。	It cost us ten pounds each to get into the exhibition.		
+GU091S035	1	91	13_pronouns and determiners	これらのリンゴは各20ペンスか、1ポンドで6個です。	These apples are twenty pence each or six for a pound.		
+GU091S036	1	91	13_pronouns and determiners	ホテルは安くありませんでした。私と友人はそれぞれ50ドル支払いました。	The hotel wasn't cheap. My friend and I paid fifty dollars each.		
+GU091S037	1	91	13_pronouns and determiners	私たちはあまりお金を持っていませんでした。私たちはそれぞれ約5ポンド持っていました。	We didn't have much money with us. We had about five pounds each.		
+GU091S038	1	91	13_pronouns and determiners	みんなパーティーを楽しみました。	Everyone enjoyed the party.		
+GU091S039	1	91	13_pronouns and determiners	サラはたくさんのパーティーに招待され、すべてに参加します。	Sarah is invited to lots of parties and she goes to every one.		
+GU091S040	1	91	13_pronouns and determiners	みんなパーティーを楽しみました。	Everyone enjoyed the party.		
+GU091S041	1	91	13_pronouns and determiners	サラはたくさんのパーティーに招待され、すべてに参加します。	Sarah is invited to lots of parties and she goes to every one.		
+GU091S042	1	91	13_pronouns and determiners	みんなが到着したとたん、私たちは会議を始めました。	"As soon as everyone had arrived, we began the meeting."		
+GU091S043	1	91	13_pronouns and determiners	私は彼女にたくさんの質問をしましたが、彼女はすべてに正しく答えました。	I asked her lots of questions and she answered every one correctly.		
+GU091S044	1	91	13_pronouns and determiners	エイミーはとても人気があります。みんな彼女が好きです。	Amy is very popular. Everyone likes her.		
+GU091S045	1	91	13_pronouns and determiners	これらの家は最初はすべて同じに見えますが、すべてが少しずつ違います。	"These houses all look the same at first, but every one is slightly different."		
+GU091S046	1	91	13_pronouns and determiners	私はグラスのトレイを落としました。残念ながら、すべてが壊れました。	"I dropped a tray of glasses. Unfortunately, every one broke."		
+GU091S047	1	91	13_pronouns and determiners	学校のことを非常によく覚えています。クラスの全員を覚えています。	I remember school very clearly. I remember everyone in my class.		
