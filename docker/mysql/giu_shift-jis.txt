@@ -5522,3 +5522,327 @@ GU091S044	1	91	13_pronouns and determiners	ƒGƒCƒ~[‚Í‚Æ‚Ä‚àl‹C‚ª‚ ‚è‚Ü‚·B‚İ‚ñ‚
 GU091S045	1	91	13_pronouns and determiners	‚±‚ê‚ç‚Ì‰Æ‚ÍÅ‰‚Í‚·‚×‚Ä“¯‚¶‚ÉŒ©‚¦‚Ü‚·‚ªA‚·‚×‚Ä‚ª­‚µ‚¸‚Âˆá‚¢‚Ü‚·B	"These houses all look the same at first, but every one is slightly different."		
 GU091S046	1	91	13_pronouns and determiners	„‚ÍƒOƒ‰ƒX‚ÌƒgƒŒƒC‚ğ—‚Æ‚µ‚Ü‚µ‚½Bc”O‚È‚ª‚çA‚·‚×‚Ä‚ª‰ó‚ê‚Ü‚µ‚½B	"I dropped a tray of glasses. Unfortunately, every one broke."		
 GU091S047	1	91	13_pronouns and determiners	ŠwZ‚Ì‚±‚Æ‚ğ”ñí‚É‚æ‚­Šo‚¦‚Ä‚¢‚Ü‚·BƒNƒ‰ƒX‚Ì‘Sˆõ‚ğŠo‚¦‚Ä‚¢‚Ü‚·B	I remember school very clearly. I remember everyone in my class.		
+GU092S001	1	92	14_relative clauses	ƒp[ƒeƒB[‚É—ˆ‚½‚·‚×‚Ä‚Ìl‚ª‚»‚ê‚ğŠy‚µ‚ñ‚¾B	Everybody who came to the party enjoyed it.		
+GU092S002	1	92	14_relative clauses	„‚Ì—×‚ÉZ‚ñ‚Å‚¢‚é—«‚ÍˆãÒ‚¾B	The woman who lives next door to me is a doctor.		
+GU092S003	1	92	14_relative clauses	„‚Í‚¢‚Â‚à•s•½‚ğŒ¾‚¤l‚ªŒ™‚¢‚¾B	I don't like people who complain all the time.		
+GU092S004	1	92	14_relative clauses	Œš’z‰Æ‚ÍŒš•¨‚ğİŒv‚·‚él‚Ì‚±‚Æ‚¾B	An architect is someone who designs buildings.		
+GU092S005	1	92	14_relative clauses	„‚Ì—×‚ÉZ‚ñ‚Å‚¢‚é—«‚ÍˆãÒ‚¾B	The woman that lives next door to me is a doctor.		
+GU092S006	1	92	14_relative clauses	ŒÚ‹q‚Í“X‚Å‰½‚©‚ğ”ƒ‚¤l‚Ì‚±‚Æ‚¾B	A customer is someone who buys something from a shop.		
+GU092S007	1	92	14_relative clauses	‹­“‚Í•¨‚ğ“‚Ş‚½‚ß‚É‰Æ‚ÉN“ü‚·‚él‚Ì‚±‚Æ‚¾B	A burglar is someone who breaks into a house to steal things.		
+GU092S008	1	92	14_relative clauses	‰°•aÒ‚Í—E‹C‚Ì‚È‚¢l‚Ì‚±‚Æ‚¾B	A coward is someone who is not brave.		
+GU092S009	1	92	14_relative clauses	–³_˜_Ò‚Í_‚ğM‚¶‚È‚¢l‚Ì‚±‚Æ‚¾B	An atheist is someone who doesn't believe in God.		
+GU092S010	1	92	14_relative clauses	”ßŠÏå‹`Ò‚ÍÅˆ«‚Ì–‘Ô‚ª‹N‚±‚é‚Æ—\‘z‚·‚él‚Ì‚±‚Æ‚¾B	A pessimist is someone who expects the worst to happen.		
+GU092S011	1	92	14_relative clauses	ƒeƒiƒ“ƒg‚Í‚Ç‚±‚©‚ÉZ‚Ş‚½‚ß‚É‰Æ’À‚ğ•¥‚¤l‚Ì‚±‚Æ‚¾B	A tenant is someone who pays rent to live somewhere.		
+GU092S012	1	92	14_relative clauses	„‚Í”ß‚µ‚¢Œ‹––‚Ì˜b‚ªŒ™‚¢‚¾B	I don't like stories that have unhappy endings.	I don't like stories which have unhappy endings.	
+GU092S013	1	92	14_relative clauses	ƒOƒŒ[ƒX‚Í‰Æ‹ï‚ğì‚é‰ïĞ‚Å“­‚¢‚Ä‚¢‚éB	Grace works for a company that makes furniture.	Grace works for a company which makes furniture.	
+GU092S014	1	92	14_relative clauses	‰ó‚ê‚½‹@ŠB‚Í¡“®‚¢‚Ä‚¢‚éB	The machine that broke down is working again now.	The machine which broke down is working again now.	
+GU092S015	1	92	14_relative clauses	‹ó`s‚«‚ÌƒoƒX‚Í30•ª‚²‚Æ‚É‰^s‚µ‚Ä‚¢‚éB	The bus that goes to the airport runs every half hour.		
+GU092S016	1	92	14_relative clauses	“ä‚Æ‚Íà–¾‚Å‚«‚È‚¢‚à‚Ì‚Ì‚±‚Æ‚¾B	A mystery is something that can't be explained.		
+GU092S017	1	92	14_relative clauses	‰Î–‚Å”j‰ó‚³‚ê‚½Œš•¨‚Í¡ÄŒš‚³‚ê‚½B	The building that was destroyed in the fire has now been rebuilt.		
+GU092S018	1	92	14_relative clauses	’n‹…‚Í¶–½‚ğˆÛ‚Å‚«‚é—Bˆê‚Ì˜f¯‚Ì‚æ‚¤‚¾B	It seems that Earth is the only planet that can support life.		
+GU092S019	1	92	14_relative clauses	«‘‚ÍŒ¾—t‚ÌˆÓ–¡‚ğ‹³‚¦‚Ä‚­‚ê‚é–{‚Ì‚±‚Æ‚¾B	A dictionary is a book that gives you the meaning of words.		
+GU092S020	1	92	14_relative clauses	•Ç‚ÉŠ|‚©‚Á‚Ä‚¢‚½ŠG‚Í‚Ç‚¤‚È‚Á‚½‚Ì‚©H	What happened to the pictures that were hanging on the wall?		
+GU092S021	1	92	14_relative clauses	“d˜b‚ğ‚©‚¯‚Ä‚«‚½l‚Ì–¼‘O‚Í‰½‚¾‚Á‚½‚©H	What was the name of the person who phoned?		
+GU092S022	1	92	14_relative clauses	“d˜b‚ğ‚©‚¯‚Ä‚«‚½l‚Ì–¼‘O‚Í‰½‚¾‚Á‚½‚©H	What was the name of the person that phoned?		
+GU092S023	1	92	14_relative clauses	—â‘ ŒÉ‚É‚ ‚Á‚½ƒ`[ƒY‚Í‚Ç‚±‚É‚ ‚éH	Where is the cheese which was in the fridge?		
+GU092S024	1	92	14_relative clauses	—â‘ ŒÉ‚É‚ ‚Á‚½ƒ`[ƒY‚Í‚Ç‚±‚É‚ ‚éH	Where is the cheese that was in the fridge?		
+GU092S025	1	92	14_relative clauses	–ŒÌ‚ğˆø‚«‹N‚±‚µ‚½‰^“]è‚Í500ƒ|ƒ“ƒh‚Ì”±‹à‚ğ‰È‚¹‚ç‚ê‚½B	The driver that caused the accident was fined 500 pounds.		
+GU092S026	1	92	14_relative clauses	–ŒÌ‚ğˆø‚«‹N‚±‚µ‚½‰^“]è‚Í500ƒ|ƒ“ƒh‚Ì”±‹à‚ğ‰È‚¹‚ç‚ê‚½B	The driver who caused the accident was fined 500 pounds.		
+GU092S027	1	92	14_relative clauses	ƒAƒŒƒNƒTƒ“ƒ_[Eƒxƒ‹‚Í“d˜b‚ğ”­–¾‚µ‚½’j‚¾‚Á‚½B	Alexander Bell was the man who invented the telephone.		
+GU092S028	1	92	14_relative clauses	ƒAƒŒƒNƒTƒ“ƒ_[Eƒxƒ‹‚Í“d˜b‚ğ”­–¾‚µ‚½’j‚¾‚Á‚½B	Alexander Bell was the man that invented the telephone.		
+GU092S029	1	92	14_relative clauses	ƒpƒŠ‚ğ—¬‚ê‚éì‚Ì–¼‘O‚Í‰½‚©H	What's the name of the river that flows through Paris?		
+GU092S030	1	92	14_relative clauses	ƒpƒŠ‚ğ—¬‚ê‚éì‚Ì–¼‘O‚Í‰½‚©H	What's the name of the river which flows through Paris?		
+GU092S031	1	92	14_relative clauses	¡’©“Í‚¢‚½è†‚ğŒ©‚½‚©H	Did you see the letter that arrived this morning?		
+GU092S032	1	92	14_relative clauses	¡’©“Í‚¢‚½è†‚ğŒ©‚½‚©H	Did you see the letter which arrived this morning?		
+GU092S033	1	92	14_relative clauses	„‚Ì—×‚ÉZ‚ñ‚Å‚¢‚½’j‚ªÅ‹ßˆø‚Á‰z‚µ‚½B	"A man lived next door to me, but he moved out recently."		
+GU092S034	1	92	14_relative clauses	„‚Ì—×‚ÉZ‚ñ‚Å‚¢‚½’j‚ªÅ‹ßˆø‚Á‰z‚µ‚½B	The man who lived next door to me moved out recently.		
+GU092S035	1	92	14_relative clauses	„‚ÍŒ®‚ªŒ©‚Â‚©‚ç‚È‚¢B‚»‚ê‚ç‚Íƒe[ƒuƒ‹‚Ìã‚É‚ ‚Á‚½B	I can't find the keys. They were on the table.		
+GU092S036	1	92	14_relative clauses	ƒe[ƒuƒ‹‚Ìã‚É‚ ‚Á‚½Œ®‚Í‚Ç‚±‚É‚ ‚éH	Where are the keys that were on the table?		
+GU092S037	1	92	14_relative clauses	ƒŒƒXƒgƒ‰ƒ“‚Å„‚½‚¿‚ÉƒT[ƒrƒX‚µ‚Ä‚­‚ê‚½ƒEƒFƒCƒ^[‚Í–³—ç‚Å‚¹‚Á‚©‚¿‚¾‚Á‚½B	The waiter served us in the restaurant was impolite and impatient.		
+GU092S038	1	92	14_relative clauses	Ol‚Ì’j‚ª‘ß•ß‚³‚ê‚½‚ªA¡‚Íß•ú‚³‚ê‚½B	"Three men were arrested, but have now been released."		
+GU092S039	1	92	14_relative clauses	“¹‚Ì’[‚É‚ ‚é“X‚Í‚·‚×‚Ä‚ğ”„‚Á‚Ä‚¢‚éB	There's a shop at the end of the road sells everything.		
+GU092S040	1	92	14_relative clauses	“¹‚Ì’[‚É‚ ‚é“X‚Í‚·‚×‚Ä‚ğ”„‚Á‚Ä‚¢‚éB	There's a shop at the end of the road. sells everything.		
+GU092S041	1	92	14_relative clauses	Œx@‚Í’j‚ğ‘ß•ß‚µ‚½B”Ş‚ç‚Í„‚ÌÔ‚ğ“‚ñ‚¾‚Æv‚Á‚Ä‚¢‚éB	The police have arrested a man. They think stole my car.		
+GU092S042	1	92	14_relative clauses	‚»‚Ì‰f‰æ‚Í‰Æo‚µ‚½­—‚É‚Â‚¢‚Ä‚Ì˜b‚¾B	The film is about a girl runs away from home.		
+GU092S043	1	92	14_relative clauses	‚»‚Ì‰f‰æ‚Í‰Æo‚µ‚½­—‚É‚Â‚¢‚Ä‚Ì˜b‚¾B	The film is about a girl. runs away from home.		
+GU092S044	1	92	14_relative clauses	„‚½‚¿‚Í“¹’[‚ÅŒÌá‚µ‚½Ô‚ğ’Ê‚è‰ß‚¬‚½B	We passed a car had broken down by the side of the road.		
+GU092S045	1	92	14_relative clauses	‹N‚±‚Á‚½‚±‚Æ‚Í„‚ÌÓ”C‚¾‚Á‚½B	What happened was my fault.		
+GU092S046	1	92	14_relative clauses	‹N‚±‚Á‚½‚·‚×‚Ä‚Ì‚±‚Æ‚Í„‚ÌÓ”C‚¾‚Á‚½B	Everything that happened was my fault.		
+GU092S047	1	92	14_relative clauses	„‚½‚¿‚Íí‚É•Ï‰»‚·‚é¢ŠE‚ÉZ‚ñ‚Å‚¢‚éB	We live in a world is changing all the time.		
+GU092S048	1	92	14_relative clauses	‰ó‚ê‚½‹@ŠB‚Í¡“®‚¢‚Ä‚¢‚éB	The machine broke down is now working again.		
+GU092S049	1	92	14_relative clauses	’N‚ª–ŒÌ‚ğˆø‚«‹N‚±‚µ‚½‚©‚Ü‚¾‚í‚©‚ç‚È‚¢B	We don't yet know caused the accident.		
+GU092S050	1	92	14_relative clauses	ƒ_ƒ“‚Í„‚É‚Â‚¢‚Ä‚¢‚­‚Â‚©‚Ì‚±‚Æ‚ğŒ¾‚Á‚½‚ªA‚»‚ê‚Í^À‚Å‚Í‚È‚©‚Á‚½B	Dan said some things about me were not true.		
+GU092S051	1	92	14_relative clauses	ƒQƒCƒŠ[‚Í‹N‚±‚Á‚½‚±‚Æ‚É‘Î‚µ‚ÄÓß‚µ‚½B	Gary apologised for happened.		
+GU092S052	1	92	14_relative clauses	ƒŒ[ƒX‚ÉŸ‚Á‚½”n‚Ì–¼‘O‚Í‰½‚¾‚Á‚½‚©H	What was the name of the horse won the race?		
+GU093S001	1	93	14_relative clauses	„‚Ì—×‚ÉZ‚ñ‚Å‚¢‚é—«‚ÍˆãÒ‚¾B	The woman who lives next door to me is a doctor.	The woman that lives next door to me is a doctor.	
+GU093S002	1	93	14_relative clauses	ƒe[ƒuƒ‹‚Ìã‚É‚ ‚Á‚½Œ®‚Í‚Ç‚±‚É‚ ‚éH	Where are the keys that were on the table?	Where are the keys which were on the table?	
+GU093S003	1	93	14_relative clauses	–é’†‚É•·‚±‚¦‚½‰¹‚ª„‚ğ–ÚŠo‚ß‚³‚¹‚½B	I heard a noise during the night that woke me up.		
+GU093S004	1	93	14_relative clauses	‚Ù‚Æ‚ñ‚Ç‚Ìl‚Í–‘«‚µ‚Ä‚¢‚½B•¶‹å‚ğŒ¾‚Á‚½‚Ì‚Íˆêl‚¾‚¯‚¾‚Á‚½B	Most people were satisfied. There was only one person who complained.		
+GU093S005	1	93	14_relative clauses	—ğj‚Í‰ß‹‚É‹N‚±‚Á‚½‚±‚Æ‚ğŠw‚ÔŠw–â‚¾B	History is the study of things that happened in the past.		
+GU093S006	1	93	14_relative clauses	„‚Í•‰Èˆã‚¾‚Á‚½—Fl‚ª‚¢‚éB”Ş‚Í””N‘O‚Éˆø‘Ş‚µ‚½B	I have a friend who was a dentist. He retired a couple of years ago.		
+GU093S007	1	93	14_relative clauses	‘¹‚µ‚½“¹˜H‚Í¡C•œ‚³‚ê‚½B	The road that was damaged has now been repaired.		
+GU093S008	1	93	14_relative clauses	‚»‚±‚ª—Ç‚¢ƒzƒeƒ‹‚¾‚Æ•·‚¢‚½‚ªA‚»‚±‚É”‘‚Ü‚Á‚½‚±‚Æ‚ª‚ ‚él‚ğ’m‚ç‚È‚¢B	"I've heard it's a good hotel, but I don't know anybody who has stayed there."		
+GU093S009	1	93	14_relative clauses	„‚ªo‰ï‚Á‚½—«‚ÍˆãÒ‚¾‚Á‚½B	The woman who I met was a doctor.	The woman that I met was a doctor.	
+GU093S010	1	93	14_relative clauses	¸‚­‚µ‚½Œ®‚ğŒ©‚Â‚¯‚½‚©H	Did you find the keys that you lost?	Did you find the keys which you lost?	
+GU093S011	1	93	14_relative clauses	„‚ªo‰ï‚Á‚½—«‚ÍˆãÒ‚¾‚Á‚½B	The woman I met was a doctor.	The woman that I met was a doctor.	
+GU093S012	1	93	14_relative clauses	¸‚­‚µ‚½Œ®‚ğŒ©‚Â‚¯‚½‚©H	Did you find the keys you lost?	Did you find the keys that you lost?	
+GU093S013	1	93	14_relative clauses	ƒŠƒT‚ª”ƒ‚Á‚½ƒhƒŒƒX‚Í‚Æ‚Ä‚à‘f“G‚¾B	The dress Lisa bought is very nice.	The dress that Lisa bought is very nice.	
+GU093S014	1	93	14_relative clauses	„‚É‚Å‚«‚é‚±‚Æ‚Í‰½‚©‚ ‚é‚©H	Is there anything I can do?	Is there anything that I can do?	
+GU093S015	1	93	14_relative clauses	‚ ‚È‚½‚É“d˜b‚ğ‚©‚¯‚Ä‚«‚½’j‚Ì–¼‘O‚Í‰½‚©H	What's the name of the man who phoned you?		
+GU093S016	1	93	14_relative clauses	‚ ‚È‚½‚ª“d˜b‚ğ‚©‚¯‚½’j‚Ì–¼‘O‚Í‰½‚©H	What's the name of the man you phoned?		
+GU093S017	1	93	14_relative clauses	—Fl‚ªƒhƒŒƒX‚ğ’…‚Ä‚¢‚éB‚»‚ê‚ªD‚«‚¾B”Ş—‚ÉŒ¾‚¤Fu‚ ‚È‚½‚ª’…‚Ä‚¢‚éƒhƒŒƒX‚ªD‚«‚¾Bv	A friend is wearing a dress. You like it. You tell her: I like the dress you're wearing.		
+GU093S018	1	93	14_relative clauses	—Fl‚ª‰f‰æŠÙ‚És‚­B‰f‰æ‚Ì–¼‘O‚ğ’m‚è‚½‚¢B”Ş—‚ÉŒ¾‚¤Fu‚ ‚È‚½‚ªŒ©‚És‚­‰f‰æ‚Ì–¼‘O‚Í‰½‚©Hv	A friend is going to the cinema. You want to know the name of the film. You say: What's the name of the film you're going to see?		
+GU093S019	1	93	14_relative clauses	”•¨ŠÙ‚ğ–K‚ê‚½‚©‚Á‚½B‚»‚ê‚ª•Â‚Ü‚Á‚Ä‚¢‚½B’N‚©‚ÉŒ¾‚¤Fu„‚½‚¿‚ª–K‚ê‚½‚©‚Á‚½”•¨ŠÙ‚Í•Â‚Ü‚Á‚Ä‚¢‚½Bv	You wanted to visit a museum. It was shut. You tell someone: The museum we wanted to visit was shut.		
+GU093S020	1	93	14_relative clauses	‚ ‚È‚½‚Íƒp[ƒeƒB[‚É‘½‚­‚Ìl‚ğµ‘Ò‚µ‚½B‚»‚Ì’†‚Ìˆê•”‚Í—ˆ‚ê‚È‚©‚Á‚½B’N‚©‚ÉŒ¾‚¤Fu„‚½‚¿‚ªƒp[ƒeƒB[‚Éµ‘Ò‚µ‚½ˆê•”‚Ìl‚Í—ˆ‚ê‚È‚©‚Á‚½Bv	You invited a lot of people to your party. Some of them couldn't come. You tell someone: Some of the people we invited to the party couldn't come.		
+GU093S021	1	93	14_relative clauses	—Fl‚Íd–‚ğ‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚©‚Á‚½B”Ş—‚ªI‚í‚Á‚½‚©‚Ç‚¤‚©’m‚è‚½‚¢B”Ş—‚ÉŒ¾‚¤Fu‚ ‚È‚½‚ª‚µ‚È‚¯‚ê‚Î‚È‚ç‚È‚©‚Á‚½d–‚ÍI‚í‚Á‚½‚©Hv	Your friend had to do some work. You want to know if she's finished. You say: Have you finished the work you had to do?		
+GU093S022	1	93	14_relative clauses	‚ ‚È‚½‚Í‚¢‚­‚Â‚©‚Ìl‚Æ‰ï‚¤–ñ‘©‚ğ‚µ‚½‚ªA”Ş‚ç‚ÍŒ»‚ê‚È‚©‚Á‚½B’N‚©‚ÉŒ¾‚¤Fu„‚½‚¿‚ª‰ï‚¤–ñ‘©‚ğ‚µ‚½l‚½‚¿‚ÍŒ»‚ê‚È‚©‚Á‚½Bv	"You arranged to meet some people, but they didn't turn up. You tell someone: The people we arranged to meet didn't turn up."		
+GU093S023	1	93	14_relative clauses	‚ ‚È‚½‚ÍÔ‚ğØ‚è‚½B‚»‚ê‚Í”ƒ}ƒCƒ‹Œã‚ÉŒÌá‚µ‚½B’N‚©‚ÉŒ¾‚¤Fuc”O‚È‚ª‚çA„‚½‚¿‚ªØ‚è‚½Ô‚Í”ƒ}ƒCƒ‹Œã‚ÉŒÌá‚µ‚½Bv	You rented a car. It broke down after a few miles. You tell someone: Unfortunately the car we rented broke down after a few miles.		
+GU093S024	1	93	14_relative clauses	ğ–é„‚½‚¿‚ª‰ï‚Á‚½l‚½‚¿‚Í‚Æ‚Ä‚àeØ‚¾‚Á‚½B	The people who we met last night were very friendly.		
+GU093S025	1	93	14_relative clauses	ğ–é„‚½‚¿‚ª‰ï‚Á‚½l‚½‚¿‚Í‚Æ‚Ä‚àeØ‚¾‚Á‚½B	The people we met last night were very friendly.		
+GU093S026	1	93	14_relative clauses	„‚ÌƒIƒtƒBƒX‚Å“­‚¢‚Ä‚¢‚él‚½‚¿‚Í‚Æ‚Ä‚àeØ‚¾B	The people who work in my office are very friendly.		
+GU093S027	1	93	14_relative clauses	–³_˜_Ò‚Í_‚ğM‚¶‚È‚¢l‚Ì‚±‚Æ‚¾B	An atheist is someone who doesn't believe in God.		
+GU093S028	1	93	14_relative clauses	ƒfƒCƒrƒbƒh‚Í„‚ªŒ¾‚Á‚½‚±‚Æ‚É• ‚ğ—§‚Ä‚Ä‚¢‚½B	David was angry about something that I said.		
+GU093S029	1	93	14_relative clauses	ƒfƒCƒrƒbƒh‚Í„‚ªŒ¾‚Á‚½‚±‚Æ‚É• ‚ğ—§‚Ä‚Ä‚¢‚½B	David was angry about something I said.		
+GU093S030	1	93	14_relative clauses	„‚½‚¿‚ªµ‘Ò‚µ‚½‚·‚×‚Ä‚Ìl‚ªƒp[ƒeƒB[‚É—ˆ‚½B	Everybody who we invited came to the party.		
+GU093S031	1	93	14_relative clauses	„‚½‚¿‚ªµ‘Ò‚µ‚½‚·‚×‚Ä‚Ìl‚ªƒp[ƒeƒB[‚É—ˆ‚½B	Everybody we invited came to the party.		
+GU093S032	1	93	14_relative clauses	‚ ‚È‚½‚É‚Æ‚Á‚Ä¡‚Ü‚Å‚Åˆê”Ô—Ç‚©‚Á‚½‚±‚Æ‚Í‰½‚©H	What's the best thing that has ever happened to you?		
+GU093S033	1	93	14_relative clauses	‚ ‚È‚½‚ª¡‚Ü‚ÅŒ©‚½’†‚ÅÅˆ«‚Ì‰f‰æ‚Í‰½‚©H	What's the worst film that you've ever seen?		
+GU093S034	1	93	14_relative clauses	‚ ‚È‚½‚ª¡‚Ü‚ÅŒ©‚½’†‚ÅÅˆ«‚Ì‰f‰æ‚Í‰½‚©H	What's the worst film you've ever seen?		
+GU093S035	1	93	14_relative clauses	„‚ªØ‚è‚½‚¨‹à‚ğ•Ô‚³‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	I have to pay back the money that I borrowed.		
+GU093S036	1	93	14_relative clauses	„‚ªØ‚è‚½‚¨‹à‚ğ•Ô‚³‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	I have to pay back the money I borrowed.		
+GU093S037	1	93	14_relative clauses	ƒp[ƒeƒB[‚É—ˆ‚½‚·‚×‚Ä‚Ìl‚ª‚»‚ê‚ğŠy‚µ‚ñ‚¾B	Everybody who came to the party enjoyed it.		
+GU093S038	1	93	14_relative clauses	‚±‚ê‚ç‚Í‚ ‚È‚½‚ª’T‚µ‚Ä‚¢‚½–{‚©H	Are these the books you were looking for?		
+GU093S039	1	93	14_relative clauses	„‚ª“dÔ‚Å—×‚ÉÀ‚Á‚Ä‚¢‚½’j‚Í‚¸‚Á‚Æ˜b‚µ‚Ä‚¢‚½B	The man I was sitting next to on the train talked all the time.		
+GU093S040	1	93	14_relative clauses	‚±‚ê‚ç‚Í‚ ‚È‚½‚ª’T‚µ‚Ä‚¢‚½–{‚©H	Are these the books that you were looking for?		
+GU093S041	1	93	14_relative clauses	„‚ª“dÔ‚Å—×‚ÉÀ‚Á‚Ä‚¢‚½’j‚Í‚¸‚Á‚Æ˜b‚µ‚Ä‚¢‚½B	The man who I was sitting next to on the train talked all the time.		
+GU093S042	1	93	14_relative clauses	c”O‚È‚ª‚çA„‚Í‰•å‚µ‚½d–‚ğ“¾‚ç‚ê‚È‚©‚Á‚½B	Unfortunately I didn't get the job I applied for.		
+GU093S043	1	93	14_relative clauses	ƒTƒ‰‚Í”Ş—‚ª“­‚¢‚Ä‚¢‚él‚½‚¿‚Æ’‡—Ç‚­‚â‚Á‚Ä‚¢‚éB	Sarah gets on well with the people she works with.		
+GU093S044	1	93	14_relative clauses	‚ ‚È‚½‚ªs‚Á‚½ƒRƒ“ƒT[ƒg‚ÍŠy‚µ‚©‚Á‚½‚©H	Did you enjoy the concert you went to?		
+GU093S045	1	93	14_relative clauses	ƒQƒCƒŠ[‚Í’m‚Á‚Ä‚¢‚é‚Æ—Ç‚¢l‚¾B”Ş‚ÍM—Š‚Å‚«‚él‚¾B	Gary is a good person to know. He's somebody you can rely on.		
+GU093S046	1	93	14_relative clauses	‚ ‚È‚½‚ª„‚É˜b‚µ‚Ä‚­‚ê‚½ƒzƒeƒ‹‚Ì–¼‘O‚Í‰½‚©H	What's the name of the hotel you told me about?		
+GU093S047	1	93	14_relative clauses	„‚½‚¿‚ªµ‘Ò‚³‚ê‚½Œ‹¥®‚É‚Ís‚¯‚È‚©‚Á‚½B	We couldn't go to the wedding we were invited to.		
+GU093S048	1	93	14_relative clauses	ğ“ú„‚ª‚ ‚È‚½‚ğŒ©‚½‚Æ‚«ˆê‚É‚¢‚½’j‚Í’N‚©H	Who was the man you were with when I saw you yesterday?		
+GU093S049	1	93	14_relative clauses	„‚ª¶‚Ü‚ê‚½êŠ‚É–ß‚Á‚Ä‚©‚ç’·‚¢ŠÔ‚ªŒo‚Á‚½B	It's a long time since I went back to the place I come from.		
+GU093S050	1	93	14_relative clauses	”Ş‚ç‚ªŒ¾‚Á‚½‚·‚×‚Ä‚Í^À‚¾‚Á‚½B	Everything they said was true.	Everything that they said was true.	
+GU093S051	1	93	14_relative clauses	„‚ª‚Á‚Ä‚¢‚½‚·‚×‚Ä‚Ì‚¨‹à‚ğ”Ş‚ç‚É“n‚µ‚½B	I gave them all the money I had.	I gave them all the money that I had.	
+GU093S052	1	93	14_relative clauses	”Ş‚ç‚ªŒ¾‚Á‚½‚±‚Æ‚Í^À‚¾‚Á‚½B	What they said was true.		
+GU093S053	1	93	14_relative clauses	”Ş—‚Íq‹Ÿ‚½‚¿‚É—~‚µ‚¢‚à‚Ì‚ğ‚·‚×‚Ä—^‚¦‚éB	She gives her children everything they want.		
+GU093S054	1	93	14_relative clauses	‰½‚ª‹N‚±‚Á‚½‚Ì‚©HŠo‚¦‚Ä‚¢‚é‚±‚Æ‚ğ‹³‚¦‚ÄB	What happened? Tell me what you remember.		
+GU093S055	1	93	14_relative clauses	„‚Í‘½‚­‚Í‚Å‚«‚È‚¢‚ªA‚Å‚«‚é‚±‚Æ‚ÍÅ‘P‚ğs‚­‚·B	"I won't be able to do much, but I'll do the best I can."		
+GU093S056	1	93	14_relative clauses	„‚Í‘½‚­‚Í‚Å‚«‚È‚¢‚ªA‚Å‚«‚é‚±‚Æ‚Í‚·‚éB	"I won't be able to do much, but I'll do what I can."		
+GU093S057	1	93	14_relative clauses	‚È‚º‚ ‚È‚½‚Í‰½‚©‚ª‚¤‚Ü‚­‚¢‚©‚È‚¢‚½‚Ñ‚É„‚ğÓ‚ß‚é‚Ì‚©H	Why do you blame me for everything that goes wrong?		
+GU093S058	1	93	14_relative clauses	„‚Í”Ş‚ğM‚¶‚È‚¢B”Ş‚ªŒ¾‚¤‚±‚Æ‚Í‰½‚àM‚¶‚È‚¢B	I don't trust him. I don't believe anything that he says.		
+GU094S001	1	94	14_relative clauses	„‚½‚¿‚ÍÔ‚ªŒÌá‚µ‚½lX‚ğ•‚¯‚½B	We helped some people whose car had broken down.		
+GU094S002	1	94	14_relative clauses	–¢–Sl‚Æ‚Í•v‚ª€‚ñ‚¾—«‚Ì‚±‚Æ‚¾B	A widow is a woman whose husband is dead.		
+GU094S003	1	94	14_relative clauses	„‚Í”Ş‚ÌŒZ’í‚ÆŠwZ‚É’Ê‚Á‚Ä‚¢‚½l‚É‰ï‚Á‚½B	I met someone whose brother I went to school with.		
+GU094S004	1	94	14_relative clauses	„‚Í‚ ‚È‚½‚ğ’m‚Á‚Ä‚¢‚é’j«‚É‰ï‚Á‚½B	I met a man who knows you.		
+GU094S005	1	94	14_relative clauses	„‚Í‚ ‚È‚½‚ğ’m‚Á‚Ä‚¢‚é—«‚ÌŒZ’í‚É‰ï‚Á‚½B	I met a man whose sister knows you.		
+GU094S006	1	94	14_relative clauses	„‚ÍƒAƒ‰ƒrƒAŒê‚ğŠw‚ñ‚Å‚¢‚é—Fl‚ª‚¢‚éB	I have a friend who's learning Arabic.		
+GU094S007	1	94	14_relative clauses	„‚ÍƒAƒ‰ƒrƒAŒê‚ÌŠwK‚ğn‚ß‚½‚Î‚©‚è‚Ì—Fl‚ª‚¢‚éB	I have a friend who's just started learning Arabic.		
+GU094S008	1	94	14_relative clauses	„‚Í”Ş‚Ì–…‚ªƒAƒ‰ƒrƒAŒê‚ğŠw‚ñ‚Å‚¢‚é—Fl‚ª‚¢‚éB	I have a friend whose sister is learning Arabic.		
+GU094S009	1	94	14_relative clauses	„‚ÌÈ‚Í‰pŒê‚Ìæ¶‚¾B	My wife is an English teacher.		
+GU094S010	1	94	14_relative clauses	„‚Í”Ş‚ÌÈ‚ª‰pŒê‚Ìæ¶‚Å‚ ‚é’j«‚É‰ï‚Á‚½B	I met a man whose wife is an English teacher.		
+GU094S011	1	94	14_relative clauses	„‚ÍƒŒƒXƒgƒ‰ƒ“‚ğŠ—L‚µ‚Ä‚¢‚éB	I own a restaurant.		
+GU094S012	1	94	14_relative clauses	„‚ÍƒŒƒXƒgƒ‰ƒ“‚ğŠ—L‚µ‚Ä‚¢‚é—«‚É‰ï‚Á‚½B	I met a woman who owns a restaurant.		
+GU094S013	1	94	14_relative clauses	„‚Ì–ì–]‚ÍƒGƒxƒŒƒXƒg‚É“o‚é‚±‚Æ‚¾B	My ambition is to climb Everest.		
+GU094S014	1	94	14_relative clauses	„‚ÍƒGƒxƒŒƒXƒg‚É“o‚é‚±‚Æ‚ğ–ì–]‚Æ‚µ‚Ä‚¢‚él‚É‰ï‚Á‚½B	I met somebody whose ambition is to climb Everest.		
+GU094S015	1	94	14_relative clauses	„‚½‚¿‚ÍŒ‹¥‚µ‚½‚Î‚©‚è‚¾B	We've just got married.		
+GU094S016	1	94	14_relative clauses	„‚ÍŒ‹¥‚µ‚½‚Î‚©‚è‚ÌƒJƒbƒvƒ‹‚É‰ï‚Á‚½B	I met a couple who have just got married.		
+GU094S017	1	94	14_relative clauses	„‚Ì—¼e‚ÍƒT[ƒJƒX‚Å“­‚¢‚Ä‚¢‚½B	My parents used to work in a circus.		
+GU094S018	1	94	14_relative clauses	„‚Í—¼e‚ªƒT[ƒJƒX‚Å“­‚¢‚Ä‚¢‚½l‚É‰ï‚Á‚½B	I met somebody whose parents used to work in a circus.		
+GU094S019	1	94	14_relative clauses	‚ ‚È‚½‚ª”Ş‚ÌÔ‚ğØ‚è‚½’j«‚Ì–¼‘O‚Í‰½‚©H	What's the name of the man whose car you borrowed?		
+GU094S020	1	94	14_relative clauses	”Ş‚ª‚ ‚È‚½‚É”Ş‚ÌÔ‚ğ‘İ‚µ‚½’j«‚Ì–¼‘O‚Í‰½‚©H	What's the name of the man who lent you his car?		
+GU094S021	1	94	14_relative clauses	ƒ[ƒ‰‚Í„‚ª•’iˆÓŒ©‚É^¬‚·‚él‚¾B	Laura is somebody whose opinions I usually agree with.		
+GU094S022	1	94	14_relative clauses	„‚Í‰f‰æŠÄ“Â‚Å‚ ‚él‚ğ’m‚Á‚Ä‚¢‚éB	I know somebody who's a film director.		
+GU094S023	1	94	14_relative clauses	„‚Í„‚Æ“¯‚¶–¼‘O‚Ìl‚É‰ï‚Á‚½‚±‚Æ‚ª‚È‚¢B	I've never met anybody whose name is the same as mine.		
+GU094S024	1	94	14_relative clauses	„‚ÍƒeƒjƒX‚ğ‚·‚él‚ğ’m‚ç‚È‚¢B	I don't know anybody who plays tennis.		
+GU094S025	1	94	14_relative clauses	„‚ÍÔ‚ğ‚Á‚Ä‚¢‚él‚ğ’m‚ç‚È‚¢B	I don't know anybody who's got a car.		
+GU094S026	1	94	14_relative clauses	„‚Í’a¶“úƒp[ƒeƒB[‚És‚Á‚½B’a¶“ú‚Ìl‚Æ‚ÍŠwZ‚Åˆê‚¾‚Á‚½B	I went to a birthday party. I was at school with the guy whose birthday it was.		
+GU094S027	1	94	14_relative clauses	ƒWƒ‡[ƒW‚Í„‚ª‚Æ‚Ä‚à‘¸Œh‚·‚él‚¾B	George is a person whom I admire a lot.		
+GU094S028	1	94	14_relative clauses	ƒŠƒ‰ƒbƒNƒX‚Å‚«‚é—Fl‚ğ‚Â‚±‚Æ‚Íd—v‚¾B	It's important to have friends with whom you can relax.		
+GU094S029	1	94	14_relative clauses	ƒWƒ‡[ƒW‚Í„‚ª‚Æ‚Ä‚à‘¸Œh‚·‚él‚¾B	George is a person I admire a lot.	George is a person who I admire a lot.	George is a person that I admire a lot.
+GU094S030	1	94	14_relative clauses	ƒŠƒ‰ƒbƒNƒX‚Å‚«‚é—Fl‚ğ‚Â‚±‚Æ‚Íd—v‚¾B	It's important to have friends you can relax with.	It's important to have friends who you can relax with.	It's important to have friends that you can relax with.
+GU094S031	1	94	14_relative clauses	‚ ‚È‚½‚Í—Fl‚É‰ï‚Á‚½B‰½”N‚à”Ş‚É‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½B	You met a friend. You hadn't seen him for years.		
+GU094S032	1	94	14_relative clauses	„‚Í‰½”N‚à‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½—Fl‚É‰ï‚Á‚½B	I met a friend whom I hadn't seen for years.		
+GU094S033	1	94	14_relative clauses	‚ ‚È‚½‚Í—Fl‚É‰ï‚Á‚½B‰½”N‚à”Ş‚É‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½B	You met a friend. You hadn't seen him for years.		
+GU094S034	1	94	14_relative clauses	„‚Í‰½”N‚à‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½—Fl‚É‰ï‚Á‚½B	I met a friend I hadn't seen for years.		
+GU094S035	1	94	14_relative clauses	ƒPƒCƒg‚Æƒxƒ“‚ÍƒAƒƒŠƒJl‚ÌƒJƒbƒvƒ‹‚¾B‚ ‚È‚½‚Í‹x‰É’†‚É”Ş‚ç‚É‰ï‚Á‚½B	Kate and Ben are an American couple. You met them on holiday.		
+GU094S036	1	94	14_relative clauses	ƒPƒCƒg‚Æƒxƒ“‚Í„‚½‚¿‚ª‹x‰É’†‚É‰ï‚Á‚½ƒAƒƒŠƒJl‚ÌƒJƒbƒvƒ‹‚¾B	Kate and Ben are an American couple whom we met on holiday.		
+GU094S037	1	94	14_relative clauses	ƒPƒCƒg‚Æƒxƒ“‚ÍƒAƒƒŠƒJl‚ÌƒJƒbƒvƒ‹‚¾B‚ ‚È‚½‚Í‹x‰É’†‚É”Ş‚ç‚É‰ï‚Á‚½B	Kate and Ben are an American couple. You met them on holiday.		
+GU094S038	1	94	14_relative clauses	ƒPƒCƒg‚Æƒxƒ“‚Í„‚½‚¿‚ª‹x‰É’†‚É‰ï‚Á‚½ƒAƒƒŠƒJl‚ÌƒJƒbƒvƒ‹‚¾B	Kate and Ben are an American couple that we met on holiday.		
+GU094S039	1	94	14_relative clauses	‚ ‚È‚½‚Í–â‘è‚Å‹âs‚É“d˜b‚µ‚½B’N‚©‚Æ˜b‚µ‚½‚ªA”Ş‚Í‚ ‚Ü‚è–ğ‚É—§‚½‚È‚©‚Á‚½B	"You called your bank with a problem. You spoke to somebody, but he wasn't very helpful."		
+GU094S040	1	94	14_relative clauses	„‚ª˜b‚µ‚½l‚Í‚ ‚Ü‚è–ğ‚É—§‚½‚È‚©‚Á‚½B	The person to whom I spoke wasn't very helpful.		
+GU094S041	1	94	14_relative clauses	‚ ‚È‚½‚Í–â‘è‚Å‹âs‚É“d˜b‚µ‚½B’N‚©‚Æ˜b‚µ‚½‚ªA”Ş‚Í‚ ‚Ü‚è–ğ‚É—§‚½‚È‚©‚Á‚½B	"You called your bank with a problem. You spoke to somebody, but he wasn't very helpful."		
+GU094S042	1	94	14_relative clauses	„‚ª˜b‚µ‚½l‚Í‚ ‚Ü‚è–ğ‚É—§‚½‚È‚©‚Á‚½B	The person I spoke to wasn't very helpful.		
+GU094S043	1	94	14_relative clauses	‚ ‚È‚½‚Í•ÙŒìm‚É‰ï‚¢‚És‚Á‚½B‚ ‚È‚½‚Ì—Fl‚ª‚»‚Ì•ÙŒìm‚ğ„‘E‚µ‚½B	You went to see a lawyer. A friend of yours recommended the lawyer.		
+GU094S044	1	94	14_relative clauses	„‚Í—Fl‚ª„‘E‚µ‚½•ÙŒìm‚É‰ï‚¢‚És‚Á‚½B	I went to see a lawyer whom a friend of mine recommended.		
+GU094S045	1	94	14_relative clauses	‚ ‚È‚½‚Í•ÙŒìm‚É‰ï‚¢‚És‚Á‚½B‚ ‚È‚½‚Ì—Fl‚ª‚»‚Ì•ÙŒìm‚ğ„‘E‚µ‚½B	You went to see a lawyer. A friend of yours recommended the lawyer.		
+GU094S046	1	94	14_relative clauses	„‚Í—Fl‚ª„‘E‚µ‚½•ÙŒìm‚É‰ï‚¢‚És‚Á‚½B	I went to see a lawyer that a friend of mine recommended.		
+GU094S047	1	94	14_relative clauses	‚ ‚È‚½‚Íƒ\ƒtƒB[‚ğ‚Æ‚Ä‚à‘¸Œh‚µ‚Ä‚¢‚éB‚ ‚È‚½‚Í”Ş—‚Æ“­‚¢‚Ä‚¢‚éB	You have a lot of respect for Sophie. You work with her.		
+GU094S048	1	94	14_relative clauses	ƒ\ƒtƒB[‚Í„‚ª‚Æ‚Ä‚à‘¸Œh‚µ‚Ä‚¢‚él‚¾B	Sophie is somebody for whom I have a lot of respect.		
+GU094S049	1	94	14_relative clauses	‚ ‚È‚½‚Íƒ\ƒtƒB[‚ğ‚Æ‚Ä‚à‘¸Œh‚µ‚Ä‚¢‚éB‚ ‚È‚½‚Í”Ş—‚Æ“­‚¢‚Ä‚¢‚éB	You have a lot of respect for Sophie. You work with her.		
+GU094S050	1	94	14_relative clauses	ƒ\ƒtƒB[‚Í„‚ª‚Æ‚Ä‚à‘¸Œh‚µ‚Ä‚¢‚él‚¾B	Sophie is somebody I have a lot of respect for.		
+GU094S051	1	94	14_relative clauses	ƒgƒ€‚Í—«‚ğˆ¤‚µ‚Ä‚¢‚½B‚µ‚©‚µA”Ş—‚Íƒgƒ€‚ğˆ¤‚µ‚Ä‚¢‚È‚©‚Á‚½B	Tom was in love with a woman. But she wasn't in love with Tom.		
+GU094S052	1	94	14_relative clauses	ƒgƒ€‚ªˆ¤‚µ‚Ä‚¢‚½—«‚Í”Ş‚ğˆ¤‚µ‚Ä‚¢‚È‚©‚Á‚½B	The woman with whom Tom was in love wasn't in love with him.		
+GU094S053	1	94	14_relative clauses	ƒgƒ€‚Í—«‚ğˆ¤‚µ‚Ä‚¢‚½B‚µ‚©‚µA”Ş—‚Íƒgƒ€‚ğˆ¤‚µ‚Ä‚¢‚È‚©‚Á‚½B	Tom was in love with a woman. But she wasn't in love with Tom.		
+GU094S054	1	94	14_relative clauses	ƒgƒ€‚ªˆ¤‚µ‚Ä‚¢‚½—«‚Í”Ş‚ğˆ¤‚µ‚Ä‚¢‚È‚©‚Á‚½B	The woman Tom was in love with wasn't in love with him.		
+GU094S055	1	94	14_relative clauses	„‚ÍÅ‹ßA©•ª‚ªˆç‚Á‚½’¬‚É–ß‚Á‚½B	I recently went back to the town where I grew up.		
+GU094S056	1	94	14_relative clauses	„‚Í“ú·‚µ‚Ì‘½‚¢êŠ‚ÉZ‚İ‚½‚¢B	I would like to live in a place where there is plenty of sunshine.		
+GU094S057	1	94	14_relative clauses	„‚Í©•ª‚ªˆç‚Á‚½’¬‚É–ß‚Á‚½B	I went back to the town I grew up in.	I went back to the town that I grew up in.	
+GU094S058	1	94	14_relative clauses	„‚ª“­‚¢‚Ä‚¢‚éHê‚Í—ˆŒ•Â½‚³‚ê‚éB	The factory where I work is closing down next month.		
+GU094S059	1	94	14_relative clauses	„‚ÍA‚ªŠ‰‚¢‚½B‹ß‚­‚É…‚ª”ƒ‚¦‚é“X‚Í‚ ‚é‚©H	I'm thirsty. Is there a shop near here where I can get some water?		
+GU094S060	1	94	14_relative clauses	„‚ÍƒX[‚É˜A—‚·‚é•K—v‚ª‚ ‚éB”Ş—‚ª‘Øİ‚µ‚Ä‚¢‚éƒzƒeƒ‹‚Ì–¼‘O‚ğ’m‚Á‚Ä‚¢‚é‚©H	I need to contact Sue. Do you know the name of the hotel where she's staying?		
+GU094S061	1	94	14_relative clauses	„‚½‚¿‚ª’‹H‚ğ‚Æ‚Á‚½ƒŒƒXƒgƒ‰ƒ“‚Í‹ó`‚Ì‹ß‚­‚É‚ ‚Á‚½B	The restaurant where we had lunch was near the airport.		
+GU094S062	1	94	14_relative clauses	„‚ÍŠF‚ªŠF‚ğ’m‚Á‚Ä‚¢‚ée‚µ‚İ‚â‚·‚¢‘º‚ÉZ‚ñ‚Å‚¢‚éB	I live in a friendly village where everybody knows everybody else.		
+GU094S063	1	94	14_relative clauses	„‚½‚¿‚Í”ü‚µ‚¢’¤‚ª‚ ‚Á‚½”•¨ŠÙ‚És‚Á‚½B	We went to a museum where there were some beautiful sculptures.		
+GU094S064	1	94	14_relative clauses	ŒÇ™‚Æ‚Í—¼e‚ª€‚ñ‚¾q‹Ÿ‚Ì‚±‚Æ‚¾B	An orphan is a child whose parents are dead.		
+GU094S065	1	94	14_relative clauses	•½˜aå‹`Ò‚Æ‚Í‚·‚×‚Ä‚Ìí‘ˆ‚ªŠÔˆá‚Á‚Ä‚¢‚é‚ÆM‚¶‚él‚Ì‚±‚Æ‚¾B	A pacifist is a person who believes that all wars are wrong.		
+GU094S066	1	94	14_relative clauses	„‚½‚¿‚ª‚¨‹à‚ğ‘İ‚µ‚½lX‚Íp‚ğÁ‚µ‚½B	The people to whom we lent the money have disappeared.		
+GU094S067	1	94	14_relative clauses	•æ’n‚Æ‚ÍlX‚ª–„‘’‚³‚ê‚éêŠ‚Ì‚±‚Æ‚¾B	A cemetery is a place where people are buried.		
+GU094S068	1	94	14_relative clauses	„‚½‚¿‚ª‹x‰É‚ğ‰ß‚²‚µ‚½êŠ‚Í–{“–‚É”ü‚µ‚©‚Á‚½B	The place where we spent our holidays was really beautiful.		
+GU094S069	1	94	14_relative clauses	‚±‚ÌŠwZ‚Í•ê‘Œê‚ª‰pŒê‚Å‚È‚¢q‹Ÿ‚½‚¿‚Ì‚½‚ß‚Ì‚à‚Ì‚¾B	This school is only for children whose first language is not English.		
+GU094S070	1	94	14_relative clauses	„‚ªÔ‚ğ”ƒ‚Á‚½l‚Í•ƒ‚Ì—Fl‚¾B	The person from whom I bought my car is a friend of my father's.		
+GU094S071	1	94	14_relative clauses	‹à—j“ú‚É‚Í‰ï‚¦‚È‚¢B‚»‚Ì“ú‚Í„‚ªo‚©‚¯‚é“ú‚¾B	I can't meet you on Friday. That's the day I'm going away.		
+GU094S072	1	94	14_relative clauses	ÅŒã‚É”Ş—‚ğŒ©‚½‚Æ‚«A”Ş—‚Í‘f°‚ç‚µ‚­Œ©‚¦‚½B	"The last time I saw her, she looked great."	"The last time that I saw her, she looked great."	
+GU094S073	1	94	14_relative clauses	„‚ª‚ ‚È‚½‚É“d˜b‚µ‚½——R‚Í‚ ‚È‚½‚ÌƒAƒhƒoƒCƒX‚ğ‹‚ß‚é‚½‚ß‚¾B	The reason I'm calling you is to ask your advice.	The reason that I'm calling you is to ask your advice.	The reason why I'm calling you is to ask your advice.
+GU094S074	1	94	14_relative clauses	„‚½‚¿‚ª‰‚ß‚Ä‰ï‚Á‚½“ú‚ğ‚¢‚Â‚àŠo‚¦‚Ä‚¢‚éB	I'll always remember the day we first met.		
+GU094S075	1	94	14_relative clauses	2009”N‚ÍƒWƒƒƒbƒN‚ÆƒwƒŒƒ“‚ªŒ‹¥‚µ‚½”N‚¾B	2009 was the year Jack and Helen got married.		
+GU094S076	1	94	14_relative clauses	”Ş—‚ªd–‚ğ«‚ß‚½——R‚ğ’m‚Á‚Ä‚¢‚é‚©H‹‹—¿‚ª’á‚·‚¬‚½‚Ì‚©H	Do you know the reason she left her job? Was the salary too low?		
+GU094S077	1	94	14_relative clauses	ƒGƒŒƒx[ƒ^[‚É•Â‚¶‚ß‚ç‚ê‚½‚Æ‚«‚Ì‚±‚Æ‚Í–Y‚ê‚ç‚ê‚È‚¢B‚»‚ê‚Í‚Ğ‚Ç‚©‚Á‚½B	I'll never forget the time I got stuck in a lift. It was horrible.		
+GU094S078	1	94	14_relative clauses	ÅŒã‚É–{‚ğ“Ç‚ñ‚¾‚Ì‚Í‚¢‚Â‚¾‚Á‚½‚©Šo‚¦‚Ä‚¢‚È‚¢B‚»‚ê‚Í‚¸‚Á‚Æ‘O‚Ì‚±‚Æ‚¾‚Á‚½B	I can't remember the last time I read a book. It was a long time ago.		
+GU094S079	1	94	14_relative clauses	‚Ç‚¿‚ç‚à‰^“]‚Å‚«‚È‚¢B‚»‚ê‚ª”Ş‚ç‚ªÔ‚ğ‚Á‚Ä‚¢‚È‚¢——R‚¾B	Neither of them can drive. That's the reason they don't have a car.		
+GU095S001	1	95	14_relative clauses	—×‚ÉZ‚ñ‚Å‚¢‚é—«‚ÍˆãÒ‚¾B	The woman who lives next door is a doctor.		
+GU095S002	1	95	14_relative clauses	ƒOƒŒ[ƒX‚Í‰Æ‹ï‚ğì‚é‰ïĞ‚Å“­‚¢‚Ä‚¢‚éB	Grace works for a company that makes furniture.		
+GU095S003	1	95	14_relative clauses	„‚½‚¿‚Í‚ ‚È‚½‚ªŠ©‚ß‚½ƒzƒeƒ‹‚É”‘‚Ü‚Á‚½B	We stayed at the hotel you recommended.		
+GU095S004	1	95	14_relative clauses	„‚ÌŒZ‚Ìƒxƒ“‚Í`‚ÉZ‚ñ‚Å‚¢‚ÄAŒš’z‰Æ‚¾B	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S005	1	95	14_relative clauses	ƒAƒ“ƒi‚Í”Ş—‚ÌV‚µ‚¢d–‚É‚Â‚¢‚Ä„‚É˜b‚µ‚Ä‚­‚ê‚½B”Ş—‚Í‚»‚ê‚ğ‚Æ‚Ä‚àŠy‚µ‚ñ‚Å‚¢‚éB	"Anna told me about her new job, which she's enjoying a lot."		
+GU095S006	1	95	14_relative clauses	„‚½‚¿‚Í—Fl‚ªŠ©‚ß‚½ƒp[ƒNƒzƒeƒ‹‚É”‘‚Ü‚Á‚½B	"We stayed at the Park Hotel, which a friend of ours recommended."		
+GU095S007	1	95	14_relative clauses	„‚ÌŒZ‚Ìƒxƒ“‚Í`‚ÉZ‚ñ‚Å‚¢‚ÄAŒš’z‰Æ‚¾B	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S008	1	95	14_relative clauses	„‚Ì•ƒ‚Í‹³t‚¾‚Á‚½‚ªA¡‚Íˆø‘Ş‚µ‚Ä‚¢‚éB	"My father, who was a teacher, is now retired."		
+GU095S009	1	95	14_relative clauses	„‚ÌÔ‚Í10”NŠÔŠ—L‚µ‚Ä‚¢‚é‚ªAŒÌá‚µ‚½‚±‚Æ‚ª‚È‚¢B	"My car, which I've had for ten years, has never broken down."		
+GU095S010	1	95	14_relative clauses	„‚ÍˆãÒ‚És‚Á‚½B”Ş‚Í„‚ÉH–‚ğ•Ï‚¦‚é‚æ‚¤‚ÉŠ©‚ß‚½B	"I went to see the doctor, who advised me to change my diet."		
+GU095S011	1	95	14_relative clauses	"V‚µ‚¢ƒXƒ^ƒWƒAƒ€‚Í—ˆŒŠ®¬‚µA90,000l‚ÌŠÏ‹q‚ğû—e‚·‚éB"	"The new stadium, which will be finished next month, will hold 90,000 spectators."		
+GU095S012	1	95	14_relative clauses	„‚½‚¿‚Í‚æ‚­ƒƒ“ƒhƒ“‚©‚ç‰“‚­‚È‚¢ƒPƒ“ƒuƒŠƒbƒW‚Ì—Fl‚ğ–K‚Ë‚éB	"We often go to visit our friends in Cambridge, which is not far from London."		
+GU095S013	1	95	14_relative clauses	ƒWƒ‡[‚Í‹@Œ™‚ªˆ«‚©‚Á‚½‚Ì‚ÅAƒp[ƒeƒB[‚ğŠy‚µ‚ß‚È‚©‚Á‚½B	"Joe, who was in a bad mood, didn't enjoy the party."		
+GU095S014	1	95	14_relative clauses	„‚Ìƒzƒeƒ‹‚Ì•”‰®‚Í20ŠK‚É‚ ‚èAŠX‚Ì—Ç‚¢’­‚ß‚ª‚ ‚Á‚½B	"I had a good view of the city from my hotel room, which was on the twentieth floor."		
+GU095S015	1	95	14_relative clauses	ƒs[ƒ^[‚ÆƒGƒ~ƒŠ[‚É‚ÍƒGƒCƒ~[‚Æ‚¢‚¤–º‚ª‚¢‚ÄA”Ş—‚ÍŠwZ‚É’Ê‚¢n‚ß‚½‚Î‚©‚è‚¾B	"Peter and Emily have a daughter, Amy, who has just started school."		
+GU095S016	1	95	14_relative clauses	‘¾—z‚Í‰F’ˆ‚Ì”•S–œ‚Ì¯‚Ìˆê‚Â‚Å‚ ‚èA„‚½‚¿‚É”M‚ÆŒõ‚ğ’ñ‹Ÿ‚µ‚Ä‚¢‚éB	"The sun, which is one of millions of stars in the universe, provides us with heat and light."		
+GU095S017	1	95	14_relative clauses	—×‚ÉZ‚ñ‚Å‚¢‚é—«‚ÍˆãÒ‚¾B	The woman that lives next door is a doctor.		
+GU095S018	1	95	14_relative clauses	ƒOƒŒ[ƒX‚Í‰Æ‹ï‚ğì‚é‰ïĞ‚Å“­‚¢‚Ä‚¢‚éB	Grace works for a company that makes furniture.		
+GU095S019	1	95	14_relative clauses	„‚ÌŒZ‚Ìƒxƒ“‚Í`‚ÉZ‚ñ‚Å‚¢‚ÄAŒš’z‰Æ‚¾B	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S020	1	95	14_relative clauses	ƒAƒ“ƒi‚Í”Ş—‚ÌV‚µ‚¢d–‚É‚Â‚¢‚Ä„‚É˜b‚µ‚Ä‚­‚ê‚½B”Ş—‚Í‚»‚ê‚ğ‚Æ‚Ä‚àŠy‚µ‚ñ‚Å‚¢‚éB	"Anna told me about her new job, which she's enjoying a lot."		
+GU095S021	1	95	14_relative clauses	„‚½‚¿‚Í‚ ‚È‚½‚ªŠ©‚ß‚½ƒzƒeƒ‹‚É”‘‚Ü‚Á‚½B	We stayed at the hotel (that) you recommended.		
+GU095S022	1	95	14_relative clauses	„‚½‚¿‚Í—Fl‚ªŠ©‚ß‚½ƒp[ƒNƒzƒeƒ‹‚É”‘‚Ü‚Á‚½B	"We stayed at the Park Hotel, which a friend of ours recommended."		
+GU095S023	1	95	14_relative clauses	¡’©„‚ÍƒNƒŠƒX‚É‰ï‚Á‚½B”Ş‚Æ‚Í’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚È‚©‚Á‚½B	"This morning I met Chris, who I hadn't seen for ages."	"This morning I met Chris, whom I hadn't seen for ages."	
+GU095S024	1	95	14_relative clauses	„‚ÌƒIƒtƒBƒX‚Í2ŠK‚É‚ ‚èA‚Æ‚Ä‚à¬‚³‚¢B	"My office, which is on the second floor, is very small."		
+GU095S025	1	95	14_relative clauses	„‚ª¡g‚Á‚Ä‚¢‚éƒIƒtƒBƒX‚Í‚Æ‚Ä‚à¬‚³‚¢B	The office that I'm using at the moment is very small.		
+GU095S026	1	95	14_relative clauses	„‚ª¡g‚Á‚Ä‚¢‚éƒIƒtƒBƒX‚Í‚Æ‚Ä‚à¬‚³‚¢B	The office which I'm using at the moment is very small.		
+GU095S027	1	95	14_relative clauses	„‚ª¡g‚Á‚Ä‚¢‚éƒIƒtƒBƒX‚Í‚Æ‚Ä‚à¬‚³‚¢B	The office I'm using at the moment is very small.		
+GU095S028	1	95	14_relative clauses	ƒTƒ‰‚Ì•ƒ‚Í‚©‚Â‚ÄŒR‚É‚¢‚ÄA¡‚ÍƒeƒŒƒr‰ïĞ‚Å“­‚¢‚Ä‚¢‚éB	"Sarah's father, who used to be in the army, now works for a TV company."		
+GU095S029	1	95	14_relative clauses	„‚ğf@‚µ‚½ˆãÒ‚Í‰½‚àˆÙí‚ğŒ©‚Â‚¯‚ç‚ê‚È‚©‚Á‚½B	The doctor that examined me couldn't find anything wrong.		
+GU095S030	1	95	14_relative clauses	„‚ğf@‚µ‚½ˆãÒ‚Í‰½‚àˆÙí‚ğŒ©‚Â‚¯‚ç‚ê‚È‚©‚Á‚½B	The doctor who examined me couldn't find anything wrong.		
+GU095S031	1	95	14_relative clauses	„‚½‚¿‚Í‹ó`‚Ü‚ÅÔ‚Ås‚Á‚½B‚»‚ê‚ÍŠX‚©‚ç5ƒ}ƒCƒ‹‚Ì‚Æ‚±‚ë‚É‚ ‚Á‚½B	"We drove to the airport, which was five miles from the city."		
+GU095S032	1	95	14_relative clauses	ƒGƒCƒ~[‚ÍŒx@Š¯‚Å‚ ‚é‘§q‚ÌÊ^‚ğ„‚ÉŒ©‚¹‚Ä‚­‚ê‚½B	"Amy showed me a picture of her son, who is a police officer."		
+GU095S033	1	95	14_relative clauses	‚ ‚È‚½‚ª’T‚µ‚Ä‚¢‚½–{‚ğŒ©‚Â‚¯‚½‚©H	Did you find the books you were looking for?		
+GU095S034	1	95	14_relative clauses	‚ ‚È‚½‚ª’T‚µ‚Ä‚¢‚½–{‚ğŒ©‚Â‚¯‚½‚©H	Did you find the books that you were looking for?		
+GU095S035	1	95	14_relative clauses	‚ ‚È‚½‚ª’T‚µ‚Ä‚¢‚½–{‚ğŒ©‚Â‚¯‚½‚©H	Did you find the books which you were looking for?		
+GU095S036	1	95	14_relative clauses	ƒWƒ‡ƒ“‚Íƒtƒ‰ƒ“ƒXŒê‚ÆƒCƒ^ƒŠƒAŒê‚ğ˜b‚µAƒcƒA[ƒKƒCƒh‚Æ‚µ‚Ä“­‚¢‚Ä‚¢‚éB	"John, who speaks French and Italian, works as a tour guide."		
+GU095S037	1	95	14_relative clauses	ƒWƒ‡ƒ“‚Íƒtƒ‰ƒ“ƒXŒê‚ÆƒCƒ^ƒŠƒAŒê‚ğ˜b‚µAƒcƒA[ƒKƒCƒh‚Æ‚µ‚Ä“­‚¢‚Ä‚¢‚éB	"John speaks French and Italian, and works as a tour guide."		
+GU095S038	1	95	14_relative clauses	ƒtƒ‰ƒ“ƒXŒê‚ÆƒCƒ^ƒŠƒAŒê‚ğ˜b‚·l‚ğ’m‚Á‚Ä‚¢‚é‚©H	Do you know anyone who speaks French and Italian?		
+GU095S039	1	95	14_relative clauses	ƒtƒ‰ƒ“ƒXŒê‚ÆƒCƒ^ƒŠƒAŒê‚ğ˜b‚·l‚ğ’m‚Á‚Ä‚¢‚é‚©H	Do you know anyone that speaks French and Italian?		
+GU095S040	1	95	14_relative clauses	ƒPƒCƒg‚Ì•v‚Íq‹óƒpƒCƒƒbƒg‚¾‚ªA„‚Í”Ş‚É‰ï‚Á‚½‚±‚Æ‚ª‚È‚¢B	"Kate's husband, who I've never met, is an airline pilot."		
+GU095S041	1	95	14_relative clauses	ƒPƒCƒg‚Ì•v‚Íq‹óƒpƒCƒƒbƒg‚¾‚ªA„‚Í”Ş‚É‰ï‚Á‚½‚±‚Æ‚ª‚È‚¢B	"Kate's husband, whom I've never met, is an airline pilot."		
+GU095S042	1	95	14_relative clauses	„‚½‚¿‚ÍÔ‚ªŒÌá‚µ‚½lX‚ğ•‚¯‚½B	We helped some people whose car had broken down.		
+GU095S043	1	95	14_relative clauses	‚ ‚È‚½‚ª‹x‰É‚ğ‰ß‚²‚µ‚½êŠ‚Ì–¼‘O‚Í‰½‚©H	What's the name of the place where you went on holiday?		
+GU095S044	1	95	14_relative clauses	ƒŠƒT‚ÍÔ‚ªŒÌá‚µ‚Ä‚¢‚½‚Ì‚ÅA”ñí‚Éˆ«‚¢‹C•ª‚¾‚Á‚½B	"Lisa, whose car had broken down, was in a very bad mood."		
+GU095S045	1	95	14_relative clauses	ƒPƒCƒg‚Í–º‚ªZ‚ñ‚Å‚¢‚éƒXƒEƒF[ƒfƒ“‚És‚Á‚Ä‚«‚½‚Î‚©‚è‚¾B	"Kate has just been to Sweden, where her daughter lives."		
+GU095S046	1	95	14_relative clauses	ƒŠƒT‚Í‚½‚­‚³‚ñ‚Ì—·s‚ğ”º‚¤d–‚ğ‚µ‚Ä‚¢‚é‚Ì‚ÅA‰Æ‚É‚¢‚È‚¢‚±‚Æ‚ª‘½‚¢B	"Lisa, whose job involves a lot of travelling, is away from home a lot."		
+GU095S047	1	95	14_relative clauses	„‚ÌŒZ‚ÍƒAƒ‰ƒXƒJ‚ÉZ‚ñ‚Å‚¢‚éB‚»‚ê‚ÍƒAƒƒŠƒJ‚ÅÅ‘å‚ÌB‚¾B	"My brother lives in Alaska, which is the largest state in the U.S."		
+GU095S048	1	95	14_relative clauses	‰ï‹c‚É‚Í‚İ‚ñ‚ÈŠÔ’Ê‚è‚É—ˆ‚½‚ªA‚¢‚Â‚à’x‚·‚éƒ_ƒ“‚¾‚¯‚ª’x‚ê‚½B	"Everybody was on time for the meeting except Dan, who is always late."		
+GU095S049	1	95	14_relative clauses	„‚½‚¿‚Ì‹x‰É‚Í“V‹C‚ğœ‚¢‚Ä—Ç‚©‚Á‚½B‚»‚ê‚Í‚Ğ‚Ç‚©‚Á‚½B	"Our holiday was OK except for the weather, which was horrible."		
+GU095S050	1	95	14_relative clauses	„‚½‚¿‚Í”•¨ŠÙ‚ğ–K‚êA‘½‚­‚Ì‹»–¡[‚¢‚à‚Ì‚ğŒ©‚½B	"We enjoyed our visit to the museum, where we saw lots of interesting things."		
+GU095S051	1	95	14_relative clauses	ƒXƒeƒB[ƒuƒ“‚Íˆê“ú’†‰½‚àH‚×‚Ä‚¢‚È‚©‚Á‚½‚Ì‚ÅA‚Æ‚Ä‚à‚¨• ‚ª‹ó‚¢‚Ä‚¢‚½B	"Steven, who hadn't eaten all day, was very hungry."		
+GU095S052	1	95	14_relative clauses	„‚½‚¿‚Ìæ¶‚Ì–¼‘O‚Í–Y‚ê‚Ä‚µ‚Ü‚Á‚½‚ªA”Ş‚Í„‚½‚¿‚É‚Æ‚Ä‚àeØ‚¾‚Á‚½B	"Our teacher, whose name I have forgotten, was very kind to us."		
+GU095S053	1	95	14_relative clauses	„‚½‚¿‚Íƒjƒ…[ƒˆ[ƒN‚ÅˆêTŠÔ‚ğ‰ß‚²‚µA‘f°‚ç‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚½B	"We spent a week in New York, where we had a wonderful time."		
+GU096S001	1	96	14_relative clauses	ƒŠ[‚Í„‚ª‰ï‹c‚Å˜b‚µ‚½l‚ÅA„‚½‚¿‚Ì’ñˆÄ‚É‹»–¡‚ğ‚Á‚Ä‚¢‚éB	"Mr Lee, to whom I spoke at the meeting, is interested in our proposal."		
+GU096S002	1	96	14_relative clauses	‘½‚­‚ÌŠÏŒõ‹q‚ª‚»‚Ì’¬‚Ìé‚ğŒ©‚é‚½‚ß‚É–K‚ê‚éB‚»‚ê‚ª‚»‚Ì’¬‚Ì–¼•¨‚¾B	"Many tourists visit the town to see its castle, for which it is famous."		
+GU096S003	1	96	14_relative clauses	ƒŠ[‚Í„‚ª‰ï‹c‚Å˜b‚µ‚½l‚ÅA„‚½‚¿‚Ì’ñˆÄ‚É‹»–¡‚ğ‚Á‚Ä‚¢‚éB	"Mr Lee, who I spoke to at the meeting, is interested in our proposal."		
+GU096S004	1	96	14_relative clauses	‘½‚­‚ÌŠÏŒõ‹q‚ª‚»‚Ì’¬‚Ìé‚ğŒ©‚é‚½‚ß‚É–K‚ê‚éB‚»‚ê‚ª‚»‚Ì’¬‚Ì–¼•¨‚¾B	"Many tourists visit the town to see its castle, which it is famous for."		
+GU096S005	1	96	14_relative clauses	ğ–é’x‚­‚É‹N‚«‚½–ŒÌ‚Å“ñl‚ª•‰‚µ‚½B	"The accident, in which two people were injured, happened late last night."		
+GU096S006	1	96	14_relative clauses	„‚Íãi‚ÆƒIƒtƒBƒX‚ğ‹¤—L‚µ‚Ä‚¨‚èA”Ş‚Æ‚Í”ñí‚É—ÇD‚ÈŠÖŒW‚¾B	"I share an office with my boss, with whom I get on really well."		
+GU096S007	1	96	14_relative clauses	‰Æ‘°‚¾‚¯‚ªµ‘Ò‚³‚ê‚½Œ‹¥®‚Í‘f°‚ç‚µ‚¢‚à‚Ì‚Å‚ ‚Á‚½B	"The wedding, to which only family members were invited, was a lovely occasion."		
+GU096S008	1	96	14_relative clauses	K‚¢‚É‚à—Ç‚¢’n}‚ğ‚Á‚Ä‚¢‚½B‚»‚ê‚ª‚È‚¯‚ê‚Î–À‚Á‚Ä‚¢‚½‚¾‚ë‚¤B	"Fortunately, we had a good map, without which we would have got lost."		
+GU096S009	1	96	14_relative clauses	ƒTƒ‰‚Í‘§q‚ÌÊ^‚ğŒ©‚¹‚Ä‚­‚ê‚½B”Ş—‚Í‘§q‚ğ”ñí‚ÉŒÖ‚è‚Év‚Á‚Ä‚¢‚éB	"Sarah showed us a picture of her son, of whom she's very proud."		
+GU096S010	1	96	14_relative clauses	ƒ[ƒ‰‚Í”ñí‚É‘f“G‚ÈŠv‚ÌƒoƒbƒO‚ğ”ƒ‚Á‚½B‚»‚ê‚É20ƒ|ƒ“ƒh‚ğ•¥‚Á‚½B	"Laura bought a very nice leather bag, for which she paid twenty pounds."		
+GU096S011	1	96	14_relative clauses	ƒwƒŒƒ“‚É‚ÍOl‚ÌŒZ’í‚ª‚¨‚èA‘Sˆõ‚ªŒ‹¥‚µ‚Ä‚¢‚éB	"Helen has three brothers, all of whom are married."		
+GU096S012	1	96	14_relative clauses	”Ş‚ç‚Í„‚É‘½‚­‚Ì¿–â‚ğ‚µ‚½‚ªA‚»‚Ì‚Ù‚Æ‚ñ‚Ç‚É“š‚¦‚ç‚ê‚È‚©‚Á‚½B	"They asked me a lot of questions, most of which I couldn't answer."		
+GU096S013	1	96	14_relative clauses	ƒ}[ƒeƒBƒ“‚ÍO’…‚ÌƒWƒƒƒPƒbƒg‚ğ’…‚µ‚½‚ªA‚Ç‚ê‚à”Ş‚É‡‚í‚È‚©‚Á‚½B	"Martin tried on three jackets, none of which fitted him."		
+GU096S014	1	96	14_relative clauses	„‚ÍˆÈ‘OŒ©‚½‚±‚Æ‚Ì‚È‚¢“ñl‚Ì’j‚ªƒIƒtƒBƒX‚É“ü‚Á‚Ä‚«‚½B	"Two men, neither of whom I had seen before, came into the office."		
+GU096S015	1	96	14_relative clauses	ƒX[‚É‚Í‘½‚­‚Ì—Fl‚ª‚¢‚éB‘½‚­‚Ì—Fl‚Æ‚ÍŠwZ‚Åˆê‚¾‚Á‚½B	"Sue has a lot of friends, many of whom she was at school with."		
+GU096S016	1	96	14_relative clauses	‚»‚Ì‰Æ‚Í‰Î–‚Å‘¹‚ğó‚¯‚½‚ªA‚»‚ÌŒ´ˆö‚Í–¾‚ç‚©‚É‚³‚ê‚È‚©‚Á‚½B	"The house was damaged in a fire, the cause of which was never established."		
+GU096S017	1	96	14_relative clauses	‚ ‚È‚½‚ª—^‚¦‚ç‚ê‚½î•ñ‚Í‚ ‚Ü‚è–ğ‚É—§‚½‚È‚©‚Á‚½B	The information you were given wasn't very helpful.		
+GU096S018	1	96	14_relative clauses	„‚½‚¿‚Í‘½‚­‚Ìî•ñ‚ğ—^‚¦‚ç‚ê‚½‚ªA‚»‚Ì‚Ù‚Æ‚ñ‚Ç‚Í–ğ‚É—§‚½‚È‚©‚Á‚½B	"We were given a lot of information, most of which was useless."		
+GU096S019	1	96	14_relative clauses	d–‚É‰•å‚µ‚½’N‚à‚ª¬Œ÷‚µ‚È‚©‚Á‚½B	No-one who applied for the job was successful.		
+GU096S020	1	96	14_relative clauses	d–‚É‰•å‚µ‚½\l‚Ì’†‚ÅA’Nˆêl‚Æ‚µ‚Ä“K‚µ‚Ä‚¢‚È‚©‚Á‚½B	"Ten people applied for the job, none of whom was suitable."		
+GU096S021	1	96	14_relative clauses	ƒWƒ…ƒŠƒA‚Ìo–…‚Í“ñl‚Æ‚à•ÙŒìm‚¾B	Both of Julia's sisters are lawyers.		
+GU096S022	1	96	14_relative clauses	ƒWƒ…ƒŠƒA‚É‚Í“ñl‚Ìo–…‚ª‚¨‚èA“ñl‚Æ‚à•ÙŒìm‚¾B	"Julia has two sisters, both of whom are lawyers."		
+GU096S023	1	96	14_relative clauses	‚ ‚È‚½‚Ì—×l‚Í“ñ‘ä‚ÌÔ‚ğ‚Á‚Ä‚¢‚é‚ªAˆê‘ä‚µ‚©g‚í‚È‚¢B	"Your neighbours have two cars, but they only use one."		
+GU096S024	1	96	14_relative clauses	”Ş‚ç‚Í“ñ‘ä‚ÌÔ‚ğ‚Á‚Ä‚¢‚é‚ªA‚»‚Ì‚¤‚¿ˆê‘ä‚Í‘S‚­g‚Á‚Ä‚¢‚È‚¢B	"They have two cars, one of which they never use."		
+GU096S025	1	96	14_relative clauses	ƒWƒF[ƒ“‚Í‚ ‚È‚½‚ª‘—‚Á‚½‚Ç‚¿‚ç‚Ìƒ[ƒ‹‚É‚à•ÔM‚µ‚È‚©‚Á‚½B	Jane didn't reply to either of the emails you sent her.		
+GU096S026	1	96	14_relative clauses	„‚ÍƒWƒF[ƒ“‚É“ñ’Ê‚Ìƒ[ƒ‹‚ğ‘—‚Á‚½‚ªA‚Ç‚¿‚ç‚É‚à•ÔM‚µ‚È‚©‚Á‚½B	"I sent Jane two emails, neither of which she replied to."		
+GU096S027	1	96	14_relative clauses	ƒ}ƒCƒN‚Í‘½‚­‚Ì‚¨‹à‚ğŠl“¾‚µ‚½B”Ş‚Íe‚É‘Î‚µ‚ÄŠ°‘å‚¾‚Á‚½B	Mike won a lot of money. He was generous to his parents.		
+GU096S028	1	96	14_relative clauses	ƒ}ƒCƒN‚Í10–œƒ|ƒ“ƒh‚ğŠl“¾‚µA‚»‚Ì”¼•ª‚ğe‚É—^‚¦‚½B	"Mike won 100,000 pounds, half of which he gave to his parents."		
+GU096S029	1	96	14_relative clauses	‚»‚ê‚Í‘f°‚ç‚µ‚¢“¹‚¾‚Á‚½B—¼‘¤‚É–Ø‚ª•À‚ñ‚Å‚¢‚½B	It was a nice road. There were trees all along the sides.		
+GU096S030	1	96	14_relative clauses	„‚½‚¿‚Í—¼‘¤‚É–Ø‚ª•À‚ñ‚¾“¹‚ğÔ‚Å‘–‚Á‚½B	"We drove along a road, the sides of which were lined with trees."		
+GU096S031	1	96	14_relative clauses	‚ ‚È‚½‚Íğ”N‚Ì‹x‰É’†‚Éƒzƒeƒ‹‚É”‘‚Ü‚Á‚½B	You stayed in a hotel when you were on holiday last year.		
+GU096S032	1	96	14_relative clauses	„‚½‚¿‚Í”ñí‚É‘f°‚ç‚µ‚¢ƒzƒeƒ‹‚É”‘‚Ü‚Á‚½‚ªA‚»‚Ì–¼‘O‚ğv‚¢o‚¹‚È‚¢B	"We stayed at a very nice hotel, the name of which I can't remember."		
+GU096S033	1	96	14_relative clauses	‰ïĞ‚Íxo‚ğŒ¸‚ç‚·•K—v‚ª‚ ‚éB	The company needs to spend less money.		
+GU096S034	1	96	14_relative clauses	‰ïĞ‚É‚ÍV‚µ‚¢ƒrƒWƒlƒXƒvƒ‰ƒ“‚ª‚ ‚èA‚»‚Ì–Ú“I‚Í‚¨‹à‚ğß–ñ‚·‚é‚±‚Æ‚¾B	"The company has a new business plan, the aim of which is to save money."		
+GU096S035	1	96	14_relative clauses	ƒAƒŒƒbƒNƒX‚ÍŒ±‚É‡Ši‚µ‚½B‚»‚ê‚Í—Ç‚¢’m‚ç‚¹‚¾B	"Alex has passed his exams, which is good news."		
+GU096S036	1	96	14_relative clauses	„‚½‚¿‚ÌÔ‚ªŒÌá‚µ‚½B‚»‚ê‚Í–¾“úo‚©‚¯‚ç‚ê‚È‚¢‚±‚Æ‚ğˆÓ–¡‚·‚éB	"Our car has broken down, which means we can't go away tomorrow."		
+GU096S037	1	96	14_relative clauses	ƒWƒF[ƒ“‚Í“d˜b‚ğ‚Á‚Ä‚¢‚È‚¢B‚»‚ê‚Í”Ş—‚Æ˜A—‚ğæ‚é‚Ì‚ª“ï‚µ‚¢‚±‚Æ‚ğˆÓ–¡‚·‚éB	"Jane doesn't have a phone, which makes it hard to contact her."		
+GU096S038	1	96	14_relative clauses	ƒPƒCƒg‚Í„‚ğ”Ş—‚Ì‰Æ‚É”‘‚ß‚Ä‚­‚ê‚½B‚»‚ê‚Í”ñí‚ÉeØ‚¾‚Á‚½B	"Kate let me stay at her house, which was very kind of her."		
+GU096S039	1	96	14_relative clauses	„‚ªZ‚ñ‚Å‚¢‚é’Ê‚è‚Í–é‚É‘›‚ª‚µ‚­A‚»‚ê‚ª–°‚è‚É‚­‚­‚µ‚Ä‚¢‚éB	"The street I live in is noisy at night, which makes it difficult to sleep."		
+GU096S040	1	96	14_relative clauses	ƒ[ƒ‰‚Í20•ª’x‚ê‚½B‚»‚ê‚É‘Î‚µ‚Ä”Ş—‚ÍÓß‚µ‚½B	"Laura was twenty minutes late, which she apologised for."		
+GU097S001	1	97	14_relative clauses	ƒgƒ€‚Æ˜b‚µ‚Ä‚¢‚é—«‚Í’N‚©H	Who is the woman talking to Tom?		
+GU097S002	1	97	14_relative clauses	„‚Íƒxƒ‹‚Ì‰¹‚Å–Ú‚ªŠo‚ß‚½B	I was woken up by a bell ringing.		
+GU097S003	1	97	14_relative clauses	”Æß‚ğ’²¸‚µ‚Ä‚¢‚éŒx@‚ÍOl‚Ì’j«‚ğ’T‚µ‚Ä‚¢‚éB	Police investigating the crime are looking for three men.		
+GU097S004	1	97	14_relative clauses	T‚Ån‚Ü‚é‰Ô‚Ì–¼‘O‚ğv‚¢‚Â‚¯‚é‚©H	Can you think of the name of a flower beginning with T?		
+GU097S005	1	97	14_relative clauses	‹ó`‚É˜A‚ê‚Äs‚Á‚Ä‚­‚ê‚éƒ^ƒNƒV[‚ªŒÌá‚µ‚½B	The taxi taking us to the airport broke down.		
+GU097S006	1	97	14_relative clauses	“ñ‚Â‚Ì‘º‚ğ‚Â‚È‚®“¹‚Í‚Æ‚Ä‚à‹·‚¢B	The road connecting the two villages is very narrow.		
+GU097S007	1	97	14_relative clauses	ƒzƒeƒ‹‚Í¬‚ñ‚Å‚¢‚È‚©‚Á‚½B‚»‚±‚É”‘‚Ü‚Á‚Ä‚¢‚½‚Ì‚Í„‚½‚¿‚¾‚¯‚¾‚Á‚½B	The hotel wasn't busy. We were the only people staying there.		
+GU097S008	1	97	14_relative clauses	500l‚ğŒÙ—p‚·‚éHê‚ª’¬‚ÉV‚µ‚­ƒI[ƒvƒ“‚µ‚½B	A factory employing 500 people has just opened in the town.		
+GU097S009	1	97	14_relative clauses	‰ïĞ‚Í„‚É•K—v‚Èî•ñ‚ªÚ‚Á‚Ä‚¢‚éƒpƒ“ƒtƒŒƒbƒg‚ğ‘—‚Á‚Ä‚«‚½B	The company sent me a brochure containing the information I needed.		
+GU097S010	1	97	14_relative clauses	„‚Í“ñŠK‚É’ë‚ğŒ©“n‚·‘å‚«‚È•”‰®‚ª‚ ‚éB	I have a large room on the second floor overlooking the garden.		
+GU097S011	1	97	14_relative clauses	”òs‹@‚Å„‚Ì—×‚ÉÀ‚Á‚Ä‚¢‚½’j«‚Í‚Ù‚Æ‚ñ‚Ç‚ÌŠÔQ‚Ä‚¢‚½B	The man sitting next to me on the plane was asleep most of the time.		
+GU097S012	1	97	14_relative clauses	ƒwƒŒƒ“‚Íƒr[ƒ`‚Å—V‚Ô”Ş—‚Ìq‹Ÿ‚½‚¿‚ÌÊ^‚ğŒ©‚¹‚Ä‚­‚ê‚½B	Helen showed us a picture of her children playing on the beach.		
+GU097S013	1	97	14_relative clauses	–ŒÌ‚Å‰ö‰ä‚ğ‚µ‚½­”N‚Í•a‰@‚É‰^‚Î‚ê‚½B	The boy injured in the accident was taken to hospital.		
+GU097S014	1	97	14_relative clauses	ƒWƒ‡[ƒW‚Í”Ş‚Ì•ƒe‚ª•`‚¢‚½ŠG‚ğ‚¢‚­‚Â‚©Œ©‚¹‚Ä‚­‚ê‚½B	George showed me some pictures painted by his father.		
+GU097S015	1	97	14_relative clauses	‹­“‚Åg‚í‚ê‚½e‚ªŒ©‚Â‚©‚Á‚½B	The gun used in the robbery has been found.		
+GU097S016	1	97	14_relative clauses	Œx@‚Í‹­“‚Å“‚Ü‚ê‚½‚¨‹à‚ğŒ©‚Â‚¯‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B	The police never found the money stolen in the robbery.		
+GU097S017	1	97	14_relative clauses	—’‚Å‘¹‚µ‚½–å‚Í¡C—‚³‚ê‚½B	The gate damaged in the storm has now been repaired.		
+GU097S018	1	97	14_relative clauses	”üpŠÙ‚©‚ç“‚Ü‚ê‚½ŠG‰æ‚Í‚Ü‚¾Œ©‚Â‚©‚Á‚Ä‚¢‚È‚¢B	The paintings stolen from the museum still haven't been found.		
+GU097S019	1	97	14_relative clauses	‚±‚ÌHê‚Å¶Y‚³‚ê‚½¤•i‚Ì‚Ù‚Æ‚ñ‚Ç‚Í—Ao‚³‚ê‚Ä‚¢‚éB	Most of the goods produced in this factory are exported.		
+GU097S020	1	97	14_relative clauses	”Æß‚ğ”Æ‚µ‚½‚Æ”ñ“ï‚³‚ê‚Ä‚¢‚é‘½‚­‚ÌlX‚ÍÀÛ‚É‚Í–³À‚¾B	Many people accused of committing crimes are in fact innocent.		
+GU097S021	1	97	14_relative clauses	„‚½‚¿‚Ì—Fl‚Í–ØX‚ÉˆÍ‚Ü‚ê‚½”ü‚µ‚¢‰Æ‚ÉZ‚ñ‚Å‚¢‚éB	Our friends live in a beautiful house surrounded by trees.		
+GU097S022	1	97	14_relative clauses	ƒvƒƒWƒFƒNƒg‚ÉŠÖ‚í‚Á‚½‚·‚×‚Ä‚Ìl‚ª”ñí‚É‚æ‚­“­‚¢‚½‚Æv‚¤B	I think everybody involved in the project worked very well.		
+GU097S023	1	97	14_relative clauses	ƒp[ƒeƒB[‚Éµ‘Ò‚³‚ê‚½l‚Ì’†‚É‚Í—ˆ‚ç‚ê‚È‚¢l‚à‚¢‚éB	Some of the people invited (invite) to the party can't come.		
+GU097S024	1	97	14_relative clauses	–Z‚µ‚¢‹ó`‚Ì‹ß‚­‚ÉZ‚ŞlX‚É‚Æ‚Á‚Ä¶Šˆ‚Í•s–ù‰õ‚Éˆá‚¢‚È‚¢B	Life must be unpleasant for people living (live) near busy airports.		
+GU097S025	1	97	14_relative clauses	Œš•¨‚Í“d‹CŒn“‚ÌŒÌá‚ªŒ´ˆö‚Å‹N‚±‚Á‚½‰Î–‚Å‚Ğ‚Ç‚­‘¹‚µ‚½B	The building was badly damaged in a fire caused (cause) by an electrical fault.		
+GU097S026	1	97	14_relative clauses	ƒWƒƒƒbƒN‚ÆŒÄ‚Î‚ê‚é’N‚©‚ª‚ ‚È‚½‚ªŠOo’†‚É“d˜b‚ğ‚©‚¯‚Ä‚«‚½B	Somebody called (call) Jack phoned while you were out.		
+GU097S027	1	97	14_relative clauses	‘Ò‡º‚É‚ÍŠp‚ÉÀ‚Á‚Ä‚¢‚é˜VlˆÈŠO‚Í’N‚à‚¢‚È‚©‚Á‚½B	The waiting room was empty except for an old man sitting (sit) in the corner.		
+GU097S028	1	97	14_relative clauses	ƒCƒAƒ“‚É‚Íƒ}ƒ“ƒ`ƒFƒXƒ^[‚Ì‘åŠw‚ÅŒoÏŠw‚ğ•×‹­‚µ‚Ä‚¢‚éŒZ’í‚ª‚¢‚éB	Ian has a brother studying (study) economics at university in Manchester.		
+GU097S029	1	97	14_relative clauses	—’‚Å“|‚ê‚½–ØX‚ÌÊ^‚ğŒ©‚½‚©H	Did you see the picture of the trees blown (blow) down in the storm?		
+GU097S030	1	97	14_relative clauses	–ÊÚ‚Ì”“úŒãA„‚Íd–‚ğƒIƒtƒ@[‚·‚éƒ[ƒ‹‚ğó‚¯æ‚Á‚½B	"A few days after the interview, I received an email offering (offer) me the job."		
+GU097S031	1	97	14_relative clauses	ì‚Å‰j‚¢‚Å‚¢‚éq‹Ÿ‚½‚¿‚ª‚¢‚½B	There were some children swimming in the river.		
+GU097S032	1	97	14_relative clauses	’N‚©‘Ò‚Á‚Ä‚¢‚él‚Í‚¢‚é‚©H	Is there anybody waiting?		
+GU097S033	1	97	14_relative clauses	‰Æ‚ÌŠO‚É‚Í‘å‚«‚ÈÔ‚¢Ô‚ª’“Ô‚³‚ê‚Ä‚¢‚½B	There was a big red car parked outside the house.		
+GU097S034	1	97	14_relative clauses	ƒ`ƒ‡ƒRƒŒ[ƒg‚Íc‚è­‚È‚¢B„‚½‚¿‚Í‚Ù‚Æ‚ñ‚Ç‘S•”H‚×‚Ä‚µ‚Ü‚Á‚½B	There are only a few chocolates left. We've eaten nearly all of them.		
+GU097S035	1	97	14_relative clauses	‘«‰¹‚ª•·‚±‚¦‚éB’N‚©‚ª—ˆ‚Ä‚¢‚é‚Æv‚¤B	I can hear footsteps. I think there's somebody coming.		
+GU097S036	1	97	14_relative clauses	–ŒÌ‚Í[‚Å‚Í‚È‚©‚Á‚½BK‚¢‚É‚à‰ö‰äl‚Í‚¢‚È‚©‚Á‚½B	"The accident wasn't serious. Fortunately, there was nobody injured."		
+GU097S037	1	97	14_relative clauses	„‚Íˆê”N‘O‚É‚¨‹à‚ğ­‚µŸ‚¿æ‚Á‚½Bc”O‚È‚ª‚çA‚·‚×‚Äg‚Á‚Ä‚µ‚Ü‚¢A¡‚Í‰½‚àc‚Á‚Ä‚¢‚È‚¢B	"I won some money a year ago. Unfortunately, I spent it all and now there's nothing left."		
+GU097S038	1	97	14_relative clauses	‚ ‚Ì‰Æ‚Í‹ó‚¢‚Ä‚¢‚é‚æ‚¤‚ÉŒ©‚¦‚éB’N‚àZ‚ñ‚Å‚¢‚È‚¢‚Æv‚¤B	That house looks empty. I don't think there's anybody living in it.		
+GU097S039	1	97	14_relative clauses	‘åŠw‚Í–éŠÔ‚É‰pŒê‚ÌƒR[ƒX‚ğ’ñ‹Ÿ‚µ‚Ä‚¢‚éBƒR[ƒX‚ğó‚¯‚½‚¢ê‡AŒ—j“ú‚Én‚Ü‚éƒR[ƒX‚ª‚ ‚éB	"The college offers English courses in the evening. If you want to do a course, there's one beginning on Monday."		
+GU097S040	1	97	14_relative clauses	“dÔ‚Í–ˆõ‚¾‚Á‚½B‚»‚ê‚Í‹x“ú‚Å‘½‚­‚Ìl‚ª—·s‚µ‚Ä‚¢‚½B	The train was full. It was a holiday and there were a lot of people travelling.		
+GU097S041	1	97	14_relative clauses	’N‚©‚ª„‚É†Ø‚ê‚ğ“n‚µ‚½B‚»‚ê‚ğŒ©‚½‚ªA‰½‚à‘‚©‚ê‚Ä‚¢‚È‚©‚Á‚½B	"Somebody gave me a piece of paper. I looked at it, but there was nothing written on it."		
+GU097S042	1	97	14_relative clauses	„‚ÍŒ»İAŒ¤CƒR[ƒX‚ğó‚¯‚Ä‚¢‚éB‚»‚ÌƒR[ƒX‚Í—ˆTI—¹‚·‚é‚Ì‚ÅAc‚è‚Í”“ú‚µ‚©‚È‚¢B	"I'm doing a training course at the moment. The course finishes next week, so there are only a few days left."		

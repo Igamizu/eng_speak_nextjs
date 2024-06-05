@@ -5522,3 +5522,327 @@ GU091S044	1	91	13_pronouns and determiners	エイミーはとても人気があ�
 GU091S045	1	91	13_pronouns and determiners	これらの家は最初はすべて同じに見えますが、すべてが少しずつ違います。	"These houses all look the same at first, but every one is slightly different."		
 GU091S046	1	91	13_pronouns and determiners	私はグラスのトレイを落としました。残念ながら、すべてが壊れました。	"I dropped a tray of glasses. Unfortunately, every one broke."		
 GU091S047	1	91	13_pronouns and determiners	学校のことを非常によく覚えています。クラスの全員を覚えています。	I remember school very clearly. I remember everyone in my class.		
+GU092S001	1	92	14_relative clauses	パーティーに来たすべての人がそれを楽しんだ。	Everybody who came to the party enjoyed it.		
+GU092S002	1	92	14_relative clauses	私の隣に住んでいる女性は医者だ。	The woman who lives next door to me is a doctor.		
+GU092S003	1	92	14_relative clauses	私はいつも不平を言う人が嫌いだ。	I don't like people who complain all the time.		
+GU092S004	1	92	14_relative clauses	建築家は建物を設計する人のことだ。	An architect is someone who designs buildings.		
+GU092S005	1	92	14_relative clauses	私の隣に住んでいる女性は医者だ。	The woman that lives next door to me is a doctor.		
+GU092S006	1	92	14_relative clauses	顧客は店で何かを買う人のことだ。	A customer is someone who buys something from a shop.		
+GU092S007	1	92	14_relative clauses	強盗は物を盗むために家に侵入する人のことだ。	A burglar is someone who breaks into a house to steal things.		
+GU092S008	1	92	14_relative clauses	臆病者は勇気のない人のことだ。	A coward is someone who is not brave.		
+GU092S009	1	92	14_relative clauses	無神論者は神を信じない人のことだ。	An atheist is someone who doesn't believe in God.		
+GU092S010	1	92	14_relative clauses	悲観主義者は最悪の事態が起こると予想する人のことだ。	A pessimist is someone who expects the worst to happen.		
+GU092S011	1	92	14_relative clauses	テナントはどこかに住むために家賃を払う人のことだ。	A tenant is someone who pays rent to live somewhere.		
+GU092S012	1	92	14_relative clauses	私は悲しい結末の話が嫌いだ。	I don't like stories that have unhappy endings.	I don't like stories which have unhappy endings.	
+GU092S013	1	92	14_relative clauses	グレースは家具を作る会社で働いている。	Grace works for a company that makes furniture.	Grace works for a company which makes furniture.	
+GU092S014	1	92	14_relative clauses	壊れた機械は今動いている。	The machine that broke down is working again now.	The machine which broke down is working again now.	
+GU092S015	1	92	14_relative clauses	空港行きのバスは30分ごとに運行している。	The bus that goes to the airport runs every half hour.		
+GU092S016	1	92	14_relative clauses	謎とは説明できないもののことだ。	A mystery is something that can't be explained.		
+GU092S017	1	92	14_relative clauses	火事で破壊された建物は今再建された。	The building that was destroyed in the fire has now been rebuilt.		
+GU092S018	1	92	14_relative clauses	地球は生命を維持できる唯一の惑星のようだ。	It seems that Earth is the only planet that can support life.		
+GU092S019	1	92	14_relative clauses	辞書は言葉の意味を教えてくれる本のことだ。	A dictionary is a book that gives you the meaning of words.		
+GU092S020	1	92	14_relative clauses	壁に掛かっていた絵はどうなったのか？	What happened to the pictures that were hanging on the wall?		
+GU092S021	1	92	14_relative clauses	電話をかけてきた人の名前は何だったか？	What was the name of the person who phoned?		
+GU092S022	1	92	14_relative clauses	電話をかけてきた人の名前は何だったか？	What was the name of the person that phoned?		
+GU092S023	1	92	14_relative clauses	冷蔵庫にあったチーズはどこにある？	Where is the cheese which was in the fridge?		
+GU092S024	1	92	14_relative clauses	冷蔵庫にあったチーズはどこにある？	Where is the cheese that was in the fridge?		
+GU092S025	1	92	14_relative clauses	事故を引き起こした運転手は500ポンドの罰金を科せられた。	The driver that caused the accident was fined 500 pounds.		
+GU092S026	1	92	14_relative clauses	事故を引き起こした運転手は500ポンドの罰金を科せられた。	The driver who caused the accident was fined 500 pounds.		
+GU092S027	1	92	14_relative clauses	アレクサンダー・ベルは電話を発明した男だった。	Alexander Bell was the man who invented the telephone.		
+GU092S028	1	92	14_relative clauses	アレクサンダー・ベルは電話を発明した男だった。	Alexander Bell was the man that invented the telephone.		
+GU092S029	1	92	14_relative clauses	パリを流れる川の名前は何か？	What's the name of the river that flows through Paris?		
+GU092S030	1	92	14_relative clauses	パリを流れる川の名前は何か？	What's the name of the river which flows through Paris?		
+GU092S031	1	92	14_relative clauses	今朝届いた手紙を見たか？	Did you see the letter that arrived this morning?		
+GU092S032	1	92	14_relative clauses	今朝届いた手紙を見たか？	Did you see the letter which arrived this morning?		
+GU092S033	1	92	14_relative clauses	私の隣に住んでいた男が最近引っ越した。	"A man lived next door to me, but he moved out recently."		
+GU092S034	1	92	14_relative clauses	私の隣に住んでいた男が最近引っ越した。	The man who lived next door to me moved out recently.		
+GU092S035	1	92	14_relative clauses	私は鍵が見つからない。それらはテーブルの上にあった。	I can't find the keys. They were on the table.		
+GU092S036	1	92	14_relative clauses	テーブルの上にあった鍵はどこにある？	Where are the keys that were on the table?		
+GU092S037	1	92	14_relative clauses	レストランで私たちにサービスしてくれたウェイターは無礼でせっかちだった。	The waiter served us in the restaurant was impolite and impatient.		
+GU092S038	1	92	14_relative clauses	三人の男が逮捕されたが、今は釈放された。	"Three men were arrested, but have now been released."		
+GU092S039	1	92	14_relative clauses	道の端にある店はすべてを売っている。	There's a shop at the end of the road sells everything.		
+GU092S040	1	92	14_relative clauses	道の端にある店はすべてを売っている。	There's a shop at the end of the road. sells everything.		
+GU092S041	1	92	14_relative clauses	警察は男を逮捕した。彼らは私の車を盗んだと思っている。	The police have arrested a man. They think stole my car.		
+GU092S042	1	92	14_relative clauses	その映画は家出した少女についての話だ。	The film is about a girl runs away from home.		
+GU092S043	1	92	14_relative clauses	その映画は家出した少女についての話だ。	The film is about a girl. runs away from home.		
+GU092S044	1	92	14_relative clauses	私たちは道端で故障した車を通り過ぎた。	We passed a car had broken down by the side of the road.		
+GU092S045	1	92	14_relative clauses	起こったことは私の責任だった。	What happened was my fault.		
+GU092S046	1	92	14_relative clauses	起こったすべてのことは私の責任だった。	Everything that happened was my fault.		
+GU092S047	1	92	14_relative clauses	私たちは常に変化する世界に住んでいる。	We live in a world is changing all the time.		
+GU092S048	1	92	14_relative clauses	壊れた機械は今動いている。	The machine broke down is now working again.		
+GU092S049	1	92	14_relative clauses	誰が事故を引き起こしたかまだわからない。	We don't yet know caused the accident.		
+GU092S050	1	92	14_relative clauses	ダンは私についていくつかのことを言ったが、それは真実ではなかった。	Dan said some things about me were not true.		
+GU092S051	1	92	14_relative clauses	ゲイリーは起こったことに対して謝罪した。	Gary apologised for happened.		
+GU092S052	1	92	14_relative clauses	レースに勝った馬の名前は何だったか？	What was the name of the horse won the race?		
+GU093S001	1	93	14_relative clauses	私の隣に住んでいる女性は医者だ。	The woman who lives next door to me is a doctor.	The woman that lives next door to me is a doctor.	
+GU093S002	1	93	14_relative clauses	テーブルの上にあった鍵はどこにある？	Where are the keys that were on the table?	Where are the keys which were on the table?	
+GU093S003	1	93	14_relative clauses	夜中に聞こえた音が私を目覚めさせた。	I heard a noise during the night that woke me up.		
+GU093S004	1	93	14_relative clauses	ほとんどの人は満足していた。文句を言ったのは一人だけだった。	Most people were satisfied. There was only one person who complained.		
+GU093S005	1	93	14_relative clauses	歴史は過去に起こったことを学ぶ学問だ。	History is the study of things that happened in the past.		
+GU093S006	1	93	14_relative clauses	私は歯科医だった友人がいる。彼は数年前に引退した。	I have a friend who was a dentist. He retired a couple of years ago.		
+GU093S007	1	93	14_relative clauses	損傷した道路は今修復された。	The road that was damaged has now been repaired.		
+GU093S008	1	93	14_relative clauses	そこが良いホテルだと聞いたが、そこに泊まったことがある人を知らない。	"I've heard it's a good hotel, but I don't know anybody who has stayed there."		
+GU093S009	1	93	14_relative clauses	私が出会った女性は医者だった。	The woman who I met was a doctor.	The woman that I met was a doctor.	
+GU093S010	1	93	14_relative clauses	失くした鍵を見つけたか？	Did you find the keys that you lost?	Did you find the keys which you lost?	
+GU093S011	1	93	14_relative clauses	私が出会った女性は医者だった。	The woman I met was a doctor.	The woman that I met was a doctor.	
+GU093S012	1	93	14_relative clauses	失くした鍵を見つけたか？	Did you find the keys you lost?	Did you find the keys that you lost?	
+GU093S013	1	93	14_relative clauses	リサが買ったドレスはとても素敵だ。	The dress Lisa bought is very nice.	The dress that Lisa bought is very nice.	
+GU093S014	1	93	14_relative clauses	私にできることは何かあるか？	Is there anything I can do?	Is there anything that I can do?	
+GU093S015	1	93	14_relative clauses	あなたに電話をかけてきた男の名前は何か？	What's the name of the man who phoned you?		
+GU093S016	1	93	14_relative clauses	あなたが電話をかけた男の名前は何か？	What's the name of the man you phoned?		
+GU093S017	1	93	14_relative clauses	友人がドレスを着ている。それが好きだ。彼女に言う：「あなたが着ているドレスが好きだ。」	A friend is wearing a dress. You like it. You tell her: I like the dress you're wearing.		
+GU093S018	1	93	14_relative clauses	友人が映画館に行く。映画の名前を知りたい。彼女に言う：「あなたが見に行く映画の名前は何か？」	A friend is going to the cinema. You want to know the name of the film. You say: What's the name of the film you're going to see?		
+GU093S019	1	93	14_relative clauses	博物館を訪れたかった。それが閉まっていた。誰かに言う：「私たちが訪れたかった博物館は閉まっていた。」	You wanted to visit a museum. It was shut. You tell someone: The museum we wanted to visit was shut.		
+GU093S020	1	93	14_relative clauses	あなたはパーティーに多くの人を招待した。その中の一部は来れなかった。誰かに言う：「私たちがパーティーに招待した一部の人は来れなかった。」	You invited a lot of people to your party. Some of them couldn't come. You tell someone: Some of the people we invited to the party couldn't come.		
+GU093S021	1	93	14_relative clauses	友人は仕事をしなければならなかった。彼女が終わったかどうか知りたい。彼女に言う：「あなたがしなければならなかった仕事は終わったか？」	Your friend had to do some work. You want to know if she's finished. You say: Have you finished the work you had to do?		
+GU093S022	1	93	14_relative clauses	あなたはいくつかの人と会う約束をしたが、彼らは現れなかった。誰かに言う：「私たちが会う約束をした人たちは現れなかった。」	"You arranged to meet some people, but they didn't turn up. You tell someone: The people we arranged to meet didn't turn up."		
+GU093S023	1	93	14_relative clauses	あなたは車を借りた。それは数マイル後に故障した。誰かに言う：「残念ながら、私たちが借りた車は数マイル後に故障した。」	You rented a car. It broke down after a few miles. You tell someone: Unfortunately the car we rented broke down after a few miles.		
+GU093S024	1	93	14_relative clauses	昨夜私たちが会った人たちはとても親切だった。	The people who we met last night were very friendly.		
+GU093S025	1	93	14_relative clauses	昨夜私たちが会った人たちはとても親切だった。	The people we met last night were very friendly.		
+GU093S026	1	93	14_relative clauses	私のオフィスで働いている人たちはとても親切だ。	The people who work in my office are very friendly.		
+GU093S027	1	93	14_relative clauses	無神論者は神を信じない人のことだ。	An atheist is someone who doesn't believe in God.		
+GU093S028	1	93	14_relative clauses	デイビッドは私が言ったことに腹を立てていた。	David was angry about something that I said.		
+GU093S029	1	93	14_relative clauses	デイビッドは私が言ったことに腹を立てていた。	David was angry about something I said.		
+GU093S030	1	93	14_relative clauses	私たちが招待したすべての人がパーティーに来た。	Everybody who we invited came to the party.		
+GU093S031	1	93	14_relative clauses	私たちが招待したすべての人がパーティーに来た。	Everybody we invited came to the party.		
+GU093S032	1	93	14_relative clauses	あなたにとって今までで一番良かったことは何か？	What's the best thing that has ever happened to you?		
+GU093S033	1	93	14_relative clauses	あなたが今まで見た中で最悪の映画は何か？	What's the worst film that you've ever seen?		
+GU093S034	1	93	14_relative clauses	あなたが今まで見た中で最悪の映画は何か？	What's the worst film you've ever seen?		
+GU093S035	1	93	14_relative clauses	私が借りたお金を返さなければならない。	I have to pay back the money that I borrowed.		
+GU093S036	1	93	14_relative clauses	私が借りたお金を返さなければならない。	I have to pay back the money I borrowed.		
+GU093S037	1	93	14_relative clauses	パーティーに来たすべての人がそれを楽しんだ。	Everybody who came to the party enjoyed it.		
+GU093S038	1	93	14_relative clauses	これらはあなたが探していた本か？	Are these the books you were looking for?		
+GU093S039	1	93	14_relative clauses	私が電車で隣に座っていた男はずっと話していた。	The man I was sitting next to on the train talked all the time.		
+GU093S040	1	93	14_relative clauses	これらはあなたが探していた本か？	Are these the books that you were looking for?		
+GU093S041	1	93	14_relative clauses	私が電車で隣に座っていた男はずっと話していた。	The man who I was sitting next to on the train talked all the time.		
+GU093S042	1	93	14_relative clauses	残念ながら、私は応募した仕事を得られなかった。	Unfortunately I didn't get the job I applied for.		
+GU093S043	1	93	14_relative clauses	サラは彼女が働いている人たちと仲良くやっている。	Sarah gets on well with the people she works with.		
+GU093S044	1	93	14_relative clauses	あなたが行ったコンサートは楽しかったか？	Did you enjoy the concert you went to?		
+GU093S045	1	93	14_relative clauses	ゲイリーは知っていると良い人だ。彼は信頼できる人だ。	Gary is a good person to know. He's somebody you can rely on.		
+GU093S046	1	93	14_relative clauses	あなたが私に話してくれたホテルの名前は何か？	What's the name of the hotel you told me about?		
+GU093S047	1	93	14_relative clauses	私たちが招待された結婚式には行けなかった。	We couldn't go to the wedding we were invited to.		
+GU093S048	1	93	14_relative clauses	昨日私があなたを見たとき一緒にいた男は誰か？	Who was the man you were with when I saw you yesterday?		
+GU093S049	1	93	14_relative clauses	私が生まれた場所に戻ってから長い時間が経った。	It's a long time since I went back to the place I come from.		
+GU093S050	1	93	14_relative clauses	彼らが言ったすべては真実だった。	Everything they said was true.	Everything that they said was true.	
+GU093S051	1	93	14_relative clauses	私が持っていたすべてのお金を彼らに渡した。	I gave them all the money I had.	I gave them all the money that I had.	
+GU093S052	1	93	14_relative clauses	彼らが言ったことは真実だった。	What they said was true.		
+GU093S053	1	93	14_relative clauses	彼女は子供たちに欲しいものをすべて与える。	She gives her children everything they want.		
+GU093S054	1	93	14_relative clauses	何が起こったのか？覚えていることを教えて。	What happened? Tell me what you remember.		
+GU093S055	1	93	14_relative clauses	私は多くはできないが、できることは最善を尽くす。	"I won't be able to do much, but I'll do the best I can."		
+GU093S056	1	93	14_relative clauses	私は多くはできないが、できることはする。	"I won't be able to do much, but I'll do what I can."		
+GU093S057	1	93	14_relative clauses	なぜあなたは何かがうまくいかないたびに私を責めるのか？	Why do you blame me for everything that goes wrong?		
+GU093S058	1	93	14_relative clauses	私は彼を信じない。彼が言うことは何も信じない。	I don't trust him. I don't believe anything that he says.		
+GU094S001	1	94	14_relative clauses	私たちは車が故障した人々を助けた。	We helped some people whose car had broken down.		
+GU094S002	1	94	14_relative clauses	未亡人とは夫が死んだ女性のことだ。	A widow is a woman whose husband is dead.		
+GU094S003	1	94	14_relative clauses	私は彼の兄弟と学校に通っていた人に会った。	I met someone whose brother I went to school with.		
+GU094S004	1	94	14_relative clauses	私はあなたを知っている男性に会った。	I met a man who knows you.		
+GU094S005	1	94	14_relative clauses	私はあなたを知っている女性の兄弟に会った。	I met a man whose sister knows you.		
+GU094S006	1	94	14_relative clauses	私はアラビア語を学んでいる友人がいる。	I have a friend who's learning Arabic.		
+GU094S007	1	94	14_relative clauses	私はアラビア語の学習を始めたばかりの友人がいる。	I have a friend who's just started learning Arabic.		
+GU094S008	1	94	14_relative clauses	私は彼の妹がアラビア語を学んでいる友人がいる。	I have a friend whose sister is learning Arabic.		
+GU094S009	1	94	14_relative clauses	私の妻は英語の先生だ。	My wife is an English teacher.		
+GU094S010	1	94	14_relative clauses	私は彼の妻が英語の先生である男性に会った。	I met a man whose wife is an English teacher.		
+GU094S011	1	94	14_relative clauses	私はレストランを所有している。	I own a restaurant.		
+GU094S012	1	94	14_relative clauses	私はレストランを所有している女性に会った。	I met a woman who owns a restaurant.		
+GU094S013	1	94	14_relative clauses	私の野望はエベレストに登ることだ。	My ambition is to climb Everest.		
+GU094S014	1	94	14_relative clauses	私はエベレストに登ることを野望としている人に会った。	I met somebody whose ambition is to climb Everest.		
+GU094S015	1	94	14_relative clauses	私たちは結婚したばかりだ。	We've just got married.		
+GU094S016	1	94	14_relative clauses	私は結婚したばかりのカップルに会った。	I met a couple who have just got married.		
+GU094S017	1	94	14_relative clauses	私の両親はサーカスで働いていた。	My parents used to work in a circus.		
+GU094S018	1	94	14_relative clauses	私は両親がサーカスで働いていた人に会った。	I met somebody whose parents used to work in a circus.		
+GU094S019	1	94	14_relative clauses	あなたが彼の車を借りた男性の名前は何か？	What's the name of the man whose car you borrowed?		
+GU094S020	1	94	14_relative clauses	彼があなたに彼の車を貸した男性の名前は何か？	What's the name of the man who lent you his car?		
+GU094S021	1	94	14_relative clauses	ローラは私が普段意見に賛成する人だ。	Laura is somebody whose opinions I usually agree with.		
+GU094S022	1	94	14_relative clauses	私は映画監督である人を知っている。	I know somebody who's a film director.		
+GU094S023	1	94	14_relative clauses	私は私と同じ名前の人に会ったことがない。	I've never met anybody whose name is the same as mine.		
+GU094S024	1	94	14_relative clauses	私はテニスをする人を知らない。	I don't know anybody who plays tennis.		
+GU094S025	1	94	14_relative clauses	私は車を持っている人を知らない。	I don't know anybody who's got a car.		
+GU094S026	1	94	14_relative clauses	私は誕生日パーティーに行った。誕生日の人とは学校で一緒だった。	I went to a birthday party. I was at school with the guy whose birthday it was.		
+GU094S027	1	94	14_relative clauses	ジョージは私がとても尊敬する人だ。	George is a person whom I admire a lot.		
+GU094S028	1	94	14_relative clauses	リラックスできる友人を持つことは重要だ。	It's important to have friends with whom you can relax.		
+GU094S029	1	94	14_relative clauses	ジョージは私がとても尊敬する人だ。	George is a person I admire a lot.	George is a person who I admire a lot.	George is a person that I admire a lot.
+GU094S030	1	94	14_relative clauses	リラックスできる友人を持つことは重要だ。	It's important to have friends you can relax with.	It's important to have friends who you can relax with.	It's important to have friends that you can relax with.
+GU094S031	1	94	14_relative clauses	あなたは友人に会った。何年も彼に会っていなかった。	You met a friend. You hadn't seen him for years.		
+GU094S032	1	94	14_relative clauses	私は何年も会っていなかった友人に会った。	I met a friend whom I hadn't seen for years.		
+GU094S033	1	94	14_relative clauses	あなたは友人に会った。何年も彼に会っていなかった。	You met a friend. You hadn't seen him for years.		
+GU094S034	1	94	14_relative clauses	私は何年も会っていなかった友人に会った。	I met a friend I hadn't seen for years.		
+GU094S035	1	94	14_relative clauses	ケイトとベンはアメリカ人のカップルだ。あなたは休暇中に彼らに会った。	Kate and Ben are an American couple. You met them on holiday.		
+GU094S036	1	94	14_relative clauses	ケイトとベンは私たちが休暇中に会ったアメリカ人のカップルだ。	Kate and Ben are an American couple whom we met on holiday.		
+GU094S037	1	94	14_relative clauses	ケイトとベンはアメリカ人のカップルだ。あなたは休暇中に彼らに会った。	Kate and Ben are an American couple. You met them on holiday.		
+GU094S038	1	94	14_relative clauses	ケイトとベンは私たちが休暇中に会ったアメリカ人のカップルだ。	Kate and Ben are an American couple that we met on holiday.		
+GU094S039	1	94	14_relative clauses	あなたは問題で銀行に電話した。誰かと話したが、彼はあまり役に立たなかった。	"You called your bank with a problem. You spoke to somebody, but he wasn't very helpful."		
+GU094S040	1	94	14_relative clauses	私が話した人はあまり役に立たなかった。	The person to whom I spoke wasn't very helpful.		
+GU094S041	1	94	14_relative clauses	あなたは問題で銀行に電話した。誰かと話したが、彼はあまり役に立たなかった。	"You called your bank with a problem. You spoke to somebody, but he wasn't very helpful."		
+GU094S042	1	94	14_relative clauses	私が話した人はあまり役に立たなかった。	The person I spoke to wasn't very helpful.		
+GU094S043	1	94	14_relative clauses	あなたは弁護士に会いに行った。あなたの友人がその弁護士を推薦した。	You went to see a lawyer. A friend of yours recommended the lawyer.		
+GU094S044	1	94	14_relative clauses	私は友人が推薦した弁護士に会いに行った。	I went to see a lawyer whom a friend of mine recommended.		
+GU094S045	1	94	14_relative clauses	あなたは弁護士に会いに行った。あなたの友人がその弁護士を推薦した。	You went to see a lawyer. A friend of yours recommended the lawyer.		
+GU094S046	1	94	14_relative clauses	私は友人が推薦した弁護士に会いに行った。	I went to see a lawyer that a friend of mine recommended.		
+GU094S047	1	94	14_relative clauses	あなたはソフィーをとても尊敬している。あなたは彼女と働いている。	You have a lot of respect for Sophie. You work with her.		
+GU094S048	1	94	14_relative clauses	ソフィーは私がとても尊敬している人だ。	Sophie is somebody for whom I have a lot of respect.		
+GU094S049	1	94	14_relative clauses	あなたはソフィーをとても尊敬している。あなたは彼女と働いている。	You have a lot of respect for Sophie. You work with her.		
+GU094S050	1	94	14_relative clauses	ソフィーは私がとても尊敬している人だ。	Sophie is somebody I have a lot of respect for.		
+GU094S051	1	94	14_relative clauses	トムは女性を愛していた。しかし、彼女はトムを愛していなかった。	Tom was in love with a woman. But she wasn't in love with Tom.		
+GU094S052	1	94	14_relative clauses	トムが愛していた女性は彼を愛していなかった。	The woman with whom Tom was in love wasn't in love with him.		
+GU094S053	1	94	14_relative clauses	トムは女性を愛していた。しかし、彼女はトムを愛していなかった。	Tom was in love with a woman. But she wasn't in love with Tom.		
+GU094S054	1	94	14_relative clauses	トムが愛していた女性は彼を愛していなかった。	The woman Tom was in love with wasn't in love with him.		
+GU094S055	1	94	14_relative clauses	私は最近、自分が育った町に戻った。	I recently went back to the town where I grew up.		
+GU094S056	1	94	14_relative clauses	私は日差しの多い場所に住みたい。	I would like to live in a place where there is plenty of sunshine.		
+GU094S057	1	94	14_relative clauses	私は自分が育った町に戻った。	I went back to the town I grew up in.	I went back to the town that I grew up in.	
+GU094S058	1	94	14_relative clauses	私が働いている工場は来月閉鎖される。	The factory where I work is closing down next month.		
+GU094S059	1	94	14_relative clauses	私は喉が渇いた。近くに水が買える店はあるか？	I'm thirsty. Is there a shop near here where I can get some water?		
+GU094S060	1	94	14_relative clauses	私はスーに連絡する必要がある。彼女が滞在しているホテルの名前を知っているか？	I need to contact Sue. Do you know the name of the hotel where she's staying?		
+GU094S061	1	94	14_relative clauses	私たちが昼食をとったレストランは空港の近くにあった。	The restaurant where we had lunch was near the airport.		
+GU094S062	1	94	14_relative clauses	私は皆が皆を知っている親しみやすい村に住んでいる。	I live in a friendly village where everybody knows everybody else.		
+GU094S063	1	94	14_relative clauses	私たちは美しい彫刻があった博物館に行った。	We went to a museum where there were some beautiful sculptures.		
+GU094S064	1	94	14_relative clauses	孤児とは両親が死んだ子供のことだ。	An orphan is a child whose parents are dead.		
+GU094S065	1	94	14_relative clauses	平和主義者とはすべての戦争が間違っていると信じる人のことだ。	A pacifist is a person who believes that all wars are wrong.		
+GU094S066	1	94	14_relative clauses	私たちがお金を貸した人々は姿を消した。	The people to whom we lent the money have disappeared.		
+GU094S067	1	94	14_relative clauses	墓地とは人々が埋葬される場所のことだ。	A cemetery is a place where people are buried.		
+GU094S068	1	94	14_relative clauses	私たちが休暇を過ごした場所は本当に美しかった。	The place where we spent our holidays was really beautiful.		
+GU094S069	1	94	14_relative clauses	この学校は母国語が英語でない子供たちのためのものだ。	This school is only for children whose first language is not English.		
+GU094S070	1	94	14_relative clauses	私が車を買った人は父の友人だ。	The person from whom I bought my car is a friend of my father's.		
+GU094S071	1	94	14_relative clauses	金曜日には会えない。その日は私が出かける日だ。	I can't meet you on Friday. That's the day I'm going away.		
+GU094S072	1	94	14_relative clauses	最後に彼女を見たとき、彼女は素晴らしく見えた。	"The last time I saw her, she looked great."	"The last time that I saw her, she looked great."	
+GU094S073	1	94	14_relative clauses	私があなたに電話した理由はあなたのアドバイスを求めるためだ。	The reason I'm calling you is to ask your advice.	The reason that I'm calling you is to ask your advice.	The reason why I'm calling you is to ask your advice.
+GU094S074	1	94	14_relative clauses	私たちが初めて会った日をいつも覚えている。	I'll always remember the day we first met.		
+GU094S075	1	94	14_relative clauses	2009年はジャックとヘレンが結婚した年だ。	2009 was the year Jack and Helen got married.		
+GU094S076	1	94	14_relative clauses	彼女が仕事を辞めた理由を知っているか？給料が低すぎたのか？	Do you know the reason she left her job? Was the salary too low?		
+GU094S077	1	94	14_relative clauses	エレベーターに閉じ込められたときのことは忘れられない。それはひどかった。	I'll never forget the time I got stuck in a lift. It was horrible.		
+GU094S078	1	94	14_relative clauses	最後に本を読んだのはいつだったか覚えていない。それはずっと前のことだった。	I can't remember the last time I read a book. It was a long time ago.		
+GU094S079	1	94	14_relative clauses	どちらも運転できない。それが彼らが車を持っていない理由だ。	Neither of them can drive. That's the reason they don't have a car.		
+GU095S001	1	95	14_relative clauses	隣に住んでいる女性は医者だ。	The woman who lives next door is a doctor.		
+GU095S002	1	95	14_relative clauses	グレースは家具を作る会社で働いている。	Grace works for a company that makes furniture.		
+GU095S003	1	95	14_relative clauses	私たちはあなたが勧めたホテルに泊まった。	We stayed at the hotel you recommended.		
+GU095S004	1	95	14_relative clauses	私の兄のベンは香港に住んでいて、建築家だ。	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S005	1	95	14_relative clauses	アンナは彼女の新しい仕事について私に話してくれた。彼女はそれをとても楽しんでいる。	"Anna told me about her new job, which she's enjoying a lot."		
+GU095S006	1	95	14_relative clauses	私たちは友人が勧めたパークホテルに泊まった。	"We stayed at the Park Hotel, which a friend of ours recommended."		
+GU095S007	1	95	14_relative clauses	私の兄のベンは香港に住んでいて、建築家だ。	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S008	1	95	14_relative clauses	私の父は教師だったが、今は引退している。	"My father, who was a teacher, is now retired."		
+GU095S009	1	95	14_relative clauses	私の車は10年間所有しているが、故障したことがない。	"My car, which I've had for ten years, has never broken down."		
+GU095S010	1	95	14_relative clauses	私は医者に行った。彼は私に食事を変えるように勧めた。	"I went to see the doctor, who advised me to change my diet."		
+GU095S011	1	95	14_relative clauses	"新しいスタジアムは来月完成し、90,000人の観客を収容する。"	"The new stadium, which will be finished next month, will hold 90,000 spectators."		
+GU095S012	1	95	14_relative clauses	私たちはよくロンドンから遠くないケンブリッジの友人を訪ねる。	"We often go to visit our friends in Cambridge, which is not far from London."		
+GU095S013	1	95	14_relative clauses	ジョーは機嫌が悪かったので、パーティーを楽しめなかった。	"Joe, who was in a bad mood, didn't enjoy the party."		
+GU095S014	1	95	14_relative clauses	私のホテルの部屋は20階にあり、街の良い眺めがあった。	"I had a good view of the city from my hotel room, which was on the twentieth floor."		
+GU095S015	1	95	14_relative clauses	ピーターとエミリーにはエイミーという娘がいて、彼女は学校に通い始めたばかりだ。	"Peter and Emily have a daughter, Amy, who has just started school."		
+GU095S016	1	95	14_relative clauses	太陽は宇宙の数百万の星の一つであり、私たちに熱と光を提供している。	"The sun, which is one of millions of stars in the universe, provides us with heat and light."		
+GU095S017	1	95	14_relative clauses	隣に住んでいる女性は医者だ。	The woman that lives next door is a doctor.		
+GU095S018	1	95	14_relative clauses	グレースは家具を作る会社で働いている。	Grace works for a company that makes furniture.		
+GU095S019	1	95	14_relative clauses	私の兄のベンは香港に住んでいて、建築家だ。	"My brother Ben, who lives in Hong Kong, is an architect."		
+GU095S020	1	95	14_relative clauses	アンナは彼女の新しい仕事について私に話してくれた。彼女はそれをとても楽しんでいる。	"Anna told me about her new job, which she's enjoying a lot."		
+GU095S021	1	95	14_relative clauses	私たちはあなたが勧めたホテルに泊まった。	We stayed at the hotel (that) you recommended.		
+GU095S022	1	95	14_relative clauses	私たちは友人が勧めたパークホテルに泊まった。	"We stayed at the Park Hotel, which a friend of ours recommended."		
+GU095S023	1	95	14_relative clauses	今朝私はクリスに会った。彼とは長い間会っていなかった。	"This morning I met Chris, who I hadn't seen for ages."	"This morning I met Chris, whom I hadn't seen for ages."	
+GU095S024	1	95	14_relative clauses	私のオフィスは2階にあり、とても小さい。	"My office, which is on the second floor, is very small."		
+GU095S025	1	95	14_relative clauses	私が今使っているオフィスはとても小さい。	The office that I'm using at the moment is very small.		
+GU095S026	1	95	14_relative clauses	私が今使っているオフィスはとても小さい。	The office which I'm using at the moment is very small.		
+GU095S027	1	95	14_relative clauses	私が今使っているオフィスはとても小さい。	The office I'm using at the moment is very small.		
+GU095S028	1	95	14_relative clauses	サラの父はかつて軍にいて、今はテレビ会社で働いている。	"Sarah's father, who used to be in the army, now works for a TV company."		
+GU095S029	1	95	14_relative clauses	私を診察した医者は何も異常を見つけられなかった。	The doctor that examined me couldn't find anything wrong.		
+GU095S030	1	95	14_relative clauses	私を診察した医者は何も異常を見つけられなかった。	The doctor who examined me couldn't find anything wrong.		
+GU095S031	1	95	14_relative clauses	私たちは空港まで車で行った。それは街から5マイルのところにあった。	"We drove to the airport, which was five miles from the city."		
+GU095S032	1	95	14_relative clauses	エイミーは警察官である息子の写真を私に見せてくれた。	"Amy showed me a picture of her son, who is a police officer."		
+GU095S033	1	95	14_relative clauses	あなたが探していた本を見つけたか？	Did you find the books you were looking for?		
+GU095S034	1	95	14_relative clauses	あなたが探していた本を見つけたか？	Did you find the books that you were looking for?		
+GU095S035	1	95	14_relative clauses	あなたが探していた本を見つけたか？	Did you find the books which you were looking for?		
+GU095S036	1	95	14_relative clauses	ジョンはフランス語とイタリア語を話し、ツアーガイドとして働いている。	"John, who speaks French and Italian, works as a tour guide."		
+GU095S037	1	95	14_relative clauses	ジョンはフランス語とイタリア語を話し、ツアーガイドとして働いている。	"John speaks French and Italian, and works as a tour guide."		
+GU095S038	1	95	14_relative clauses	フランス語とイタリア語を話す人を知っているか？	Do you know anyone who speaks French and Italian?		
+GU095S039	1	95	14_relative clauses	フランス語とイタリア語を話す人を知っているか？	Do you know anyone that speaks French and Italian?		
+GU095S040	1	95	14_relative clauses	ケイトの夫は航空パイロットだが、私は彼に会ったことがない。	"Kate's husband, who I've never met, is an airline pilot."		
+GU095S041	1	95	14_relative clauses	ケイトの夫は航空パイロットだが、私は彼に会ったことがない。	"Kate's husband, whom I've never met, is an airline pilot."		
+GU095S042	1	95	14_relative clauses	私たちは車が故障した人々を助けた。	We helped some people whose car had broken down.		
+GU095S043	1	95	14_relative clauses	あなたが休暇を過ごした場所の名前は何か？	What's the name of the place where you went on holiday?		
+GU095S044	1	95	14_relative clauses	リサは車が故障していたので、非常に悪い気分だった。	"Lisa, whose car had broken down, was in a very bad mood."		
+GU095S045	1	95	14_relative clauses	ケイトは娘が住んでいるスウェーデンに行ってきたばかりだ。	"Kate has just been to Sweden, where her daughter lives."		
+GU095S046	1	95	14_relative clauses	リサはたくさんの旅行を伴う仕事をしているので、家にいないことが多い。	"Lisa, whose job involves a lot of travelling, is away from home a lot."		
+GU095S047	1	95	14_relative clauses	私の兄はアラスカに住んでいる。それはアメリカで最大の州だ。	"My brother lives in Alaska, which is the largest state in the U.S."		
+GU095S048	1	95	14_relative clauses	会議にはみんな時間通りに来たが、いつも遅刻するダンだけが遅れた。	"Everybody was on time for the meeting except Dan, who is always late."		
+GU095S049	1	95	14_relative clauses	私たちの休暇は天気を除いて良かった。それはひどかった。	"Our holiday was OK except for the weather, which was horrible."		
+GU095S050	1	95	14_relative clauses	私たちは博物館を訪れ、多くの興味深いものを見た。	"We enjoyed our visit to the museum, where we saw lots of interesting things."		
+GU095S051	1	95	14_relative clauses	スティーブンは一日中何も食べていなかったので、とてもお腹が空いていた。	"Steven, who hadn't eaten all day, was very hungry."		
+GU095S052	1	95	14_relative clauses	私たちの先生の名前は忘れてしまったが、彼は私たちにとても親切だった。	"Our teacher, whose name I have forgotten, was very kind to us."		
+GU095S053	1	95	14_relative clauses	私たちはニューヨークで一週間を過ごし、素晴らしい時間を過ごした。	"We spent a week in New York, where we had a wonderful time."		
+GU096S001	1	96	14_relative clauses	リー氏は私が会議で話した人で、私たちの提案に興味を持っている。	"Mr Lee, to whom I spoke at the meeting, is interested in our proposal."		
+GU096S002	1	96	14_relative clauses	多くの観光客がその町の城を見るために訪れる。それがその町の名物だ。	"Many tourists visit the town to see its castle, for which it is famous."		
+GU096S003	1	96	14_relative clauses	リー氏は私が会議で話した人で、私たちの提案に興味を持っている。	"Mr Lee, who I spoke to at the meeting, is interested in our proposal."		
+GU096S004	1	96	14_relative clauses	多くの観光客がその町の城を見るために訪れる。それがその町の名物だ。	"Many tourists visit the town to see its castle, which it is famous for."		
+GU096S005	1	96	14_relative clauses	昨夜遅くに起きた事故で二人が負傷した。	"The accident, in which two people were injured, happened late last night."		
+GU096S006	1	96	14_relative clauses	私は上司とオフィスを共有しており、彼とは非常に良好な関係だ。	"I share an office with my boss, with whom I get on really well."		
+GU096S007	1	96	14_relative clauses	家族だけが招待された結婚式は素晴らしいものであった。	"The wedding, to which only family members were invited, was a lovely occasion."		
+GU096S008	1	96	14_relative clauses	幸いにも良い地図を持っていた。それがなければ迷っていただろう。	"Fortunately, we had a good map, without which we would have got lost."		
+GU096S009	1	96	14_relative clauses	サラは息子の写真を見せてくれた。彼女は息子を非常に誇りに思っている。	"Sarah showed us a picture of her son, of whom she's very proud."		
+GU096S010	1	96	14_relative clauses	ローラは非常に素敵な革のバッグを買った。それに20ポンドを払った。	"Laura bought a very nice leather bag, for which she paid twenty pounds."		
+GU096S011	1	96	14_relative clauses	ヘレンには三人の兄弟がおり、全員が結婚している。	"Helen has three brothers, all of whom are married."		
+GU096S012	1	96	14_relative clauses	彼らは私に多くの質問をしたが、そのほとんどに答えられなかった。	"They asked me a lot of questions, most of which I couldn't answer."		
+GU096S013	1	96	14_relative clauses	マーティンは三着のジャケットを試着したが、どれも彼に合わなかった。	"Martin tried on three jackets, none of which fitted him."		
+GU096S014	1	96	14_relative clauses	私は以前見たことのない二人の男がオフィスに入ってきた。	"Two men, neither of whom I had seen before, came into the office."		
+GU096S015	1	96	14_relative clauses	スーには多くの友人がいる。多くの友人とは学校で一緒だった。	"Sue has a lot of friends, many of whom she was at school with."		
+GU096S016	1	96	14_relative clauses	その家は火事で損傷を受けたが、その原因は明らかにされなかった。	"The house was damaged in a fire, the cause of which was never established."		
+GU096S017	1	96	14_relative clauses	あなたが与えられた情報はあまり役に立たなかった。	The information you were given wasn't very helpful.		
+GU096S018	1	96	14_relative clauses	私たちは多くの情報を与えられたが、そのほとんどは役に立たなかった。	"We were given a lot of information, most of which was useless."		
+GU096S019	1	96	14_relative clauses	仕事に応募した誰もが成功しなかった。	No-one who applied for the job was successful.		
+GU096S020	1	96	14_relative clauses	仕事に応募した十人の中で、誰一人として適していなかった。	"Ten people applied for the job, none of whom was suitable."		
+GU096S021	1	96	14_relative clauses	ジュリアの姉妹は二人とも弁護士だ。	Both of Julia's sisters are lawyers.		
+GU096S022	1	96	14_relative clauses	ジュリアには二人の姉妹がおり、二人とも弁護士だ。	"Julia has two sisters, both of whom are lawyers."		
+GU096S023	1	96	14_relative clauses	あなたの隣人は二台の車を持っているが、一台しか使わない。	"Your neighbours have two cars, but they only use one."		
+GU096S024	1	96	14_relative clauses	彼らは二台の車を持っているが、そのうち一台は全く使っていない。	"They have two cars, one of which they never use."		
+GU096S025	1	96	14_relative clauses	ジェーンはあなたが送ったどちらのメールにも返信しなかった。	Jane didn't reply to either of the emails you sent her.		
+GU096S026	1	96	14_relative clauses	私はジェーンに二通のメールを送ったが、どちらにも返信しなかった。	"I sent Jane two emails, neither of which she replied to."		
+GU096S027	1	96	14_relative clauses	マイクは多くのお金を獲得した。彼は親に対して寛大だった。	Mike won a lot of money. He was generous to his parents.		
+GU096S028	1	96	14_relative clauses	マイクは10万ポンドを獲得し、その半分を親に与えた。	"Mike won 100,000 pounds, half of which he gave to his parents."		
+GU096S029	1	96	14_relative clauses	それは素晴らしい道だった。両側に木が並んでいた。	It was a nice road. There were trees all along the sides.		
+GU096S030	1	96	14_relative clauses	私たちは両側に木が並んだ道を車で走った。	"We drove along a road, the sides of which were lined with trees."		
+GU096S031	1	96	14_relative clauses	あなたは昨年の休暇中にホテルに泊まった。	You stayed in a hotel when you were on holiday last year.		
+GU096S032	1	96	14_relative clauses	私たちは非常に素晴らしいホテルに泊まったが、その名前を思い出せない。	"We stayed at a very nice hotel, the name of which I can't remember."		
+GU096S033	1	96	14_relative clauses	会社は支出を減らす必要がある。	The company needs to spend less money.		
+GU096S034	1	96	14_relative clauses	会社には新しいビジネスプランがあり、その目的はお金を節約することだ。	"The company has a new business plan, the aim of which is to save money."		
+GU096S035	1	96	14_relative clauses	アレックスは試験に合格した。それは良い知らせだ。	"Alex has passed his exams, which is good news."		
+GU096S036	1	96	14_relative clauses	私たちの車が故障した。それは明日出かけられないことを意味する。	"Our car has broken down, which means we can't go away tomorrow."		
+GU096S037	1	96	14_relative clauses	ジェーンは電話を持っていない。それは彼女と連絡を取るのが難しいことを意味する。	"Jane doesn't have a phone, which makes it hard to contact her."		
+GU096S038	1	96	14_relative clauses	ケイトは私を彼女の家に泊めてくれた。それは非常に親切だった。	"Kate let me stay at her house, which was very kind of her."		
+GU096S039	1	96	14_relative clauses	私が住んでいる通りは夜に騒がしく、それが眠りにくくしている。	"The street I live in is noisy at night, which makes it difficult to sleep."		
+GU096S040	1	96	14_relative clauses	ローラは20分遅れた。それに対して彼女は謝罪した。	"Laura was twenty minutes late, which she apologised for."		
+GU097S001	1	97	14_relative clauses	トムと話している女性は誰か？	Who is the woman talking to Tom?		
+GU097S002	1	97	14_relative clauses	私はベルの音で目が覚めた。	I was woken up by a bell ringing.		
+GU097S003	1	97	14_relative clauses	犯罪を調査している警察は三人の男性を探している。	Police investigating the crime are looking for three men.		
+GU097S004	1	97	14_relative clauses	Tで始まる花の名前を思いつけるか？	Can you think of the name of a flower beginning with T?		
+GU097S005	1	97	14_relative clauses	空港に連れて行ってくれるタクシーが故障した。	The taxi taking us to the airport broke down.		
+GU097S006	1	97	14_relative clauses	二つの村をつなぐ道はとても狭い。	The road connecting the two villages is very narrow.		
+GU097S007	1	97	14_relative clauses	ホテルは混んでいなかった。そこに泊まっていたのは私たちだけだった。	The hotel wasn't busy. We were the only people staying there.		
+GU097S008	1	97	14_relative clauses	500人を雇用する工場が町に新しくオープンした。	A factory employing 500 people has just opened in the town.		
+GU097S009	1	97	14_relative clauses	会社は私に必要な情報が載っているパンフレットを送ってきた。	The company sent me a brochure containing the information I needed.		
+GU097S010	1	97	14_relative clauses	私は二階に庭を見渡す大きな部屋がある。	I have a large room on the second floor overlooking the garden.		
+GU097S011	1	97	14_relative clauses	飛行機で私の隣に座っていた男性はほとんどの時間寝ていた。	The man sitting next to me on the plane was asleep most of the time.		
+GU097S012	1	97	14_relative clauses	ヘレンはビーチで遊ぶ彼女の子供たちの写真を見せてくれた。	Helen showed us a picture of her children playing on the beach.		
+GU097S013	1	97	14_relative clauses	事故で怪我をした少年は病院に運ばれた。	The boy injured in the accident was taken to hospital.		
+GU097S014	1	97	14_relative clauses	ジョージは彼の父親が描いた絵をいくつか見せてくれた。	George showed me some pictures painted by his father.		
+GU097S015	1	97	14_relative clauses	強盗で使われた銃が見つかった。	The gun used in the robbery has been found.		
+GU097S016	1	97	14_relative clauses	警察は強盗で盗まれたお金を見つけることができなかった。	The police never found the money stolen in the robbery.		
+GU097S017	1	97	14_relative clauses	嵐で損傷した門は今修理された。	The gate damaged in the storm has now been repaired.		
+GU097S018	1	97	14_relative clauses	美術館から盗まれた絵画はまだ見つかっていない。	The paintings stolen from the museum still haven't been found.		
+GU097S019	1	97	14_relative clauses	この工場で生産された商品のほとんどは輸出されている。	Most of the goods produced in this factory are exported.		
+GU097S020	1	97	14_relative clauses	犯罪を犯したと非難されている多くの人々は実際には無実だ。	Many people accused of committing crimes are in fact innocent.		
+GU097S021	1	97	14_relative clauses	私たちの友人は木々に囲まれた美しい家に住んでいる。	Our friends live in a beautiful house surrounded by trees.		
+GU097S022	1	97	14_relative clauses	プロジェクトに関わったすべての人が非常によく働いたと思う。	I think everybody involved in the project worked very well.		
+GU097S023	1	97	14_relative clauses	パーティーに招待された人の中には来られない人もいる。	Some of the people invited (invite) to the party can't come.		
+GU097S024	1	97	14_relative clauses	忙しい空港の近くに住む人々にとって生活は不愉快に違いない。	Life must be unpleasant for people living (live) near busy airports.		
+GU097S025	1	97	14_relative clauses	建物は電気系統の故障が原因で起こった火事でひどく損傷した。	The building was badly damaged in a fire caused (cause) by an electrical fault.		
+GU097S026	1	97	14_relative clauses	ジャックと呼ばれる誰かがあなたが外出中に電話をかけてきた。	Somebody called (call) Jack phoned while you were out.		
+GU097S027	1	97	14_relative clauses	待合室には角に座っている老人以外は誰もいなかった。	The waiting room was empty except for an old man sitting (sit) in the corner.		
+GU097S028	1	97	14_relative clauses	イアンにはマンチェスターの大学で経済学を勉強している兄弟がいる。	Ian has a brother studying (study) economics at university in Manchester.		
+GU097S029	1	97	14_relative clauses	嵐で倒れた木々の写真を見たか？	Did you see the picture of the trees blown (blow) down in the storm?		
+GU097S030	1	97	14_relative clauses	面接の数日後、私は仕事をオファーするメールを受け取った。	"A few days after the interview, I received an email offering (offer) me the job."		
+GU097S031	1	97	14_relative clauses	川で泳いでいる子供たちがいた。	There were some children swimming in the river.		
+GU097S032	1	97	14_relative clauses	誰か待っている人はいるか？	Is there anybody waiting?		
+GU097S033	1	97	14_relative clauses	家の外には大きな赤い車が駐車されていた。	There was a big red car parked outside the house.		
+GU097S034	1	97	14_relative clauses	チョコレートは残り少ない。私たちはほとんど全部食べてしまった。	There are only a few chocolates left. We've eaten nearly all of them.		
+GU097S035	1	97	14_relative clauses	足音が聞こえる。誰かが来ていると思う。	I can hear footsteps. I think there's somebody coming.		
+GU097S036	1	97	14_relative clauses	事故は深刻ではなかった。幸いにも怪我人はいなかった。	"The accident wasn't serious. Fortunately, there was nobody injured."		
+GU097S037	1	97	14_relative clauses	私は一年前にお金を少し勝ち取った。残念ながら、すべて使ってしまい、今は何も残っていない。	"I won some money a year ago. Unfortunately, I spent it all and now there's nothing left."		
+GU097S038	1	97	14_relative clauses	あの家は空いているように見える。誰も住んでいないと思う。	That house looks empty. I don't think there's anybody living in it.		
+GU097S039	1	97	14_relative clauses	大学は夜間に英語のコースを提供している。コースを受けたい場合、月曜日に始まるコースがある。	"The college offers English courses in the evening. If you want to do a course, there's one beginning on Monday."		
+GU097S040	1	97	14_relative clauses	電車は満員だった。それは休日で多くの人が旅行していた。	The train was full. It was a holiday and there were a lot of people travelling.		
+GU097S041	1	97	14_relative clauses	誰かが私に紙切れを渡した。それを見たが、何も書かれていなかった。	"Somebody gave me a piece of paper. I looked at it, but there was nothing written on it."		
+GU097S042	1	97	14_relative clauses	私は現在、研修コースを受けている。そのコースは来週終了するので、残りは数日しかない。	"I'm doing a training course at the moment. The course finishes next week, so there are only a few days left."		
