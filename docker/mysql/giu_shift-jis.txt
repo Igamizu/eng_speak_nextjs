@@ -5846,3 +5846,469 @@ GU097S039	1	97	14_relative clauses	‘åŠw‚Í–éŠÔ‚É‰pŒê‚ÌƒR[ƒX‚ğ’ñ‹Ÿ‚µ‚Ä‚¢‚éBƒR[ƒ
 GU097S040	1	97	14_relative clauses	“dÔ‚Í–ˆõ‚¾‚Á‚½B‚»‚ê‚Í‹x“ú‚Å‘½‚­‚Ìl‚ª—·s‚µ‚Ä‚¢‚½B	The train was full. It was a holiday and there were a lot of people travelling.		
 GU097S041	1	97	14_relative clauses	’N‚©‚ª„‚É†Ø‚ê‚ğ“n‚µ‚½B‚»‚ê‚ğŒ©‚½‚ªA‰½‚à‘‚©‚ê‚Ä‚¢‚È‚©‚Á‚½B	"Somebody gave me a piece of paper. I looked at it, but there was nothing written on it."		
 GU097S042	1	97	14_relative clauses	„‚ÍŒ»İAŒ¤CƒR[ƒX‚ğó‚¯‚Ä‚¢‚éB‚»‚ÌƒR[ƒX‚Í—ˆTI—¹‚·‚é‚Ì‚ÅAc‚è‚Í”“ú‚µ‚©‚È‚¢B	"I'm doing a training course at the moment. The course finishes next week, so there are only a few days left."		
+GU098S001	1	98	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚Ìd–‚Í‘Ş‹ü‚Å‚·B	Jane's job is boring.		
+GU098S002	1	98	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚Í©•ª‚Ìd–‚É‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚Ü‚·B	Jane is bored with her job.		
+GU098S003	1	98	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚Í©•ª‚Ìd–‚ª‘Ş‹ü‚È‚Ì‚Å‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚Ü‚·B	Jane is bored because her job is boring.		
+GU098S004	1	98	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚Ìd–‚Í‘Ş‹ü‚È‚Ì‚ÅAƒWƒF[ƒ“‚Í‚¤‚ñ‚´‚è‚µ‚Ä‚¢‚Ü‚·B	"Jane's job is boring, so Jane is bored."		
+GU098S005	1	98	15_adjectives and adverbs 1	ƒ|[ƒ‹‚Í‚¢‚Â‚à“¯‚¶‚±‚Æ‚ğ˜b‚µ‚Ü‚·B”Ş‚Í–{“–‚É‘Ş‹ü‚Å‚·B	Paul always talks about the same things. He's really boring.		
+GU098S006	1	98	15_adjectives and adverbs 1	u‹`‚Í‚Æ‚Ä‚à‘Ş‹ü‚Å‚µ‚½B„‚ÍQ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	The lecture was very boring. I fell asleep.		
+GU098S007	1	98	15_adjectives and adverbs 1	‚±‚Ì’¬‚É‚Í‚·‚é‚±‚Æ‚ª‰½‚à‚ ‚è‚Ü‚¹‚ñB‚±‚±‚ÉZ‚Ş‚Ì‚Í‘Ş‹ü‚Å‚·B	There's nothing to do in this town. It's boring living here.		
+GU098S008	1	98	15_adjectives and adverbs 1	ƒWƒF[ƒ€ƒY‚Í‚¢‚Â‚à‚Æ‚Ä‚à‘Ş‹ü‚»‚¤‚ÉŒ©‚¦‚Ü‚·B”Ş‚Í•sK‚È‚Ì‚Å‚µ‚å‚¤‚©H	James always looks so bored. Is he unhappy?		
+GU098S009	1	98	15_adjectives and adverbs 1	‚·‚®‚É‘Ş‹ü‚·‚él‚à‚¢‚Ü‚·B”Ş‚ç‚Íí‚É‰½‚©V‚µ‚¢‚à‚Ì‚ª•K—v‚Å‚·B	Some people get bored very easily. They always need something new.		
+GU098S010	1	98	15_adjectives and adverbs 1	‚»‚ê‚Í‘Ş‹ü‚È‹x“ú‚Å‚µ‚½B„‚ÍŠy‚µ‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	It was a boring holiday. I didn't enjoy it.		
+GU098S011	1	98	15_adjectives and adverbs 1	‚»‚Ì”Ô‘g‚Í‘S‚­–Ê”’‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B„‚Í‘Ş‹ü‚Å‚µ‚½B	I didn't think the programme was interesting at all. I was bored.		
+GU098S012	1	98	15_adjectives and adverbs 1	ƒPƒrƒ“‚Í‘Ş‹ü‚Å‚·B”Ş‚Í˜b‚ğ~‚ß‚Ü‚¹‚ñ‚ªA–Ê”’‚¢‚±‚Æ‚Í‰½‚àŒ¾‚¢‚Ü‚¹‚ñB	"Kevin is boring. He never stops talking, but never says anything interesting."		
+GU098S013	1	98	15_adjectives and adverbs 1	„‚Ìd–‚Í–Ê”’‚­‚ ‚è‚Ü‚¹‚ñB	My job isn't interesting.		
+GU098S014	1	98	15_adjectives and adverbs 1	„‚Í‚à‚¤©•ª‚Ìd–‚É‹»–¡‚ª‚ ‚è‚Ü‚¹‚ñB	I'm not interested in my job any more.		
+GU098S015	1	98	15_adjectives and adverbs 1	‚ ‚È‚½‚Ìd–‚Í”æ‚ê‚Ü‚·‚©H	Is your job tiring?		
+GU098S016	1	98	15_adjectives and adverbs 1	‚ ‚È‚½‚Ìd–‚ğ‚µ‚Ä‚Æ‚Ä‚à”æ‚ê‚Ü‚·‚©H	Do you get very tired doing your job?		
+GU098S017	1	98	15_adjectives and adverbs 1	ƒeƒBƒi‚Í©•ª‚Ìd–‚É–‘«‚µ‚Ä‚¢‚Ü‚·B	Tina finds her job satisfying.		
+GU098S018	1	98	15_adjectives and adverbs 1	”Ş—‚Í©•ª‚Ìd–‚É–‘«‚µ‚Ä‚¢‚Ü‚·B	She's satisfied with her job.		
+GU098S019	1	98	15_adjectives and adverbs 1	”Ş‚ªŒ±‚É‡Ši‚µ‚½‚Ì‚Í‹Á‚­‚×‚«‚±‚Æ‚Å‚µ‚½B	It was surprising that he passed the exam.		
+GU098S020	1	98	15_adjectives and adverbs 1	‚İ‚ñ‚È‚ª”Ş‚ªŒ±‚É‡Ši‚µ‚½‚±‚Æ‚É‹Á‚«‚Ü‚µ‚½B	Everybody was surprised that he passed the exam.		
+GU098S021	1	98	15_adjectives and adverbs 1	‚»‚Ìƒjƒ…[ƒX‚ÍÕŒ‚“I‚Å‚µ‚½B	The news was shocking.		
+GU098S022	1	98	15_adjectives and adverbs 1	„‚Í‚»‚Ìƒjƒ…[ƒX‚ğ•·‚¢‚½‚Æ‚«ƒVƒ‡ƒbƒN‚ğó‚¯‚Ü‚µ‚½B	I was shocked when I heard the news.		
+GU098S023	1	98	15_adjectives and adverbs 1	‚»‚Ì‰f‰æ‚ÍŠú‘Ò‚µ‚Ä‚¢‚½‚Ù‚Ç—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	The movie wasn't as good as we'd expected.		
+GU098S024	1	98	15_adjectives and adverbs 1	‚»‚Ì‰f‰æ‚Í‚ª‚Á‚©‚è‚·‚é‚à‚Ì‚Å‚µ‚½B„‚½‚¿‚Í‚»‚Ì‰f‰æ‚É‚ª‚Á‚©‚è‚µ‚Ü‚µ‚½B	The movie was disappointing. We were disappointed with the movie.		
+GU098S025	1	98	15_adjectives and adverbs 1	ƒhƒi‚Í—c‚¢q‹Ÿ‚½‚¿‚ğ‹³‚¦‚Ä‚¢‚Ü‚·B‚»‚ê‚Í‘å•Ï‚Èd–‚Å‚·‚ªA”Ş—‚Í‚»‚ê‚ğŠy‚µ‚ñ‚Å‚¢‚Ü‚·B	"Donna teaches young children. It's a hard job, but she enjoys it."		
+GU098S026	1	98	15_adjectives and adverbs 1	”Ş—‚Í©•ª‚Ìd–‚ğŠy‚µ‚ñ‚Å‚¢‚Ü‚·‚ªA‚µ‚Î‚µ‚Î”æ‚ê‰Ê‚Ä‚Ü‚·Bd–‚ªI‚í‚é‚Æ”Ş—‚Í‚µ‚Î‚µ‚Î”æ‚ê‰Ê‚Ä‚Ä‚¢‚Ü‚·B	"She enjoys her job, but it's often exhausting. At the end of a day's work, she's often exhausted."		
+GU098S027	1	98	15_adjectives and adverbs 1	ˆê“ú’†‰J‚ª~‚Á‚Ä‚¢‚Ü‚·B‚±‚Ì“V‹C‚ªŒ™‚¢‚Å‚·B	It's been raining all day. I hate this weather.		
+GU098S028	1	98	15_adjectives and adverbs 1	‚±‚Ì“V‹C‚Í—JŸT‚Å‚·B‚±‚Ì“V‹C‚Í„‚ğ—JŸT‚É‚µ‚Ü‚·B“V‹C‚Ì‚¹‚¢‚Å—JŸT‚É‚È‚é‚Ì‚Í”n­‚°‚Ä‚¢‚Ü‚·B	This weather is depressing. This weather makes me depressed. It's silly to get depressed because of the weather.		
+GU098S029	1	98	15_adjectives and adverbs 1	ƒNƒŒƒA‚Í—ˆŒƒƒLƒVƒR‚És‚«‚Ü‚·B”Ş—‚Í‚»‚±‚És‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB	Clare is going to Mexico next month. She's never been there before.		
+GU098S030	1	98	15_adjectives and adverbs 1	‚»‚ê‚Í”Ş—‚É‚Æ‚Á‚ÄƒGƒLƒTƒCƒeƒBƒ“ƒO‚ÈŒoŒ±‚É‚È‚é‚Å‚µ‚å‚¤BV‚µ‚¢êŠ‚És‚­‚Ì‚Í‚¢‚Â‚àƒGƒLƒTƒCƒeƒBƒ“ƒO‚Å‚·B”Ş—‚ÍƒƒLƒVƒR‚És‚­‚±‚Æ‚ğ–{“–‚ÉŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·B	It will be an exciting experience for her. Going to new places is always exciting. She's really excited about going to Mexico.		
+GU098S031	1	98	15_adjectives and adverbs 1	V‚µ‚¢ƒvƒƒWƒFƒNƒg‚ÍƒGƒLƒTƒCƒeƒBƒ“ƒO‚»‚¤‚Å‚·B„‚Í‚»‚ê‚Éæ‚è‘g‚Ş‚Ì‚ğŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·B	The new project sounds exciting. I'm looking forward to working on it.		
+GU098S032	1	98	15_adjectives and adverbs 1	‚¨‹à‚ğl‚É—Š‚Ü‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚Æ‚«‚Í’p‚¸‚©‚µ‚¢‚±‚Æ‚ª‚ ‚è‚Ü‚·B	It can be embarrassing when you have to ask people for money.		
+GU098S033	1	98	15_adjectives and adverbs 1	‚ ‚È‚½‚ÍŠÈ’P‚É’p‚¸‚©‚µ‚­‚È‚è‚Ü‚·‚©H	Do you easily get embarrassed?		
+GU098S034	1	98	15_adjectives and adverbs 1	d–‚ğ“¾‚ç‚ê‚é‚Æ‚Í‘S‚­v‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚ğƒIƒtƒ@[‚³‚ê‚½‚Æ‚«‚Í‹Á‚«‚Ü‚µ‚½B	I'd never expected to get the job. I was amazed when I was offered it.		
+GU098S035	1	98	15_adjectives and adverbs 1	”Ş—‚Í‚Æ‚Ä‚à‘‚­Šw‚Ñ‚Ü‚µ‚½B”Ş—‚Í‹Á‚­‚×‚«i•à‚ğ‹‚°‚Ü‚µ‚½B	She's learnt very fast. She's made amazing progress.		
+GU098S036	1	98	15_adjectives and adverbs 1	ƒp[ƒeƒB[‚Å’N‚©–Ê”’‚¢l‚É‰ï‚¢‚Ü‚µ‚½‚©H	Did you meet anyone interesting at the party?		
+GU098S037	1	98	15_adjectives and adverbs 1	„‚Í“Á‚ÉƒTƒbƒJ[‚É‹»–¡‚Í‚ ‚è‚Ü‚¹‚ñB	I'm not particularly interested in football.		
+GU098S038	1	98	15_adjectives and adverbs 1	Ô‚ğ”ƒ‚¤‚±‚Æ‚É‹»–¡‚ª‚ ‚è‚Ü‚·‚©H„‚Í©•ª‚ÌÔ‚ğ”„‚ë‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·B	Are you interested in buying a car? I'm trying to sell mine.		
+GU098S039	1	98	15_adjectives and adverbs 1	‚ ‚È‚½‚Í‚Æ‚Ä‚àˆê¶Œœ–½“­‚¢‚Ä‚¢‚Ü‚·B‚¢‚Â‚à”æ‚ê‚Ä‚¢‚é‚Ì‚Í‹Á‚­‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	You work very hard. It's not surprising that you're always tired.		
+GU098S040	1	98	15_adjectives and adverbs 1	‹³t‚Ìà–¾‚Í¬—‚ğµ‚«‚Ü‚µ‚½B’N‚à‚»‚ê‚ğ—‰ğ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	The teacher's explanation was confusing. Nobody understood it.		
+GU098S041	1	98	15_adjectives and adverbs 1	„‚Í”üpŠÙ‚É‚Í‚ ‚Ü‚ès‚«‚Ü‚¹‚ñBŒ|p‚É‚Í‚ ‚Ü‚è‹»–¡‚ª‚ ‚è‚Ü‚¹‚ñB	I don't go to art galleries much. I'm not very interested in art.		
+GU098S042	1	98	15_adjectives and adverbs 1	”•ª’x‚ê‚½‚¾‚¯‚ÅƒCƒ‰ƒCƒ‰‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB	There's no need to get annoyed just because I'm a few minutes late.		
+GU098S043	1	98	15_adjectives and adverbs 1	ƒLƒbƒ`ƒ“‚Í’·‚¢ŠÔ‘|œ‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B–{“–‚É‚Ğ‚Ç‚¢ó‘Ô‚Å‚µ‚½B	The kitchen hadn't been cleaned for ages. It was really disgusting.		
+GU098S044	1	98	15_adjectives and adverbs 1	„‚Íˆê¶Œœ–½“­‚¢‚Ä‚«‚ÄA¡‚Í”æ‚ê‰Ê‚Ä‚Ä‚¢‚Ü‚·B	I've been working very hard and now I'm exhausted.		
+GU098S045	1	98	15_adjectives and adverbs 1	—ˆTV‚µ‚¢d–‚ğn‚ß‚Ü‚·B‚»‚ê‚ğ‚Æ‚Ä‚àŠy‚µ‚İ‚É‚µ‚Ä‚¢‚Ü‚·B	I'm starting a new job next week. I'm very excited about it.		
+GU098S046	1	98	15_adjectives and adverbs 1	ƒXƒeƒB[ƒu‚Í–Ê”’‚¢˜b‚ğ‚·‚é‚Ì‚ª“¾ˆÓ‚Å‚·B”Ş‚Í‚Æ‚Ä‚à–Ê”’‚¢‚±‚Æ‚ª‚Å‚«‚Ü‚·B	Steve is good at telling funny stories. He can be very amusing.		
+GU099S001	1	99	15_adjectives and adverbs 1	„‚ÌŒZ‚ÍV‚µ‚­‚Ä‘f“G‚È‰Æ‚ÉZ‚ñ‚Å‚¢‚Ü‚·B	My brother lives in a nice new house.		
+GU099S002	1	99	15_adjectives and adverbs 1	‘äŠ‚É‚Í”ü‚µ‚­‚Ä‘å‚«‚ÈŠÛ‚¢–Ø»‚Ìƒe[ƒuƒ‹‚ª‚ ‚è‚Ü‚µ‚½B	In the kitchen there was a beautiful large round wooden table.		
+GU099S003	1	99	15_adjectives and adverbs 1	‘f°‚ç‚µ‚¢°‚ê‚½“ú	a lovely sunny day		
+GU099S004	1	99	15_adjectives and adverbs 1	‘f“G‚ÈÂ‚¢ƒhƒŒƒX	a nice blue dress		
+GU099S005	1	99	15_adjectives and adverbs 1	”ü‚µ‚¢‹à‚Ìw—Ö	a beautiful gold ring		
+GU099S006	1	99	15_adjectives and adverbs 1	d—v‚ÈV‚µ‚¢ƒAƒCƒfƒA	important new ideas		
+GU099S007	1	99	15_adjectives and adverbs 1	’¿‚µ‚¢ŒÃ‚¢‰Æ	an unusual old house		
+GU099S008	1	99	15_adjectives and adverbs 1	‹»–¡[‚¢ƒCƒ‰ƒ“‚Ì‰f‰æ	an interesting Iranian film		
+GU099S009	1	99	15_adjectives and adverbs 1	’p‚¸‚©‚µ‚ª‚è‰®‚Ì¬‚³‚È—‚Ìq	a shy little girl		
+GU099S010	1	99	15_adjectives and adverbs 1	X‚¢Œ»‘ãŒš’z	ugly modern buildings		
+GU099S011	1	99	15_adjectives and adverbs 1	‘äŠ‚É‚Í‘å‚«‚ÈŠÛ‚¢–Ø»‚Ìƒe[ƒuƒ‹‚ª‚ ‚è‚Ü‚µ‚½	In the kitchen there was a large round wooden table		
+GU099S012	1	99	15_adjectives and adverbs 1	”w‚Ì‚‚¢’j	a tall man		
+GU099S013	1	99	15_adjectives and adverbs 1	”w‚Ì‚‚¢á‚¢’j	a tall young man		
+GU099S014	1	99	15_adjectives and adverbs 1	‘å‚«‚ÈÂ‚¢–Ú	big blue eyes		
+GU099S015	1	99	15_adjectives and adverbs 1	ŒÃ‚¢•‚¢” 	an old black box		
+GU099S016	1	99	15_adjectives and adverbs 1	¬‚³‚È•‚¢ƒvƒ‰ƒXƒ`ƒbƒN‘Ü	a small black plastic bag		
+GU099S017	1	99	15_adjectives and adverbs 1	‘å‚«‚È–Ø»‚Ìƒe[ƒuƒ‹	a large wooden table		
+GU099S018	1	99	15_adjectives and adverbs 1	ŒÃ‚¢”’‚¢–È‚ÌƒVƒƒƒc	an old white cotton shirt		
+GU099S019	1	99	15_adjectives and adverbs 1	‘å‚«‚ÈŠÛ‚¢ƒe[ƒuƒ‹	a large round table		
+GU099S020	1	99	15_adjectives and adverbs 1	”w‚Ì‚‚¢×‚¢—‚Ìq	a tall thin girl		
+GU099S021	1	99	15_adjectives and adverbs 1	’·‚¢‹·‚¢’Ê‚è	a long narrow street		
+GU099S022	1	99	15_adjectives and adverbs 1	•‚Æ”’‚ÌƒhƒŒƒX	a black and white dress		
+GU099S023	1	99	15_adjectives and adverbs 1	ÔA”’A—Î‚ÌŠø	"a red, white and green flag"		
+GU099S024	1	99	15_adjectives and adverbs 1	’·‚¢•‚¢ƒhƒŒƒX	a long black dress		
+GU099S025	1	99	15_adjectives and adverbs 1	Ô‚¢Šv‚Ìè‘Ü	red leather gloves		
+GU099S026	1	99	15_adjectives and adverbs 1	’·‚¢×‚¢Šç	a long thin face		
+GU099S027	1	99	15_adjectives and adverbs 1	‘å‚«‚È•‚¢‰_	big black clouds		
+GU099S028	1	99	15_adjectives and adverbs 1	’·‚­‚ÄL‚¢‘å’Ê‚è	a long wide avenue		
+GU099S029	1	99	15_adjectives and adverbs 1	‹‘å‚ÈŒÃ‚¢‰Æ	an enormous old house		
+GU099S030	1	99	15_adjectives and adverbs 1	¬‚³‚Èƒsƒ“ƒN‚Ì‰Ô	tiny pink flowers		
+GU099S031	1	99	15_adjectives and adverbs 1	‘f“G‚ÈV‚µ‚¢—Î‚ÌƒZ[ƒ^[	a nice new green sweater		
+GU099S032	1	99	15_adjectives and adverbs 1	¬‚³‚È•‚¢‹à‘®‚Ì” 	a small black metal box		
+GU099S033	1	99	15_adjectives and adverbs 1	”ü‚µ‚¢’·‚¢•”¯	beautiful long black hair		
+GU099S034	1	99	15_adjectives and adverbs 1	‘å‚«‚ÈÔ‚Æ‰©F‚ÌP	a large red and yellow umbrella		
+GU099S035	1	99	15_adjectives and adverbs 1	‘å‚«‚È‘¾‚Á‚½”’•‚Ì”L	a big fat black and white cat		
+GU099S036	1	99	15_adjectives and adverbs 1	‹C‚ğ‚Â‚¯‚ÄI	Be careful!		
+GU099S037	1	99	15_adjectives and adverbs 1	”æ‚ê‚Ä‚«‚Ä‚¨• ‚ª‹ó‚¢‚Ä‚«‚Ü‚µ‚½B	I'm tired and I'm getting hungry.		
+GU099S038	1	99	15_adjectives and adverbs 1	‰f‰æ‚ªi‚Ş‚É‚Â‚ê‚ÄA‚Ü‚·‚Ü‚·‘Ş‹ü‚É‚È‚è‚Ü‚µ‚½B	"As the film went on, it became more and more boring."		
+GU099S039	1	99	15_adjectives and adverbs 1	‚ ‚È‚½‚Ì—F’B‚Í‚Æ‚Ä‚àŠ´‚¶‚ª—Ç‚³‚»‚¤‚Å‚·B	Your friend seems very nice.		
+GU099S040	1	99	15_adjectives and adverbs 1	¡’©‚Í”æ‚ê‚ÄŒ©‚¦‚Ü‚·‚ËB	You look tired this morning.		
+GU099S041	1	99	15_adjectives and adverbs 1	‹N‚±‚Á‚½‚±‚Æ‚É• ‚ª—§‚¿‚Ü‚·B	I feel angry after what happened.		
+GU099S042	1	99	15_adjectives and adverbs 1	ƒX[‚ªV‚µ‚¢ƒAƒp[ƒg‚É‚Â‚¢‚Ä˜b‚µ‚Ä‚­‚ê‚Ü‚µ‚½B‚»‚ê‚Í‘f“G‚É•·‚±‚¦‚Ü‚·B	Sue told me about her new flat. It sounds nice.		
+GU099S043	1	99	15_adjectives and adverbs 1	—[H‚Í—Ç‚¢“õ‚¢‚ª‚µ‚Ü‚·B	The dinner smells good.		
+GU099S044	1	99	15_adjectives and adverbs 1	‚±‚Ì‚¨’ƒ‚Í­‚µ•Ï‚È–¡‚ª‚µ‚Ü‚·B	This tea tastes a bit strange.		
+GU099S045	1	99	15_adjectives and adverbs 1	‹C‚ğ‚Â‚¯‚Ä‰^“]‚µ‚Ä‚­‚¾‚³‚¢I	Drive carefully!		
+GU099S046	1	99	15_adjectives and adverbs 1	ƒX[ƒUƒ“‚ÍƒsƒAƒm‚ğ‚Æ‚Ä‚àãè‚É’e‚«‚Ü‚·B	Susan plays the piano very well.		
+GU099S047	1	99	15_adjectives and adverbs 1	ğ“úAƒ[ƒ‰‚Í‚¤‚Â‚Ş‚¢‚Ä‚¢‚Ü‚µ‚½B‰½‚ª‚ ‚Á‚½‚Ì‚©’m‚Á‚Ä‚¢‚Ü‚·‚©H	Laura seemed upset yesterday. Do you know what was wrong?		
+GU099S048	1	99	15_adjectives and adverbs 1	‚±‚ê‚ğH‚×‚ç‚ê‚Ü‚¹‚ñB‚¿‚å‚Á‚Æ‚µ‚Ä‚İ‚Ü‚µ‚½‚ªA‚Ğ‚Ç‚¢–¡‚Å‚·B	I can't eat this. I've just tried it and it tastes awful.		
+GU099S049	1	99	15_adjectives and adverbs 1	Œ±‚â–ÊÚ‚Ì‘O‚É‹Ù’£‚·‚é‚Ì‚Í•’Ê‚Ì‚±‚Æ‚Å‚·B	It's normal to feel nervous before an exam or an interview.		
+GU099S050	1	99	15_adjectives and adverbs 1	‚È‚ñ‚Ä”ü‚µ‚¢‰Ô‚Å‚µ‚å‚¤I‚»‚ê‚É‚¢‚¢‚è‚ª‚µ‚Ü‚·B	What beautiful flowers! They smell nice too.		
+GU099S051	1	99	15_adjectives and adverbs 1	Š¦‚»‚¤‚ÉŒ©‚¦‚Ü‚·‚ËBƒZ[ƒ^[‚ğ’…‚é•K—v‚ª‚ ‚è‚Ü‚·B	You look cold. You need to put on a sweater.		
+GU099S052	1	99	15_adjectives and adverbs 1	ƒWƒF[ƒ€ƒY‚ªV‚µ‚¢d–‚É‚Â‚¢‚Ä˜b‚µ‚Ä‚­‚ê‚Ü‚µ‚½B‚»‚ê‚Í–Ê”’‚»‚¤‚Å‚· - ‘O‚Ìd–‚æ‚è‚à—Ç‚³‚»‚¤‚Å‚·B	James told me about his new job. It sounds interesting - better than his old job.		
+GU099S053	1	99	15_adjectives and adverbs 1	‘¾—z‚ª‹P‚¢‚Ä‚¢‚é‚Æ‚«A„‚Í’ÊíK‚¹‚ğŠ´‚¶‚Ü‚·B	I usually feel happy when the sun is shining.		
+GU099S054	1	99	15_adjectives and adverbs 1	q‹Ÿ‚½‚¿‚Í’ë‚ÅŠy‚µ‚»‚¤‚É—V‚ñ‚Å‚¢‚Ü‚µ‚½B	The children were playing happily in the garden.		
+GU099S055	1	99	15_adjectives and adverbs 1	‚Ğ‚Ç‚¢ŠçF‚Å‚·‚ËI‘åä•v‚Å‚·‚©H	You look terrible! Are you all right?		
+GU099S056	1	99	15_adjectives and adverbs 1	“KØ‚És‚í‚È‚¢‚Ì‚Å‚ ‚ê‚ÎAd–‚ğ‚·‚éˆÓ–¡‚ª‚ ‚è‚Ü‚¹‚ñB	There's no point in doing a job if you don't do it properly.		
+GU099S057	1	99	15_adjectives and adverbs 1	‚±‚ÌƒX[ƒv‚Í”ü–¡‚µ‚¢‚Å‚·BƒŒƒVƒs‚ğ‹³‚¦‚Ä‚à‚ç‚¦‚Ü‚·‚©H	This soup tastes good. Can you give me the recipe?		
+GU099S058	1	99	15_adjectives and adverbs 1	—‚¿’…‚¢‚Ä‚­‚¾‚³‚¢B“{‚ç‚È‚¢‚Ù‚¤‚ª‚¢‚¢‚Å‚·B	Stay calm. It's better if you don't get angry.		
+GU099S059	1	99	15_adjectives and adverbs 1	‹}‚¢‚ÅI‚ ‚È‚½‚Í‚¢‚Â‚à’x‚¢‚Å‚·B	Hurry up! You're always so slow.		
+GU099S060	1	99	15_adjectives and adverbs 1	‚È‚º‚»‚ñ‚È‚É¬‚³‚Èº‚Å˜b‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©H•·‚±‚¦‚Ü‚¹‚ñB	Why are you speaking so quietly? I can't hear you.		
+GU099S061	1	99	15_adjectives and adverbs 1	ƒŒƒXƒgƒ‰ƒ“‚Ì‚¨‹q‚³‚ñ‚ªˆ«‚¢s“®‚ğ‚µ‚Ä‚¢‚Ü‚µ‚½B	A customer in the restaurant was behaving badly.		
+GU099S062	1	99	15_adjectives and adverbs 1	ƒ}ƒl[ƒWƒƒ[‚ª‘Ş“X‚ğ‹‚ß‚½‚Æ‚«A‚¨‹q‚³‚ñ‚Í–\—Í“I‚É‚È‚è‚Ü‚µ‚½B	The customer became violent when the manager asked him to leave.		
+GU099S063	1	99	15_adjectives and adverbs 1	ƒR[ƒX‚ÌÅ‰‚Ì“ñ“úŠÔ‚ÍŠy‚µ‚ß‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't enjoy the first two days of the course.		
+GU099S064	1	99	15_adjectives and adverbs 1	”Ş‚ç‚ÍŸ‚Ì”TŠÔ‚¢‚È‚¢‚Å‚µ‚å‚¤B	They'll be away for the next few weeks.		
+GU099S065	1	99	15_adjectives and adverbs 1	ƒxƒ“‚ÍŸ‚Ì“ñTŠÔ‚¢‚È‚¢‚Å‚µ‚å‚¤B	Ben will be away for the next two weeks.		
+GU099S066	1	99	15_adjectives and adverbs 1	‚±‚Ì”“úŠÔ‘Ì’²‚ª—Ç‚­‚ ‚è‚Ü‚¹‚ñB	I haven't been feeling well for the last couple of days.		
+GU099S067	1	99	15_adjectives and adverbs 1	AABAC‚ÍƒAƒ‹ƒtƒ@ƒxƒbƒg‚ÌÅ‰‚ÌO‚Â‚Ì•¶š‚Å‚·B	"A, B, and C are the first three letters of the alphabet."		
+GU099S068	1	99	15_adjectives and adverbs 1	¡Œã””NŠÔ‚Å‘½‚­‚Ì•Ï‰»‚ª‚ ‚é‚Å‚µ‚å‚¤B	There will be a lot of changes in the next few years.		
+GU099S069	1	99	15_adjectives and adverbs 1	Œ±‚ÌÅ‰‚Ì“ñ‚Â‚Ì¿–â‚ÍŠÈ’P‚¾‚Æv‚¢‚Ü‚µ‚½B	I thought the first two questions in the exam were easy.		
+GU099S070	1	99	15_adjectives and adverbs 1	‹x‰É‚ÌÅŒã‚ÌO“úŠÔ‚Í“V‹C‚ªˆ«‚©‚Á‚½‚Å‚·B	The weather was bad the last three days of our holiday.		
+GU100S001	1	100	15_adjectives and adverbs 1	„‚½‚¿‚Ì‹x‰É‚Í’Z‚·‚¬‚Ü‚µ‚½ - ŠÔ‚Í”ñí‚É‘‚­‰ß‚¬‚Ü‚µ‚½B	Our holiday was too short - the time passed very quickly.		
+GU100S002	1	100	15_adjectives and adverbs 1	–ŒÌ‚Å“ñl‚ªd‚ğ•‰‚¢‚Ü‚µ‚½B	Two people were seriously injured in the accident.		
+GU100S003	1	100	15_adjectives and adverbs 1	‚±‚±‚É‚¢‚élX‚Í‚Æ‚Ä‚àeØ‚Å‚·B	The people here are very friendly.		
+GU100S004	1	100	15_adjectives and adverbs 1	‘f°‚ç‚µ‚¢“ú‚Å‚µ‚½B	It was a lovely day.		
+GU100S005	1	100	15_adjectives and adverbs 1	‘å‰J‚ª~‚Á‚Ä‚¢‚ÄA„‚½‚¿‚Í‚Æ‚Ä‚à”G‚ê‚Ü‚µ‚½B	It was raining heavily and we got very wet.		
+GU100S006	1	100	15_adjectives and adverbs 1	„‚½‚¿‚Í‚Ğ‚Ç‚¢ƒvƒŒ[‚ğ‚µ‚½‚Ì‚Å‡‚É•‰‚¯‚Ü‚µ‚½B	We lost the game because we played so badly.		
+GU100S007	1	100	15_adjectives and adverbs 1	Z‚ŞêŠ‚ğŒ©‚Â‚¯‚é‚Ì‚É–â‘è‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚©‚È‚èŠÈ’P‚ÉƒAƒp[ƒg‚ğŒ©‚Â‚¯‚Ü‚µ‚½B	I had no problem finding a place to live. I found a flat quite easily.		
+GU100S008	1	100	15_adjectives and adverbs 1	’·‚¢ŠÔ‘Ò‚½‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA•¶‹å‚ÍŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½Bh•ø‹­‚­‘Ò‚¿‚Ü‚µ‚½B	"We had to wait a long time, but we didn't complain. We waited patiently."		
+GU100S009	1	100	15_adjectives and adverbs 1	ƒTƒCƒ‚ƒ“‚ª„‚½‚¿‚É‰ï‚¢‚É—ˆ‚é‚±‚Æ‚ğ’N‚à’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B”Ş‚Í—\Šú‚¹‚¸“’…‚µ‚Ü‚µ‚½B	Nobody knew that Simon was coming to see us. He arrived unexpectedly.		
+GU100S010	1	100	15_adjectives and adverbs 1	ƒ}ƒCƒN‚Í’èŠú“I‚ÉƒeƒjƒX‚ğ‚·‚é‚±‚Æ‚Å‘Ì‚ğˆÛ‚µ‚Ä‚¢‚Ü‚·B	Mike keeps fit by playing tennis regularly.		
+GU100S011	1	100	15_adjectives and adverbs 1	ƒtƒ‰ƒ“ƒXŒê‚ğ‚ ‚Ü‚èãè‚É˜b‚¹‚Ü‚¹‚ñ‚ªAlX‚ª‚Í‚Á‚«‚è˜b‚¹‚Î—‰ğ‚Å‚«‚Ü‚·B	"I don't speak French very well, but I can understand if people speak clearly."		
+GU100S012	1	100	15_adjectives and adverbs 1	ƒTƒ€‚ÍTd‚È‰^“]è‚Å‚·B	Sam is a careful driver.		
+GU100S013	1	100	15_adjectives and adverbs 1	‘å‰J‚Ì‚½‚ßŠOo‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	We didn't go out because of the heavy rain.		
+GU100S014	1	100	15_adjectives and adverbs 1	ƒTƒ€‚Í‹·‚¢“¹‚ğTd‚É‰^“]‚µ‚Ü‚µ‚½B	Sam drove carefully along the narrow road.		
+GU100S015	1	100	15_adjectives and adverbs 1	‘å‰J‚¾‚Á‚½‚Ì‚ÅŠOo‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	We didn't go out because it was raining heavily.		
+GU100S016	1	100	15_adjectives and adverbs 1	”Ş—‚ÍŠ®àø‚È‰pŒê‚ğ˜b‚µ‚Ü‚·B	She speaks perfect English.		
+GU100S017	1	100	15_adjectives and adverbs 1	”Ş—‚Í‰pŒê‚ğŠ®àø‚É˜b‚µ‚Ü‚·B	She speaks English perfectly.		
+GU100S018	1	100	15_adjectives and adverbs 1	“V‹C‚ª“Ë‘R•Ï‚í‚è‚Ü‚µ‚½B	The weather changed suddenly.		
+GU100S019	1	100	15_adjectives and adverbs 1	“VŒó‚É“Ë‘R‚Ì•Ï‰»‚ª‚ ‚è‚Ü‚µ‚½B	There was a sudden change in the weather.		
+GU100S020	1	100	15_adjectives and adverbs 1	ƒŠƒT‚Í“]‚ñ‚Å‚Ğ‚Ç‚­‰ö‰ä‚ğ‚µ‚Ü‚µ‚½B	Lisa fell and hurt herself badly.		
+GU100S021	1	100	15_adjectives and adverbs 1	‚»‚ÌƒWƒƒƒPƒbƒg‚Í”ƒ‚í‚È‚¢‚Å‚­‚¾‚³‚¢B‚»‚ê‚Í‚ ‚È‚½‚É—‡‚¢‚Ü‚¹‚ñB	Don't buy that jacket. It doesn't look nice on you.		
+GU100S022	1	100	15_adjectives and adverbs 1	ƒ_ƒ“‚ÍƒŠƒXƒN‚ğæ‚é‚Ì‚ªD‚«‚Å‚·B”Ş‚ÍŠëŒ¯‚È¶Šˆ‚ğ‘—‚Á‚Ä‚¢‚Ü‚·B	Dan likes to take risks. He lives dangerously.		
+GU100S023	1	100	15_adjectives and adverbs 1	„‚Í‚±‚±‚É”TŠÔ‚µ‚©‘Øİ‚µ‚Ü‚¹‚ñB‚±‚±‚É‰i‹v‚ÉZ‚Ş‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB	I'm only staying here a few weeks. I'm not living here permanently.		
+GU100S024	1	100	15_adjectives and adverbs 1	„‚Í‚±‚±‚Å’·‚­“­‚­‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñB‚±‚ê‚Íˆê“I‚Èd–‚Å‚·B	I won't be working here very long. It's only a temporary job.		
+GU100S025	1	100	15_adjectives and adverbs 1	‚ ‚È‚½‚Í”ñí‚É©ŒÈ’†S“I‚ÉU‚é•‘‚Á‚½‚Æv‚¢‚Ü‚·B	I think you behaved very selfishly.		
+GU100S026	1	100	15_adjectives and adverbs 1	‚±‚ê‚Í”ñí‚É‰õ“K‚ÈˆÖq‚Å‚·B„‚Íˆê“ú’†‚±‚±‚ÉÀ‚Á‚Ä‚¢‚ç‚ê‚Ü‚·B	This is a very comfortable chair. I could sit here all day.		
+GU100S027	1	100	15_adjectives and adverbs 1	”Ş‚ÍX’x‚ê‚Ü‚·‚ªA‚»‚ê‚Í•p”É‚É‹N‚±‚é‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"He's late sometimes, but it doesn't happen frequently."		
+GU100S028	1	100	15_adjectives and adverbs 1	Ã‚©‚É‚µ‚Ä‚­‚¾‚³‚¢B	Please be quiet.		
+GU100S029	1	100	15_adjectives and adverbs 1	Ã‚©‚É˜b‚µ‚Ä‚­‚¾‚³‚¢B	Please speak quietly.		
+GU100S030	1	100	15_adjectives and adverbs 1	„‚ÌŒ±Œ‹‰Ê‚Í”ñí‚Éˆ«‚©‚Á‚½‚Å‚·B	My exam results were very bad.		
+GU100S031	1	100	15_adjectives and adverbs 1	Œ±‚Å‚Æ‚Ä‚àˆ«‚¢¬Ñ‚ğæ‚è‚Ü‚µ‚½B	I did very badly in the exams.		
+GU100S032	1	100	15_adjectives and adverbs 1	„‚Í“{‚Á‚Ä‚¢‚Ü‚·B	I feel angry.		
+GU100S033	1	100	15_adjectives and adverbs 1	”Ş‚Í“{‚Á‚Ä•”‰®‚ğo‚Äs‚«‚Ü‚µ‚½B	He walked out of the room angrily.		
+GU100S034	1	100	15_adjectives and adverbs 1	‚È‚º‚¢‚Â‚à‚»‚ñ‚È‚É^Œ•‚»‚¤‚ÉŒ©‚¦‚é‚Ì‚Å‚·‚©H	Why do you always look so serious?		
+GU100S035	1	100	15_adjectives and adverbs 1	‚È‚º‚ ‚È‚½‚Í„‚ğ^Œ•‚Éó‚¯~‚ß‚Ä‚­‚ê‚È‚¢‚Ì‚Å‚·‚©H	Why do you never take me seriously?		
+GU100S036	1	100	15_adjectives and adverbs 1	‚Å‚«‚é‚¾‚¯‚Í‚Á‚«‚è‚Æ‚·‚×‚Ä‚ğà–¾‚µ‚Ü‚µ‚½B	I explained everything as clearly as I could.		
+GU100S037	1	100	15_adjectives and adverbs 1	‰ï‹c’†‚ÉA„‚½‚¿‚ª“¯ˆÓ‚Å‚«‚È‚¢‚±‚Æ‚ª‚·‚®‚É–¾‚ç‚©‚É‚È‚è‚Ü‚µ‚½B	During the meeting it soon became clear that we would not be able to agree.		
+GU100S038	1	100	15_adjectives and adverbs 1	‚ ‚È‚½‚ª“h‚Á‚½ŒãA‘äŠ‚Í”ñí‚ÉãY—í‚ÉŒ©‚¦‚Ü‚·B	The kitchen looks very nice since you painted it.		
+GU100S039	1	100	15_adjectives and adverbs 1	ƒ|[ƒ‹‚Í‚ ‚È‚½‚ª’š”J‚É—Š‚ß‚Îè“`‚Á‚Ä‚­‚ê‚Ü‚·B	Paul will help you if you ask him nicely.		
+GU100S040	1	100	15_adjectives and adverbs 1	ƒgƒ€‚Í©•ª‚Ìd–‚ğŠy‚µ‚ñ‚Å‚¢‚Ü‚¹‚ñ‚Å‚µ‚½‚µAŒÙ—på‚Í”Ş‚ğ‚Ğ‚Ç‚­ˆµ‚¢‚Ü‚µ‚½B	"Tom didn't enjoy his job, and his employers treated him very badly."		
+GU100S041	1	100	15_adjectives and adverbs 1	‚»‚Ì‹›‚ğH‚×‚È‚¢‚Å‚­‚¾‚³‚¢Bˆ«‚¢“õ‚¢‚ª‚µ‚Ü‚·B	Don't eat that fish. It smells bad.		
+GU100S042	1	100	15_adjectives and adverbs 1	‚ ‚È‚½‚ª—Ç‚¢—·s‚ğ‚µ‚Ä–³–‚É‹A‚Á‚Ä‚«‚½‚±‚Æ‚ğŠğ‚µ‚­v‚¢‚Ü‚·B	I'm glad you had a good trip and got home safely.		
+GU100S043	1	100	15_adjectives and adverbs 1	‚»‚Ì‚Í‚µ‚²‚É“o‚ç‚È‚¢‚Å‚­‚¾‚³‚¢B‚»‚ê‚ÍˆÀ‘S‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Don't go up that ladder. It isn't safe.		
+GU100S044	1	100	15_adjectives and adverbs 1	‚»‚Ì‚Í‚µ‚²‚É“o‚ç‚È‚¢‚Å‚­‚¾‚³‚¢B‚»‚ê‚ÍˆÀ‘S‚»‚¤‚ÉŒ©‚¦‚Ü‚¹‚ñB	Don't go up that ladder. It doesn't look safe.		
+GU100S045	1	100	15_adjectives and adverbs 1	‚»‚ê‚ÍƒŠ[ƒYƒiƒuƒ‹‚È‰¿Ši‚ÌƒŒƒXƒgƒ‰ƒ“‚ÅAH‚×•¨‚Í”ñí‚É”ü–¡‚µ‚¢‚Å‚·B	It's a reasonably cheap restaurant and the food is extremely good.		
+GU100S046	1	100	15_adjectives and adverbs 1	–{“–‚É\‚µ–ó‚ ‚è‚Ü‚¹‚ñB‰Ÿ‚·‚Â‚à‚è‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I'm terribly sorry. I didn't mean to push you.		
+GU100S047	1	100	15_adjectives and adverbs 1	ƒ}ƒŠƒA‚ÍM‚¶‚ç‚ê‚È‚¢‚Ù‚Ç‘¬‚­Œ¾Œê‚ğŠw‚Ñ‚Ü‚·B	Maria learns languages incredibly quickly.		
+GU100S048	1	100	15_adjectives and adverbs 1	–ŒÌ‚Å“ñl‚ªd‚ğ•‰‚¢‚Ü‚µ‚½B	Two people were seriously injured in the accident.		
+GU100S049	1	100	15_adjectives and adverbs 1	‰ï‹c‚Í‚Ğ‚Ç‚­‘gD‚³‚ê‚Ä‚¢‚Ü‚µ‚½B	The conference was badly organised.		
+GU100S050	1	100	15_adjectives and adverbs 1	‚±‚Ì‰Æ‚Í‚Æ‚Ä‚à‘å‚«‚¢‚Å‚·I‚»‚ê‚Íâ‘Î‚É‹‘å‚Å‚·B	This house is so big! It's absolutely enormous.		
+GU100S051	1	100	15_adjectives and adverbs 1	„‚½‚¿‚Ì‹x‰É‚Íˆ«‚¢Œv‰æ‚Ì‚½‚ß‚É‘½‚­‚Ì–â‘è‚ª‚ ‚è‚Ü‚µ‚½B	A lot went wrong with our holiday because it was badly planned.		
+GU100S052	1	100	15_adjectives and adverbs 1	‚»‚ê‚Í[‚È–ŒÌ‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½BÔ‚Í‚í‚¸‚©‚É‘¹‚µ‚Ü‚µ‚½B	It wasn't a serious accident. The car was only slightly damaged.		
+GU100S053	1	100	15_adjectives and adverbs 1	„‚½‚¿‚Ìq‹Ÿ‚½‚¿‚Í’Êí”ñí‚ÉŠˆ”­‚Å‚·‚ªA¡“ú‚ÍˆÙí‚ÉÃ‚©‚Å‚·B	"Our children are normally very lively, but they're unusually quiet today."		
+GU100S054	1	100	15_adjectives and adverbs 1	ƒEƒBƒ‹‚Ì•êe‚Í•a‰@‚Åd•a‚Å‚·B	Will's mother is seriously ill in hospital.		
+GU100S055	1	100	15_adjectives and adverbs 1	‚»‚Ì‰f‰æ‚Í•s•K—v‚É’·‚©‚Á‚½‚Å‚·B‚à‚Á‚Æ’Z‚­‚Å‚«‚½‚Í‚¸‚Å‚·B	The movie was unnecessarily long. It could have been much shorter.		
+GU100S056	1	100	15_adjectives and adverbs 1	ƒXƒeƒB[ƒu‚Íâ‚¦‚¸“­‚¢‚Ä‚¢‚Ü‚·B”Ş‚ÍŒˆ‚µ‚Ä~‚Ü‚ç‚È‚¢‚æ‚¤‚Å‚·B	Steve works continuously. He never seems to stop.		
+GU100S057	1	100	15_adjectives and adverbs 1	ƒX[‚Í‰^“]’†‚ÉƒŠƒXƒN‚ğæ‚è‚Ü‚¹‚ñB”Ş—‚Íí‚É”ñí‚É’ˆÓ[‚¢‚Å‚·B	Sue doesn't take risks when she's driving. She's always very careful.		
+GU100S058	1	100	15_adjectives and adverbs 1	ƒŒƒCƒ`ƒFƒ‹‚ÆƒpƒgƒŠƒbƒN‚Í10”NŠÔK‚¹‚ÉŒ‹¥‚µ‚Ä‚¢‚Ü‚·B	Rachel and Patrick have been happily married for ten years.		
+GU100S059	1	100	15_adjectives and adverbs 1	„‚Í‰½‚à•·‚±‚¦‚Ü‚¹‚ñ‚Å‚µ‚½BŠ®‘S‚ÈÃâ‚ª‚ ‚è‚Ü‚µ‚½B	I couldn't hear anything. There was complete silence.		
+GU100S060	1	100	15_adjectives and adverbs 1	Œ±‚Í‹Á‚­‚Ù‚ÇŠÈ’P‚Å‚µ‚½B‚à‚Á‚Æ“ï‚µ‚¢‚Æv‚Á‚Ä‚¢‚Ü‚µ‚½B	The exam was surprisingly easy. I expected it to be harder.		
+GU100S061	1	100	15_adjectives and adverbs 1	‚±‚ÌH–‚Í“Á•Ê‚É‚ ‚È‚½‚Ì‚½‚ß‚Éì‚è‚Ü‚µ‚½‚Ì‚ÅA‹C‚É“ü‚Á‚Ä‚­‚ê‚é‚±‚Æ‚ğŠè‚Á‚Ä‚¢‚Ü‚·B	"I cooked this meal specially for you, so I hope you like it."		
+GU100S062	1	100	15_adjectives and adverbs 1	ƒ}ƒŠƒA‚Ì‰pŒê‚Í”ñí‚É—¬’¨‚Å‚·‚ªA‘½‚­‚ÌŠÔˆá‚¢‚ğ”Æ‚µ‚Ü‚·B	Maria's English is very fluent although she makes a lot of mistakes.		
+GU100S063	1	100	15_adjectives and adverbs 1	ƒWƒ‡[‚Í”Ş‚ªŠwZ‚Å‚¤‚Ü‚­‚¢‚©‚È‚©‚Á‚½‚Ì‚ÍA‚Ğ‚Ç‚­‹³‚¦‚ç‚ê‚½‚©‚ç‚¾‚ÆŒ¾‚Á‚Ä‚¢‚Ü‚·B	Joe says he didn't do well at school because he was badly taught.		
+GU100S064	1	100	15_adjectives and adverbs 1	„‚½‚¿‚Ì‹x‰É‚Í’Z‚·‚¬‚Ü‚µ‚½BŠÔ‚ª‘‚­‰ß‚¬‚Ü‚µ‚½B	Our holiday was too short. The time passed quickly.		
+GU100S065	1	100	15_adjectives and adverbs 1	ƒ^[ƒjƒƒ‚Íd–‚ğ¸‚Á‚½‚±‚Æ‚É”ñí‚É—‚¿‚ñ‚Å‚¢‚Ü‚·B	Tanya is terribly upset about losing her job.		
+GU100S066	1	100	15_adjectives and adverbs 1	‹C•ª‚ªˆ«‚¢‚Å‚·BƒCƒ“ƒtƒ‹ƒGƒ“ƒU‚¾‚Æv‚¢‚Ü‚·B	I feel awful. I think I have flu.		
+GU100S067	1	100	15_adjectives and adverbs 1	‚±‚Ì”“úŠÔ“V‹C‚ª‚Ğ‚Ç‚©‚Á‚½‚Å‚·B	The weather has been awful the last few days.		
+GU100S068	1	100	15_adjectives and adverbs 1	ƒJ[ƒjƒoƒ‹‚ÌQ‰ÁÒ‚Í‚İ‚ñ‚ÈƒJƒ‰ƒtƒ‹‚È•‚ğ’…‚Ä‚¢‚Ü‚µ‚½B	Everybody at the carnival was colourfully dressed.		
+GU100S069	1	100	15_adjectives and adverbs 1	ƒŠƒ“ƒ_‚Í’ÊíƒJƒ‰ƒtƒ‹‚È•‚ğ’…‚Ä‚¢‚Ü‚·B	Linda usually wears colourful clothes.		
+GU100S070	1	100	15_adjectives and adverbs 1	‚»‚ÌÔ‚Ì‰^“]è‚Íd‚ğ•‰‚¢A•a‰@‚É‰^‚Î‚ê‚Ü‚µ‚½B	The driver of the car had serious injuries and was taken to hospital.		
+GU100S071	1	100	15_adjectives and adverbs 1	ŒC‚ğ’…‚µ‚½‚çAŠ®àø‚É‡‚¢‚Ü‚µ‚½B	I tried on the shoes and they fitted me perfectly.		
+GU100S072	1	100	15_adjectives and adverbs 1	20”NŒã‚É‰Æ‚É‹A‚Á‚½‚Æ‚«A‚·‚×‚Ä‚ªŠ®‘S‚É•Ï‚í‚Á‚Ä‚¢‚Ü‚µ‚½B	"When I returned home after 20 years, everything had changed completely."		
+GU100S073	1	100	15_adjectives and adverbs 1	Ô‚ğ”ƒ‚¢‚½‚¢‚Ì‚Å‚·‚ªA¡‚Í„‚É‚Æ‚Á‚ÄŒoÏ“I‚É–³—‚Å‚·B	"I'd like to buy a car, but it's financially impossible for me right now."		
+GU101S001	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚Ì‰pŒê‚Íãè‚Å‚·B	Your English is good.		
+GU101S002	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚Í‰pŒê‚ğãè‚É˜b‚µ‚Ü‚·B	You speak English well.		
+GU101S003	1	101	15_adjectives and adverbs 1	ƒX[ƒUƒ“‚Í—D‚ê‚½ƒsƒAƒjƒXƒg‚Å‚·B	Susan is a good pianist.		
+GU101S004	1	101	15_adjectives and adverbs 1	ƒX[ƒUƒ“‚ÍƒsƒAƒm‚ğãè‚É’e‚«‚Ü‚·B	Susan plays the piano well.		
+GU101S005	1	101	15_adjectives and adverbs 1	ƒQƒCƒŠ[‚Ì•ƒe‚Í—L–¼‚Èì‰Æ‚Å‚·B	Gary's father is a well-known writer.		
+GU101S006	1	101	15_adjectives and adverbs 1	A: ‚²‹@Œ™‚¢‚©‚ª‚Å‚·‚©HB: Œ³‹C‚Å‚·A‚ ‚è‚ª‚Æ‚¤B	"A: How are you? B: I'm well, thanks."		
+GU101S007	1	101	15_adjectives and adverbs 1	A: ‚²‹@Œ™‚¢‚©‚ª‚Å‚·‚©HB: Œ³‹C‚Å‚·A‚ ‚è‚ª‚Æ‚¤B	"A: How are you? B: I'm good, thanks."		
+GU101S008	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚ÌŒ±Œ‹‰Ê‚Í‚Æ‚Ä‚à—Ç‚©‚Á‚½‚Å‚·B	Your exam results were very good.		
+GU101S009	1	101	15_adjectives and adverbs 1	Œ±‚Å‚Æ‚Ä‚à—Ç‚­‚Å‚«‚Ü‚µ‚½B	You did very well in your exams.		
+GU101S010	1	101	15_adjectives and adverbs 1	„‚ÍƒeƒjƒX‚ğ‚µ‚Ü‚·‚ªAãè‚ÈƒvƒŒ[ƒ„[‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I play tennis, but I'm not a good player."		
+GU101S011	1	101	15_adjectives and adverbs 1	ğ–é‚Í‚æ‚­–°‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't sleep well last night.		
+GU101S012	1	101	15_adjectives and adverbs 1	ƒ‹[ƒV[‚ÍŒ¾Œê‚ğŠw‚Ô‚Ì‚ª“¾ˆÓ‚Å‚·B	Lucy is good at learning languages.		
+GU101S013	1	101	15_adjectives and adverbs 1	ƒ‹[ƒV[‚ÍƒhƒCƒcŒê‚ğãè‚É˜b‚µ‚Ü‚·B	Lucy speaks German well.		
+GU101S014	1	101	15_adjectives and adverbs 1	”Ş—‚Ì‰Ì‚ğ•·‚¢‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚©H”Ş—‚Íãè‚É‰Ì‚¢‚Ü‚·B	Have you heard her sing? She sings well.		
+GU101S015	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚Ì–Xq‚ªD‚«‚Å‚·B‚æ‚­—‡‚Á‚Ä‚¢‚Ü‚·B	I like your hat. It looks good on you.		
+GU101S016	1	101	15_adjectives and adverbs 1	”Ş—‚É‰½“x‚©‰ï‚¢‚Ü‚µ‚½‚ªA‚æ‚­‚Í’m‚è‚Ü‚¹‚ñB	"I've met her a few times, but I don't know her well."		
+GU101S017	1	101	15_adjectives and adverbs 1	º‚ğ‘å‚«‚­‚µ‚Ä‚à‚ç‚¦‚Ü‚·‚©H‚æ‚­•·‚±‚¦‚Ü‚¹‚ñB	Can you speak up? I can't hear you very well.		
+GU101S018	1	101	15_adjectives and adverbs 1	q‹Ÿ‚½‚¿‚Í‚Æ‚Ä‚à‚¨s‹V‚ª—Ç‚©‚Á‚½‚Å‚·B”Ş‚ç‚Í‚æ‚­ç^‚¯‚ç‚ê‚Ä‚¢‚Ü‚µ‚½B	The children were very good. They were well-behaved.		
+GU101S019	1	101	15_adjectives and adverbs 1	”Ş—‚Ì‚±‚Æ‚ğ’m‚ç‚È‚¢‚È‚ñ‚Ä‹Á‚«‚Å‚·B”Ş—‚Í‚©‚È‚è—L–¼‚Å‚·B	I'm surprised you haven't heard of her. She's quite well-known.		
+GU101S020	1	101	15_adjectives and adverbs 1	—×l‚Ì’ë‚Í®‘R‚Æ‚µ‚Ä‚¢‚Ü‚·B‚»‚ê‚Í‚Æ‚Ä‚à‚æ‚­è“ü‚ê‚³‚ê‚Ä‚¢‚Ü‚·B	Our neighbours' garden is neat and tidy. It is very well-kept.		
+GU101S021	1	101	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚Í‚Æ‚Ä‚àˆê¶Œœ–½“­‚¢‚Ä‚¢‚Ü‚·‚ªA‹‹—¿‚Í—Ç‚­‚ ‚è‚Ü‚¹‚ñB	"Jane works very hard, but she's not well-paid."		
+GU101S022	1	101	15_adjectives and adverbs 1	‚»‚Ì–{‚ğŠy‚µ‚İ‚Ü‚µ‚½B‘f°‚ç‚µ‚¢ƒXƒg[ƒŠ[‚ÅA‚æ‚­‘‚©‚ê‚Ä‚¢‚Ü‚·B	I enjoyed the book. It's a great story and it's well-written.		
+GU101S023	1	101	15_adjectives and adverbs 1	ƒ^[ƒjƒƒ‚Í‰½‚Å‚à’m‚Á‚Ä‚¢‚Ü‚·B”Ş—‚Í”ñí‚Éî•ñ’Ê‚Å‚·B	Tanya knows about everything. She's very well-informed.		
+GU101S024	1	101	15_adjectives and adverbs 1	ƒ_ƒŒƒ“‚Í‘¬‚­‘–‚éƒ‰ƒ“ƒi[‚Å‚·B	Darren is a fast runner.		
+GU101S025	1	101	15_adjectives and adverbs 1	¡‚Íd–‚ğŒ©‚Â‚¯‚é‚Ì‚ª“ï‚µ‚¢‚Å‚·B	It's hard to find a job right now.		
+GU101S026	1	101	15_adjectives and adverbs 1	’x‚ê‚Ä‚²‚ß‚ñ‚È‚³‚¢B	Sorry I'm late.		
+GU101S027	1	101	15_adjectives and adverbs 1	ƒ_ƒŒƒ“‚Í‘¬‚­‘–‚ê‚Ü‚·B	Darren can run fast.		
+GU101S028	1	101	15_adjectives and adverbs 1	ƒPƒCƒg‚Íˆê¶Œœ–½“­‚«‚Ü‚·B	Kate works hard.		
+GU101S029	1	101	15_adjectives and adverbs 1	’x‚­‹N‚«‚Ü‚µ‚½B	I got up late.		
+GU101S030	1	101	15_adjectives and adverbs 1	Å‹ßƒgƒ€‚ğŒ©‚Ü‚µ‚½‚©H	Have you seen Tom lately?		
+GU101S031	1	101	15_adjectives and adverbs 1	–â‘è‚É‘Î‚·‚év‘¬‚È‰ğŒˆô‚ª•K—v‚Å‚·B	We need a quick solution to the problem.		
+GU101S032	1	101	15_adjectives and adverbs 1	–â‘è‚ğv‘¬‚É‰ğŒˆ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	We need to solve the problem quickly.		
+GU101S033	1	101	15_adjectives and adverbs 1	”Ş—‚ÍŠwK‚ª‘‚¢‚Å‚·B	She's a fast learner.		
+GU101S034	1	101	15_adjectives and adverbs 1	”Ş—‚Í‘¬‚­Šw‚Ñ‚Ü‚·B	She learns fast.		
+GU101S035	1	101	15_adjectives and adverbs 1	”Ş—‚Í—Ç‚¢‹³t‚Å‚·B	She's a good teacher.		
+GU101S036	1	101	15_adjectives and adverbs 1	”Ş—‚Í•¨–‚ğãè‚Éà–¾‚µ‚Ü‚·B	She explains things well.		
+GU101S037	1	101	15_adjectives and adverbs 1	‚±‚Ì“dÔ‚Í”ñí‚É’x‚¢‚Å‚·B	This train is very slow.		
+GU101S038	1	101	15_adjectives and adverbs 1	‚±‚Ì“dÔ‚Í”ñí‚É‚ä‚Á‚­‚è“®‚¢‚Ä‚¢‚Ü‚·B	This train is moving very slowly.		
+GU101S039	1	101	15_adjectives and adverbs 1	XW’†‚·‚é‚Ì‚ª“ï‚µ‚¢‚Å‚·B	Sometimes it is hard to concentrate.		
+GU101S040	1	101	15_adjectives and adverbs 1	ˆê¶Œœ–½W’†‚µ‚æ‚¤‚Æ‚µ‚Ü‚µ‚½B	I tried hard to concentrate.		
+GU101S041	1	101	15_adjectives and adverbs 1	ó‚¯‚½ƒAƒhƒoƒCƒX‚Íˆ«‚©‚Á‚½‚Å‚·B	The advice we received was bad.		
+GU101S042	1	101	15_adjectives and adverbs 1	„‚½‚¿‚Íˆ«‚¢ƒAƒhƒoƒCƒX‚ğó‚¯‚Ü‚µ‚½B	We were badly advised.		
+GU101S043	1	101	15_adjectives and adverbs 1	’x‚ê‚Ä‚²‚ß‚ñ‚È‚³‚¢B	I'm sorry I'm late.		
+GU101S044	1	101	15_adjectives and adverbs 1	¡”Ó‚Í’x‚­‚Ü‚Å“­‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I had to work late this evening.		
+GU101S045	1	101	15_adjectives and adverbs 1	ƒTƒ‰‚Íƒp[ƒeƒB[‚Å‚ ‚Ü‚èeØ‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B”Ş—‚Í‚Ù‚Æ‚ñ‚Ç˜b‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	Sarah wasn't very friendly at the party. She hardly spoke to me.		
+GU101S046	1	101	15_adjectives and adverbs 1	ˆê“x‚©“ñ“x‚µ‚©‰ï‚Á‚½‚±‚Æ‚ª‚ ‚è‚Ü‚¹‚ñB„‚½‚¿‚Í‚¨Œİ‚¢‚ğ‚Ù‚Æ‚ñ‚Ç’m‚è‚Ü‚¹‚ñB	We've only met once or twice. We hardly know each other.		
+GU101S047	1	101	15_adjectives and adverbs 1	”Ş‚Íˆê¶Œœ–½d–‚ğŒ©‚Â‚¯‚æ‚¤‚Æ‚µ‚Ü‚µ‚½‚ªA‰^‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	"He tried hard to find a job, but he had no luck."		
+GU101S048	1	101	15_adjectives and adverbs 1	”Ş‚ªd–‚ğŒ©‚Â‚¯‚ç‚ê‚È‚©‚Á‚½‚Ì‚Í‹Á‚­‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB”Ş‚Í‚Ù‚Æ‚ñ‚Ç“w—Í‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	I'm not surprised he didn't find a job. He hardly tried.		
+GU101S049	1	101	15_adjectives and adverbs 1	„‚½‚¿‚Í‚¨Œİ‚¢‚ğ‚Ù‚Æ‚ñ‚Ç’m‚è‚Ü‚¹‚ñB	We hardly know each other.		
+GU101S050	1	101	15_adjectives and adverbs 1	”Ş‚ªd–‚ğŒ©‚Â‚¯‚ç‚ê‚È‚©‚Á‚½‚Ì‚Í‹Á‚­‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB”Ş‚Í‚Ù‚Æ‚ñ‚Ç“w—Í‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	I'm not surprised he didn't find a job. He hardly tried.		
+GU101S051	1	101	15_adjectives and adverbs 1	„‚½‚¿‚Í‚¨Œİ‚¢‚ğ‚Ù‚Æ‚ñ‚Ç’m‚è‚Ü‚¹‚ñB	We hardly know each other.		
+GU101S052	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚Ì‘‚¢‚½‚à‚Ì‚Í‚Ğ‚Ç‚¢‚Å‚·B‚Ù‚Æ‚ñ‚Ç“Ç‚ß‚Ü‚¹‚ñB	Your writing is terrible. I can hardly read it.		
+GU101S053	1	101	15_adjectives and adverbs 1	‘«‚ª’É‚İ‚Ü‚µ‚½B‚Ù‚Æ‚ñ‚Ç•à‚¯‚Ü‚¹‚ñ‚Å‚µ‚½B	My leg was hurting. I could hardly walk.		
+GU101S054	1	101	15_adjectives and adverbs 1	”Ş—‚Ì–¼‘O‚ğv‚¢o‚»‚¤‚Æˆê¶Œœ–½Šæ’£‚è‚Ü‚µ‚½‚ªA‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"I tried hard to remember her name, but I couldn't."		
+GU101S055	1	101	15_adjectives and adverbs 1	‚±‚ÌƒR[ƒg‚Í‚Ù‚Æ‚ñ‚Çg‚í‚ê‚Ä‚¢‚Ü‚¹‚ñB‚Ù‚Æ‚ñ‚Ç’…‚Ä‚¢‚Ü‚¹‚ñB	This coat is practically unused. I've hardly worn it.		
+GU101S056	1	101	15_adjectives and adverbs 1	‚±‚±‚Í–{“–‚ÉˆÃ‚¢‚Å‚·B‚Ù‚Æ‚ñ‚ÇŒ©‚¦‚Ü‚¹‚ñB	It's really dark in here. I can hardly see.		
+GU101S057	1	101	15_adjectives and adverbs 1	ƒ[ƒ‰‚Í—Ç‚¢ƒeƒjƒXƒvƒŒ[ƒ„[‚Å‚·B”Ş—‚Íƒ{[ƒ‹‚ğ‹­‚­‘Å‚¿‚Ü‚·B	Laura is a good tennis player. She hits the ball hard.		
+GU101S058	1	101	15_adjectives and adverbs 1	ƒxƒ“‚Íƒ}ƒ‰ƒ\ƒ“‚ğ‘–‚é‚Â‚à‚è‚Å‚·B”Ş‚Íˆê¶Œœ–½ƒgƒŒ[ƒjƒ“ƒO‚µ‚Ä‚¢‚Ü‚·B	Ben is going to run a marathon. He's been training hard.		
+GU101S059	1	101	15_adjectives and adverbs 1	ƒQƒCƒŠ[‚Í15”N‘O‚Æ‘S‚­“¯‚¶‚æ‚¤‚ÉŒ©‚¦‚Ü‚·B”Ş‚Í‚Ù‚Æ‚ñ‚Ç•Ï‚í‚Á‚Ä‚¢‚Ü‚¹‚ñB	Gary looks just like he looked 15 years ago. He's hardly changed.		
+GU101S060	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚Í”ñí‚ÉÃ‚©‚É˜b‚µ‚Ä‚¢‚Ü‚·B‚Ù‚Æ‚ñ‚Ç•·‚±‚¦‚Ü‚¹‚ñB	You're speaking very quietly. I can hardly hear you.		
+GU101S061	1	101	15_adjectives and adverbs 1	¡’©‚Í‹C•ª‚ª—Ç‚­‚ ‚è‚Ü‚¹‚ñBğ–é‚Í‚Ù‚Æ‚ñ‚Ç–°‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	I don't feel good this morning. I hardly slept last night.		
+GU101S062	1	101	15_adjectives and adverbs 1	‹ó‹C‚ª–{“–‚Éˆ«‚©‚Á‚½‚Å‚·B‚Ù‚Æ‚ñ‚ÇŒÄ‹z‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	The air was really bad. I could hardly breathe.		
+GU101S063	1	101	15_adjectives and adverbs 1	‚Ğ‚°‚ª‚È‚¢‚Æˆá‚Á‚ÄŒ©‚¦‚Ü‚·B‚Ù‚Æ‚ñ‚Ç”F¯‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	You look different without your beard. I hardly recognised you.		
+GU101S064	1	101	15_adjectives and adverbs 1	‰ï‹c‚Å‚ ‚Ü‚è˜b‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B‚Ù‚Æ‚ñ‚Ç˜b‚µ‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't say much at the meeting. I hardly spoke.		
+GU101S065	1	101	15_adjectives and adverbs 1	‚»‚ê‚Í‚Æ‚Ä‚àÌ‚Ì‚±‚Æ‚Å‚µ‚½B‚Ù‚Æ‚ñ‚ÇŠo‚¦‚Ä‚¢‚Ü‚¹‚ñB	It happened so long ago. I can hardly remember it.		
+GU101S066	1	101	15_adjectives and adverbs 1	”Ş—‚Í‚Ù‚Æ‚ñ‚Ç‰½‚àŒ¾‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	She said hardly anything.	She hardly said anything.	
+GU101S067	1	101	15_adjectives and adverbs 1	”Ş‚Í‚Ù‚Æ‚ñ‚Ç‚¢‚Â‚à‰Æ‚É‚¢‚Ü‚·B‚Ù‚Æ‚ñ‚ÇŠOo‚µ‚Ü‚¹‚ñB	He's nearly always at home. He hardly ever goes out.		
+GU101S068	1	101	15_adjectives and adverbs 1	u‚Ù‚Æ‚ñ‚Çv‚Æ‚¢‚¤ˆÓ–¡‚à‚ ‚è‚Ü‚·B	Hardly also means 'certainly not'.		
+GU101S069	1	101	15_adjectives and adverbs 1	‚ ‚È‚½‚ª”æ‚ê‚Ä‚¢‚é‚Ì‚Í‹Á‚­‚±‚Æ‚Å‚Í‚ ‚è‚Ü‚¹‚ñBO“úŠÔ–°‚Á‚Ä‚¢‚Ü‚¹‚ñB	It's hardly surprising that you're tired. You haven't slept for three days.		
+GU101S070	1	101	15_adjectives and adverbs 1	ó‹µ‚Í—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚ªA‚Ù‚Æ‚ñ‚ÇŠë‹@‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"The situation isn't good, but it's hardly a crisis."		
+GU101S071	1	101	15_adjectives and adverbs 1	”ƒ‚¢•¨‚És‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñBH‚×‚é‚à‚Ì‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	I'll have to go shopping. There's hardly anything to eat.		
+GU101S072	1	101	15_adjectives and adverbs 1	‚Æ‚Ä‚à’g‚©‚¢“ú‚Å‚µ‚½‚ªA‚Ù‚Æ‚ñ‚Ç•—‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	It was a very warm day and there was hardly any wind.		
+GU101S073	1	101	15_adjectives and adverbs 1	ƒzƒeƒ‹‚Í‚Ù‚Æ‚ñ‚Ç‹ó‚Å‚µ‚½B‚Ù‚Æ‚ñ‚Ç’N‚à”‘‚Ü‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	The hotel was almost empty. There was hardly anybody staying there.		
+GU101S074	1	101	15_adjectives and adverbs 1	ƒ‰ƒWƒI‚Í‚æ‚­•·‚«‚Ü‚·‚ªAƒeƒŒƒr‚Í‚Ù‚Æ‚ñ‚ÇŒ©‚Ü‚¹‚ñB	"I listen to the radio a lot, but I hardly ever watch TV."		
+GU101S075	1	101	15_adjectives and adverbs 1	‚½‚­‚³‚ñ‚Ìl‚ğƒŒƒZƒvƒVƒ‡ƒ“‚Éµ‘Ò‚µ‚Ü‚µ‚½‚ªA‚Ù‚Æ‚ñ‚Ç’N‚à—ˆ‚Ü‚¹‚ñ‚Å‚µ‚½B	"We invited lots of people to the reception, but hardly anybody came."		
+GU101S076	1	101	15_adjectives and adverbs 1	•”‰®‚Í”ñí‚É¬G‚µ‚Ä‚¢‚Ü‚µ‚½B‚Ù‚Æ‚ñ‚ÇÀ‚éêŠ‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	It was very crowded in the room. There was hardly anywhere to sit.		
+GU101S077	1	101	15_adjectives and adverbs 1	ˆÈ‘O‚Í’‡‚Ì—Ç‚¢—F’B‚Å‚µ‚½‚ªA¡‚Í‚Ù‚Æ‚ñ‚Ç‰ï‚¢‚Ü‚¹‚ñB	"We used to be good friends, but we hardly ever see each other now."		
+GU101S078	1	101	15_adjectives and adverbs 1	‚±‚±‚É—ˆ‚é‚Ì‚É‚ ‚Ü‚èŠÔ‚ª‚©‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚Ù‚Æ‚ñ‚ÇŒğ’Êa‘Ø‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	It didn't take us long to get here. There was hardly any traffic.		
+GU101S079	1	101	15_adjectives and adverbs 1	‚±‚Ì’¬‚ªŒ™‚¢‚Å‚·B‚·‚é‚±‚Æ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	I hate this town. There's hardly anything to do.		
+GU101S080	1	101	15_adjectives and adverbs 1	„‚ÌƒAƒp[ƒg‚É‚ÍƒNƒ[ƒ[ƒbƒg‚ª‚ ‚è‚Ü‚¹‚ñB•¨‚ğ’u‚­êŠ‚ª‚Ù‚Æ‚ñ‚Ç‚ ‚è‚Ü‚¹‚ñB	There are no cupboards in my flat. There's hardly anywhere to keep things.		
+GU102S001	1	102	15_adjectives and adverbs 1	‚»‚Ì–{‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½BƒXƒg[ƒŠ[‚ª‚Æ‚Ä‚à”n­‚°‚Ä‚¢‚Ü‚µ‚½B	I didn't like the book. The story was so stupid.		
+GU102S002	1	102	15_adjectives and adverbs 1	‚·‚×‚Ä‚ª‚Æ‚Ä‚à‘¬‚­‹N‚±‚è‚Ü‚µ‚½B	Everything happened so quickly.		
+GU102S003	1	102	15_adjectives and adverbs 1	‚»‚Ì–{‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚Æ‚Ä‚à”n­‚°‚½ƒXƒg[ƒŠ[‚Å‚µ‚½B	I didn't like the book. It was such a stupid story.		
+GU102S004	1	102	15_adjectives and adverbs 1	ƒŠƒY‚ÆƒWƒ‡[‚ªD‚«‚Å‚·B”Ş‚ç‚Í‚Æ‚Ä‚à‚¢‚¢l‚½‚¿‚Å‚·B	I like Liz and Joe. They are such nice people.		
+GU102S005	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à‘å‚«‚ÈŒ¢	such a big dog		
+GU102S006	1	102	15_adjectives and adverbs 1	Å‹ß‚Í‰½‚à‚©‚à‚ª‚‚¢‚Å‚·‚ËB	"Everything is so expensive these days, isn't it?"		
+GU102S007	1	102	15_adjectives and adverbs 1	”Ş‚Í‚¢‚Â‚à‘f“G‚ÉŒ©‚¦‚Ü‚·B‚Æ‚Ä‚à‚¢‚¢•‚ğ’…‚Ä‚¢‚Ü‚·B	He always looks good. He wears such nice clothes.		
+GU102S008	1	102	15_adjectives and adverbs 1	ƒjƒ…[ƒX‚ğM‚¶‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚Æ‚Ä‚àƒVƒ‡ƒbƒN‚Å‚µ‚½B	I couldn't believe the news. It was such a shock.		
+GU102S009	1	102	15_adjectives and adverbs 1	‚ ‚È‚½‚Í‚Æ‚Ä‚àˆê¶Œœ–½“­‚¢‚Ä‚¢‚Ü‚·B‚È‚º‚»‚ñ‚È‚±‚Æ‚ğ‚·‚é‚Ì‚Å‚·‚©H	You work so hard. Why do you do it?		
+GU102S010	1	102	15_adjectives and adverbs 1	ƒp[ƒeƒB[‚Í‘f°‚ç‚µ‚©‚Á‚½‚Å‚·B‚ ‚È‚½‚ª—ˆ‚ê‚È‚©‚Á‚½‚Ì‚Í–{“–‚Éc”O‚Å‚·B	The party was great. It was such a shame you couldn't come.		
+GU102S011	1	102	15_adjectives and adverbs 1	‚·‚×‚Ä‚ª‚¤‚Ü‚­‚¢‚«‚Ü‚¹‚ñ‚Å‚µ‚½B‚Æ‚Ä‚à‰^‚ªˆ«‚©‚Á‚½‚Å‚·B	Everything went wrong. We had such bad luck.		
+GU102S012	1	102	15_adjectives and adverbs 1	‚È‚ñ‚Ä‘f“G‚È’ë‚Å‚µ‚å‚¤I‚±‚ê‚ç‚Í‚Æ‚Ä‚à”ü‚µ‚¢‰Ô‚Å‚·B	What a nice garden! These are such lovely flowers.		
+GU102S013	1	102	15_adjectives and adverbs 1	¡“ú‚Í‚Æ‚Ä‚àŠ¦‚¢‚Å‚·B–{“–‚É—â‚½‚¢•—‚ª‚¢‚Ä‚¢‚Ü‚·B	It's so cold today. There's a really cold wind.		
+GU102S014	1	102	15_adjectives and adverbs 1	‹u‚Ì’¸ã‚Ü‚Å•à‚¢‚Ä‚İ‚Ä‚­‚¾‚³‚¢B‚»‚±‚©‚ç‚ÌŒiF‚Í‚Æ‚Ä‚à‘f°‚ç‚µ‚¢‚Å‚·B	You should walk to the top of the hill. It's such a lovely view from there.		
+GU102S015	1	102	15_adjectives and adverbs 1	–Z‚µ‚¢ˆê“ú‚Å‚µ‚½B‚Æ‚Ä‚à”æ‚ê‚Ü‚µ‚½B	I've had a busy day. I'm so tired.		
+GU102S016	1	102	15_adjectives and adverbs 1	”Ş‚ğ—‰ğ‚·‚é‚Ì‚Í“ï‚µ‚¢‚Å‚·B”Ş‚Í‚Æ‚Ä‚àÃ‚©‚É˜b‚µ‚Ü‚·B	It's difficult to understand him. He talks so quietly.		
+GU102S017	1	102	15_adjectives and adverbs 1	‘f°‚ç‚µ‚¢—·s‚Å‚µ‚½B‚Æ‚Ä‚àŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚Ü‚µ‚½B	We had a great trip. We had such a good time.		
+GU102S018	1	102	15_adjectives and adverbs 1	‚ ‚È‚½‚Í‚¢‚Â‚à—Ç‚¢‚±‚Æ‚ª‹N‚±‚é‚Æv‚Á‚Ä‚¢‚Ü‚·‚ËB‚ ‚È‚½‚Í‚Æ‚Ä‚àŠyŠÏ“I‚Å‚·B	You always think good things are going to happen. You're such an optimist.		
+GU102S019	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à”æ‚ê‚Ä‚¢‚½‚Ì‚ÅAˆÖq‚ÅQ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	I was so tired that I fell asleep in the armchair.		
+GU102S020	1	102	15_adjectives and adverbs 1	“V‹C‚ª‚Æ‚Ä‚à—Ç‚©‚Á‚½‚Ì‚ÅAˆê“ú’†ƒr[ƒ`‚Å‰ß‚²‚µ‚Ü‚µ‚½B	It was such nice weather that we spent the whole day at the beach.		
+GU102S021	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à”æ‚ê‚ÄQ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	I was so tired I fell asleep.		
+GU102S022	1	102	15_adjectives and adverbs 1	“V‹C‚ª‚Æ‚Ä‚à—Ç‚©‚Á‚½‚Ì‚ÅAˆê“ú’†ƒr[ƒ`‚Å‰ß‚²‚µ‚Ü‚µ‚½B	It was such nice weather we spent the whole day on the beach.		
+GU102S023	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à‹Á‚¢‚ÄA‰½‚ğŒ¾‚Á‚½‚ç‚¢‚¢‚©‚í‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I was so surprised I didn't know what to say.		
+GU102S024	1	102	15_adjectives and adverbs 1	‹x‰É’†A‚Æ‚Ä‚àŠy‚µ‚©‚Á‚½‚Ì‚ÅA‰Æ‚É‹A‚è‚½‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	We had such a good time on holiday we didn't want to come home.		
+GU102S025	1	102	15_adjectives and adverbs 1	ƒoƒbƒO‚ª‚Æ‚Ä‚àd‚­‚Ä‚¿ã‚°‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The bag was so heavy I couldn't lift it.		
+GU102S026	1	102	15_adjectives and adverbs 1	‰¹Šy‚ª‚Æ‚Ä‚à‘å‚«‚©‚Á‚½‚Ì‚ÅA‰“‚­‚©‚ç‚Å‚à•·‚±‚¦‚Ü‚µ‚½B	The music was so loud you could hear it from miles away.		
+GU102S027	1	102	15_adjectives and adverbs 1	”Ş—‚Í‰pŒê‚ğ‚Æ‚Ä‚àãè‚É˜b‚µ‚Ü‚·B‚»‚ê‚ª•ê‘Œê‚Å‚ ‚é‚©‚Ì‚æ‚¤‚Å‚·B	She speaks English so well you'd think it was her native language.		
+GU102S028	1	102	15_adjectives and adverbs 1	’©H‚ğ‚Æ‚Ä‚à‚½‚­‚³‚ñH‚×‚½‚Ì‚ÅAˆê“ú’†‰½‚àH‚×‚Ü‚¹‚ñ‚Å‚µ‚½B	I had such a big breakfast I didn't eat anything for the rest of the day.		
+GU102S029	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à’·‚¢—ñ‚¾‚Á‚½‚Ì‚ÅA‘Ò‚½‚È‚¢‚±‚Æ‚É‚µ‚Ü‚µ‚½B	There was such a long queue we decided not to wait.		
+GU102S030	1	102	15_adjectives and adverbs 1	’N‚©‚ª‚»‚Ì‰Æ‚ª100”N‘O‚ÉŒš‚Ä‚ç‚ê‚½‚ÆŒ¾‚¢‚Ü‚µ‚½B‚»‚ê‚Ù‚ÇŒÃ‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	Somebody told me the house was built 100 years ago. I didn't realise it was so old.		
+GU102S031	1	102	15_adjectives and adverbs 1	”æ‚ê‚Ä‚¢‚Ü‚·B6‚É‹N‚«‚½‚Ì‚ÅB•’i‚Í‚»‚ñ‚È‚É‘‚­‹N‚«‚Ü‚¹‚ñB	I'm tired because I got up at six. I don't usually get up so early.		
+GU102S032	1	102	15_adjectives and adverbs 1	‚»‚ê‚ª^À‚Å‚È‚¢‚±‚Æ‚ğ’m‚Á‚Ä‚¢‚Ü‚·B‚Ç‚¤‚µ‚Ä‚»‚ñ‚È‚±‚Æ‚ğŒ¾‚¦‚é‚Ì‚Å‚·‚©H	You know it's not true. How can you say such a thing?		
+GU102S033	1	102	15_adjectives and adverbs 1	ublidv‚Æ‚¢‚¤’PŒê‚Í«‘‚É‚ ‚è‚Ü‚¹‚ñB‚»‚ñ‚È’PŒê‚Í‚ ‚è‚Ü‚¹‚ñB	You won't find the word 'blid' in the dictionary. There's no such word.		
+GU102S034	1	102	15_adjectives and adverbs 1	‚È‚º‚»‚ñ‚È‚É‹}‚¢‚Å‚¢‚é‚Ì‚Å‚·‚©H‚½‚­‚³‚ñŠÔ‚ª‚ ‚è‚Ü‚·B	Why are you in such a hurry? There's plenty of time.		
+GU102S035	1	102	15_adjectives and adverbs 1	‚±‚±‚É—ˆ‚é‚Ì‚ÉˆêŠÔ‚©‚©‚è‚Ü‚µ‚½B‚±‚ñ‚È‚ÉŠÔ‚ª‚©‚©‚é‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	It took us an hour to get here. I'm surprised it took so long.		
+GU102S036	1	102	15_adjectives and adverbs 1	”Ş‚ÍƒGƒ‹ƒNƒƒ“‚Æ‚¢‚¤‰ïĞ‚Å“­‚¢‚Ä‚¢‚é‚ÆŒ¾‚¢‚Ü‚µ‚½‚ªA‚»‚ñ‚È‰ïĞ‚Í‚ ‚è‚Ü‚¹‚ñB	"He said he worked for a company called Elcron, but there's no such company."		
+GU102S037	1	102	15_adjectives and adverbs 1	©•ª‚ª‚µ‚½‚±‚Æ‚ğŒã‰÷‚µ‚Ä‚¢‚Ü‚·B‚Ç‚¤‚µ‚Ä‚»‚ñ‚È”n­‚°‚½‚±‚Æ‚ğ‚µ‚½‚Ì‚¾‚ë‚¤H	I regret what I did. Why did I do such a stupid thing?		
+GU102S038	1	102	15_adjectives and adverbs 1	‚È‚º‚»‚ñ‚È‚É‚ä‚Á‚­‚è‰^“]‚µ‚Ä‚¢‚é‚Ì‚Å‚·‚©H‚à‚Á‚Æ‘¬‚­‰^“]‚Å‚«‚Ü‚¹‚ñ‚©H	Why are you driving so slowly? Can't you drive faster?		
+GU102S039	1	102	15_adjectives and adverbs 1	“ñƒ–ŒH‚Ç‚¤‚â‚Á‚Ä‚»‚ñ‚È‚É’ZŠúŠÔ‚Å‰pŒê‚ğŠw‚ñ‚¾‚Ì‚Å‚·‚©H	Two months? How did you learn English in such a short time?		
+GU102S040	1	102	15_adjectives and adverbs 1	‚Ç‚¤‚µ‚Ä‚»‚ñ‚È‚É‚‚¢“d˜b‚ğ”ƒ‚Á‚½‚Ì‚Å‚·‚©H‚à‚Á‚ÆˆÀ‚¢‚à‚Ì‚ª”ƒ‚¦‚½‚Ì‚ÉB	Why did you buy such an expensive phone? You could have got a cheaper one.		
+GU102S041	1	102	15_adjectives and adverbs 1	”Ş—‚É’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB	I haven't seen her for so long.		
+GU102S042	1	102	15_adjectives and adverbs 1	”Ş—‚É‚Æ‚Ä‚à’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñB	I haven't seen her for such a long time.		
+GU102S043	1	102	15_adjectives and adverbs 1	‚»‚ñ‚È‚É‰“‚¢‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't know it was so far.		
+GU102S044	1	102	15_adjectives and adverbs 1	‚±‚ñ‚È‚É’·‚¢“¹‚Ì‚è‚¾‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I didn't know it was such a long way.		
+GU102S045	1	102	15_adjectives and adverbs 1	’x‚ê‚Ä‚²‚ß‚ñ‚È‚³‚¢ - Œğ’Êa‘Ø‚ª‚Ğ‚Ç‚©‚Á‚½‚Å‚·B	I'm sorry I'm late - there was so much traffic.		
+GU102S046	1	102	15_adjectives and adverbs 1	’x‚ê‚Ä‚²‚ß‚ñ‚È‚³‚¢ - Œğ’Ê—Ê‚ª‚Æ‚Ä‚à‘½‚©‚Á‚½‚Å‚·B	I'm sorry I'm late - there was such a lot of traffic.		
+GU102S047	1	102	15_adjectives and adverbs 1	Ä‚Ñ‰ï‚¦‚ÄŠğ‚µ‚¢‚Å‚·I‚Æ‚Ä‚à’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	It's good to see you again! I haven't seen you for such a long time.		
+GU102S048	1	102	15_adjectives and adverbs 1	Ä‚Ñ‰ï‚¦‚ÄŠğ‚µ‚¢‚Å‚·I‚±‚ñ‚È‚É’·‚¢ŠÔ‰ï‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	It's good to see you again! I haven't seen you for so long.		
+GU102S049	1	102	15_adjectives and adverbs 1	“V‹C‚ª‘f°‚ç‚µ‚¢‚Å‚·‚ËH‚±‚ñ‚È‚É’g‚©‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"The weather's great, isn't it? I didn't expect it to be so warm."		
+GU102S050	1	102	15_adjectives and adverbs 1	“V‹C‚ª‘f°‚ç‚µ‚¢‚Å‚·‚ËH‚±‚ñ‚È‚É—Ç‚¢“V‹C‚¾‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	"The weather's great, isn't it? I didn't expect it to be such a nice day."		
+GU102S051	1	102	15_adjectives and adverbs 1	‹ó`‚ªŠX‚Ì‹ß‚­‚É‚ ‚é‚Æv‚Á‚Ä‚¢‚Ü‚µ‚½B‚±‚ñ‚È‚É‰“‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	I thought the airport was near the city. I didn't realise it was such a long way.		
+GU102S052	1	102	15_adjectives and adverbs 1	‹ó`‚ªŠX‚Ì‹ß‚­‚É‚ ‚é‚Æv‚Á‚Ä‚¢‚Ü‚µ‚½B‚±‚ñ‚È‚É‰“‚¢‚Æ‚Ív‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B	I thought the airport was near the city. I didn't realise it was so far.		
+GU102S053	1	102	15_adjectives and adverbs 1	’Ê‚è‚Í¬G‚µ‚Ä‚¢‚Ü‚µ‚½B‚Æ‚Ä‚à‘½‚­‚Ìl‚ª‚¢‚Ü‚µ‚½B	The streets were crowded. There were such a lot of people.		
+GU102S054	1	102	15_adjectives and adverbs 1	’Ê‚è‚Í¬G‚µ‚Ä‚¢‚Ü‚µ‚½B‚Æ‚Ä‚à‘½‚­‚Ìl‚ª‚¢‚Ü‚µ‚½B	The streets were crowded. There were so many people.		
+GU102S055	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à–Z‚µ‚¢‚Å‚·B‚â‚é‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	I'm very busy. I have so much to do.		
+GU102S056	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à–Z‚µ‚¢‚Å‚·B‚â‚é‚±‚Æ‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·B	I'm very busy. I have such a lot to do.		
+GU102S057	1	102	15_adjectives and adverbs 1	Å‹ß“V‹C‚ªˆ«‚¢‚Å‚·B•’i‚Í‚±‚ñ‚È‚É‰J‚ª~‚è‚Ü‚¹‚ñB	The weather has been bad recently. We don't normally have so much rain.		
+GU102S058	1	102	15_adjectives and adverbs 1	Å‹ß“V‹C‚ªˆ«‚¢‚Å‚·B•’i‚Í‚±‚ñ‚È‚É‰J‚ª~‚è‚Ü‚¹‚ñB	The weather has been bad recently. We don't normally have such a lot of rain.		
+GU102S059	1	102	15_adjectives and adverbs 1	ƒLƒƒƒTƒŠƒ“‚ªD‚«‚Å‚·B”Ş—‚Í‚Æ‚Ä‚à—Ç‚¢l‚Å‚·B	I like Catherine. She's such a nice person.		
+GU102S060	1	102	15_adjectives and adverbs 1	Î‚¢‚ª~‚Ü‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚Æ‚Ä‚à–Ê”’‚©‚Á‚½‚Å‚·B	I couldn't stop laughing. It was so funny.		
+GU102S061	1	102	15_adjectives and adverbs 1	‚Æ‚Ä‚à”ü‚µ‚¢“ú‚¾‚Á‚½‚Ì‚ÅAƒr[ƒ`‚És‚­‚±‚Æ‚É‚µ‚Ü‚µ‚½B	It was such a beautiful day we decided to go to the beach.		
+GU102S062	1	102	15_adjectives and adverbs 1	‰f‰æ‚Í‚Æ‚Ä‚à‘Ş‹ü‚¾‚Á‚½‚Ì‚ÅAQ‚Ä‚µ‚Ü‚¢‚Ü‚µ‚½B	The movie was so boring I fell asleep.		
+GU102S063	1	102	15_adjectives and adverbs 1	ƒWƒF[ƒ“‚ÆƒTƒ€‚É‰ï‚Á‚Ä‚­‚¾‚³‚¢B”Ş‚ç‚Í‚Æ‚Ä‚à‘f“G‚Èl‚½‚¿‚Å‚·B	You must meet Jane and Sam. They're such lovely people.		
+GU102S064	1	102	15_adjectives and adverbs 1	©•ª‚Ìd–‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB‚Æ‚Ä‚à‘Ş‹ü‚Èd–‚Å‚·B	I don't like my job. It's such boring work.		
+GU102S065	1	102	15_adjectives and adverbs 1	‚·‚×‚Ä‚Ìé“`‚Í—Ç‚¢‚à‚Ì‚Å‚·Bˆ«‚¢é“`‚È‚ñ‚Ä‚ ‚è‚Ü‚¹‚ñB	All publicity is good. There's no such thing as bad publicity.		
+GU102S066	1	102	15_adjectives and adverbs 1	”Ş—‚Ì‰Ì‚ğ•·‚¢‚½‚±‚Æ‚ª‚ ‚è‚Ü‚·‚©H”Ş—‚Ìº‚Í‚Æ‚Ä‚à”ü‚µ‚¢‚Å‚·B	Have you heard her sing? Her voice is so beautiful.		
+GU102S067	1	102	15_adjectives and adverbs 1	‰ï‹c‚Å‰½‚àŒˆ‚Ü‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚Æ‚Ä‚àŠÔ‚Ì–³‘Ê‚Å‚µ‚½B	Nothing was decided at the meeting. It was such a waste of time.		
+GU102S068	1	102	15_adjectives and adverbs 1	‚È‚º‚»‚ñ‚È‚É€”õ‚ÉŠÔ‚ª‚©‚©‚é‚Ì‚Å‚·‚©H	Why do you take such a long time to get ready?		
+GU103S001	1	103	15_adjectives and adverbs 1	„‚Í‰“‚­‚Ü‚Å‘–‚ê‚Ü‚¹‚ñB‘Ì—Í‚ª‘«‚è‚È‚¢‚Å‚·B	I can't run far. I'm not fit enough.		
+GU103S002	1	103	15_adjectives and adverbs 1	s‚«‚Ü‚µ‚å‚¤B‚à‚¤\•ª‘Ò‚¿‚Ü‚µ‚½B	Let's go. We've waited long enough.		
+GU103S003	1	103	15_adjectives and adverbs 1	„‚½‚¿‚Í\•ª‚È‚¨‹à‚ª‚ ‚è‚Ü‚·B‚à‚¤•K—v‚ ‚è‚Ü‚¹‚ñB	We have enough money. We don't need any more.		
+GU103S004	1	103	15_adjectives and adverbs 1	ˆÖq‚ª‘«‚è‚È‚©‚Á‚½‚Ì‚ÅA‰½l‚©‚Í°‚ÉÀ‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	There weren't enough chairs. Some of us had to sit on the floor.		
+GU103S005	1	103	15_adjectives and adverbs 1	‚à‚Á‚Æ‚¨‹à‚Í•K—v‚ ‚è‚Ü‚¹‚ñB\•ª‚ ‚è‚Ü‚·B	We don't need more money. We have enough.		
+GU103S006	1	103	15_adjectives and adverbs 1	„‚ÍƒoƒXƒPƒbƒgƒ{[ƒ‹‚ª“¾ˆÓ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	I'm not good at basketball.		
+GU103S007	1	103	15_adjectives and adverbs 1	„‚Í”w‚ª‘«‚è‚Ü‚¹‚ñB	I'm not tall enough.		
+GU103S008	1	103	15_adjectives and adverbs 1	‚±‚±‚ÌŒö‹¤Œğ’Ê‹@ŠÖ‚Í—Ç‚­‚ ‚è‚Ü‚¹‚ñB	Public transport here isn't good.		
+GU103S009	1	103	15_adjectives and adverbs 1	ƒoƒX‚ª‘«‚è‚Ü‚¹‚ñB	There aren't enough buses.		
+GU103S010	1	103	15_adjectives and adverbs 1	‚±‚±‚ÉÔ‚ğ’â‚ß‚ç‚ê‚Ü‚¹‚ñBƒXƒy[ƒX‚ª\•ª‚ÉL‚­‚ ‚è‚Ü‚¹‚ñB	I can't park the car here. The space isn't wide enough.		
+GU103S011	1	103	15_adjectives and adverbs 1	‚±‚êˆÈã‘¬‚­•à‚¯‚Ü‚¹‚ñBƒGƒlƒ‹ƒM[‚ª‘«‚è‚Ü‚¹‚ñB	I can't walk any faster. I don't have enough energy.		
+GU103S012	1	103	15_adjectives and adverbs 1	ƒgƒ€‚Í¡“úd–‚És‚«‚Ü‚¹‚ñ‚Å‚µ‚½B\•ª‚É‹C•ª‚ª—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	Tom didn't go to work today. He didn't feel well enough.		
+GU103S013	1	103	15_adjectives and adverbs 1	‚ ‚È‚½‚ÍH¶Šˆ‚ğ•Ï‚¦‚é•K—v‚ª‚ ‚è‚Ü‚·B–ìØ‚ğ\•ª‚ÉH‚×‚Ä‚¢‚Ü‚¹‚ñB	You need to change your diet. You don't eat enough vegetables.		
+GU103S014	1	103	15_adjectives and adverbs 1	\•ª‚ÈŠÔ‚ª‚È‚©‚Á‚½‚Ì‚ÅA‚â‚è‚½‚¢‚±‚Æ‚ğ‚·‚×‚Ä‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	I couldn't do everything I wanted because there wasn't enough time.		
+GU103S015	1	103	15_adjectives and adverbs 1	“¯‚É‘Sˆõ‚ÅƒR[ƒq[‚ğˆù‚Ş‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñBƒJƒbƒv‚ª‘«‚è‚Ü‚¹‚ñB	We can't all have coffee at the same time. We don't have enough cups.		
+GU103S016	1	103	15_adjectives and adverbs 1	‚ ‚È‚½‚ÍŒˆ‚µ‚Äd–‚ğ~‚ß‚Ü‚¹‚ñB“­‚«‚·‚¬‚Å‚·B	You never stop working. You work too hard.		
+GU103S017	1	103	15_adjectives and adverbs 1	‚ ‚È‚½‚Í‘Ó‚¯Ò‚Å‚·B\•ª‚Éˆê¶Œœ–½“­‚¢‚Ä‚¢‚Ü‚¹‚ñB	You're lazy. You don't work hard enough.		
+GU103S018	1	103	15_adjectives and adverbs 1	‚±‚Ì•”‰®‚É‚Í‰Æ‹ï‚ª‘½‚·‚¬‚Ü‚·BƒXƒy[ƒX‚ª‘«‚è‚Ü‚¹‚ñB	There's too much furniture in this room. There's not enough space.		
+GU103S019	1	103	15_adjectives and adverbs 1	l‚ª‘½‚·‚¬‚ÄˆÖq‚ª‘«‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	There were too many people and not enough chairs.		
+GU103S020	1	103	15_adjectives and adverbs 1	“X‚Å‰½‚à”ƒ‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B‚·‚×‚Ä‚ª‚‚·‚¬‚Ü‚µ‚½B	I didn't buy anything in the shop. Everything was too expensive.		
+GU103S021	1	103	15_adjectives and adverbs 1	‚±‚±‚Å“­‚¯‚Ü‚¹‚ñB‘›‰¹‚ª‘½‚·‚¬‚Ü‚·B	I can't work here. There's too much noise.		
+GU103S022	1	103	15_adjectives and adverbs 1	ƒKƒ\ƒŠƒ“‚Í\•ª‚ ‚è‚Ü‚·‚©A‚»‚ê‚Æ‚à~‚Ü‚Á‚Ä“ü‚ê‚Ü‚·‚©H	"Do we have enough petrol, or should we stop and get some?"		
+GU103S023	1	103	15_adjectives and adverbs 1	–¾“ú‚¨’m‚ç‚¹‚Å‚«‚Ü‚·B‚»‚ê‚Å\•ª‘‚¢‚Å‚·‚©H	I can let you know tomorrow. Is that soon enough?		
+GU103S024	1	103	15_adjectives and adverbs 1	‚±‚Ì“¹˜H‚Å‚Í–ŒÌ‚ª‘½‚·‚¬‚Ü‚·B‰½‚©‘Îô‚ª•K—v‚Å‚·B	There are too many accidents on this road. Something needs to be done.		
+GU103S025	1	103	15_adjectives and adverbs 1	Ô‚ğ”ƒ‚¢‚½‚¢‚Ì‚Å‚·‚ªA¡‚Í‚¨‹à‚ª‘«‚è‚Ü‚¹‚ñB	"I'd like to buy a car, but I don't have enough money right now."		
+GU103S026	1	103	15_adjectives and adverbs 1	‰f‰æ‚ÍD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B–\—Í“I‚·‚¬‚Ü‚µ‚½B	I didn't like the film. It was too violent.		
+GU103S027	1	103	15_adjectives and adverbs 1	ƒƒjƒ…[‚É‚Í‚ ‚Ü‚è‘½‚­‚Ì‘I‘ğˆ‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B\•ª‚È‘I‘ğˆ‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	There were very few things on the menu. There wasn't enough choice.		
+GU103S028	1	103	15_adjectives and adverbs 1	ƒWƒ‡[‚Í‚»‚Ìd–‚É\•ª‚ÈŒoŒ±‚ª‚ ‚è‚Ü‚·‚©H	Does Joe have enough experience for the job?		
+GU103S029	1	103	15_adjectives and adverbs 1	‚±‚ÌƒoƒbƒO‚Í„‚Ì•‚·‚×‚Ä‚É‚Í\•ª‚È‘å‚«‚³‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	This bag isn't big enough for all my clothes.		
+GU103S030	1	103	15_adjectives and adverbs 1	‚»‚ÌƒVƒƒƒc‚Í‚ ‚È‚½‚É‚Í¬‚³‚·‚¬‚Ü‚·B‚à‚Á‚Æ‘å‚«‚ÈƒTƒCƒY‚ª•K—v‚Å‚·B	That shirt is too small for you. You need a larger size.		
+GU103S031	1	103	15_adjectives and adverbs 1	ƒWƒ‡[‚Í‚»‚Ìd–‚ğ‚·‚é‚Ì‚É\•ª‚ÈŒoŒ±‚ª‚ ‚è‚Ü‚·‚©H	Does Joe have enough experience to do the job?		
+GU103S032	1	103	15_adjectives and adverbs 1	ƒ^ƒNƒV[‚ğŒÄ‚Ñ‚Ü‚µ‚å‚¤B‚±‚±‚©‚ç•à‚¢‚Ä‹A‚é‚É‚Í‰“‚·‚¬‚Ü‚·B	Let's get a taxi. It's too far to walk home from here.		
+GU103S033	1	103	15_adjectives and adverbs 1	‚±‚Ì‹´‚Í‚¿‚å‚¤‚Ç2‘ä‚ÌÔ‚ª‚·‚êˆá‚¤‚Ì‚É\•ª‚ÈL‚³‚Å‚·B	The bridge is just wide enough for two cars to pass one another.		
+GU103S034	1	103	15_adjectives and adverbs 1	Œ_–ñ‚ÉƒTƒCƒ“‚µ‚Ü‚µ‚½Bl‚¦’¼‚·‚É‚Í’x‚·‚¬‚Ü‚·B	You've signed the contract. It's too late to change your mind.		
+GU103S035	1	103	15_adjectives and adverbs 1	‚±‚±‚ÅŒg‘Ñ“d˜b‚ğg‚¦‚Ü‚¹‚ñB’Ê˜b‚·‚é‚Ì‚É\•ª‚È“d”g‚ª‚ ‚è‚Ü‚¹‚ñB	I can't use my mobile phone here. The signal isn't strong enough to make a call.		
+GU103S036	1	103	15_adjectives and adverbs 1	‰Æ‚Ü‚Å•à‚©‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚Å‚µ‚½Bƒ^ƒNƒV[‘ã‚ª‘«‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	I had to walk home. I didn't have enough money for a taxi.		
+GU103S037	1	103	15_adjectives and adverbs 1	”Ş‚Í‚Ü‚¾18Î‚Å‚·BŒ‹¥‚·‚é‚É‚Íá‚·‚¬‚é‚Æv‚¢‚Ü‚·B	He's only 18. I think that's too young to get married.		
+GU103S038	1	103	15_adjectives and adverbs 1	ƒKƒ\ƒŠƒ“‚ğ“ü‚ê‚é‚½‚ß‚É~‚Ü‚ç‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB‰Æ‚Ü‚Å\•ª‚È—Ê‚ª‚ ‚è‚Ü‚¹‚ñB	We'll have to stop for petrol. We don't have enough to get home.		
+GU103S039	1	103	15_adjectives and adverbs 1	‚±‚ê‚Í”ñí‚É¬‚³‚ÈÔ‚Å‚·B„‚½‚¿‘Sˆõ‚ªæ‚é‚É‚ÍƒXƒy[ƒX‚ª‘«‚è‚Ü‚¹‚ñB	It's a very small car. There isn't enough room for all of us to travel in it.		
+GU103S040	1	103	15_adjectives and adverbs 1	ƒ\ƒtƒB[‚Í‰^“]‚Å‚«‚Ü‚¹‚ñB‰^“]–Æ‹–‚ğæ‚é‚É‚Í‚Ü‚¾\•ª‚È”N—î‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Sophie can't drive. She's not old enough to have a licence.		
+GU103S041	1	103	15_adjectives and adverbs 1	‚±‚Ì‹ó`‚É‚Í’Z‚¢ŠŠ‘–˜H‚µ‚©‚ ‚è‚Ü‚¹‚ñB‘åŒ^‹@‚ª’…—¤‚·‚é‚É‚Í’Z‚·‚¬‚Ü‚·B	This airport only has a short runway. It's too short for large planes to land.		
+GU103S042	1	103	15_adjectives and adverbs 1	H‚×•¨‚ª‚Æ‚Ä‚à”M‚©‚Á‚½‚Ì‚ÅAH‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The food was very hot. We couldn't eat it.		
+GU103S043	1	103	15_adjectives and adverbs 1	H‚×•¨‚ª‚Æ‚Ä‚à”M‚©‚Á‚½‚Ì‚ÅAH‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The food was so hot that we couldn't eat it.		
+GU103S044	1	103	15_adjectives and adverbs 1	H‚×•¨‚ª”M‚·‚¬‚ÄH‚×‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The food was too hot to eat.		
+GU103S045	1	103	15_adjectives and adverbs 1	‚±‚ê‚ç‚Ì” ‚Íd‚·‚¬‚Ä‰^‚×‚Ü‚¹‚ñB	These boxes are too heavy to carry.		
+GU103S046	1	103	15_adjectives and adverbs 1	à•z‚ª‘å‚«‚·‚¬‚Äƒ|ƒPƒbƒg‚É“ü‚ê‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The wallet was too big to put in my pocket.		
+GU103S047	1	103	15_adjectives and adverbs 1	‚±‚ÌˆÖq‚Íã‚É—§‚Â‚É‚Í\•ª‚È‹­“x‚ª‚ ‚è‚Ü‚¹‚ñB	This chair isn't strong enough to stand on.		
+GU103S048	1	103	15_adjectives and adverbs 1	‚±‚ÌƒR[ƒq[‚Í‚Æ‚Ä‚à”M‚¢‚Å‚·B‚Ü‚¾ˆù‚ß‚Ü‚¹‚ñB	This coffee is very hot. I can't drink it yet.		
+GU103S049	1	103	15_adjectives and adverbs 1	‚±‚ÌƒR[ƒq[‚Í”M‚·‚¬‚Äˆù‚ß‚Ü‚¹‚ñB	This coffee is too hot to drink.		
+GU103S050	1	103	15_adjectives and adverbs 1	’N‚àƒsƒAƒm‚ğ“®‚©‚¹‚Ü‚¹‚ñ‚Å‚µ‚½B‚Æ‚Ä‚àd‚©‚Á‚½‚Å‚·B	Nobody could move the piano. It was very heavy.		
+GU103S051	1	103	15_adjectives and adverbs 1	ƒsƒAƒm‚Íd‚·‚¬‚Ä“®‚©‚¹‚Ü‚¹‚ñ‚Å‚µ‚½B	The piano was too heavy to move.		
+GU103S052	1	103	15_adjectives and adverbs 1	ó‹µ‚ğà–¾‚Å‚«‚Ü‚¹‚ñB‚»‚ê‚Í‚Æ‚Ä‚à•¡G‚Å‚·B	I can't explain the situation. It's very complicated.		
+GU103S053	1	103	15_adjectives and adverbs 1	ó‹µ‚Í•¡G‚·‚¬‚Äà–¾‚Å‚«‚Ü‚¹‚ñB	The situation is too complicated to explain.		
+GU103S054	1	103	15_adjectives and adverbs 1	•Ç‚Í‚©‚È‚è‚‚©‚Á‚½‚Ì‚ÅA“o‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	The wall was quite high. We couldn't climb over it.		
+GU103S055	1	103	15_adjectives and adverbs 1	•Ç‚Í‚‚·‚¬‚Ä“o‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B	The wall was too high to climb over.		
+GU103S056	1	103	15_adjectives and adverbs 1	”Ş‚ç‚Í‚¨‹à‚ğ‚ ‚Ü‚è‰Ò‚¢‚Å‚¢‚Ü‚¹‚ñB‚»‚ê‚Å‚Í¶Šˆ‚Å‚«‚Ü‚¹‚ñB	They don't earn much money. They can't live on it.		
+GU103S057	1	103	15_adjectives and adverbs 1	”Ş‚ç‚Í¶Šˆ‚·‚é‚Ì‚É\•ª‚È‚¨‹à‚ğ‰Ò‚¢‚Å‚¢‚Ü‚¹‚ñB	They don't earn enough money to live on.		
+GU103S058	1	103	15_adjectives and adverbs 1	‚¢‚­‚Â‚©‚Ì•¨‚Í”ñí‚É¬‚³‚¢‚Å‚·B‚»‚ê‚ğŒ©‚é‚½‚ß‚É‚ÍŒ°”÷‹¾‚ª•K—v‚Å‚·B	Some things are very small. You need a microscope to see them.		
+GU103S059	1	103	15_adjectives and adverbs 1	‚¢‚­‚Â‚©‚Ì•¨‚ÍŒ°”÷‹¾‚È‚µ‚Å‚Í¬‚³‚·‚¬‚ÄŒ©‚¦‚Ü‚¹‚ñB	Some things are too small to see without a microscope.		
+GU103S060	1	103	15_adjectives and adverbs 1	‚±‚Ìƒ\ƒtƒ@‚Í‚©‚È‚è¬‚³‚¢‚Å‚·B3l‚ªˆê‚ÉÀ‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB	This sofa is quite small. Three people can't sit on it together.		
+GU103S061	1	103	15_adjectives and adverbs 1	‚±‚Ìƒ\ƒtƒ@‚Í3l‚ªˆê‚ÉÀ‚é‚Ì‚É\•ª‚È‘å‚«‚³‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	This sofa isn't big enough for three people to sit on.		
+GU104S001	1	104	15_adjectives and adverbs 1	ŠO‚Éo‚é‚Æ‚«‚ÍƒR[ƒg‚ª•K—v‚Å‚·B‚©‚È‚èŠ¦‚¢‚Å‚·B	You'll need a coat when you go out. It's quite cold.	It's pretty cold.	
+GU104S002	1	104	15_adjectives and adverbs 1	”Ş—‚Ì‚±‚Æ‚ğ•·‚¢‚½‚±‚Æ‚ª‚È‚¢‚Æ‚Í‹Á‚«‚Å‚·B”Ş—‚Í‚©‚È‚è—L–¼‚Å‚·B	I'm surprised you haven't heard of her. She's quite famous.	She's pretty famous.	
+GU104S003	1	104	15_adjectives and adverbs 1	ƒAƒ“ƒi‚Í„‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚é‚Ì‚ÅA„‚½‚¿‚Í‚©‚È‚è•p”É‚É‰ï‚¢‚Ü‚·B	"Anna lives quite near me, so we see each other pretty often."		
+GU104S004	1	104	15_adjectives and adverbs 1	„‚Í‚©‚È‚è‚¨• ‚ª‹ó‚¢‚Ä‚¢‚Ü‚·B‰½‚©H‚×‚é‚à‚Ì‚Í‚ ‚è‚Ü‚·‚©H	I'm quite hungry. Is there anything to eat?		
+GU104S005	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Í‚©‚È‚è•p”É‚É‰f‰æŠÙ‚És‚«‚Ü‚· - ‚½‚Ô‚ñŒ‚Éˆê“x‚­‚ç‚¢B	We go to the cinema quite often - maybe once a month.		
+GU104S006	1	104	15_adjectives and adverbs 1	‚±‚Ì‰Æ‚ª‚¢‚ÂŒš‚Ä‚ç‚ê‚½‚©³Šm‚É‚Í‚í‚©‚è‚Ü‚¹‚ñ‚ªA‚©‚È‚èŒÃ‚¢‚±‚Æ‚Í’m‚Á‚Ä‚¢‚Ü‚·B	"I don't know exactly when this house was built, but I know it's pretty old."		
+GU104S007	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Í‚Æ‚Ä‚à–Z‚µ‚¢“¹˜H‚Ì‹ß‚­‚ÉZ‚ñ‚Å‚¢‚é‚Ì‚ÅA‚©‚È‚è‘›‚ª‚µ‚¢‚±‚Æ‚ª‚æ‚­‚ ‚è‚Ü‚·B	"We live near a very busy road, so it's often quite noisy."		
+GU104S008	1	104	15_adjectives and adverbs 1	„‚Í‡‚ÉŸ‚Â‚Æv‚¢‚Ü‚·B‚©‚È‚è©M‚ª‚ ‚è‚Ü‚·B	I think we'll win the match. I'm pretty confident.		
+GU104S009	1	104	15_adjectives and adverbs 1	ƒŠƒT‚ª„‚É˜A—‚·‚é‚Æ‚Ív‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B”Ş—‚ª“d˜b‚ğ‚©‚¯‚Ä‚«‚½‚Æ‚«‚Í‚©‚È‚è‹Á‚«‚Ü‚µ‚½B	I didn't expect Lisa to contact me. I was quite surprised when she phoned.		
+GU104S010	1	104	15_adjectives and adverbs 1	‚±‚ÌƒŒƒXƒgƒ‰ƒ“‚Í‚ ‚Ü‚è‚‚­‚ ‚è‚Ü‚¹‚ñB‰¿Ši‚Í‚©‚È‚è‡—“I‚Å‚·B	This restaurant isn't very expensive. The prices are pretty reasonable.		
+GU104S011	1	104	15_adjectives and adverbs 1	ğ–é‚Í‚©‚È‚è’x‚­Q‚½‚Ì‚ÅA¡’©‚Í­‚µ”æ‚ê‚Ä‚¢‚Ü‚·B	"I went to bed quite late last night, so I'm a little tired this morning."		
+GU104S012	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Í‚©‚È‚èŒÃ‚¢‰Æ‚ÉZ‚ñ‚Å‚¢‚Ü‚·B	We live in quite an old house.		
+GU104S013	1	104	15_adjectives and adverbs 1	ƒTƒ‰‚Í‚©‚È‚è—Ç‚¢d–‚ğ‚µ‚Ä‚¢‚Ü‚·B	Sarah has quite a good job.		
+GU104S014	1	104	15_adjectives and adverbs 1	ƒTƒ‰‚Í‚©‚È‚è—Ç‚¢d–‚ğ‚µ‚Ä‚¢‚Ü‚·B	Sarah has a pretty good job.		
+GU104S015	1	104	15_adjectives and adverbs 1	”Ş‚ç‚É‰ï‚¤‚Æ‚Ív‚Á‚Ä‚¢‚Ü‚¹‚ñ‚Å‚µ‚½B‚©‚È‚è‹Á‚«‚Ü‚µ‚½B	I didn't expect to see them. It was quite a surprise.		
+GU104S016	1	104	15_adjectives and adverbs 1	Œ‹¥®‚É‚Í‚©‚È‚è‘½‚­‚ÌƒQƒXƒg‚ª‚¢‚Ü‚µ‚½B	There were quite a lot of guests at the wedding.		
+GU104S017	1	104	15_adjectives and adverbs 1	ƒeƒjƒX‚Í‚©‚È‚èD‚«‚Å‚·‚ªA„‚Ìˆê”ÔD‚«‚ÈƒXƒ|[ƒc‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"I quite like tennis, but it's not my favourite sport."		
+GU104S018	1	104	15_adjectives and adverbs 1	¡“ú‚Í‚ ‚Ü‚è’g‚©‚­‚ ‚è‚Ü‚¹‚ñB‚©‚È‚è‹­‚¢•—‚ª‚¢‚Ä‚¢‚Ü‚·B	It's not so warm today. There's quite a strong wind.		
+GU104S019	1	104	15_adjectives and adverbs 1	“V‹C‚Í„‚½‚¿‚ªŠú‘Ò‚µ‚Ä‚¢‚½‚æ‚è‚à—Ç‚©‚Á‚½‚Å‚·B‚©‚È‚è—Ç‚¢“ú‚Å‚µ‚½B	The weather was better than we had expected. It was quite a nice day.		
+GU104S020	1	104	15_adjectives and adverbs 1	„‚Í”æ‚ê‚Ä‚¢‚Ü‚·B‚©‚È‚è–Z‚µ‚¢“ú‚Å‚µ‚½B	I'm tired. I've had a pretty busy day.		
+GU104S021	1	104	15_adjectives and adverbs 1	ƒgƒ€‚Í‰Ì‚¤‚Ì‚ªD‚«‚Å‚·B”Ş‚Í‚©‚È‚è—Ç‚¢º‚ğ‚µ‚Ä‚¢‚Ü‚·B	Tom likes to sing. He has quite a good voice.		
+GU104S022	1	104	15_adjectives and adverbs 1	“¹˜H‚Í¬‚ñ‚Å‚¢‚Ü‚µ‚½B‚©‚È‚è‚ÌŒğ’Ê—Ê‚ª‚ ‚è‚Ü‚µ‚½B	The roads were busy. There was quite a lot of traffic.		
+GU104S023	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Ì‹x“ú‚Í‚Ü‚ ‚Ü‚ ‚Å‚µ‚½B‚©‚È‚èŠy‚µ‚¢ŠÔ‚ğ‰ß‚²‚µ‚Ü‚µ‚½B	Our holiday was OK. We had a pretty good time.		
+GU104S024	1	104	15_adjectives and adverbs 1	’¬‚Ì’†S‚Ü‚Å•à‚­‚Ì‚É‚©‚È‚èŠÔ‚ª‚©‚©‚è‚Ü‚µ‚½B‚©‚È‚è‚Ì‹——£‚Å‚µ‚½B	It took us a long time to walk to the centre of town. It was quite a way.		
+GU104S025	1	104	15_adjectives and adverbs 1	ƒƒo[ƒg‚Í‚»‚Ì‰f‰æ‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½‚ªA„‚Í‚Ü‚ ‚Ü‚ ‚¾‚Æv‚¢‚Ü‚µ‚½B„‚Í‚©‚È‚èD‚«‚Å‚µ‚½B	"Robert didn't like the movie, but I thought it was OK. I quite liked it."		
+GU104S026	1	104	15_adjectives and adverbs 1	“V‹C‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñB‚©‚È‚è“Ü‚Á‚Ä‚¢‚Ü‚·B	The weather isn't so good. It's rather cloudy.		
+GU104S027	1	104	15_adjectives and adverbs 1	ƒ|[ƒ‹‚Í‚©‚È‚è“à‹C‚Å‚·B‚ ‚Ü‚è˜b‚µ‚Ü‚¹‚ñB	Paul is rather shy. He doesn't talk very much.		
+GU104S028	1	104	15_adjectives and adverbs 1	‚±‚ê‚ç‚ÌƒIƒŒƒ“ƒW‚Í‚©‚È‚è”ü–¡‚µ‚¢‚Å‚·B‚Ç‚±‚Åè‚É“ü‚ê‚Ü‚µ‚½‚©H	These oranges are rather good. Where did you get them?		
+GU104S029	1	104	15_adjectives and adverbs 1	‰f‰æ‚ÍŠy‚µ‚İ‚Ü‚µ‚½‚ªA‚©‚È‚è’·‚©‚Á‚½‚Å‚·B	"I enjoyed the film, but it was rather long."		
+GU104S030	1	104	15_adjectives and adverbs 1	„‚½‚¿‚ª”‘‚Ü‚Á‚½ƒzƒeƒ‹‚Í‚ ‚Ü‚è—Ç‚­‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚©‚È‚è‚ª‚Á‚©‚è‚µ‚Ü‚µ‚½B	The hotel we stayed at wasn't very nice. We were rather disappointed.		
+GU104S031	1	104	15_adjectives and adverbs 1	ƒNƒŠƒX‚Í’N‚É‚àŒ¾‚í‚¸‚Éo‚©‚¯‚Ü‚µ‚½B‚»‚ê‚Í‚©‚È‚èŠï–­‚Å‚µ‚½B	"Chris went away without telling anybody, which was rather strange."		
+GU104S032	1	104	15_adjectives and adverbs 1	ƒ‹[ƒV[‚Í‘Ò‚½‚³‚ê‚é‚Ì‚ªD‚«‚Å‚Í‚ ‚è‚Ü‚¹‚ñB‚©‚È‚è‚¹‚Á‚©‚¿‚Å‚·B	Lucy doesn't like having to wait. She's rather impatient.		
+GU104S033	1	104	15_adjectives and adverbs 1	‚±‚Ì“X‚É‚Í‘f“G‚È‚à‚Ì‚ª‚½‚­‚³‚ñ‚ ‚è‚Ü‚·‚ªA‚©‚È‚è‚‰¿‚Å‚·B	"They have some lovely things in this shop, but it's rather expensive."		
+GU104S034	1	104	15_adjectives and adverbs 1	‚±‚ê‚ç‚ÌŠG‚Í‚©‚È‚è—Ç‚¢‚Å‚·B‚ ‚È‚½‚ªƒA[ƒeƒBƒXƒg‚¾‚Æ‚Í’m‚è‚Ü‚¹‚ñ‚Å‚µ‚½B	These drawings are rather good. I didn't realise you were an artist.		
+GU104S035	1	104	15_adjectives and adverbs 1	„‚Ì•”‰®‚Í‚©‚È‚è‘å‚«‚¢‚Å‚·‚ªA‚à‚Á‚Æ‘å‚«‚¢‚Ì‚ª—~‚µ‚¢‚Å‚·B	"My room is fairly big, but I'd prefer a bigger one."		
+GU104S036	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Í‚©‚È‚è•p”É‚É‰ï‚¢‚Ü‚·‚ªAˆÈ‘O‚Ù‚Ç‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	"We see each other fairly often, but not as often as we used to."		
+GU104S037	1	104	15_adjectives and adverbs 1	‚±‚Ìƒzƒeƒ‹‚Í‚©‚È‚èV‚µ‚¢‚Å‚·B–ñ2”N‘O‚ÉŠJ‹Æ‚µ‚½‚Æv‚¢‚Ü‚·B	This hotel is fairly new. I think it opened about two years ago.		
+GU104S038	1	104	15_adjectives and adverbs 1	„‚½‚¿‚Ìƒtƒ‰ƒCƒg‚Í1130•ª‚¾‚Æ‚©‚È‚èŠmM‚µ‚Ä‚¢‚Ü‚·‚ªAŠm”F‚µ‚½•û‚ª‚¢‚¢‚Å‚·B	"I'm fairly sure our flight is at 11.30, but we'd better check it."		
+GU104S039	1	104	15_adjectives and adverbs 1	”Ş—‚Í‚±‚±‚Å“­‚¢‚Ä‚¢‚éŠúŠÔ‚ª‚ ‚Ü‚è’·‚­‚ ‚è‚Ü‚¹‚ñB‚©‚È‚èÅ‹ßn‚ß‚Ü‚µ‚½B	She hasn't been working here very long. She started fairly recently.		
+GU104S040	1	104	15_adjectives and adverbs 1	„‚Í‚©‚È‚è”w‚ª‚‚¢‚Å‚·‚ªA‘O‚Ìl‚½‚¿‚Ì“ª‚Ìã‚ğŒ©“n‚·‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B	"I'm fairly tall, but I couldn't see over the heads of the people in front of me."		
+GU104S041	1	104	15_adjectives and adverbs 1	‚»‚±‚É’…‚­‚Ì‚É‚ ‚Ü‚èŠÔ‚Í‚©‚©‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚©‚È‚è’Z‚¢—·‚Å‚µ‚½B	It didn't take us long to get there. It was a fairly short journey.		
+GU104S042	1	104	15_adjectives and adverbs 1	ƒŠƒ`ƒƒ[ƒh‚Í‚©‚È‚è“à‹C‚Å‚·B’m‚ç‚È‚¢l‚Æ˜b‚·‚Ì‚ª“¾ˆÓ‚Å‚Í‚ ‚è‚Ü‚¹‚ñB	Richard is fairly shy. He doesn't find it easy to talk to strangers.		
+GU104S043	1	104	15_adjectives and adverbs 1	ƒQ[ƒ€‚Ìƒ‹[ƒ‹‚Í‚©‚È‚è•¡G‚Å‚·‚ªA‚Å‚«‚é‚¾‚¯ŠÈ’P‚Éà–¾‚µ‚Ü‚·B	"The rules of the game are fairly complicated, but I'll explain them as simply as I can."		
+GU104S044	1	104	15_adjectives and adverbs 1	A: –{‹C‚Å‚·‚©H B: ‚Í‚¢A‚©‚È‚è–{‹C‚Å‚·B	"A: Are you sure? B: Yes, quite sure."		
+GU104S045	1	104	15_adjectives and adverbs 1	”Ş—‚Í„‚ª—\‘z‚µ‚Ä‚¢‚½‚Ì‚Æ‚Í‚©‚È‚èˆá‚Á‚Ä‚¢‚Ü‚µ‚½B	She was quite different from what I expected.		
+GU104S046	1	104	15_adjectives and adverbs 1	”Ş‚ç‚ªŒ¾‚Á‚½‚±‚Æ‚Í‚·‚×‚Ä‚©‚È‚è–{“–‚Å‚·B	Everything they said was quite true.		
+GU104S047	1	104	15_adjectives and adverbs 1	„‚Í‚ ‚È‚½‚É‚©‚È‚è“¯ˆÓ‚µ‚Ü‚·B	I quite agree with you.		
+GU104S048	1	104	15_adjectives and adverbs 1	„‚Í‚ ‚È‚½‚ÌˆÓ–¡‚ª‚æ‚­‚í‚©‚è‚Ü‚¹‚ñB	I don't quite understand what you mean.		
+GU104S049	1	104	15_adjectives and adverbs 1	A: ‚à‚¤€”õ‚Å‚«‚Ü‚µ‚½‚©H B: ‚Ü‚¾Š®‘S‚É‚ÍB	A: Are you ready yet? B: Not quite.		
+GU104S050	1	104	15_adjectives and adverbs 1	„‚Í‚ ‚È‚½‚É‚©‚È‚è“¯ˆÓ‚µ‚Ü‚·B	I quite agree with you.		
+GU104S051	1	104	15_adjectives and adverbs 1	„‚Í‚ ‚È‚½‚ÌˆÓ–¡‚ª‚æ‚­‚í‚©‚è‚Ü‚¹‚ñB	I don't quite understand what you mean.		
+GU104S052	1	104	15_adjectives and adverbs 1	A: ‚à‚¤€”õ‚Å‚«‚Ü‚µ‚½‚©H B: ‚Ü‚¾Š®‘S‚É‚ÍB	A: Are you ready yet? B: Not quite.		
+GU104S053	1	104	15_adjectives and adverbs 1	‚»‚Ì˜b‚Í‚©‚È‚è‹»–¡[‚¢‚Å‚·B	The story is quite interesting.		
+GU104S054	1	104	15_adjectives and adverbs 1	‚»‚Ì˜b‚Í‚©‚È‚è–{“–‚Å‚·B	The story is quite true.		
+GU104S055	1	104	15_adjectives and adverbs 1	‚ ‚È‚½‚Í—‚¿‚Ü‚¹‚ñB‚Í‚µ‚²‚Í‚©‚È‚èˆÀ‘S‚Å‚·B	You won't fall. The ladder is quite safe.		
+GU104S056	1	104	15_adjectives and adverbs 1	c”O‚È‚ª‚ç‚ ‚È‚½‚ÌˆË—Š‚Í‚Å‚«‚Ü‚¹‚ñB‚»‚ê‚Í‚©‚È‚è•s‰Â”\‚Å‚·B	I'm afraid I can't do what you ask. It's quite impossible.		
+GU104S057	1	104	15_adjectives and adverbs 1	„‚ÍŠ®‘S‚É‚ ‚È‚½‚É“¯ˆÓ‚µ‚Ü‚·B‚ ‚È‚½‚Í‚©‚È‚è³‚µ‚¢‚Å‚·B	I completely agree with you. You're quite right.		
+GU104S058	1	104	15_adjectives and adverbs 1	‚±‚ê‚ç‚Ì“ñ‚Â‚Ì‚à‚Ì‚ğ”äŠr‚·‚é‚±‚Æ‚Í‚Å‚«‚Ü‚¹‚ñB‚»‚ê‚ç‚Í‚©‚È‚èˆÙ‚È‚è‚Ü‚·B	You can't compare these two things. They are quite different.		
+GU104S059	1	104	15_adjectives and adverbs 1	‚»‚ê‚ğ‚·‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚©‚È‚è•s•K—v‚Å‚µ‚½B	You needn't have done that. It was quite unnecessary.		
+GU104S060	1	104	15_adjectives and adverbs 1	”Ş‚ç‚ªo‚©‚¯‚é‚Ì‚ğŒ©‚½‚Æv‚¢‚Ü‚·‚ªA„‚ÍŠ®‘S‚É‚ÍŠmM‚µ‚Ä‚¢‚Ü‚¹‚ñB	"I think I saw them go out, but I'm not quite sure."		
+GU104S061	1	104	15_adjectives and adverbs 1	ƒAƒ“ƒi‚Ì‰pŒê‚Í‚©‚È‚è—Ç‚¢‚Å‚·B	Anna's English is quite good.		
+GU104S062	1	104	15_adjectives and adverbs 1	„‚ÍM‚¶‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½B‚»‚ê‚Í‚©‚È‚èM‚¶‚ç‚ê‚È‚¢‚±‚Æ‚Å‚µ‚½B	I couldn't believe it. It was quite incredible.		
+GU104S063	1	104	15_adjectives and adverbs 1	„‚ÌQº‚Í‚©‚È‚è‘å‚«‚¢‚Å‚·B	My bedroom is quite big.		
+GU104S064	1	104	15_adjectives and adverbs 1	‚ ‚È‚½‚ÌˆÓ–¡‚ªŠ®‘S‚É‚Í‚í‚©‚è‚Ü‚¹‚ñB	I'm not quite sure what you mean.		
+GU104S065	1	104	15_adjectives and adverbs 1	‚ ‚È‚½‚Í³‚µ‚¢‚Å‚·B„‚Í‚©‚È‚è“¯ˆÓ‚µ‚Ü‚·B	You're right. I quite agree with you.		
+GU104S066	1	104	15_adjectives and adverbs 1	„‚Íƒgƒ€‚Æˆê‚É“­‚¢‚Ä‚¢‚Ü‚·B”Ş‚ğ‚©‚È‚è‚æ‚­’m‚Á‚Ä‚¢‚Ü‚·B	I work with Tom. I know him quite well.		
+GU104S067	1	104	15_adjectives and adverbs 1	„‚Í‚©‚È‚è”æ‚ê‚Ä‚¢‚Ü‚·BQ‚é‚±‚Æ‚É‚µ‚Ü‚·B	I'm quite tired. I think I'Il go to bed.		
+GU104S068	1	104	15_adjectives and adverbs 1	”Ş‚ç‚Í‚Ü‚¾Š®‘S‚É‚ÍI‚í‚Á‚Ä‚¢‚Ü‚¹‚ñB	They haven't quite finished yet.		
