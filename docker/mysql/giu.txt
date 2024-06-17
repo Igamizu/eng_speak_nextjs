@@ -6312,3 +6312,469 @@ GU104S065	1	104	15_adjectives and adverbs 1	あなたは正しいです。私は
 GU104S066	1	104	15_adjectives and adverbs 1	私はトムと一緒に働いています。彼をかなりよく知っています。	I work with Tom. I know him quite well.		
 GU104S067	1	104	15_adjectives and adverbs 1	私はかなり疲れています。寝ることにします。	I'm quite tired. I think I'Il go to bed.		
 GU104S068	1	104	15_adjectives and adverbs 1	彼らはまだ完全には終わっていません。	They haven't quite finished yet.		
+GU105S001	1	105	16_adjectives and adverbs 2	運転しよう。そっちの方が安い。	Let's drive. It's cheaper.		
+GU105S002	1	105	16_adjectives and adverbs 2	電車で行かないで。そっちの方が高い。	Don't go by train. It's more expensive.		
+GU105S003	1	105	16_adjectives and adverbs 2	電車で行くより運転する方が安い。	It's cheaper to drive than go by train.		
+GU105S004	1	105	16_adjectives and adverbs 2	電車で行く方が運転するより高い。	Going by train is more expensive than driving.		
+GU105S005	1	105	16_adjectives and adverbs 2	このコーヒーはとても薄い。もっと濃いのが好きです。	This coffee is very weak. I like it stronger.		
+GU105S006	1	105	16_adjectives and adverbs 2	その町は驚くほど大きかった。もっと小さいと思っていました。	The town was surprisingly big. I expected it to be smaller.		
+GU105S007	1	105	16_adjectives and adverbs 2	そのホテルは驚くほど安かった。もっと高いと思っていました。	The hotel was surprisingly cheap. I expected it to be more expensive.		
+GU105S008	1	105	16_adjectives and adverbs 2	ここは天気が寒すぎる。もっと暖かいところに住みたいです。	The weather is too cold here. I'd like to live somewhere warmer.		
+GU105S009	1	105	16_adjectives and adverbs 2	時々私の仕事は少し退屈です。もっと興味深いことをしたいです。	Sometimes my job is a bit boring. I'd like to do something more interesting.		
+GU105S010	1	105	16_adjectives and adverbs 2	あなたがこんなに遠くに住んでいるのは残念です。もっと近くに住んでいたらいいのに。	It's a shame you live so far away. I wish you lived nearer.		
+GU105S011	1	105	16_adjectives and adverbs 2	こんなに早くここに着いたことに驚きました。もっと時間がかかると思っていました。	I was surprised we got here so quickly. I expected the trip to take longer.		
+GU105S012	1	105	16_adjectives and adverbs 2	住む場所を見つけるのはかなり簡単でした。もっと難しいと思っていました。	It was quite easy to find a place to live. I thought it would be more difficult.		
+GU105S013	1	105	16_adjectives and adverbs 2	昨日は少し落ち込んでいるように見えましたが、今日はもっと幸せそうに見えます。	"You seemed a little depressed yesterday, but you look happier today."		
+GU105S014	1	105	16_adjectives and adverbs 2	試験はかなり簡単でした。思っていたより簡単でした。	The exam was quite easy - easier than I expected.		
+GU105S015	1	105	16_adjectives and adverbs 2	試験はかなり難しかったです。思っていたより難しかったです。	The exam was quite difficult - more difficult than I expected.		
+GU105S016	1	105	16_adjectives and adverbs 2	もう少し速く歩けますか？	Can you walk a bit faster?		
+GU105S017	1	105	16_adjectives and adverbs 2	もう少しゆっくり歩けますか？	Can you walk a bit more slowly?		
+GU105S018	1	105	16_adjectives and adverbs 2	もっと大きい車が欲しいです。	I'd like to have a bigger car.		
+GU105S019	1	105	16_adjectives and adverbs 2	もっと信頼できる車が欲しいです。	I'd like to have a more reliable car.		
+GU105S020	1	105	16_adjectives and adverbs 2	ここはうるさいです。もっと静かなところに行けますか？	It's noisy here. Can we go somewhere quieter?	Can we go somewhere more quiet?	
+GU105S021	1	105	16_adjectives and adverbs 2	比較級：hard	harder		
+GU105S022	1	105	16_adjectives and adverbs 2	比較級：famous	more famous		
+GU105S023	1	105	16_adjectives and adverbs 2	比較級：modern	more modern		
+GU105S024	1	105	16_adjectives and adverbs 2	比較級：early	earlier		
+GU105S025	1	105	16_adjectives and adverbs 2	比較級：selfish	more selfish		
+GU105S026	1	105	16_adjectives and adverbs 2	比較級：quickly	more quickly		
+GU105S027	1	105	16_adjectives and adverbs 2	比較級：cold	colder		
+GU105S028	1	105	16_adjectives and adverbs 2	比較級：heavy	heavier		
+GU105S029	1	105	16_adjectives and adverbs 2	比較級：honest	more honest		
+GU105S030	1	105	16_adjectives and adverbs 2	比較級：fast	faster		
+GU105S031	1	105	16_adjectives and adverbs 2	ジェームズは一生懸命勉強しません。彼は楽しい時間を過ごすことにもっと興味があります。	James doesn’t study hard. He’s more interested in having a good time.		
+GU105S032	1	105	16_adjectives and adverbs 2	もっとスペースが必要です。もっと大きなアパートが必要です。	We need more space. We need a bigger apartment.		
+GU105S033	1	105	16_adjectives and adverbs 2	残念ながら、問題は最初に思っていたよりも深刻でした。	Unfortunately the problem was more serious than we thought at first.		
+GU105S034	1	105	16_adjectives and adverbs 2	あなたはいつも痩せていましたが、今はさらに痩せて見えます。体重を減らしましたか？	"You were always thin, but now you look thinner. Have you lost weight?"		
+GU105S035	1	105	16_adjectives and adverbs 2	健康と幸福はお金よりも重要です。	Health and happiness are more important than money.		
+GU105S036	1	105	16_adjectives and adverbs 2	国の一部では、他の地域よりも物価が高いです。	"In some parts of the country, prices are higher than in other parts."		
+GU105S037	1	105	16_adjectives and adverbs 2	良い地図があれば、町をもっと簡単に回ることができます。	You'll find your way around the town more easily if you have a good map.		
+GU105S038	1	105	16_adjectives and adverbs 2	田舎に住むのが好きです。町に住むよりも平和です。	I like living in the country. It’s more peaceful than living in a town.		
+GU105S039	1	105	16_adjectives and adverbs 2	草を刈ってから庭が良く見えます。	The garden looks better since you cut the grass.		
+GU105S040	1	105	16_adjectives and adverbs 2	彼のことをよく知っています。おそらく他の誰よりもよく知っています。	I know him well - probably better than anybody else knows him.		
+GU105S041	1	105	16_adjectives and adverbs 2	A: 頭痛はどうですか？良くなりましたか？ B: いいえ、悪化しました。	"A: How's your headache? Better? B: No, it's worse."		
+GU105S042	1	105	16_adjectives and adverbs 2	彼は試験で非常に悪い成績を取りました。予想よりも悪かったです。	He did very badly in the exam - worse than expected.		
+GU105S043	1	105	16_adjectives and adverbs 2	ここから公園まで歩くのは長いです。思っていたより遠かったです。	It's a long walk from here to the park - farther than I thought.		
+GU105S044	1	105	16_adjectives and adverbs 2	さらにニュースがあれば教えてください。	Let me know if you hear any further news.		
+GU105S045	1	105	16_adjectives and adverbs 2	デイビッドは実際の年齢よりも年上に見えます。	David looks older than he really is.		
+GU105S046	1	105	16_adjectives and adverbs 2	私の姉はテレビプロデューサーです。	My elder sister is a TV producer.		
+GU105S047	1	105	16_adjectives and adverbs 2	私の姉はテレビプロデューサーです。	My older sister is a TV producer.		
+GU105S048	1	105	16_adjectives and adverbs 2	私の姉は私より年上です。	My sister is older than me.		
+GU105S049	1	105	16_adjectives and adverbs 2	あなたの仕事はあまり良くありません。これより良くする必要があります。	Your work isn't very good. You need to do better than this.		
+GU105S050	1	105	16_adjectives and adverbs 2	前向きになってください！状況は良くありませんが、もっと悪くなるかもしれません。	"Be positive! The situation isn't good, but it could be worse."		
+GU105S051	1	105	16_adjectives and adverbs 2	今朝の交通はいつもよりひどかったです。仕事に行くのに時間がかかりました。	The traffic was worse than usual this morning. It took me ages to get to work.		
+GU105S052	1	105	16_adjectives and adverbs 2	体調が悪くてごめんなさい。早く良くなることを願っています。	I'm sorry you're not well. I hope you feel better soon.		
+GU105S053	1	105	16_adjectives and adverbs 2	カメラに近すぎます。もう少し遠くに移動できますか？	You're standing too near the camera. Can you move a bit further away?		
+GU105S054	1	105	16_adjectives and adverbs 2	さらに情報が必要なら連絡してください。	You can contact me if you want any further information.		
+GU105S055	1	105	16_adjectives and adverbs 2	アンナが25歳だとは驚きです。もっと年上だと思っていました。	I'm surprised Anna is only 25. I thought she was older.		
+GU105S056	1	105	16_adjectives and adverbs 2	ビザを取得するのは複雑でした。予想よりも時間がかかりました。	Getting a visa was complicated. It took longer than I expected.		
+GU105S057	1	105	16_adjectives and adverbs 2	私のミスについてごめんなさい。今後はもっと注意するようにします。	Sorry about my mistake. I'll try and be more careful in future.		
+GU105S058	1	105	16_adjectives and adverbs 2	あなたの英語は上達しました。以前より良くなっています。	Your English has improved. It's better than it was.		
+GU105S059	1	105	16_adjectives and adverbs 2	バスや電車で移動できます。バスは電車よりも頻繁に運行しています。	You can travel by bus or by train. The buses are more frequent than the trains.		
+GU105S060	1	105	16_adjectives and adverbs 2	すぐに物事を手に入れることはできません。もっと我慢強くなる必要があります。	You can't always have things immediately. You have to be more patient.		
+GU105S061	1	105	16_adjectives and adverbs 2	ジェーンの姉は看護師です。	Jane's elder sister is a nurse.		
+GU105S062	1	105	16_adjectives and adverbs 2	私は悲観主義者です。いつも物事が悪化すると思っています。	I'm a pessimist. I always think things are going to get worse.		
+GU105S063	1	105	16_adjectives and adverbs 2	ほとんど電話をくれません。もっと頻繁に電話をしてくれませんか？	You hardly ever call me. Why don't you call more often?		
+GU105S064	1	105	16_adjectives and adverbs 2	今日はオフィスがいつもより忙しかったです。普段はこんなに忙しくありません。	We were busier than usual in the office today. It's not usually so busy.		
+GU105S065	1	105	16_adjectives and adverbs 2	とても大声で話しています。もっと静かに話せますか？	You're talking very loudly. Can you speak more quietly?		
+GU106S001	1	106	16_adjectives and adverbs 2	以前は気分が悪かったですが、今はずっと良くなりました。	"I felt ill earlier, but I feel much better now."		
+GU106S002	1	106	16_adjectives and adverbs 2	電車で行かないで。もっと高いです。	Don't go by train. It's a lot more expensive.		
+GU106S003	1	106	16_adjectives and adverbs 2	もう少しゆっくり話してもらえますか？	Could you speak a bit more slowly?		
+GU106S004	1	106	16_adjectives and adverbs 2	このバッグは他のものより少し重いです。	This bag is slightly heavier than the other one.		
+GU106S005	1	106	16_adjectives and adverbs 2	彼女の病気は最初に思っていたよりもはるかに深刻です。	Her illness is far more serious than we thought at first.		
+GU106S006	1	106	16_adjectives and adverbs 2	昨日はとても暑かったです。	It was very hot yesterday.		
+GU106S007	1	106	16_adjectives and adverbs 2	今日は少し涼しいです。	Today it's a little cooler.		
+GU106S008	1	106	16_adjectives and adverbs 2	彼女は私よりずっと若いと思っていましたが、実際には少し年上です。	"I thought she was much younger than me, but in fact she's slightly older."		
+GU106S009	1	106	16_adjectives and adverbs 2	このバッグは小さすぎます。もっと大きなものが必要です。	This bag is too small. I need something much bigger.		
+GU106S010	1	106	16_adjectives and adverbs 2	最後に会ったとき、ベンはあまり幸せそうではありませんでしたが、今はずっと幸せそうです。	"Ben wasn't very happy when I last saw him, but now he seems a lot happier."		
+GU106S011	1	106	16_adjectives and adverbs 2	その博物館が好きでした。予想以上にとても興味深かったです。	I liked the museum. It was much more interesting than I expected.		
+GU106S012	1	106	16_adjectives and adverbs 2	問題は見かけよりもはるかに複雑です。	I'm afraid the problem is far more complicated than it seems.		
+GU106S013	1	106	16_adjectives and adverbs 2	運転が速すぎます。もう少しゆっくり運転できますか？	You're driving too fast. Can you drive a bit more slowly?		
+GU106S014	1	106	16_adjectives and adverbs 2	十分に待ちました。もう待ちません。	I've waited long enough. I'm not waiting any longer.		
+GU106S015	1	106	16_adjectives and adverbs 2	彼らのアパートはとても大きいと思っていましたが、私たちのアパートと同じくらいです。	"We expected their apartment to be very big, but it's no bigger than ours."		
+GU106S016	1	106	16_adjectives and adverbs 2	彼らのアパートはとても大きいと思っていましたが、私たちのアパートと変わりません。	"We expected their apartment to be very big, but it isn't any bigger than ours."		
+GU106S017	1	106	16_adjectives and adverbs 2	今の気分はどうですか？少しは良くなりましたか？	How do you feel now? Do you feel any better?		
+GU106S018	1	106	16_adjectives and adverbs 2	このホテルは他のホテルより良く、しかも高くありません。	"This hotel is better than the other one, and it's no more expensive."		
+GU106S019	1	106	16_adjectives and adverbs 2	電車で行くのは高く、バスで行くのと同じくらい速くもありません。	"It's expensive to go by train, and it's no quicker than going by bus."		
+GU106S020	1	106	16_adjectives and adverbs 2	休憩が必要です。これ以上歩けません。	I need to stop for a rest. I can't walk any further.		
+GU106S021	1	106	16_adjectives and adverbs 2	今日の交通は特に悪くありません。いつもと変わりません。	The traffic isn't particularly bad today. It's no worse than usual.		
+GU106S022	1	106	16_adjectives and adverbs 2	少し遅れてすみません。これ以上早く来られませんでした。	I'm sorry I'm a bit late. I couldn't get here any sooner.		
+GU106S023	1	106	16_adjectives and adverbs 2	この街は安全です。他の場所と同じくらい危険ではありません。	You are safe in this city. It's no more dangerous than anywhere else.		
+GU106S024	1	106	16_adjectives and adverbs 2	彼らはお金を持っていますが、生活は以前より良くなっていません。	"They have more money, but their lives aren't any better than they were before."		
+GU106S025	1	106	16_adjectives and adverbs 2	この店は高くありません。どこでも同じくらいの価格です。	This shop isn't expensive. The prices are no higher than anywhere else.		
+GU106S026	1	106	16_adjectives and adverbs 2	あなたの英語は上達しています。ますます良くなっています。	Your English is improving. It's getting better and better.		
+GU106S027	1	106	16_adjectives and adverbs 2	この都市は近年急成長しています。どんどん大きくなっています。	The city has grown fast in recent years. It's got bigger and bigger.		
+GU106S028	1	106	16_adjectives and adverbs 2	彼の話を聞くにつれて、彼が嘘をついているとますます確信しました。	"As I listened to his story, I became more and more convinced that he was lying."		
+GU106S029	1	106	16_adjectives and adverbs 2	この地域を訪れる観光客がどんどん増えています。	More and more tourists are visiting this part of the country.		
+GU106S030	1	106	16_adjectives and adverbs 2	失業率が上がっています。仕事を見つけるのがますます難しくなっています。	Unemployment is growing. It's getting more and more difficult to find a job.		
+GU106S031	1	106	16_adjectives and adverbs 2	セーターの穴がどんどん大きくなっています。	That hole in your sweater is getting bigger and bigger.		
+GU106S032	1	106	16_adjectives and adverbs 2	面接を待っている間、ますます緊張してきました。	I waited for my interview and became more and more nervous.		
+GU106S033	1	106	16_adjectives and adverbs 2	荷物を運ぶにつれて、どんどん重く感じました。	My bags seemed to get heavier and heavier as I carried them.		
+GU106S034	1	106	16_adjectives and adverbs 2	最近はよく旅行をしています。ますます家を離れる時間が増えています。	These days I travel a lot. I'm spending more and more time away from home.		
+GU106S035	1	106	16_adjectives and adverbs 2	ひどい一日でした。天気がどんどん悪くなりました。	It was a horrible day. The weather got worse and worse.		
+GU106S036	1	106	16_adjectives and adverbs 2	最初はポールは静かでしたが、徐々にますます話し好きになりました。	"Paul was quiet at first, but gradually he became more and more talkative."		
+GU106S037	1	106	16_adjectives and adverbs 2	政治にますます興味がなくなってきました。もうニュースを見ません。	I've become less and less interested in politics. I don't watch the news any more.		
+GU106S038	1	106	16_adjectives and adverbs 2	A: 何時に出発しますか？ B: 早いほど良いです。	A: What time shall we leave? B: The sooner the better.		
+GU106S039	1	106	16_adjectives and adverbs 2	A: どんなバッグが欲しいですか？大きいのですか？ B: はい、大きいほど良いです。	"A: What sort of bag do you want? A big one? B: Yes, the bigger the better."		
+GU106S040	1	106	16_adjectives and adverbs 2	旅行のときは、荷物が少ないほど良いです。	"When you're travelling, the less luggage you have the better."		
+GU106S041	1	106	16_adjectives and adverbs 2	早く出発するほど、早く到着します。	"The sooner we leave, the earlier we will arrive."		
+GU106S042	1	106	16_adjectives and adverbs 2	ホテルが高いほど、サービスは良くなります。	"The more expensive the hotel, the better the service."		
+GU106S043	1	106	16_adjectives and adverbs 2	計画について考えるほど、好きではなくなります。	"The more I thought about the plan, the less I liked it."		
+GU106S044	1	106	16_adjectives and adverbs 2	若いほど、物事を学びやすいです。若いほど、学びやすいです。	"You learn things more easily when you're young. The younger you are, the easier it is to learn."		
+GU106S045	1	106	16_adjectives and adverbs 2	疲れていると集中しにくいです。疲れているほど、集中しにくくなります。	"It's hard to concentrate when you're tired. The more tired you are, the harder it is to concentrate."		
+GU106S046	1	106	16_adjectives and adverbs 2	できるだけ早く何をすべきか決めるべきです。早く決めるほど良いです。	"We should decide what to do as soon as possible. The sooner we decide what to do, the better."		
+GU106S047	1	106	16_adjectives and adverbs 2	できるだけ頻繁に練習することが重要です。練習するほど、早く上達します。	"It’s important to practise as often as possible. The more you practise, the faster you'll improve."		
+GU106S048	1	106	16_adjectives and adverbs 2	天気が暖かいと気分が良くなります。天気が暖かいほど、気分が良くなります。	"I feel better when the weather is warm. The warmer the weather, the better I feel."		
+GU106S049	1	106	16_adjectives and adverbs 2	知識が増えるほど、理解できなくなります。知識が増えるほど、理解できなくなります。	"I know more, but I understand less. The more I know, the less I understand."		
+GU106S050	1	106	16_adjectives and adverbs 2	ケイトはとても長い間待たなければなりませんでした。待つほど、彼女はますますイライラしました。	"Kate had to wait a very long time. The longer she waited, the more impatient she became."		
+GU106S051	1	106	16_adjectives and adverbs 2	もっと電気を使うと、請求額が高くなります。電気を使うほど、請求額が高くなります。	"If you use more electricity, your bill will be higher. The more electricity you use, the higher your bill will be."		
+GU106S052	1	106	16_adjectives and adverbs 2	問題はますます深刻になっています。	The problem is getting more and more serious.		
+GU106S053	1	106	16_adjectives and adverbs 2	時間があるほど、物事をするのに時間がかかります。	"The more time I have, the longer it takes me to do things."		
+GU106S054	1	106	16_adjectives and adverbs 2	できるだけ早く働いています。これ以上早く働けません。	I'm working as fast as I can. I can't work any faster.		
+GU106S055	1	106	16_adjectives and adverbs 2	収入が高いほど、税金も高くなります。	"The higher your income, the more tax you have to pay."		
+GU106S056	1	106	16_adjectives and adverbs 2	少し遅れました。思ったよりも少し長い旅でした。	I was a little late. The journey took slightly longer than I expected.		
+GU106S057	1	106	16_adjectives and adverbs 2	仕事への応募は4月15日までに受け付けなければなりません。	Applications for the job must be received no later than 15 April.		
+GU106S058	1	106	16_adjectives and adverbs 2	彼らに何も言わないでください。知らないほど良いです。	"Don't tell them anything. The less they know, the better."		
+GU106S059	1	106	16_adjectives and adverbs 2	できるだけ多く教えてください。情報が多いほど良いです。	Tell me as much as you can. The more information you can give me the better.		
+GU107S001	1	107	16_adjectives and adverbs 2	ジョーは金持ちです。	Joe is rich.		
+GU107S002	1	107	16_adjectives and adverbs 2	彼はデビッドよりも金持ちです。	He is richer than David.		
+GU107S003	1	107	16_adjectives and adverbs 2	でも、サラほど金持ちではありません。	But he's not as rich as Sarah.		
+GU107S004	1	107	16_adjectives and adverbs 2	町の中心部はいつもほど混んでいませんでした。	The town centre wasn't as crowded as usual.		
+GU107S005	1	107	16_adjectives and adverbs 2	リサは試験で期待したほど良い成績を取りませんでした。	Lisa didn't do as well in the exam as she hoped.		
+GU107S006	1	107	16_adjectives and adverbs 2	今日は天気が良いです。そんなに寒くありません。	The weather is better today. It's not as cold.		
+GU107S007	1	107	16_adjectives and adverbs 2	私はあなたほど多くの人を知りません。	I don't know as many people as you do.		
+GU107S008	1	107	16_adjectives and adverbs 2	A: いくらかかりましたか？五百ですか？ B: いいえ、それほどではありません。	"A: How much did it cost? Five hundred? B: No, not as much as that."		
+GU107S009	1	107	16_adjectives and adverbs 2	町の中心部はいつもより混んでいませんでした。	The town centre was less crowded than usual.		
+GU107S010	1	107	16_adjectives and adverbs 2	以前ほどテニスをしません。	I play tennis less than I used to.		
+GU107S011	1	107	16_adjectives and adverbs 2	私は背が高いですが、あなたの方が高いです。私はあなたほど背が高くありません。	"I'm tall, but you are taller. I'm not as tall as you."		
+GU107S012	1	107	16_adjectives and adverbs 2	私の給料は高いですが、あなたの方が高いです。私の給料はあなたほど高くありません。	"My salary is high, but yours is higher. My salary isn't as high as yours."		
+GU107S013	1	107	16_adjectives and adverbs 2	あなたは車について少し知っていますが、私はもっと知っています。あなたは私ほど車について知りません。	"You know a bit about cars, but I know more. You don't know as much about cars as I do."		
+GU107S014	1	107	16_adjectives and adverbs 2	面接の前に少し緊張しましたが、普段よりも緊張しませんでした。普段ほど緊張しませんでした。	"I was a little nervous before the interview, but usually I'm more nervous. I wasn't as nervous as I usually am."		
+GU107S015	1	107	16_adjectives and adverbs 2	今日は忙しいですが、昨日の方が忙しかったです。今日は昨日ほど忙しくありません。	"We're busy today, but we were busier yesterday. We're not as busy today as we were yesterday."		
+GU107S016	1	107	16_adjectives and adverbs 2	まだ気分が悪いですが、以前ほど悪くはありません。今は以前ほど悪く感じません。	"I still feel bad, but I felt a lot worse earlier. I don't feel as bad as I felt earlier."		
+GU107S017	1	107	16_adjectives and adverbs 2	隣人は長い間ここに住んでいますが、私たちはもっと長く住んでいます。隣人は私たちほど長く住んでいません。	"Our neighbours have lived here a long time, but we've lived here longer. Our neighbours haven't lived here as long as we have."		
+GU107S018	1	107	16_adjectives and adverbs 2	私はあなたよりもお金を使いませんでした。あなたほどお金を使いませんでした。	I spent less money than you. I didn't spend as much money as you.		
+GU107S019	1	107	16_adjectives and adverbs 2	ジャックは見た目よりも若いです。見た目ほど年を取っていません。	Jack is younger than he looks. He isn't as old as he looks.		
+GU107S020	1	107	16_adjectives and adverbs 2	あなたは私ほどコーヒーを飲みません。私はあなたよりも多くコーヒーを飲みます。	You don't drink as much coffee as me. I drink more coffee than you.		
+GU107S021	1	107	16_adjectives and adverbs 2	駅は思ったより近かったです。思ったほど遠くありませんでした。	The station was nearer than I thought. The station wasn't as far as I thought.		
+GU107S022	1	107	16_adjectives and adverbs 2	私はマークとエマをあなたよりもよく知っています。あなたは私ほど彼らを知りません。	I know Mark and Emma better than you do. You don't know them as well as I do.		
+GU107S023	1	107	16_adjectives and adverbs 2	食事の費用は期待したほどではありませんでした。予想よりも安かったです。	The meal didn't cost as much as we expected. It cost less than we expected.		
+GU107S024	1	107	16_adjectives and adverbs 2	以前ほど外出しません。以前ほど外出しません。	I go out less than I used to. I don't go out as much as I used to.		
+GU107S025	1	107	16_adjectives and adverbs 2	カレンの髪は以前ほど長くありません。以前はもっと長い髪をしていました。	Karen's hair isn't as long as it used to be. She used to have longer hair.		
+GU107S026	1	107	16_adjectives and adverbs 2	このクラスには前のクラスよりも少ない生徒がいます。このクラスにはそれほど多くの生徒がいません。	There are fewer students in this class than the last one. There aren't as many students in this class.		
+GU107S027	1	107	16_adjectives and adverbs 2	遅れてすみません。できるだけ早く来ました。	I'm sorry I'm late. I got here as fast as l could.		
+GU107S028	1	107	16_adjectives and adverbs 2	たくさんの食べ物があります。欲しいだけ食べられます。	There's plenty of food. You can have as much as you want.		
+GU107S029	1	107	16_adjectives and adverbs 2	歩きましょう。バスに乗るのと同じくらい早いです。	Let's walk. It's just as quick as taking the bus.		
+GU107S030	1	107	16_adjectives and adverbs 2	ガソリンは数年前の2倍の価格です。	Petrol is twice as expensive as it was a few years ago.		
+GU107S031	1	107	16_adjectives and adverbs 2	彼らの家は私たちの家の約3倍の大きさです。	Their house is about three times as big as ours.		
+GU107S032	1	107	16_adjectives and adverbs 2	情報が早く必要なので、できるだけ早く教えてください。	"I need the information quickly, so let me know as soon as possible."		
+GU107S033	1	107	16_adjectives and adverbs 2	タクシーで行きましたが、バスと同じくらい時間がかかりました。	"We went by taxi, but it took just as long as the bus."		
+GU107S034	1	107	16_adjectives and adverbs 2	エミリーは非常に給料の良い仕事をしています。彼女は私の2倍の収入を得ています。	Emily has a very well-paid job. She earns twice as much as me.		
+GU107S035	1	107	16_adjectives and adverbs 2	誰も起こさないように、できるだけ静かに入りました。	"I didn't want to wake anybody, so I came in as quietly as I could."		
+GU107S036	1	107	16_adjectives and adverbs 2	難しい質問でしたが、できるだけうまく答えました。	It was a difficult question. I answered it as well as I could.		
+GU107S037	1	107	16_adjectives and adverbs 2	健康を保つために、できるだけ頻繁に泳ぎに行きます。	"I like to keep fit, so I go swimming as often as I can."		
+GU107S038	1	107	16_adjectives and adverbs 2	休暇はどうでしたか？天気は期待通り暖かかったですか？	How was your holiday? Was the weather as warm as you expected?		
+GU107S039	1	107	16_adjectives and adverbs 2	ゲイリーの息子は成長が早いです。もうすぐゲイリーと同じくらいの高さです。	Gary's son is growing up fast. He's nearly as tall as Gary.		
+GU107S040	1	107	16_adjectives and adverbs 2	ローラの給料は私のと同じです。	Laura's salary is the same as mine.		
+GU107S041	1	107	16_adjectives and adverbs 2	デイビッドはジェームズと同じ年齢です。	David is the same age as James.		
+GU107S042	1	107	16_adjectives and adverbs 2	サラは変わっていません。10年前と同じように見えます。	Sarah hasn't changed. She still looks the same as she did ten years ago.		
+GU107S043	1	107	16_adjectives and adverbs 2	何も変わっていません。すべて以前と同じです。	Nothing has changed. Everything is the same as before.		
+GU107S044	1	107	16_adjectives and adverbs 2	今日は寒くて雨です。昨日と同じです。今日の天気は昨日と同じです。	It's cold and rainy today. Just like yesterday. The weather today is the same as yesterday.		
+GU107S045	1	107	16_adjectives and adverbs 2	あなたと私はどちらも濃い茶色の髪をしています。あなたの髪は私の髪と同じ色です。	You and I both have dark brown hair. Your hair is the same colour as mine.		
+GU107S046	1	107	16_adjectives and adverbs 2	私は10時25分に到着し、あなたも同じです。私はあなたと同じ時間に到着しました。	"I arrived at 10.25, and so did you. I arrived at the same time as you."		
+GU107S047	1	107	16_adjectives and adverbs 2	私の誕生日は4月5日です。トムの誕生日も同じです。私の誕生日はトムの誕生日と同じ日です。	My birthday is 5 April. It's Tom's birthday too. My birthday is the same day as Tom's.		
+GU107S048	1	107	16_adjectives and adverbs 2	あなたのアパートも私たちのアパートも部屋が5つあります。私たちのアパートはあなたのアパートと同じ大きさです。	Your apartment and ours both have five rooms. Our apartment is the same size as yours.		
+GU107S049	1	107	16_adjectives and adverbs 2	あなたは私より背が高いです。	You're taller than me.		
+GU107S050	1	107	16_adjectives and adverbs 2	あなたは私より背が高いです。	You're taller than I am.		
+GU107S051	1	107	16_adjectives and adverbs 2	彼は彼女ほど賢くありません。	He's not as clever as her.		
+GU107S052	1	107	16_adjectives and adverbs 2	彼は彼女ほど賢くありません。	He's not as clever as she is.		
+GU107S053	1	107	16_adjectives and adverbs 2	彼らは私たちよりお金を持っています。	They have more money than us.		
+GU107S054	1	107	16_adjectives and adverbs 2	彼らは私たちよりお金を持っています。	They have more money than we do.		
+GU107S055	1	107	16_adjectives and adverbs 2	私は彼ほど速く走れません。	I can't run as fast as him.		
+GU107S056	1	107	16_adjectives and adverbs 2	私は彼ほど速く走れません。	I can't run as fast as he can.		
+GU107S057	1	107	16_adjectives and adverbs 2	追加のニュースがあればすぐにお知らせします。	I'll let you know as soon as I have any more news.		
+GU107S058	1	107	16_adjectives and adverbs 2	友人は予想より早く到着しました。	My friends arrived earlier than I expected.		
+GU107S059	1	107	16_adjectives and adverbs 2	私はキャサリンと同じ通りに住んでいます。私たちは隣人です。	I live in the same street as Katherine. We're neighbours.		
+GU107S060	1	107	16_adjectives and adverbs 2	今朝はいつもより交通量が少なかったです。	This morning there was less traffic than usual.		
+GU107S061	1	107	16_adjectives and adverbs 2	以前ほどテレビを見ません。	I don't watch TV as much as I used to.		
+GU107S062	1	107	16_adjectives and adverbs 2	あなたのバッグはかなり軽いです。私のバッグはあなたのバッグの2倍の重さです。	Your bag is quite light. Mine is twice as heavy as yours.		
+GU107S063	1	107	16_adjectives and adverbs 2	彼はあまり一生懸命働きません。ほとんどの人は彼よりも一生懸命働きます。	He doesn't work very hard. Most people work much harder than him.		
+GU107S064	1	107	16_adjectives and adverbs 2	私たちは同じ年に生まれました。私は彼女より少し年上です。	We were born in the same year. I'm a little older than she is.		
+GU108S001	1	108	16_adjectives and adverbs 2	世界で最も長い川は何ですか？	What is the longest river in the world?		
+GU108S002	1	108	16_adjectives and adverbs 2	今までで一番楽しかった休暇は何ですか？	What was the most enjoyable holiday you've ever had?		
+GU108S003	1	108	16_adjectives and adverbs 2	A: 読んでいた本は読み終わりましたか？ B: はい。900ページありました。今までで一番長い本です。	A: Did you finish the book you were reading? B: Yes. It was 900 pages. It's the longest book I've ever read.		
+GU108S004	1	108	16_adjectives and adverbs 2	A: スーはいつも自分の考えを言いますよね？ B: はい、彼女は私が知っている中で最も正直な人の一人です。	"A: Sue always says what she thinks, doesn't she? B: Yes, she's one of the most honest people I know."		
+GU108S005	1	108	16_adjectives and adverbs 2	A: ジョーは良い選手ですか？ B: はい、とても良いです。おそらくチームで一番です。	"A: Is Joe a good player? B: Yes, very good. He's probably the best in the team."		
+GU108S006	1	108	16_adjectives and adverbs 2	A: 昨日はとても暖かかったですね？ B: はい、今年一番暑い日だったと聞きました。	"A: It was very warm yesterday, wasn't it? B: Yes, I've heard it was the hottest day of the year."		
+GU108S007	1	108	16_adjectives and adverbs 2	A: このナイフはあまり鋭くないですね。もっと鋭いのはありますか？ B: いいえ、これは私が持っている中で一番鋭いナイフです。	"A: This knife isn't very sharp. Do you have a sharper one? B: No, it's the sharpest knife I have."		
+GU108S008	1	108	16_adjectives and adverbs 2	A: パリのルーブル美術館を知っていますか？ B: はい、もちろんです。世界で最も有名な美術館の一つです。	"A: Have you heard of the Louvre in Paris? B: Yes, of course. It's one of the most famous museums in the world."		
+GU108S009	1	108	16_adjectives and adverbs 2	A: 休暇はどうでしたか？ B: 最悪でした。今までで最悪の休暇でした。	A: How was your holiday? B: Awful. It was the worst holiday I've ever had.		
+GU108S010	1	108	16_adjectives and adverbs 2	A: 直線とは何ですか？ B: 二点間の最短距離です。	A: What is a straight line? B: It's the shortest distance between two points.		
+GU108S011	1	108	16_adjectives and adverbs 2	彼女は本当に素敵です。私が知っている中で最も素敵な人の一人です。	She is really nice - one of the nicest people I know.		
+GU108S012	1	108	16_adjectives and adverbs 2	今までで一番良かった映画と最悪だった映画は何ですか？	"What's the best film you've ever seen, and what's the worst?"		
+GU108S013	1	108	16_adjectives and adverbs 2	あなたの一番年下の子供は何歳ですか？	How old is your youngest child?		
+GU108S014	1	108	16_adjectives and adverbs 2	このホテルは町で一番安いです。町の他のどのホテルよりも安いです。	This hotel is the cheapest in town. It's cheaper than all the others in town.		
+GU108S015	1	108	16_adjectives and adverbs 2	彼は私が今まで会った中で最も忍耐強い人です。私よりもずっと忍耐強いです。	He's the most patient person I've ever met. He's much more patient than I am.		
+GU108S016	1	108	16_adjectives and adverbs 2	世界で最も大きな国は何ですか？	What's the largest country in the world?		
+GU108S017	1	108	16_adjectives and adverbs 2	アメリカは非常に大きいですが、カナダの方が大きいです。	"The United States is very large, but Canada is larger."		
+GU108S018	1	108	16_adjectives and adverbs 2	彼はいつも最悪のタイミングで私に会いに来ます。	He always comes to see me at the worst possible time.		
+GU108S019	1	108	16_adjectives and adverbs 2	あなたの国で最も人気のあるスポーツは何ですか？	What is the most popular sport in your country?		
+GU108S020	1	108	16_adjectives and adverbs 2	今日はとても寒いです。もっと暖かければいいのに。	It's so cold today. I wish it was warmer.		
+GU108S021	1	108	16_adjectives and adverbs 2	駅に行く最速の方法は何ですか？	What's the quickest way to get to the station?		
+GU108S022	1	108	16_adjectives and adverbs 2	バスと電車のどちらが速いですか？	Which is quicker ? the bus or the train?		
+GU108S023	1	108	16_adjectives and adverbs 2	この建物は250メートル以上の高さがありますが、市内で一番高いわけではありません。	"This building is over 250 metres high, but it isn't the highest in the city."		
+GU108S024	1	108	16_adjectives and adverbs 2	仕事にうんざりしています。もっと面白いことをしたいです。	I'm fed up with my job. I want to do something more interesting.		
+GU108S025	1	108	16_adjectives and adverbs 2	今までで一番高価なものは何ですか？	What's the most expensive thing you've ever bought?		
+GU108S026	1	108	16_adjectives and adverbs 2	三歳の時のことを覚えています。それが最も古い記憶です。	I can remember when I was three years old. It's my earliest memory.		
+GU108S027	1	108	16_adjectives and adverbs 2	その教会は町で最も古い建物です。	The church is the oldest building in the town.		
+GU108S028	1	108	16_adjectives and adverbs 2	彼らの最年長の息子は13歳です。	Their eldest son is 13 years old.		
+GU108S029	1	108	16_adjectives and adverbs 2	彼らの最年長の息子は13歳です。	Their oldest son  is 13 years old.		
+GU108S030	1	108	16_adjectives and adverbs 2	あなたは家族で最年長ですか？	Are you the eldest in your family?		
+GU108S031	1	108	16_adjectives and adverbs 2	世界で最も年を取った人は何歳ですか？	How old is the oldest person in the world?		
+GU108S032	1	108	16_adjectives and adverbs 2	私たちの家は町で最も古い家の一つです。	Our house is one of the oldest in the town.		
+GU108S033	1	108	16_adjectives and adverbs 2	マットとジェシカには四人の子供がいます。最年長は19歳です。	Matt and Jessica have four children. The oldest (eldest) is 19.		
+GU108S034	1	108	16_adjectives and adverbs 2	世界で最も古い木々は5000年以上の年齢です。	"The oldest trees in the world are over 5,000 years old."		
+GU108S035	1	108	16_adjectives and adverbs 2	私には三人の姉妹がいます。私の最年長の姉は医者です。	I have three sisters. My oldest (eldest) sister is a doctor.		
+GU108S036	1	108	16_adjectives and adverbs 2	オリンピックの金メダルを獲得した最も年上の人は誰ですか？	Who is the oldest person to win an Olympic gold medal?		
+GU108S037	1	108	16_adjectives and adverbs 2	世界で最も長い川は何ですか？	What's the longest river in the world?		
+GU108S038	1	108	16_adjectives and adverbs 2	良い部屋がありました。ホテルで最も良い部屋の一つでした。	We had a nice room. It was one of the best in the hotel.		
+GU108S039	1	108	16_adjectives and adverbs 2	クラスで最年少の学生は誰ですか？	Who is the youngest student in the class?		
+GU108S040	1	108	16_adjectives and adverbs 2	昨日は今年で一番暑い日でした。	Yesterday was the hottest day of the year.		
+GU108S041	1	108	16_adjectives and adverbs 2	エベレストは世界で最も高い山です。	Everest is the highest mountain in the world.		
+GU108S042	1	108	16_adjectives and adverbs 2	ここは良いレストランです。町で一番良いレストランだと言われています。	This is a good place to eat. They say it's the best restaurant in town.		
+GU108S043	1	108	16_adjectives and adverbs 2	私にとって春はとても忙しい時期です。年間で最も忙しい時期です。	For me spring is a very busy time. It's the busiest time of the year.		
+GU108S044	1	108	16_adjectives and adverbs 2	ブラジルは南アメリカで最も大きな国です。	Brazil is the largest country in South America.		
+GU108S045	1	108	16_adjectives and adverbs 2	朝が好きです。一日の中で一番良い時間だと思います。	I like the morning. I think it's the best part of the day.		
+GU108S046	1	108	16_adjectives and adverbs 2	ヘレンはとても良い先生です。学校で一番良い先生です。	Helen is a very good teacher. She's the best teacher in the school.		
+GU108S047	1	108	16_adjectives and adverbs 2	今までで一番重要な決断は何ですか？	What's the most important decision you've ever made?		
+GU108S048	1	108	16_adjectives and adverbs 2	長い間で一番良い休暇でした。	That was the best holiday I've had for a long time.		
+GU108S049	1	108	16_adjectives and adverbs 2	あなたはちょうど10キロメートル走りました。これまでにこれ以上走ったことはありません。あなたは言います：「これまでで一番遠くまで走りました。」	You've just run ten kilometres. You've never run further than this. You say: That's the furthest I've ever run.		
+GU108S050	1	108	16_adjectives and adverbs 2	あなたはちょうど映画を見てきました。その映画は非常に退屈でした。あなたは言います：「これまでで一番退屈な映画でした。」	You've just been to the cinema. The film was extremely boring. You say: That's the most boring movie I've ever seen.		
+GU108S051	1	108	16_adjectives and adverbs 2	あなたは仕事を辞めましたが、今それは間違いだったと思います。あなたは言います：「今までで最悪の間違いでした。」	"You gave up your job, but now you think this was a mistake. You say: It's the worst mistake I've ever made."		
+GU108S052	1	108	16_adjectives and adverbs 2	誰かがとても面白いジョークを言いました。あなたは言います：「これまでで一番面白いジョークの一つです。」	"Someone has just told you a joke, which you think is very funny. You say: That's one of the funniest jokes I've ever heard."		
+GU108S053	1	108	16_adjectives and adverbs 2	友人とコーヒーを飲んでいます。本当に美味しいコーヒーです。あなたは言います：「これは長い間で一番美味しいコーヒーです。」	You're drinking coffee with a friend. It's really good coffee. You say: This is the best coffee I've tasted for a long time.		
+GU108S054	1	108	16_adjectives and adverbs 2	サラについて話しています。彼女はとても寛大です。あなたは言います：「サラは私が今まで会った中で最も寛大な人の一人です。」	"You're telling someone about Sarah, who is very generous. You say: Sarah is one of the most generous people I've ever met."		
+GU108S055	1	108	16_adjectives and adverbs 2	あなたはパーティーにいます。それは素晴らしいです。あなたは言います：「これは長い間で一番良いパーティーです。」	You are at a party. It's great. You tell someone: It's the best party I've been to for ages.		
+GU108S056	1	108	16_adjectives and adverbs 2	友人は多くの人に会います。その中には有名人もいます。あなたは友人に尋ねます：「今まで会った中で最も有名な人は誰ですか？」	"Your friend meets a lot of people, some of them famous. You ask your friend: Who is the most famous person you've ever met?"		
+GU109S001	1	109	16_adjectives and adverbs 2	私は仕事がとても好きです。	I like my job very much.		
+GU109S002	1	109	16_adjectives and adverbs 2	私たちのガイドは流暢に英語を話しました。	Our guide spoke English fluently.		
+GU109S003	1	109	16_adjectives and adverbs 2	私は全てのお金を失い、さらにパスポートも失いました。	I lost all my money and I also lost my passport.		
+GU109S004	1	109	16_adjectives and adverbs 2	通りの終わりに、左側にスーパーマーケットが見えます。	At the end of the street you'll see a supermarket on your left.		
+GU109S005	1	109	16_adjectives and adverbs 2	ジョーはサッカーがあまり好きではありません。	Joe doesn't like football very much.		
+GU109S006	1	109	16_adjectives and adverbs 2	あなたは毎日肉を食べますか？	Do you eat meat every day?		
+GU109S007	1	109	16_adjectives and adverbs 2	ダンはレースに簡単に勝ちました。	Dan won the race easily.		
+GU109S008	1	109	16_adjectives and adverbs 2	ターニャはドイツ語をかなり上手に話します。	Tanya speaks German quite well.		
+GU109S009	1	109	16_adjectives and adverbs 2	サムはいつもテレビを見ています。	Sam watches TV all the time.		
+GU109S010	1	109	16_adjectives and adverbs 2	その質問をもう一度しないでください。	Please don't ask that question again.		
+GU109S011	1	109	16_adjectives and adverbs 2	最近クリスを見ましたか？	Have you seen Chris recently?		
+GU109S012	1	109	16_adjectives and adverbs 2	私は友達からお金を借りました。	I borrowed some money from a friend of mine.		
+GU109S013	1	109	16_adjectives and adverbs 2	私は朝食を急いで食べて外出しました。	I ate my breakfast quickly and went out.		
+GU109S014	1	109	16_adjectives and adverbs 2	パーティーにたくさんの人を招待するつもりですか？	Are you going to invite a lot of people to the party?		
+GU109S015	1	109	16_adjectives and adverbs 2	私は子供たちを車で学校に連れて行きました。	I took the children to school in the car.		
+GU109S016	1	109	16_adjectives and adverbs 2	テーブルの上に何も置かないでください。	Don't put anything on the table.		
+GU109S017	1	109	16_adjectives and adverbs 2	帰り道で友達に会いました。	I met a friend of mine on my way home.		
+GU109S018	1	109	16_adjectives and adverbs 2	図書館で面白い本を見つけました。	We found some interesting books in the library.		
+GU109S019	1	109	16_adjectives and adverbs 2	彼らは公園の向かいに新しいホテルを建設しています。	They're building a new hotel opposite the park.		
+GU109S020	1	109	16_adjectives and adverbs 2	市場でたくさんの果物を買いました。	We bought a lot of fruit in the market.		
+GU109S021	1	109	16_adjectives and adverbs 2	封筒に切手を貼るのを忘れました。	I forgot to put a stamp on the envelope.		
+GU109S022	1	109	16_adjectives and adverbs 2	ページの上部に名前を書いてください。	Please write your name at the top of the page.		
+GU109S023	1	109	16_adjectives and adverbs 2	月曜日にパリに行くつもりはありません。	I'm not going to Paris on Monday.		
+GU109S024	1	109	16_adjectives and adverbs 2	10時までに空港に着く必要があります。	We need to be at the airport by ten o'clock.		
+GU109S025	1	109	16_adjectives and adverbs 2	彼らは長い間同じ家に住んでいます。	They have lived in the same house for a long time.		
+GU109S026	1	109	16_adjectives and adverbs 2	本当にそんなに遅く寝るべきではありません。	You really shouldn't go to bed so late.		
+GU109S027	1	109	16_adjectives and adverbs 2	月曜日にパリに行きます。	On Monday I'm going to Paris.		
+GU109S028	1	109	16_adjectives and adverbs 2	毎週金曜日にスーパーに行きます。	I go to the supermarket every Friday.		
+GU109S029	1	109	16_adjectives and adverbs 2	なぜそんなに遅く帰ってきたのですか？	Why did you come home so late?		
+GU109S030	1	109	16_adjectives and adverbs 2	最近映画館に行っていません。	I haven't been to the cinema recently.		
+GU109S031	1	109	16_adjectives and adverbs 2	私たちは朝ずっと町を歩き回りました。	We walked around the town all morning.		
+GU109S032	1	109	16_adjectives and adverbs 2	私の姉は4月からカナダにいます。	My sister has been in Canada since April.		
+GU109S033	1	109	16_adjectives and adverbs 2	ベンは毎朝仕事に歩いて行きます。	Ben walks to work every morning.		
+GU109S034	1	109	16_adjectives and adverbs 2	リンダは20年間同じオフィスで働いています。	Linda has worked in the same office for 20 years.		
+GU109S035	1	109	16_adjectives and adverbs 2	月は27日ごとに地球の周りを回ります。	The moon goes round the earth every 27 days.		
+GU109S036	1	109	16_adjectives and adverbs 2	サラは昨日子供たちを動物園に連れて行きました。	Sarah took her children to the zoo yesterday.		
+GU109S037	1	109	16_adjectives and adverbs 2	今朝あなたの車に傘を忘れました。	I left my umbrella in your car this morning.		
+GU109S038	1	109	16_adjectives and adverbs 2	昨夜、レストランで素晴らしい食事をしました。	We had a wonderful meal in a restaurant last night.		
+GU109S039	1	109	16_adjectives and adverbs 2	私は一晩中家でテレビを見ていました。	I was watching TV at home all evening.		
+GU109S040	1	109	16_adjectives and adverbs 2	今日学校でたくさんのことを学びましたか？	Did you learn a lot of things at school today?		
+GU109S041	1	109	16_adjectives and adverbs 2	アンナは過去3年間ロンドンでイタリア語を教えています。	Anna has been teaching Italian in London for the last three years.		
+GU110S001	1	110	16_adjectives and adverbs 2	エマはいつも車で仕事に行きます。	Emma always drives to work.		
+GU110S002	1	110	16_adjectives and adverbs 2	私は家を掃除し、さらに夕食も作りました。	I cleaned the house and also cooked the dinner.		
+GU110S003	1	110	16_adjectives and adverbs 2	彼は階段を降りているときにほとんど転びそうになりました。	He almost fell as he was going down the stairs.		
+GU110S004	1	110	16_adjectives and adverbs 2	ルーシーはほとんどテレビを見ず、新聞もめったに読みません。	Lucy hardly ever watches television and rarely reads newspapers.		
+GU110S005	1	110	16_adjectives and adverbs 2	ジョーは決して私に電話しません。いつも私が彼に電話しなければなりません。	Joe never phones me. I always have to phone him.		
+GU110S006	1	110	16_adjectives and adverbs 2	私は普段、朝にシャワーを浴びます。	I usually have a shower in the morning.		
+GU110S007	1	110	16_adjectives and adverbs 2	私たちはすぐに問題の解決策を見つけました。	We soon found a solution to the problem.		
+GU110S008	1	110	16_adjectives and adverbs 2	私はよくパスワードを思い出すのに苦労します。	I often have trouble remembering passwords.		
+GU110S009	1	110	16_adjectives and adverbs 2	買い物をして、さらに銀行にも行きました。	I did some shopping and I also went to the bank.		
+GU110S010	1	110	16_adjectives and adverbs 2	あなたは聞いていません！いつも私が物事を繰り返さなければなりません。	You don't listen! I always have to repeat things.		
+GU110S011	1	110	16_adjectives and adverbs 2	仕事を変えていません。まだ同じ会社で働いています。	I haven't changed jobs. I still work for the same company.		
+GU110S012	1	110	16_adjectives and adverbs 2	ロバートはロシア語を学んでいます。彼はすでに4つの言語を話します。	Robert is learning Russian. He already speaks four languages.		
+GU110S013	1	110	16_adjectives and adverbs 2	なぜいつも遅れるのですか？あなたは決して時間通りではありません。	Why are you always late? You're never on time.		
+GU110S014	1	110	16_adjectives and adverbs 2	私たちはとても疲れていて、さらにお腹も空いていました。	We were feeling very tired and we were also hungry.		
+GU110S015	1	110	16_adjectives and adverbs 2	通常、交通は今朝ほど悪くありません。	The traffic isn't usually as bad as it was this morning.		
+GU110S016	1	110	16_adjectives and adverbs 2	エイミーはいつもとても忙しいです。	Amy is always very busy.		
+GU110S017	1	110	16_adjectives and adverbs 2	彼女はよく出かけます。ほとんど家にいません。	She goes away a lot. She's hardly ever at home.		
+GU110S018	1	110	16_adjectives and adverbs 2	スティーブはとても冷静です。彼はほとんど怒りません。	Steve is very calm. He hardly ever gets angry.		
+GU110S019	1	110	16_adjectives and adverbs 2	私が到着したとき、友達はすでにそこにいました。	"When I arrived, my friends were already there."		
+GU110S020	1	110	16_adjectives and adverbs 2	このカフェにはいつも誰かいます。決して空いていません。	There's always somebody in this cafe. It's never empty.		
+GU110S021	1	110	16_adjectives and adverbs 2	私は普段、夜に約6時間寝ます。	I usually sleep about six hours a night.		
+GU110S022	1	110	16_adjectives and adverbs 2	ここでホテルの部屋を見つけるのは通常簡単です。	It's usually easy to find a hotel room here.		
+GU110S023	1	110	16_adjectives and adverbs 2	雨が降っていて、さらにとても寒かったです。	It was raining and it was also very cold.		
+GU110S024	1	110	16_adjectives and adverbs 2	私は彼らに電話し、さらにメールも送りました。	I called them and I also sent an email.		
+GU110S025	1	110	16_adjectives and adverbs 2	あの女の子を知っていますが、名前を思い出せません。	"I know that girl, but I can never remember her name."		
+GU110S026	1	110	16_adjectives and adverbs 2	クレアはあまり肉を食べません。	Clare doesn't often eat meat.		
+GU110S027	1	110	16_adjectives and adverbs 2	あなたはパーティーに絶対に行くのですか？	Are you definitely going to the party?		
+GU110S028	1	110	16_adjectives and adverbs 2	会議はおそらくキャンセルされるでしょう。	The meeting will probably be cancelled.		
+GU110S029	1	110	16_adjectives and adverbs 2	おそらくあなたには会わないでしょう。	I probably won't see you.		
+GU110S030	1	110	16_adjectives and adverbs 2	おそらくあなたには会わないでしょう。	I will probably not see you.		
+GU110S031	1	110	16_adjectives and adverbs 2	リサは良いピアニストです。彼女はさらにとても上手に歌うこともできます。	Lisa is a good pianist. She can also sing very well.		
+GU110S032	1	110	16_adjectives and adverbs 2	どうやって仕事に行きますか？普段はバスで行きますか？	How do you get to work? Do you usually go by bus?		
+GU110S033	1	110	16_adjectives and adverbs 2	今日の旅は長かったです。いつもそんなに時間がかかるわけではありません。	The journey took a long time today. It doesn't always take so long.		
+GU110S034	1	110	16_adjectives and adverbs 2	ジャックは料理ができません。卵すら茹でられません。	Jack can't cook. He can't even boil an egg.		
+GU110S035	1	110	16_adjectives and adverbs 2	これがあなたに会う最後の機会かもしれません。もう二度と会えないかもしれません。	This could be the last time I see you. We might never meet again.		
+GU110S036	1	110	16_adjectives and adverbs 2	1時間出かけます。戻ったときにまだここにいますか？	I'm going out for an hour. Will you still be here when I get back?		
+GU110S037	1	110	16_adjectives and adverbs 2	毎日彼らを見かけますが、一度も話したことがありません。	"I see them every day, but I've never spoken to them."		
+GU110S038	1	110	16_adjectives and adverbs 2	引っ越していません。まだ同じ場所に住んでいます。	We haven't moved. We're still living in the same place.		
+GU110S039	1	110	16_adjectives and adverbs 2	その家はわずか2歳ですが、すでに崩れ始めています。	"The house is only two years old, but it's already falling down."		
+GU110S040	1	110	16_adjectives and adverbs 2	マーティンはスペイン語を学んでいて、さらに日本語も学んでいます。	"Martin is learning Spanish, and he's also learning Japanese."		
+GU110S041	1	110	16_adjectives and adverbs 2	私たちが泊まったホテルはひどかったです。もう二度とそこに泊まりません。	The hotel we stayed in was awful. I'll never stay there again.		
+GU110S042	1	110	16_adjectives and adverbs 2	彼らがとても好きです。彼らはいつもとても親切にしてくれました。	I like them very much. They've always been very kind to me.		
+GU110S043	1	110	16_adjectives and adverbs 2	明日出かけます。おそらく早く出発します。	I'm going away tomorrow. I'll probably be leaving early.		
+GU110S044	1	110	16_adjectives and adverbs 2	パーティーへの招待ありがとう。でもおそらく行けないでしょう。	"Thanks for the invitation to the party, but I probably won't be able to come."		
+GU110S045	1	110	16_adjectives and adverbs 2	食事の後、私たちは全員具合が悪くなりました。	We all felt ill after the meal.		
+GU110S046	1	110	16_adjectives and adverbs 2	私の両親はどちらも教師です。	My parents are both teachers.		
+GU110S047	1	110	16_adjectives and adverbs 2	サラとジェーンはどちらもその仕事に応募しました。	Sarah and Jane have both applied for the job.		
+GU110S048	1	110	16_adjectives and adverbs 2	私の友人たちは今夜全員出かけます。	My friends are all going out tonight.		
+GU110S049	1	110	16_adjectives and adverbs 2	マークとエイミーはどちらもマンチェスターで生まれました。	Mark and Amy were both born in Manchester.		
+GU110S050	1	110	16_adjectives and adverbs 2	長い一日で、私たちは全員とても疲れていました。	It had been a long day and we were all very tired.		
+GU110S051	1	110	16_adjectives and adverbs 2	どちらのレストランが良いかわかりませんが、どちらも良いです。	"I don't know which restaurant is better, but they are both good."		
+GU110S052	1	110	16_adjectives and adverbs 2	私には二人の兄弟がいて、どちらもロンドンに住んでいます。	"I have two brothers, who both live in London."		
+GU110S053	1	110	16_adjectives and adverbs 2	私たちのグループは一緒に旅行に出かけ、全員素晴らしい時間を過ごしました。	"A group of us went on a trip together, and we all had a great time."		
+GU110S054	1	110	16_adjectives and adverbs 2	家には誰もいませんでした。全員休暇に出かけていたからです。	There was nobody at home because they had all gone away on holiday.		
+GU110S055	1	110	16_adjectives and adverbs 2	トムは自分が賢くないと言いますが、私はそうは思いません。	"Tom says he isn't clever, but I think he is."		
+GU110S056	1	110	16_adjectives and adverbs 2	彼は決して遅れないと言いますが、いつも遅れます。	"He always says he won't be late, but he always is."		
+GU110S057	1	110	16_adjectives and adverbs 2	それをやったことはありませんし、これからもやりません。	I've never done it and I never will.		
+GU110S058	1	110	16_adjectives and adverbs 2	私たちの猫は普段ベッドの下で寝ます。	Our cat usually sleeps under the bed.		
+GU110S059	1	110	16_adjectives and adverbs 2	普段土曜日には働きません。	I don't usually work on Saturdays.		
+GU110S060	1	110	16_adjectives and adverbs 2	やることがたくさんあって、いつも時間が足りません。	I have so much to do and I never have enough time.		
+GU110S061	1	110	16_adjectives and adverbs 2	この時期は天気が通常とても良いです。	At this time of the year the weather is usually very good.		
+GU110S062	1	110	16_adjectives and adverbs 2	疲れています。この時間帯はいつもそうです。	I'm tired. I always am at this time of the day.		
+GU110S063	1	110	16_adjectives and adverbs 2	大きなホテルなので、ここに泊まるのはおそらく高いでしょう。	"It's a big hotel, so it probably costs a lot to stay here."		
+GU110S064	1	110	16_adjectives and adverbs 2	すべてが変わりました。もう二度と同じにはならないでしょう。	Everything has changed. Things will never be the same again.		
+GU110S065	1	110	16_adjectives and adverbs 2	博物館に行って、美術館も訪れました。	We went to the museum and we also visited the art gallery.		
+GU110S066	1	110	16_adjectives and adverbs 2	ターニャはいつも電話すると言いますが、決してしません。	"Tanya always says that she'll phone me, but she never does."		
+GU110S067	1	110	16_adjectives and adverbs 2	この店はいつも忙しいです。いつもサービスされるのに長い時間待たなければなりません。	This shop is always busy. You always have to wait a long time to be served.		
+GU111S001	1	111	16_adjectives and adverbs 2	10時ですが、ジョーはまだベッドにいます。	It's 10 o'clock and Joe is still in bed.		
+GU111S002	1	111	16_adjectives and adverbs 2	私が寝たとき、クリスはまだ働いていました。	"When I went to bed, Chris was still working."		
+GU111S003	1	111	16_adjectives and adverbs 2	まだ出かけたいですか、それとも考えが変わりましたか？	Do you still want to go away or have you changed your mind?		
+GU111S004	1	111	16_adjectives and adverbs 2	彼は欲しいものを全て持っていますが、まだ不幸です。	"He has everything he wants, but he's still unhappy."		
+GU111S005	1	111	16_adjectives and adverbs 2	まだ同じ家に住んでいますか、それとも引っ越しましたか？	"Are you still living in the same house, or have you moved?"		
+GU111S006	1	111	16_adjectives and adverbs 2	ちょうど食べたばかりですが、まだお腹が空いています。	"I've just eaten, but I'm still hungry."		
+GU111S007	1	111	16_adjectives and adverbs 2	彼らはまだ映画館に行きますが、以前ほど頻繁ではありません。	"They still go to the cinema, but not as often as they used to."		
+GU111S008	1	111	16_adjectives and adverbs 2	先週彼らにメールを送りましたが、まだ返信を待っています。	"I sent them an email last week, and I'm still waiting for a reply."		
+GU111S009	1	111	16_adjectives and adverbs 2	トムはもう戻ってきましたか、それともまだ出かけていますか？	"Is Tom back yet, or is he still away?"		
+GU111S010	1	111	16_adjectives and adverbs 2	リチャードは60歳ですが、とても元気です。まだたくさんのスポーツをしています。	"Richard is 60 years old, but he's pretty fit. He still does a lot of sport."		
+GU111S011	1	111	16_adjectives and adverbs 2	サムと私は最近あまり会いませんが、まだ良い友達です。	"Sam and I don't see each other so often these days, but we're still good friends."		
+GU111S012	1	111	16_adjectives and adverbs 2	それはずっと前に起こりましたが、まだとても鮮明に覚えています。	"It happened long ago, but I still remember it very clearly."		
+GU111S013	1	111	16_adjectives and adverbs 2	ルーシーはもうここで働いていません。先月辞めました。	Lucy doesn't work here any more. She left last month.		
+GU111S014	1	111	16_adjectives and adverbs 2	私たちは以前は良い友達でしたが、もう違います。	"We used to be good friends, but we aren't any more."		
+GU111S015	1	111	16_adjectives and adverbs 2	ルーシーはもうここで働いていません。	Lucy doesn't work here any longer.		
+GU111S016	1	111	16_adjectives and adverbs 2	ルーシーはもうここで働いていません。	Lucy no longer works here.		
+GU111S017	1	111	16_adjectives and adverbs 2	サリーはまだここで働いていますが、ルーシーはもう働いていません。	"Sally still works here, but Lucy doesn't work here any more."		
+GU111S018	1	111	16_adjectives and adverbs 2	もう車は必要ありません。売るべきです。	We don't need our car any more. We should sell it.		
+GU111S019	1	111	16_adjectives and adverbs 2	彼らはもうここに住んでいません。引っ越しました。	They don't live here any more. They moved.		
+GU111S020	1	111	16_adjectives and adverbs 2	私はもう痩せていません。体重が増えました。	I'm not slim any more. I've put on weight.		
+GU111S021	1	111	16_adjectives and adverbs 2	その建物はもう存在しません。取り壊されました。	The building doesn't exist any more. It was knocked down.		
+GU111S022	1	111	16_adjectives and adverbs 2	彼女はもうピアノの練習をしていません。諦めました。	She isn't learning to play the piano any more. She gave it up.		
+GU111S023	1	111	16_adjectives and adverbs 2	もう気分が悪くありません。今は大丈夫です。	I don't feel sick any more. I feel fine now.		
+GU111S024	1	111	16_adjectives and adverbs 2	もう雨は降っていません。傘は必要ありません。	It's not raining any more. We don't need an umbrella.		
+GU111S025	1	111	16_adjectives and adverbs 2	私が子供の頃に通っていた学校はもう存在しません。	The school I went to as a child doesn't exist any more.		
+GU111S026	1	111	16_adjectives and adverbs 2	以前はサッカーファンでしたが、まだ好きですが以前ほどではありません。	"I used to be a football fan. I still like it, but not as much."		
+GU111S027	1	111	16_adjectives and adverbs 2	ベンは去りましたが、クリスとトレイシーはまだここにいます。	"Ben has gone, but Chris and Tracy are still here."		
+GU111S028	1	111	16_adjectives and adverbs 2	エマは引退しました。もう働いていません。	Emma has retired. She doesn't work any more.		
+GU111S029	1	111	16_adjectives and adverbs 2	マークとロビーは去りました。もうここにはいません。	Mark and Robbie have gone. They aren't here any more.		
+GU111S030	1	111	16_adjectives and adverbs 2	私が働いていた会社はもう存在しません。	The company I worked for no longer exists.		
+GU111S031	1	111	16_adjectives and adverbs 2	ポールは仕事を変えていません。まだ同じ場所で働いています。	Paul hasn't changed jobs. He still works in the same place.		
+GU111S032	1	111	16_adjectives and adverbs 2	彼は以前は友達でしたが、もう好きではありません。	"He used to be my friend, but I don't like him any more."		
+GU111S033	1	111	16_adjectives and adverbs 2	10時ですが、ジョーはまだここにいません。	It's 10 o'clock and Joe isn't here yet.		
+GU111S034	1	111	16_adjectives and adverbs 2	もう何をするか決めましたか？	Have you decided what to do yet?		
+GU111S035	1	111	16_adjectives and adverbs 2	A: 休暇はどこに行くのですか？ B: まだ分かりません。	A: Where are you going on holiday? B: We don't know yet.		
+GU111S036	1	111	16_adjectives and adverbs 2	まだ終わっていません。	We haven't finished yet.		
+GU111S037	1	111	16_adjectives and adverbs 2	マイクは6ヶ月前に仕事を失い、まだ失業中です。	Mike lost his job six months ago and is still unemployed.		
+GU111S038	1	111	16_adjectives and adverbs 2	マイクは6ヶ月前に仕事を失い、まだ別の仕事を見つけていません。	Mike lost his job six months ago and hasn't found another job yet.		
+GU111S039	1	111	16_adjectives and adverbs 2	まだ雨が降っていますか？	Is it still raining?		
+GU111S040	1	111	16_adjectives and adverbs 2	もう雨は止みましたか？	Has it stopped raining yet?		
+GU111S041	1	111	16_adjectives and adverbs 2	彼女は1時間前にここにいると言いましたが、まだ来ていません。	She said she would be here an hour ago and she still hasn't come.		
+GU111S042	1	111	16_adjectives and adverbs 2	先週彼女に招待状を送りましたが、まだ返信がありません。	I sent her an invitation last week. She hasn't replied yet.		
+GU111S043	1	111	16_adjectives and adverbs 2	何週間も前に彼女に招待状を送りましたが、まだ返信がありません。	I sent her an invitation weeks ago and she still hasn't replied.		
+GU111S044	1	111	16_adjectives and adverbs 2	全く疲れていません。まだ寝たくありません。	I'm not at all tired. I don't want to go to bed yet.		
+GU111S045	1	111	16_adjectives and adverbs 2	封筒の中身がわかりません。まだ開けていません。	I don't know what's in the envelope. I haven't opened it yet.		
+GU111S046	1	111	16_adjectives and adverbs 2	食事をするには早すぎます。まだお腹が空いていません。	It's too early to eat. I'm not hungry yet.		
+GU111S047	1	111	16_adjectives and adverbs 2	昇給するかもしれませんが、確実ではありません。まだ確定していません。	"I may be getting a pay rise, but I'm not sure. It's not definite yet."		
+GU111S048	1	111	16_adjectives and adverbs 2	ティナは私の計画について知りません。まだ彼女に言っていません。	Tina doesn't know about my plans. I haven't told her yet.		
+GU111S049	1	111	16_adjectives and adverbs 2	新しい隣人について何も知りません。まだ会っていません。	I don't know anything about my new neighbours. I haven't met them yet.		
+GU111S050	1	111	16_adjectives and adverbs 2	まだ道路の修理をしています。まだ終わっていません。	They're still repairing the road. They haven't finished yet.		
+GU111S051	1	111	16_adjectives and adverbs 2	まだ何をするか決めていません。まだ考えています。	I haven't decided what to do yet. I'm still thinking about it.		
+GU111S052	1	111	16_adjectives and adverbs 2	まだ住む場所を探していますか？もう見つかりましたか？	Are you still looking for a place to live? Have you found anywhere yet?		
+GU111S053	1	111	16_adjectives and adverbs 2	子供たちはまだ起きていません。まだ寝ています。	The children haven't woken up yet. They are still asleep.		
+GU111S054	1	111	16_adjectives and adverbs 2	飛行機はまだ離陸していません。まだ滑走路にいます。	The plane hasn't taken off yet. It's still waiting on the runway.		
+GU111S055	1	111	16_adjectives and adverbs 2	A: スーは何時に出発しますか？ B: 彼女はすでに出発しました。	A: What time is Sue leaving? B: She has already left.		
+GU111S056	1	111	16_adjectives and adverbs 2	ジョーに何が起こったか教えましょうか、それとも彼はすでに知っていますか？	Shall I tell Joe what happened or does he already know?		
+GU111S057	1	111	16_adjectives and adverbs 2	ちょうど昼食を食べましたが、もうお腹が空いています。	I've just had lunch and I'm already hungry.		
+GU111S058	1	111	16_adjectives and adverbs 2	彼女はすでに出発しました。	She has already left.		
+GU111S059	1	111	16_adjectives and adverbs 2	彼女はすでに出発しました。	She has left already.		
+GU111S060	1	111	16_adjectives and adverbs 2	お腹が空きました。夕食はもう準備できていますか？	I'm hungry. Is dinner ready yet?		
+GU111S061	1	111	16_adjectives and adverbs 2	以前はお腹が空いていましたが、もうお腹は空いていません。	"I was hungry earlier, but I'm not hungry any more."		
+GU111S062	1	111	16_adjectives and adverbs 2	何か食べたいですか、それともすでに食べましたか？	"Would you like something to eat, or have you already eaten?"		
+GU111S063	1	111	16_adjectives and adverbs 2	以前アムステルダムに住んでいました。まだたくさんの友達がいます。	I used to live in Amsterdam. I still have a lot of friends there.		
+GU111S064	1	111	16_adjectives and adverbs 2	ジョーに紹介する必要はありません。すでに会ったことがあります。	There's no need to introduce me to Joe. We've already met.		
+GU111S065	1	111	16_adjectives and adverbs 2	数分待ってもいいですか？まだ出かけたくありません。	Can we wait a few minutes? I don't want to go out yet.		
+GU111S066	1	111	16_adjectives and adverbs 2	体重が増えました。このズボンはもう合いません。	I've put on weight. These trousers don't fit me any more.		
+GU111S067	1	111	16_adjectives and adverbs 2	クラブに入りたいですか、それともすでに会員ですか？	"Do you want to join the club, or are you already a member?"		
+GU111S068	1	111	16_adjectives and adverbs 2	トムは8時30分にここにいると言いました。今は9時で、まだここにいません。	Tom said he'd be here at 8.30. It's 9 o'clock and he still isn't here.		
+GU112S001	1	112	16_adjectives and adverbs 2	ティナはテレビを見るのが大好きです。彼女は家の全ての部屋にテレビを持っています、浴室にさえも。	"Tina loves watching TV. She has a television in every room of the house, even the bathroom."		
+GU112S002	1	112	16_adjectives and adverbs 2	私たちは、何かが普通ではないことや驚くべきことを言うために「even」を使います。	We use even to say that something is unusual or surprising.		
+GU112S003	1	112	16_adjectives and adverbs 2	これらの写真は本当にひどいです。私でさえもこれより良い写真を撮ります。	These photos are really awful. Even I take better pictures than these.		
+GU112S004	1	112	16_adjectives and adverbs 2	彼はいつもコートを着ています、暑い天気の時でさえも。	"He always wears a coat, even in hot weather."		
+GU112S005	1	112	16_adjectives and adverbs 2	誰も彼女を助けようとしませんでした、彼女の親友でさえも。	"Nobody would help her, not even her best friend."		
+GU112S006	1	112	16_adjectives and adverbs 2	彼女の親友でさえも彼女を助けようとしませんでした。	Not even her best friend would help her.		
+GU112S007	1	112	16_adjectives and adverbs 2	彼らはホテルに泊まりました。全員がそれを気に入りました、ケイトでさえも。	"They stayed at a hotel. Everybody liked it, even Kate."		
+GU112S008	1	112	16_adjectives and adverbs 2	彼らは会うことを取り決めました。全員が時間通りに到着しました、リサでさえも。	"They arranged to meet. They all arrived on time, even Lisa."		
+GU112S009	1	112	16_adjectives and adverbs 2	彼らは美術館に行きました。誰も楽しみませんでした、エイミーでさえも。	"They went to an art gallery. Nobody enjoyed it, not even Amy."		
+GU112S010	1	112	16_adjectives and adverbs 2	昨日、彼らは早く起きなければなりませんでした。全員がそれを成し遂げました、リサでさえも。	"Yesterday they had to get up early. They all managed to do this, even Lisa."		
+GU112S011	1	112	16_adjectives and adverbs 2	昨日、彼らは一緒にいました。全員が良い気分でした、ケイトでさえも。	"They were together yesterday. They were all in a good mood, even Kate."		
+GU112S012	1	112	16_adjectives and adverbs 2	誰も写真を撮りませんでした、リサでさえも。	"None of them took any pictures, not even Lisa."		
+GU112S013	1	112	16_adjectives and adverbs 2	ローラは世界中を旅行しました。彼女は南極にさえ行きました。	Laura has travelled all over the world. She has even been to the Antarctic.		
+GU112S014	1	112	16_adjectives and adverbs 2	彼らは非常に裕福です。プライベートジェット機さえ持っています。	They are very rich. They even have their own private jet.		
+GU112S015	1	112	16_adjectives and adverbs 2	私は料理ができません。卵を茹でることさえもできません。	I can't cook. I can't even boil an egg.		
+GU112S016	1	112	16_adjectives and adverbs 2	彼らは私たちにとても冷たかったです。挨拶さえもしませんでした。	They weren't very friendly to us. They didn't even say hello.		
+GU112S017	1	112	16_adjectives and adverbs 2	私たちは部屋全体を塗りました。全てを塗りました。床さえも塗りました。	We painted the whole room. We painted everything. We even painted the floor.		
+GU112S018	1	112	16_adjectives and adverbs 2	この町は退屈です。ここにはすることが何もありません。映画館さえもありません。	This town is boring. There isn't anything to do here. There isn't even a cinema.		
+GU112S019	1	112	16_adjectives and adverbs 2	私はその女性と一緒に働いていましたが、彼女についてあまり覚えていません。名前さえも覚えていません。	"I used to work with that woman, but I don't remember much about her. I can't even remember her name."		
+GU112S020	1	112	16_adjectives and adverbs 2	レイチェルは多くの有名人を知っています。首相にさえも会ったことがあります。	Rachel knows a lot of famous people. She has even met the prime minister.		
+GU112S021	1	112	16_adjectives and adverbs 2	誰も彼がどこにいるか知りません。彼は誰にも行き先を告げませんでした。妻にさえも告げませんでした。	Nobody knows where he is. He didn't tell anyone where he was going. He didn't even tell his wife.		
+GU112S022	1	112	16_adjectives and adverbs 2	私はここに住んで長くありませんし、誰も知りません。隣人さえも知りません。	I haven't lived here long and don't know anybody. I don't even know my neighbours.		
+GU112S023	1	112	16_adjectives and adverbs 2	私はとても早く起きましたが、ジャックはさらに早く起きました。	"I got up very early, but Jack got up even earlier."		
+GU112S024	1	112	16_adjectives and adverbs 2	お金があまりないと分かっていましたが、思っていたよりもさらに少ないです。	"I knew I didn't have much money, but I have even less than I thought."		
+GU112S025	1	112	16_adjectives and adverbs 2	彼女からメールを受け取って驚きました。数日後に彼女が私たちを訪ねてきた時にはさらに驚きました。	We were surprised to get an email from her. We were even more surprised when she came to see us a few days later.		
+GU112S026	1	112	16_adjectives and adverbs 2	昨日は35度でしたが、今日はさらに暑いです。	"It was 35 degrees yesterday, but today it's even hotter."		
+GU112S027	1	112	16_adjectives and adverbs 2	その教会は700年前に建てられましたが、その隣の家はさらに古いです。	"The church was built 700 years ago, but the house next to it is even older."		
+GU112S028	1	112	16_adjectives and adverbs 2	それはとても良いアイデアですが、私はさらに良いアイデアがあります。	"That's a very good idea, but I've got an even better one."		
+GU112S029	1	112	16_adjectives and adverbs 2	最初の質問は答えるのが非常に難しかったです。二番目の質問はさらに難しかったです。	The first question was very hard to answer. The second one was even more difficult.		
+GU112S030	1	112	16_adjectives and adverbs 2	私は試験で非常に悪い成績を取りましたが、ほとんどの友人はさらに悪かったです。	"I did very badly in the exam, but most of my friends did even worse."		
+GU112S031	1	112	16_adjectives and adverbs 2	私たち二人ともお腹が空いていませんでした。私はとても少ししか食べず、友人はさらに少ししか食べませんでした。	Neither of us was hungry. I ate very little and my friend ate even less.		
+GU112S032	1	112	16_adjectives and adverbs 2	椅子に立っても棚に手が届きません。	I can't reach the shelf even if I stand on a chair.		
+GU112S033	1	112	16_adjectives and adverbs 2	彼は決して叫びません、怒っている時でさえも。	"He never shouts, even when he's angry."		
+GU112S034	1	112	16_adjectives and adverbs 2	ティナは運転できませんが、車を持っています。	"Even though Tina can't drive, she has a car."		
+GU112S035	1	112	16_adjectives and adverbs 2	この川で泳ぐのは危険です、たとえ強い泳ぎ手でも。	"It's dangerous to swim in this river, even if you're a strong swimmer."		
+GU112S036	1	112	16_adjectives and adverbs 2	この川は危険です、強い泳ぎ手にとっても。	"This river is dangerous, even for strong swimmers."		
+GU112S037	1	112	16_adjectives and adverbs 2	明日ビーチに行く予定です。雨が降っていても行きます。	We're going to the beach tomorrow. We're going even if it's raining.		
+GU112S038	1	112	16_adjectives and adverbs 2	明日ビーチに行きたいですが、雨が降っている場合は行きません。	"We want to go to the beach tomorrow, but we won't go if it's raining."		
+GU112S039	1	112	16_adjectives and adverbs 2	バスは5分後に出発しますが、走ればまだ間に合います。	"The bus leaves in five minutes, but we can still catch it if we run."		
+GU112S040	1	112	16_adjectives and adverbs 2	バスは2分後に出発します。今走っても間に合いません。	The bus leaves in two minutes. We won't catch it now even if we run.		
+GU112S041	1	112	16_adjectives and adverbs 2	彼のスペイン語はあまり上手ではありません、スペインに3年もいた後でも。	"His Spanish isn't very good, even after three years in Spain."		
+GU112S042	1	112	16_adjectives and adverbs 2	彼のスペイン語はあまり上手ではありません、彼が3年間スペインに住んでいたにもかかわらず。	"His Spanish isn't very good, even though he lived in Spain for three years."		
+GU112S043	1	112	16_adjectives and adverbs 2	暖房を入れても、家の中は寒かったです。	"Even with the heating on, it was cold in the house."		
+GU112S044	1	112	16_adjectives and adverbs 2	とても疲れていたのに、昨夜は眠れませんでした。	I couldn't sleep last night even though I was very tired.		
+GU112S045	1	112	16_adjectives and adverbs 2	彼らが謝罪しても、彼らを許しません。	"I won't forgive them for what they did, even if they apologise."		
+GU112S046	1	112	16_adjectives and adverbs 2	24時間何も食べていなかったにもかかわらず、お腹は空いていませんでした。	"Even though I hadn't eaten anything for 24 hours, I wasn't hungry."		
