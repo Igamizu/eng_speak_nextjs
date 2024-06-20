@@ -6778,3 +6778,421 @@ GU112S043	1	112	16_adjectives and adverbs 2	暖房を入れても、家の中は
 GU112S044	1	112	16_adjectives and adverbs 2	とても疲れていたのに、昨夜は眠れませんでした。	I couldn't sleep last night even though I was very tired.		
 GU112S045	1	112	16_adjectives and adverbs 2	彼らが謝罪しても、彼らを許しません。	"I won't forgive them for what they did, even if they apologise."		
 GU112S046	1	112	16_adjectives and adverbs 2	24時間何も食べていなかったにもかかわらず、お腹は空いていませんでした。	"Even though I hadn't eaten anything for 24 hours, I wasn't hungry."		
+GU113S001	1	113	17 conjunctions and prepositions	雨がたくさん降ったにもかかわらず、彼らはそれを楽しみました。	"Although it rained a lot, they enjoyed it."		
+GU113S002	1	113	17 conjunctions and prepositions	話がくだらないと思ったにもかかわらず、私はその映画を楽しみました。	I enjoyed the film although I thought the story was silly.		
+GU113S003	1	113	17 conjunctions and prepositions	ホテルは高かったにもかかわらず、それほど素敵ではありませんでした。	"Although the hotel was expensive, it wasn't very nice."		
+GU113S004	1	113	17 conjunctions and prepositions	彼女は非常に重要な仕事を持っているにもかかわらず、あまり高給ではありません。	"Although she has a very important job, she isn't well-paid."		
+GU113S005	1	113	17 conjunctions and prepositions	非常に暖かい日だったにもかかわらず、ローザはコートを着ていました。	Rosa was wearing a coat although it was a very warm day.		
+GU113S006	1	113	17 conjunctions and prepositions	以前に彼女を見たことがなかったにもかかわらず、写真で彼女を認識しました。	"Although I'd never seen her before, I recognised her from a photo."		
+GU113S007	1	113	17 conjunctions and prepositions	以前に二度彼女に会ったことがあるにもかかわらず、彼女を認識しませんでした。	I didn't recognise her although I'd met her twice before.		
+GU113S008	1	113	17 conjunctions and prepositions	彼女をあまり好きではないにもかかわらず、私たちは彼女をパーティーに招待することにしました。	We decided to invite her to the party although we don't like her very much.		
+GU113S009	1	113	17 conjunctions and prepositions	言葉をうまく話せなかったにもかかわらず、私はなんとか意思を伝えることができました。	"Although I didn't speak the language well, I managed to make myself understood."		
+GU113S010	1	113	17 conjunctions and prepositions	暖房がついていたにもかかわらず、部屋は寒かったです。	"Although the heating was on, the room was cold."		
+GU113S011	1	113	17 conjunctions and prepositions	私たちは長い間お互いを知っているにもかかわらず、親しい友人ではありません。	We're not close friends although we've known each other a long time.		
+GU113S012	1	113	17 conjunctions and prepositions	雨がたくさん降ったにもかかわらず、彼らは休暇を楽しみました。	"Although it rained a lot, they enjoyed their holiday."		
+GU113S013	1	113	17 conjunctions and prepositions	雨にもかかわらず、彼らは休暇を楽しみました。	"In spite of the rain, they enjoyed their holiday."		
+GU113S014	1	113	17 conjunctions and prepositions	必要な資格を持っていたにもかかわらず、私はその仕事を得られませんでした。	I didn't get the job in spite of having the necessary qualifications.		
+GU113S015	1	113	17 conjunctions and prepositions	彼女は具合が悪かったにもかかわらず、仕事を続けました。	"She wasn't well, but in spite of this she continued working."		
+GU113S016	1	113	17 conjunctions and prepositions	昨日言ったことにもかかわらず、私はまだあなたを愛しています。	"In spite of what I said yesterday, I still love you."		
+GU113S017	1	113	17 conjunctions and prepositions	たくさん雨が降ったという事実にもかかわらず、彼らは休暇を楽しみました。	"In spite of the fact (that) it rained a lot, they enjoyed their holiday."		
+GU113S018	1	113	17 conjunctions and prepositions	雨にもかかわらず、私たちは外出しました。	We went out despite the rain.		
+GU113S019	1	113	17 conjunctions and prepositions	お腹が空いているにもかかわらず、私は何も食べられませんでした。	"In spite of feeling hungry, I couldn't eat anything."		
+GU113S020	1	113	17 conjunctions and prepositions	とてもよくプレーしたにもかかわらず、私たちは試合に負けました。	We lost the game despite playing very well.		
+GU113S021	1	113	17 conjunctions and prepositions	招待されていなかったという事実にもかかわらず、彼女はパーティーに来ました。	She came to the party in spite of the fact she hadn't been invited.		
+GU113S022	1	113	17 conjunctions and prepositions	多くの問題にもかかわらず、彼はいつも陽気です。	He's always cheerful in spite of all his problems.		
+GU113S023	1	113	17 conjunctions and prepositions	とても大きな都市ですが、それにもかかわらず、とても簡単に移動できます。	"It's a very big city but despite this, it's very easy to get around."		
+GU113S024	1	113	17 conjunctions and prepositions	彼女はとても素敵な人だと思いますが、他の人が彼女について言うことにもかかわらずそうです。	I think she's a very nice person in spite of what some people say about her.		
+GU113S025	1	113	17 conjunctions and prepositions	同じ通りに住んでいるにもかかわらず、私たちはほとんど会いません。	"Despite living in the same street, we hardly ever see each other."		
+GU113S026	1	113	17 conjunctions and prepositions	交通が悪かったにもかかわらず、私たちは時間通りに到着しました。	"Although the traffic was bad, we arrived on time."		
+GU113S027	1	113	17 conjunctions and prepositions	交通にもかかわらず、私たちは時間通りに到着しました。	"In spite of the traffic, we arrived on time."		
+GU113S028	1	113	17 conjunctions and prepositions	非常に疲れていたにもかかわらず、私は眠れませんでした。	I couldn't sleep although I was very tired.		
+GU113S029	1	113	17 conjunctions and prepositions	非常に疲れていたにもかかわらず、私は眠れませんでした。	I couldn't sleep in spite of being very tired.		
+GU113S030	1	113	17 conjunctions and prepositions	非常に疲れていたにもかかわらず、私は眠れませんでした。	I couldn't sleep despite being very tired.		
+GU113S031	1	113	17 conjunctions and prepositions	交通が悪かったにもかかわらず、私たちは時間通りに到着しました。	We were on time although the traffic was bad.		
+GU113S032	1	113	17 conjunctions and prepositions	交通が悪かったため、私たちは遅れました。	We were late because the traffic was bad.		
+GU113S033	1	113	17 conjunctions and prepositions	交通にもかかわらず、私たちは時間通りに到着しました。	We were on time in spite of the traffic.		
+GU113S034	1	113	17 conjunctions and prepositions	交通にもかかわらず、私たちは時間通りに到着しました。	We were on time despite the traffic.		
+GU113S035	1	113	17 conjunctions and prepositions	交通のために、私たちは遅れました。	We were late because of the traffic.		
+GU113S036	1	113	17 conjunctions and prepositions	全ての慎重な計画にもかかわらず、多くのことがうまくいきませんでした。	"In spite of all our careful plans, a lot of things went wrong."		
+GU113S037	1	113	17 conjunctions and prepositions	全てを慎重に計画したにもかかわらず、多くのことがうまくいきませんでした。	"Although we'd planned everything carefully, a lot of things went wrong."		
+GU113S038	1	113	17 conjunctions and prepositions	明日は運転手のストライキのためにバスは運行しません。	There will be no buses tomorrow because of a strike by drivers.		
+GU113S039	1	113	17 conjunctions and prepositions	運転手がストライキ中のため、明日はバスが運行しません。	There will be no buses tomorrow because the drivers are on strike.		
+GU113S040	1	113	17 conjunctions and prepositions	体調が悪かったため、私は早く家に帰りました。	I went home early because I was feeling unwell.		
+GU113S041	1	113	17 conjunctions and prepositions	まだ体調が悪かったにもかかわらず、私は翌日仕事に行きました。	I went to work the next day although I was still feeling unwell.		
+GU113S042	1	113	17 conjunctions and prepositions	彼女は非常に高い給料のためにその仕事を受け入れました。	"She only accepted the job because of the salary, which was very high."		
+GU113S043	1	113	17 conjunctions and prepositions	彼女は給料が低かったにもかかわらず、その仕事を受け入れました。	"She accepted the job in spite of the salary, which was rather low."		
+GU113S044	1	113	17 conjunctions and prepositions	多くの騒音があったにもかかわらず、私はよく眠れました。	"Although there was a lot of noise, I slept quite well."		
+GU113S045	1	113	17 conjunctions and prepositions	騒音のため、私は眠れませんでした。	I couldn't get to sleep because of the noise.		
+GU113S046	1	113	17 conjunctions and prepositions	早く始めたにもかかわらず、会議は予定より遅く終わりました。	"Despite starting early, the meeting finished later than planned."		
+GU113S047	1	113	17 conjunctions and prepositions	早く始めたにもかかわらず、会議は遅く終わりました。	The meeting finished late although we'd started early.		
+GU113S048	1	113	17 conjunctions and prepositions	必要な資格を持っていたにもかかわらず、私はその仕事を得られませんでした。	I didn't get the job though I had the necessary qualifications.		
+GU113S049	1	113	17 conjunctions and prepositions	その家はそれほど素敵ではありません。でも、庭は好きです。	The house isn't so nice. I like the garden though.		
+GU113S050	1	113	17 conjunctions and prepositions	私は彼らを毎日見ます。でも、彼らと話したことは一度もありません。	I see them every day. I've never spoken to them though.		
+GU113S051	1	113	17 conjunctions and prepositions	非常に疲れていたにもかかわらず、私は眠れませんでした。	"Even though I was really tired, I couldn't sleep."		
+GU113S052	1	113	17 conjunctions and prepositions	今日は暖かいです。でも、強い風が吹いています。	It's warm today. There's a strong wind though.		
+GU113S053	1	113	17 conjunctions and prepositions	私たちはその食べ物が好きではありませんでした。でも、それを食べました。	We didn't like the food. We ate it though.		
+GU113S054	1	113	17 conjunctions and prepositions	私はその本を読むのを楽しみました。でも、それは非常に長いです。	I enjoyed reading the book. It's very long though.		
+GU113S055	1	113	17 conjunctions and prepositions	リズはとても素敵です。でも、彼女の夫についてはよくわかりません。	Liz is very nice. I'm not sure about her husband though.		
+GU113S056	1	113	17 conjunctions and prepositions	私は自転車から落ちました。でも、怪我はしませんでした。	I fell off my bike. I didn't hurt myself though.		
+GU113S057	1	113	17 conjunctions and prepositions	それは素敵な町です。でも、私はそこに住みたいとは思いません。	It's a nice town. I wouldn't like to live there though.		
+GU114S001	1	114	17 conjunctions and prepositions	あなたの車はパンクした場合に備えて予備のタイヤを持っているべきです。	Your car should have a spare wheel in case you have a puncture.		
+GU114S002	1	114	17 conjunctions and prepositions	ジェーンが電話をかけてくる場合に備えて、私は電話をつけておきます。	I'll leave my phone switched on in case Jane calls.		
+GU114S003	1	114	17 conjunctions and prepositions	彼らが忘れている場合に備えて、会議のことを彼らに思い出させます。	I'll remind them about the meeting in case they've forgotten.		
+GU114S004	1	114	17 conjunctions and prepositions	ジェーンが電話をかけてくる場合に備えて、私は電話をつけておきます。	I'll leave my phone switched on in case Jane calls.		
+GU114S005	1	114	17 conjunctions and prepositions	喉が渇いた場合に備えて、たくさんの水を持っていってください。	Take plenty of water in case you get thirsty.		
+GU114S006	1	114	17 conjunctions and prepositions	迷子になった場合に備えて、地図を忘れずに持っていってください。	Don't forget to take a map in case you get lost.		
+GU114S007	1	114	17 conjunctions and prepositions	写真を撮りたくなる場合に備えて、カメラを持っていってください。	Take a camera in case you want to take some pictures.		
+GU114S008	1	114	17 conjunctions and prepositions	お腹が空いた場合に備えて、チョコレートを持っていくべきです。	You should take some chocolate in case you get hungry.		
+GU114S009	1	114	17 conjunctions and prepositions	雨が降る場合に備えて、アノラックが必要です。	You'll need an anorak in case it rains.		
+GU114S010	1	114	17 conjunctions and prepositions	寂しくなる場合に備えて、一緒に行きましょうか？	Shall I come with you in case you get lonely?		
+GU114S011	1	114	17 conjunctions and prepositions	友人がパスワードを渡されました。彼がそれを覚えていないことは分かっています。	A friend has just been given a password.  You know he won't remember it. 		
+GU114S012	1	114	17 conjunctions and prepositions	忘れた場合に備えて、それを書き留めておくべきです。	You'd better write it down in case you forget it.		
+GU114S013	1	114	17 conjunctions and prepositions	あなたの友人が長い間出かけます。彼女が出かける前にもう一度会うことはないかもしれません。	A friend of yours is going away for a long time. Maybe you won't see her again before she goes. 		
+GU114S014	1	114	17 conjunctions and prepositions	行ってしまう前にもう一度会えない場合に備えて、今さよならを言います。	I'll say goodbye now in case I don't see you again before you go.		
+GU114S015	1	114	17 conjunctions and prepositions	友人にコンピュータの使用についてアドバイスします。ファイルをバックアップすることは良いアイデアです。	You advise a friend about using a computer. It's a good idea to back up your files. 		
+GU114S016	1	114	17 conjunctions and prepositions	コンピュータに問題が発生した場合に備えて、必ずファイルをバックアップしてください。	Make sure you back up your files in case there's a problem with your computer.		
+GU114S017	1	114	17 conjunctions and prepositions	スーパーで友人と一緒にいます。必要なものはすべて揃っていると思いますが、何か忘れているかもしれません。友人が買い物リストを持っています。	"You're in a supermarket with a friend. You think you have everything you need, but maybe you've forgotten something. Your friend has the shopping list. "		
+GU114S018	1	114	17 conjunctions and prepositions	何か忘れているかもしれないので、リストを確認してくれますか？	Can you check the list in case we've forgotten something?		
+GU114S019	1	114	17 conjunctions and prepositions	友人と買い物をしています。彼女はズボンを買いましたが、試着していませんでした。レシートを保管するようにアドバイスします。	"You're shopping with a friend. She's just bought some trousers, but didn't try them on. You advise her to keep the receipt. "		
+GU114S020	1	114	17 conjunctions and prepositions	ズボンが合わない場合に備えて、レシートを保管してください。	Keep the receipt in case the trousers don't fit.		
+GU114S021	1	114	17 conjunctions and prepositions	トムが来る場合に備えて、もう少し食べ物を買います。	We'll buy some more food in case Tom comes.		
+GU114S022	1	114	17 conjunctions and prepositions	トムが来たら、もう少し食べ物を買います。	We'll buy some more food if Tom comes.		
+GU114S023	1	114	17 conjunctions and prepositions	火災の場合は、直ちに建物を離れる必要があります。	"In case of fire, you must leave the building immediately."		
+GU114S024	1	114	17 conjunctions and prepositions	火災の場合に備えて、建物には火災警報システムがあります。	There is a fire alarm system in the building in case there is a fire.		
+GU114S025	1	114	17 conjunctions and prepositions	気を付けて！まだフライパンが熱い場合があるので触らないでください。	Be careful! Don't touch the frying pan in case it's still hot.		
+GU114S026	1	114	17 conjunctions and prepositions	この本はスーザンのものです。彼女に会ったら渡してくれますか？	This book belongs to Susan. Can you give it to her if you see her?		
+GU114S027	1	114	17 conjunctions and prepositions	いつかオーストラリアに来ることを願っています。来たら、ぜひ私たちを訪れてください。	"I hope you'll come to Australia sometime. If you come, you must visit us."		
+GU114S028	1	114	17 conjunctions and prepositions	失くした場合に備えて、バッグに名前と電話番号を書いてください。	Write your name and phone number on your bag in case you lose it.		
+GU114S029	1	114	17 conjunctions and prepositions	荷物を失くした場合は、航空会社に連絡する必要があります。	You need to contact the airline if you lose your luggage.		
+GU114S030	1	114	17 conjunctions and prepositions	誰かが家に侵入しようとすると、警報が鳴ります。	The burglar alarm will ring if somebody tries to break into the house.		
+GU114S031	1	114	17 conjunctions and prepositions	盗まれる場合に備えて、自転車に保険をかけるべきです。	You should insure your bike in case it is stolen.		
+GU114S032	1	114	17 conjunctions and prepositions	自転車が盗まれた場合は、警察に知らせるべきです。	You should tell the police if your bike is stolen.		
+GU114S033	1	114	17 conjunctions and prepositions	ジェーンが電話をかけてきた場合に備えて、私は電話をつけておきました。	I left my phone switched on in case Jane called.		
+GU114S034	1	114	17 conjunctions and prepositions	サラが家を見つけるのに問題がある場合に備えて、地図を描きました。	I drew a map for Sarah in case she had problems finding the house.		
+GU114S035	1	114	17 conjunctions and prepositions	両親が心配しているかもしれないと思ったので、電話をかけました。	"I thought my parents might be worried, so I called them."		
+GU114S036	1	114	17 conjunctions and prepositions	両親が私のことを心配している場合に備えて、電話をかけました。	I called my parents in case they were worried about me.		
+GU114S037	1	114	17 conjunctions and prepositions	サラが私に連絡する必要があるかもしれないと思ったので、彼女に私の番号を渡しました。	"I thought Sarah might need to contact me, so I gave her my number."		
+GU114S038	1	114	17 conjunctions and prepositions	彼女が連絡する必要がある場合に備えて、彼女に私の番号を渡しました。	I gave her my number in case she needed to contact me.		
+GU114S039	1	114	17 conjunctions and prepositions	トムが好きかもしれない映画がありました。だから彼にその映画のことを伝えました。	There was a film that Tom might like. So I told him about it.		
+GU114S040	1	114	17 conjunctions and prepositions	彼がその映画に興味があるかもしれないので、その映画のことを彼に伝えました。	I told him about the film in case he was interested in seeing it.		
+GU114S041	1	114	17 conjunctions and prepositions	友人が家を塗っていました。彼らが助けを欲しがるかもしれないと思いました。	My friends were painting their house. Maybe they would like some help.		
+GU114S042	1	114	17 conjunctions and prepositions	彼らが助けを必要としている場合に備えて、彼らに会いに行きました。	I went to see them in case they needed some help.		
+GU114S043	1	114	17 conjunctions and prepositions	ドアベルを鳴らしましたが、誰も出てこなかったので、もう一度鳴らしました。	"I rang the doorbell. Nobody came to the door, so I rang it again."		
+GU114S044	1	114	17 conjunctions and prepositions	最初に聞こえなかった場合に備えて、もう一度ドアベルを鳴らしました。	I rang the doorbell again in case they hadn't heard it the first time.		
+GU114S045	1	114	17 conjunctions and prepositions	重要な書類を持っていました。何かが起こった場合に備えて、そのコピーを作りました。	I had an important document. I made a copy of it.		
+GU114S046	1	114	17 conjunctions and prepositions	元の書類に何かが起こった場合に備えて、コピーを作りました。	I made a copy in case something happened to the original document.		
+GU115S001	1	115	17 conjunctions and prepositions	会員でない限り、入ることはできません。	You can't go in unless you are a member.		
+GU115S002	1	115	17 conjunctions and prepositions	遅くまで仕事をしなければ、明日会いましょう。	I'll see you tomorrow unless I have to work late.		
+GU115S003	1	115	17 conjunctions and prepositions	ビーチに行くバスはありません。車がないと、そこに行くのは難しいです。	"There are no buses to the beach. Unless you have a car, it's difficult to get there."		
+GU115S004	1	115	17 conjunctions and prepositions	サリーは不平を言うのが嫌いです。何かが本当に悪くない限り、不平を言いません。	Sally hates to complain. She wouldn't complain about something unless it was really bad.		
+GU115S005	1	115	17 conjunctions and prepositions	A: リサに何があったか伝えましょうか？ B: 彼女が尋ねない限り、伝えないでください。	A: Shall I tell Lisa what happened? B: Not unless she asks you.		
+GU115S006	1	115	17 conjunctions and prepositions	指示を注意深く聞かない限り、何をすべきか分かりません。	You won't know what to do unless you listen carefully to the instructions.		
+GU115S007	1	115	17 conjunctions and prepositions	私に謝らない限り、二度とあなたと話しません。	I'll never speak to you again unless you apologise to me.		
+GU115S008	1	115	17 conjunctions and prepositions	非常にゆっくり話さない限り、彼はあなたを理解できません。	He won't be able to understand you unless you speak very slowly.		
+GU115S009	1	115	17 conjunctions and prepositions	すぐにビジネスが改善しない限り、その会社は閉鎖されるでしょう。	The company will close unless business improves soon.		
+GU115S010	1	115	17 conjunctions and prepositions	騒音が多くない限り、私は通常よく眠れます。	I usually sleep well unless there's a lot of noise.		
+GU115S011	1	115	17 conjunctions and prepositions	原因を特定しない限り、問題は解決しません。	We won't solve the problem unless we identify the causes.		
+GU115S012	1	115	17 conjunctions and prepositions	アナが早く仕事を終えたのでない限り、まだ家にいないでしょう。	Anna won't be home yet unless she's left work early.		
+GU115S013	1	115	17 conjunctions and prepositions	たくさん練習しない限り、言語を習得することはありません。	You won't learn a language unless you practise a lot.		
+GU115S014	1	115	17 conjunctions and prepositions	一人でパーティーに行きたくありません。あなたが一緒でなければ行きません。	I don't want to go to the party alone. I'm not going without you.		
+GU115S015	1	115	17 conjunctions and prepositions	あなたが行かない限り、私はパーティーに行きません。	I'm not going to the party unless you go too.		
+GU115S016	1	115	17 conjunctions and prepositions	犬のことは心配しないでください。突然動かなければ攻撃しません。	Don't worry about the dog. Don't move suddenly and it won't attack you.		
+GU115S017	1	115	17 conjunctions and prepositions	突然動かない限り、犬はあなたを攻撃しません。	The dog won't attack you unless you move suddenly.		
+GU115S018	1	115	17 conjunctions and prepositions	明日テニスをするつもりですが、天気が悪ければできないかもしれません。	"I intend to play tennis tomorrow. But if the weather is bad, this may not be possible."		
+GU115S019	1	115	17 conjunctions and prepositions	天気が悪くない限り、明日テニスをします。	I'm playing tennis tomorrow unless the weather is bad.		
+GU115S020	1	115	17 conjunctions and prepositions	ベンはあまり話しません。あなたが彼に話しかけない限り、何も言わないでしょう。	"Ben isn't very talkative. You have to talk to him, or he won't say anything."		
+GU115S021	1	115	17 conjunctions and prepositions	あなたが何か尋ねない限り、ベンはあなたに話しかけません。	Ben won't speak to you unless you ask him something.		
+GU115S022	1	115	17 conjunctions and prepositions	今行きましょうか？それとも一緒にいて欲しいですか？	Shall I go now? Or would you like me to stay with you?		
+GU115S023	1	115	17 conjunctions and prepositions	あなたが私に一緒にいて欲しくない限り、今行きます。	I'll go now unless you want me to stay with you.		
+GU115S024	1	115	17 conjunctions and prepositions	今日は祝日です。医者は緊急の場合のみ診察します。	Today is a public holiday. The doctor will see emergency cases only.		
+GU115S025	1	115	17 conjunctions and prepositions	緊急でない限り、今日は医者は診察しません。	The doctor won't see you today unless it's an emergency.		
+GU115S026	1	115	17 conjunctions and prepositions	リスクを取らなければ、何も成し遂げられません。	"If you don't take risks, you won't achieve anything."		
+GU115S027	1	115	17 conjunctions and prepositions	リスクを取らない限り、何も成し遂げられません。	You won't achieve anything unless you take risks.		
+GU115S028	1	115	17 conjunctions and prepositions	速く運転しないと約束する限り、私の車を借りることができます。	You can borrow my car as long as you promise not to drive too fast.		
+GU115S029	1	115	17 conjunctions and prepositions	速く運転しないと約束する限り、私の車を借りることができます。	You can borrow my car so long as you promise not to drive too fast.		
+GU115S030	1	115	17 conjunctions and prepositions	駐車場がある限り、車での旅行は便利です。	Travelling by car is convenient provided (that) you have somewhere to park.		
+GU115S031	1	115	17 conjunctions and prepositions	駐車場がある限り、車での旅行は便利です。	Travelling by car is convenient providing (that) you have somewhere to park.		
+GU115S032	1	115	17 conjunctions and prepositions	部屋が清潔である限り、どのホテルに泊まるか気にしません。	"Provided (that) the room is clean, I don't mind which hotel we stay at."		
+GU115S033	1	115	17 conjunctions and prepositions	部屋が清潔である限り、どのホテルに泊まるか気にしません。	"Providing (that) the room is clean, I don't mind which hotel we stay at."		
+GU115S034	1	115	17 conjunctions and prepositions	明日雨が降らない限り、ピクニックに行きます。	We're going to have a picnic tomorrow unless it rains.		
+GU115S035	1	115	17 conjunctions and prepositions	明日雨が降らない限り、ピクニックに行きます。	We're going to have a picnic tomorrow providing it doesn't rain.		
+GU115S036	1	115	17 conjunctions and prepositions	静かに入ってくる限り、遅く帰宅してもかまいません。	I don't mind if you come home late as long as you come in quietly.		
+GU115S037	1	115	17 conjunctions and prepositions	歩くのが嫌でない限り、レストランまでタクシーを使うことができます。	We can take a taxi to the restaurant unless you'd prefer to walk.		
+GU115S038	1	115	17 conjunctions and prepositions	他にやることがない限り、テレビを見ません。	I don't watch TV unless I have nothing else to do.		
+GU115S039	1	115	17 conjunctions and prepositions	大人と一緒にいる限り、子供たちはプールを使用することが許されています。	Children are allowed to use the swimming pool provided they are with an adult.		
+GU115S040	1	115	17 conjunctions and prepositions	窓際に座りたくない限り、ここに座ることができます。	We can sit here in the corner unless you'd rather sit by the window.		
+GU115S041	1	115	17 conjunctions and prepositions	大人と一緒でない限り、子供たちはプールを使用することはできません。	"Unless they are with an adult, children are not allowed to use the pool."		
+GU115S042	1	115	17 conjunctions and prepositions	A: 私たちの休暇はたくさんお金がかかりました。 B: そうですか？まあ、楽しんでくれたならそれでいいです。	"A: Our holiday cost a lot of money. B: Did it? Well, it doesn't matter as long as you enjoyed yourselves."		
+GU115S043	1	115	17 conjunctions and prepositions	雨が止まない限り、外出しません。	I'm not going out unless it stops raining.		
+GU115S044	1	115	17 conjunctions and prepositions	天気が良ければ、明日ピクニックに行きます。	"Providing the weather is good, we're going to have a picnic tomorrow."		
+GU115S045	1	115	17 conjunctions and prepositions	タクシーを使わない限り、遅れるでしょう。	We're going to be late unless we take a taxi.		
+GU115S046	1	115	17 conjunctions and prepositions	1ヶ月以内に返済する限り、あなたにお金を貸します。	I'll lend you the money providing you pay it back within a month.		
+GU115S047	1	115	17 conjunctions and prepositions	すぐに何かをしない限り、状況は悪化するでしょう。	The situation will get worse unless we do something soon.		
+GU115S048	1	115	17 conjunctions and prepositions	天気が変わらない限り、外出しません。	I'm not going out unless the weather changes.		
+GU115S049	1	115	17 conjunctions and prepositions	7:30前に出発する限り、時間通りに到着します。	"Provided we leave before 7:30, we'll get there on time."		
+GU115S050	1	115	17 conjunctions and prepositions	他の誰にも言わないと約束する限り、秘密を教えます。	I'll tell you a secret as long as you don't tell anybody else.		
+GU116S001	1	116	17 conjunctions and prepositions	私たちはみんな、リズが車を運転して去っていくのを見送りました。	We all waved goodbye to Liz as she drove away.		
+GU116S002	1	116	17 conjunctions and prepositions	通りを歩いているとき、私は店のウィンドウを見ました。	"As I walked along the street, I looked in the shop windows."		
+GU116S003	1	116	17 conjunctions and prepositions	ケイトはバスを降りるときに滑りました。	Kate slipped as she was getting off the bus.		
+GU116S004	1	116	17 conjunctions and prepositions	ホテルを出るときにポールに会いました。	We met Paul as we were leaving the hotel.		
+GU116S005	1	116	17 conjunctions and prepositions	私が座ったとたん、ドアベルが鳴りました。	"Just as I sat down, the doorbell rang."		
+GU116S006	1	116	17 conjunctions and prepositions	日にちが経つにつれて、天気は悪くなりました。	"As the day went on, the weather got worse."		
+GU116S007	1	116	17 conjunctions and prepositions	熱い料理をオーブンから取り出すときに、私は火傷しました。	I burnt myself as I was taking a hot dish out of the oven.		
+GU116S008	1	116	17 conjunctions and prepositions	彼女が話をしているのを聞きました。	I listened as she told me her story.		
+GU116S009	1	116	17 conjunctions and prepositions	写真を撮ったときに、誰かが動きました。	Somebody moved just as I took the picture.		
+GU116S010	1	116	17 conjunctions and prepositions	二つのチームがフィールドに出てくると、観客は歓声を上げました。	The spectators cheered as the two teams came onto the field.		
+GU116S011	1	116	17 conjunctions and prepositions	道路を運転しているときに犬が車の前に飛び出しました。	A dog ran out in front of the car as we were driving along the road.		
+GU116S012	1	116	17 conjunctions and prepositions	外に出るときに電気を消してもらえますか？	Can you turn off the light as you go out?		
+GU116S013	1	116	17 conjunctions and prepositions	残念ながら、話が面白くなり始めたときに私は出なければなりませんでした。	Unfortunately I had to leave just as the conversation was getting interesting.		
+GU116S014	1	116	17 conjunctions and prepositions	家に帰るとき、音楽を聴きました。	"As I drove home, I listened to music."		
+GU116S015	1	116	17 conjunctions and prepositions	家に帰ったとき、何か食べました。	"When I got home, I had something to eat."		
+GU116S016	1	116	17 conjunctions and prepositions	駅に近づくにつれて、電車は減速しました。	The train slowed down as it approached the station.		
+GU116S017	1	116	17 conjunctions and prepositions	車を駐車しているときに、後ろの車にぶつかりました。	"As I was parking the car, I hit the car behind me."		
+GU116S018	1	116	17 conjunctions and prepositions	外に出たとたん、雨が降り始めました。	"Just as I went out, it started to rain."		
+GU116S019	1	116	17 conjunctions and prepositions	遅くなって疲れているので、タクシーで帰りましょう。	"As it's late and we're tired, let's get a taxi home."		
+GU116S020	1	116	17 conjunctions and prepositions	何もすることがなかったので、私たちは一晩中テレビを見ていました。	We watched TV all evening as we didn't have anything better to do.		
+GU116S021	1	116	17 conjunctions and prepositions	彼女には電話がないので、早く連絡する方法がありません。	"Since she doesn't have a phone, there's no way of contacting her quickly."		
+GU116S022	1	116	17 conjunctions and prepositions	お腹が空いていたので、どこか食べる場所を見つけることにしました。	"As I was hungry, I decided to find somewhere to eat."		
+GU116S023	1	116	17 conjunctions and prepositions	今日は祝日なので、多くの店が閉まっています。	"As today is a public holiday, many of the shops are shut."		
+GU116S024	1	116	17 conjunctions and prepositions	誰にも迷惑をかけたくなかったので、私はとても静かにしようとしました。	I tried to be very quiet as I didn't want to disturb anybody.		
+GU116S025	1	116	17 conjunctions and prepositions	何をすべきかわからないので、アドバイスが必要です。	"As I don't know what to do, I need some advice."		
+GU116S026	1	116	17 conjunctions and prepositions	ドアが開いていたので、中に入りました。	I went in as the door was open.		
+GU116S027	1	116	17 conjunctions and prepositions	天気が良かったので、川沿いを散歩しました。	"As it was a nice day, we went for a walk by the river."		
+GU116S028	1	116	17 conjunctions and prepositions	コンサートに行けないので、私のチケットを持って行ってください。	"As I can't go to the concert, you can have my ticket."		
+GU116S029	1	116	17 conjunctions and prepositions	もう必要なかったので、私のラップトップを友人にあげました。	I gave my laptop to a friend of mine as I didn't need it any more.		
+GU116S030	1	116	17 conjunctions and prepositions	疲れていたので、早く寝ました。	"As (because) I was tired, I went to bed early."		
+GU116S031	1	116	17 conjunctions and prepositions	グラスを戸棚から取り出すときに落としました。	I dropped the glass as (at the same time as) I was taking it out of the cupboard.		
+GU116S032	1	116	17 conjunctions and prepositions	丘を登るにつれて、ますます疲れました。	"As (at the same time as) we climbed the hill, we got more and more tired."		
+GU116S033	1	116	17 conjunctions and prepositions	あまり使わないので、車を売ることにしました。	We've decided to sell our car as (because) we don't use it very often.		
+GU116S034	1	116	17 conjunctions and prepositions	通りを歩いているときにあなたを見ました。	I saw you as (at the same time as) you were walking along the street.		
+GU116S035	1	116	17 conjunctions and prepositions	タクシーに乗るお金が足りなかったので、歩いて帰りました。	"As (because) I didn't have enough money for a taxi, I walked home."		
+GU116S036	1	116	17 conjunctions and prepositions	デイビッドは休暇中だったので、オフィスにいませんでした。	David wasn't in the office as he was on holiday.		
+GU116S037	1	116	17 conjunctions and prepositions	デイビッドのパスポートは休暇中に盗まれました。	David's passport was stolen when he was on holiday.		
+GU116S038	1	116	17 conjunctions and prepositions	彼らは私たちの近くに住んでいたので、よく会っていました。	"As they lived near us, we used to see them quite often."		
+GU116S039	1	116	17 conjunctions and prepositions	彼らが私たちの近くに住んでいたとき、よく会っていました。	"When they lived near us, we used to see them quite often."		
+GU116S040	1	116	17 conjunctions and prepositions	ジェームズはドイツ語を話すので、何か翻訳してもらいました。	"As James speaks German, I asked him to translate something for me."		
+GU116S041	1	116	17 conjunctions and prepositions	子供のころ、海の近くに住んでいました。	I used to live near the sea when I was a child.		
+GU116S042	1	116	17 conjunctions and prepositions	ロンドンに住んでいたとき、本屋で働いていました。	"When I lived in London, I worked in a bookshop."		
+GU116S043	1	116	17 conjunctions and prepositions	ここから遠くないので、ホテルまで歩いて行けます。	We can walk to the hotel as it isn't far from here.		
+GU116S044	1	116	17 conjunctions and prepositions	ポールは大きく変わっていました。彼に会ったとき、認識できませんでした。	Paul had changed a lot. I didn't recognize him when I saw him.		
+GU116S045	1	116	17 conjunctions and prepositions	今朝バスは満員でした。空席がなかったので、立っていなければなりませんでした。	The bus was full this morning. I had to stand as there were no free seats.		
+GU117S001	1	117	17 conjunctions and prepositions	なんて美しい家でしょう！まるで宮殿のようです。	What a beautiful house! It's like a palace.		
+GU117S002	1	117	17 conjunctions and prepositions	また雨が降っている。このような天気は嫌いです。	It's raining again. I hate weather like this.		
+GU117S003	1	117	17 conjunctions and prepositions	気を付けて！床が磨かれています。まるで氷の上を歩いているようです。	Be careful! The floor has been polished. It's like walking on ice.		
+GU117S004	1	117	17 conjunctions and prepositions	あの音が聞こえますか？赤ちゃんが泣いているように聞こえます。	Can you hear that noise? It sounds like a baby crying.		
+GU117S005	1	117	17 conjunctions and prepositions	この家はまるで宮殿のようです。	This house is like a palace.		
+GU117S006	1	117	17 conjunctions and prepositions	私はサーフィンやスキューバダイビング、水上スキーのような水上スポーツを楽しみます。	"I enjoy water sports, like surfing, scuba diving and water-skiing."		
+GU117S007	1	117	17 conjunctions and prepositions	私はサーフィンやスキューバダイビング、水上スキーのような水上スポーツを楽しみます。	"I enjoy water sports such as surfing , scuba diving and water-skiing."		
+GU117S008	1	117	17 conjunctions and prepositions	カーペットの赤い染みは何ですか？まるで血のように見えます。	What's that red stain on the carpet? It looks like blood.		
+GU117S009	1	117	17 conjunctions and prepositions	ブライアンはほとんどの友達と同じように学生です。	"Brian is a student, like most of his friends."		
+GU117S010	1	117	17 conjunctions and prepositions	あなたは全然話を聞かない。あなたと話すのは壁に話しかけているようです。	You never listen. Talking to you is like talking to the wall.		
+GU117S011	1	117	17 conjunctions and prepositions	私たちは同じように物事を見ます。私たちはお互いのように考えます。	We see things in the same way. We think like each other.		
+GU117S012	1	117	17 conjunctions and prepositions	パーティーや結婚式のような社交イベントを楽しみますか？	Do you enjoy social events like parties and weddings?		
+GU117S013	1	117	17 conjunctions and prepositions	アンナの英語は素晴らしいです。彼女はネイティブスピーカーのように話します。	Anna's English is excellent. She speaks like a native speaker.		
+GU117S014	1	117	17 conjunctions and prepositions	突然、ひどい音がしました。それはまるで爆弾が爆発するようでした。	Suddenly there was a terrible noise. It was like a bomb exploding.		
+GU117S015	1	117	17 conjunctions and prepositions	代名詞は、彼女、あなた、それのような言葉です。	"Pronouns are words like she, you and it."		
+GU117S016	1	117	17 conjunctions and prepositions	何も動かしませんでした。すべてそのままにしておきました。	I didn't move anything. I left everything as it was.		
+GU117S017	1	117	17 conjunctions and prepositions	私が見せたように、それをするべきでした。	You should have done it as I showed you.		
+GU117S018	1	117	17 conjunctions and prepositions	すべてそのままにしておきました。	I left everything like it was.		
+GU117S019	1	117	17 conjunctions and prepositions	私が見せたように、それをするべきでした。	You should have done it like I showed you.		
+GU117S020	1	117	17 conjunctions and prepositions	このようにするべきでした。	You should have done it like this.		
+GU117S021	1	117	17 conjunctions and prepositions	この家はまるで宮殿のようです。	This house is like a palace.		
+GU117S022	1	117	17 conjunctions and prepositions	いつも通り遅れましたね。	You're late as usual.		
+GU117S023	1	117	17 conjunctions and prepositions	いつものように、ニックは最初に不満を言いました。	"As always, Nick was the first to complain."		
+GU117S024	1	117	17 conjunctions and prepositions	あなたの電話は私のと同じです。	Your phone is the same as mine.		
+GU117S025	1	117	17 conjunctions and prepositions	私たちが装飾する前のままの部屋が好きだと思います。	"I think I prefer the room as it was, before we decorated it."		
+GU117S026	1	117	17 conjunctions and prepositions	いつも通り、明日電話しますね、OK？	"I'll call you tomorrow as usual, OK?"		
+GU117S027	1	117	17 conjunctions and prepositions	服を変える必要はありません。そのまま外出できます。	You don't need to change your clothes. You can go out as you are.		
+GU117S028	1	117	17 conjunctions and prepositions	昨夜ケビンに会いました。彼はいつも通りとても陽気でした。	"We saw Kevin last night. He was very cheerful, as always."		
+GU117S029	1	117	17 conjunctions and prepositions	天気は変わっていません。昨日と同じです。	The weather hasn't changed. It's the same as yesterday.		
+GU117S030	1	117	17 conjunctions and prepositions	好きなようにしてもいいですよ。	You can do as you like.		
+GU117S031	1	117	17 conjunctions and prepositions	彼らは約束通りにしました。	They did as they promised.		
+GU117S032	1	117	17 conjunctions and prepositions	ご存知の通り、来週はエマの誕生日です。	"As you know, it's Emma's birthday next week."		
+GU117S033	1	117	17 conjunctions and prepositions	予想通り、運転免許試験に落ちました。	"I failed my driving test, as I expected."		
+GU117S034	1	117	17 conjunctions and prepositions	昨日言ったように、問題は解決できると確信しています。	"As I said yesterday, I'm sure we can solve the problem."		
+GU117S035	1	117	17 conjunctions and prepositions	昨日言ったように、問題は解決できると確信しています。	"Like I said yesterday, I'm sure we can solve the problem."		
+GU117S036	1	117	17 conjunctions and prepositions	パーティーに行けません。先ほど説明したように、私は出かけます。	"I won't be able to come to the party. As I explained earlier, I'll be away."		
+GU117S037	1	117	17 conjunctions and prepositions	トムのアイデアは良さそうです。彼の提案通りにしましょう。	Tom's idea seems a good one. Let's do as he suggests.		
+GU117S038	1	117	17 conjunctions and prepositions	仕事にうんざりしています。退屈です。前にも言ったように。	"I'm fed up with my job. It's boring, as I've told you before."		
+GU117S039	1	117	17 conjunctions and prepositions	あなたは運転が速すぎます。もっと気を付けるべきです。いつも言っているように。	"You drive too fast. You should take more care, as I keep telling you."		
+GU117S040	1	117	17 conjunctions and prepositions	私のアドバイスを受け入れる必要はありません。好きなようにしていいです。	You don't have to take my advice. You can do as you like.		
+GU117S041	1	117	17 conjunctions and prepositions	予想通り、電車は満席で座れませんでした。	"I couldn't get a seat on the train. It was full, as I expected."		
+GU117S042	1	117	17 conjunctions and prepositions	タクシー運転手として、私は仕事の大半を車の中で過ごします。	"As a taxi driver, I spend most of my working life in a car."		
+GU117S043	1	117	17 conjunctions and prepositions	家族のみんなが私に場所へ運転して欲しいと思っています。私はまるでタクシー運転手のようです。	Everyone in the family wants me to drive them to places. I'm like a taxi driver.		
+GU117S044	1	117	17 conjunctions and prepositions	多年前に私は写真家として働いていました。	Many years ago I worked as a photographer.		
+GU117S045	1	117	17 conjunctions and prepositions	多くの単語、例えば「仕事」や「雨」は動詞や名詞として使うことができます。	"Many words, for example 'work' and 'rain', can be used as verbs or nouns."		
+GU117S046	1	117	17 conjunctions and prepositions	その悲劇のニュースは大きなショックとして受け取られました。	The news of the tragedy came as a great shock.		
+GU117S047	1	117	17 conjunctions and prepositions	足が本当に冷たいです。まるで氷の塊のようです。	My feet are really cold. They're like blocks of ice.		
+GU117S048	1	117	17 conjunctions and prepositions	何年もテニスをしていますが、まだ初心者のようにプレーします。	"I've been playing tennis for years, but I still play like a beginner."		
+GU117S049	1	117	17 conjunctions and prepositions	マリオンはかつてツアーガイドのアルバイトをしていました。	Marion once had a part-time job as a tour guide.		
+GU117S050	1	117	17 conjunctions and prepositions	あの建物は何だろう。まるで劇場のように見えます。	I wonder what that building is. It looks like a theatre.		
+GU117S051	1	117	17 conjunctions and prepositions	兄がこの時計を長い間前の誕生日プレゼントとしてくれました。	My brother gave me this watch as a birthday present a long time ago.		
+GU117S052	1	117	17 conjunctions and prepositions	夏の中旬にしては寒いです。まるで冬のようです。	It's cold for the middle of summer. It's like winter.		
+GU117S053	1	117	17 conjunctions and prepositions	彼は22歳ですが、時々子供のように振る舞います。	"He's 22 years old, but sometimes he behaves like a child."		
+GU117S054	1	117	17 conjunctions and prepositions	ロンドンは訪れる場所としては素晴らしいですが、住みたいとは思いません。	"London is great as a place to visit, but I wouldn't like to live there."		
+GU117S055	1	117	17 conjunctions and prepositions	彼らが結婚するというニュースは私にとって完全に驚きでした。	The news that they were getting married came as a complete surprise to me.		
+GU117S056	1	117	17 conjunctions and prepositions	あなたのような車が欲しいです。	I wish I had a car like yours.		
+GU117S057	1	117	17 conjunctions and prepositions	サリーは過去2か月間ウェイトレスとして働いています。	Sally has been working as a waitress for the last two months.		
+GU117S058	1	117	17 conjunctions and prepositions	一日中カフェに座っているようなことをしていると時間を無駄にしています。	You waste too much time doing things like sitting in cafes all day.		
+GU117S059	1	117	17 conjunctions and prepositions	予想通り、天気はひどかったです。	"As we expected, the weather was awful."		
+GU117S060	1	117	17 conjunctions and prepositions	隣人の家は面白いものでいっぱいです。まるで博物館のようです。	My neighbour's house is full of interesting things. It's like a museum.		
+GU117S061	1	117	17 conjunctions and prepositions	日本、インドネシア、タイのようなアジアのいくつかの国では、左側通行です。	"In several countries in Asia, like Japan, Indonesia and Thailand, traffic drives on the left."		
+GU117S062	1	117	17 conjunctions and prepositions	あなたは私が知っている他の人とは違います。あなたのような人は他に知りません。	You're different from other people I know. I don't know anyone else like you.		
+GU117S063	1	117	17 conjunctions and prepositions	家の全ての寝室は必要ありませんので、そのうちの一つを書斎として使っています。	"We don't need all the bedrooms in the house, so we use one of them as a study."		
+GU117S064	1	117	17 conjunctions and prepositions	今のところ、私は本屋で一時的な仕事をしています。それほど素晴らしくはありませんが、一時的な仕事としては大丈夫です。	"At the moment I've got a temporary job in a bookshop. It's not great, but it's OK as a temporary job."		
+GU117S065	1	117	17 conjunctions and prepositions	このお茶はひどいです。まるで水のような味がします。	This tea is awful. It tastes like water.		
+GU117S066	1	117	17 conjunctions and prepositions	想像できるように、そんなに長い旅の後で私たちはとても疲れました。	"As you can imagine, we were very tired after such a long journey."		
+GU118S001	1	118	17 conjunctions and prepositions	あの家は崩れそうに見えます。	That house looks like it's going to fall down.		
+GU118S002	1	118	17 conjunctions and prepositions	あの家は崩れそうに見えます。	That house looks as if it's going to fall down.		
+GU118S003	1	118	17 conjunctions and prepositions	ヘレンは風邪をひいているように聞こえましたよね？	"Helen sounded like she had a cold, didn't she?"		
+GU118S004	1	118	17 conjunctions and prepositions	ヘレンは風邪をひいているように聞こえましたよね？	"Helen sounded as if she had a cold, didn't she?"		
+GU118S005	1	118	17 conjunctions and prepositions	私は休暇に行ったばかりですが、とても疲れています。休暇を取った感じがしません。	"I've just been on holiday, but I feel very tired. I don't feel like I've had a holiday."		
+GU118S006	1	118	17 conjunctions and prepositions	私は休暇に行ったばかりですが、とても疲れています。休暇を取った感じがしません。	"I've just been on holiday, but I feel very tired. I don't feel as if I've had a holiday."		
+GU118S007	1	118	17 conjunctions and prepositions	休暇を取った感じがしません。	I don't feel as though I've had a holiday.		
+GU118S008	1	118	17 conjunctions and prepositions	彼は命懸けで走っているように走りました。	He ran like he was running for his life.		
+GU118S009	1	118	17 conjunctions and prepositions	中断の後、話者は何事もなかったかのように話し続けました。	"After the interruption, the speaker went on talking as if nothing had happened."		
+GU118S010	1	118	17 conjunctions and prepositions	あなたはゲイリーに会います。彼は黒い目と血だらけの顔をしています。	You meet Gary. He has a black eye and blood on his face. 		
+GU118S011	1	118	17 conjunctions and prepositions	あなたは喧嘩でもしてきたように見えます。	You look like you've been in a fight.		
+GU118S012	1	118	17 conjunctions and prepositions	エマは休暇中です。電話で話していて、楽しそうに聞こえます。	Emma is on holiday. She's talking to you on the phone and sounds happy. 		
+GU118S013	1	118	17 conjunctions and prepositions	あなたは楽しんでいるように聞こえます。	You sound as if you're having a good time.		
+GU118S014	1	118	17 conjunctions and prepositions	あなたはちょうど1キロ走ったばかりです。完全に疲れ果てています。	You have just run one kilometre. You are absolutely exhausted. 		
+GU118S015	1	118	17 conjunctions and prepositions	マラソンを走ったような気分です。	I feel like I've just run a marathon.		
+GU118S016	1	118	17 conjunctions and prepositions	クレアが部屋に入ってきます。彼女はまるで幽霊を見たかのように見えます。	Claire comes into the room. She looks absolutely terrified. 		
+GU118S017	1	118	17 conjunctions and prepositions	あなたは幽霊でも見たように見えます。	You look as if you've seen a ghost.		
+GU118S018	1	118	17 conjunctions and prepositions	あなたはパーティーでジョーを見ました。彼は退屈そうに見えました。後で誰かに話します。	You saw Joe at a party. He seemed bored. Later you tell someone. 		
+GU118S019	1	118	17 conjunctions and prepositions	ジョーはパーティーを楽しんでいるようには見えませんでした。	Joe didn't look as if he was enjoying the party.		
+GU118S020	1	118	17 conjunctions and prepositions	ホテルにチェックインしましたが、部屋に満足していませんでした。後で誰かに話します。	You checked into a hotel. You weren't happy with the room. Later you tell someone. 		
+GU118S021	1	118	17 conjunctions and prepositions	その部屋は掃除されていないように見えました。	The room didn't look like it had been cleaned.		
+GU118S022	1	118	17 conjunctions and prepositions	ターニャは歩くのに苦労しています。彼女はまるで脚を怪我したかのように歩いています。	Tanya's having trouble walking. She's walking as if she's hurt her leg.		
+GU118S023	1	118	17 conjunctions and prepositions	アンジェラが冗談を言っているとは思いません。彼女は本気で言っているように見えました。	I don't think Angela was joking. She looked as if she meant what she said.		
+GU118S024	1	118	17 conjunctions and prepositions	ポールは非常にお腹が空いていて、とても早く夕食を食べました。まるで一週間何も食べていないかのように食べました。	Paul was very hungry and ate his dinner very quickly. He ate as if he hadn't eaten for a week.		
+GU118S025	1	118	17 conjunctions and prepositions	リズに電話してパーティーに招待しましたが、彼女はあまり熱心ではありませんでした。彼女は来たくないように聞こえました。	"I called Liz and invited her to the party, but she wasn't very enthusiastic. She sounded as if she didn't want to come."		
+GU118S026	1	118	17 conjunctions and prepositions	オフィスに入ったが、誰も私に話しかけず、誰も私を見ませんでした。みんなまるで私が存在しないかのように無視しました。	"I went into the office, but nobody spoke to me or looked at me. Everybody ignored me as if I didn't exist."		
+GU118S027	1	118	17 conjunctions and prepositions	友達に私の計画を話しました。彼らは驚いていました。まるで私が狂っているかのように私を見ました。	I told my friends about my plan. They were amazed. They looked at me as if I was crazy.		
+GU118S028	1	118	17 conjunctions and prepositions	サラはとても遅いですね？彼女は来ないように見えます。	"Sarah is very late, isn't she? It looks like she isn't coming."		
+GU118S029	1	118	17 conjunctions and prepositions	サラはとても遅いですね？彼女は来ないように見えます。	"Sarah is very late, isn't she? It looks as if she isn't coming."		
+GU118S030	1	118	17 conjunctions and prepositions	雨が降りそうだったので、傘を持って行きました。	We took an umbrella because it looked like it was going to rain.		
+GU118S031	1	118	17 conjunctions and prepositions	雨が降りそうだったので、傘を持って行きました。	We took an umbrella because it looked as if it was going to rain.		
+GU118S032	1	118	17 conjunctions and prepositions	隣の部屋はとても騒がしいです。まるでパーティーをしているように聞こえます。	The noise is very loud next door. It sounds like they're having a party.		
+GU118S033	1	118	17 conjunctions and prepositions	隣の部屋はとても騒がしいです。まるでパーティーをしているように聞こえます。	The noise is very loud next door. It sounds as if they're having a party.		
+GU118S034	1	118	17 conjunctions and prepositions	彼女は来ないように見えます。	It looks as though she isn't coming.		
+GU118S035	1	118	17 conjunctions and prepositions	空には黒い雲がいっぱいです。	The sky is full of black clouds.		
+GU118S036	1	118	17 conjunctions and prepositions	傘が必要なようです。	It looks like we'll need an umbrella.		
+GU118S037	1	118	17 conjunctions and prepositions	二人が言い争っているのが聞こえます。	You hear two people shouting at each other.		
+GU118S038	1	118	17 conjunctions and prepositions	口論しているように聞こえます。	It sounds like they're having an argument.		
+GU118S039	1	118	17 conjunctions and prepositions	道路の脇に救急車と二台の損傷した車が見えます。	You see an ambulance and two damaged cars at the side of the road.		
+GU118S040	1	118	17 conjunctions and prepositions	事故があったように見えます。	It looks like there's been an accident.		
+GU118S041	1	118	17 conjunctions and prepositions	あなたと友人は最終バスに乗り遅れました。	You and a friend have just missed the last bus home.		
+GU118S042	1	118	17 conjunctions and prepositions	歩かなければならないようです。	It looks like we'll have to walk.		
+GU118S043	1	118	17 conjunctions and prepositions	デイブは体調が悪いです。彼はすべてを話します。	Dave isn't feeling well. He tells you all about it.		
+GU118S044	1	118	17 conjunctions and prepositions	医者に見てもらうべきようです。	It sounds like you should see a doctor.		
+GU118S045	1	118	17 conjunctions and prepositions	あなたと友人はスーパーにいます。バナナを探していますが、見つかりません。	"You and a friend are in a supermarket. You're looking for bananas, but without success."		
+GU118S046	1	118	17 conjunctions and prepositions	バナナがないようです。	It looks like they don't have any.		
+GU118S047	1	118	17 conjunctions and prepositions	彼が好きではありません。彼はすべてを知っているかのように話します。	I don't like him. He talks as if he knew everything.		
+GU118S048	1	118	17 conjunctions and prepositions	彼の番号を知っていれば、今すぐにでも電話するでしょう。	"If I knew his number, I'd call him now."		
+GU118S049	1	118	17 conjunctions and prepositions	彼女はいつも私に何かを頼んできます - まるで私にもう十分やることがないかのように。	She's always asking me to do things for her - as if I didn't have enough to do already.		
+GU118S050	1	118	17 conjunctions and prepositions	ゲイリーはたった40歳です。どうして彼を老人のように話すのですか？	Gary's only 40. Why do you talk about him as if he was an old man?		
+GU118S051	1	118	17 conjunctions and prepositions	ゲイリーはたった40歳です。どうして彼を老人のように話すのですか？	Gary's only 40. Why do you talk about him as if he were an old man?		
+GU118S052	1	118	17 conjunctions and prepositions	私は20歳ですので、子供のように話さないでください。	"I'm 20 years old, so please don't talk to me as if I were a child."		
+GU118S053	1	118	17 conjunctions and prepositions	彼らはいつも私に文句を言ってきます - まるで全てが私のせいかのように。	They complain to me all the time as if everything was my fault.		
+GU118S054	1	118	17 conjunctions and prepositions	スティーブはニコラに会ったことがありませんが、まるで彼女が親友であるかのように話します。	"Steve has never met Nicola, but he talks about her as if she were his best friend."		
+GU118S055	1	118	17 conjunctions and prepositions	このゲストハウスがなぜこんなに高いのか理解できません。まるで高級ホテルであるかのようです。	I can't understand why this guest house is so expensive. It's not as if it was a luxury hotel.		
+GU118S056	1	118	17 conjunctions and prepositions	アンディはひどい運転手です。まるで自分だけが道路上の運転手であるかのように振る舞います。	Andy is a terrible driver. He behaves as if he were the only driver on the road.		
+GU118S057	1	118	17 conjunctions and prepositions	外出できますよ。少しの雨です。まるで土砂降りであるかのようではありません。	We can go out. It's only raining a little. It's not as if it was pouring.		
+GU119S001	1	119	17 conjunctions and prepositions	映画の途中で寝てしまいました。	I fell asleep during the movie.		
+GU119S002	1	119	17 conjunctions and prepositions	休暇中に本当に素敵な人たちに会いました。	We met some really nice people during our holiday.		
+GU119S003	1	119	17 conjunctions and prepositions	地面が濡れています。夜中に雨が降ったに違いありません。	The ground is wet. It must have rained during the night.		
+GU119S004	1	119	17 conjunctions and prepositions	夜に雨が降りました。	It rained in the night.		
+GU119S005	1	119	17 conjunctions and prepositions	夜中に雨が降りました。	It rained during the night.		
+GU119S006	1	119	17 conjunctions and prepositions	夏に私たちのところに遊びに来てください。	Come and visit us in the summer.		
+GU119S007	1	119	17 conjunctions and prepositions	夏の間に私たちのところに遊びに来てください。	Come and visit us during the summer.		
+GU119S008	1	119	17 conjunctions and prepositions	講義中、ほとんどの学生は退屈そうに見えました。	Most of the students looked bored during the lecture.		
+GU119S009	1	119	17 conjunctions and prepositions	劇場に行って、休憩中にスーに会いました。	We went to the theatre and met Sue during the interval.		
+GU119S010	1	119	17 conjunctions and prepositions	どこに飛んでも、私は飛行中に何も食べません。	"When I fly anywhere, I never eat anything during the flight."		
+GU119S011	1	119	17 conjunctions and prepositions	休暇の最初の週はたくさん雨が降りました。	It rained a lot during the first week of our holiday.		
+GU119S012	1	119	17 conjunctions and prepositions	ストライキの間、工場の生産は深刻な影響を受けました。	Production at the factory was seriously affected during the strike.		
+GU119S013	1	119	17 conjunctions and prepositions	レストランに行きました。残念ながら、食事中に気分が悪くなり始めました。	"We went to a restaurant. Unfortunately, I began to feel ill during the meal."		
+GU119S014	1	119	17 conjunctions and prepositions	昨夜、私たちは2時間テレビを見ました。	We watched TV for two hours last night.		
+GU119S015	1	119	17 conjunctions and prepositions	ジェスは9月に1週間出かけます。	Jess is going away for a week in September.		
+GU119S016	1	119	17 conjunctions and prepositions	元気ですか？長い間会っていませんね。	How are you? I haven't seen you for ages.		
+GU119S017	1	119	17 conjunctions and prepositions	3日間止むことなく雨が降りました。	It rained for three days without stopping.		
+GU119S018	1	119	17 conjunctions and prepositions	映画の途中で寝てしまいました。30分間寝ていました。	I fell asleep during the movie. I was asleep for half an hour.		
+GU119S019	1	119	17 conjunctions and prepositions	休暇が必要です。数日間出かけようと思います。	I need a break. I think I'll go away for a few days.		
+GU119S020	1	119	17 conjunctions and prepositions	コース中に多くのことを学びました。先生たちはとても良かったです。	I learnt a lot during the course. The teachers were very good.		
+GU119S021	1	119	17 conjunctions and prepositions	マークはスペインに住んでいました。彼は5年間そこに住んでいました。	Mark used to live in Spain. He lived there for five years.		
+GU119S022	1	119	17 conjunctions and prepositions	サラは私にとても怒っていました。彼女は1週間私に話しかけませんでした。	Sarah was very angry with me. She didn't speak to me for a week.		
+GU119S023	1	119	17 conjunctions and prepositions	平日はあまり自由な時間がありませんが、週末はリラックスします。	"I don't have much free time during the week, but I relax at weekends."		
+GU119S024	1	119	17 conjunctions and prepositions	嵐の間、多くの家が損傷しました。	Many houses were damaged during the storm.		
+GU119S025	1	119	17 conjunctions and prepositions	私たちは良い友達です。長い間お互いを知っています。	We're good friends. We've known each other for a long time.		
+GU119S026	1	119	17 conjunctions and prepositions	祭りの間にここでホテルの部屋を見つけるのは不可能です。	It's impossible to find a hotel room here during the festival.		
+GU119S027	1	119	17 conjunctions and prepositions	ゲイリーは家で働いているので、通常は日中家にいます。	"Gary works at home, so he's usually at home during the day."		
+GU119S028	1	119	17 conjunctions and prepositions	何年も映画館に行っていません。	I haven't been to the cinema for years.		
+GU119S029	1	119	17 conjunctions and prepositions	映画の途中で寝てしまいました。	I fell asleep during the movie.		
+GU119S030	1	119	17 conjunctions and prepositions	テレビを見ている間に寝てしまいました。	I fell asleep while I was watching TV.		
+GU119S031	1	119	17 conjunctions and prepositions	休暇中に多くの興味深い人々に会いました。	We met a lot of interesting people during our holiday.		
+GU119S032	1	119	17 conjunctions and prepositions	休暇中に多くの興味深い人々に会いました。	We met a lot of interesting people while we were on holiday.		
+GU119S033	1	119	17 conjunctions and prepositions	来週モスクワに行きます。滞在中に天気が良いことを願っています。	I'm going to Moscow next week. I hope the weather will be nice while I'm there.		
+GU119S034	1	119	17 conjunctions and prepositions	待っている間に何をしますか？	What are you going to do while you're waiting?		
+GU119S035	1	119	17 conjunctions and prepositions	私が病院にいる間、誰も見舞いに来ませんでした。	Nobody came to see me while I was in hospital.		
+GU119S036	1	119	17 conjunctions and prepositions	私はベルリンに住んでいました。5年間そこに住んでいました。	I used to live in Berlin. I lived there for five years.		
+GU119S037	1	119	17 conjunctions and prepositions	レース中にランナーの一人が転びましたが、立ち上がって続けることができました。	"One of the runners fell during the race, but managed to get up and continue."		
+GU119S038	1	119	17 conjunctions and prepositions	来週出かけます。1か月間出かけます。	I'm going away next week. I'll be away for a month.		
+GU119S039	1	119	17 conjunctions and prepositions	すぐに電話をかける間、私を待っていてくれますか？	Can you wait for me while I make a quick phone call?		
+GU119S040	1	119	17 conjunctions and prepositions	面接中にたくさんの質問をされました。	I was asked a lot of questions during the interview.		
+GU119S041	1	119	17 conjunctions and prepositions	車が動いている間はドアを開けないでください。	Don't open the door while the car is moving.		
+GU119S042	1	119	17 conjunctions and prepositions	とても疲れていました。10時間寝ました。	I was very tired. I slept for ten hours.		
+GU119S043	1	119	17 conjunctions and prepositions	混雑する時間帯の移動は避けるようにしてください。	Try to avoid travelling during the busy times of the day.		
+GU119S044	1	119	17 conjunctions and prepositions	テレビを見ている間に突然ライトが消えました。	The lights suddenly went out while we were watching TV.		
+GU119S045	1	119	17 conjunctions and prepositions	先週は体調が悪かったです。3日間ほとんど何も食べませんでした。	I wasn't well last week. I hardly ate anything for three days.		
+GU119S046	1	119	17 conjunctions and prepositions	いつ到着するかはわかりませんが、午後のどこかで到着します。	"I'm not sure when we'll arrive, but it will be sometime during the afternoon."		
+GU120S001	1	120	17 conjunctions and prepositions	この牛乳のカートンのラベルには「8月14日までに使用」と書かれています。	The label on this carton of milk says 'Use by 14 August'.		
+GU120S002	1	120	17 conjunctions and prepositions	今日書類を送りましたので、月曜日までに届くはずです。	"I sent the documents today, so they should arrive by Monday."		
+GU120S003	1	120	17 conjunctions and prepositions	サラはどこですか？もうここにいるはずです。	Where's Sarah? She should be here by now.		
+GU120S004	1	120	17 conjunctions and prepositions	私のフライトは10時です。8時半までに空港にいなければなりません。	My flight is at 10 o'clock. I have to be at the airport by 8:30.		
+GU120S005	1	120	17 conjunctions and prepositions	パーティーに来られるといいですね。土曜日までに知らせてください。	I hope you'll be able to come to the party. Can you let me know by Saturday?		
+GU120S006	1	120	17 conjunctions and prepositions	そこに着くのに長くはかかりません。今出発すれば、お昼までには到着します。	"It won't take us long to get there. If we leave now, we'll be there by lunchtime."		
+GU120S007	1	120	17 conjunctions and prepositions	会議を時間通りに始める必要があります。2時までに来るようにしてください。	We need to start the meeting on time. Please make sure you're there by 2 o'clock.		
+GU120S008	1	120	17 conjunctions and prepositions	午後9時ですが、子供たちはまだ遊んでいます。もう寝ているはずです。	It's 9 p.m. and the children are still playing. They should be in bed by now.		
+GU120S009	1	120	17 conjunctions and prepositions	新しい橋が現在建設中です。年末までに完成することが期待されています。	A new bridge is being built at the moment. It is hoped that it will be completed by the end of the year.		
+GU120S010	1	120	17 conjunctions and prepositions	A: もう行きましょうか？ B: いいえ、雨が止むまで待ちましょう。	"A: Shall we go now? B: No, let's wait until it stops raining."		
+GU120S011	1	120	17 conjunctions and prepositions	A: もう行きましょうか？ B: いいえ、雨が止むまで待ちましょう。	"A: Shall we go now? B: No, let's wait till it stops raining."		
+GU120S012	1	120	17 conjunctions and prepositions	今朝はとても疲れていました。10時半までベッドにいました。	I was very tired this morning. I stayed in bed until half past ten.		
+GU120S013	1	120	17 conjunctions and prepositions	今朝はとても疲れていました。10時半まで起きませんでした。	I was very tired this morning. I didn't get up until half past ten.		
+GU120S014	1	120	17 conjunctions and prepositions	ジョーは月曜日まで不在です。	Joe will be away until Monday.		
+GU120S015	1	120	17 conjunctions and prepositions	11時半まで仕事をしています。	I'll be working until 11.30.		
+GU120S016	1	120	17 conjunctions and prepositions	ジョーは月曜日までに戻ってきます。	Joe will be back by Monday.		
+GU120S017	1	120	17 conjunctions and prepositions	11時半までに仕事を終わらせます。	I'll have finished my work by 11.30.		
+GU120S018	1	120	17 conjunctions and prepositions	申し訳ありませんが、行かなければなりません。5時までに帰らなければなりません。	"Sorry, but I must go. I have to be home by five o'clock."		
+GU120S019	1	120	17 conjunctions and prepositions	オフィスは今日は早く閉まります。4時までしか開いていません。	The office closes early today. It's only open until 4 o'clock.		
+GU120S020	1	120	17 conjunctions and prepositions	電話代を支払う必要があります。明日までに支払わなければなりません。	I need to pay the phone bill. It has to be paid by tomorrow.		
+GU120S021	1	120	17 conjunctions and prepositions	今日は請求書を支払わないでください。明日まで待ってください。	Don't pay the bill today. Wait until tomorrow.		
+GU120S022	1	120	17 conjunctions and prepositions	トムが電話してくるのをまだ待っています。もう電話をしてきたはずです。	I'm still waiting for Tom to call me. He should have called me by now.		
+GU120S023	1	120	17 conjunctions and prepositions	週末までに家の塗装を終わらせたいと思っています。	We hope to finish painting the house by the end of the week.		
+GU120S024	1	120	17 conjunctions and prepositions	住む場所を見つけるまで、友人の家に滞在しています。	I'm staying with a friend until I find somewhere to live.		
+GU120S025	1	120	17 conjunctions and prepositions	その仕事に応募するかどうか分かりません。金曜日までに決めなければなりません。	I don't know whether to apply for the job or not. I have to decide by Friday.		
+GU120S026	1	120	17 conjunctions and prepositions	時間はたっぷりあります。映画は8時半まで始まりません。	We have plenty of time. The film doesn't start until 8:30.		
+GU120S027	1	120	17 conjunctions and prepositions	天気予報によると、悪天候は来週まで続くでしょう。	"According to the forecast, the bad weather will continue until next week."		
+GU120S028	1	120	17 conjunctions and prepositions	彼女は水曜日まで不在です。	She'll be away until Wednesday.		
+GU120S029	1	120	17 conjunctions and prepositions	その仕事の応募は10月18日までに受け取られなければなりません。	Applications for the job must be received by 18th October.		
+GU120S030	1	120	17 conjunctions and prepositions	彼女は真夜中までテレビを見ていました。	She watched TV until midnight.		
+GU120S031	1	120	17 conjunctions and prepositions	彼は12時までに戻ってきます。	He'll be back by 12 o'clock.		
+GU120S032	1	120	17 conjunctions and prepositions	彼女は1時まで帰宅しませんでした。	She didn't get home until 1 o'clock.		
+GU120S033	1	120	17 conjunctions and prepositions	彼はかなり速く運転しました。彼は3時までにそこに着きました。	He drove quite fast. He got there by 3 o'clock.		
+GU120S034	1	120	17 conjunctions and prepositions	今銀行に行くには遅すぎます。到着する頃には閉まっています。	"It's too late to go to the bank now. By the time we get there, it will be closed."		
+GU120S035	1	120	17 conjunctions and prepositions	空港では時間がかかります。チェックインしてセキュリティを通過する頃には、フライトの時間になります。	"You'll need plenty of time at the airport. By the time you check in and go through security, it will be time for your flight."		
+GU120S036	1	120	17 conjunctions and prepositions	昨夜、カレンの車がパーティーに行く途中で故障しました。到着する頃には、ほとんどの他のゲストは去っていました。	"Karen's car broke down on the way to the party last night. By the time she arrived, most of the other guests had left."		
+GU120S037	1	120	17 conjunctions and prepositions	昨日の夜、たくさんの仕事をしなければなりませんでした。終わった頃にはとても疲れていました。	I had a lot of work to do yesterday evening. I was very tired by the time I finished.		
+GU120S038	1	120	17 conjunctions and prepositions	カレンはやっと真夜中にパーティーに到着しましたが、その頃にはほとんどの他のゲストは去っていました。	"Karen finally got to the party at midnight, but by then most of the other guests had left."		
+GU120S039	1	120	17 conjunctions and prepositions	カレンはやっと真夜中にパーティーに到着しましたが、その時にはほとんどの他のゲストは去っていました。	"Karen finally got to the party at midnight, but by that time, most of the other guests had left."		
+GU120S040	1	120	17 conjunctions and prepositions	会議は9時半に始まる予定でしたが、ほとんどの人が遅れました。	"The meeting was supposed to start at 9:30, but nearly everybody was late."		
+GU120S041	1	120	17 conjunctions and prepositions	会議が始まる頃には、もうすぐ10時でした。	"By the time the meeting started, it was nearly 10 o'clock."		
+GU120S042	1	120	17 conjunctions and prepositions	車を盗もうとしているように見える二人の男を見ました。警察に電話しましたが、すぐには来ませんでした。	"I saw two men who looked as if they were trying to steal a car. I called the police, but they didn't come quickly."		
+GU120S043	1	120	17 conjunctions and prepositions	警察が到着する頃には、その男たちは消えていました。	"By the time the police arrived, the men had disappeared."		
+GU120S044	1	120	17 conjunctions and prepositions	ジョーとカフェで会う約束をしましたが、遅れて到着しました。ジョーは待っていませんでした。	"You arranged to meet Joe in a cafe, but you were delayed and arrived late. Joe didn't wait."		
+GU120S045	1	120	17 conjunctions and prepositions	カフェに到着した頃には、ジョーは去っていました。	"By the time I got to the cafe, Joe had gone."		
+GU120S046	1	120	17 conjunctions and prepositions	仕事の後に買い物に行きたかったのですが、たくさんやることがあり、予想より遅く終わりました。	I wanted to go shopping after work. But I had a lot to do and finished later than expected.		
+GU120S047	1	120	17 conjunctions and prepositions	仕事が終わる頃には、買い物に行くには遅すぎました。	"By the time I finished work, it was too late to go shopping."		
+GU120S048	1	120	17 conjunctions and prepositions	電車に乗るつもりでしたが、駅に着くのに予想より時間がかかりました。	"I intended to catch a train, but it took me longer than expected to get to the station."		
+GU120S049	1	120	17 conjunctions and prepositions	駅に到着した頃には、電車はすでに出発していました。	"By the time I got to the station, my train had already left."		
+GU120S050	1	120	17 conjunctions and prepositions	山に登り、頂上に到達するのに長い時間がかかりました。景色を楽しむ時間はあまりありませんでした。	We climbed a mountain and it took a long time to get to the top. There wasn't much time to enjoy the view.		
+GU120S051	1	120	17 conjunctions and prepositions	頂上に到着する頃には、また降りる時間でした。	"By the time we got to the top, it was time to come down again."		
