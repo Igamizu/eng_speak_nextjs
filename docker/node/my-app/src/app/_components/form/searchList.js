@@ -6,7 +6,7 @@ export default function SearchList() {
         <>
             <div className="flex justify-start md:justify-center">
                 <SearchPullDown term={"unit"} actionCreator={setUnit}/>
-                <SearchPullDown term={"genre"} actionCreator={setGenre}/>
+                <SearchPullDown term={"matl"} actionCreator={setGenre}/>
             </div>
         </>
     );

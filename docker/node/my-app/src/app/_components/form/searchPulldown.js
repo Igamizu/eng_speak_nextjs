@@ -6,16 +6,7 @@ import { useDispatch } from "react-redux";
 export default function SearchPullDown ({ term, actionCreator }) {
     const optionsObj = {
         unit: [...Array(145)].map((_, i) => i + 1),
-        genre: [
-            "01_Past and Present", "02_Present perfect and past 1",
-            "03_Present perfect and past 2", "04_Future", "05_Modals 1",
-            "06_Modals 2", "07_If and wish Passive", "08_Reported speech Questions and auxiliary verbs",
-            "09_-ing and to 1", "10_-ing and to 2", "11_Articles and nouns 1",
-            "12_Articles and nouns 2", "13_Pronouns and determiners",
-            "14_Relative clauses", "15_Adjectives and adverbs 1",
-            "16_Adjectives and adverbs 2", "17_Conjunctions and prepositions",
-            "18_Prepositions 1", "19_Prepositions 2", "20_Phrasal verbs", "21_Additional Exercises"
-            ]
+        matl: ["giu", "pass20"]
     }
     const OPTIONS = [...optionsObj[term]];
     
@@ -43,8 +34,7 @@ export default function SearchPullDown ({ term, actionCreator }) {
                     onChange={(e) => clickHandler(e)}
                     onBlur={(e) => setDispatch(e)}
                     className="inline-block self-center border border-stone-600 rounded p-1 w-full md:w-2/3 lg:1/2"
-                >
-                    <option key={"%_%"} value={"%_%"}>未選択</option>
+                >                    
                     {OPTIONS.map(opt => (
                         <option key={opt} value={opt}>
                             {opt}
