@@ -46,6 +46,7 @@ export default function Save_load() {
             },
             body: JSON.stringify({ id: state, current, correct, incorrect, questions })
         });
+        console.log("saved");
     }
 
     return (

@@ -1,7 +1,7 @@
 'use client';
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { useParams } from 'next/navigation';
+import { useParams, useSearchParams } from 'next/navigation';
 import { addAsyncQuestion } from "lib/store/modules/question";
 import { setCurrent, setTotal } from "lib/store/modules/statistics";
 import DetailQuestion from "@/app/_components/detail/detail"
@@ -9,6 +9,8 @@ import Statistics from "@/app/_components/detail/statistics";
 
 export default function Detail() {
     const params = useParams();
+    const searchParams = useSearchParams()
+    const matl = searchParams.get('matl') ?? "giu";
 
     const { key_value } = params;
     const dispatch = useDispatch();
@@ -17,7 +19,7 @@ export default function Detail() {
     const { questions } = useSelector(state => state.questions);
     const { question, status } = useSelector(state => state.question);
     const terms = useSelector(state => state.terms);
-    const { matl } = terms;
+    // const { matl } = terms;
     const questionsKey = questions ? questions.map(_question => _question.key_value) : [];
     const statistics = useSelector(state => state.statistics);
 
@@ -25,6 +27,7 @@ export default function Detail() {
 
     useEffect(() => {
         const setQuestion = async () => {
+            console.log(forFetch);
             await dispatch(addAsyncQuestion(forFetch));
         }
         setQuestion();

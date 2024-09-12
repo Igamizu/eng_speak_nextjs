@@ -8,7 +8,6 @@ export async function GET(request, { params }) {
     const key_value = params.key_value;
     const searchParams = request.nextUrl.searchParams;
     const matl = searchParams.get('matl') ?? "giu";
-    console.log(key_value);
 
     const connection = await mysql.createConnection({
         host: 'mysql',

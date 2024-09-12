@@ -15,6 +15,9 @@ export default function Detail({ key_value, isRetry, setRetry }) {
     const [cCorrect, set_cCorrect] = useState(false);
     const [cIncorrect, set_cIncorrect] = useState(false);
 
+    const terms = useSelector(state => state.terms);
+    const { matl } = terms;
+
     const statistics = useSelector(state => state.statistics);
     const { questions } = useSelector(state => state.questions);
     const { total, current, incorrect } = statistics;
@@ -63,12 +66,12 @@ export default function Detail({ key_value, isRetry, setRetry }) {
 
     const setNext = () => {
         if (questions && total !== current) {
-            router.push(`/questions/${questions[current].key_value}`, { scroll: false });
+            router.push(`/questions/${questions[current].key_value}?matl=${matl}`, { scroll: false });
         }
     }
     const setPrevious = () => {
         if (questions && current !== 1) {
-            router.push(`/questions/${questions[current - 2].key_value}`, { scroll: false });
+            router.push(`/questions/${questions[current - 2].key_value}?matl=${matl}`, { scroll: false });
         }
     }
 

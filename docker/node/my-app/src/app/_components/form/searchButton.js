@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 export default function SearchButton () {
     const router = useRouter();
     const terms = useSelector(state => state.terms);
+    const {matl} = terms;
     const questionsSelector = useSelector(state => state.questions);
     const dispatch = useDispatch();
     const [isSearch, setIsSearch] = useState(false);
@@ -17,7 +18,7 @@ export default function SearchButton () {
             if(questionsSelector.status === "fulfilled" && isSearch) {
                 const { questions } = questionsSelector;
                 dispatch(initStatistics());
-                router.push(`/questions/${questions[0].key_value}`, { scroll: false });
+                router.push(`/questions/${questions[0].key_value}?matl=${matl}`, { scroll: false });
             }
         }
         setQuestions();

@@ -12,7 +12,7 @@ create table if not exists ENG_SPEAK.giu (
 );
 
 create table if not exists ENG_SPEAK.pass20 (
-    key_value VARCHAR(9) NOT NULL PRIMARY KEY,
+    key_value VARCHAR(11) NOT NULL PRIMARY KEY,
     cited INT NOT NULL,
     unit INT NOT NULL,
     japanese TEXT NOT NULL,
