@@ -67,6 +67,7 @@ $ docker system prune -a
 ## 文字コード変換
 ~~~
 $ iconv -f sjis -t utf8 docker/mysql/giu_shift-jis.txt > docker/mysql/giu.txt
+$ iconv -f sjis -t utf8 docker/mysql/pass20_shift-jis.txt > docker/mysql/pass20.txt
 ~~~
 
 ## DB更新

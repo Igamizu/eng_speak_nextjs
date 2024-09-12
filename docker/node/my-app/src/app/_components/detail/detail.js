@@ -70,8 +70,6 @@ export default function Detail({ key_value, isRetry, setRetry }) {
         if (questions && current !== 1) {
             router.push(`/questions/${questions[current - 2].key_value}`, { scroll: false });
         }
-        cCorrect && answered();
-        cIncorrect && mistaken();
     }
 
     const incorrectSet = () => {

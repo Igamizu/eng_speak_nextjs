@@ -1,0 +1,500 @@
+key_value	cited	unit	japanese	eng1	eng2	eng3
+PS20U01S001	1	1	計画について私に知らせる	let me know about the plan		
+PS20U01S002	1	1	新しい仕事をつくり出す	create new jobs		
+PS20U01S003	1	1	問題を引き起こす	cause a problem		
+PS20U01S004	1	1	劇的に増加する	dramatically increase		
+PS20U01S005	1	1	電灯をつけっぱなしにする	leave the lights on		
+PS20U01S006	1	1	新製品を開発する	develop a new product		
+PS20U01S007	1	1	生徒の数を減らす	reduce the number of students		
+PS20U01S008	1	1	売り上げを 30％向上させる	improve sales by 30%		
+PS20U01S009	1	1	映画を制作する	produce a film		
+PS20U01S010	1	1	あなたと同じ意.である	agree with you		
+PS20U01S011	1	1	何が起こるかわからない	can’t tell what will happen		
+PS20U01S012	1	1	彼が行くのを許す	allow him to go		
+PS20U01S013	1	1	ピクニックに行く準備をする	prepare to go on a picnic		
+PS20U01S014	1	1	自家用飛行機を所有している	own a private airplane		
+PS20U01S015	1	1	タイヤを点検する	check the tires		
+PS20U01S016	1	1	彼が行くよう提案する	suggest that he（should）go		
+PS20U01S017	1	1	シアトルへ飛ぶのに 500ドルかかる。	It costs 500 dollars to fly to Seattle.		
+PS20U01S018	1	1	条件を満たす	meet one’s conditions		
+PS20U01S019	1	1	子どもたちに昼食を提供する	provide lunch for the children		
+PS20U01S020	1	1	服にお金を浪費する	waste money on clothes		
+PS20U01S021	1	1	子どもを危険から守る	protect a child from danger		
+PS20U01S022	1	1	援助を申し出る	offer help		
+PS20U01S023	1	1	行方不明の犬の特徴を述べる	describe the missing dog		
+PS20U01S024	1	1	ひどく損傷を受けている	be badly damaged		
+PS20U01S025	1	1	その点で意見が合わない	disagree on that point		
+PS20U01S026	1	1	みんなに良い映画を薦める	recommend a good movie to everyone		
+PS20U01S027	1	1	洗濯機を修理してもらう	have my washing machine repaired		
+PS20U01S028	1	1	友達と部屋を共有する	share a room with a friend		
+PS20U01S029	1	1	不幸が次々続いた。	One misfortune followed another.		
+PS20U01S030	1	1	新しい考えにつながる	lead to a new idea		
+PS20U01S031	1	1	彼女の注意を引く	attract her attention		
+PS20U01S032	1	1	彼に勉強するよう促す	encourage him to study		
+PS20U01S033	1	1	意見を支持する	support one’s opinion		
+PS20U01S034	1	1	私はこの町で生まれ育った。	I was born and raised in this town.		
+PS20U01S035	1	1	ウェイターを雇う	hire a waiter		
+PS20U01S036	1	1	車に課税する	charge a tax on cars		
+PS20U01S037	1	1	健康を気にかける	care about one’s health		
+PS20U01S038	1	1	（レストランなどの）席を予約する	book a table		
+PS20U01S039	1	1	冬に備えて食料を蓄える	store food for winter		
+PS20U01S040	1	1	犬を訓練する	train a dog		
+PS20U01S041	1	1	戦争は10年間続いた。	The war lasted（for）ten years.		
+PS20U01S042	1	1	車を駐車する	park a car		
+PS20U01S043	1	1	レストランを経営する	run a restaurant		
+PS20U01S044	1	1	今より良い給料をもらう	get better pay than now		
+PS20U01S045	1	1	頭が良い	have good brains		
+PS20U01S046	1	1	固定客	a regular customer		
+PS20U01S047	1	1	アルファベット順に	in alphabetical order		
+PS20U01S048	1	1	市場調査	market research		
+PS20U01S049	1	1	自然環境	natural environment		
+PS20U01S050	1	1	最終結果	the final result		
+PS20U01S051	1	1	大量の廃棄物	a large amount of waste		
+PS20U01S052	1	1	現況では	in the present situation		
+PS20U01S053	1	1	ゴミを出す	take the garbage out		
+PS20U01S054	1	1	計測装置	a measuring device		
+PS20U01S055	1	1	定期的に運動する	get regular exercise		
+PS20U01S056	1	1	コミュニケーション能.を磨く	develop communication skills		
+PS20U01S057	1	1	プラスチックや金属を再生利用する	recycle plastic and metal		
+PS20U01S058	1	1	節電する	save electricity		
+PS20U01S059	1	1	激しい交通量	heavy traffic		
+PS20U01S060	1	1	ストレスを軽減する	reduce stress		
+PS20U01S061	1	1	公務員	a public employee		
+PS20U01S062	1	1	より良い教育を受ける	receive a better education		
+PS20U01S063	1	1	プレゼンテーションを行う	make［give］a presentation		
+PS20U01S064	1	1	インテリアデザイン	interior design		
+PS20U01S065	1	1	良い経験をする	have a good experience		
+PS20U01S066	1	1	法律の専門家	a legal expert		
+PS20U01S067	1	1	事実を確認する	check the facts		
+PS20U01S068	1	1	スタッフの一員	a staff member		
+PS20U01S069	1	1	燃料を使い果たす	run out of fuel		
+PS20U01S070	1	1	ガイド付きの工場見学	a guided factory tour		
+PS20U01S071	1	1	個人の好みの問題	a question of personal taste		
+PS20U01S072	1	1	経済的利益	economic benefits		
+PS20U01S073	1	1	実行に移される	come into practice		
+PS20U01S074	1	1	クラブ活動	club activities		
+PS20U01S075	1	1	話題を変える	change the subject		
+PS20U01S076	1	1	大学教授	a professor at a university		
+PS20U01S077	1	1	記憶力が良い	have a good memory		
+PS20U01S078	1	1	社会に影響を及ぼす	have an effect on society		
+PS20U01S079	1	1	皮膚に問題のある患者	patients with skin problems		
+PS20U01S080	1	1	公共事業の計画	a public works project		
+PS20U01S081	1	1	最高の材料	the finest materials		
+PS20U01S082	1	1	電話料金の請求書	a phone bill		
+PS20U01S083	1	1	進歩した科学技術	advanced technology		
+PS20U01S084	1	1	（所持品などを確かめる）安全点検	a security check		
+PS20U01S085	1	1	10％の割引を得る	get a 10% discount 		
+PS20U01S086	1	1	本の批評を書く	write a review of a book		
+PS20U01S087	1	1	東京発ロンドン行きの便に乗る	take a flight from Tokyo to London		
+PS20U01S088	1	1	スマートフォンの電源を切る	turn off one’s smartphone		
+PS20U01S089	1	1	サプリメントを摂取する	take supplements		
+PS20U01S090	1	1	化学反応	a chemical reaction		
+PS20U01S091	1	1	古代ヨーロッパの人々	people in ancient Europe		
+PS20U01S092	1	1	共通語	a common language		
+PS20U01S093	1	1	雨が降りそうだ。	It is likely to rain.		
+PS20U01S094	1	1	私は最近ジョギングを始めた。	"Recently, I started jogging."		
+PS20U01S095	1	1	それはたぶん本当だ。	That’s probably true.		
+PS20U01S096	1	1	彼は実は料理が上手だ。	He is actually a good cook.		
+PS20U01S097	1	1	私は疲れていたが，早起きした。	"Though I was tired, I got up early."		
+PS20U01S098	1	1	あなたが寝ていた間に	while you were sleeping		
+PS20U01S099	1	1	彼が来られるかどうか	whether he can come		
+PS20U02S001	1	2	ロックバンドを結成する	form a rock band		
+PS20U02S002	1	2	注文を取り消す	cancel an order		
+PS20U02S003	1	2	コーヒーを 1杯飲みながらくつろぐ	relax over a cup of coffee		
+PS20U02S004	1	2	紅茶に砂糖を加える	add some sugar to the tea		
+PS20U02S005	1	2	警察に連絡する 	contact the police		
+PS20U02S006	1	2	家を購入する	purchase a house		
+PS20U02S007	1	2	予想した通りに	as expected		
+PS20U02S008	1	2	増え続ける	continue to increase		
+PS20U02S009	1	2	ヘルメットの着用が求められる	be required to wear a helmet		
+PS20U02S010	1	2	カーペットを新しいものと取り替える	replace a carpet with a new one		
+PS20U02S011	1	2	痛みで苦しむ	suffer from pain		
+PS20U02S012	1	2	ドアの取っ手を修理する	fix the doorknob		
+PS20U02S013	1	2	彼にステーキを出す	serve him a steak		
+PS20U02S014	1	2	価格には税が含まれている。	Tax is included in the price.		
+PS20U02S015	1	2	セミナーに出席する	attend a seminar		
+PS20U02S016	1	2	仕事をやめる	quit one’s job		
+PS20U02S017	1	2	肉よりも魚を好む	prefer fish to meat		
+PS20U02S018	1	2	古新聞を再生利用する	recycle old newspapers		
+PS20U02S019	1	2	問題に直面する	face a problem		
+PS20U02S020	1	2	新しい技術を考案する	invent a new technique		
+PS20U02S021	1	2	犯罪を防ぐ	prevent crime		
+PS20U02S022	1	2	交通事故の件数を減らす	decrease the number of traffic accidents		
+PS20U02S023	1	2	メッセージにファイルを添付する	attach a file to a message		
+PS20U02S024	1	2	生活スタイルを形成する	shape one’s lifestyle		
+PS20U02S025	1	2	水でバケツを満たす	fill a bucket with water		
+PS20U02S026	1	2	ほかの生徒と情報を交換し合う	exchange information with other students		
+PS20U02S027	1	2	雨が降っていることに気づく	realize that it is raining		
+PS20U02S028	1	2	値段を下げる	lower the price		
+PS20U02S029	1	2	彼は来ないと思う	guess that he is not coming		
+PS20U02S030	1	2	労働経験を得る	gain work experience		
+PS20U02S031	1	2	彼女によく似合う帽子	a hat that suits her well		
+PS20U02S032	1	2	空港に着陸する	land at the airport		
+PS20U02S033	1	2	1等賞が与えられる	be awarded first prize 		
+PS20U02S034	1	2	陳述する，声明を出す	make a statement		
+PS20U02S035	1	2	害虫	a harmful insect		
+PS20U02S036	1	2	営業［販売］部	the sales department		
+PS20U02S037	1	2	ゴルフクラブの会員資格	membership of the golf club		
+PS20U02S038	1	2	脂肪の摂取を減らす	cut down on fat		
+PS20U02S039	1	2	簡単な文を書く	write a simple sentence		
+PS20U02S040	1	2	地元の地域社会で	in the local community		
+PS20U02S041	1	2	医療機器	a medical instrument		
+PS20U02S042	1	2	焦点が合って［外れて］いる	be in［out of］focus		
+PS20U02S043	1	2	顧客との会議	a meeting with clients		
+PS20U02S044	1	2	細菌を死滅させる	kill bacteria		
+PS20U02S045	1	2	退職後の生活	life after retirement		
+PS20U02S046	1	2	人間性	human nature		
+PS20U02S047	1	2	地球を守る	protect the earth		
+PS20U02S048	1	2	食料雑貨店	a grocery store		
+PS20U02S049	1	2	ゴミを拾う	pick up trash		
+PS20U02S050	1	2	効果的な方法	an effective method		
+PS20U02S051	1	2	町の名所を訪れる	visit famous sites in town		
+PS20U02S052	1	2	タブレットコンピューター	a tablet computer		
+PS20U02S053	1	2	団体を創設する	form an organization		
+PS20U02S054	1	2	治療を受ける	receive treatment		
+PS20U02S055	1	2	農業における科学技術	technologies in farming		
+PS20U02S056	1	2	たいていの場合	in most cases		
+PS20U02S057	1	2	英語のアナウンス	an announcement in English		
+PS20U02S058	1	2	人気小説の著者	an author of a popular novel		
+PS20U02S059	1	2	生物学の教授	a professor of biology		
+PS20U02S060	1	2	サッカークラブの広告	an advertisement for the soccer club		
+PS20U02S061	1	2	銀行口座	a bank account		
+PS20U02S062	1	2	データを集める	collect the data		
+PS20U02S063	1	2	問題の解決策を見つける	find a solution to the problem		
+PS20U02S064	1	2	重大な損害を与える	cause serious harm		
+PS20U02S065	1	2	競技会に出場する	enter a competition		
+PS20U02S066	1	2	重工業	heavy industry		
+PS20U02S067	1	2	マラソンの参加者たち	participants in a marathon race		
+PS20U02S068	1	2	慈善事業のために金を集める	raise money for a charity		
+PS20U02S069	1	2	薬を服用する	take medicine		
+PS20U02S070	1	2	世論	public opinion		
+PS20U02S071	1	2	支払いをする	make a payment		
+PS20U02S072	1	2	少ない［多い］人口	a small［large］population		
+PS20U02S073	1	2	きれいな水が手に入る	have access to clean water		
+PS20U02S074	1	2	世代間のギャップ	a gap between generations		
+PS20U02S075	1	2	在英日本人	Japanese residents in Britain		
+PS20U02S076	1	2	生活の質	the quality of life		
+PS20U02S077	1	2	ここから店までの距離	the distance from here to the store		
+PS20U02S078	1	2	製品の種類を増やす	increase the variety of products		
+PS20U02S079	1	2	医療の職	a medical career		
+PS20U02S080	1	2	製品リストの品目	items on the product list		
+PS20U02S081	1	2	実用的な観点から	from a practical point of view		
+PS20U02S082	1	2	今の仕事	one’s present job		
+PS20U02S083	1	2	近年	in recent years		
+PS20U02S084	1	2	オンラインで手に入る	be available online		
+PS20U02S085	1	2	追加料金を支払う	pay extra money		
+PS20U02S086	1	2	そのイベントは見事に成功を収めた。	The event was highly successful.		
+PS20U02S087	1	2	近くの書店	a nearby bookstore		
+PS20U02S088	1	2	一定の時間	a certain number of hours		
+PS20U02S089	1	2	私のとよく似たセーター	a sweater similar to mine		
+PS20U02S090	1	2	さまざまな理由で	for various reasons		
+PS20U02S091	1	2	効果的な方法	an effective way		
+PS20U02S092	1	2	ばく大な利益	a huge profit		
+PS20U02S093	1	2	深刻な病気	a serious illness		
+PS20U02S094	1	2	社会問題	a social problem		
+PS20U02S095	1	2	近ごろは，多くの人がオンラインでニュースを読む。	"Nowadays, many people read the news online."		
+PS20U02S096	1	2	どこかに財布を置き忘れる	leave one’s wallet somewhere		
+PS20U02S097	1	2	このドレスは美しい。その上，それほど高くない。	"This dress is beautiful. Moreover, it’s not that expensive."		
+PS20U02S098	1	2	敬具	"Sincerely（yours）,"		
+PS20U02S099	1	2	かなり疲れている	be rather tired		
+PS20U02S100	1	2	その会議は本来7月に予定されていた。	The meeting was originally scheduled for July.		
+PS20U03S001	1	3	人々をじろじろ見るのを避ける	avoid staring at people		
+PS20U03S002	1	3	役に立つ情報を含む	contain useful information		
+PS20U03S003	1	3	庭を管理する	manage one’s garden		
+PS20U03S004	1	3	有害だとみなされている	be considered as harmful		
+PS20U03S005	1	3	魚から骨を取り除く	remove bones from fish		
+PS20U03S006	1	3	パーティーを計画する	organize a party		
+PS20U03S007	1	3	薬の効果を調べる	examine the effects of a medicine		
+PS20U03S008	1	3	論文を発表する	publish a paper		
+PS20U03S009	1	3	米の生育に（悪）影響を及ぼす	affect the growth of the rice		
+PS20U03S010	1	3	慎重に扱われる	be treated with care		
+PS20U03S011	1	3	オリンピックに参加する	participate in the Olympics		
+PS20U03S012	1	3	その話は本当のようだ。	The story appears to be true.		
+PS20U03S013	1	3	おじからアパートを借りている	rent an apartment from one’s uncle		
+PS20U03S014	1	3	大学を卒業する	graduate from the university		
+PS20U03S015	1	3	Eメールでお互いに連絡を取り合う	communicate with each other by e-mail 		
+PS20U03S016	1	3	車を買う余裕がない	can’t afford to buy a car		
+PS20U03S017	1	3	病院に 10ドルを寄付する	donate ten dollars to a hospital		
+PS20U03S018	1	3	6時までに帰宅すると約束する	promise（you）to come home by six 		
+PS20U03S019	1	3	その問題は未解決のままだ。	The problem remains unsolved.		
+PS20U03S020	1	3	静かな地域に位置する	be located in a quiet area		
+PS20U03S021	1	3	この上着はこのズボンと合う。	This jacket matches these pants.		
+PS20U03S022	1	3	数時間つぶす	kill a few hours 		
+PS20U03S023	1	3	ある考えが私の心に思い浮かんだ。	An idea occurred to me.		
+PS20U03S024	1	3	専門家を雇う	employ experts		
+PS20U03S025	1	3	事故に巻き込まれる	be involved in an accident		
+PS20U03S026	1	3	巨大なホールで演じる	perform in a huge hall		
+PS20U03S027	1	3	ニュースは広まっている。	The news is spreading.		
+PS20U03S028	1	3	両親の助けを当てにする	depend on one’s parents’ support		
+PS20U03S029	1	3	減税すべきだと主張する	argue that tax should be reduced		
+PS20U03S030	1	3	彼の招待に応じる	accept his invitation		
+PS20U03S031	1	3	私を失望させないで。	Don’t disappoint me.		
+PS20U03S032	1	3	長いスピーチを編集する	edit a long speech		
+PS20U03S033	1	3	プロジェクトを完成させる	complete a project		
+PS20U03S034	1	3	感情を抑制する	control one’s emotions		
+PS20U03S035	1	3	太陽は東から昇る。	The sun rises in the east.		
+PS20U03S036	1	3	赤ん坊に食事を与える	feed one’s baby		
+PS20U03S037	1	3	ドアの方を指し示す	point to the door		
+PS20U03S038	1	3	良い状態である	be in good condition		
+PS20U03S039	1	3	視覚	sense of sight		
+PS20U03S040	1	3	政府の決定	a government’s decision		
+PS20U03S041	1	3	未使用の品を寄付する	donate unused goods		
+PS20U03S042	1	3	脳細胞	brain cells		
+PS20U03S043	1	3	書類を翻訳するための料金	the fee for translating the document		
+PS20U03S044	1	3	組織の責任者	the head of the organization		
+PS20U03S045	1	3	大成功を収める	have a great success		
+PS20U03S046	1	3	機会均等	equal opportunity		
+PS20U03S047	1	3	政治運動	a political movement		
+PS20U03S048	1	3	暖かい衣類	warm clothing		
+PS20U03S049	1	3	いくつかの例を挙げる	give a few instances		
+PS20U03S050	1	3	主な関心事	one’s main concern		
+PS20U03S051	1	3	経済は成長を続けている。	The economy is growing.		
+PS20U03S052	1	3	予期せぬ訪問客	an unexpected guest		
+PS20U03S053	1	3	余生	the rest of one’s life		
+PS20U03S054	1	3	固定収入内で	within a fixed income		
+PS20U03S055	1	3	市内の交通機関を改善する	improve transportation in the city		
+PS20U03S056	1	3	コミュニケーション手段	ways of communication		
+PS20U03S057	1	3	海岸沿いをドライブする	drive along the coast		
+PS20U03S058	1	3	この方法の利点	the advantage of this method		
+PS20U03S059	1	3	努力する	make an effort		
+PS20U03S060	1	3	期間	a long period of time		
+PS20U03S061	1	3	運転免許証	a driver’s license		
+PS20U03S062	1	3	コンピューターの発明	the invention of the computer		
+PS20U03S063	1	3	携帯用ノートパソコン	a portable laptop		
+PS20U03S064	1	3	旅行代理店	a travel agency		
+PS20U03S065	1	3	はっきりした証拠はない。	There is no clear evidence.		
+PS20U03S066	1	3	近所で	in one’s neighborhood		
+PS20U03S067	1	3	顧客と会う約束がある	have an appointment with one’s client		
+PS20U03S068	1	3	安全措置	safety measures		
+PS20U03S069	1	3	室温で	at room temperature		
+PS20U03S070	1	3	高給	a high salary		
+PS20U03S071	1	3	野生の生物	wild creatures		
+PS20U03S072	1	3	ホテルへの行き方を尋ねる	ask for directions to the hotel		
+PS20U03S073	1	3	最近の犯罪	recent crimes		
+PS20U03S074	1	3	締切に間に合う	meet a deadline		
+PS20U03S075	1	3	大きな役割を果たす	play a big role		
+PS20U03S076	1	3	鮮明な画像	a clear image		
+PS20U03S077	1	3	現代社会で	in modern society		
+PS20U03S078	1	3	厳しい気候	a severe climate		
+PS20U03S079	1	3	調査を行う	carry out a survey		
+PS20U03S080	1	3	うまく計画された実験	a well-planned experiment		
+PS20U03S081	1	3	ビタミンが豊富な野菜	a vegetable rich in vitamins		
+PS20U03S082	1	3	ある特定の種類の茶	a particular kind of tea		
+PS20U03S083	1	3	有害な影響	a harmful effect		
+PS20U03S084	1	3	いつでもあなたの都合のいいときに	whenever it is convenient for you		
+PS20U03S085	1	3	公のコメントを出す	make a public comment		
+PS20U03S086	1	3	医療	medical treatment		
+PS20U03S087	1	3	最初の所有者	the original owner		
+PS20U03S088	1	3	経済成長	economic growth		
+PS20U03S089	1	3	試験について心配する	get nervous about one’s exam		
+PS20U03S090	1	3	空の瓶	an empty bottle		
+PS20U03S091	1	3	人権のための地球全体の運動	a global movement for human rights		
+PS20U03S092	1	3	頻繁な質問	frequent questions		
+PS20U03S093	1	3	驚くべき事実	a surprising fact		
+PS20U03S094	1	3	定期的に運動する	exercise regularly		
+PS20U03S095	1	3	近ごろ雨が降っていない。	It has not rained lately.		
+PS20U03S096	1	3	すぐに出発する	leave immediately		
+PS20U03S097	1	3	寒かった。その上，とても風が強くなった。	"It was cold. Furthermore, it became very windy."		
+PS20U03S098	1	3	不運にも，彼女はパスポートをなくした。	"Unfortunately, she lost her passport."		
+PS20U03S099	1	3	町の中心部へ出かける	go downtown		
+PS20U03S100	1	3	経験がないにもかかわらず	despite a lack of experience		
+PS20U04S001	1	4	あらゆることに不平を言う	complain about everything		
+PS20U04S002	1	4	イチゴでケーキを飾る	decorate a cake with strawberries		
+PS20U04S003	1	4	文化を保存する	preserve cultures		
+PS20U04S004	1	4	変更についてあなたに知らせる	inform you about the change		
+PS20U04S005	1	4	彼とその件について議論する	discuss the matter with him		
+PS20U04S006	1	4	知らせに動揺する	be upset about the news		
+PS20U04S007	1	4	建物を壊す	destroy a building		
+PS20U04S008	1	4	健康を促進する方法	ways to promote health		
+PS20U04S009	1	4	本に集中する	concentrate on the book		
+PS20U04S010	1	4	費用を見積もる	estimate the cost		
+PS20U04S011	1	4	私は 10時までに家に帰ることになっていた（ができなかった）。	I was supposed to be home by ten.		
+PS20U04S012	1	4	たばこを吸わないようホテルの宿泊客に頼む	request hotel guests not to smoke		
+PS20U04S013	1	4	祭りを宣伝する	advertise a festival		
+PS20U04S014	1	4	彼女は彼と結婚した。	She married him.		
+PS20U04S015	1	4	宗教を政治から分離する	separate religion from politics		
+PS20U04S016	1	4	小銭がないかポケットの中を探す	search one’s pocket for some change		
+PS20U04S017	1	4	ボタンをクリックする	click a button		
+PS20U04S018	1	4	魚を川に再び放す	release a fish back into the river		
+PS20U04S019	1	4	大学に出願する	apply to a college		
+PS20U04S020	1	4	スーツケースに衣服を詰める	pack clothes into a suitcase		
+PS20U04S021	1	4	窓の寸法に合う	fit the windows		
+PS20U04S022	1	4	その男性が私の昔の先生だとわかる	recognize the man as my old teacher		
+PS20U04S023	1	4	大雪のせいで遅延する	be delayed because of the heavy snow		
+PS20U04S024	1	4	船で品物を輸送する	transport goods by ship		
+PS20U04S025	1	4	芸術家を尊敬する	respect an artist		
+PS20U04S026	1	4	新年を祝う	celebrate the New Year		
+PS20U04S027	1	4	コンピューターをプリンターと接続する	connect a computer to a printer		
+PS20U04S028	1	4	情報を収集する	gather information		
+PS20U04S029	1	4	先生にレポートを手渡す	hand a report to the teacher		
+PS20U04S030	1	4	値段を比較する	compare prices		
+PS20U04S031	1	4	彼の助けに感謝する	appreciate his help		
+PS20U04S032	1	4	濡れたシャツが肌にくっついた。	My wet shirt stuck to my skin.		
+PS20U04S033	1	4	新しい取り組み方を採用する	adopt a new approach		
+PS20U04S034	1	4	汚染源	a source of pollution		
+PS20U04S035	1	4	経済動向を説明する	explain economic trends		
+PS20U04S036	1	4	レストランの予約をする	make a reservation at a restaurant		
+PS20U04S037	1	4	詳細を示す	provide details		
+PS20U04S038	1	4	店員	a shop clerk		
+PS20U04S039	1	4	国際的な問題を解決する	solve international issues		
+PS20U04S040	1	4	その問題への最善の取り組み.	the best approach to the problem		
+PS20U04S041	1	4	日本人の大多数	the majority of Japanese people		
+PS20U04S042	1	4	サーフィンに好適の場所	a good location for surfing		
+PS20U04S043	1	4	文化と社会との関係	the relationship between culture and society		
+PS20U04S044	1	4	キャンプ用具 1点	a piece of camping equipment		
+PS20U04S045	1	4	電池を充電する	charge the battery		
+PS20U04S046	1	4	その物体を調べる	examine the object		
+PS20U04S047	1	4	コンピューターソフトウェアを開発する	develop computer software		
+PS20U04S048	1	4	エアコンを消す	turn off the air conditioner		
+PS20U04S049	1	4	車のエンジン	a car engine		
+PS20U04S050	1	4	警察官	a police officer		
+PS20U04S051	1	4	上司と会話をする	have a conversation with one’s boss		
+PS20U04S052	1	4	彼女に暖かい毛布を掛ける	put a warm blanket on her		
+PS20U04S053	1	4	地球温暖化を防ぐ	prevent global warming		
+PS20U04S054	1	4	法律に違反する	break［violate］the law		
+PS20U04S055	1	4	皮膚病を患っている	suffer from a skin disease		
+PS20U04S056	1	4	海の生物についての知識がある	have knowledge about sea creatures		
+PS20U04S057	1	4	科学的な発見をする	make a scientific discovery		
+PS20U04S058	1	4	難題を乗り越える	overcome a challenge		
+PS20U04S059	1	4	腕の筋肉	muscles in one’s arms		
+PS20U04S060	1	4	ケーキの材料	ingredients of a cake		
+PS20U04S061	1	4	不動産仲介人	a real-estate agent		
+PS20U04S062	1	4	恐れを克服する	overcome fear		
+PS20U04S063	1	4	今年の流行	this year’s fashion		
+PS20U04S064	1	4	仕事と余暇の間のバランス	a balance between work and leisure		
+PS20U04S065	1	4	お気に入りの教官	one’s favorite instructor		
+PS20U04S066	1	4	科学技術の発達で	with the development of technology		
+PS20U04S067	1	4	最新技術を身につける	learn the latest techniques		
+PS20U04S068	1	4	パリから来た映画監督	a movie director from Paris		
+PS20U04S069	1	4	展覧会を催す	hold an exhibition		
+PS20U04S070	1	4	沿岸地域	a coastal region		
+PS20U04S071	1	4	公共施設	public facilities		
+PS20U04S072	1	4	その授業の狙い	the aim of the class		
+PS20U04S073	1	4	課題を仕上げる	complete an assignment		
+PS20U04S074	1	4	山道をたどる	follow a mountain trail		
+PS20U04S075	1	4	犯行現場で	at the scene of the crime		
+PS20U04S076	1	4	タイヤの空気圧	tire pressure		
+PS20U04S077	1	4	彼の要望に応えて	in response to his request		
+PS20U04S078	1	4	特大のタイヤがついた乗り物	a vehicle with extra large tires		
+PS20U04S079	1	4	日ざしから肌を守る	protect one’s skin from the sun		
+PS20U04S080	1	4	化石を探す	hunt for fossils		
+PS20U04S081	1	4	電化製品	electric appliances		
+PS20U04S082	1	4	現在の社会問題	current social problems		
+PS20U04S083	1	4	環境問題	an environmental issue		
+PS20U04S084	1	4	珍しい鳥を見つける	find a rare bird		
+PS20U04S085	1	4	能率的な勉強法	an efficient way of studying		
+PS20U04S086	1	4	個人的な理由	personal reasons		
+PS20U04S087	1	4	勝利を確信している	be confident of winning		
+PS20U04S088	1	4	過去数年間で［に］	in the past few years		
+PS20U04S089	1	4	太陽系	the solar system		
+PS20U04S090	1	4	公式の会議	an official meeting		
+PS20U04S091	1	4	高価な金属	valuable metals		
+PS20U04S092	1	4	カジュアルな服装，普段着	casual clothes		
+PS20U04S093	1	4	好ましくない影響	a negative effect		
+PS20U04S094	1	4	主要な問題	a major problem		
+PS20U04S095	1	4	最高水準の作品	a classic work		
+PS20U04S096	1	4	特にあなたのために作られた	be made especially for you		
+PS20U04S097	1	4	インドから直接来る	come directly from India		
+PS20U04S098	1	4	頻繁に海岸沿いをドライブする	frequently drive along the coast		
+PS20U04S099	1	4	環境に優しい	be environmentally friendly		
+PS20U04S100	1	4	結局，チームは試合に負けてしまった。	"Eventually, the team lost the game."		
+PS20U05S001	1	5	多くのエネルギーを消費する	consume a lot of energy		
+PS20U05S002	1	5	お釣りを数える	count the change		
+PS20U05S003	1	5	私に昔を思い出させる本	a book that reminds me of the past		
+PS20U05S004	1	5	その川に入らないよう人々に警告する	warn people not to go in the river		
+PS20U05S005	1	5	友達を頼る	rely on one’s friends		
+PS20U05S006	1	5	先生の質問に答える	respond to the teacher’s question		
+PS20U05S007	1	5	辞書を参照する	refer to a dictionary		
+PS20U05S008	1	5	行儀良く振る舞う	behave well		
+PS20U05S009	1	5	大きな音におびえる	be scared at the big noise		
+PS20U05S010	1	5	会話の邪魔をする	disturb the conversation		
+PS20U05S011	1	5	さまざまな話題を扱う	cover various topics		
+PS20U05S012	1	5	席を予約する	reserve a table		
+PS20U05S013	1	5	本社に商品を配達する	deliver the goods to the head office		
+PS20U05S014	1	5	情報を信頼する	trust information		
+PS20U05S015	1	5	最新版にアップグレードする	upgrade to the latest version		
+PS20U05S016	1	5	カーペットを巻く	roll up a carpet		
+PS20U05S017	1	5	ネットサーフィンをする	surf the Internet		
+PS20U05S018	1	5	心臓が速く鼓動する。	My heart beats fast.		
+PS20U05S019	1	5	巣で卵を産む	lay eggs in a nest		
+PS20U05S020	1	5	会社名を登録する	register a company name		
+PS20U05S021	1	5	スポーツセンターを拡張する	expand a sports center		
+PS20U05S022	1	5	病気を治す	cure a disease		
+PS20U05S023	1	5	仕事から大急ぎで帰宅する	rush home from work		
+PS20U05S024	1	5	脳をスキャンする	scan the brain		
+PS20U05S025	1	5	昇進する	get a promotion		
+PS20U05S026	1	5	家を改修する	make improvements to a house		
+PS20U05S027	1	5	経済学の学士号	a bachelor’s degree in economics		
+PS20U05S028	1	5	指示に従う	follow instructions		
+PS20U05S029	1	5	田舎に住む	live in the countryside		
+PS20U05S030	1	5	自社ブランド	a store brand		
+PS20U05S031	1	5	プライバシー保護	the protection of privacy		
+PS20U05S032	1	5	医療従事者	healthcare workers		
+PS20U05S033	1	5	契約期間	a term of the contract		
+PS20U05S034	1	5	歯科診療所	a dental clinic		
+PS20U05S035	1	5	安全性を心配する	worry about one’s safety		
+PS20U05S036	1	5	高血圧	high blood pressure		
+PS20U05S037	1	5	観光事業を促進する	promote tourism		
+PS20U05S038	1	5	建設中で	under construction		
+PS20U05S039	1	5	寺院を建てる	build a temple		
+PS20U05S040	1	5	教師の需要	the demand for teachers		
+PS20U05S041	1	5	広大な畑で作物を育てる	grow crops in a vast field		
+PS20U05S042	1	5	販売促進運動	a sales campaign		
+PS20U05S043	1	5	国際会議	an international conference		
+PS20U05S044	1	5	強力な毒を使う	use a strong poison		
+PS20U05S045	1	5	大学で化学を勉強する	study chemistry at college		
+PS20U05S046	1	5	無料配達を提供する	offer free delivery		
+PS20U05S047	1	5	都会のスラム街	urban slums		
+PS20U05S048	1	5	ソーラーパネル，太陽電池板	solar panels		
+PS20U05S049	1	5	人工甘味料	artificial flavors		
+PS20U05S050	1	5	海面	the surface of the sea		
+PS20U05S051	1	5	死後	after death		
+PS20U05S052	1	5	二酸化炭素を放出する	release carbon dioxide		
+PS20U05S053	1	5	折れた骨	broken bones		
+PS20U05S054	1	5	全国平均	the national average		
+PS20U05S055	1	5	美術館	an art gallery		
+PS20U05S056	1	5	クレジットカードで支払う	pay by credit card		
+PS20U05S057	1	5	教育委員会	the board of education		
+PS20U05S058	1	5	深い谷	a deep valley		
+PS20U05S059	1	5	2000年から 2020年までの 20年間	the two decades from 2000 to 2020 		
+PS20U05S060	1	5	推薦状を書く	write a letter of recommendation		
+PS20U05S061	1	5	人工臓器	an artificial organ		
+PS20U05S062	1	5	外交政策	a foreign policy		
+PS20U05S063	1	5	無料の試供品を試す	try a free sample		
+PS20U05S064	1	5	伝統的な慣習	a traditional custom		
+PS20U05S065	1	5	契約書にサインする	sign a contract		
+PS20U05S066	1	5	安全基準	safety standards		
+PS20U05S067	1	5	親類を訪問する	visit one’s relatives		
+PS20U05S068	1	5	活動的な生活を送る	lead an active life		
+PS20U05S069	1	5	ストレスの多い仕事	a stressful job		
+PS20U05S070	1	5	肯定的な反応	positive feedback		
+PS20U05S071	1	5	喫煙の危険性を知っている	be aware of the dangers of smoking		
+PS20U05S072	1	5	どちらの場合にも	in either case		
+PS20U05S073	1	5	規則正しい間隔で	at regular intervals		
+PS20U05S074	1	5	個人授業，プライベートレッスン	a private lesson		
+PS20U05S075	1	5	この本は読むに値する。	This book is worth reading.		
+PS20U05S076	1	5	フレックス制で働く	work flexible hours		
+PS20U05S077	1	5	個々の事例	an individual case		
+PS20U05S078	1	5	電子機器	an electronic device		
+PS20U05S079	1	5	暴力的なテレビゲーム	a violent video game		
+PS20U05S080	1	5	教育的な学習ツール	an educational learning tool		
+PS20U05S081	1	5	裕福な家庭	a wealthy family		
+PS20U05S082	1	5	普通の服で	in ordinary dress		
+PS20U05S083	1	5	身体能力	physical ability		
+PS20U05S084	1	5	魅力的な値段	an attractive price		
+PS20U05S085	1	5	持ち運びできる電気ヒーター	a portable electric heater		
+PS20U05S086	1	5	雨は降りそうにもない。	It is unlikely to rain.		
+PS20U05S087	1	5	不動産代理店	a real-estate agency		
+PS20U05S088	1	5	伝統的に元旦に行われる	be traditionally held on New Year’s Day		
+PS20U05S089	1	5	その件をさらに調査する	investigate the case further		
+PS20U05S090	1	5	急速に成長している市場	a rapidly growing market		
+PS20U05S091	1	5	適切な身なりをしている	be dressed properly		
+PS20U05S092	1	5	事実として，町中に多くの監視カメラがある。	Indeed，there are many security cameras in town.		
+PS20U05S093	1	5	ほかの人とは違った考え方をする	think differently from others		
+PS20U05S094	1	5	その課題はほとんどできている。	The assignment is mostly done.		
+PS20U05S095	1	5	彼の誕生日を完全に忘れる	completely forget his birthday		
+PS20U05S096	1	5	徐々に改善する	gradually improve		
+PS20U05S097	1	5	劇的に拡大する	dramatically expand		
+PS20U05S098	1	5	時間外に働く，残業する	work overtime		
+PS20U05S099	1	5	自由に話す	speak freely		
+PS20U05S100	1	5	私の兄弟のどちらもトマトが好きではない。	Neither of my brothers likes tomatoes.		
