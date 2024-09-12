@@ -9,8 +9,8 @@ export async function PUT(request, response) {
     const reqbody = await request.json();
 
     const questionsJson = JSON.stringify(reqbody.questions)
-    const { id, current, correct, incorrect } = reqbody;
-    const queries = [id, current, correct, incorrect, questionsJson]
+    const { id, matl, current, correct, incorrect } = reqbody;
+    const queries = [id, matl, current, correct, incorrect, questionsJson]
 
     const connection = await mysql.createConnection({
         host: 'mysql',
@@ -20,9 +20,9 @@ export async function PUT(request, response) {
         password: process.env.MYSQL_ROOT_PASSWORD
     });
     const result = await connection.query(
-        'INSERT INTO state_slot (id, current, correct, incorrect, questions) \
-        VALUES (?, ?, ?, ?, ?) ON DUPLICATE KEY UPDATE current = ?, correct = ?, incorrect = ?, questions = ?', 
-        [...queries, current, correct, incorrect, questionsJson]
+        'INSERT INTO state_slot (id, matl, current, correct, incorrect, questions) \
+        VALUES (?, ?, ?, ?, ?, ?) ON DUPLICATE KEY UPDATE matl = ?, current = ?, correct = ?, incorrect = ?, questions = ?', 
+        [...queries, matl, current, correct, incorrect, questionsJson]
     );
     connection.end();
 

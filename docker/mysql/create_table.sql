@@ -23,6 +23,7 @@ create table if not exists ENG_SPEAK.pass20 (
 
 create table if not exists ENG_SPEAK.state_slot (
     id VARCHAR(255) NOT NULL PRIMARY KEY,
+    matl VARCHAR(255) NOT NULL,
     current INT NOT NULL,
     correct INT NOT NULL,
     incorrect INT NOT NULL,
@@ -35,7 +36,7 @@ LOAD DATA LOCAL INFILE '/etc/mysql/giu.txt'  INTO TABLE ENG_SPEAK.giu FIELDS TER
 LOAD DATA LOCAL INFILE '/etc/mysql/pass20.txt'  INTO TABLE ENG_SPEAK.pass20 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 
 DELETE from ENG_SPEAK.state_slot where id = 'test';
-INSERT INTO ENG_SPEAK.state_slot values ('test', 2, 2, 1, JSON_ARRAY(
+INSERT INTO ENG_SPEAK.state_slot values ('test', 'giu', 2, 2, 1, JSON_ARRAY(
     JSON_OBJECT(
         'key_value', 'GU001S001',
         'cited', 1,
