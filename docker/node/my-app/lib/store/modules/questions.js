@@ -57,8 +57,8 @@ const questions = createSlice({
 const addAsyncWithStatus = createAsyncThunk(
     'questions/search',
     async (payload) => {
-        const { unit, genre } = payload;
-        const response = await fetch(`${ENDPOINT}?unit=${unit}&genre=${genre}`);
+        const { unit, matl } = payload;
+        const response = await fetch(`${ENDPOINT}?unit=${unit}&matl=${matl}`);
         return response.json();
     }
 );

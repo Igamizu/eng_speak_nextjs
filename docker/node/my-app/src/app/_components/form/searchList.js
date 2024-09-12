@@ -1,4 +1,4 @@
-import { setGenre, setUnit } from "lib/store/modules/terms";
+import { setMatl, setUnit } from "lib/store/modules/terms";
 import SearchPullDown from "./searchPulldown";
 
 export default function SearchList() {
@@ -6,7 +6,7 @@ export default function SearchList() {
         <>
             <div className="flex justify-start md:justify-center">
                 <SearchPullDown term={"unit"} actionCreator={setUnit}/>
-                <SearchPullDown term={"matl"} actionCreator={setGenre}/>
+                <SearchPullDown term={"matl"} actionCreator={setMatl}/>
             </div>
         </>
     );

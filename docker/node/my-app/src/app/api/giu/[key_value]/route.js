@@ -6,6 +6,9 @@ require('dotenv').config({path: './.env'});
 
 export async function GET(request, { params }) {
     const key_value = params.key_value;
+    const searchParams = request.nextUrl.searchParams;
+    const matl = searchParams.get('matl') ?? "giu";
+    console.log(key_value);
 
     const connection = await mysql.createConnection({
         host: 'mysql',
@@ -15,10 +18,9 @@ export async function GET(request, { params }) {
         password: process.env.MYSQL_ROOT_PASSWORD
     });
 
-    const result = await connection.query(
-        'SELECT * FROM giu \
-        WHERE `key_value` LIKE ?', [key_value]
-    );
+    const sqlQuery = `SELECT * FROM ${matl} WHERE key_value LIKE '${key_value}'`;
+
+    const result = await connection.query(sqlQuery);
     connection.end();
 
     return result.length !== 0 

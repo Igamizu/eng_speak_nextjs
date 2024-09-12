@@ -16,12 +16,16 @@ export default function Detail() {
 
     const { questions } = useSelector(state => state.questions);
     const { question, status } = useSelector(state => state.question);
+    const terms = useSelector(state => state.terms);
+    const { matl } = terms;
     const questionsKey = questions ? questions.map(_question => _question.key_value) : [];
     const statistics = useSelector(state => state.statistics);
 
+    const forFetch = {key_value: key_value, matl: matl};
+
     useEffect(() => {
         const setQuestion = async () => {
-            await dispatch(addAsyncQuestion(key_value));
+            await dispatch(addAsyncQuestion(forFetch));
         }
         setQuestion();
         questions && dispatch(setTotal(questions.length));

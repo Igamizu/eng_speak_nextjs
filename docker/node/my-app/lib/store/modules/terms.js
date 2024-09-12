@@ -4,20 +4,20 @@ import { createSlice } from "@reduxjs/toolkit";
 const terms = createSlice({
     name: 'terms',
     initialState: {
-        unit: "%_%",
-        genre: "%_%",
+        unit: "1",
+        matl: "giu",
     },
     reducers: {
         setUnit(state, { payload }) {
             state.unit = payload;
         },
-        setGenre(state, { payload }) {
-            state.genre = payload;
+        setMatl(state, { payload }) {
+            state.matl = payload;
         }
     }
 });
 
-const { setUnit, setGenre } = terms.actions;
+const { setUnit, setMatl } = terms.actions;
 
-export { setUnit, setGenre };
+export { setUnit, setMatl };
 export default terms.reducer;

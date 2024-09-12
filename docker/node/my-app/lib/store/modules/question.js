@@ -26,7 +26,8 @@ const question = createSlice({
 const addAsyncQuestion = createAsyncThunk(
     'question/seach',
     async (payload) => {
-        const response = await fetch(`${ENDPOINT}/${payload}`);
+        const { key_value, matl } = payload;
+        const response = await fetch(`${ENDPOINT}/${key_value}?matl=${matl}`);
         return response.json();
     }
 );
