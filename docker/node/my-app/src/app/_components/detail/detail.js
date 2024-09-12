@@ -84,7 +84,7 @@ export default function Detail({ key_value, isRetry, setRetry }) {
         disptach(initStatistics());
         setRetry(prev => !prev);
         router.refresh();
-        router.push(`/questions/${questions[0].key_value}`, { scroll: false });
+        router.push(`/questions/${questions[0].key_value}?matl=${matl}`, { scroll: false });
     }
 
 return (
