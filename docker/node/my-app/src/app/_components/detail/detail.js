@@ -75,6 +75,12 @@ export default function Detail({ key_value, isRetry, setRetry }) {
         }
     }
 
+    const setFirst = () => {
+        if (questions && current !== 1) {
+            router.push(`/questions/${questions[0].key_value}?matl=${matl}`, { scroll: false });
+        }
+    }
+
     const incorrectSet = () => {
         const payload = [...questions];
         disptach(filterQuestionsIncorrect(payload));
@@ -98,8 +104,8 @@ return (
         </div>
         <SentenceList lang="ja" key="ja" />
         <SentenceList lang="en" key="en" onClick={() => setIsShow(prev => !prev)} isShow={isShow} />
-        <div className="flex flex-row justify-center pb-10">
-            <Button onClick={() => setIsShow(prev => !prev)}>英</Button>
+        <div className="flex flex-row justify-center pb-5">
+            <Button onClick={setFirst}>初</Button>
             {current > 1 ? <Button onClick={setPrevious}>前</Button> : <EmptyButton />}
             {current !== total ? <Button onClick={setNext}>次</Button> : <EmptyButton />}
             <Button onClick={answered} className={"text-red-600"}>〇</Button>
