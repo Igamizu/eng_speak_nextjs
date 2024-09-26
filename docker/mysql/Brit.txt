@@ -1,0 +1,78 @@
+key_value	cited	unit	japanese	eng1	eng2	eng3
+NBU01S001	1	1	ユキはホストファザーのトニーと対面します。	"Yuki meets her host father, Tony."		
+NBU01S002	1	1	T:すみません。ユキですか。	T : Excuse me. Are you Yuki?		
+NBU01S003	1	1	Y:はい、そうです。トニーですか。	"Y : Yes, I am. Tony?"		
+NBU01S004	1	1	T:ええ。はじめまして、ユキ。ロンドンへようこそ!ついにお会いできてうれしいです。	"T : Yes. Nice to meet you, Yuki. Welcome to London! I'm so glad to finally meet you."		
+NBU01S005	1	1	Y:はじめまして、トニー。こちらこそお目にかかれてうれしく思います。空港まで迎えに来てくださり、ありがとうございます。	"Y : Nice to meet you too, Tony. It's lovely to see you in person. Thank you very much for picking me up at the airport."		
+NBU01S006	1	1	T:大丈夫ですよ。あ、妻のルーシーですが、今日は仕事で一緒に来られなかったのですが、30分で帰宅します。私たちの到着を待っています。	"T : No problem. My wife, Lucy, is working today, so she couldn't come with me. However, she'll be back home in half an hour and waiting for us when we get in."		
+NBU01S007	1	1	Y:お会いするのを本当に楽しみにしています。	Y : I'm truly excited to see her.		
+NBU01S008	1	1	T:彼女もとてもワクワクしています。あ、荷物を運ぶのを手伝いましょう、ユキ。	"T : She's absolutely thrilled too. Oh, let me help you carry your luggage, Yuki."		
+NBU01S009	1	1	Y:ありがとうございます。	Y : Thank you.		
+NBU01S010	1	1	(今年の夏にケンブリッジで2ヶ月間ホームステイをします)	I'm doing a homestay for two months in Cambridge this summer.		
+NBU01S011	1	1	(私のホストファミリーは、かわいい犬のローバーと一緒に暮らす3人家族です)	"My host family are a family of three living with a lovely dog, Rover."		
+NBU01S012	1	1	(学校がホストファミリーを紹介してくれました)	The school introduced the host family to me.		
+NBU01S013	1	1	(友人のマリアナがこの学校を勧めてくれました。彼女は元学生なんです)	"A friend of mine, Mariana recommended this school. She's a former student."		
+NBU01S014	1	1	(海外での生活は視野を広げます)	Living abroad broadens your horizons.		
+NBU01S015	1	1	(ささやかなプレゼントです。気に入っていただけるとうれしいです)	This is a small gift for you. I hope you'll like it.		
+NBU01S016	1	1	お会いできてうれしいです。（初対面、出会った時）	Nice to meet you. 		
+NBU01S017	1	1	お会いできてうれしいです。（イギリス表現、初対面、出会った時）	Lovely to meet you.		
+NBU01S018	1	1	お会いできてうれしいです。（初対面、別れ際）	Nice meeting you.		
+NBU01S019	1	1	お会いできてうれしいです。（イギリス表現、初対面、別れ際）	Lovely meeting you.		
+NBU01S020	1	1	お会いできてうれしいです。（2回目以降、出会った時）	Nice to see you.		
+NBU01S021	1	1	お会いできてうれしいです。（イギリス表現、2回目以降、出会った時）	Lovely to see you.		
+NBU01S022	1	1	お会いできてうれしいです。（2回目以降、別れ際）	Nice seeing you.		
+NBU01S023	1	1	お会いできてうれしいです。（イギリス表現、2回目以降、別れ際）	Lovely seeing you.		
+NBU01S024	1	1	絶好調な週の始まりになることを願っているよ!	Hope your week gets off to a cracking start!		
+NBU02S001	1	2	家に向かう途中、トニーはユキにフライトについて尋ねます。	Tony asks Yuki about her flight while driving home.		
+NBU02S002	1	2	T:いいフライトでしたか。	T : Did you have a nice flight?		
+NBU02S003	1	2	Y:はい、十分に快適でした。本を読んだり、映画を観たり、隣に座っていたスウェーデン人の乗客とおしゃべりしたりして時間を過ごしました。	"Y : Yes, it was comfortable enough. I passed the time reading, watching films and having a chat 2 with a Swedish passenger sitting next to me."		
+NBU02S004	1	2	T:すばらしい。長旅の後なので、時差ぼけがなければよいのですが。	T : Brilliant. I hope you don't have jet lag after the long journey.		
+NBU02S005	1	2	Y:少し眠いですが、それ以外は大丈夫です。	"Y : I feel a little bit sleepy, but otherwise I'm totally OK."		
+NBU02S006	1	2	T:よかった。あと30分ほどで家に着きますよ。仮眠をとってもいいですし、またはロンドンの美しい景色を眺めてくださいね。私の意見では、初夏はこの国で最もすてきな季節です。	"T : Good. We should be back home in about 30 minutes. You can grab 40 winks, if you want, or enjoy watching the beautiful scenery of London as it passes by. In my opinion, early summer is the most delightful season in this country."		
+NBU02S007	1	2	Y:うれしいです。一年で最高の時期にロンドンに来ることができて、私、とてもラッキーですね!	Y : Lovely. I feel so incredibly lucky to come to London at the best time of the year!		
+NBU02S008	1	2	(緊張しすぎて一睡もできなかった)	I was so nervous that I couldn't sleep a wink.		
+NBU02S009	1	2	(ロングフライトの後、少し時差ぼけがあります)	I'm a little jet-lagged after the long flight.		
+NBU02S010	1	2	(フライトはちょっと揺れました)	The flight was a little bumpy.		
+NBU02S011	1	2	(体内時計を時差と合わせるのに1週問かかりました)	It took a week to adjust my body clock to the time difference.		
+NBU02S012	1	2	(スーツケースが壊れています)	My suitcase has been damaged.		
+NBU02S013	1	2	(イギリスは夏の間、日本から8時間遅れていますが、夏時間が終わると時計の針を1時間早めます)	"The UK is 8 hours behind Japan in the summer, but we set our clock an hour back when BST is over."		
+NBU02S014	1	2	フランスから旅を始めて、トルコに行き着いた。	We started travelling in France and finished up in Turkey.		
+NBU03S001	1	3	ユキはホストファミリーに自己紹介をします。	Yuki introduces herself to her host family.		
+NBU03S002	1	3	L:では、ユキは日本で会社員をしていたんですね。	"L : So, you were an office worker in Japan, Yuki."		
+NBU03S003	1	3	Y:ええ。東京の旅行代理店の営業部で働いていました。仕事は楽しかったんですが、同時に新たにチャレンジできることを探していました。	"Y : Yes. I worked in the sales department at a travel agency in Tokyo. I enjoyed my job but, at the same time, I was looking for a new challenge."		
+NBU03S004	1	3	L:それで仕事を辞めて、ロンドンに来ることに決めたんですね。	L : You quit your job and then decided to come to London?		
+NBU03S005	1	3	Y:そうです。日本に戻ったらツアーガイドになりたいんです。ここでの経験を今後のキャリアに活かしていきたいと思っています。	Y : That's right. I want to be a tour guide when I go back. I hope to make full use of the experience here for my future career.		
+NBU03S006	1	3	L:それはすばらしい。私たちについてですが、トニーは会計士で、私は図書館員。二人共とても忙しいので、週末はリラックスするようにしています。	"L : Excellent. As for us, Tony is an accountant and I'm a librarian. Since we have a very busy schedule, we try to wind down at the weekend."		
+NBU03S007	1	3	Y:自由時間は何をするんですか。	Y : What do you do in your free time?		
+NBU03S008	1	3	L:ガーデニングをちょっとしますね。トニーには園芸の才があるんですよ。あとは、散歩に出かけるのがとても好きね。あ、明日は土曜日だわ。私たちと一緒に近くのコモンに行きませんか。	"L : We do a bit of gardening. Tony has green fingers. And we both love going out for a stroll. Oh, tomorrow is Saturday. Would you like to go to a nearby common with us?"		
+NBU03S009	1	3	Y:ぜひ!	Y : I'd love to!		
+NBU03S010	1	3	(イギリスに来るのは初めてです)	It's the first time for me to come to England.		
+NBU03S011	1	3	(サバティカルを使っています)	I'm on a sabbatical.		
+NBU03S012	1	3	(ホームステイに決めたのは、イギリスの生活スタイルを学ぶのにベストな方法だと思ったからです)	I chose to do a homestay because it's the best way to learn the British lifestyle.		
+NBU03S013	1	3	(英語で自然にコミュニケーションが取れるようになるために学んでいます)	I'm learning to communicate naturally in English.		
+NBU03S014	1	3	(きょうだいが二人います)	I have two siblings.		
+NBU03S015	1	3	(私は東京出身です)	I come from Tokyo.		
+NBU03S016	1	3	(エミリーは五人のきょうだいがいる大家族で育ちました。彼女は下から二番目です)	Emily grew up in a big family with five siblings. She's the second youngest.		
+NBU03S017	1	3	そのブルーのシャツが似合っていて、とてもステキ!	You look really mint in that blue shirt!		
+NBU03S018	1	3	(私はイギリス映画を観ることが趣味です)	I'm keen on watching British films.		
+NBU03S019	1	3	(私は日光浴が趣味です)	I'm keen on sunbathing.		
+NBU03S020	1	3	(私は乗馬が趣味です)	I'm keen on horse riding.		
+NBU03S021	1	3	(私は海外旅行が趣味です)	I'm keen on travelling abroad.		
+NBU03S022	1	3	(私はテニスが趣味です)	I'm keen on playing tennis.		
+NBU04S001	1	4	ユキとホストマザーのルーシーは紅茶とビスケットを楽しんでいます。	"Yuki and her host mother, Lucy enjoy some tea and biscuits."		
+NBU04S002	1	4	Y:家族の一員として迎え入れてくれてありがとうございます、ルーシー。	"Y : Thank you for having me as a family member, Lucy."		
+NBU04S003	1	4	L:我が家を選んでくださり、こちらこそ光栄ですよ。気になることがあったときはお伝えくださいね。いつでも喜んでお手伝いをします。	"L : It's an honour to have you here. If there's anything you need to know, just bend our ear anytime. We're always glad to be of help to you."		
+NBU04S004	1	4	Y:なんて親切なんでしょう!ありがとうございます。	Y : How kind of you! Thank you.		
+NBU04S005	1	4	L:どういたしまして。ところで、今までにイギリスに来たことはありますか。	"L : Not at all. By the way, have you been to the UK before?"		
+NBU04S006	1	4	Y:いいえ、実は初めてです。旅行は大好きですが、なぜかこれまでその機会がなかったんですよね。	"Y : No. Actually, this is my first time. I'm keen on travelling but, somehow, I didn't have the opportunity."		
+NBU04S007	1	4	L:もしよかったら、ロンドンの訪問リストを作るのをお手伝いいたしますよ。	"L : If you'd like, I'm happy to help you make a list of places to visit in London."		
+NBU04S008	1	4	Y:すばらしいわ。とてもすてき。	Y : Wonderful. That would be fab.		
+NBU04S009	1	4	L:じゃあ、それについてもっと話しましょうか。紅茶のおかわりはいかがかしら?	"L : Let's talk more about it, then. Would you like another cuppa?"		
+NBU04S010	1	4	(野山の散策やキャンプ、釣りなどのアウトドアが好きです)	"I like outdoor activities, such as rambling, camping and fishing."		
+NBU04S011	1	4	(私たちは日曜日に、多くの時間を庭でのんびりしながら過ごします)	We spend a lot of time pottering about in the garden on Sunday.		
+NBU04S012	1	4	(趣味はジョギング、ヨガ、ハイキングです)	"My hobbies include jogging, doing yoga and hiking."		
+NBU04S013	1	4	(毎週土曜日、自転車で遠出をします)	I go on a long bike ride every Saturday.		
+NBU04S014	1	4	(サッカーに夢中。マンチェスター?ユナイテッドのサポーターです)	I'm mad about football. I'm a Manchester United supporter.		
+NBU04S015	1	4	(芸術にとても興味があります)	I have a strong interest in art.		
+NBU04S016	1	4	(彼らの息子は地元のサッカークラブに所属しています)	Their son belongs to a local footy club.		
+NBU04S017	1	4	ヤツらを3-0で破った。すばらしい!	We beat them three nil. Ace!		

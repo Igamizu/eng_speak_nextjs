@@ -6,7 +6,7 @@ import { useDispatch } from "react-redux";
 export default function SearchPullDown ({ term, actionCreator }) {
     const optionsObj = {
         unit: [...Array(145)].map((_, i) => i + 1),
-        matl: ["giu", "pass20"]
+        matl: ["giu", "pass20", "brit"]
     }
     const OPTIONS = [...optionsObj[term]];
     

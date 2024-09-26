@@ -21,6 +21,16 @@ create table if not exists ENG_SPEAK.pass20 (
     eng3 TEXT
 );
 
+create table if not exists ENG_SPEAK.brit (
+    key_value VARCHAR(9) NOT NULL PRIMARY KEY,
+    cited INT NOT NULL,
+    unit INT NOT NULL,
+    japanese TEXT NOT NULL,
+    eng1 TEXT NOT NULL,
+    eng2 TEXT,
+    eng3 TEXT
+);
+
 create table if not exists ENG_SPEAK.state_slot (
     id VARCHAR(255) NOT NULL PRIMARY KEY,
     matl VARCHAR(255) NOT NULL,
@@ -32,8 +42,10 @@ create table if not exists ENG_SPEAK.state_slot (
 
 delete from ENG_SPEAK.giu;
 delete from ENG_SPEAK.pass20;
+delete from ENG_SPEAK.brit;
 LOAD DATA LOCAL INFILE '/etc/mysql/giu.txt'  INTO TABLE ENG_SPEAK.giu FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/pass20.txt'  INTO TABLE ENG_SPEAK.pass20 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
+LOAD DATA LOCAL INFILE '/etc/mysql/Brit.txt'  INTO TABLE ENG_SPEAK.brit FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 
 DELETE from ENG_SPEAK.state_slot where id = 'test';
 INSERT INTO ENG_SPEAK.state_slot values ('test', 'giu', 2, 2, 1, JSON_ARRAY(
