@@ -6,6 +6,7 @@ const terms = createSlice({
     initialState: {
         unit: "'%'",
         matl: "giu",
+        word: "%",
         status: ''
     },
     reducers: {
@@ -14,6 +15,9 @@ const terms = createSlice({
         },
         setMatl(state, { payload }) {
             state.matl = payload;
+        },
+        setWord(state, { payload }) {
+            state.word = payload;
         }
     },
     extraReducers: (builder) => {
@@ -42,7 +46,7 @@ const LoadAsyncMatl = createAsyncThunk(
     }
 )
 
-const { setUnit, setMatl } = terms.actions;
+const { setUnit, setMatl, setWord } = terms.actions;
 
-export { setUnit, setMatl, LoadAsyncMatl };
+export { setUnit, setMatl, setWord, LoadAsyncMatl };
 export default terms.reducer;

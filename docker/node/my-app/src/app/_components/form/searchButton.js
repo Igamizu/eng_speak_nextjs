@@ -7,14 +7,13 @@ import { useEffect, useState } from "react";
 export default function SearchButton () {
     const router = useRouter();
     const terms = useSelector(state => state.terms);
-    const {matl} = terms;
+    const {matl, word} = terms;
     const questionsSelector = useSelector(state => state.questions);
     const dispatch = useDispatch();
     const [isSearch, setIsSearch] = useState(false);
 
     useEffect(() => {
         const setQuestions = async() => {
-            console.log(isSearch);
             if(questionsSelector.status === "fulfilled" && isSearch) {
                 const { questions } = questionsSelector;
                 dispatch(initStatistics());
@@ -26,6 +25,7 @@ export default function SearchButton () {
 
     const clickHandler = async (e) => {
         e.preventDefault();
+        console.log(word);
         await dispatch(addAsyncWithStatus(terms));
         await dispatch(initStatistics());
         setIsSearch(prev => true);

@@ -27,7 +27,6 @@ export default function Detail() {
 
     useEffect(() => {
         const setQuestion = async () => {
-            console.log(forFetch);
             await dispatch(addAsyncQuestion(forFetch));
         }
         setQuestion();

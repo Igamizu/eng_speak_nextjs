@@ -7,11 +7,12 @@ require('dotenv').config({path: './.env'});
 export async function GET(request) {
     const searchParams = request.nextUrl.searchParams;
     const queries = {
-        unit: searchParams.get('unit') ?? "1",
-        matl: searchParams.get('matl') ?? "giu"
+        unit: searchParams.get('unit') ?? "'%'",
+        matl: searchParams.get('matl') ?? "giu",
+        word: searchParams.get('word') ?? "%"
     }
 
-    const { unit, matl } = queries;
+    const { unit, matl, word } = queries;
 
     const connection = await mysql.createConnection({
         host: 'mysql',
@@ -21,7 +22,7 @@ export async function GET(request) {
         password: process.env.MYSQL_ROOT_PASSWORD
     });
 
-    const sqlQuery = `SELECT * FROM ${matl} WHERE unit LIKE ${unit}`;
+    const sqlQuery = `SELECT * FROM ${matl} WHERE unit LIKE ${unit} AND eng1 LIKE '%${word}%'`;
 
     const result = await connection.query(sqlQuery);
     connection.end();

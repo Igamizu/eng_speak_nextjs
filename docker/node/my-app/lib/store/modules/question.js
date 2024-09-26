@@ -14,7 +14,6 @@ const question = createSlice({
             state.status = 'pending';
         });
         builder.addCase(addAsyncQuestion.fulfilled, (state, { payload }) => {
-            console.log(payload);
             [ state.question ] = payload;
             state.status = 'fulfilled';
         });

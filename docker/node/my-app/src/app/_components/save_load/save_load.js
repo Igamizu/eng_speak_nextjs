@@ -43,7 +43,6 @@ export default function Save_load() {
     }
 
     const save = async () => {
-        console.log(matl);
         const res = await fetch(ENDPOINT, {
             method: 'PUT',
             headers: {
