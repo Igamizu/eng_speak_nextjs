@@ -4,7 +4,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 const terms = createSlice({
     name: 'terms',
     initialState: {
-        unit: "1",
+        unit: "'%'",
         matl: "giu",
         status: ''
     },

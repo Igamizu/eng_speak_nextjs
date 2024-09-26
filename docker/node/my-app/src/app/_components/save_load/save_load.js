@@ -54,7 +54,7 @@ export default function Save_load() {
     }
 
     return (
-        <div class="mt-5">
+        <div className="mt-5">
             <input type="text"
                 value={state}
                 onChange={e => setInput(e)}
