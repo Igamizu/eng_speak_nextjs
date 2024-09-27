@@ -23,6 +23,13 @@ mysql# mysql -u root -p INSECTDB < /etc/mysql/INSECTDB.sql
 ~~~
 (`./.env`)の`MYSQL_ROOT_PASSWORD`の値を入力してください。
 
+## アプリケーション更新時のサーバー上での操作
+~~~
+$ docker-compose run node /bin/sh
+# npm upgrade && npm install
+# npm run build
+~~~
+
 ## 基本操作
 ### コンテナイメージ作成、コンテナ起動
 ~~~

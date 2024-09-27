@@ -76,3 +76,188 @@ NBU04S014	1	4	(サッカーに夢中。マンチェスター?ユナイテッドのサポーターです)	I'm 
 NBU04S015	1	4	(芸術にとても興味があります)	I have a strong interest in art.		
 NBU04S016	1	4	(彼らの息子は地元のサッカークラブに所属しています)	Their son belongs to a local footy club.		
 NBU04S017	1	4	ヤツらを3-0で破った。すばらしい!	We beat them three nil. Ace!		
+NBU05S001	1	5	ユキとルーシーは家のルールについて話しています。	Yuki and Lucy are talking about house rules.		
+NBU05S002	1	5	Y:家庭内のルールはありますか。	Y : Are there any house rules that I should follow?		
+NBU05S003	1	5	L:特にないので心配しないで。冷蔵庫の中の食べ物や飲み物はご自由にどうぞ。あ、一点だけ、牛乳がなくなったら教えてちょうだいね。	"L : Nothing much really, so don't worry. Help yourself to any food and drink in the fridge. Just one thing, let us know when the milk is running out."		
+NBU05S004	1	5	Y:牛乳?	Y : Milk?		
+NBU05S005	1	5	L:ええ。トニーと私は毎日たくさんのミルク入りの紅茶を飲んでいるから、私たちのような紅茶が大好きなイギリス人は牛乳なしでは生きていけないの。	"L : Yes. Tony and I drink a tonne of white tea every day, so many British tea lovers like us can't live without milk."		
+NBU05S006	1	5	Y:あ、なるほど。ええと、ひとつお尋ねしたかったんですが、夜、お風呂に入ってもいいですか。	"Y : Oh, I got it. Ah, I wanted to ask. Would it be OK for me to have a bath a in the evenings?"		
+NBU05S007	1	5	L:私たちは日本人ほど頻繁にバスタブを使わないんですよ。それについては前の日本人留学生のコノミが教えてくれました。ええ、もしそうしたいと思ったときは教えてくださいね。	"L : We don't really use the bathtub as often as Japanese people do. Our former Japanese guest-student, Konomi, told us about it. And yes, just tell us when you feel like using it."		
+NBU05S008	1	5	Y:ありがとうございます。もちろんシャワーでもかまわないのですが、お風呂に入りたいときはお伝えします。	"Y : Thank you. Having a shower will do, of course, but I'll let you know when I want to use the bath."		
+NBU05S009	1	5	L:そうしていただけると、とてもありがたいわ。	L : That'd be super.		
+NBU05S010	1	5	(門限はありますか。もしそうなら門限は何時ですか)	"Is there a curfew? If so, what time is curfew in your house?"		
+NBU05S011	1	5	(友人を家に呼んでもかまいませんか)	Do you mind if I bring some friends round?		
+NBU05S012	1	5	(どれくらい遅くまでシャワーを使っていいですか)	How late could I have a shower?		
+NBU05S013	1	5	(自分の食べ物やドリンクを冷蔵庫に入れてもいいですか)	Is it all right to keep my food and drink in the fridge?		
+NBU05S014	1	5	(週に2回、洗濯機を使ってもいいですか)	Can I use a washing machine twice a week?		
+NBU05S015	1	5	(日本から小包が届くと思います。代わりにサインをしておいてもらえますか)	I'Il have a parcel delivered from Japan. Could you sign for it for me?		
+NBU05S016	1	5	キミの部屋、すごく散らかっているね。片づけ術を身につけるべきだよ。	Your room is all over the shop. You should learn how to tidy up.		
+NBU05S017	1	5	(お風呂に入る)	have a bath		
+NBU05S018	1	5	(シャワーを浴びる)	have a shower		
+NBU05S019	1	5	(散歩する)	have a walk		
+NBU05S020	1	5	(休憩する)	have a break		
+NBU05S021	1	5	(お酒を飲む)	have a drink		
+NBU05S022	1	5	(ヘアカットをする)	have a haircut		
+NBU06S001	1	6	ユキとトニーはランチの準備をしています。	Yuki and Tony are preparing lunch together.		
+NBU06S002	1	6	T:食物アレルギーはありますか。	T : Do you have any food allergies ?		
+NBU06S003	1	6	Y:特にありませんが、ピーナッツバターを食べるとお腹の調子が悪くなるので、普段は避けるようにしています。	"Y : Not in particular, but I tend to have an upset stomach after having peanut butter, so I usually avoid it."		
+NBU06S004	1	6	T:OK、ルーシーに伝えておきましょう。マーマレードのジャム瓶が冷蔵庫に入っていますから、朝食に食べてくださいね。	T : OK. I'll tell Lucy. We keep a jar of marmalade in the fridge. You can have it for breakfast.		
+NBU06S005	1	6	Y:ありがとうございます。実は、マーマレードが大好きなんです。	"Y : Thank you. Actually, marmalade is my favourite!"		
+NBU06S006	1	6	T:すばらしい。我が家のマーマレードは自家製ですよ。ルーシーには秘密のレシピがあって、ジャム作りがとても上手なんです。	"T : Perfect. Our marmalade is homemade. Lucy's got a secret recipe, and she's jolly good at making it."		
+NBU06S007	1	6	Y:すごい!私はパディントンに出てくるルーシーおばさんのレシピでマーマレードサンドイッチを作ることもあります。	"Y : How amazing! I sometimes make marmalade sandwiches using a recipe of Aunt Lucy from ""Paddington""."		
+NBU06S008	1	6	T:それはいいですね。市販のジャムもおいしいけれど、自分で作ることができて、さらにオーガニックであれば、それに越したことはないですよ。それにしても、ルーシーはジャム作りの達人のようだね。	"T : That's nice. Shop-bought jams are yummy, but if you can make some on your own, and if it's more organic, why not? Well, both Lucies are keen jam-makers, I think!"		
+NBU06S009	1	6	Y:そのようですね、トニー。	"Y : Sounds like it, Tony."		
+NBU06S010	1	6	(私はカニとエビにアレルギーがあります)	I'm allergic to crabs and prawns.		
+NBU06S011	1	6	(もうすぐディナーですよ。テーブルのセッティングをしてくれますか)	"Dinner is almost ready. Will you lay the table, please?"		
+NBU06S012	1	6	(冷蔵庫の新鮮なお野菜でサラダを作りましょう)	Let's make a salad with some fresh veg from the fridge.		
+NBU06S013	1	6	(赤身肉なしの我が家はペスカタリアンです)	"No red meat, my family are pescatarians."		
+NBU06S014	1	6	(ラップをどこに置いたか忘れちゃった)	I've forgotten where I put the clingfilm.		
+NBU06S015	1	6	(今夜は友達と外食なので、夕食のことは気にしないでください)	"I'm going out to eat with my friends tonight, so don't worry about dinner for me."		
+NBU06S016	1	6	あのフルーツケーキですごく胃がもたれちゃって、次回はパスするわ。	"The fruit cake was really stodgy, so I'll pass next time."		
+NBU06S017	1	6	(皿を洗う)	do the dishes		
+NBU06S018	1	6	(洗濯をする)	do the laundry		
+NBU06S019	1	6	(アイロンがけをする)	do the ironing		
+NBU06S020	1	6	(料理をする)	do the cooking		
+NBU06S021	1	6	(窓ふきをする)	do the windows		
+NBU06S022	1	6	(リビングを掃除する)	do the living room		
+NBU07S001	1	7	ユキの隣に座っているジャンポールが声をかけます。	"Jean-Paul, sitting next to her breaks the ice."		
+NBU07S002	1	7	J:やあ。ジャンポールです。フランス出身です。	J : Hi. I'm Jean-Paul. I'm from France.		
+NBU07S003	1	7	Y:こんにちは。ユキです。日本から来ました。	Y : Hello. I'm Yuki. I come from Japan.		
+NBU07S004	1	7	J:新入生だよね。	"J : I suppose you're a new student, right?"		
+NBU07S005	1	7	Y:ええ。先週の金曜日にロンドンに着いて、今日が登校初日なの。ちょっと緊張していて。	Y : Yes. I arrived in London last Friday and today is my first day at school. I'm a little bit nervous.		
+NBU07S006	1	7	J:大丈夫。僕も1週間前にレッスンを受け始めたけれど、この学校はすばらしいよ。勉強をするには最高の場所。きっとすてきな時間を過ごせるはず。	"J : Don't worry. I started taking lessons a week ago, and this school is amazing. It's a perfect place to study. I'm sure you'll have a lovely time."		
+NBU07S007	1	7	Y:今朝、手続きをしたんだけど、事務スタッフの方はとても親切だったわ。くつろいだ感じでアットホームな雰囲気だったな。	"Y : I signed up this morning, and the school clerk was so kind. There was a cosy and welcoming atmosphere."		
+NBU07S008	1	7	J:ああ、ナンシーはとってもフレンドリーだよね。知ってたかな、スクールの主催でパーティーが開かれることもあるし、先生が学生を地元のパブに連れて行ってくれたりすることもあるんだよ。	"J : Yeah, Nancy is super-friendly. You know what, they sometimes throw a party for students, and teachers take us to a local pub."		
+NBU07S009	1	7	Y:わー、そうなの。ワクワクする!	"Y : Wow, how exciting!"		
+NBU07S010	1	7	J:うん! あ、ハリーがちょうど入って来た。お話できてよかった、ユキ。またあとでね。	"J : Yep! Oh, Harry's just come in. Nice talking to you, Yuki. Catch you later."		
+NBU07S011	1	7	(新学期は7月まで続きます)	The new term lasts up until July.		
+NBU07S012	1	7	(英語力が上達したら、クラスの変更はできますか)	Can I change classes when I improve my English skills?		
+NBU07S013	1	7	(当校の校長はとても思いやりのある人です)	Our headteacher is a very caring person.		
+NBU07S014	1	7	(日本人のいないクラスで授業を受けたいです。そうしないと、日本語ばかりを使ってしまうかもしれないので)	"I want to take a class where there isn't anybody from Japan. Otherwise, I might end up using only Japanese."		
+NBU07S015	1	7	(誰に相談すればよいですか)	Who should I consult?		
+NBU07S016	1	7	(この語学学校を知ったきっかけは何ですか)	How did you get to know about this language school?		
+NBU07S017	1	7	僕たちは生意気なティーンで、よく学校をサボっていた。	We were such naughty teens and used to bunk off school often.		
+NBU07S018	1	7	（英）ジェーンは、気遣いのできる家庭的な女性です。	"Jane is a caring, homely person."		
+NBU07S019	1	7	（米）ジェーンは、どちらかというと魅力のない、器量にかける女性です。	"Jane is a rather unattractive, homely person."		
+NBU07S020	1	7	（英）ブルーのスーツが似合ってかっこいい。	You look smart in the blue suit.		
+NBU07S021	1	7	（米）賢いその児童は飛び級をした。	The smart kid skipped a year in school.		
+NBU07S022	1	7	（英）その申し入れを断ったの?どうかしているよ、気は確か?	You turned down the offer? Are you mad?		
+NBU07S023	1	7	（米）まだ怒っているの? 許してね、いいでしょう?	"Are you still mad at me? Forgive me, OK?"		
+NBU08S001	1	8	ユキがサンドイッチを食べていると、ある学生が近づいてきます。	Yuki is having a sandwich and a student approaches her.		
+NBU08S002	1	8	A:ここに座ってもいい?	A : Can I sit here?		
+NBU08S003	1	8	Y:もちろん、どうぞ。こんにちは。ユキです。	Y : Of course. Hi. I'm Yuki.		
+NBU08S004	1	8	A:こんにちは。アンです。ベルギーから来ました。この学校で1ヶ月ほど勉強をしているわ。受講しているコースを聞いてもいいかしら?	A : Hi. I'm Anne. I come from Belgium. I've been studying here for about a month. May I ask which course you're taking?		
+NBU08S005	1	8	Y:ええ。私はフルタイムの学生で、一般コースに申し込みをしたの。つまり、1日に3クラスを受けているということ。午前に2クラス、そして午後にもう1クラス。	"Y : Sure. I'm a full-time student, and I signed up for the regular course, which means I take three classes a day. Two lessons in the morning, and another one in the afternoon."		
+NBU08S006	1	8	A:すばらしいわ。私は勉強しているのは午前中だけ。ボーイフレンドのマットはイギリス人で、できるだけ多くの時間を一緒に過ごすようにしているの。私のロンドンステイの半分は休暇、半分は勉強といったところね。	"A : Brilliant. I only study in the morning. My boyfriend, Matt, is British, so we spend as much time as possible together. My stay in London is half holiday and half study."		
+NBU08S007	1	8	Y:すてきだわ、アン。ところで、先生は誰?	"Y : How wonderful, Anne. By the way, who are your teachers?"		
+NBU08S008	1	8	A:ジャネット、ナンシー、マルコムよ。マルコムはとってもおもしろくて、みんな彼のジョークにいつも笑い転げているわ。	"A : Janet, Nancy and Malcolm. Malcolm is so hilarious - we always laugh at his jokes."		
+NBU08S009	1	8	Y:私も彼の授業を受けているから、よく分かる。先生のギターの弾き語りが大のお気に入り。	"Y : I take his classes too, so I know. I love it when he plays the guitar and sings."		
+NBU08S010	1	8	A:ああ、例のビートルズのパロディソングのことよね。ユキ、とてもおいしそうなサンドイッチだけど、どこで買ったの?	"A : Ah,the famous Beatles parody songs, right? Yuki ... your sandwich looks so yummy. Where did you get it?"		
+NBU08S011	1	8	(ナタリーはイギリス人の家族と生活しながら、オペアとして働いています)	Natalie lives with an English family and works as an au pair.		
+NBU08S012	1	8	(来週の月曜日は祝日です)	Next Monday is a bank holiday.		
+NBU08S013	1	8	(通学に20分ほどかかります)	My journey to school takes about 20 minutes.		
+NBU08S014	1	8	(ジムは専門学校で建具の勉強をしています)	Jim is studying joinery at technical college.		
+NBU08S015	1	8	(クラスメートとおしゃべりしながら英語の会話練習をしています)	I practise speaking English in chit-chat with my classmates.		
+NBU08S016	1	8	(休暇に入る前に、もう数週間ここで勉強を続ける予定です)	I plan to continue to study here for a few more weeks before taking a holiday.		
+NBU08S017	1	8	(いつ課題を提出する必要がありますか)	When should we hand in the assignment?		
+NBU08S018	1	8	(やっと試験に合格できた。まさに3度目の正直だよ!)	I finally passed the exam. It's third time lucky!		
+NBU08S019	1	8	ジュンは学業に精を出し、大学に合格した。	Jun pegged away at his studies and was admitted to the uni.		
+NBU09S001	1	9	ユキの教師ハリーが全員に質問をします。	"Yuki's teacher, Harry asks everyone a question."		
+NBU09S002	1	9	H:質問5の答えがわかる人はいますか。	H : Has anybody gotthe answer for Question 5?		
+NBU09S003	1	9	Y:(ユキが手を挙げる)答えは「広告」だと思います。	"Y : (Yuki raises her hand.) I think the answer is ""advertisement""."		
+NBU09S004	1	9	H:そうだね、ユキ。正解です。実は、イギリスではadvertisement はたいてい「アドヴァーティズメント」と発音するんです。「アドバタィズメント」はアメリカ式の読み方なんです。	"H : Good, Yuki. That is correct. Well, in the UK, we usually pronounce it advertisement. Advertisement is an American pronunciation."		
+NBU09S005	1	9	Y:まあ、それは知りませんでした。ほかの例はありますか。	"Y : Oh, I didn't know that. Are there any other examples?"		
+NBU09S006	1	9	H:ありますよ。「デビュー」「ラボラトリー」「シェジュール」かな。アメリカ英語では「デビュー」「ラボラトリー」「スケジュール」と発音しますね。	"H : Yes. Debut, laboratory and schedule. Those words are pronounced debut, laboratory and schedule in the U.S."		
+NBU09S007	1	9	Y:英米人が違うアクセントで会話をしても、お互い言っていることはちゃんと理解できるんでしょうか。	Y : Is it possible for British and American people to understand each other with different accents?		
+NBU09S008	1	9	H:大丈夫だと思いますよ。どちらのアクセントであってもまったく問題はないですし、英米の英語は以前にも増して交換可能になっていると言えるんじゃないかな。だけど、イギリスにいる間はイギリス英語で学ぶというのもよい練習になると思いますよ。	"H : I would say yes. Both accents are perfectly fine and are becoming more and more interchangeable. However, it will be good practice to learn British English while you're in the UK."		
+NBU09S009	1	9	Y:そうですね。OK、ハリー、では5番の解答は「アドヴァーティズメント」です!	"Y : That's right. OK, Harry, so the answer for Question is ""advertisement""!"		
+NBU09S010	1	9	(私の英語が不自然に聞こえたら直してください)	Please correct my English if it sounds awkward.		
+NBU09S011	1	9	(「monarch(君主)」という単語が喉まで出かかった)	"The word, ""monarch"" was on the tip of my tongue."		
+NBU09S012	1	9	(一緒に問題を解きましょう)	Let's work on the question together.		
+NBU09S013	1	9	(教科書を持って来るのを忘れちゃった。ちょっと見せてもらってもいい?)	I forgot to bring my textbook. Can I share yours a bit?		
+NBU09S014	1	9	(この単語を辞書で調べるね。少し待って)	I'Il look up this word in my dictionary. Wait a sec.		
+NBU09S015	1	9	(この言葉はどうやって発音しますか)	How do you pronounce this word?		
+NBU09S016	1	9	準備完了までに1時間しかない中、全員一丸となって取り組んだ。	"With only an hour to get everything ready, it was all hands to the pump."		
+NBU10S001	1	10	テーマはシェイクスピアとその作品についてです。	The topic is Shakespeare and his masterpieces.		
+NBU10S002	1	10	H: シェイクスピアは1564年に誕生し、誰もがご存知のように、数多くの偉業を成し遂げたイギリス人作家です。作品をいくつか知っていますか。	"H : Shakespeare was born in 1564 and as everyone knows, he is regarded the greatest of all English writers. Do you know some of his works?"		
+NBU10S003	1	10	Y:はい。『ロミオとジュリエット』。映画を観るたびに泣きたくなってしまいますが、とてもいい物語だと思います。このような戯曲を「悲劇」と言うのでしょうか。合っていますか?	"Y : Yes. Romeo and Juliet. I watched the film a couple of times. Each time it makes me want to cry, but I think it's a great story. This type of play is called a ""tragedy"", ah, am I correct?"		
+NBU10S004	1	10	H:合っていますよ、ユキ。彼の有名な戯曲の中には『ロミオとジュリエット』のほかにも、もちろん『ハムレット』や『オセロ』などのたくさんの悲劇が含まれています。シェイクスピアは『十二夜』や『お気に召すまま』など多くの喜劇も生み出しました。言うまでもなく、英文学に多大な影響を与えており、彼の戯曲のフレーズの多くは今でも使われています。	"H : You're right, Yuki. Many of his famous plays include the tragedies: Romeo and Juliet, of course, Hamlet, Othello and so on. Shakespeare created many comedies too such as Twelfth Night and As You Like it. Needless to say, he's had a great influence on English literature, and many of the phrases in his plays are still used today."		
+NBU10S005	1	10	(ハリーは生徒にスライドを見せて質問をする)	(Harry shows students a slide and asks them a question.)		
+NBU10S006	1	10	H:これらの表現は知っているかな。では、ペアを組みフレーズの意味を話し合いましょう。	"H : Are you familiar with those phrases? OK, work in pairs and discuss what they mean."		
+NBU10S007	1	10	(今、ページのどこ?)	Where are we now?		
+NBU10S008	1	10	四角にチェックをして、カッコに答えを記入しなさい)	Tick the box and write down the answer in the brackets.		
+NBU10S009	1	10	(いつまでに課題を提出しなければなりませんか)	By when should we hand in the assignment?		
+NBU10S010	1	10	(壁にぶち当たってしまったようだ)	I feel like I've hit a wall.		
+NBU10S011	1	10	(英語の耳を養うために、BBC の番組を字幕なしで観ます)	I watch BBC programmes without subtitles to develop a good ear for English listening.		
+NBU10S012	1	10	音量を下げてよ。勉強中なの。気がヘンになリそう!	Turn that noise down. I'm studying. It's doing my head in!		
+NBU10S013	1	10	(終わリよければすべてよし)	all's well that ends well		
+NBU10S014	1	10	(嫉妬、妬み)	green-eyed monster		
+NBU10S015	1	10	(心眼)	in your mind's eye		
+NBU10S016	1	10	(つまらないことに大騒ぎをする)	much ado about nothing		
+NBU10S017	1	10	(世界は私の思いのまま)	the world is my oyster		
+NBU10S018	1	10	(骨折リ損)	wild goose chase		
+NBU11S001	1	11	学食でお手伝いをしているメメットがユキの注文をとります。	Mehmet is helping in the canteen and takes an order for Yuki.		
+NBU11S002	1	11	M:次の方、どうぞ。	M : Next please.		
+NBU11S003	1	11	Y:ハーイ。紅茶とソルト&ビネガーのポテトチップスを一袋もらえる?	"Y : Hi. Can I have a tea and a packet of salt and vinegar crisps, please?"		
+NBU11S004	1	11	M:3.35ポンドだよ。	M : That's 3.35 pounds.		
+NBU11S005	1	11	Y:はい、どうぞ。(ユキはメメットにお金を渡す)トルコに戻っての休暇はどうだった?	Y : Here you are. (Yuki handing the money to him.) How was your holiday back in Turkey?		
+NBU11S006	1	11	M:最高だった。家族と一緒にビーチで数日間を過ごして、何時間もおしゃべりをしたよ。ロンドンはすごい都市だけど、我が家に勝るところはないね。	"M : It was fantastic. I spent a few days at the beach with my family, and we chatted for hours and hours. London is an astonishing city, but there's no place like home, right?"		
+NBU11S007	1	11	Y:絶対にそう思う。私も実家を離れてから数週間しか経ってないけれど、家族や友人と会えなくて寂しいもの。ビデオチャットで常にお互いの近況を報告し合っているわ。	"Y : I can't agree more. It's only been a few weeks since I left home, but I've been missing my family and friends. We video chat all the time to keep ourselves updated on how we're doing."		
+NBU11S008	1	11	M:まさに“ありがとうテクノロジー”だね! 写真をたくさん撮ったから、授業のあとに見せるよ。おっと、おつりを。	"M : Yep, thank goodness for technology! I took a lot of photos, so I'll show you after class. Oops, here's your change."		
+NBU11S009	1	11	Y:ありがとう。またあとで。	Y : Thanks. See you later.		
+NBU11S010	1	11	M:じゃあね!	M : Cheers.		
+NBU11S011	1	11	(ごめんなさい、小銭がなくて。10ポンド札でも大丈夫ですか)	"Sorry, I don't have any small change. Is a 10 pounds note all right?"		
+NBU11S012	1	11	(5ポンド持ってる?)	Have you got a fiver?		
+NBU11S013	1	11	(そのバーガーは 10ポンドだった)	The burger was a tenner.		
+NBU11S014	1	11	(20ポンド貸してくれる?)	Could you lend me 20 quid?		
+NBU11S015	1	11	(彼の新車は1万5000ポンドだった)	His new car cost 15 grand.		
+NBU11S016	1	11	(紅茶も付いてきますか)	Does this come with a tea?		
+NBU11S017	1	11	(今日はチーズベーグルはありますか)	Have you got cheese bagels today?		
+NBU11S018	1	11	お金がない。	I haven't got the dosh.		
+NBU12S001	1	12	ユキとジャンポールはベンチに座っておしゃべリをしています。	Yuki and Jean-Paul are sitting on the bench chatting.		
+NBU12S002	1	12	J: スクールが金曜日にイタリアからの新入生を歓迎するパーティーを開くけど、参加する?	J : The school is hosting a party to welcome the new students from Italy on Friday. Will you be joining?		
+NBU12S003	1	12	Y:もちろん、行くわ。食べ物や飲み物を持参する必要はあるのかしら。	"Y : Sure, I will. Do we need to bring food or drinks?"		
+NBU12S004	1	12	J:特にその必要はないけど、貢献してもらえるのならありがたいとハリーが言っていたよ。	"J : Harry said that we don't really have to, but if we want to contribute, that would be great."		
+NBU12S005	1	12	Y:わかった。じゃあ、いかにも日本らしいものを持って行くわ。	Y : All right. I'll bring something typically Japanese.		
+NBU12S006	1	12	J:(パーティーで)すごいね。この食べ物は何と呼ばれているの。	J : (At the party.) Looks amazing. What's this food called?		
+NBU12S007	1	12	Y:Norimaki(海苔巻き)、巻き寿司よ。日本から食材を持って来たので、それで作ったの。気に入ってもらえるとうれしいな。ぜひ食べてみて。	"Y : It's norimaki or rolled sushi. I'd brought some ingredients from Japan, so I made it with them. I hope you'll like it. Please have a try."		
+NBU12S008	1	12	J:ありがとう、ユキ。うわ一、おいしい!巻いてある黒いシートは何?	"J : Thanks, Yuki. Wow, tastes good! What's the black sheet wrapped around it?"		
+NBU12S009	1	12	Y:ああ、それはNori(海苔)という日本の海藻。少し塩気があるでしょ。	"Y : Ah, it's Japanese seaweed called nori. Isn't it a little savoury?"		
+NBU12S010	1	12	J:うん。Norimakiは、間違いなく僕のお気に入りの食べ物の仲間入りだな。もっと食べていい? お腹が空いてきちゃった。	"J : Yeah. Norimaki is my new favourite food, definitely. Can I have more? I'm getting hungrier."		
+NBU12S011	1	12	Y:もちろん。お好きなだけどうぞ!	Y : Sure. Be my guest!		
+NBU12S012	1	12	(すき焼きはスライスした牛肉、豆腐、野菜、きのこなどを入れた日本の鍋です。醤油に砂糖を加えたタレで調理します)	"Sukiyaki is a Japanese hot pot with slices of beef, tofu, vegetables, mushrooms and so on. It's cooked in a sauce of soy sauce with sugar."		
+NBU12S013	1	12	(私たちはご飯や味噌汁の器を片手で持ち上げて食べます)	We lift the rice or miso soup bowl with one hand when we eat it.		
+NBU12S014	1	12	(私はいつも箸を使うけど、お寿司を指でつまんでもいいんですよ)	"I usually use chopsticks, but you can eat sushi with your fingers."		
+NBU12S015	1	12	(麺を食べながらズーズーと音を立ててみて。日本では決して行儀の悪いことじゃないから)	Try making noises when you eat noodles. It's not considered bad manners at all in Japan.		
+NBU12S016	1	12	(鳥の出汁はラーメンスープによく使われます)	Chicken broth is often used for ramen soup.		
+NBU12S017	1	12	この日本食は簡単に作れるよ。	This Japanese food is a doddle to cook.		
+NBU12S018	1	12	(海苔=日本の海藻)	nori or Japanese seaweed		
+NBU12S019	1	12	(刺身=生魚)	sashimi or raw fish		
+NBU12S020	1	12	(おにぎり=お米をボール状にしたもの)	onigiri or rice ball		
+NBU12S021	1	12	(焼き鳥=直火で焼いた鳥肉を串に刺したもの)	yakitori or grilled chicken on a skewer		
+NBU12S022	1	12	(味噌汁=お味噌のスープ)	misoshiru or miso soup		
+NBU12S023	1	12	(漬物=酢漬けの野菜)	tsukemono or pickled vegetables		
+NBU12S024	1	12	(卵焼き=丸めたオムレツ)	tamagoyaki or rolled omelette		
+NBU13S001	1	13	放課後、ユキは先生やクラスメートと地元のパブにいます。	Yuki is at a local pub with her teacher and classmates after school.		
+NBU13S002	1	13	H:さて、ユキ、ロンドンでの新しい生活はどんな感じかな?	"H : So, Yuki, how's everything going in London?"		
+NBU13S003	1	13	Y:正直、まだ緊張しています。でも、こちらの生活にも少しずつ慣れてきました。ホストファミリーのルーシーとトニーは親切でフレンドリーですし、イギリス文化やライフスタイルについていろいろと教えてくれます。学校の勉強も楽しいですよ。	"Y : I'm still nervous, to be honest. But I'm getting used to my new life bit by bit. My host family, Lucy and Tony, are kind and friendly, and they teach me a lot about British culture and lifestyle. I do enjoy studying at school, too."		
+NBU13S004	1	13	H:すばらしい。よし、みんなで乾杯しよう。ようこそロンドンへ、ユキ。乾杯!	"H : Excellent. OK, everyone, let's toast. Welcome to London, Yuki. Cheers!"		
+NBU13S005	1	13	Y:乾杯!んん?このビール、冷たくない。というか、ちょっとぬるい。	Y : Cheers! Hum .... this beer isn't cold. I mean ... it's a little warm.		
+NBU13S006	1	13	H:イギリスでは、エールのようなビールは常温で提供されることはよくあるんだ。	"H : Oh, in the UK, beer like ale is often served at room temperature. "		
+NBU13S007	1	13	Y:それは興味深いです。日本ではいつも冷たいビールを飲むんですけど、たいていの日本人はキンキンに冷えたビールが最高においしいと感じているんじゃないかしら。	"Y : That's interesting. I always drink cold beer in Japan, and many Japanese people think beer is tastiest when it's ice-cold."		
+NBU13S008	1	13	H:違うタイプのビール、例えばラガーはイギリスでも冷えているね。エールの保存に最も適した温度が室温であると考えられていることから、パブではぬるめに出されるというわけ。	"H : Other types of beer, let's say, lager is served cold in the UK, too. The best temperature for storing ale is said to be room temperature. That's why it's served warm at the pub."		
+NBU13S009	1	13	Y:そうなんですね。よし、ロンドンにいる間にいろんなビールを飲んじゃおう!	"Y : I see. OK, I'll try all sorts of beer while I'm in London!"		
+NBU13S010	1	13	(どのパブに行きたい?)	Which pub do you fancy?		
+NBU13S011	1	13	(ビールを飲みに行こう)	Let's go for a pint.		
+NBU13S012	1	13	(毎週金曜日は行きつけのパブに行く)	I go to my local on Fridays.		
+NBU13S013	1	13	(このあたりに観光客も楽しめるパブはありますか)	Is there a pub around here that tourists can also enjoy?		
+NBU13S014	1	13	(私がお酒を買って来る番だね)	It's my round.		
+NBU13S015	1	13	(ロンはバーでお酒を出しているバーメイドが好きだ)	Ron fancies the barmaid serving at the bar.		
+NBU13S016	1	13	(このラガー、おいしくないね。完全に気が抜けているよ)	This lager tastes bad. It's totally flat.		
+NBU13S017	1	13	今夜はちょっと飲もうかな。	I'Il probably have a little tipple tonight.		
+NBU13S018	1	13	日に日に英語が上達している。	I'm improving my English day by day.		
+NBU13S019	1	13	ジョンとケイトは公園を並んで歩いていた。	John and Kate were walking side by side in the park.		
+NBU13S020	1	13	後半戦は僅差だった。	The second half was neck and neck.		
+NBU13S021	1	13	君、Tシャツを後ろ前に着ているよ。	You're wearing your T-shirt back to front.		
+NBU13S022	1	13	パリにはだいたい1週間ぐらいステイします。	"I'll stay in Paris for a week, more or less."		
+NBU13S023	1	13	本棚の本が逆さまになっているのがイヤなんだ。	I don't like the books kept upside down on the shelf.		
