@@ -1297,541 +1297,541 @@ PS20U13S097	1	13	私はめったにテレビを見ない。	I seldom watch TV.
 PS20U13S098	1	13	率直に話す	speak frankly		
 PS20U13S099	1	13	招待されない限り，私はそのパーティーには行かない。	I won’t go to the party unless I’m invited.		
 PS20U13S100	1	13	海のそばの町	a town beside the sea		
-PS20U14S001	1	14	研究者たちによれば，インドでの彼らの発?は，その答えになるかもしれない。	"According to the researchers, their discovery in India may be the answer."		
-PS20U14S002	1	14	彼は世界中に?分のアイデアを広めるために会社を設?した。	He founded a company in order to spread his idea to the world.		
-PS20U14S003	1	14	私たちは秋にいくらかの学校?事がある。	We have a number of school events in fall.		
+PS20U14S001	1	14	研究者たちによれば，インドでの彼らの発見は，その答えになるかもしれない。	"According to the researchers, their discovery in India may be the answer."		
+PS20U14S002	1	14	彼は世界中に自分のアイデアを広めるために会社を設立した。	He founded a company in order to spread his idea to the world.		
+PS20U14S003	1	14	私たちは秋にいくらかの学校行事がある。	We have a number of school events in fall.		
 PS20U14S004	1	14	新しいシステムは便利だが，犯罪につながりうる。	"The new system is convenient, but it can lead to crimes."		
-PS20U14S005	1	14	研究者たちはエイズの治療法発?に取り組んできた。	Researchers have been working on finding a cure for AIDS.		
-PS20U14S006	1	14	世界には飢えに苦しんでいる?が多くいる。	There are many people suffering from hunger in the world.		
+PS20U14S005	1	14	研究者たちはエイズの治療法発見に取り組んできた。	Researchers have been working on finding a cure for AIDS.		
+PS20U14S006	1	14	世界には飢えに苦しんでいる人が多くいる。	There are many people suffering from hunger in the world.		
 PS20U14S007	1	14	私たちはその事故の原因を知る必要がある。	We need to find out the cause of the accident.		
-PS20U14S008	1	14	彼はレポートに関して先?に助けを求めた。	He asked his teacher for help with his report.		
-PS20U14S009	1	14	その送別会で私たちが?べたケーキや飲み物は全て上司のおごりだった。	All the cakes and drinks we had at the farewell party were on our boss.		
-PS20U14S010	1	14	私たちは旅?に出かける代わりに家にいることにした。	We decided to stay home instead of going on a trip.		
-PS20U14S011	1	14	?徒たちは?化祭のために巨?なステージを設置した。	Students set up a huge stage for their school festival.		
-PS20U14S012	1	14	彼?は顧客サービスを改善するための良いアイデアを思いついた。	She came up with a good idea for improving customer service.		
-PS20U14S013	1	14	私は昨?は特に何もしていなかった。	I wasn’t doing anything in particular yesterday.		
-PS20U14S014	1	14	祖?が駅に私を迎えに来た。	My grandmother picked me up at the station.		
-PS20U14S015	1	14	その教授はとても早?で話すので多くの?徒が彼?の?っていることを理解できない。	The professor speaks so fast that many students cannot understand her.		
-PS20U14S016	1	14	その記事の?字はあまりに?さいので読めない。	The letters in the article are too small to read.		
-PS20U14S017	1	14	彼はフィンランドで景?を楽しみ，彼らの独特な伝統にもまた引き付けられた。	"He enjoyed the scenery in Finland, and he was attracted to their unique traditions as well. "		
+PS20U14S008	1	14	彼はレポートに関して先生に助けを求めた。	He asked his teacher for help with his report.		
+PS20U14S009	1	14	その送別会で私たちが食べたケーキや飲み物は全て上司のおごりだった。	All the cakes and drinks we had at the farewell party were on our boss.		
+PS20U14S010	1	14	私たちは旅行に出かける代わりに家にいることにした。	We decided to stay home instead of going on a trip.		
+PS20U14S011	1	14	生徒たちは文化祭のために巨大なステージを設置した。	Students set up a huge stage for their school festival.		
+PS20U14S012	1	14	彼女は顧客サービスを改善するための良いアイデアを思いついた。	She came up with a good idea for improving customer service.		
+PS20U14S013	1	14	私は昨日は特に何もしていなかった。	I wasn’t doing anything in particular yesterday.		
+PS20U14S014	1	14	祖母が駅に私を迎えに来た。	My grandmother picked me up at the station.		
+PS20U14S015	1	14	その教授はとても早口で話すので多くの生徒が彼女の言っていることを理解できない。	The professor speaks so fast that many students cannot understand her.		
+PS20U14S016	1	14	その記事の文字はあまりに小さいので読めない。	The letters in the article are too small to read.		
+PS20U14S017	1	14	彼はフィンランドで景色を楽しみ，彼らの独特な伝統にもまた引き付けられた。	"He enjoyed the scenery in Finland, and he was attracted to their unique traditions as well. "		
 PS20U14S018	1	14	私たちは直ちにその問題を処理しなければならない。	We have to deal with the problem immediately.		
 PS20U14S019	1	14	そのシャツは 100％綿から作られている。	The shirts are made from 100% cotton.		
-PS20U14S020	1	14	外国?は?本の電?がいつも時間通りに到着することに驚く。	Foreign people are surprised that trains in Japan always arrive on time. 		
-PS20U14S021	1	14	その学校は?堂で学?に昼?を提供する。	The school provides students with lunch in the cafeteria.		
+PS20U14S020	1	14	外国人は日本の電車がいつも時間通りに到着することに驚く。	Foreign people are surprised that trains in Japan always arrive on time. 		
+PS20U14S021	1	14	その学校は食堂で学生に昼食を提供する。	The school provides students with lunch in the cafeteria.		
 PS20U14S022	1	14	駅までは少なくとも 30分かかる。	It takes at least 30 minutes to get to the station.		
-PS20U14S023	1	14	夜に外に出る動物は夜?性動物と呼ばれる。	Animals that come out at night are called nocturnal animals. 		
-PS20U14S024	1	14	先?たちは?どもにもっと多くの本を読むよう促す努?をしている。	The teachers try to encourage children to read more books.		
-PS20U14S025	1	14	先?は私たちに明?までにレポートを提出する必要があると?った。	Our teacher has told us that we need to hand in our report by tomorrow.		
-PS20U14S026	1	14	彼は?銭的な困難に直?したが，他?では，そのことから多くのことを学んだ。	"He faced financial difficulties, but on the other hand, he learned a lot from them."		
-PS20U14S027	1	14	私はさまざまな海外の?類を売っているオンラインショップを?つけた。	I found an online shop that sells a variety of clothes from abroad.		
-PS20U14S028	1	14	その?説は実話に基づいている。	The novel is based on a true story.		
-PS20U14S029	1	14	あなたはこの?紙に記?して，私に返送する必要がある。	You need to fill out this form and send it back to me.		
+PS20U14S023	1	14	夜に外に出る動物は夜行性動物と呼ばれる。	Animals that come out at night are called nocturnal animals. 		
+PS20U14S024	1	14	先生たちは子どもにもっと多くの本を読むよう促す努力をしている。	The teachers try to encourage children to read more books.		
+PS20U14S025	1	14	先生は私たちに明日までにレポートを提出する必要があると言った。	Our teacher has told us that we need to hand in our report by tomorrow.		
+PS20U14S026	1	14	彼は金銭的な困難に直面したが，他方では，そのことから多くのことを学んだ。	"He faced financial difficulties, but on the other hand, he learned a lot from them."		
+PS20U14S027	1	14	私はさまざまな海外の衣類を売っているオンラインショップを見つけた。	I found an online shop that sells a variety of clothes from abroad.		
+PS20U14S028	1	14	その小説は実話に基づいている。	The novel is based on a true story.		
+PS20U14S029	1	14	あなたはこの用紙に記入して，私に返送する必要がある。	You need to fill out this form and send it back to me.		
 PS20U14S030	1	14	私は地元の祭りに参加した。	I took part in the local festival.		
 PS20U14S031	1	14	この計画を続けるかどうかは君次第だ。	It’s up to you whether we go ahead with this plan or not.		
-PS20U14S032	1	14	その製品に関する苦情のほとんどは，製品?体よりむしろ包装についてであった。	Most of the complaints about the product were about the package rather than the product itself.		
-PS20U14S033	1	14	あなたの考えは私の考えと似ているが，あなたの考えの?が良いと思う。	"Your idea is similar to mine, but I think yours is better."		
-PS20U14S034	1	14	電話の?が彼?を現実に引き戻した。	The ringing of the telephone brought her back to reality.		
-PS20U14S035	1	14	私は彼が何を?おうとしているのかを理解できない。	I can’t figure out what he is trying to say.		
-PS20U14S036	1	14	私は新聞で偶然彼の写真を?にした。	I happened to see a picture of him in the newspaper.		
-PS20U14S037	1	14	他?に優しくしなさい，まして家族にはなおさらのことだ。	"You should be kind to other people, much more to your own family."		
-PS20U14S038	1	14	現代の??機の速さは，もはや?旅をする必要はないことを意味する。	The speed of modern aircraft means we no longer have to take long journeys.		
-PS20U14S039	1	14	たくさんの野菜を?べることであなたが?邪をひくのを防ぐことができる。	Eating lots of vegetables can prevent you from catching a cold.		
-PS20U14S040	1	14	"私は今年これまでに 1,000ドル貯?している。"	"I have saved 1,000 dollars so far this year. "		
-PS20U14S041	1	14	たばこの煙は喫煙者だけでなく?喫煙者にも害がある。	Cigarette smoke is harmful to nonsmokers as well as smokers.		
-PS20U14S042	1	14	彼らはできるだけ早く私の注?品を送るだろう。	They’ll send my order as soon as possible.		
-PS20U14S043	1	14	私は誤って塩の代わりに砂糖を?れたかもしれない。	I might have put in sugar instead of salt by mistake. 		
+PS20U14S032	1	14	その製品に関する苦情のほとんどは，製品自体よりむしろ包装についてであった。	Most of the complaints about the product were about the package rather than the product itself.		
+PS20U14S033	1	14	あなたの考えは私の考えと似ているが，あなたの考えの方が良いと思う。	"Your idea is similar to mine, but I think yours is better."		
+PS20U14S034	1	14	電話の音が彼女を現実に引き戻した。	The ringing of the telephone brought her back to reality.		
+PS20U14S035	1	14	私は彼が何を言おうとしているのかを理解できない。	I can’t figure out what he is trying to say.		
+PS20U14S036	1	14	私は新聞で偶然彼の写真を目にした。	I happened to see a picture of him in the newspaper.		
+PS20U14S037	1	14	他人に優しくしなさい，まして家族にはなおさらのことだ。	"You should be kind to other people, much more to your own family."		
+PS20U14S038	1	14	現代の飛行機の速さは，もはや長旅をする必要はないことを意味する。	The speed of modern aircraft means we no longer have to take long journeys.		
+PS20U14S039	1	14	たくさんの野菜を食べることであなたが風邪をひくのを防ぐことができる。	Eating lots of vegetables can prevent you from catching a cold.		
+PS20U14S040	1	14	"私は今年これまでに 1,000ドル貯金している。"	"I have saved 1,000 dollars so far this year. "		
+PS20U14S041	1	14	たばこの煙は喫煙者だけでなく非喫煙者にも害がある。	Cigarette smoke is harmful to nonsmokers as well as smokers.		
+PS20U14S042	1	14	彼らはできるだけ早く私の注文品を送るだろう。	They’ll send my order as soon as possible.		
+PS20U14S043	1	14	私は誤って塩の代わりに砂糖を入れたかもしれない。	I might have put in sugar instead of salt by mistake. 		
 PS20U14S044	1	14	それはあなたがどんな仕事に興味があるかによる。	It depends on what kind of job you’re interested in.		
-PS20U14S045	1	14	多くの国に?ちはだかっている?きな問題とは，いかに海のゴミを取り除くかということだ。	A major problem facing many countries is how to get rid of garbage in the ocean.		
-PS20U14S046	1	14	このオンラインサービスはあなたが時間とお?を節約するのに役?つ。	This online service helps you to save time and money.		
+PS20U14S045	1	14	多くの国に立ちはだかっている大きな問題とは，いかに海のゴミを取り除くかということだ。	A major problem facing many countries is how to get rid of garbage in the ocean.		
+PS20U14S046	1	14	このオンラインサービスはあなたが時間とお金を節約するのに役立つ。	This online service helps you to save time and money.		
 PS20U14S047	1	14	あなたは出るときに必ず全てのコンピューターの電源が切れているようにする必要がある。	You need to make sure that all the computers are off when you leave.		
-PS20U14S048	1	14	彼?は?々にその写真がよく?えるように，それを拡?した。	She enlarged the picture so that people can see it well.		
-PS20U14S049	1	14	ファストフードは多くの?々を引き付けるほど?分おいしくて安い。	Fast food is tasty and cheap enough to attract many people.		
-PS20U14S050	1	14	何?かの芸術家の作品が彼らの署名と?緒に展?されている。	Some artists’ works are displayed along with their signatures.		
+PS20U14S048	1	14	彼女は人々にその写真がよく見えるように，それを拡大した。	She enlarged the picture so that people can see it well.		
+PS20U14S049	1	14	ファストフードは多くの人々を引き付けるほど十分おいしくて安い。	Fast food is tasty and cheap enough to attract many people.		
+PS20U14S050	1	14	何人かの芸術家の作品が彼らの署名と一緒に展示されている。	Some artists’ works are displayed along with their signatures.		
 PS20U14S051	1	14	私は校則が新しく変わったことに気づいていなかった。	I was not aware of any new changes to the school rules. 		
-PS20U14S052	1	14	近ごろは多くの?が地球の環境問題を?配している。	"These days, many people are concerned about global environmental problems."		
-PS20U14S053	1	14	商品の売れ?きはいつもその価値に関連しているわけではない。	The sales of a product are not always related to its value.		
-PS20U14S054	1	14	私たちは準備ができ次第その計画を実?するつもりだ。	We will carry out the plan as soon as we are ready.		
+PS20U14S052	1	14	近ごろは多くの人が地球の環境問題を心配している。	"These days, many people are concerned about global environmental problems."		
+PS20U14S053	1	14	商品の売れ行きはいつもその価値に関連しているわけではない。	The sales of a product are not always related to its value.		
+PS20U14S054	1	14	私たちは準備ができ次第その計画を実行するつもりだ。	We will carry out the plan as soon as we are ready.		
 PS20U14S055	1	14	私の姉［妹］はすぐに新しい環境に慣れることができる。	My sister can get used to a new environment quickly.		
-PS20U14S056	1	14	昨?，私はあなたのレポートを?た。	I had a look at your report yesterday.		
+PS20U14S056	1	14	昨日，私はあなたのレポートを見た。	I had a look at your report yesterday.		
 PS20U14S057	1	14	必ず道具はあるべき場所に置くようにしなさい。	Make sure that the tools are in place.		
-PS20U14S058	1	14	"彼?は?にたった 1,000ドルの収?で?活している。"	"She lives on just 1,000 dollars a month."		
-PS20U14S059	1	14	?常に有名なバンドだったが，彼?は何とかしてコンサートのチケットを?に?れた。	"The band was very famous, but she managed to get a concert ticket."		
+PS20U14S058	1	14	"彼女は月にたった 1,000ドルの収入で生活している。"	"She lives on just 1,000 dollars a month."		
+PS20U14S059	1	14	非常に有名なバンドだったが，彼女は何とかしてコンサートのチケットを手に入れた。	"The band was very famous, but she managed to get a concert ticket."		
 PS20U14S060	1	14	彼はこの契約を得ることにおいてとても重要な役割を果たした。	He played a very important role in getting this contract.		
-PS20U14S061	1	14	私はレストランで?べるより家で料理をすることの?を好む。	I prefer cooking at home to eating at a restaurant.		
-PS20U14S062	1	14	その試験??は失敗に終わった。	The trial flight resulted in failure.		
-PS20U14S063	1	14	今?の?々は簡単に物を捨て過ぎると?う?々もいる。	Some say that people today throw away things too easily.		
+PS20U14S061	1	14	私はレストランで食べるより家で料理をすることの方を好む。	I prefer cooking at home to eating at a restaurant.		
+PS20U14S062	1	14	その試験飛行は失敗に終わった。	The trial flight resulted in failure.		
+PS20U14S063	1	14	今日の人々は簡単に物を捨て過ぎると言う人々もいる。	Some say that people today throw away things too easily.		
 PS20U14S064	1	14	彼らはその古い建物をアートギャラリーに変えた。	They turned the old building into an art gallery.		
-PS20U14S065	1	14	私は劇場を出た後にスマートフォンの電源を?れた。	I turned on my smartphone after leaving the theater.		
-PS20U14S066	1	14	私は全ての材料を鍋に?れて， 2，3分煮た。	I put all the ingredients in the pot and boiled them for a couple of minutes.		
-PS20U14S067	1	14	??懸命勉強する限り，あなたは試験に合格するだろう。	You will pass the exam as long as you study hard.		
+PS20U14S065	1	14	私は劇場を出た後にスマートフォンの電源を入れた。	I turned on my smartphone after leaving the theater.		
+PS20U14S066	1	14	私は全ての材料を鍋に入れて， 2，3分煮た。	I put all the ingredients in the pot and boiled them for a couple of minutes.		
+PS20U14S067	1	14	一生懸命勉強する限り，あなたは試験に合格するだろう。	You will pass the exam as long as you study hard.		
 PS20U14S068	1	14	この新しいコンピューターはとても素早く画像を処理することができる。	This new computer is capable of processing images very fast. 		
 PS20U14S069	1	14	それは私がボランティア活動に参加する初めての機会になる。	It will be my first time to be involved in volunteer activities.		
 PS20U14S070	1	14	腕時計を数週間前に直してもらったが，また故障してしまった。	"I had my watch fixed a few weeks ago, but it has broken down again."		
 PS20U14S071	1	14	私たちは週末までに報告書を仕上げなければならない。	We have to finish a report by the end of the week.		
-PS20U14S072	1	14	夫婦は旅費と?費を減らすことに同意した。	The couple agreed to cut down on their expenses for travel and meals.		
-PS20U14S073	1	14	その?は?信号を?り抜け，最後には別の?に衝突することになった。	The car ran through a red light and ended up hitting another car.		
-PS20U14S074	1	14	彼?は?齢者により良い社会を作る?法を?つけた。	She found a way to make a better society for elderly people.		
-PS20U14S075	1	14	彼はしばらくの間沈黙を保ち，それから?きなため息をついた。	He kept silent for a while and then gave a big sigh.		
-PS20U14S076	1	14	彼は常に最善を尽くすよう努?し，最後には彼の事業は成功した。	"He always tried to do his best, and in the end, his business succeeded."		
+PS20U14S072	1	14	夫婦は旅費と食費を減らすことに同意した。	The couple agreed to cut down on their expenses for travel and meals.		
+PS20U14S073	1	14	その車は赤信号を走り抜け，最後には別の車に衝突することになった。	The car ran through a red light and ended up hitting another car.		
+PS20U14S074	1	14	彼女は高齢者により良い社会を作る方法を見つけた。	She found a way to make a better society for elderly people.		
+PS20U14S075	1	14	彼はしばらくの間沈黙を保ち，それから大きなため息をついた。	He kept silent for a while and then gave a big sigh.		
+PS20U14S076	1	14	彼は常に最善を尽くすよう努力し，最後には彼の事業は成功した。	"He always tried to do his best, and in the end, his business succeeded."		
 PS20U14S077	1	14	私は，辞書で新しい単語を調べなければならないことがよくある。	I often have to look up new words in the dictionary.		
 PS20U14S078	1	14	私は国際企業を経営しているおじを尊敬している。	I look up to my uncle who runs an international company.		
 PS20U14S079	1	14	コンピューターゲームをするのは彼の趣味ではなく彼の仕事だ。	Playing computer games is not his hobby but his job. 		
-PS20U14S080	1	14	市?は成功したイベントの?例として夏祭りに?及した。	The mayor referred to the Summer Festival as an example of a successful event.		
+PS20U14S080	1	14	市長は成功したイベントの一例として夏祭りに言及した。	The mayor referred to the Summer Festival as an example of a successful event.		
 PS20U14S081	1	14	チケットは全て売り切れている。	All the tickets are sold out.		
-PS20U14S082	1	14	私はシカゴに?く途中で旧友の家に?ち寄った。	I stopped by my old friend’s place on my way to Chicago. 		
-PS20U14S083	1	14	その先?は?徒たちに効果的にメモを取る?法を教えた。	The teacher taught his students how to take notes effectively.		
-PS20U14S084	1	14	毎年恒例の?の祭典が 10?にこの公園で?われる予定だ。	An annual food festival will take place in this park in October.		
-PS20U14S085	1	14	結局私はイベントへ?かないことに決めた。	I decided not to go to the event after all. 		
-PS20U14S086	1	14	私は最後の駅までずっと電?の中で?っていなければならなかった。	I had to stand on the train all the way to the last station.		
-PS20U14S087	1	14	この仕事に申し込むには，この?紙に記?する必要がある。	"In order to apply for this job, I need to fill out this form."		
-PS20U14S088	1	14	彼はまるで夢を?ているように感じた。	He felt as if he was dreaming. 		
-PS20U14S089	1	14	?度に複数のことに集中するのは難しい。	It’s difficult to focus on more than one thing at a time.		
+PS20U14S082	1	14	私はシカゴに行く途中で旧友の家に立ち寄った。	I stopped by my old friend’s place on my way to Chicago. 		
+PS20U14S083	1	14	その先生は生徒たちに効果的にメモを取る方法を教えた。	The teacher taught his students how to take notes effectively.		
+PS20U14S084	1	14	毎年恒例の食の祭典が 10月にこの公園で行われる予定だ。	An annual food festival will take place in this park in October.		
+PS20U14S085	1	14	結局私はイベントへ行かないことに決めた。	I decided not to go to the event after all. 		
+PS20U14S086	1	14	私は最後の駅までずっと電車の中で立っていなければならなかった。	I had to stand on the train all the way to the last station.		
+PS20U14S087	1	14	この仕事に申し込むには，この用紙に記入する必要がある。	"In order to apply for this job, I need to fill out this form."		
+PS20U14S088	1	14	彼はまるで夢を見ているように感じた。	He felt as if he was dreaming. 		
+PS20U14S089	1	14	一度に複数のことに集中するのは難しい。	It’s difficult to focus on more than one thing at a time.		
 PS20U14S090	1	14	電話が鳴ったとき，私は家を出ようとしていた。	I was about to leave home when the phone rang.		
 PS20U14S091	1	14	これらのノートは古紙でできている。	These notebooks are made out of waste paper. 		
 PS20U14S092	1	14	彼はニューヨークの冬の寒さに慣れた。	He has become accustomed to the winter cold in New York.		
-PS20U14S093	1	14	彼は良い指導者なので，あなたはすぐに上?にスケートができるようになるだろう。	"He is a good instructor, so before long you will be able to skate well."		
-PS20U14S094	1	14	?徒は学校にスマートフォンを持ち込んでもよい。	Students can bring in their smartphones to our school.		
-PS20U14S095	1	14	私は偶然，電?で?校の同級?に会った。	I met my high school classmate on the train by accident.		
+PS20U14S093	1	14	彼は良い指導者なので，あなたはすぐに上手にスケートができるようになるだろう。	"He is a good instructor, so before long you will be able to skate well."		
+PS20U14S094	1	14	生徒は学校にスマートフォンを持ち込んでもよい。	Students can bring in their smartphones to our school.		
+PS20U14S095	1	14	私は偶然，電車で高校の同級生に会った。	I met my high school classmate on the train by accident.		
 PS20U14S096	1	14	私たちが野球場に着くときまでに試合は終わっているだろう。	The game will be over by the time we arrive at the baseball stadium.		
-PS20U14S097	1	14	私たちは急いで搭乗?続きをした?がいい，でないと??機に乗り遅れてしまうだろう。	"We had better check in quickly, or we’ll miss the flight."		
-PS20U14S098	1	14	私はこの本の中で美しい詩を偶然?つけた。	I came across a beautiful poem in this book.		
+PS20U14S097	1	14	私たちは急いで搭乗手続きをした方がいい，でないと飛行機に乗り遅れてしまうだろう。	"We had better check in quickly, or we’ll miss the flight."		
+PS20U14S098	1	14	私はこの本の中で美しい詩を偶然見つけた。	I came across a beautiful poem in this book.		
 PS20U14S099	1	14	その委員会は学校の各クラブの代表者で構成されている。	The committee consists of representatives from each club in the school.		
-PS20U14S100	1	14	??機の出発が遅れたのは，その地域の猛吹雪のためであった。	The delay in the flight’s departure was due to a severe snowstorm in the area.		
-PS20U15S001	1	15	いくつかのスペルミスを除いてその?論?は素晴らしかった。	The essay was great except for a few mistakes in spelling.		
-PS20U15S002	1	15	このスカートをもっと?きいサイズのものと交換したい。	I’d like to exchange this skirt for one in a larger size.		
-PS20U15S003	1	15	?が降っているとき，私はサッカーをしたい気がしない。	I don’t feel like playing soccer when it’s raining.		
-PS20U15S004	1	15	彼は?さを恐れてその橋を渡ることができなかった。	He couldn’t cross the bridge for fear of heights.		
-PS20U15S005	1	15	私の兄［弟］はそこに?い間滞在するつもりはない。	My brother is not going to stay there for long.		
-PS20U15S006	1	15	私が数冊の重い本を運ぼうとしていると，姉［妹］が私を?助けしてくれた。	My sister gave me a hand when I was trying to carry some heavy books.		
-PS20U15S007	1	15	彼?は?親の要求に屈して?学に?った。	She gave in to her father’s request and went to college.		
+PS20U14S100	1	14	飛行機の出発が遅れたのは，その地域の猛吹雪のためであった。	The delay in the flight’s departure was due to a severe snowstorm in the area.		
+PS20U15S001	1	15	いくつかのスペルミスを除いてその小論文は素晴らしかった。	The essay was great except for a few mistakes in spelling.		
+PS20U15S002	1	15	このスカートをもっと大きいサイズのものと交換したい。	I’d like to exchange this skirt for one in a larger size.		
+PS20U15S003	1	15	雨が降っているとき，私はサッカーをしたい気がしない。	I don’t feel like playing soccer when it’s raining.		
+PS20U15S004	1	15	彼は高さを恐れてその橋を渡ることができなかった。	He couldn’t cross the bridge for fear of heights.		
+PS20U15S005	1	15	私の兄［弟］はそこに長い間滞在するつもりはない。	My brother is not going to stay there for long.		
+PS20U15S006	1	15	私が数冊の重い本を運ぼうとしていると，姉［妹］が私を手助けしてくれた。	My sister gave me a hand when I was trying to carry some heavy books.		
+PS20U15S007	1	15	彼女は父親の要求に屈して大学に行った。	She gave in to her father’s request and went to college.		
 PS20U15S008	1	15	彼はその契約書の細部を詳しく説明した。	He went into the details of the contract.		
-PS20U15S009	1	15	あの帽?は君のシャツと合う。	That hat goes with your shirt.		
-PS20U15S010	1	15	私たちはまず専?家に助?を求めた?がいいと思う。	I think we had better ask an expert for advice first.		
+PS20U15S009	1	15	あの帽子は君のシャツと合う。	That hat goes with your shirt.		
+PS20U15S010	1	15	私たちはまず専門家に助言を求めた方がいいと思う。	I think we had better ask an expert for advice first.		
 PS20U15S011	1	15	仮に彼が遅れるようなことがあれば，私は彼を待たないだろう。	"If he were to be late, I would not wait for him."		
 PS20U15S012	1	15	彼は頭が良いのに加えて，優れたスポーツマンである。	"In addition to being intelligent, he is a good athlete."		
-PS20U15S013	1	15	彼?が全ての学校?事のスケジュールを管理している。	She is in charge of the schedule of all school events.		
-PS20U15S014	1	15	このプリンターはあまりインクを使わない。?い換えれば，より効率的だ。	"This printer doesn’t use much ink. In other words, it’s more efficient."		
+PS20U15S013	1	15	彼女が全ての学校行事のスケジュールを管理している。	She is in charge of the schedule of all school events.		
+PS20U15S014	1	15	このプリンターはあまりインクを使わない。言い換えれば，より効率的だ。	"This printer doesn’t use much ink. In other words, it’s more efficient."		
 PS20U15S015	1	15	彼らは海外からの要求に応えて英語のオンラインカタログを作った。	They made an online catalog in English in response to demand from abroad.		
-PS20U15S016	1	15	私はお返しに彼?にささやかな贈り物をしようと考えている。	I’m thinking of giving her a small gift in return.		
-PS20U15S017	1	15	私が困っているとき，彼?はいつも私に良い助?をしてくれる。	She always gives me good advice when I’m in trouble. 		
-PS20U15S018	1	15	その会社は製品の値段を下げた。これが，その結果，ばく?な売り上げを?み出した。	"The company lowered the price of their products. This, in turn, generated huge sales."		
+PS20U15S016	1	15	私はお返しに彼女にささやかな贈り物をしようと考えている。	I’m thinking of giving her a small gift in return.		
+PS20U15S017	1	15	私が困っているとき，彼女はいつも私に良い助言をしてくれる。	She always gives me good advice when I’m in trouble. 		
+PS20U15S018	1	15	その会社は製品の値段を下げた。これが，その結果，ばく大な売り上げを生み出した。	"The company lowered the price of their products. This, in turn, generated huge sales."		
 PS20U15S019	1	15	私は契約書で間違いを犯した。	I made a mistake on the contract.		
 PS20U15S020	1	15	私は会社を代表してそのミーティングに参加した。	I attended the meeting on behalf of the company.		
-PS20U15S021	1	15	??のセーターは在庫切れだ。	The red sweater is out of stock.		
-PS20U15S022	1	15	運転?が信号に全く注意を払わなかったために，その交通事故が起きた。	The traffic accident happened because the driver paid no attention to the traffic light.		
+PS20U15S021	1	15	赤色のセーターは在庫切れだ。	The red sweater is out of stock.		
+PS20U15S022	1	15	運転手が信号に全く注意を払わなかったために，その交通事故が起きた。	The traffic accident happened because the driver paid no attention to the traffic light.		
 PS20U15S023	1	15	彼の両親は彼を留学をあきらめるように説得した。	His parents persuaded him to give up studying abroad. 		
-PS20U15S024	1	15	速読の重要性を指摘する教育専?家もいる。	Some educational experts point out the importance of fast reading.		
-PS20U15S025	1	15	私は医学的助?を求めて医師を頼った。	I relied on my doctor for medical advice.		
-PS20U15S026	1	15	彼?は紙を使い果たしたので，友?に何枚か求めた。	"She ran out of paper, so she asked her friends for some. "		
-PS20U15S027	1	15	彼?は放課後のダンスレッスンに申し込んだ。	She signed up for a dance lesson after school.		
+PS20U15S024	1	15	速読の重要性を指摘する教育専門家もいる。	Some educational experts point out the importance of fast reading.		
+PS20U15S025	1	15	私は医学的助言を求めて医師を頼った。	I relied on my doctor for medical advice.		
+PS20U15S026	1	15	彼女は紙を使い果たしたので，友人に何枚か求めた。	"She ran out of paper, so she asked her friends for some. "		
+PS20U15S027	1	15	彼女は放課後のダンスレッスンに申し込んだ。	She signed up for a dance lesson after school.		
 PS20U15S028	1	15	もしその運動の計画をやり通せば，必ず体重は減る。	"If you stick to the exercise plan, you’re sure to lose weight."		
-PS20U15S029	1	15	ウェイターが空いた?を下げに来た。	The waiter came to take away the empty plates.		
+PS20U15S029	1	15	ウェイターが空いた皿を下げに来た。	The waiter came to take away the empty plates.		
 PS20U15S030	1	15	彼の優しさを当然のことと考えるべきではない。	You shouldn’t take his kindness for granted.		
-PS20U15S031	1	15	?々はよく考えずに多くの?を使いがちである。	People tend to use a lot of water without thinking.		
-PS20U15S032	1	15	私は?曜?までにこの報告書を提出しなければならない。	I have to turn in this report by Wednesday.		
+PS20U15S031	1	15	人々はよく考えずに多くの水を使いがちである。	People tend to use a lot of water without thinking.		
+PS20U15S032	1	15	私は水曜日までにこの報告書を提出しなければならない。	I have to turn in this report by Wednesday.		
 PS20U15S033	1	15	私はむしろ家にいてのんびりしたい。	I would rather stay home and relax.		
-PS20U15S034	1	15	昨夜はたくさんの?が私の誕??パーティーに来た。	A bunch of people came to my birthday party last night.		
+PS20U15S034	1	15	昨夜はたくさんの人が私の誕生日パーティーに来た。	A bunch of people came to my birthday party last night.		
 PS20U15S035	1	15	その店はさまざまな商品を販売している。	The store sells a wide range of goods.		
-PS20U15S036	1	15	その??機は予定より 30分早く空港に到着した。	The plane arrived at the airport 30 minutes ahead of schedule.		
-PS20U15S037	1	15	私たちの学校は?徒が?転?で通学することを許可している。	Our school allows students to commute by bike.		
+PS20U15S036	1	15	その飛行機は予定より 30分早く空港に到着した。	The plane arrived at the airport 30 minutes ahead of schedule.		
+PS20U15S037	1	15	私たちの学校は生徒が自転車で通学することを許可している。	Our school allows students to commute by bike.		
 PS20U15S038	1	15	私のおじは古い家具や古着などを売っている。	"My uncle sells old furniture, secondhand clothes, and so on."		
-PS20U15S039	1	15	私たちが注?したい品は次の通りだ。	The items we would like to order are as follows.		
-PS20U15S040	1	15	彼?は今，外出中だ。	She is out at the moment.		
-PS20U15S041	1	15	実際，私はそれほど世界の政治に関?があるわけではない。	"In fact, I’m not so concerned with world politics."		
-PS20U15S042	1	15	親は放課後に?どもの?倒を?る責任がある。	Parents are responsible for taking care of their children after school.		
-PS20U15S043	1	15	これは世界で?番?い塔だと?われている。	This is said to be the tallest tower in the world.		
-PS20U15S044	1	15	多くの客が彼らのサービスに満?している。	Many customers are satisfied with their service.		
-PS20U15S045	1	15	彼は妻が陰で彼に関する不満を?っていたことを知った。	He found out that his wife had been complaining about him behind his back.		
-PS20U15S046	1	15	彼?は私たちのクラスで?るのがずば抜けて速い。	She is by far the fastest runner in our class.		
-PS20U15S047	1	15	私はパリ経由でロンドンに?く予定だ。	I’m going to London by way of Paris.		
-PS20U15S048	1	15	?部の国では，?料?産が??の増加に追いついていない。	"In some countries, food production has not caught up with population growth."		
-PS20U15S049	1	15	彼?は気が変わって，約束を取り消した。	She changed her mind and canceled the appointment.		
-PS20U15S050	1	15	年を取るにつれて，彼?は健康の重要性を理解するようになった。	"As she got older, she came to understand the importance of health. "		
-PS20U15S051	1	15	彼の助?は，私の息?をほかの?どもと?べるべきではないというものだった。	His advice was that I should not compare my son with other children.		
-PS20U15S052	1	15	?は勉強や仕事に集中することを助けうる?であると?う?もいる。	Some people say that blue is the color that can help you concentrate on your study or work.		
+PS20U15S039	1	15	私たちが注文したい品は次の通りだ。	The items we would like to order are as follows.		
+PS20U15S040	1	15	彼女は今，外出中だ。	She is out at the moment.		
+PS20U15S041	1	15	実際，私はそれほど世界の政治に関心があるわけではない。	"In fact, I’m not so concerned with world politics."		
+PS20U15S042	1	15	親は放課後に子どもの面倒を見る責任がある。	Parents are responsible for taking care of their children after school.		
+PS20U15S043	1	15	これは世界で一番高い塔だと言われている。	This is said to be the tallest tower in the world.		
+PS20U15S044	1	15	多くの客が彼らのサービスに満足している。	Many customers are satisfied with their service.		
+PS20U15S045	1	15	彼は妻が陰で彼に関する不満を言っていたことを知った。	He found out that his wife had been complaining about him behind his back.		
+PS20U15S046	1	15	彼女は私たちのクラスで走るのがずば抜けて速い。	She is by far the fastest runner in our class.		
+PS20U15S047	1	15	私はパリ経由でロンドンに行く予定だ。	I’m going to London by way of Paris.		
+PS20U15S048	1	15	一部の国では，食料生産が人口の増加に追いついていない。	"In some countries, food production has not caught up with population growth."		
+PS20U15S049	1	15	彼女は気が変わって，約束を取り消した。	She changed her mind and canceled the appointment.		
+PS20U15S050	1	15	年を取るにつれて，彼女は健康の重要性を理解するようになった。	"As she got older, she came to understand the importance of health. "		
+PS20U15S051	1	15	彼の助言は，私の息子をほかの子どもと比べるべきではないというものだった。	His advice was that I should not compare my son with other children.		
+PS20U15S052	1	15	青は勉強や仕事に集中することを助けうる色であると言う人もいる。	Some people say that blue is the color that can help you concentrate on your study or work.		
 PS20U15S053	1	15	午後 3時までに報告書を完成させられるかい?君を当てにしているよ。	Can you finish your report by 3 p.m.? I’m counting on you.		
-PS20U15S054	1	15	なぜ恐?は絶滅したのか。	Why did the dinosaurs die out?		
-PS20U15S055	1	15	私は会社が完全にネクタイを廃?してくれればよいのにと思う。	I wish the company would do away with ties altogether.		
-PS20U15S056	1	15	私は帰宅途中におじのところに?ち寄った。	I dropped in at my uncle’s place on my way home.		
-PS20U15S057	1	15	たとえこの試験に失敗しても，2度?のチャンスがある。	You will have a second chance even if you fail this exam.		
-PS20U15S058	1	15	彼らは?学で出会いそれ以来ずっと友だちだ。	They met in college and have been friends ever since. 		
+PS20U15S054	1	15	なぜ恐竜は絶滅したのか。	Why did the dinosaurs die out?		
+PS20U15S055	1	15	私は会社が完全にネクタイを廃止してくれればよいのにと思う。	I wish the company would do away with ties altogether.		
+PS20U15S056	1	15	私は帰宅途中におじのところに立ち寄った。	I dropped in at my uncle’s place on my way home.		
+PS20U15S057	1	15	たとえこの試験に失敗しても，2度目のチャンスがある。	You will have a second chance even if you fail this exam.		
+PS20U15S058	1	15	彼らは大学で出会いそれ以来ずっと友だちだ。	They met in college and have been friends ever since. 		
 PS20U15S059	1	15	私はどうにか駅にたどり着いた。	I managed to find my way to the station.		
 PS20U15S060	1	15	彼は私の眼鏡を無料で修理した。	He repaired my glasses for free.		
-PS20U15S061	1	15	彼のチームは今?野球の試合に負けたが，それは努?不?のためではなかった。	"His team lost the baseball game today, but it wasn’t for lack of effort."		
+PS20U15S061	1	15	彼のチームは今日野球の試合に負けたが，それは努力不足のためではなかった。	"His team lost the baseball game today, but it wasn’t for lack of effort."		
 PS20U15S062	1	15	間違いなく彼はそのコンテストで優勝するだろう。	He will win the contest for sure.		
-PS20U15S063	1	15	今後はもっと??懸命に勉強するつもりだ。	I’ll try to study harder from now on.		
+PS20U15S063	1	15	今後はもっと一生懸命に勉強するつもりだ。	I’ll try to study harder from now on.		
 PS20U15S064	1	15	私の姉［妹］は新しい友だちとうまくやっているようだ。	My sister seems to be getting along with her new friends.		
-PS20U15S065	1	15	彼?が夫の死から?ち直るのには?い時間がかかった。	It took her a long time to get over the death of her husband.		
-PS20U15S066	1	15	旅?をキャンセルするには，少なくとも 2週間前に旅?代理店に電話するべきだ。	You should call the travel agency at least two weeks in advance to cancel the trip.		
-PS20U15S067	1	15	世界中で多くの?語が消滅の危機にさらされている。	Many languages are in danger of extinction around the world. 		
+PS20U15S065	1	15	彼女が夫の死から立ち直るのには長い時間がかかった。	It took her a long time to get over the death of her husband.		
+PS20U15S066	1	15	旅行をキャンセルするには，少なくとも 2週間前に旅行代理店に電話するべきだ。	You should call the travel agency at least two weeks in advance to cancel the trip.		
+PS20U15S067	1	15	世界中で多くの言語が消滅の危機にさらされている。	Many languages are in danger of extinction around the world. 		
 PS20U15S068	1	15	空調機は夏にとても需要がある。	Air conditioners are greatly in demand in summer.		
-PS20U15S069	1	15	今年はこの?が流?している。	This color is in fashion this year.		
-PS20U15S070	1	15	?般的に?々は空腹時に怒りやすい傾向がある。	"In general, people tend to get angry more easily when they are hungry."		
-PS20U15S071	1	15	彼は若く?えるが，実は 50歳を超えている。	"He looks young, but in reality he is over 50."		
-PS20U15S072	1	15	地元住?の抗議にもかかわらず，そのショッピングセンターは建設が進んでいる。	The shopping center is being built in spite of protests from local residents.		
-PS20U15S073	1	15	最?のパフォーマンスを?せるという観点からは，訓練が最も肝?だ。	"In terms of showing the best performance, training is the most vital. "		
-PS20U15S074	1	15	私はちょうど??に間に合うように到着した。	I arrived just in time for dinner.		
-PS20U15S075	1	15	兄［弟］に 1?で旅?に?くのは危険だと警告したが，無駄だった。	"I warned my brother that it was dangerous to travel alone, but it was in vain."		
-PS20U15S076	1	15	?が降るといけないから私は傘を持っていこうと思う。	I’ll take an umbrella with me just in case it rains. 		
-PS20U15S077	1	15	私は兄［弟］を全く信?できない。彼は決して約束を守らない。	I can’t trust my brother at all. He never keeps his word.		
+PS20U15S069	1	15	今年はこの色が流行している。	This color is in fashion this year.		
+PS20U15S070	1	15	一般的に人々は空腹時に怒りやすい傾向がある。	"In general, people tend to get angry more easily when they are hungry."		
+PS20U15S071	1	15	彼は若く見えるが，実は 50歳を超えている。	"He looks young, but in reality he is over 50."		
+PS20U15S072	1	15	地元住民の抗議にもかかわらず，そのショッピングセンターは建設が進んでいる。	The shopping center is being built in spite of protests from local residents.		
+PS20U15S073	1	15	最高のパフォーマンスを見せるという観点からは，訓練が最も肝心だ。	"In terms of showing the best performance, training is the most vital. "		
+PS20U15S074	1	15	私はちょうど夕食に間に合うように到着した。	I arrived just in time for dinner.		
+PS20U15S075	1	15	兄［弟］に 1人で旅行に行くのは危険だと警告したが，無駄だった。	"I warned my brother that it was dangerous to travel alone, but it was in vain."		
+PS20U15S076	1	15	雨が降るといけないから私は傘を持っていこうと思う。	I’ll take an umbrella with me just in case it rains. 		
+PS20U15S077	1	15	私は兄［弟］を全く信用できない。彼は決して約束を守らない。	I can’t trust my brother at all. He never keeps his word.		
 PS20U15S078	1	15	彼は最新の技術に遅れないでついていくのは難しいと思った。	He found it difficult to keep up with the latest technology.		
-PS20U15S079	1	15	?は事務所を出るときに財布を置き忘れた。	My father left his wallet behind when he left his office. 		
+PS20U15S079	1	15	父は事務所を出るときに財布を置き忘れた。	My father left his wallet behind when he left his office. 		
 PS20U15S080	1	15	私はあなたを失望させたくはなかった。	I didn’t want to let you down.		
-PS20U15S081	1	15	私は新しい洗濯機を使う前に説明書にざっと?を通した。	I looked through the manual before using my new washing machine.		
-PS20U15S082	1	15	彼はテレビゲームをするのに使った時間の埋め合わせをしようと??懸命勉強した。	He studied hard to make up for the time he used for playing video games. 		
+PS20U15S081	1	15	私は新しい洗濯機を使う前に説明書にざっと目を通した。	I looked through the manual before using my new washing machine.		
+PS20U15S082	1	15	彼はテレビゲームをするのに使った時間の埋め合わせをしようと一生懸命勉強した。	He studied hard to make up for the time he used for playing video games. 		
 PS20U15S083	1	15	顧客のニーズを満たすため，わが社は新製品の開発を続ける必要がある。	"To meet our customers’ needs, we need to keep on developing new products."		
-PS20U15S084	1	15	私の両親が何を?っても私は留学するつもりだ。	"I’m going to study abroad, no matter what my parents say."		
-PS20U15S085	1	15	科学技術は?産性を向上させるだけでなくコストも下げるだろう。	Technology will not only improve productivity but also lower costs.		
-PS20U15S086	1	15	彼は 10時20分発のボストン?きの便に乗っていた。	He was on board the 10:20 flight for Boston.		
-PS20U15S087	1	15	銀?強盗事件の?に勤務中の警備員は 2?だけだった。	There were only two security guards on duty on the day of the bank robbery.		
+PS20U15S084	1	15	私の両親が何を言っても私は留学するつもりだ。	"I’m going to study abroad, no matter what my parents say."		
+PS20U15S085	1	15	科学技術は生産性を向上させるだけでなくコストも下げるだろう。	Technology will not only improve productivity but also lower costs.		
+PS20U15S086	1	15	彼は 10時20分発のボストン行きの便に乗っていた。	He was on board the 10:20 flight for Boston.		
+PS20U15S087	1	15	銀行強盗事件の日に勤務中の警備員は 2人だけだった。	There were only two security guards on duty on the day of the bank robbery.		
 PS20U15S088	1	15	彼がわざと窓を割ったなんて私は信じない。	I don’t believe that he broke the windows on purpose.		
-PS20U15S089	1	15	列?は予定通りに運?している。	The trains are running on schedule.		
-PS20U15S090	1	15	概して，?性の?が男性よりも??きする。	"On average, women live longer than men."		
-PS20U15S091	1	15	?動販売機が故障しているため，飲み物が買えない。	I can’t buy a drink because the vending machine is out of order.		
+PS20U15S089	1	15	列車は予定通りに運行している。	The trains are running on schedule.		
+PS20U15S090	1	15	概して，女性の方が男性よりも長生きする。	"On average, women live longer than men."		
+PS20U15S091	1	15	自動販売機が故障しているため，飲み物が買えない。	I can’t buy a drink because the vending machine is out of order.		
 PS20U15S092	1	15	給料が良くなかったので，私は仕事を辞めた。	I quit my job because it didn’t pay well.		
-PS20U15S093	1	15	ドイツではクラシックコンサートに?く多くの機会がある。	You have plenty of opportunities to go to classical concerts in Germany.		
+PS20U15S093	1	15	ドイツではクラシックコンサートに行く多くの機会がある。	You have plenty of opportunities to go to classical concerts in Germany.		
 PS20U15S094	1	15	彼らには改修計画をまとめ上げるのに数週間しかなかった。	They had only a few weeks to put together the renovation plan.		
-PS20U15S095	1	15	私は，昨?買い物に出ているときに，旧友に偶然出会った。	I ran into my old friend when I was out shopping yesterday.		
-PS20U15S096	1	15	その幼い?の?にはいじめに反対してはっきりと意?を述べる勇気があった。	The little girl had the courage to speak out against bullying. 		
+PS20U15S095	1	15	私は，昨日買い物に出ているときに，旧友に偶然出会った。	I ran into my old friend when I was out shopping yesterday.		
+PS20U15S096	1	15	その幼い女の子にはいじめに反対してはっきりと意見を述べる勇気があった。	The little girl had the courage to speak out against bullying. 		
 PS20U15S097	1	15	私だったらそのような侮辱を我慢しないだろう。	"If I were you, I wouldn’t stand for such an insult."		
-PS20U15S098	1	15	私はネコが地?にいる?を捕まえるところをじっと?ていた。	I was staring at the cat catching a bird on the ground.		
-PS20U15S099	1	15	昨?私たちが出会った男性はメアリーの?親だとわかった。	The man we met yesterday turned out to be Mary’s father.		
+PS20U15S098	1	15	私はネコが地面にいる鳥を捕まえるところをじっと見ていた。	I was staring at the cat catching a bird on the ground.		
+PS20U15S099	1	15	昨日私たちが出会った男性はメアリーの父親だとわかった。	The man we met yesterday turned out to be Mary’s father.		
 PS20U15S100	1	15	体重を落としたいなら定期的に運動するべきだと思う。	I think you should work out regularly if you want to lose weight.		
 PS20U16S001	1	16	その地震の被害は，少なくとも総計で 680億円に達すると予想される。	The damage from the earthquake is expected to amount to at least 68 billion yen.		
 PS20U16S002	1	16	彼は決して静かではない。	He is anything but quiet.		
-PS20U16S003	1	16	私に関して?えば，?の?が好きだ。	"As for me, I prefer dogs."		
-PS20U16S004	1	16	時間がたつにつれて，彼は?信を持ち始めた。	"As time went by, he began to gain confidence in himself."		
-PS20U16S005	1	16	?はいつも私の健康を?配している。	My mother is always anxious about my health.		
-PS20U16S006	1	16	彼は最終電?に乗り損ねてどうすればよいか困っていた。	He missed the last train and was at a loss what to do.		
+PS20U16S003	1	16	私に関して言えば，犬の方が好きだ。	"As for me, I prefer dogs."		
+PS20U16S004	1	16	時間がたつにつれて，彼は自信を持ち始めた。	"As time went by, he began to gain confidence in himself."		
+PS20U16S005	1	16	母はいつも私の健康を心配している。	My mother is always anxious about my health.		
+PS20U16S006	1	16	彼は最終電車に乗り損ねてどうすればよいか困っていた。	He missed the last train and was at a loss what to do.		
 PS20U16S007	1	16	彼は私の姉［妹］と婚約している。	He is engaged to my sister.		
-PS20U16S008	1	16	その本棚の?さは私の??と同等である。	The height of the bookshelf is equal to my height.		
-PS20U16S009	1	16	彼は銀?からお?を盗むという罪を犯している。	He is guilty of stealing money from the bank.		
-PS20U16S010	1	16	私の?は素晴らしい教師として多くの?に知られている。	My mother is known to many people as a great teacher.		
-PS20U16S011	1	16	彼?は若いときに苦労したが，現在は裕福である。	"She had a hard time when she was young, but now she is well off."		
-PS20U16S012	1	16	彼?の発?はさらなる研究に値する。	Her discovery is worthy of further investigation.		
-PS20U16S013	1	16	この価格は私たちの?の届く範囲をはるかに超えている。	This price is far beyond our reach.		
-PS20U16S014	1	16	ここ?本では?どもの数が徐々に減っている。	The number of children is decreasing by degrees here in Japan.		
-PS20U16S015	1	16	私の祖?は?まれつきとても穏やかな?だ。	My grandmother is by nature a very gentle person.		
-PS20U16S016	1	16	その医師は意?を聞くために別の医師を呼んだ。	The doctor called in another doctor for his opinion.		
-PS20U16S017	1	16	私は早めにホテルをチェックアウトして，空港で昼?を?べた。	I checked out from the hotel early and had lunch at the airport.		
-PS20U16S018	1	16	宇宙旅?の価格は将来?幅に下がると予想されている。	The price of space travel is expected to come down greatly in the future.		
-PS20U16S019	1	16	?い話し合いの後，私たちは最終?標を決めた。	"After a long discussion, we decided on our final goal."		
-PS20U16S020	1	16	そのカップルは気分転換に外?した。	The couple ate out for a change.		
+PS20U16S008	1	16	その本棚の高さは私の身長と同等である。	The height of the bookshelf is equal to my height.		
+PS20U16S009	1	16	彼は銀行からお金を盗むという罪を犯している。	He is guilty of stealing money from the bank.		
+PS20U16S010	1	16	私の母は素晴らしい教師として多くの人に知られている。	My mother is known to many people as a great teacher.		
+PS20U16S011	1	16	彼女は若いときに苦労したが，現在は裕福である。	"She had a hard time when she was young, but now she is well off."		
+PS20U16S012	1	16	彼女の発見はさらなる研究に値する。	Her discovery is worthy of further investigation.		
+PS20U16S013	1	16	この価格は私たちの手の届く範囲をはるかに超えている。	This price is far beyond our reach.		
+PS20U16S014	1	16	ここ日本では子どもの数が徐々に減っている。	The number of children is decreasing by degrees here in Japan.		
+PS20U16S015	1	16	私の祖母は生まれつきとても穏やかな人だ。	My grandmother is by nature a very gentle person.		
+PS20U16S016	1	16	その医師は意見を聞くために別の医師を呼んだ。	The doctor called in another doctor for his opinion.		
+PS20U16S017	1	16	私は早めにホテルをチェックアウトして，空港で昼食を食べた。	I checked out from the hotel early and had lunch at the airport.		
+PS20U16S018	1	16	宇宙旅行の価格は将来大幅に下がると予想されている。	The price of space travel is expected to come down greatly in the future.		
+PS20U16S019	1	16	長い話し合いの後，私たちは最終目標を決めた。	"After a long discussion, we decided on our final goal."		
+PS20U16S020	1	16	そのカップルは気分転換に外食した。	The couple ate out for a change.		
 PS20U16S021	1	16	することがたくさんあるので今夜は仕事から離れられない。	I can’t get away from work tonight because I have so much to do.		
-PS20U16S022	1	16	私は?性がスカーフを落とすのを?たので，それを拾って彼?の後を追った。	"I saw a woman drop her scarf, so I picked it up and went after her."		
-PS20U16S023	1	16	私はあなたの提案を?持したい。	I would like to go along with your proposal.		
-PS20U16S024	1	16	彼はもう?度その計画表を詳しく調べて，誤りを 2つ?つけた。	He went over the plans again and discovered two mistakes.		
-PS20U16S025	1	16	私の娘は何カ?にもわたる厳しい訓練を経験して，消防?になった。	My daughter went through months of hard training before she became a firefighter.		
+PS20U16S022	1	16	私は女性がスカーフを落とすのを見たので，それを拾って彼女の後を追った。	"I saw a woman drop her scarf, so I picked it up and went after her."		
+PS20U16S023	1	16	私はあなたの提案を支持したい。	I would like to go along with your proposal.		
+PS20U16S024	1	16	彼はもう一度その計画表を詳しく調べて，誤りを 2つ見つけた。	He went over the plans again and discovered two mistakes.		
+PS20U16S025	1	16	私の娘は何カ月にもわたる厳しい訓練を経験して，消防士になった。	My daughter went through months of hard training before she became a firefighter.		
 PS20U16S026	1	16	この古い花瓶は私の家に代々伝わってきたものだ。	This old vase has been handed down through my family for generations. 		
-PS20U16S027	1	16	試験官が志願者 1?1?に問題?紙を配った。	The examiner handed out a test paper to each candidate.		
+PS20U16S027	1	16	試験官が志願者 1人1人に問題用紙を配った。	The examiner handed out a test paper to each candidate.		
 PS20U16S028	1	16	彼は私に電話を切らずに少し待つように頼んだ。	He asked me to hold the line for a moment.		
 PS20U16S029	1	16	彼は 5回連続して優勝した。彼は今年も優勝すると思う。	He has won five championships in a row. I think he’ll win this year as well. 		
 PS20U16S030	1	16	彼はある意味で芸術家だ。	He is in a sense an artist.		
-PS20U16S031	1	16	私の姉［妹］は先?に気に?られている。	My sister is in the teacher’s favor.		
-PS20U16S032	1	16	多くの?が??をさがしてここにやって来た。	Many people came here in search of gold. 		
-PS20U16S033	1	16	?い?で?れば，これは良いアイデアだ。	This is a good idea in the long run.		
-PS20U16S034	1	16	1?の男性がスピーチの最中に質問をして演説者の話をさえぎった。	A man interrupted the speaker with a question in the middle of the speech. 		
-PS20U16S035	1	16	私の先?は私の?論?に?を通した。	My teacher looked over my essay. 		
-PS20U16S036	1	16	彼らは?中で道に迷った。	They lost their way on the mountain.		
-PS20U16S037	1	16	彼はどんな?さな?動でも違いを?む可能性があると信じている。	He believes that any small action can make a difference.		
+PS20U16S031	1	16	私の姉［妹］は先生に気に入られている。	My sister is in the teacher’s favor.		
+PS20U16S032	1	16	多くの人が黄金をさがしてここにやって来た。	Many people came here in search of gold. 		
+PS20U16S033	1	16	長い目で見れば，これは良いアイデアだ。	This is a good idea in the long run.		
+PS20U16S034	1	16	1人の男性がスピーチの最中に質問をして演説者の話をさえぎった。	A man interrupted the speaker with a question in the middle of the speech. 		
+PS20U16S035	1	16	私の先生は私の小論文に目を通した。	My teacher looked over my essay. 		
+PS20U16S036	1	16	彼らは山中で道に迷った。	They lost their way on the mountain.		
+PS20U16S037	1	16	彼はどんな小さな行動でも違いを生む可能性があると信じている。	He believes that any small action can make a difference.		
 PS20U16S038	1	16	私はしばらくは古いコンピューターで済ませるつもりだ。	I am going to make do with my old computer for a while. 		
-PS20U16S039	1	16	彼は?分のお気に?りの歌?にちなんで ?をトムと名付けた。	He named his dog Tom after his favorite singer.		
+PS20U16S039	1	16	彼は自分のお気に入りの歌手にちなんで 犬をトムと名付けた。	He named his dog Tom after his favorite singer.		
 PS20U16S040	1	16	私たちが演奏する時間はわずか 10分だ。	We get no more than ten minutes to perform.		
-PS20U16S041	1	16	私には今はもう養うべき家族がいるのだから，??懸命働かないといけない。	"Now that I have a family to support, I have to work hard. "		
-PS20U16S042	1	16	多くの?々が?分??の家を持ちたいと思っている。	Many people want to have a house of their own.		
+PS20U16S041	1	16	私には今はもう養うべき家族がいるのだから，一生懸命働かないといけない。	"Now that I have a family to support, I have to work hard. "		
+PS20U16S042	1	16	多くの人々が自分自身の家を持ちたいと思っている。	Many people want to have a house of their own.		
 PS20U16S043	1	16	彼は病気のために辞職した。	He resigned on account of illness.		
-PS20U16S044	1	16	外国では，要求されたらパスポートを?せなければならない。	You have to show your passport on demand in foreign countries. 		
+PS20U16S044	1	16	外国では，要求されたらパスポートを見せなければならない。	You have to show your passport on demand in foreign countries. 		
 PS20U16S045	1	16	その都市はコンピューター産業のおかげで発展している。	The city is on the move thanks to its computer industry.		
-PS20U16S046	1	16	彼?は彼と結婚することを即座に決めた。	She decided to marry him on the spot.		
+PS20U16S046	1	16	彼女は彼と結婚することを即座に決めた。	She decided to marry him on the spot.		
 PS20U16S047	1	16	彼は貧しく，それに加えて，病弱だった。	"He was poor and, on top of that, physically weak."		
 PS20U16S048	1	16	この装置は時代遅れである。	This device is out of date.		
-PS20U16S049	1	16	彼はこの伝統的な暮らし?を未来の世代に伝えたいと思っている。	He wants to pass on this traditional way of living to future generations.		
+PS20U16S049	1	16	彼はこの伝統的な暮らし方を未来の世代に伝えたいと思っている。	He wants to pass on this traditional way of living to future generations.		
 PS20U16S050	1	16	あまりにもたくさんの素敵なブラウスがあったので，私には 1着を選び出すのが難しかった。	There were so many nice blouses that it was hard for me to pick out one. 		
-PS20U16S051	1	16	店?が最初にしたことは，看板を外に出すことだった。	The first thing the store manager did was to put out the advertising sign.		
+PS20U16S051	1	16	店長が最初にしたことは，看板を外に出すことだった。	The first thing the store manager did was to put out the advertising sign.		
 PS20U16S052	1	16	教員たちは学校の敷地内では喫煙するのを慎んでいる。	Teachers refrain from smoking on the school grounds.		
-PS20U16S053	1	16	私たちはこの種の昆?が突然絶滅するという可能性を除外することはできない。	We cannot rule out the possibility that this kind of insect will suddenly become extinct.		
-PS20U16S054	1	16	彼は犯?現場から逃げた。	He ran away from the crime scene.		
+PS20U16S053	1	16	私たちはこの種の昆虫が突然絶滅するという可能性を除外することはできない。	We cannot rule out the possibility that this kind of insect will suddenly become extinct.		
+PS20U16S054	1	16	彼は犯行現場から逃げた。	He ran away from the crime scene.		
 PS20U16S055	1	16	私たちは顧客に招待状を発送した。	We sent out invitations to our customers.		
 PS20U16S056	1	16	私たちはくつろいでショーを楽しんだ。	We sat back and enjoyed the show.		
-PS20U16S057	1	16	彼は彼の祖?に似ている。	He takes after his grandfather.		
-PS20U16S058	1	16	彼?はセーリングを始めることに決めた。	She decided to take up sailing.		
+PS20U16S057	1	16	彼は彼の祖父に似ている。	He takes after his grandfather.		
+PS20U16S058	1	16	彼女はセーリングを始めることに決めた。	She decided to take up sailing.		
 PS20U16S059	1	16	ステージで歌うなど，彼が最もしそうにないことだった。	Singing on the stage was the last thing that he would do. 		
-PS20U16S060	1	16	?変うれしいことに，産後私の妻と?ん坊はともに健康だ。	"To my great joy, both my wife and baby are well after childbirth."		
-PS20U16S061	1	16	驚いたことに，私の娘は来?からシンガポールで働き始める予定だ。	"To my surprise, my daughter will start working in Singapore from next month."		
-PS20U16S062	1	16	?徒たちは問題?紙を裏返して空欄を埋めるように?われた。	Students were told to turn over the test paper and fill out the blanks.		
-PS20U16S063	1	16	通りを渡るときは?の往来に気をつけるべきだ。	You should watch out for traffic when you cross the street.		
+PS20U16S060	1	16	大変うれしいことに，産後私の妻と赤ん坊はともに健康だ。	"To my great joy, both my wife and baby are well after childbirth."		
+PS20U16S061	1	16	驚いたことに，私の娘は来月からシンガポールで働き始める予定だ。	"To my surprise, my daughter will start working in Singapore from next month."		
+PS20U16S062	1	16	生徒たちは問題用紙を裏返して空欄を埋めるように言われた。	Students were told to turn over the test paper and fill out the blanks.		
+PS20U16S063	1	16	通りを渡るときは車の往来に気をつけるべきだ。	You should watch out for traffic when you cross the street.		
 PS20U16S064	1	16	それはいわゆる「アフタヌーンティー」の時間だ。	That’s what is called “afternoon tea” time.		
-PS20U16S065	1	16	何よりも，?々はスクリーンを?時間?て過ごすのを避けるべきだ。	"Above all, people should avoid spending a long time staring at a screen."		
-PS20U16S066	1	16	先?は全ての?徒の所在が明らかになっていることを確認した。	The teacher made sure that all the students are accounted for.		
-PS20U16S067	1	16	先?はその男の?をほかの?徒の宿題を写したことで?難した。	The teacher accused the boy of copying another student’s homework.		
-PS20U16S068	1	16	通例，私たちは申込?紙を返却しない。	"As a rule, we don’t return application forms."		
+PS20U16S065	1	16	何よりも，人々はスクリーンを長時間見て過ごすのを避けるべきだ。	"Above all, people should avoid spending a long time staring at a screen."		
+PS20U16S066	1	16	先生は全ての生徒の所在が明らかになっていることを確認した。	The teacher made sure that all the students are accounted for.		
+PS20U16S067	1	16	先生はその男の子をほかの生徒の宿題を写したことで非難した。	The teacher accused the boy of copying another student’s homework.		
+PS20U16S068	1	16	通例，私たちは申込用紙を返却しない。	"As a rule, we don’t return application forms."		
 PS20U16S069	1	16	彼はクッキーが好きだ。実のところ，彼は毎週末クッキーを焼く。	"He likes cookies. As a matter of fact, he bakes some every weekend."		
-PS20U16S070	1	16	彼はどんな犠牲を払ってもその計画を実?しようと決?した。	He decided to carry out the project at any cost.		
-PS20U16S071	1	16	私は 3冊の本を無作為に?に取った。	I picked up three books at random.		
-PS20U16S072	1	16	修繕費は最?でも 50ドルだろう。	The repair cost will be 50 dollars at most.		
-PS20U16S073	1	16	時々，私は故郷の友?たちに会えないのを寂しく思う。	"At times, I miss my friends in my hometown."		
-PS20U16S074	1	16	彼は?配そうに居間の中を?ったり来たり歩いていた。	He was anxiously walking back and forth in the living room.		
-PS20U16S075	1	16	彼は私の上司と顔?知りである。	He is acquainted with my boss.		
+PS20U16S070	1	16	彼はどんな犠牲を払ってもその計画を実行しようと決心した。	He decided to carry out the project at any cost.		
+PS20U16S071	1	16	私は 3冊の本を無作為に手に取った。	I picked up three books at random.		
+PS20U16S072	1	16	修繕費は最高でも 50ドルだろう。	The repair cost will be 50 dollars at most.		
+PS20U16S073	1	16	時々，私は故郷の友人たちに会えないのを寂しく思う。	"At times, I miss my friends in my hometown."		
+PS20U16S074	1	16	彼は心配そうに居間の中を行ったり来たり歩いていた。	He was anxiously walking back and forth in the living room.		
+PS20U16S075	1	16	彼は私の上司と顔見知りである。	He is acquainted with my boss.		
 PS20U16S076	1	16	どんな事業に従事していても，誠実でなければいけない。	"No matter what business you are engaged in, you must be sincere."		
-PS20U16S077	1	16	彼の?親は?本の慣習に精通している。	His mother is familiar with Japanese customs.		
+PS20U16S077	1	16	彼の母親は日本の慣習に精通している。	His mother is familiar with Japanese customs.		
 PS20U16S078	1	16	誰もがいつか世界に飢えがなくなることを望んでいる。	Everyone hopes that someday the world will be free from hunger.		
-PS20U16S079	1	16	親から??することができない?どもたちもいる。	Some children can’t be independent of their parents.		
-PS20U16S080	1	16	?齢者のための医療はさらに重要になりそうである。	Medical care for elderly people is likely to become more important.		
-PS20U16S081	1	16	当校の?徒会は学校を代表する 10?の?徒で構成されている。	Our school council is made up of ten students representing the school.		
-PS20U16S082	1	16	彼は毎?午前 9時に仕事を始めるよう義務づけられている。	He is obliged to start work at 9 a.m. every day.		
-PS20U16S083	1	16	当初，私の?親は私を海外に?かせることに気が進まなかった。	My father was at first reluctant to let me go abroad.		
-PS20U16S084	1	16	満員電?にはうんざりだ。	I am sick of crowded trains.		
+PS20U16S079	1	16	親から自立することができない子どもたちもいる。	Some children can’t be independent of their parents.		
+PS20U16S080	1	16	高齢者のための医療はさらに重要になりそうである。	Medical care for elderly people is likely to become more important.		
+PS20U16S081	1	16	当校の生徒会は学校を代表する 10人の生徒で構成されている。	Our school council is made up of ten students representing the school.		
+PS20U16S082	1	16	彼は毎日午前 9時に仕事を始めるよう義務づけられている。	He is obliged to start work at 9 a.m. every day.		
+PS20U16S083	1	16	当初，私の父親は私を海外に行かせることに気が進まなかった。	My father was at first reluctant to let me go abroad.		
+PS20U16S084	1	16	満員電車にはうんざりだ。	I am sick of crowded trains.		
 PS20U16S085	1	16	値段は予告なく変更になりやすい。	Prices are subject to change without notice.		
 PS20U16S086	1	16	君はその犯罪が起こったときここにいたのだから，僕は君の無罪を確信している。	I’m sure of your innocence because you were here when the crime took place.		
 PS20U16S087	1	16	批評家が述べたことは特に私の作品に当てはまる。	What the critic said is particularly true of my work.		
-PS20U16S088	1	16	この種の?動は AI時代を?きる若者の典型となるだろう。	This kind of behavior will be typical of youngsters living in the age of AI.		
-PS20U16S089	1	16	彼?は?が拒否する仕事を進んで受ける。	She is willing to accept jobs that others refuse to do.		
-PS20U16S090	1	16	数?の学?が，その男が宝?店へ押し?るのを?た。	Several students saw the man break into the jewelry shop.		
-PS20U16S091	1	16	私の家の近くの?場で?災が発?した。	A fire broke out in a factory near my house.		
+PS20U16S088	1	16	この種の行動は AI時代を生きる若者の典型となるだろう。	This kind of behavior will be typical of youngsters living in the age of AI.		
+PS20U16S089	1	16	彼女は人が拒否する仕事を進んで受ける。	She is willing to accept jobs that others refuse to do.		
+PS20U16S090	1	16	数人の学生が，その男が宝石店へ押し入るのを見た。	Several students saw the man break into the jewelry shop.		
+PS20U16S091	1	16	私の家の近くの工場で火災が発生した。	A fire broke out in a factory near my house.		
 PS20U16S092	1	16	彼の不注意がその交通事故を招いた。	His carelessness brought about the traffic accident.		
 PS20U16S093	1	16	デフレが物価を下げ続けてきた。	Deflation has been bringing down prices.		
-PS20U16S094	1	16	私の?はアメリカで育てられたので，英語には全く問題がない。	"My mother was brought up in the United States, so she has no problems with English."		
-PS20U16S095	1	16	私たちは?語によって?分の考えを表現する。	We express our thoughts by means of language.		
-PS20U16S096	1	16	?学を卒業することは決して簡単なことではない。	Graduating from college is by no means a simple matter.		
-PS20U16S097	1	16	台?のために，私たちは中国旅?を中?しなければならなかった。	We had to call off our trip to China because of the typhoon. 		
+PS20U16S094	1	16	私の母はアメリカで育てられたので，英語には全く問題がない。	"My mother was brought up in the United States, so she has no problems with English."		
+PS20U16S095	1	16	私たちは言語によって自分の考えを表現する。	We express our thoughts by means of language.		
+PS20U16S096	1	16	大学を卒業することは決して簡単なことではない。	Graduating from college is by no means a simple matter.		
+PS20U16S097	1	16	台風のために，私たちは中国旅行を中止しなければならなかった。	We had to call off our trip to China because of the typhoon. 		
 PS20U16S098	1	16	彼は私が事務所を出る直前に私を訪ねてきた。	He called on me just before I left the office.		
 PS20U16S099	1	16	私たちは適切にお年寄りの世話をすることを学ばなければならない。	We must learn to care for elderly people properly.		
-PS20U16S100	1	16	?どもたちは先?が部屋に?ってきた後もおしゃべりを続けた。	The children carried on talking even after the teacher entered the room. 		
-PS20U17S001	1	17	辞書が?元にないので，私はその単語を調べられない。	I can’t look up the word because I don’t have a dictionary close at hand.		
-PS20U17S002	1	17	爆発が起こったとき，幸運にも誰もその?場にはいなかった。	"Luckily, no one was in the plant when the explosion came about."		
+PS20U16S100	1	16	子どもたちは先生が部屋に入ってきた後もおしゃべりを続けた。	The children carried on talking even after the teacher entered the room.		
+PS20U17S001	1	17	辞書が手元にないので，私はその単語を調べられない。	I can’t look up the word because I don’t have a dictionary close at hand.		
+PS20U17S002	1	17	爆発が起こったとき，幸運にも誰もその工場にはいなかった。	"Luckily, no one was in the plant when the explosion came about."		
 PS20U17S003	1	17	試験の間，誰かがカンニングをしていたことが発覚した。	It came to light that someone was cheating during the exam.		
-PS20U17S004	1	17	新しい部?は難局をうまく処理した。	The new manager coped with a difficult situation.		
+PS20U17S004	1	17	新しい部長は難局をうまく処理した。	The new manager coped with a difficult situation.		
 PS20U17S005	1	17	彼はけがをして，レースの途中で棄権しなければならなかった。	He got injured and had to drop out in the middle of the race. 		
 PS20U17S006	1	17	AIの発展は私たちが創造的な仕事に焦点を絞ることを可能にするだろう。	The progress of AI will enable us to focus on creative jobs. 		
-PS20U17S007	1	17	彼らの遅延に対する釈明は決して満?できるものではなかった。	The explanation for their delay was far from satisfactory.		
+PS20U17S007	1	17	彼らの遅延に対する釈明は決して満足できるものではなかった。	The explanation for their delay was far from satisfactory.		
 PS20U17S008	1	17	私は彼がどのように財産を作ったか確かには知らない。	I don’t know for certain how he made his fortune. 		
-PS20U17S009	1	17	彼はアメリカに?ったきり永久に帰ってこなかった。	He went to the United States for good.		
+PS20U17S009	1	17	彼はアメリカに行ったきり永久に帰ってこなかった。	He went to the United States for good.		
 PS20U17S010	1	17	当分の間，私はこの町に滞在する予定だ。	I plan to stay in this town for the time being.		
 PS20U17S011	1	17	私は少ない給料でやっていくのに苦労している。	I have trouble getting by on my small salary.		
-PS20U17S012	1	17	今朝，私の?覚まし時計は鳴らなかった。	My alarm clock failed to go off this morning.		
-PS20U17S013	1	17	私は?ちゃんの世話をするために電話を切らないといけなかった。	I had to hang up the phone to take care of my baby.		
-PS20U17S014	1	17	?と私にはたくさんの共通点がある。	My father and I have a lot in common.		
+PS20U17S012	1	17	今朝，私の目覚まし時計は鳴らなかった。	My alarm clock failed to go off this morning.		
+PS20U17S013	1	17	私は赤ちゃんの世話をするために電話を切らないといけなかった。	I had to hang up the phone to take care of my baby.		
+PS20U17S014	1	17	父と私にはたくさんの共通点がある。	My father and I have a lot in common.		
 PS20U17S015	1	17	製造業者は，そのゲームの新バージョンを発売することについて考え直しつつある。	The manufacturer is having second thoughts about launching a new version of the game.		
-PS20U17S016	1	17	私は?や花を観察するために?へ向かっている。	I’m heading for the mountains to observe birds and flowers.		
+PS20U17S016	1	17	私は鳥や花を観察するために山へ向かっている。	I’m heading for the mountains to observe birds and flowers.		
 PS20U17S017	1	17	悪天候が私たちの出発を遅らせた。	The bad weather held up our departure.		
-PS20U17S018	1	17	?本と?べると，アメリカの?費は安い。	"In comparison with Japan, the cost of food in the U.S. is low."		
+PS20U17S018	1	17	日本と比べると，アメリカの食費は安い。	"In comparison with Japan, the cost of food in the U.S. is low."		
 PS20U17S019	1	17	昨冬とは対照的に，この冬はたくさん雪が降った。	"In contrast to last winter, we had heavy snowfall this winter."		
 PS20U17S020	1	17	彼は事故のことを詳細に述べた。	He described the accident in detail.		
-PS20U17S021	1	17	事実上，彼の?ったことは何の意味もない。	"In effect, what he said means nothing."		
-PS20U17S022	1	17	彼?を?伝うのと引き換えに，彼?は私に昼?をおごってくれた。	She bought me lunch in exchange for helping her.		
+PS20U17S021	1	17	事実上，彼の言ったことは何の意味もない。	"In effect, what he said means nothing."		
+PS20U17S022	1	17	彼女を手伝うのと引き換えに，彼女は私に昼食をおごってくれた。	She bought me lunch in exchange for helping her.		
 PS20U17S023	1	17	委員会は政府のその新しい政策に賛成していた。	The committee was in favor of the government’s new policy. 		
-PS20U17S024	1	17	彼?は本を順序正しく棚に並べた。	She arranged the books on the shelf in order.		
+PS20U17S024	1	17	彼女は本を順序正しく棚に並べた。	She arranged the books on the shelf in order.		
 PS20U17S025	1	17	話題が繊細な場合は直接話すことが重要である。	It is important to talk in person if the topic is delicate.		
-PS20U17S026	1	17	彼らは?綿の代わりに絹を使?した。	They used silk in place of cotton.		
+PS20U17S026	1	17	彼らは木綿の代わりに絹を使用した。	They used silk in place of cotton.		
 PS20U17S027	1	17	どこか内緒で話をできるところはありますか。	Is there anywhere we can speak in private?		
-PS20U17S028	1	17	テストが進?中のときは?徒は静かにする必要がある。	Students need to be quiet when a test is in progress.		
-PS20U17S029	1	17	私の?は?前で感情をおおっぴらに表す。	My father is open with his feelings in public.		
+PS20U17S028	1	17	テストが進行中のときは生徒は静かにする必要がある。	Students need to be quiet when a test is in progress.		
+PS20U17S029	1	17	私の父は人前で感情をおおっぴらに表す。	My father is open with his feelings in public.		
 PS20U17S030	1	17	私はその点に関して，全く異論はない。	I have no objection in relation to that point.		
-PS20U17S031	1	17	彼?は体調が良い状態を保つために毎?ジムへ?く。	She goes to the gym every day to stay in shape.		
-PS20U17S032	1	17	?短に?えば，彼とは別れるべきだ。	"In short, you should break up with him."		
-PS20U17S033	1	17	彼?はどんな困難に直?しても決してあきらめない。	She never gives up in the face of any difficulties.		
+PS20U17S031	1	17	彼女は体調が良い状態を保つために毎日ジムへ行く。	She goes to the gym every day to stay in shape.		
+PS20U17S032	1	17	手短に言えば，彼とは別れるべきだ。	"In short, you should break up with him."		
+PS20U17S033	1	17	彼女はどんな困難に直面しても決してあきらめない。	She never gives up in the face of any difficulties.		
 PS20U17S034	1	17	私はそもそもこのパーティーには来たくなかった。	I didn’t want to come to this party in the first place.		
-PS20U17S035	1	17	そうこうする間に彼?は病気から回復した。	"In the meantime, she got over her illness."		
+PS20U17S035	1	17	そうこうする間に彼女は病気から回復した。	"In the meantime, she got over her illness."		
 PS20U17S036	1	17	私は調べ物をしたかったが，全てのコンピューターが使われていた。	"I wanted to do some research, but all the computers were in use."		
-PS20U17S037	1	17	?親を亡くしたばかりでは，彼?があれほど落ち込んでいるように?えるのは全く不思議ではない。	"No wonder she looks so depressed, as her father just passed away."		
-PS20U17S038	1	17	私は常にこの教訓を?に留めている。	I always keep this lesson in mind.		
-PS20U17S039	1	17	私はアメリカにいる?と連絡を取るのに Eメールを使っている。	I use e-mail to keep in touch with my father in the United States.		
-PS20U17S040	1	17	公園管理?が?どもたちに芝?に近寄らないようにと?った。	The park manager told the children to keep off the grass.		
+PS20U17S037	1	17	父親を亡くしたばかりでは，彼女があれほど落ち込んでいるように見えるのは全く不思議ではない。	"No wonder she looks so depressed, as her father just passed away."		
+PS20U17S038	1	17	私は常にこの教訓を心に留めている。	I always keep this lesson in mind.		
+PS20U17S039	1	17	私はアメリカにいる父と連絡を取るのに Eメールを使っている。	I use e-mail to keep in touch with my father in the United States.		
+PS20U17S040	1	17	公園管理人が子どもたちに芝生に近寄らないようにと言った。	The park manager told the children to keep off the grass.		
 PS20U17S041	1	17	時間の経過を常に追うのは難しい。	It is difficult to keep track of time.		
-PS20U17S042	1	17	その会社は何年も利益を出していないので，多くの従業員が?時解雇された。	"Because the company has not made a profit for years, many employees were laid off."		
-PS20U17S043	1	17	私が怒っているとき，彼?はただ私を放っておいてくれる。	"When I’m angry, she just leaves me alone."		
-PS20U17S044	1	17	彼?は両親の期待に応えるため，懸命に勉強している。	She is studying hard to live up to her parents’ expectations. 		
-PS20U17S045	1	17	年配の?たちは?年時代に思い焦がれる傾向がある。	Elderly people have a tendency to long for their youth.		
-PS20U17S046	1	17	他?を?下すべきではない。	We should not look down on others.		
+PS20U17S042	1	17	その会社は何年も利益を出していないので，多くの従業員が一時解雇された。	"Because the company has not made a profit for years, many employees were laid off."		
+PS20U17S043	1	17	私が怒っているとき，彼女はただ私を放っておいてくれる。	"When I’m angry, she just leaves me alone."		
+PS20U17S044	1	17	彼女は両親の期待に応えるため，懸命に勉強している。	She is studying hard to live up to her parents’ expectations. 		
+PS20U17S045	1	17	年配の人たちは青年時代に思い焦がれる傾向がある。	Elderly people have a tendency to long for their youth.		
+PS20U17S046	1	17	他人を見下すべきではない。	We should not look down on others.		
 PS20U17S047	1	17	警察がその事件を調べている。	The police are looking into the case.		
-PS20U17S048	1	17	彼?は?学で?物学を専攻することに決めた。	She decided to major in biology at college.		
-PS20U17S049	1	17	私は来週の?曜?の午前中に顧客と会う約束をした。	I made an appointment with my client next Monday morning.		
+PS20U17S048	1	17	彼女は大学で生物学を専攻することに決めた。	She decided to major in biology at college.		
+PS20U17S049	1	17	私は来週の月曜日の午前中に顧客と会う約束をした。	I made an appointment with my client next Monday morning.		
 PS20U17S050	1	17	僕をからかうのはやめろ?	Stop making fun of me! 		
 PS20U17S051	1	17	彼らはジャングルの中を前進した。	They made their way through the jungle.		
 PS20U17S052	1	17	その新しい計画は全く道理にかなっていない。	The new plan makes no sense at all.		
-PS20U17S053	1	17	私はどの?を買うか決?できない。	I can’t make up my mind which car to buy.		
-PS20U17S054	1	17	私は仕事を得るためにカナダ滞在の経験を利?した。	I made use of my experience of staying in Canada to get a job.		
+PS20U17S053	1	17	私はどの車を買うか決心できない。	I can’t make up my mind which car to buy.		
+PS20U17S054	1	17	私は仕事を得るためにカナダ滞在の経験を利用した。	I made use of my experience of staying in Canada to get a job.		
 PS20U17S055	1	17	それはあなたには関係のないことだ。	It’s none of your business.		
-PS20U17S056	1	17	彼?の語のつづり?は?うまでもなく，筆跡もひどい。	"Her handwriting is terrible, not to mention her spelling."		
-PS20U17S057	1	17	彼?は独?でパーティーの準備ができるかしらと思った。	She wondered if she could organize a party on her own.		
-PS20U17S058	1	17	1カ?後に返済するという条件で，彼はお?を貸してくれた。	He lent me the money on the condition that I pay it back in a month. 		
-PS20U17S059	1	17	彼は私の友?ではない。それどころか，彼は私の敵だ。	"He’s not my friend. On the contrary, he’s my enemy. "		
-PS20U17S060	1	17	昨?私が?た映画は，全体的にとても良かった。	"The movie I saw yesterday was, on the whole, very good."		
-PS20U17S061	1	17	彼はクッキーを次々と?べた。	He ate one cookie after another.		
+PS20U17S056	1	17	彼女の語のつづり方は言うまでもなく，筆跡もひどい。	"Her handwriting is terrible, not to mention her spelling."		
+PS20U17S057	1	17	彼女は独力でパーティーの準備ができるかしらと思った。	She wondered if she could organize a party on her own.		
+PS20U17S058	1	17	1カ月後に返済するという条件で，彼はお金を貸してくれた。	He lent me the money on the condition that I pay it back in a month. 		
+PS20U17S059	1	17	彼は私の友人ではない。それどころか，彼は私の敵だ。	"He’s not my friend. On the contrary, he’s my enemy. "		
+PS20U17S060	1	17	昨日私が見た映画は，全体的にとても良かった。	"The movie I saw yesterday was, on the whole, very good."		
+PS20U17S061	1	17	彼はクッキーを次々と食べた。	He ate one cookie after another.		
 PS20U17S062	1	17	私たちはこれらの問題を 1つずつ話し合った。	We discussed these issues one by one.		
-PS20U17S063	1	17	テレビニュースによれば，その??事は完全に制御しきれなくなっているとのことだ。	The TV news says the forest fire is completely out of control.		
-PS20U17S064	1	17	?雪のために私たちの??機が遅れた。	Our flight was delayed owing to the heavy snow.		
-PS20U17S065	1	17	私の祖?はしばらくの間病気だったが，先週亡くなった。	My grandfather had been ill for some time and passed away last week. 		
-PS20U17S066	1	17	?々が建物内で喫煙するのを禁?する国がますます増えている。	There are more and more countries that prohibit people from smoking inside buildings.		
-PS20U17S067	1	17	滑り?を教えてくれるのなら，私はあなたとスキーに?く。	I’ll go skiing with you provided that you teach me how to ski.		
+PS20U17S063	1	17	テレビニュースによれば，その山火事は完全に制御しきれなくなっているとのことだ。	The TV news says the forest fire is completely out of control.		
+PS20U17S064	1	17	大雪のために私たちの飛行機が遅れた。	Our flight was delayed owing to the heavy snow.		
+PS20U17S065	1	17	私の祖父はしばらくの間病気だったが，先週亡くなった。	My grandfather had been ill for some time and passed away last week. 		
+PS20U17S066	1	17	人々が建物内で喫煙するのを禁止する国がますます増えている。	There are more and more countries that prohibit people from smoking inside buildings.		
+PS20U17S067	1	17	滑り方を教えてくれるのなら，私はあなたとスキーに行く。	I’ll go skiing with you provided that you teach me how to ski.		
 PS20U17S068	1	17	彼らは困難な事業をやってのけた。	They pulled off the tough project.		
-PS20U17S069	1	17	彼?は兄弟のけんかを終わらせた。	She put an end to the fight between her brothers.		
-PS20U17S070	1	17	彼?は仕事を脇に置いておき，休憩することにした。	She decided to put her work aside and take a rest.		
-PS20U17S071	1	17	?は私に，?棚に?を?付けるように?った。	My mother told me to put the dishes away in the cupboard. 		
-PS20U17S072	1	17	私たちはその計画を実?する準備ができている。	We are ready to put the plan into practice.		
-PS20U17S073	1	17	運動会は?で延期された。	The Sports Day was put off due to rain.		
-PS20U17S074	1	17	私たちは彼の?勝?を我慢する必要はない。	We don’t have to put up with his selfishness.		
-PS20U17S075	1	17	その歌はいつも私に学?時代を思い起こさせる。	The song always reminds me of my school days.		
-PS20U17S076	1	17	私たちは本番の前にもう?度，芝居をざっとおさらいした。	We ran through the play one more time before the real performance.		
-PS20U17S077	1	17	彼は結婚して?を固める決意をした。	He decided to get married and settle down.		
-PS20U17S078	1	17	私たちは笑顔で握?をした。	We shook hands with a smile.		
-PS20U17S079	1	17	あの?持ちの少年は，?分のスポーツカーを?せびらかすのが?好きだ。	That rich boy loves to show off his sports car.		
-PS20U17S080	1	17	彼?の送別会にはわずか数?しか姿を?せなかった。	Only a few people showed up for her farewell party.		
-PS20U17S081	1	17	彼?は?晩中起きて病気の?を看病した。	She sat up all night attending to her sick mother.		
-PS20U17S082	1	17	彼は遅かれ早かれ部屋を?付けるだろう。	He will clean up his room sooner or later.		
-PS20U17S083	1	17	聴衆は話者の声が聞こえなかったので，彼?にもっと?きな声で話すよう求めた。	The audience asked the speaker to speak up because they couldn’t hear her.		
-PS20U17S084	1	17	負傷した選?を?当てするために，競技場には看護師が待機していた。	A nurse was standing by at the stadium to take care of injured athletes.		
-PS20U17S085	1	17	そのホテルは 60階建てのビルなので，本当に??つ。	The hotel is a sixty-story building so it really stands out.		
-PS20U17S086	1	17	先?は 2，3分で授業を要約した。	The teacher summed up the lesson in a few minutes. 		
-PS20U17S087	1	17	私たちは良い天気を利?してビーチへ出かけた。	We took advantage of the fine weather to go to the beach.		
+PS20U17S069	1	17	彼女は兄弟のけんかを終わらせた。	She put an end to the fight between her brothers.		
+PS20U17S070	1	17	彼女は仕事を脇に置いておき，休憩することにした。	She decided to put her work aside and take a rest.		
+PS20U17S071	1	17	母は私に，?棚に皿を片付けるように言った。	My mother told me to put the dishes away in the cupboard. 		
+PS20U17S072	1	17	私たちはその計画を実行する準備ができている。	We are ready to put the plan into practice.		
+PS20U17S073	1	17	運動会は雨で延期された。	The Sports Day was put off due to rain.		
+PS20U17S074	1	17	私たちは彼の身勝手を我慢する必要はない。	We don’t have to put up with his selfishness.		
+PS20U17S075	1	17	その歌はいつも私に学生時代を思い起こさせる。	The song always reminds me of my school days.		
+PS20U17S076	1	17	私たちは本番の前にもう一度，芝居をざっとおさらいした。	We ran through the play one more time before the real performance.		
+PS20U17S077	1	17	彼は結婚して身を固める決意をした。	He decided to get married and settle down.		
+PS20U17S078	1	17	私たちは笑顔で握手をした。	We shook hands with a smile.		
+PS20U17S079	1	17	あの金持ちの少年は，自分のスポーツカーを見せびらかすのが大好きだ。	That rich boy loves to show off his sports car.		
+PS20U17S080	1	17	彼女の送別会にはわずか数人しか姿を見せなかった。	Only a few people showed up for her farewell party.		
+PS20U17S081	1	17	彼女は一晩中起きて病気の母を看病した。	She sat up all night attending to her sick mother.		
+PS20U17S082	1	17	彼は遅かれ早かれ部屋を片付けるだろう。	He will clean up his room sooner or later.		
+PS20U17S083	1	17	聴衆は話者の声が聞こえなかったので，彼女にもっと大きな声で話すよう求めた。	The audience asked the speaker to speak up because they couldn’t hear her.		
+PS20U17S084	1	17	負傷した選手を手当てするために，競技場には看護師が待機していた。	A nurse was standing by at the stadium to take care of injured athletes.		
+PS20U17S085	1	17	そのホテルは 60階建てのビルなので，本当に目立つ。	The hotel is a sixty-story building so it really stands out.		
+PS20U17S086	1	17	先生は 2，3分で授業を要約した。	The teacher summed up the lesson in a few minutes. 		
+PS20U17S087	1	17	私たちは良い天気を利用してビーチへ出かけた。	We took advantage of the fine weather to go to the beach.		
 PS20U17S088	1	17	私の具合が悪かったので，上司が私の代役を務めた。	"Because I was sick, my boss took my place."		
-PS20U17S089	1	17	彼は，私たちの?油事業を引き継ぎたいと思っている。	He wants to take over our oil business.		
-PS20U17S090	1	17	私は本物のダイヤモンドを偽物のダイヤモンドと?分けられなかった。	I couldn’t tell the real diamond from the fake one.		
+PS20U17S089	1	17	彼は，私たちの石油事業を引き継ぎたいと思っている。	He wants to take over our oil business.		
+PS20U17S090	1	17	私は本物のダイヤモンドを偽物のダイヤモンドと見分けられなかった。	I couldn’t tell the real diamond from the fake one.		
 PS20U17S091	1	17	彼が今どこに住んでいるのかを知ることはできない。	There is no knowing where he lives now.		
-PS20U17S092	1	17	歴史の先?は?徒たちに答えをじっくり考えるための時間を 10分与えた。	The history teacher gave the students ten minutes to think over their answers. 		
+PS20U17S092	1	17	歴史の先生は生徒たちに答えをじっくり考えるための時間を 10分与えた。	The history teacher gave the students ten minutes to think over their answers. 		
 PS20U17S093	1	17	彼の話はある程度までは真実だ。	His story is true to some extent.		
-PS20U17S094	1	17	良い指?というものは，短くて的を射ていなくてはならない。	Good instructions should be short and to the point.		
+PS20U17S094	1	17	良い指示というものは，短くて的を射ていなくてはならない。	Good instructions should be short and to the point.		
 PS20U17S095	1	17	私たちは新製品を試験した。	We tried out the new product. 		
-PS20U17S096	1	17	私が彼?を?ると，彼?は私から顔を背けた。	"When I looked at her, she turned her face away from me."		
-PS20U17S097	1	17	彼?は?いドレスを着てパーティーに姿を現した。	She turned up at the party wearing a blue dress.		
+PS20U17S096	1	17	私が彼女を見ると，彼女は私から顔を背けた。	"When I looked at her, she turned her face away from me."		
+PS20U17S097	1	17	彼女は青いドレスを着てパーティーに姿を現した。	She turned up at the party wearing a blue dress.		
 PS20U17S098	1	17	その箱を逆さまに持つべきではない。	You should not hold the box upside down. 		
-PS20U17S099	1	17	私はお?を全部使い果たさないよう気をつける必要がある。	I need to be careful not to use up all of my money.		
+PS20U17S099	1	17	私はお金を全部使い果たさないよう気をつける必要がある。	I need to be careful not to use up all of my money.		
 PS20U17S100	1	17	遅かれ早かれ，あなたの靴の底はすり減るだろう。	The soles of your shoes are going to wear out sooner or later.		
-PS20U18S001	1	18	A:この?器洗い機はどう使えばいいのですか。  B:中に?器を?れるだけでいいのです。	A: How can I use this dishwasher?  B: All you have to do is to put the dishes in it. 		
-PS20U18S002	1	18	A:このレストランは良いの?  B:ああ，僕の知る限り，この辺りで最?のレストランの 1つだよ。	"A: Is this restaurant any good?  B: Yeah, this is one of the best around here as far as I know. "		
-PS20U18S003	1	18	乗客の皆様にお知らせします。まもなく離陸いたしますので，着席して次の指?を聞いてください。	"Attention, passengers. We will be taking off soon, so please be seated and listen to the following instructions."		
+PS20U18S001	1	18	A:この食器洗い機はどう使えばいいのですか。  B:中に食器を入れるだけでいいのです。	A: How can I use this dishwasher?  B: All you have to do is to put the dishes in it. 		
+PS20U18S002	1	18	A:このレストランは良いの?  B:ああ，僕の知る限り，この辺りで最高のレストランの 1つだよ。	"A: Is this restaurant any good?  B: Yeah, this is one of the best around here as far as I know. "		
+PS20U18S003	1	18	乗客の皆様にお知らせします。まもなく離陸いたしますので，着席して次の指示を聞いてください。	"Attention, passengers. We will be taking off soon, so please be seated and listen to the following instructions."		
 PS20U18S004	1	18	A:もしもし。今夜 6時に席を 2名で予約したいのですが。 B:かしこまりました，お客様。お名前を教えていただけますか。	"A: Hello. I’d like to reserve a table for two for tonight at six.  B: Certainly, ma’am. Could I have your name, please? "		
-PS20U18S005	1	18	A:もしもし，クリスといいます。ハリスさんをお願いします。  B:申し訳ありません，彼?はもうこちらでは働いていません。	"A: Hello, my name is Chris. Can I speak to Ms. Harris, please?  B: I’m afraid that she doesn’t work here anymore. "		
-PS20U18S006	1	18	A:もしもし。ジョンですか。  B:すみません，彼はいません。伝?を承りましょうか。	"A: Hello. Is this John?  B: Sorry, he’s not here. Can I take a message? "		
+PS20U18S005	1	18	A:もしもし，クリスといいます。ハリスさんをお願いします。  B:申し訳ありません，彼女はもうこちらでは働いていません。	"A: Hello, my name is Chris. Can I speak to Ms. Harris, please?  B: I’m afraid that she doesn’t work here anymore. "		
+PS20U18S006	1	18	A:もしもし。ジョンですか。  B:すみません，彼はいません。伝言を承りましょうか。	"A: Hello. Is this John?  B: Sorry, he’s not here. Can I take a message? "		
 PS20U18S007	1	18	A:こちらのスカートの 1着を試着してもよいですか。 B:もちろんです。サイズはいくつですか。	A: Can I try on one of these skirts?  B: Of course. What size are you? 		
 PS20U18S008	1	18	A:もしもし。ダニエルですか。 B:すみませんが，彼は今外出しています。後で彼にかけ直してもらえますか。	"A: Hello. Is this Daniel?  B: Sorry, he’s out right now. Can you call him back later? "		
-PS20U18S009	1	18	A:私がこの数学の問題を解くのを?伝ってくれない? B:僕はあまり数学が得意じゃないんだ。	A: Can you help me with this math problem?  B: I’m not very good at math. 		
-PS20U18S010	1	18	A:?曜?は都合がつきますか。  B:午前中は?事があるんだけど， 2時までにはそこに?けるよ。	"A: Can you make it on Wednesday?  B: I’ve got something to do in the morning, but I could be there by two. "		
+PS20U18S009	1	18	A:私がこの数学の問題を解くのを手伝ってくれない? B:僕はあまり数学が得意じゃないんだ。	A: Can you help me with this math problem?  B: I’m not very good at math. 		
+PS20U18S010	1	18	A:水曜日は都合がつきますか。  B:午前中は用事があるんだけど， 2時までにはそこに行けるよ。	"A: Can you make it on Wednesday?  B: I’ve got something to do in the morning, but I could be there by two. "		
 PS20U18S011	1	18	A: 7時に駅へ迎えに来てもらえる? B:いいよ。じゃあ，そのときに。	A: Can you pick me up at the station at 7 o’clock?  B: Sure. See you then. 		
 PS20U18S012	1	18	A:もう少しゆっくり話してもらえますか。 B:わかりました。	A: Can you slow down a bit?  B: Sure.		
 PS20U18S013	1	18	A:たばこを吸ってもいいですか。 B:できれば吸わないでほしいのですが。	A: Do you mind if I smoke?  B: I’d rather you didn’t. 		
-PS20U18S014	1	18	A:今夜は僕が??を作ろうか。 B:そうしてもらえるとうれしいわ，ありがとう。	"A: Do you want me to cook dinner tonight?  B: That’d be great, thank you. "		
-PS20U18S015	1	18	A:今夜映画を?に?かない?  B:いいわね。何を?る?	A: Do you want to go to see a movie tonight?  B: Sounds great. What are we going to see? 		
-PS20U18S016	1	18	A:本当にごめん。週末ずっと仕事をしなければならないんだ。  B:それはつまり私たちとキャンプに?けないということ?	"A: I’m so sorry, honey. I have to work all weekend.  B: Does that mean you can’t go camping with us? "		
-PS20U18S017	1	18	A:課題をいろいろ?伝ってくれて本当に感謝するわ。 B:どういたしまして。	A: I really appreciate all your help with my assignment. B: Don’t mention it. 		
-PS20U18S018	1	18	A:これらの商品は全部半額ですか。  B:はい。台所?品売り場でもセールを開催していますので，お?逃しなく。	"A: All these items are half price?  B: Yes. We’re also having a sale at the kitchen department, so don’t miss it. "		
-PS20U18S019	1	18	A:すみません。折りたためる旅?バッグを探しているのですが。  B:いくつかございますよ。こちらへどうぞ。	"A: Excuse me. I’m looking for a travel bag that can be folded.  B: We have some. This way, please. "		
+PS20U18S014	1	18	A:今夜は僕が夕食を作ろうか。 B:そうしてもらえるとうれしいわ，ありがとう。	"A: Do you want me to cook dinner tonight?  B: That’d be great, thank you. "		
+PS20U18S015	1	18	A:今夜映画を見に行かない?  B:いいわね。何を見る?	A: Do you want to go to see a movie tonight?  B: Sounds great. What are we going to see? 		
+PS20U18S016	1	18	A:本当にごめん。週末ずっと仕事をしなければならないんだ。  B:それはつまり私たちとキャンプに行けないということ?	"A: I’m so sorry, honey. I have to work all weekend.  B: Does that mean you can’t go camping with us? "		
+PS20U18S017	1	18	A:課題をいろいろ手伝ってくれて本当に感謝するわ。 B:どういたしまして。	A: I really appreciate all your help with my assignment. B: Don’t mention it. 		
+PS20U18S018	1	18	A:これらの商品は全部半額ですか。  B:はい。台所用品売り場でもセールを開催していますので，お見逃しなく。	"A: All these items are half price?  B: Yes. We’re also having a sale at the kitchen department, so don’t miss it. "		
+PS20U18S019	1	18	A:すみません。折りたためる旅行バッグを探しているのですが。  B:いくつかございますよ。こちらへどうぞ。	"A: Excuse me. I’m looking for a travel bag that can be folded.  B: We have some. This way, please. "		
 PS20U18S020	1	18	A:これらの DVDを友だちに貸してもいい? B:ええ。どうぞ。	A: Can I lend these DVDs to my friend?  B: Yeah. Go ahead. 		
 PS20U18S021	1	18	A:もしもし。ジョージさんはいますか。こちらはレインボー保険のルーシーです。  B:少々お待ちください。	"A: Hello. Can I talk to George, please? This is Lucy from Rainbow Insurance.  B: Hold on a minute, please. "		
-PS20U18S022	1	18	A:?で今週末はハイキングに?けないね。  B:代わりに映画を?に?かない?	A: We can’t go hiking this weekend because of the rain.  B: How about going to see a movie instead? 		
+PS20U18S022	1	18	A:雨で今週末はハイキングに行けないね。  B:代わりに映画を見に行かない?	A: We can’t go hiking this weekend because of the rain.  B: How about going to see a movie instead? 		
 PS20U18S023	1	18	A:何かお探しですか。 B:ええ。スポーツに関する本を探しています。	A: Can I help you?  B: Yes. I’m looking for books on sports. 		
-PS20U18S024	1	18	A:あの映画，気に?らなかったな。  B:どうして? A:ストーリーはまあまあだったけど，配役がひどかった。	"A: I didn’t like the movie.  B: How come?  A: The story was OK, but the cast was terrible. "		
-PS20U18S025	1	18	A:?都市での?活はいかがですか。  B:なかなかいいですよ，列?が少し混雑し過ぎているのを除けば。	"A: How do you like living in a big city?  B: Quite good, except the trains are a bit too crowded. "		
+PS20U18S024	1	18	A:あの映画，気に入らなかったな。  B:どうして? A:ストーリーはまあまあだったけど，配役がひどかった。	"A: I didn’t like the movie.  B: How come?  A: The story was OK, but the cast was terrible. "		
+PS20U18S025	1	18	A:大都市での生活はいかがですか。  B:なかなかいいですよ，列車が少し混雑し過ぎているのを除けば。	"A: How do you like living in a big city?  B: Quite good, except the trains are a bit too crowded. "		
 PS20U18S026	1	18	A:ほかに私にできることはある?  B:ないよ。本当に感謝しているよ。君の助けがなかったら，レポートは終わらなかったよ。	"A: Is there anything else I can do?  B: No, thanks. I really appreciate it. I couldn’t have finished the report without your help. "		
-PS20U18S027	1	18	A:彼の?っていることわかる? B:あまりに速く話しているので彼の?っていることがわからないよ。	A: Do you understand what he’s saying?  B: He is speaking so fast that I can’t follow him. 		
-PS20U18S028	1	18	A:あなた，?いものを?べるのはやめた?がいいよ。  B:努?はしているんだけど，どうしようもないんだ。	"A: You’d better stop eating sweets, honey.  B: I’m trying, but I can’t help it. "		
+PS20U18S027	1	18	A:彼の言っていることわかる? B:あまりに速く話しているので彼の言っていることがわからないよ。	A: Do you understand what he’s saying?  B: He is speaking so fast that I can’t follow him. 		
+PS20U18S028	1	18	A:あなた，甘いものを食べるのはやめた方がいいよ。  B:努力はしているんだけど，どうしようもないんだ。	"A: You’d better stop eating sweets, honey.  B: I’m trying, but I can’t help it. "		
 PS20U18S029	1	18	A:あなたとても失礼ね? B:本当にごめんなさい。そんなつもりはなかったんです。	A: You are so rude!  B: I’m very sorry. I didn’t mean it. 		
-PS20U18S030	1	18	A:もうすぐ晴れるかな。 B:それはどうかな。?はやみそうにないね。	A: I wonder if it will clear up soon.  B: I doubt it. It doesn’t seem like it’ll stop raining. 		
+PS20U18S030	1	18	A:もうすぐ晴れるかな。 B:それはどうかな。雨はやみそうにないね。	A: I wonder if it will clear up soon.  B: I doubt it. It doesn’t seem like it’ll stop raining. 		
 PS20U18S031	1	18	A:遅いわよ。 B:ごめんね。渋滞に巻き込まれたんだ。	A: You’re late.  B: I’m sorry. I got stuck in a traffic jam. 		
 PS20U18S032	1	18	A:ちょっと話があるの。私たちの娘についてなんだけど。  B:どうしたんだい?	A: I have something to tell you. It’s about our daughter.  B: What’s the matter? 		
-PS20U18S033	1	18	A:久しぶりだね。  B:やあ?会うのは?校卒業以来だね。	A: Long time no see.  B: Hi! I haven’t seen you since we graduated from high school. 		
-PS20U18S034	1	18	A:私のせいじゃない?  B:君の?いたいことはわかるけれど，ほかの誰もそう思っていないよ。	"A: It’s not my fault!  B: I see what you mean, but nobody else thinks so. "		
+PS20U18S033	1	18	A:久しぶりだね。  B:やあ?会うのは高校卒業以来だね。	A: Long time no see.  B: Hi! I haven’t seen you since we graduated from high school. 		
+PS20U18S034	1	18	A:私のせいじゃない?  B:君の言いたいことはわかるけれど，ほかの誰もそう思っていないよ。	"A: It’s not my fault!  B: I see what you mean, but nobody else thinks so. "		
 PS20U18S035	1	18	A:私たちのためにチケットを 2枚予約していただけないでしょうか。 B:かしこまりました。チケット売り場に電話します。	A: I wonder if you could reserve two tickets for us.  B: Certainly. I’ll call the ticket office. 		
-PS20U18S036	1	18	A:僕が留守の間，庭の??れをしてもらえるとありがたいのだけど。  B:いいよ。	A: I’d appreciate it if you could take care of my garden while I’m away.  B: OK. 		
-PS20U18S037	1	18	A:今?午後 7時にテーブルを予約したいのですが。 B:何名様ですか。	A: I’d like to reserve a table for 7 p.m. today.  B: How many people?		
-PS20U18S038	1	18	A:このスマートフォンを直してほしいのですが。  B:ちょっと?せてもらって，私にできることを調べさせてください。	A: I’d like to have this smartphone fixed.  B: Let me take a look and see what I can do. 		
-PS20U18S039	1	18	A:?曜?に僕と買い物に?かない?  B:ぜひそうしたいんだけど，その?はすでに予定があるのよ。	"A: Would you like to go shopping with me on Saturday? B: I’d love to, but I already have plans on that day. "		
-PS20U18S040	1	18	A:なんてことかしら，またエンジンがかからないわ?  B:新しい?を買うことを考える時期だろうね。	"A: Oh, my goodness, the engine won’t start again!  B: I’d say that it’s time to consider buying a new car. "		
-PS20U18S041	1	18	A:彼?はいつも彼?の友だちの前で私をからかうのよ。 B:もし僕が君だったら，我慢できないね。	"A: She always makes fun of me in front of her friends.  B: If I were you, I wouldn’t be able to stand it. "		
-PS20U18S042	1	18	A:今?の午後，泳ぎに?きましょう。  B:ええと，もし君が良ければ，?泳よりテニスをしたいな。	"A: Let’s go swimming this afternoon.  B: Well, I’d rather play tennis than go swimming if that’s OK with you. "		
-PS20U18S043	1	18	A:待って，?の中に眼鏡を忘れちゃったわ。 B:戻って取ってくるのがいいかも。 A:そうだね。すぐに戻るね。	"A: Wait, I left my glasses in the car.  B: Maybe you should go back and get them.  A: Yeah. I’ll be back in a minute. "		
+PS20U18S036	1	18	A:僕が留守の間，庭の手入れをしてもらえるとありがたいのだけど。  B:いいよ。	A: I’d appreciate it if you could take care of my garden while I’m away.  B: OK. 		
+PS20U18S037	1	18	A:今日午後 7時にテーブルを予約したいのですが。 B:何名様ですか。	A: I’d like to reserve a table for 7 p.m. today.  B: How many people?		
+PS20U18S038	1	18	A:このスマートフォンを直してほしいのですが。  B:ちょっと見せてもらって，私にできることを調べさせてください。	A: I’d like to have this smartphone fixed.  B: Let me take a look and see what I can do. 		
+PS20U18S039	1	18	A:土曜日に僕と買い物に行かない?  B:ぜひそうしたいんだけど，その日はすでに予定があるのよ。	"A: Would you like to go shopping with me on Saturday? B: I’d love to, but I already have plans on that day. "		
+PS20U18S040	1	18	A:なんてことかしら，またエンジンがかからないわ?  B:新しい車を買うことを考える時期だろうね。	"A: Oh, my goodness, the engine won’t start again!  B: I’d say that it’s time to consider buying a new car. "		
+PS20U18S041	1	18	A:彼女はいつも彼女の友だちの前で私をからかうのよ。 B:もし僕が君だったら，我慢できないね。	"A: She always makes fun of me in front of her friends.  B: If I were you, I wouldn’t be able to stand it. "		
+PS20U18S042	1	18	A:今日の午後，泳ぎに行きましょう。  B:ええと，もし君が良ければ，水泳よりテニスをしたいな。	"A: Let’s go swimming this afternoon.  B: Well, I’d rather play tennis than go swimming if that’s OK with you. "		
+PS20U18S043	1	18	A:待って，車の中に眼鏡を忘れちゃったわ。 B:戻って取ってくるのがいいかも。 A:そうだね。すぐに戻るね。	"A: Wait, I left my glasses in the car.  B: Maybe you should go back and get them.  A: Yeah. I’ll be back in a minute. "		
 PS20U18S044	1	18	A:休憩しよう。 B:いいわね。コーヒーを取ってくるわ。	A: Let’s take a break.  B: Good idea. I’ll go get some coffee. 		
-PS20U18S045	1	18	A:僕は明?の?接がとても?配なんだ。  B:きっと?丈夫よ。あなたの幸運を祈っているわ。	A: I’m really worried about my interview tomorrow.  B: I’m sure you’ll be fine. I’ll keep my fingers crossed for you. 		
-PS20U18S046	1	18	A:あいにく家に財布を忘れてきちゃったんだ。 B:?丈夫よ。今夜は私がごちそうするわ。	A: I’m afraid I left my wallet at home.  B: That’s all right. I’ll treat you tonight. 		
+PS20U18S045	1	18	A:僕は明日の面接がとても心配なんだ。  B:きっと大丈夫よ。あなたの幸運を祈っているわ。	A: I’m really worried about my interview tomorrow.  B: I’m sure you’ll be fine. I’ll keep my fingers crossed for you. 		
+PS20U18S046	1	18	A:あいにく家に財布を忘れてきちゃったんだ。 B:大丈夫よ。今夜は私がごちそうするわ。	A: I’m afraid I left my wallet at home.  B: That’s all right. I’ll treat you tonight. 		
 PS20U18S047	1	18	A:バスに間に合うと思う? B:残念ながら，そうは思わないな。	A: Do you think we’ll be in time to catch the bus?  B: I’m afraid not. 		
 PS20U18S048	1	18	A:コンピューターのことで困ってるんだ。しょっちゅうフリーズしちゃってさ。  B:お兄さんに助けてもらったらどう?	A: I’m having trouble with my computer. It freezes quite often.  B: Why don’t you ask your brother for help? 		
-PS20U18S049	1	18	A:こんにちは。特に何かお探しですか。 B:いいえ，?ているだけです，どうも。	"A: Good afternoon. Are you looking for something in particular?  B: No, I’m just looking, thank you. "		
-PS20U18S050	1	18	A:頭痛がする。?邪をひいたんだと思う。  B:それはお気の毒に。睡眠を取った?がいいですよ。	A: I have a headache. I think I’ve caught a cold.  B: I’m sorry to hear that. You should get some sleep. 		
-PS20U18S051	1	18	A:申し訳ありませんが，もう?かないと。 B:ああ，君と話せて楽しかったよ。おやすみなさい。	"A: I’m sorry, but I must be going now.  B: Oh, it was nice talking to you. Have a good night. "		
-PS20U18S052	1	18	A:この週末は天気が良くなりそうだ。  B:それなら，?曜?に海に?くのはどうかな?	"A: The weather is likely to be nice this weekend.  B: In that case, why don’t we go to the beach on Saturday? "		
+PS20U18S049	1	18	A:こんにちは。特に何かお探しですか。 B:いいえ，見ているだけです，どうも。	"A: Good afternoon. Are you looking for something in particular?  B: No, I’m just looking, thank you. "		
+PS20U18S050	1	18	A:頭痛がする。風邪をひいたんだと思う。  B:それはお気の毒に。睡眠を取った方がいいですよ。	A: I have a headache. I think I’ve caught a cold.  B: I’m sorry to hear that. You should get some sleep. 		
+PS20U18S051	1	18	A:申し訳ありませんが，もう行かないと。 B:ああ，君と話せて楽しかったよ。おやすみなさい。	"A: I’m sorry, but I must be going now.  B: Oh, it was nice talking to you. Have a good night. "		
+PS20U18S052	1	18	A:この週末は天気が良くなりそうだ。  B:それなら，土曜日に海に行くのはどうかな?	"A: The weather is likely to be nice this weekend.  B: In that case, why don’t we go to the beach on Saturday? "		
 PS20U18S053	1	18	A:もしもし。そちらにパークスさんはいますか。 B:はい。少々お待ちください。	"A: Hello. Is Mrs. Parks there?  B: Yes. Hold the line, please. "		
-PS20U18S054	1	18	A:ここに?を?めてもいいですか。  B:申し訳ありません。この区域は駐?禁?になっています。	"A: Is it OK for me to park my car here?  B: I’m sorry, sir. Parking is prohibited in this area. "		
-PS20U18S055	1	18	A:夏休みはいつもどこに?くの? B:場合によるわ。?が毎年いろいろな場所を選ぶの。	A: Where do you usually go for summer vacation?  B: It depends. My mother picks different places every year. 		
+PS20U18S054	1	18	A:ここに車を止めてもいいですか。  B:申し訳ありません。この区域は駐車禁止になっています。	"A: Is it OK for me to park my car here?  B: I’m sorry, sir. Parking is prohibited in this area. "		
+PS20U18S055	1	18	A:夏休みはいつもどこに行くの? B:場合によるわ。母が毎年いろいろな場所を選ぶの。	A: Where do you usually go for summer vacation?  B: It depends. My mother picks different places every year. 		
 PS20U18S056	1	18	A:今週末は何をしたい? B:君といられるならば何をするかは重要じゃないよ。	A: What do you want to do this weekend?  B: It doesn’t matter what we do as long as I can be with you. 		
-PS20U18S057	1	18	A:?勢の?が列に並んでいるようだわ。  B:どこかほかへ?こう。?時間待つのは嫌だよ。	A: It looks like many people are waiting in line.  B: Let’s go somewhere else. I hate to wait for a long time. 		
+PS20U18S057	1	18	A:大勢の人が列に並んでいるようだわ。  B:どこかほかへ行こう。長時間待つのは嫌だよ。	A: It looks like many people are waiting in line.  B: Let’s go somewhere else. I hate to wait for a long time. 		
 PS20U18S058	1	18	A:やあ?久しぶりだね? B:こんにちは。そうね， 1年ぶりぐらいのはずよ。元気?	"A: Hi! It’s been a long time!  B: Hello. Yes, it must have been about a year. How are you doing? "		
-PS20U18S059	1	18	A:?伝ってくれて本当にありがとう。 B:どういたしまして。	A: Thanks a lot for helping me.  B: It’s my pleasure. 		
+PS20U18S059	1	18	A:手伝ってくれて本当にありがとう。 B:どういたしまして。	A: Thanks a lot for helping me.  B: It’s my pleasure. 		
 PS20U18S060	1	18	A:パーティーに誰を招待したらいいかしら? B:君次第だよ。	A: Who should we invite to the party?  B: It’s up to you. 		
-PS20U18S061	1	18	A:今週末，スキーに?かない? B:いいね。ずっとやってみたいと思っていたんだ。	A: Would you like to go skiing this weekend?  B: Sure. I’ve always wanted to try it. 		
-PS20U18S062	1	18	A:僕はもう?かないと。 B:わかった。じゃあまた。	A: I’ve got to go.  B: OK. See you later. 		
-PS20U18S063	1	18	A:東京?きの切符を 2枚ください。隣り合って座りたいのですが。  B:確認いたします。 9時45分の列?なら隣り合った席をお取りできます。	"A: Two tickets for Tokyo, please. We’d like to sit next to each other.  B: Let me check. I can get you seats together on the 9:45 train. "		
+PS20U18S061	1	18	A:今週末，スキーに行かない? B:いいね。ずっとやってみたいと思っていたんだ。	A: Would you like to go skiing this weekend?  B: Sure. I’ve always wanted to try it. 		
+PS20U18S062	1	18	A:僕はもう行かないと。 B:わかった。じゃあまた。	A: I’ve got to go.  B: OK. See you later. 		
+PS20U18S063	1	18	A:東京行きの切符を 2枚ください。隣り合って座りたいのですが。  B:確認いたします。 9時45分の列車なら隣り合った席をお取りできます。	"A: Two tickets for Tokyo, please. We’d like to sit next to each other.  B: Let me check. I can get you seats together on the 9:45 train. "		
 PS20U18S064	1	18	A:お久しぶりです。 B:やあ。元気そうだね。	A: Long time no see.  B: Hi. You’re looking good. 		
-PS20U18S065	1	18	A:こんにちは。ご注?を伺ってもよろしいですか。 B:はい。コーヒーを 1杯ください。	"A: Good afternoon. May I take your order?  B: Yes. I’ll have a coffee, please. "		
-PS20U18S066	1	18	A:ホラー映画を?に?こうよ。 B:お断りよ。私は怖い映画は嫌いなの。	A: Let’s go see a horror movie.  B: No way. I hate scary movies. 		
-PS20U18S067	1	18	A:では，私は本当に?かないと。親切にしてくれてありがとう。 B:どういたしまして。あなたならいつでも歓迎するわ。	"A: Well, I really have to be going. Thank you for your kindness.  B: Not at all. You’re always welcome. "		
+PS20U18S065	1	18	A:こんにちは。ご注文を伺ってもよろしいですか。 B:はい。コーヒーを 1杯ください。	"A: Good afternoon. May I take your order?  B: Yes. I’ll have a coffee, please. "		
+PS20U18S066	1	18	A:ホラー映画を見に行こうよ。 B:お断りよ。私は怖い映画は嫌いなの。	A: Let’s go see a horror movie.  B: No way. I hate scary movies. 		
+PS20U18S067	1	18	A:では，私は本当に行かないと。親切にしてくれてありがとう。 B:どういたしまして。あなたならいつでも歓迎するわ。	"A: Well, I really have to be going. Thank you for your kindness.  B: Not at all. You’re always welcome. "		
 PS20U18S068	1	18	A:このコーヒーはとてもおいしいわ。そう思わない? B:そうでもないね。濃過ぎるよ。	"A: This coffee tastes great, don’t you think?  B: Not really. It’s too strong. "		
 PS20U18S069	1	18	A:新しい仕事はどう?  B:上司がちょっと気難しいんだ。そのほかは，結構楽しんでいるよ。	"A: How is your new job?  B: My boss is a bit difficult. Other than that, I’m quite enjoying it. "		
-PS20U18S070	1	18	A:ちょっとすみません，今?の会議の話をしたいのですが。 B:いいですよ。どうぞ。	"A: Sorry to interrupt you, but can we talk about today’s meeting?  B: All right. Go ahead. "		
-PS20U18S071	1	18	A:数学のテストが?配なの。 B:気楽にね。それはそんなに難しくないよ。	A: I’m worried about the math test.  B: Take it easy. It won’t be so difficult. 		
-PS20U18S072	1	18	A:?度するのに，もう数分かかると思うわ。 B:ごゆっくりどうぞ。僕たちは急いでいないからね。	A: I think I need a few more minutes to get ready.  B: Take your time. We’re not in a hurry. 		
-PS20U18S073	1	18	春祭りにお越しいただきありがとうございます。まもなくパレードがありますので，お?逃しなく?	"Thank you for coming to our Spring Festival. There will be a parade soon, so please don’t miss it!"		
-PS20U18S074	1	18	A:このレポートを?伝ってくれますか。 B:ごめんなさい。今は忙しいのよ。 A:ああ，わかった。ともかく，ありがとう。	"A: Could you please help me with this report?  B: I’m sorry. I’m busy right now.  A: Oh, OK. Thanks, anyway."		
-PS20U18S075	1	18	A:昨?，駅でばったりデイビッドに会ったよ。 B:それで思い出した。彼の本を返さなきゃ。	A: I ran into David at the station yesterday.  B: That reminds me. I need to give him back his book. 		
-PS20U18S076	1	18	A:今年の夏はイタリアに?く予定です。 B:それは楽しそうですね。	A: I’m going to Italy this summer.  B: That sounds like fun. 		
+PS20U18S070	1	18	A:ちょっとすみません，今日の会議の話をしたいのですが。 B:いいですよ。どうぞ。	"A: Sorry to interrupt you, but can we talk about today’s meeting?  B: All right. Go ahead. "		
+PS20U18S071	1	18	A:数学のテストが心配なの。 B:気楽にね。それはそんなに難しくないよ。	A: I’m worried about the math test.  B: Take it easy. It won’t be so difficult. 		
+PS20U18S072	1	18	A:支度するのに，もう数分かかると思うわ。 B:ごゆっくりどうぞ。僕たちは急いでいないからね。	A: I think I need a few more minutes to get ready.  B: Take your time. We’re not in a hurry. 		
+PS20U18S073	1	18	春祭りにお越しいただきありがとうございます。まもなくパレードがありますので，お見逃しなく?	"Thank you for coming to our Spring Festival. There will be a parade soon, so please don’t miss it!"		
+PS20U18S074	1	18	A:このレポートを手伝ってくれますか。 B:ごめんなさい。今は忙しいのよ。 A:ああ，わかった。ともかく，ありがとう。	"A: Could you please help me with this report?  B: I’m sorry. I’m busy right now.  A: Oh, OK. Thanks, anyway."		
+PS20U18S075	1	18	A:昨日，駅でばったりデイビッドに会ったよ。 B:それで思い出した。彼の本を返さなきゃ。	A: I ran into David at the station yesterday.  B: That reminds me. I need to give him back his book. 		
+PS20U18S076	1	18	A:今年の夏はイタリアに行く予定です。 B:それは楽しそうですね。	A: I’m going to Italy this summer.  B: That sounds like fun. 		
 PS20U18S077	1	18	A:売り上げを伸ばすために，私たちは何か全く新しいことを始めるべきだと思います。 B:それはまさに私が考えていたことです。	A: I think we should start something totally new to improve our sales.  B: That’s exactly what I was thinking. 		
 PS20U18S078	1	18	A:先週の試験はいい点が取れなかったんだ。 B:それは残念ね。	A: I didn’t do well in my exam last week.  B: That’s too bad. 		
 PS20U18S079	1	18	A:荷物を持ちましょうか。 B:ご親切にありがとう。	A: Would you like me to carry your luggage?  B: That’s very kind of you. 		
-PS20U18S080	1	18	A:明?のテニスの試合が?配だわ。 B:君は勝つことを考え過ぎだよ。ただ楽しんで。	A: I’m nervous about tomorrow’s tennis match.  B: You’re thinking too much about winning. Just have fun. 		
+PS20U18S080	1	18	A:明日のテニスの試合が心配だわ。 B:君は勝つことを考え過ぎだよ。ただ楽しんで。	A: I’m nervous about tomorrow’s tennis match.  B: You’re thinking too much about winning. Just have fun. 		
 PS20U18S081	1	18	A:もしもし。ブラウンさんはオフィスにいますか。 B:はい，ジョン・ブラウンです。	A: Hello. Is Mr. Brown in the office?  B: This is John Brown speaking. 		
-PS20U18S082	1	18	A:君はまだ若いんだ。別の?い?をすると，君にはたくさんのチャンスがある。今あきらめちゃだめだ。 B:ありがとう。	"A: You are still young. To put it another way, you have many opportunities. Don’t give up now.  B: Thank you. "		
-PS20U18S083	1	18	A:実を?うと，君が??で初めての彼?なんだ。  B:本当?あなたも私の初めての彼?なのよ。	"A: To tell you the truth, you’re the first girlfriend I’ve ever had.  B: Really? You’re my first boyfriend too. "		
-PS20U18S084	1	18	A:気をつけて??が来ているよ。 B:ありがとう。	A: Watch out! A car is coming.  B: Thanks. 		
-PS20U18S085	1	18	A:なんて散らかっているの。今すぐ?付けないと。 B:忘れてた?お客様がもうすぐ来るんだった。	A: What a mess. We’ve got to clean up right away.  B: I forgot! Our guests are coming soon. 		
-PS20U18S086	1	18	A:実に残念だ??が本当に降り出した。今?は釣りに?きたかったのに。  B:たぶん明??けるわよ。	A: What a shame! The rain is really starting to come down. I wanted to go fishing today.  B: Maybe we can go tomorrow. 		
-PS20U18S087	1	18	A:なんて良い天気なんでしょう?  B:本当にそうですね。ピクニックに?くのはどうですか。	A: What a beautiful day!  B: It sure is. What do you say to having a picnic? 		
-PS20U18S088	1	18	A:おばあさんは今?，落ち込んでいるようだね。彼?に何があったの?  B:彼?のネコが死んじゃったらしいよ。	A: Our grandmother looks down today. What happened to her?  B: I heard her cat passed away. 		
-PS20U18S089	1	18	A:浮かない顔をしているね。どうしたの?  B:悪天候でキャンプ旅?を中?することにしたんだ。	A: You look unhappy. What’s the matter?  B: We decided to cancel our camping trip due to bad weather. 		
-PS20U18S090	1	18	A:どうしたの?  B:スマートフォンが?つからないの。	A: What’s wrong?  B: I can’t find my smartphone. 		
-PS20U18S091	1	18	A:打ち合わせをしましょう。いつが都合良いですか。 B:私は?曜?が?番良いです。	A: Let’s have a meeting. When would be convenient for you?  B: Tuesday would be best for me. 		
-PS20U18S092	1	18	A:私は昨夜，お?さんと?げんかをしたの。彼?は私をちっとも理解してくれないの。  B:どうしてそんなことを?うの?	A: I had a big fight with my mother last night. She just doesn’t understand me.  B: Why do you say that? 		
-PS20U18S093	1	18	A:明?，サイクリングに?かない?  B:僕は家にいる?がいいな。外は暑過ぎるよ。	A: Why don’t we go cycling tomorrow?  B: I’d rather stay at home. It’s too hot outside. 		
+PS20U18S082	1	18	A:君はまだ若いんだ。別の言い方をすると，君にはたくさんのチャンスがある。今あきらめちゃだめだ。 B:ありがとう。	"A: You are still young. To put it another way, you have many opportunities. Don’t give up now.  B: Thank you. "		
+PS20U18S083	1	18	A:実を言うと，君が人生で初めての彼女なんだ。  B:本当?あなたも私の初めての彼氏なのよ。	"A: To tell you the truth, you’re the first girlfriend I’ve ever had.  B: Really? You’re my first boyfriend too. "		
+PS20U18S084	1	18	A:気をつけて?車が来ているよ。 B:ありがとう。	A: Watch out! A car is coming.  B: Thanks. 		
+PS20U18S085	1	18	A:なんて散らかっているの。今すぐ片付けないと。 B:忘れてた?お客様がもうすぐ来るんだった。	A: What a mess. We’ve got to clean up right away.  B: I forgot! Our guests are coming soon. 		
+PS20U18S086	1	18	A:実に残念だ?雨が本当に降り出した。今日は釣りに行きたかったのに。  B:たぶん明日行けるわよ。	A: What a shame! The rain is really starting to come down. I wanted to go fishing today.  B: Maybe we can go tomorrow. 		
+PS20U18S087	1	18	A:なんて良い天気なんでしょう?  B:本当にそうですね。ピクニックに行くのはどうですか。	A: What a beautiful day!  B: It sure is. What do you say to having a picnic? 		
+PS20U18S088	1	18	A:おばあさんは今日，落ち込んでいるようだね。彼女に何があったの?  B:彼女のネコが死んじゃったらしいよ。	A: Our grandmother looks down today. What happened to her?  B: I heard her cat passed away. 		
+PS20U18S089	1	18	A:浮かない顔をしているね。どうしたの?  B:悪天候でキャンプ旅行を中止することにしたんだ。	A: You look unhappy. What’s the matter?  B: We decided to cancel our camping trip due to bad weather. 		
+PS20U18S090	1	18	A:どうしたの?  B:スマートフォンが見つからないの。	A: What’s wrong?  B: I can’t find my smartphone. 		
+PS20U18S091	1	18	A:打ち合わせをしましょう。いつが都合良いですか。 B:私は火曜日が一番良いです。	A: Let’s have a meeting. When would be convenient for you?  B: Tuesday would be best for me. 		
+PS20U18S092	1	18	A:私は昨夜，お母さんと大げんかをしたの。彼女は私をちっとも理解してくれないの。  B:どうしてそんなことを言うの?	A: I had a big fight with my mother last night. She just doesn’t understand me.  B: Why do you say that? 		
+PS20U18S093	1	18	A:明日，サイクリングに行かない?  B:僕は家にいる方がいいな。外は暑過ぎるよ。	A: Why don’t we go cycling tomorrow?  B: I’d rather stay at home. It’s too hot outside. 		
 PS20U18S094	1	18	A:私は 1週間，のどと頭が痛いの。  B:医者に診てもらったらどう?	A: I’ve had a sore throat and a headache for a week.  B: Why don’t you go and see a doctor? 		
 PS20U18S095	1	18	A:あのペンを取ってもらえますか。  B:どのペン? 	"A: Would you hand me that pen, please?  B: Which one? "		
-PS20U18S096	1	18	A:みんなに??紹介をしていただけますか。  B:はい，でも英語がうまく話せないので，ほんの短いスピーチをします。 	"A: Would you introduce yourself to everyone?  B: Sure, but I can’t speak English well, so I’ll just make a short speech. "		
+PS20U18S096	1	18	A:みんなに自己紹介をしていただけますか。  B:はい，でも英語がうまく話せないので，ほんの短いスピーチをします。 	"A: Would you introduce yourself to everyone?  B: Sure, but I can’t speak English well, so I’ll just make a short speech. "		
 PS20U18S097	1	18	A:何かお飲み物はいかがですか。 B:ええ，どうも。オレンジジュースをいただけますか。	"A: Would you like something to drink, sir?  B: Yes, thanks. Could I have some orange juice, please? "		
-PS20U18S098	1	18	A:取り分け?の??をお持ちしましょうか。 B:ありがとう。 4枚いただけますか。 	"A: Would you like me to bring some small plates for sharing?  B: Thank you. Could we have four, please? "		
+PS20U18S098	1	18	A:取り分け用の小皿をお持ちしましょうか。 B:ありがとう。 4枚いただけますか。 	"A: Would you like me to bring some small plates for sharing?  B: Thank you. Could we have four, please? "		
 PS20U18S099	1	18	A:静かにしていただけませんか。 B:ああ，本当にすみません。 	"A: Would you mind being quiet?  B: Oh, we’re very sorry. "		
-PS20U18S100	1	18	A:僕の兄［弟］がまた仕事をクビになったんだ。今年 3回?だよ。  B:冗談でしょう。信じられないわ?	A: My brother was fired from his job again. It’s his third time this year.  B: You must be kidding. Unbelievable!		
-PS20U19S001	1	19	私は，今後，オーガニック?品はさらに?気になると思います。	I think that organic food will be more popular in the future.		
-PS20U19S002	1	19	私の意?では，?々は電気の使?を減らそうとすべきです。	"In my opinion, people should try to use less electricity."		
-PS20U19S003	1	19	私は，?々がインターネットに依存し過ぎていることに同意します。	I agree that people depend too much on the Internet.		
-PS20U19S004	1	19	私は，海外で働く若者が増えるという意?に賛成です。	I agree with the opinion that more young people will work overseas.		
-PS20U19S005	1	19	?どもがスポーツをすることは重要です。私がそう思う理由が 2つあります。	It is important for children to play sports. I have two reasons why I think so.		
-PS20U19S006	1	19	今後，英語を学びたいと思う?の数は増えると思います。その理由は 2つあります。	I think the number of people who want to learn English will increase in the future. I have two reasons for this.		
-PS20U19S007	1	19	私がこの意?を?持する理由は 2つあります。第1に，定期的な運動は?どもを健康に保つことができます。	"I have two reasons to support this opinion. First, regular exercise can keep children healthy."		
-PS20U19S008	1	19	第1に，定期的な運動は?どもを健康に保つことができます。第2に，?体的な運動は，?の健康に良い効果があります。	"First, regular exercise can keep children healthy. Second, physical exercise has good effects on mental health."		
+PS20U18S100	1	18	A:僕の兄［弟］がまた仕事をクビになったんだ。今年 3回目だよ。  B:冗談でしょう。信じられないわ?	A: My brother was fired from his job again. It’s his third time this year.  B: You must be kidding. Unbelievable!		
+PS20U19S001	1	19	私は，今後，オーガニック食品はさらに人気になると思います。	I think that organic food will be more popular in the future.		
+PS20U19S002	1	19	私の意見では，人々は電気の使用を減らそうとすべきです。	"In my opinion, people should try to use less electricity."		
+PS20U19S003	1	19	私は，人々がインターネットに依存し過ぎていることに同意します。	I agree that people depend too much on the Internet.		
+PS20U19S004	1	19	私は，海外で働く若者が増えるという意見に賛成です。	I agree with the opinion that more young people will work overseas.		
+PS20U19S005	1	19	子どもがスポーツをすることは重要です。私がそう思う理由が 2つあります。	It is important for children to play sports. I have two reasons why I think so.		
+PS20U19S006	1	19	今後，英語を学びたいと思う人の数は増えると思います。その理由は 2つあります。	I think the number of people who want to learn English will increase in the future. I have two reasons for this.		
+PS20U19S007	1	19	私がこの意見を支持する理由は 2つあります。第1に，定期的な運動は子どもを健康に保つことができます。	"I have two reasons to support this opinion. First, regular exercise can keep children healthy."		
+PS20U19S008	1	19	第1に，定期的な運動は子どもを健康に保つことができます。第2に，肉体的な運動は，心の健康に良い効果があります。	"First, regular exercise can keep children healthy. Second, physical exercise has good effects on mental health."		
 PS20U19S009	1	19	私がこのように感じる理由が 2つあります。まず第 1に，都会で暮らすことは，強いストレスになることがあります。	"There are two reasons why I feel this way. To begin with, living in a big city can be very stressful."		
-PS20U19S010	1	19	今後，オーガニック?品を買う?は増えると思います。まず第 1に，多くの?が健康に気を使っています。	"I think more people will buy organic food in the future. First of all, many people care about their health."		
-PS20U19S011	1	19	まず第 1に，多くの?が健康に気を使っています。その上，そのような?品は安価になりつつあります。	"First of all, many people care about their health. In addition, such food is getting less expensive."		
-PS20U19S012	1	19	まず第 1に，都会で暮らすことは，強いストレスになることがあります。また，?活費が農村部よりずいぶん?くつきます。	"To begin with, living in a big city can be very stressful. Also, the living cost is much higher than that of rural areas."		
-PS20U19S013	1	19	まず第 1に，定期的な運動は?どもを健康に保つことができます。さらに，スポーツは彼らのコミュニケーション能?を?めることができます。	"To begin with, regular exercise can keep children healthy. Furthermore, sports can improve their communication skills."		
-PS20U19S014	1	19	これは，多くの?が運動不?の危険性に気づいているからです。	This is because many people are aware of the dangers of not enough exercise.		
-PS20U19S015	1	19	地元経済の向上の?助となるので，彼らは観光客を歓迎します。	They welcome tourists because it helps improve their local economy.		
-PS20U19S016	1	19	多くの?がその低い価格のためにそのような製品を買いたいと思います。	Many people want to buy such products because of their low price.		
+PS20U19S010	1	19	今後，オーガニック食品を買う人は増えると思います。まず第 1に，多くの人が健康に気を使っています。	"I think more people will buy organic food in the future. First of all, many people care about their health."		
+PS20U19S011	1	19	まず第 1に，多くの人が健康に気を使っています。その上，そのような食品は安価になりつつあります。	"First of all, many people care about their health. In addition, such food is getting less expensive."		
+PS20U19S012	1	19	まず第 1に，都会で暮らすことは，強いストレスになることがあります。また，生活費が農村部よりずいぶん高くつきます。	"To begin with, living in a big city can be very stressful. Also, the living cost is much higher than that of rural areas."		
+PS20U19S013	1	19	まず第 1に，定期的な運動は子どもを健康に保つことができます。さらに，スポーツは彼らのコミュニケーション能力を高めることができます。	"To begin with, regular exercise can keep children healthy. Furthermore, sports can improve their communication skills."		
+PS20U19S014	1	19	これは，多くの人が運動不足の危険性に気づいているからです。	This is because many people are aware of the dangers of not enough exercise.		
+PS20U19S015	1	19	地元経済の向上の一助となるので，彼らは観光客を歓迎します。	They welcome tourists because it helps improve their local economy.		
+PS20U19S016	1	19	多くの人がその低い価格のためにそのような製品を買いたいと思います。	Many people want to buy such products because of their low price.		
 PS20U19S017	1	19	理由の 1つは，それらは環境に良いからです。	One reason is that they are good for the environment.		
-PS20U19S018	1	19	1つめの理由は，?々はそのような製品を買うことで地球を守れることを知っているからです。	The first reason is that people know that they can protect the Earth by buying such products. 		
-PS20U19S019	1	19	技術の進歩のおかげで，?々は今では世界中の?々とオンラインでコミュニケーションを取ることができます。	"Thanks to advances in technology, people are now able to communicate with people all over the world online."		
-PS20U19S020	1	19	例えば，学?は異?化を経験できます。	"For example, students can experience different cultures."		
-PS20U19S021	1	19	?多数の?がスマートフォンやタブレットコンピューターのような電?機器を持っています。	Most people have electronic devices such as smartphones and tablet computers.		
-PS20U19S022	1	19	従って，職場に?く代わりに在宅で仕事をすることを選ぶ?が増えています。	"Therefore, more people choose to work from home instead of going to the office."		
-PS20U19S023	1	19	その結果，多くの企業が外国?労働者を雇うことに苦労しています。	"As a result, many companies are having difficulty hiring foreign workers."		
+PS20U19S018	1	19	1つめの理由は，人々はそのような製品を買うことで地球を守れることを知っているからです。	The first reason is that people know that they can protect the Earth by buying such products. 		
+PS20U19S019	1	19	技術の進歩のおかげで，人々は今では世界中の人々とオンラインでコミュニケーションを取ることができます。	"Thanks to advances in technology, people are now able to communicate with people all over the world online."		
+PS20U19S020	1	19	例えば，学生は異文化を経験できます。	"For example, students can experience different cultures."		
+PS20U19S021	1	19	大多数の人がスマートフォンやタブレットコンピューターのような電子機器を持っています。	Most people have electronic devices such as smartphones and tablet computers.		
+PS20U19S022	1	19	従って，職場に行く代わりに在宅で仕事をすることを選ぶ人が増えています。	"Therefore, more people choose to work from home instead of going to the office."		
+PS20U19S023	1	19	その結果，多くの企業が外国人労働者を雇うことに苦労しています。	"As a result, many companies are having difficulty hiring foreign workers."		
 PS20U19S024	1	19	これはつまり，プラスチック廃棄物が海の動物に被害を及ぼしていることを意味します。	This means that plastic waste is damaging animals in the ocean.		
-PS20U19S025	1	19	これら 2つの理由から，環境に優しい製品を買う?は増えると思います。	"For these two reasons, I think more people will buy environmentally friendly products."		
-PS20U19S026	1	19	そういうわけで，今後，在宅で仕事をする?は増えると思います。	That is why I think more people will work from home in the future. 		
-PS20U19S027	1	19	結論として，?々はインターネット上の情報を信?するべきではないと思います。	"In conclusion, I think that people should not trust information on the Internet."		
-PS20U19S028	1	19	?企業で働きたいと思っている若者の数が増えています。	The number of young people who want to work in big companies is increasing.		
-PS20U19S029	1	19	ますます多くの?がプラスチック廃棄物を減らそうと努?しています。	More and more people are trying to reduce plastic waste.		
-PS20U19S030	1	19	そのようなプログラムは学校でより?般的になりつつあります。	Such programs are becoming more common in schools.		
-PS20U19S031	1	19	学?にとって?分の将来の職業について考えることは重要です。	It is important for students to think about their future career.		
-PS20U19S032	1	19	彼らにとって最も重要なことは，??懸命働くことよりむしろ，?由な時間を持つことです。	The most important thing for them is having free time rather than working hard.		
-PS20U19S033	1	19	書籍をオンラインで購?する?がたくさんいます。	There are many people who buy books online.		
+PS20U19S025	1	19	これら 2つの理由から，環境に優しい製品を買う人は増えると思います。	"For these two reasons, I think more people will buy environmentally friendly products."		
+PS20U19S026	1	19	そういうわけで，今後，在宅で仕事をする人は増えると思います。	That is why I think more people will work from home in the future. 		
+PS20U19S027	1	19	結論として，人々はインターネット上の情報を信用するべきではないと思います。	"In conclusion, I think that people should not trust information on the Internet."		
+PS20U19S028	1	19	大企業で働きたいと思っている若者の数が増えています。	The number of young people who want to work in big companies is increasing.		
+PS20U19S029	1	19	ますます多くの人がプラスチック廃棄物を減らそうと努力しています。	More and more people are trying to reduce plastic waste.		
+PS20U19S030	1	19	そのようなプログラムは学校でより一般的になりつつあります。	Such programs are becoming more common in schools.		
+PS20U19S031	1	19	学生にとって自分の将来の職業について考えることは重要です。	It is important for students to think about their future career.		
+PS20U19S032	1	19	彼らにとって最も重要なことは，一生懸命働くことよりむしろ，自由な時間を持つことです。	The most important thing for them is having free time rather than working hard.		
+PS20U19S033	1	19	書籍をオンラインで購入する人がたくさんいます。	There are many people who buy books online.		
 PS20U19S034	1	19	オンライン授業を提供している学校もあります。	Some schools provide online lessons.		
-PS20U19S035	1	19	近ごろ，プラスチック廃棄物が?きな問題となっています。	"These days, plastic waste has become a big problem."		
-PS20U19S036	1	19	最近の?は物を簡単に捨て過ぎているとよく?われます。	It is often said that people these days are throwing things away too easily.		
-PS20U19S037	1	19	週末しか?に乗らない?もいれば，毎??で通勤する?もいます。	"Some people only use their car on weekends, and others drive to work every day. "		
-PS20U19S038	1	19	ファストフードは速くて安いと?う?もいます。しかし，あまり頻繁に?べるのは健康的ではありません。	"Some people say fast food is quick and cheap. However, it is not healthy to eat it too often."		
+PS20U19S035	1	19	近ごろ，プラスチック廃棄物が大きな問題となっています。	"These days, plastic waste has become a big problem."		
+PS20U19S036	1	19	最近の人は物を簡単に捨て過ぎているとよく言われます。	It is often said that people these days are throwing things away too easily.		
+PS20U19S037	1	19	週末しか車に乗らない人もいれば，毎日車で通勤する人もいます。	"Some people only use their car on weekends, and others drive to work every day. "		
+PS20U19S038	1	19	ファストフードは速くて安いと言う人もいます。しかし，あまり頻繁に食べるのは健康的ではありません。	"Some people say fast food is quick and cheap. However, it is not healthy to eat it too often."		
