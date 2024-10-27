@@ -4,19 +4,19 @@ SB001S002	1	1	A: ‚Å‚ÍA–{“ú‚Í‚ ‚È‚½‚ª—ˆ”NƒAƒCƒ‹ƒ‰ƒ“ƒh‚ÉˆÚ“]‚³‚ê‚éÛ‚ÌƒAƒCƒ‹ƒ‰ƒ“ƒ
 SB001S003	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚»‚µ‚ÄA‚ ‚È‚½‚Í—ˆT“ú–{‚ÌÅ–±ƒuƒŠ[ƒtƒBƒ“ƒO‚ª‚ ‚é‚Æf‚Á‚Ä‚¢‚Ü‚·B³‚µ‚¢‚Å‚·‚©H	A: Okay and I believe you have your Japanese tax briefing next week.  Am I correct?  		
 SB001S004	1	1	A: Š®àø‚Å‚·B	A: Perfect. 		
 SB001S005	1	1	A: ‚Å‚·‚Ì‚ÅA‚Å‚«‚ê‚Î1ŠÔ‚Ü‚é‚Ü‚ég‚í‚¸‚ÉÏ‚Ş‚Æv‚¢‚Ü‚·‚ªA‚à‚¿‚ë‚ñ’Ê˜bŒã‚É‰½‚©‚²¿–â‚ª‚ ‚ê‚ÎA‚»‚Ì‚½‚ß‚É1ŠÔŠm•Û‚µ‚Ä‚¢‚Ü‚·B	A: So hopefully I won't take the whole hour but obviously we do have the hour in case you have any questions you want to discuss following the call.  		
-SB001S006	1	1	A: i‚ß‚Ä‚¢‚­’†‚ÅA‰½‚©‚²¿–â‚ª‚ ‚ê‚Î‰“—¶‚È‚­‚¨‚Á‚µ‚á‚Á‚Ä‚­‚¾‚³‚¢B	A: Like it's it's absolutely fine as we go through any questions you might have.  		
-SB001S007	1	1	A: ‚Å‚ÍAn‚ß‚é‘O‚É‚¨’m‚ç‚¹‚µ‚Ä‚¨‚«‚½‚¢‚Ì‚Å‚·‚ªA„‚½‚¿‚Í‚±‚Ì’Ê˜b‚Ìƒm[ƒg‚ğ1A2“úˆÈ“à‚É‚ ‚È‚½‚ÌVulnerability Hold Cabinet‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ü‚·B	A: Now before we start I just wanted to let you know that we will be uploading notes from the school to your vulnerability hold cabinet in the next day or two.  		
+SB001S006	1	1	A: i‚ß‚Ä‚¢‚­’†‚ÅA‰½‚©‚²¿–â‚ª‚ ‚ê‚Î‰“—¶‚È‚­‚¨‚Á‚µ‚á‚Á‚Ä‚­‚¾‚³‚¢B	A: Like it's absolutely fine as we go through any questions you might have.  		
+SB001S007	1	1	A: ‚Å‚ÍAn‚ß‚é‘O‚É‚¨’m‚ç‚¹‚µ‚Ä‚¨‚«‚½‚¢‚Ì‚Å‚·‚ªA„‚½‚¿‚Í‚±‚Ì’Ê˜b‚Ìƒm[ƒg‚ğ1A2“úˆÈ“à‚É‚ ‚È‚½‚ÌVulnerability Hold Cabinet‚ÉƒAƒbƒvƒ[ƒh‚µ‚Ü‚·B	"A: Now, before we start, I just wanted to let you know that we will be uploading the notes from the call to your vulnerability hold cabinet in the next day or two.  "		
 SB001S008	1	1	A: ‚Å‚·‚Ì‚ÅA‚±‚Ì’Ê˜b‚Åƒm[ƒg‚ğæ‚é•K—v‚Í‚ ‚è‚Ü‚¹‚ñB‚¢‚¸‚ê‚É‚¹‚æ’ñ‹Ÿ‚³‚ê‚Ü‚·‚©‚çB	A: So you know you don't have to take any notes for this call because it'll be provided anyway.  		
 SB001S009	1	1	A: ’Ê˜b’†A‚Ç‚ñ‚È¿–â‚Å‚à‰“—¶‚È‚­‚¨q‚Ë‚­‚¾‚³‚¢B‚½‚¾AŒã‚ÅƒuƒŠ[ƒtƒBƒ“ƒOƒm[ƒg‚ğ“Ç‚ñ‚¾Œã‚É‚³‚ç‚É¿–â‚ª‚ ‚ê‚ÎA‚¢‚Â‚Å‚à„‚½‚¿‚Éƒ[ƒ‹‚ğ‘—‚Á‚Ä‚­‚¾‚³‚¢B	A: Feel free to ask any questions throughout the call but if you have further questions later once you've gone through the briefing notes you can always just send us an email.		
 SB001S010	1	1	A: ‚Ü‚½AMy Mobility‚Åƒwƒ‹ƒvƒZƒ“ƒ^[‚ÌƒIƒvƒVƒ‡ƒ“‚ğ‚²——‚É‚È‚Á‚½‚©‚à‚µ‚ê‚Ü‚¹‚ñ‚ªA‚»‚±‚Åƒwƒ‹ƒvƒZƒ“ƒ^[‚Ìƒ`ƒPƒbƒg‚ğ’ño‚·‚é‚±‚Æ‚à‚Å‚«‚Ü‚·B‚»‚Ìê‡A„‚½‚¿‚Ì’N‚©‚ª24ŠÔˆÈ“à‚É‚¨•Ô–‚µ‚Ü‚·B	A: Or on my mobility you may have seen the help center option where you can submit help center tickets as well and one of us will get back to you within 24 hours.  		
-SB001S011	1	1	A: ‚³‚ÄA‚ ‚È‚½‚Ì‚½‚ß‚É³‚µ‚¢î•ñ‚ğ‚Á‚Ä‚¢‚é‚©Šm”F‚µ‚½‚¢‚Æv‚¢‚Ü‚·B	A: Now I just want to make sure we have the correct information and not ours for you.  		
+SB001S011	1	1	A: ‚³‚ÄA‚ ‚È‚½‚Ì‚½‚ß‚É³‚µ‚¢î•ñ‚ğ‚Á‚Ä‚¢‚é‚©Šm”F‚µ‚½‚¢‚Æv‚¢‚Ü‚·B	A: Now I just want to make sure we have the correct information for you.		
 SB001S012	1	1	A: ƒAƒ}ƒ]ƒ“‚©‚çA‚ ‚È‚½‚ª—ˆ”N‚Ì4Œ‚ÉƒAƒ}ƒ]ƒ“EƒAƒCƒ‹ƒ‰ƒ“ƒh‚Å“­‚«n‚ß‚é‚Æ•·‚¢‚Ä‚¢‚Ü‚·B‚»‚ê‚ÍŠm”F‚³‚ê‚Ä‚¢‚Ü‚·‚©H	A: So we've been informed by Amazon that you will start working for Amazon Ireland in April of next year. Has that been confirmed?  		
 SB001S013	1	1	„: ‚Í‚¢AŠm”F‚µ‚Ü‚µ‚½B	Me: Ah yes I confirmed.  		
 SB001S014	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍAƒAƒ}ƒ]ƒ“EƒAƒCƒ‹ƒ‰ƒ“ƒh‚Å‚Ì‰o‹Î“ú‚Í‚¢‚Â‚É‚È‚è‚Ü‚·‚©H	A: Okay so when will be your first day working in Amazon Ireland?  		
 SB001S015	1	1	„: —ˆ”N‚Ì4Œ7“ú‚©‚ç“­‚­—\’è‚Å‚·B	Me: I think I'm going to work on the 7th of April next year.  		
 SB001S016	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍAƒAƒCƒ‹ƒ‰ƒ“ƒh‚É“’…‚·‚é‚Ì‚Í‚¢‚Â ‚¾‚Æ‚¨l‚¦‚Å‚·‚©H	A: Okay and when do you think you'll be arriving in Ireland?  		
 SB001S017	1	1	„: —ˆ”N‚Ì3Œ––‚ÉƒAƒCƒ‹ƒ‰ƒ“ƒh‚És‚­‚Æv‚¢‚Ü‚·B	Me: I think I'll be going to Ireland at the end of March next year.  		
-SB001S018	1	1	A: Š®àø‚Å‚·B‚»‚ê‚©‚çA‚à‚µ‚æ‚ë‚µ‚¯‚ê‚ÎA‚ ‚È‚½‚ÌŒÂlî•ñ‚ğ‚¢‚­‚Â‚©ûW‚³‚¹‚Ä‚¢‚½‚¾‚«‚½‚¢‚Å‚·B„‚½‚¿‚Ìƒtƒ@ƒCƒ‹‚ğÅV‚É•Û‚Â‚½‚ß‚Å‚·B	A: Perfect. And I just need to gather some of your personal information as well if you don't mind just to keep our falls up to date.  		
+SB001S018	1	1	A: Š®àø‚Å‚·B‚»‚ê‚©‚çA‚à‚µ‚æ‚ë‚µ‚¯‚ê‚ÎA‚ ‚È‚½‚ÌŒÂlî•ñ‚ğ‚¢‚­‚Â‚©ûW‚³‚¹‚Ä‚¢‚½‚¾‚«‚½‚¢‚Å‚·B„‚½‚¿‚Ìƒtƒ@ƒCƒ‹‚ğÅV‚É•Û‚Â‚½‚ß‚Å‚·B	"A: Perfect. And I just need to gather some of your personal information, if you don't mind, just to keep our files up to date."		
 SB001S019	1	1	A: ‚ ‚È‚½‚Í“ú–{‚©‚çˆÚ“®‚³‚ê‚é‚Ì‚ÅA‘Ğ‚ğŠm”F‚³‚¹‚Ä‚¢‚½‚¾‚¯‚Ü‚·‚©H‚ ‚È‚½‚Ì‘Ğ‚Í‰½‚Å‚·‚©H‚ ‚È‚½‚Í“ú–{l‚Å‚·‚©H	A: So you are moving from Japan can you please confirm your nationality?  What is your nationality?  Are you Japanese?  		
 SB001S020	1	1	„: „‚Í“ú–{l‚Å‚·B	Me: I'm Japanese.  		
 SB001S021	1	1	A: ‚í‚©‚è‚Ü‚µ‚½BÅ–±ã‚Ì–Ú“I‚ÅA‚ ‚È‚½‚ÍŒ‹¥‚³‚ê‚Ä‚¢‚Ü‚·‚©A‚»‚ê‚Æ‚à“Æg‚Å‚·‚©H	A: Okay. And for tax purposes are you married or single?  		
@@ -35,17 +35,17 @@ SB001S033	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚ ‚È‚½‚Ìû“üŒ¹‚ğ—‰ğ‚µ‚½‚¢‚Ì‚ÅAŒ»İ“ú–{‚ÅŒÙ—p‚³‚
 SB001S034	1	1	„: „‚Í—Õ‚Ìd–‚ğ‚µ‚Ä‚¢‚Ü‚·B	Me: I have a temporary job.  		
 SB001S035	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍA‚¢‚Â‚©‚ç“­‚«n‚ß‚Ü‚µ‚½‚©H	A: Okay so when did you start working?  		
 SB001S036	1	1	„: 1”N‘O‚¾‚Æv‚¢‚Ü‚·B	Me: one year ago I think.  		
-SB001S037	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍA¡”N1Œ‚©‚ç‚¸‚Á‚Æ“ú–{‚Å“­‚¢‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÅA1Œ‚É‚à“­‚¢‚Ä‚¢‚Ü‚µ‚½‚©H	A: Okay so you've been working in Japan this whole year from January like in January you were working as well?  		
+SB001S037	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍA¡”N1Œ‚©‚ç‚¸‚Á‚Æ“ú–{‚Å“­‚¢‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚ÅA1Œ‚É‚à“­‚¢‚Ä‚¢‚Ü‚µ‚½‚©H	"A: Okay so you've been working in Japan this whole year from January. Like, in January, you were working as well?  "		
 SB001S038	1	1	„: ‚Í‚¢A‚»‚¤‚Å‚·B	Me: Yeah yes.  		
-SB001S039	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍAƒAƒCƒ‹ƒ‰ƒ“ƒh‚ÉˆÚ‚é‘O‚É‚»‚Ìd–‚ğ«‚ß‚é—\’è‚Å‚·‚©H	A: Okay so I will you be resigning from that job before you move to Ireland?  		
+SB001S039	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍAƒAƒCƒ‹ƒ‰ƒ“ƒh‚ÉˆÚ‚é‘O‚É‚»‚Ìd–‚ğ«‚ß‚é—\’è‚Å‚·‚©H	A: Okay so will you be resigning from that job before you move to Ireland?  		
 SB001S040	1	1	„: ‚Í‚¢A‚»‚Ì—\’è‚Å‚·B	Me: yes I will do.  		
 SB001S041	1	1	A: ‚í‚©‚è‚Ü‚µ‚½B‚Å‚ÍA2025”N‚ÌƒAƒCƒ‹ƒ‰ƒ“ƒh‚ÌÅ–±\‘‚ğ€”õ‚µ‚Ü‚·B	A: Okay so we will be preparing your 2025 the Irish tax return.		
-SB001S042	1	1	A: ƒAƒCƒ‹ƒ‰ƒ“ƒh‚Ì‰ÛÅ”N“x‚Í1Œ‚©‚ç12Œ‚Ü‚Å‚Ì—ï”N‚Æ“¯‚¶‚È‚Ì‚ÅA2025”N‚Ì‚ ‚È‚½‚Ì‚·‚×‚Ä‚Ìû“ü‚ğ”cˆ¬‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	"A: So the Irish tax year is the same as the calendar year from January to December, so we just need to capture you know any income you have in 2025."		
+SB001S042	1	1	A: ƒAƒCƒ‹ƒ‰ƒ“ƒh‚Ì‰ÛÅ”N“x‚Í1Œ‚©‚ç12Œ‚Ü‚Å‚Ì—ï”N‚Æ“¯‚¶‚È‚Ì‚ÅA2025”N‚Ì‚ ‚È‚½‚Ì‚·‚×‚Ä‚Ìû“ü‚ğ”cˆ¬‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B	"A: So the Irish tax year is the same as the calendar year from January to December, so we just need to capture any income you have in 2025."		
 SB001S043	1	1	A: ‚Å‚·‚Ì‚ÅA2025”N‚Ì1Œ‚©‚ç4Œ‚ÌŠÔ‚É‚ ‚È‚½‚Í“ú–{‚Å‚Ì‹‹—^Š“¾‚ª‚ ‚é‚Æ‰¼’è‚µ‚Ä‚¢‚Ü‚·B³‚µ‚¢‚Å‚·‚©H	A: So I'm assuming between January and April 2025 you will have your Japanese employment income. Correct?  		
 SB001S044	1	1	A: ‚»‚êˆÈŠO‚ÉA—˜qŠ“¾‚â’À‘İû“ü‚È‚Ç‘¼‚Ìû“üŒ¹‚Í‚ ‚è‚Ü‚·‚©H	"A: Okay so other than that do you have any other sources of income like interest income, rental income?  "		
 SB001S045	1	1	„: „‚Í‹‹—^Š“¾‚Ì‚İ‚¾‚Æv‚¢‚Ü‚·B	Me: I think I have only salary income.  		
 SB001S046	1	1	A: ‚í‚©‚è‚Ü‚µ‚½A‚»‚ê‚Å–â‘è‚ ‚è‚Ü‚¹‚ñB	A: Okay okay that's fine.  		
-SB001S047	1	1	A: ‚»‚µ‚ÄA‚ ‚È‚½‚Ì‘S¢ŠE“I‚È‘Y‚É‚Â‚¢‚Ä‚Å‚·‚ªA‚ ‚È‚½‚ÍƒAƒ}ƒ]ƒ“‚Å“­‚«n‚ß‚é‚ÆƒAƒ}ƒ]ƒ“‚ÌŠ”®‚ğó‚¯æ‚é‚±‚Æ‚É‚È‚è‚Ü‚·B‚±‚ê‚ÍRSUi§ŒÀ•t‚«Š”®ƒ†ƒjƒbƒgj‚ÆŒÄ‚Î‚ê‚Ü‚·B	"A: And then in terms of your worldwide assets so you know you will be receiving Amazon shares once you start working for Amazon so that's called RSUs, Rescriptive Share Units.  "		
+SB001S047	1	1	A: ‚»‚µ‚ÄA‚ ‚È‚½‚Ì‘S¢ŠE“I‚È‘Y‚É‚Â‚¢‚Ä‚Å‚·‚ªA‚ ‚È‚½‚ÍƒAƒ}ƒ]ƒ“‚Å“­‚«n‚ß‚é‚ÆƒAƒ}ƒ]ƒ“‚ÌŠ”®‚ğó‚¯æ‚é‚±‚Æ‚É‚È‚è‚Ü‚·B‚±‚ê‚ÍRSUi§ŒÀ•t‚«Š”®ƒ†ƒjƒbƒgj‚ÆŒÄ‚Î‚ê‚Ü‚·B	"A: And then, in terms of your worldwide assets, so you will be receiving Amazon shares once you start working for Amazon. So that's called RSUs, Restricted Stock Units.  "		
 SB001S048	1	1	A: ‚»‚êˆÈŠO‚ÉA¢ŠE‚Ì‚Ç‚±‚©‚É‘Y‚ğ‚¨‚¿‚Å‚·‚©H—á‚¦‚Î‰Æ‚È‚Ç‚Ì•s“®Y‚ğŠ—L‚µ‚Ä‚¢‚Ü‚·‚©HŠ”®‚Ìƒ|[ƒgƒtƒHƒŠƒI‚Í‚¨‚¿‚Å‚·‚©H	A: So aside from that do you have any assets anywhere in the world like do you own any properties like a house? Do you have any stock portfolio?  		
 SB001S049	1	1	„: ‰½‚à‚Á‚Ä‚¢‚È‚¢‚Æv‚¢‚Ü‚·B	Me: I think I've got nothing.  		
 SB001S050	1	1	A: ‚í‚©‚è‚Ü‚µ‚½BŠ®àø‚Å‚·B‚±‚ê‚ç‚ÌÚ×‚ğˆê‚ÉŠm”F‚µ‚Ä‚¢‚½‚¾‚«‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·B	A: Okay perfect.  so thanks so much for going through those details with me. 		

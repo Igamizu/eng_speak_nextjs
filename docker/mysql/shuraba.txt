@@ -4,19 +4,19 @@ SB001S002	1	1	A: では、本日はあなたが来年アイルランドに移転
 SB001S003	1	1	A: わかりました。そして、あなたは来週日本の税務ブリーフィングがあると伺っています。正しいですか？	A: Okay and I believe you have your Japanese tax briefing next week.  Am I correct?  		
 SB001S004	1	1	A: 完璧です。	A: Perfect. 		
 SB001S005	1	1	A: ですので、できれば1時間まるまる使わずに済むと思いますが、もちろん通話後に何かご質問があれば、そのために1時間確保しています。	A: So hopefully I won't take the whole hour but obviously we do have the hour in case you have any questions you want to discuss following the call.  		
-SB001S006	1	1	A: 進めていく中で、何かご質問があれば遠慮なくおっしゃってください。	A: Like it's it's absolutely fine as we go through any questions you might have.  		
-SB001S007	1	1	A: では、始める前にお知らせしておきたいのですが、私たちはこの通話のノートを1、2日以内にあなたのVulnerability Hold Cabinetにアップロードします。	A: Now before we start I just wanted to let you know that we will be uploading notes from the school to your vulnerability hold cabinet in the next day or two.  		
+SB001S006	1	1	A: 進めていく中で、何かご質問があれば遠慮なくおっしゃってください。	A: Like it's absolutely fine as we go through any questions you might have.  		
+SB001S007	1	1	A: では、始める前にお知らせしておきたいのですが、私たちはこの通話のノートを1、2日以内にあなたのVulnerability Hold Cabinetにアップロードします。	"A: Now, before we start, I just wanted to let you know that we will be uploading the notes from the call to your vulnerability hold cabinet in the next day or two.  "		
 SB001S008	1	1	A: ですので、この通話でノートを取る必要はありません。いずれにせよ提供されますから。	A: So you know you don't have to take any notes for this call because it'll be provided anyway.  		
 SB001S009	1	1	A: 通話中、どんな質問でも遠慮なくお尋ねください。ただ、後でブリーフィングノートを読んだ後にさらに質問があれば、いつでも私たちにメールを送ってください。	A: Feel free to ask any questions throughout the call but if you have further questions later once you've gone through the briefing notes you can always just send us an email.		
 SB001S010	1	1	A: また、My Mobilityでヘルプセンターのオプションをご覧になったかもしれませんが、そこでヘルプセンターのチケットを提出することもできます。その場合、私たちの誰かが24時間以内にお返事します。	A: Or on my mobility you may have seen the help center option where you can submit help center tickets as well and one of us will get back to you within 24 hours.  		
-SB001S011	1	1	A: さて、あなたのために正しい情報を持っているか確認したいと思います。	A: Now I just want to make sure we have the correct information and not ours for you.  		
+SB001S011	1	1	A: さて、あなたのために正しい情報を持っているか確認したいと思います。	A: Now I just want to make sure we have the correct information for you.		
 SB001S012	1	1	A: アマゾンから、あなたが来年の4月にアマゾン・アイルランドで働き始めると聞いています。それは確認されていますか？	A: So we've been informed by Amazon that you will start working for Amazon Ireland in April of next year. Has that been confirmed?  		
 SB001S013	1	1	私: はい、確認しました。	Me: Ah yes I confirmed.  		
 SB001S014	1	1	A: わかりました。では、アマゾン・アイルランドでの初出勤日はいつになりますか？	A: Okay so when will be your first day working in Amazon Ireland?  		
 SB001S015	1	1	私: 来年の4月7日から働く予定です。	Me: I think I'm going to work on the 7th of April next year.  		
 SB001S016	1	1	A: わかりました。では、アイルランドに到着するのはいつ頃だとお考えですか？	A: Okay and when do you think you'll be arriving in Ireland?  		
 SB001S017	1	1	私: 来年の3月末にアイルランドに行くと思います。	Me: I think I'll be going to Ireland at the end of March next year.  		
-SB001S018	1	1	A: 完璧です。それから、もしよろしければ、あなたの個人情報をいくつか収集させていただきたいです。私たちのファイルを最新に保つためです。	A: Perfect. And I just need to gather some of your personal information as well if you don't mind just to keep our falls up to date.  		
+SB001S018	1	1	A: 完璧です。それから、もしよろしければ、あなたの個人情報をいくつか収集させていただきたいです。私たちのファイルを最新に保つためです。	"A: Perfect. And I just need to gather some of your personal information, if you don't mind, just to keep our files up to date."		
 SB001S019	1	1	A: あなたは日本から移動されるので、国籍を確認させていただけますか？あなたの国籍は何ですか？あなたは日本人ですか？	A: So you are moving from Japan can you please confirm your nationality?  What is your nationality?  Are you Japanese?  		
 SB001S020	1	1	私: 私は日本人です。	Me: I'm Japanese.  		
 SB001S021	1	1	A: わかりました。税務上の目的で、あなたは結婚されていますか、それとも独身ですか？	A: Okay. And for tax purposes are you married or single?  		
@@ -35,17 +35,17 @@ SB001S033	1	1	A: わかりました。あなたの収入源を理解したいの
 SB001S034	1	1	私: 私は臨時の仕事をしています。	Me: I have a temporary job.  		
 SB001S035	1	1	A: わかりました。では、いつから働き始めましたか？	A: Okay so when did you start working?  		
 SB001S036	1	1	私: 1年前だと思います。	Me: one year ago I think.  		
-SB001S037	1	1	A: わかりました。では、今年1月からずっと日本で働いているということで、1月にも働いていましたか？	A: Okay so you've been working in Japan this whole year from January like in January you were working as well?  		
+SB001S037	1	1	A: わかりました。では、今年1月からずっと日本で働いているということで、1月にも働いていましたか？	"A: Okay so you've been working in Japan this whole year from January. Like, in January, you were working as well?  "		
 SB001S038	1	1	私: はい、そうです。	Me: Yeah yes.  		
-SB001S039	1	1	A: わかりました。では、アイルランドに移る前にその仕事を辞める予定ですか？	A: Okay so I will you be resigning from that job before you move to Ireland?  		
+SB001S039	1	1	A: わかりました。では、アイルランドに移る前にその仕事を辞める予定ですか？	A: Okay so will you be resigning from that job before you move to Ireland?  		
 SB001S040	1	1	私: はい、その予定です。	Me: yes I will do.  		
 SB001S041	1	1	A: わかりました。では、2025年のアイルランドの税務申告書を準備します。	A: Okay so we will be preparing your 2025 the Irish tax return.		
-SB001S042	1	1	A: アイルランドの課税年度は1月から12月までの暦年と同じなので、2025年のあなたのすべての収入を把握する必要があります。	"A: So the Irish tax year is the same as the calendar year from January to December, so we just need to capture you know any income you have in 2025."		
+SB001S042	1	1	A: アイルランドの課税年度は1月から12月までの暦年と同じなので、2025年のあなたのすべての収入を把握する必要があります。	"A: So the Irish tax year is the same as the calendar year from January to December, so we just need to capture any income you have in 2025."		
 SB001S043	1	1	A: ですので、2025年の1月から4月の間にあなたは日本での給与所得があると仮定しています。正しいですか？	A: So I'm assuming between January and April 2025 you will have your Japanese employment income. Correct?  		
 SB001S044	1	1	A: それ以外に、利子所得や賃貸収入など他の収入源はありますか？	"A: Okay so other than that do you have any other sources of income like interest income, rental income?  "		
 SB001S045	1	1	私: 私は給与所得のみだと思います。	Me: I think I have only salary income.  		
 SB001S046	1	1	A: わかりました、それで問題ありません。	A: Okay okay that's fine.  		
-SB001S047	1	1	A: そして、あなたの全世界的な資産についてですが、あなたはアマゾンで働き始めるとアマゾンの株式を受け取ることになります。これはRSU（制限付き株式ユニット）と呼ばれます。	"A: And then in terms of your worldwide assets so you know you will be receiving Amazon shares once you start working for Amazon so that's called RSUs, Rescriptive Share Units.  "		
+SB001S047	1	1	A: そして、あなたの全世界的な資産についてですが、あなたはアマゾンで働き始めるとアマゾンの株式を受け取ることになります。これはRSU（制限付き株式ユニット）と呼ばれます。	"A: And then, in terms of your worldwide assets, so you will be receiving Amazon shares once you start working for Amazon. So that's called RSUs, Restricted Stock Units.  "		
 SB001S048	1	1	A: それ以外に、世界のどこかに資産をお持ちですか？例えば家などの不動産を所有していますか？株式のポートフォリオはお持ちですか？	A: So aside from that do you have any assets anywhere in the world like do you own any properties like a house? Do you have any stock portfolio?  		
 SB001S049	1	1	私: 何も持っていないと思います。	Me: I think I've got nothing.  		
 SB001S050	1	1	A: わかりました。完璧です。これらの詳細を一緒に確認していただきありがとうございます。	A: Okay perfect.  so thanks so much for going through those details with me. 		
