@@ -1,0 +1,148 @@
+key_value	cited	unit	japanese	eng1	eng2	eng3
+SB001S001	1	1	2024/10/24 Vialto tax breefing (ireland)その1	Vialto tax breefing (ireland) part 1		
+SB001S002	1	1	A: では、本日はあなたが来年アイルランドに移転される際のアイルランドの税務上の影響についてお話しします。それでよろしいですか？	A: So I will today be covering the Irish tax implications of your relocation to Ireland next year. Is that right?		
+SB001S003	1	1	A: わかりました。そして、あなたは来週日本の税務ブリーフィングがあると伺っています。正しいですか？	A: Okay and I believe you have your Japanese tax briefing next week.  Am I correct?  		
+SB001S004	1	1	A: 完璧です。	A: Perfect. 		
+SB001S005	1	1	A: ですので、できれば1時間まるまる使わずに済むと思いますが、もちろん通話後に何かご質問があれば、そのために1時間確保しています。	A: So hopefully I won't take the whole hour but obviously we do have the hour in case you have any questions you want to discuss following the call.  		
+SB001S006	1	1	A: 進めていく中で、何かご質問があれば遠慮なくおっしゃってください。	A: Like it's it's absolutely fine as we go through any questions you might have.  		
+SB001S007	1	1	A: では、始める前にお知らせしておきたいのですが、私たちはこの通話のノートを1、2日以内にあなたのVulnerability Hold Cabinetにアップロードします。	A: Now before we start I just wanted to let you know that we will be uploading notes from the school to your vulnerability hold cabinet in the next day or two.  		
+SB001S008	1	1	A: ですので、この通話でノートを取る必要はありません。いずれにせよ提供されますから。	A: So you know you don't have to take any notes for this call because it'll be provided anyway.  		
+SB001S009	1	1	A: 通話中、どんな質問でも遠慮なくお尋ねください。ただ、後でブリーフィングノートを読んだ後にさらに質問があれば、いつでも私たちにメールを送ってください。	A: Feel free to ask any questions throughout the call but if you have further questions later once you've gone through the briefing notes you can always just send us an email.		
+SB001S010	1	1	A: また、My Mobilityでヘルプセンターのオプションをご覧になったかもしれませんが、そこでヘルプセンターのチケットを提出することもできます。その場合、私たちの誰かが24時間以内にお返事します。	A: Or on my mobility you may have seen the help center option where you can submit help center tickets as well and one of us will get back to you within 24 hours.  		
+SB001S011	1	1	A: さて、あなたのために正しい情報を持っているか確認したいと思います。	A: Now I just want to make sure we have the correct information and not ours for you.  		
+SB001S012	1	1	A: アマゾンから、あなたが来年の4月にアマゾン・アイルランドで働き始めると聞いています。それは確認されていますか？	A: So we've been informed by Amazon that you will start working for Amazon Ireland in April of next year. Has that been confirmed?  		
+SB001S013	1	1	私: はい、確認しました。	Me: Ah yes I confirmed.  		
+SB001S014	1	1	A: わかりました。では、アマゾン・アイルランドでの初出勤日はいつになりますか？	A: Okay so when will be your first day working in Amazon Ireland?  		
+SB001S015	1	1	私: 来年の4月7日から働く予定です。	Me: I think I'm going to work on the 7th of April next year.  		
+SB001S016	1	1	A: わかりました。では、アイルランドに到着するのはいつ頃だとお考えですか？	A: Okay and when do you think you'll be arriving in Ireland?  		
+SB001S017	1	1	私: 来年の3月末にアイルランドに行くと思います。	Me: I think I'll be going to Ireland at the end of March next year.  		
+SB001S018	1	1	A: 完璧です。それから、もしよろしければ、あなたの個人情報をいくつか収集させていただきたいです。私たちのファイルを最新に保つためです。	A: Perfect. And I just need to gather some of your personal information as well if you don't mind just to keep our falls up to date.  		
+SB001S019	1	1	A: あなたは日本から移動されるので、国籍を確認させていただけますか？あなたの国籍は何ですか？あなたは日本人ですか？	A: So you are moving from Japan can you please confirm your nationality?  What is your nationality?  Are you Japanese?  		
+SB001S020	1	1	私: 私は日本人です。	Me: I'm Japanese.  		
+SB001S021	1	1	A: わかりました。税務上の目的で、あなたは結婚されていますか、それとも独身ですか？	A: Okay. And for tax purposes are you married or single?  		
+SB001S022	1	1	私: 私は一人で行きます。	Me: I'm going alone.  		
+SB001S023	1	1	A: わかりましたが、あなたは結婚されていますか、それとも独身ですか？	A: Okay but are you married or are you single?  		
+SB001S024	1	1	私: 私は独身です。	Me: I'm single.  		
+SB001S025	1	1	A: わかりました。あなたの生年月日はいつですか？	A: Okay.  And what is your date of birth?  		
+SB001S026	1	1	私: 私は2000年6月14日生まれです。	Me: I was born on the 14th of June in 2000.  		
+SB001S027	1	1	A: わかりました。2000年6月14日でよろしいですね？	A: Okay so 14th of June 2000 yeah?  		
+SB001S028	1	1	私: はい、そうです。	Me: Ah yes.  		
+SB001S029	1	1	A: わかりました。では、子供などの扶養家族はいらっしゃいませんね？	A: Okay so you don't have any financial dependents like children?  		
+SB001S030	1	1	私: いいえ。	Me: No.  		
+SB001S031	1	1	A: わかりました。完璧です。以前にアイルランドに行かれたことはありますか？	A: Okay. Perfect have you been to Ireland before?  		
+SB001S032	1	1	私: これが初めてです。	Me: This will be my first time.  		
+SB001S033	1	1	A: わかりました。あなたの収入源を理解したいので、現在日本で雇用されていますか？日本でお仕事をお持ちですか？	A: Okay.  A: So I just want to get an understanding of your sources of income so are you currently employed in Japan? Do you have a job in Japan?  		
+SB001S034	1	1	私: 私は臨時の仕事をしています。	Me: I have a temporary job.  		
+SB001S035	1	1	A: わかりました。では、いつから働き始めましたか？	A: Okay so when did you start working?  		
+SB001S036	1	1	私: 1年前だと思います。	Me: one year ago I think.  		
+SB001S037	1	1	A: わかりました。では、今年1月からずっと日本で働いているということで、1月にも働いていましたか？	A: Okay so you've been working in Japan this whole year from January like in January you were working as well?  		
+SB001S038	1	1	私: はい、そうです。	Me: Yeah yes.  		
+SB001S039	1	1	A: わかりました。では、アイルランドに移る前にその仕事を辞める予定ですか？	A: Okay so I will you be resigning from that job before you move to Ireland?  		
+SB001S040	1	1	私: はい、その予定です。	Me: yes I will do.  		
+SB001S041	1	1	A: わかりました。では、2025年のアイルランドの税務申告書を準備します。	A: Okay so we will be preparing your 2025 the Irish tax return.		
+SB001S042	1	1	A: アイルランドの課税年度は1月から12月までの暦年と同じなので、2025年のあなたのすべての収入を把握する必要があります。	"A: So the Irish tax year is the same as the calendar year from January to December, so we just need to capture you know any income you have in 2025."		
+SB001S043	1	1	A: ですので、2025年の1月から4月の間にあなたは日本での給与所得があると仮定しています。正しいですか？	A: So I'm assuming between January and April 2025 you will have your Japanese employment income. Correct?  		
+SB001S044	1	1	A: それ以外に、利子所得や賃貸収入など他の収入源はありますか？	"A: Okay so other than that do you have any other sources of income like interest income, rental income?  "		
+SB001S045	1	1	私: 私は給与所得のみだと思います。	Me: I think I have only salary income.  		
+SB001S046	1	1	A: わかりました、それで問題ありません。	A: Okay okay that's fine.  		
+SB001S047	1	1	A: そして、あなたの全世界的な資産についてですが、あなたはアマゾンで働き始めるとアマゾンの株式を受け取ることになります。これはRSU（制限付き株式ユニット）と呼ばれます。	"A: And then in terms of your worldwide assets so you know you will be receiving Amazon shares once you start working for Amazon so that's called RSUs, Rescriptive Share Units.  "		
+SB001S048	1	1	A: それ以外に、世界のどこかに資産をお持ちですか？例えば家などの不動産を所有していますか？株式のポートフォリオはお持ちですか？	A: So aside from that do you have any assets anywhere in the world like do you own any properties like a house? Do you have any stock portfolio?  		
+SB001S049	1	1	私: 何も持っていないと思います。	Me: I think I've got nothing.  		
+SB001S050	1	1	A: わかりました。完璧です。これらの詳細を一緒に確認していただきありがとうございます。	A: Okay perfect.  so thanks so much for going through those details with me. 		
+SB001S051	1	1	A: では、ミズキさん、以上があなたから収集する必要のあった情報です。	"A: So Mizuki, that's the information I needed to gather from you.  "		
+SB002S001	1	2	2024/10/24 Vialto tax breefing (ireland)その2	Vialto tax breefing (ireland) part 2		
+SB002S002	1	2	A：「続ける前に、あなたがアイルランドに到着した際に行動する必要があるいくつかの事項をお知らせしなければなりません。」	A: Before I continue I need to let you know a couple of things that you will need to action once you arrive here in Ireland.  		
+SB002S003	1	2	A：「まず、あなた専用のアイルランドの税務登録番号であるPPS番号を申請する必要があります。」	A: Firstly you need to apply for an Irish PPS number that is your unique Irish tax registration number.  		
+SB002S004	1	2	A：「それはRevenueのウェブサイトでオンライン申請できますが、アイルランドの住所が必要です。そして、PPS番号を受け取ったら、Irish Revenueのウェブサイトで“My Account”プロフィールを作成する必要があります。」	A: You can do that online on Revenue's website but you do need an Irish address and then if you receive your PPS number you need to create a My Account profile on Irish Revenue's website.  		
+SB002S005	1	2	A：「プロフィールを作成したら、そのプロフィール上であなたのAmazon Irelandでの雇用を登録する必要があります。」	A: Once you've created your profile you need to register your Amazon Ireland employment on your profile.  		
+SB002S006	1	2	A：「さて、これらの手順を完了するまでは、非常に高い緊急税率（52％）で課税されます。しかし、良いニュースは、これらの手順を完了すると、次の給与期間で過払いの緊急税が給与を通じて自動的に払い戻されるので、長期間緊急税が適用されないようにするだけです。理解できますか？」	A: Now the thing is until you complete these steps you will be taxed at emergency rate which is quite high it's 52% but the good news is as soon as you complete these steps in the following pay period the overpaid emergency tax will be automatically reimbursed to you via payroll so it's just making sure that you're not on emergency tax for a long time. A: Does that make sense?  		
+SB002S007	1	2	私：「はい。わかりました。」	Me: Yes. Got it.  		
+SB002S008	1	2	A：「完璧です。では、Mizuki、ここアイルランドであなたがどのように課税されるかについてお話しします。アイルランドでは、あなたの税務状況を決定する3つの要素があります。」	A: Perfect.  So then to talk about how you'll be taxed here at Mizuki so in Ireland there are three things that determine your tax position.  		
+SB002S009	1	2	A：「まず、あなたのドミサイル（本籍地）ステータスです。」	A: Firstly it's your domicile status.  		
+SB002S010	1	2	A：「ドミサイルは法的な概念で、ここにどれだけ長く住んでも変わりません。ですから、あなたは非アイルランド・ドミサイルと見なされます、よろしいですか？」	A: Domicile is a legal concept and it doesn't change no matter how long you live here so you would be considered non-Irish domicile okay?  		
+SB002S011	1	2	A：「次に、いわゆる税務上の居住者があります。」	A: And then we have what's called tax residence.  		
+SB002S012	1	2	A：「アイルランドの税務居住者になるには、年間少なくとも183日をアイルランドで過ごす必要があります。」	A: To be an Irish tax resident you have to spend at least 183 days in Ireland during the year.  		
+SB002S013	1	2	A：「183日はおよそ6ヶ月です。あなたは3月の終わりに到着するので、その条件を満たし、180日間滞在することになります。したがって、2025年にはアイルランドの税務居住者となります。」	A: 183 days is approximately six months so because you're arriving in the end of March you will meet that condition so you will have 180 days therefore you'd be an Irish tax resident of Ireland in 2025.  		
+SB002S014	1	2	A：「さて、そして通常居住者というものがあります。」	A: Now and then we have ordinary residence.  		
+SB002S015	1	2	A：「アイルランドの通常居住者になるには、過去3年間アイルランドの税務居住者である必要があります。あなたはこれが初めてのアイルランド滞在なので、非通常居住者と見なされます。」	A: To be an Irish ordinary resident you need to have been an Irish tax resident for the last three years which you haven't been because this is your first time coming to Ireland so you're you're considered non-ordinary resident.  		
+SB002S016	1	2	A：「これら3つをまとめると、居住者、非通常居住者、非アイルランド・ドミサイルとなり、これはあなたがアイルランドの源泉所得に対して課税されることを意味します。」	"A: So if we just put those three things together resident, non-ordinary resident, and non-Irish domicile, what this means is you're taxable in Ireland on your Irish source income ."		
+SB002S017	1	2	A：「つまり、あなたの場合、Amazon Irelandでの雇用所得と、アイルランドに送金された場合のみ外国所得が課税対象となります。」	A: So for you that'll be your Amazon Ireland employment income and any foreign income only if it's remitted to Ireland.  		
+SB002S018	1	2	A：「しかし、その点は心配しなくて大丈夫です。アイルランドに移住した後は日本での仕事をやめるので、外国所得はありませんから。」	"A: Now you don't have to worry about that. Because after you move to Ireland, you won't have any foreign income. Because you will stop working in Japan, so you won't have any foreign income.  "		
+SB002S019	1	2	A：「ただし、アイルランドで使いたい日本での貯金があるかもしれませんね。貯金をアイルランドに送金したいと。」	A: But you may have some savings in Japan right that you want to use in Ireland you want to remit the saving to Ireland.  		
+SB002S020	1	2	A：「良いニュースは、あなたがアイルランドに移住するため、スプリットイヤーリリーフと呼ばれる特別な控除を受けられることです。この控除は、あなたの到着日に基づいて年を分割します。」	A: The good news is because you are relocating to Ireland you get a special kind of relief called split year relief and how the relief works is you split the year on your date of arrival.  		
+SB002S021	1	2	A：「例えば、3月20日に到着するとしましょう。2025年3月20日以前に得た外国での雇用所得は、たとえ送金しても課税されません。」	"A: Let's say you arrive on 20th of March for example, any foreign employment income you earn before 20th of March 2025 is not taxable even if you do remit it.  "		
+SB002S022	1	2	A：「ですから、日本での貯金はいつでもアイルランドに持ち込めますし、ここで課税されることはありません、よろしいですか？」	A: So whatever savings you have in Japan you can bring it to Ireland whenever you like and it won't be taxed here okay?  		
+SB002S023	1	2	A：「ただし、この控除を受けるためにあなたが行うべきことが一つあります。」	A: Now there is one thing you need to do to claim this relief.  		
+SB002S024	1	2	A：「まあ、私たちがそれを代行しますので、あなたがする必要はありませんが、アイルランドの税務当局にあなたが恒久的にアイルランドに移住したことを通知し、あなたの到着日を伝える必要があります。」	A: Well we will do it for you so you don't have to do it but we need to send a notification to Irish revenue authorities to let them know that you're terminally relocated to Ireland and we need to give them your date of arrival.  		
+SB002S025	1	2	A：「ですので、それは私たちが行いますので心配しないでください。到着日についてはご連絡しますが、私たちのチームが来年それを行います。」	A: So we will do that for you so you don't have to worry about that.  We will reach out to you for your arrival date but our team will do that next year.  		
+SB002S026	1	2	私：「わかりました、ありがとうございます。」	Me: Okay thank you.  		
+SB002S027	1	2	A：「完璧です。」	A: Perfect.  		
+SB002S028	1	2	A：「それから、キャピタルゲイン税についてお話ししたいと思います。キャピタルゲインとは、あなたがAmazonの株式を売却して得た利益で、アイルランドで課税される可能性があります。」	A: And then I just wanted to talk about capital gains tax. So capital gain is you know if you make a gain from the sale of your Amazon shares that may be taxed in Ireland.  		
+SB002S029	1	2	A：「あなたのAmazon株式に関して注意すべき2種類の所得があります。」	A: So there are two types of income you need to be aware of when it comes to your Amazon shares.  		
+SB002S030	1	2	A：「一つ目はキャピタルゲインで、株式を売却して利益を得た場合、それがアイルランドで課税される可能性があります。」	"A: The first is capital gain, that is when you sell the shares and if you make a gain that may be taxed in Ireland.  "		
+SB002S031	1	2	A：「アイルランドの居住者であり、非アイルランド・ドミサイルとして、あなたはアイルランドの所得、アイルランドの利益、そしてアイルランドに送金された場合のみ外国の利益に対して課税されます。」	"A: Now as an Irish resident and non-Irish domicile you're taxable in Ireland on your Irish income, Irish gains, and foreign gains only if they're remitted to Ireland.  "		
+SB002S032	1	2	A：「ここで重要なのは、あなたのAmazon株式はアメリカの資産であり、アイルランドの資産ではないということです。」	"A: The key thing for you to know here is that your Amazon shares are American assets, they're not Irish assets.  "		
+SB002S033	1	2	A：「ですから、それらを売却して利益を得た場合、その利益は外国の利益であり、アイルランドの利益ではありません。」	"A: So when you sell them and if you make a gain from the sale, the gain is a foreign gain, it's not an Irish gain.  "		
+SB002S034	1	2	A：「つまり、それは自動的にアイルランドで課税されるのではなく、あなたがそれを送金した場合にのみ課税されます。」	"A: That means it's not automatically taxed in Ireland, it's only taxed if you remit it.  "		
+SB002S035	1	2	A：「では、実際にあなたがAmazon株式を売却したいとき、どのように機能するのでしょうか？」	A: So how does it work practically when you want to sell your Amazon shares?  		
+SB002S036	1	2	A：「Amazonは、利益をどの銀行口座に振り込みたいかを尋ねます。」	A: Amazon will ask you which bank account you want them to transfer the gain to.  		
+SB002S037	1	2	A：「あなたはアイルランドの銀行口座を指定しないようにし、日本の銀行口座を指定できます。そして、外国の銀行口座で受け取ったら、それをアイルランドの外に保管する必要があります。」	"A: You should make sure you're not giving an Irish bank account, so you can give your Japanese bank account and once you receive it in the foreign bank account you need to keep it outside of Ireland.  "		
+SB002S038	1	2	A：「ですから、それをアイルランドに送金することはできず、完全に国外に保管しなければなりません。そうすれば、ここで課税されません。」	"A: So you can't then transfer it back to Ireland, you have to completely keep it out and then it won't be taxed here.  "		
+SB002S039	1	2	A：「何らかの理由でその利益をアイルランドに送金した場合、キャピタルゲイン税の規則に基づきここで課税され、税率は33％です。」	A: If for whatever reason you do remit the gain to Ireland then it will be taxed here on the capital gains tax rules and the capital gains tax rate is 33 percent.  		
+SB002S040	1	2	A：「RSUに関して注意すべき2つ目の所得は、権利確定時に受け取る所得です。」	A: The second type of income you need to be aware of with RSUs is the income you receive when they vest.  		
+SB002S041	1	2	A：「あなたのAmazonのRSUは、毎年、例えば今から1年後や2年後に権利確定するかもしれません。」	"A: I think your Amazon RSUs may vest every year, like one year from now or two years.  "		
+SB002S042	1	2	A：「基本的に、権利確定時にAmazonから所得を受け取り、それは権利確定時にあなたがアイルランドの税務居住者かどうかに基づいて課税されます。」	A: Basically when they vest you will receive income from Amazon and that in Ireland we tax them based on whether or not you're an Irish tax resident when they vest.  		
+SB002S043	1	2	A：「しかし、あなたは明らかにアイルランドの税務居住者になるので、いかなる権利確定もアイルランドで完全に課税されます。」	A: But you obviously will be an Irish tax resident so any vesting will be fully taxable in Ireland.  		
+SB002S044	1	2	A：「Amazonは税金を源泉徴収し、あなたに純額を支払います。」	A: Amazon will withhold the tax and pay you the net amount.  		
+SB002S045	1	2	A：「さて、Amazonは“セル・トゥ・カバー”メカニズムと呼ばれるものを使用しています。つまり、あなたのRSUが権利確定したとき、その税金をカバーするために一部のRSUを売却します。」	A: Okay so Amazon uses what's called a sell to cover mechanism so basically when your RSUs vest they will sell some of your RSUs to cover the tax on that.  		
+SB002S046	1	2	A：「それはあなたが留意しておくべきことです。」	A: So that is just something you need to keep in mind.  		
+SB002S047	1	2	A：「もしそれを望まない場合は、彼らに伝えることができますが、その場合はあなた自身で税金を支払う必要があります。」	A: If you don't want them to do that you can just let them know but then you have to pay the tax on that.  		
+SB002S048	1	2	A：「何か質問はありますか？」	A: Any questions?  		
+SB002S049	1	2	私：「では、RSUを売却する際に確定申告をしたほうがいいということでしょうか、正しいですか？」	"Me: So had I better do my tax return when I sell RSUs, am I correct?  "		
+SB002S050	1	2	A：「いいえ、先ほど申し上げたように、それはあなたが利益をアイルランドに送金した場合にのみ課税されます。ですから、送金しなければ課税されません。」	"A: No, as I said it's only taxed if you remit the gain to Ireland so if you don't remit the gain you won't be taxed.  "		
+SB002S051	1	2	A：「では、ええと、まず続ける前に他に何か質問はありますか？」	"A: Okay so um but then I just wanted to, first of all, any other questions before I continue?  "		
+SB002S052	1	2	私：「いえ、今のところ特にありません。」	"Me: Yeah, nothing so far.  "		
+SB002S053	1	2	A：「わかりました。」	A: Okay. 		
+SB003S001	1	3	2024/10/24 Vialto tax breefing (ireland)その3	Vialto tax breefing (ireland) part 3		
+SB003S002	1	3	A：「それで、ブリーフィングノートにアイルランドの税率を含めますが、あなたが給与明細でどのような控除を見ることになるか、私が簡単にお伝えしましょうか？」	A: So along with the briefing notes I will include the Irish tax rates but did you just want me to quickly tell you what deductions you will see on your pay slip?  		
+SB003S003	1	3	A：「では、私があなたにお伝えします。」	A: Okay I'm just gonna tell you.  		
+SB003S004	1	3	A：「基本的に、私があなたにお伝えしますが、毎月あなたの給与明細で3つの控除を見ることになります。」	A: I'm gonna tell you basically every month you will see three deductions on your pay slip.  		
+SB003S005	1	3	A：「まず第一に、それは独身者向けの源泉徴収税（PAYE）です。」	"A: Firstly, it's pay as you earn for a single person.  "		
+SB003S006	1	3	"A：「44,000ユーロまでは20％で課税され、それを超える部分は40％で課税されます。」"	"A: Up to 44,000 euros will be taxed at 20 percent, the portion above that will be taxed at 40 percent."		
+SB003S007	1	3	A：「次に、USCとして表示されるユニバーサル・ソーシャル・チャージがあります。」	A: And then you have Universal Social Charge which will come up as USC.  		
+SB003S008	1	3	A：「これは累進税率で、あなたの給与に応じて2％から8％の範囲になります。」	"A: So that is also under progressive rates, so depending on your salary it can be anywhere between two to eight percent.  "		
+SB003S009	1	3	A：「あなたが見る3つ目の控除は、PRSIとして表示されるペイ・リレイテッド・ソーシャル・インシュランスです。」	A: The third deduction you will see is Pay Related Social Insurance which will come up as PRSI.  		
+SB003S010	1	3	A：「それはあなたのアイルランドの社会保障拠出金で、4％の定率です。」	A: That is your Irish social security contribution so that is a flat rate of four percent.  		
+SB003S011	1	3	A：「これらがあなたが見ることになる控除です。」	A: So these are the deductions you will see.  		
+SB003S012	1	3	A：「また、あなたは政府から税額控除を受け取ることができるので、政府からお金をもらうことができます。」	A: You will also receive tax credits from the government so you can get money from the government.  		
+SB003S013	1	3	A：「あなたに毎月自動的に支払われる2種類の税額控除がありますが、その他にも政府から請求できる税額控除があります。例えば、あなたが支払う家賃や医療費などです。しかし、それらはあなたの確定申告で請求する必要があります。」	A: There are two types of tax credits that are paid to you automatically every month but there are other tax credits you can claim from the government for example for the rent you pay or any medical expenses but those need to be claimed in your tax return.  		
+SB003S014	1	3	A：「したがって、私たちがあなたの2025年のアイルランドの確定申告を準備するとき、あなたが請求する資格のある税額控除を含めます。」	A: So when we prepare your 2025 Irish tax return we will include the tax credits that you're eligible to claim.  		
+SB003S015	1	3	A：「何か質問はありますか？」	A: Any questions?  		
+SB003S016	1	3	私：「いいえ、ありがとうございます。」	"Me: No, thank you.  "		
+SB003S017	1	3	A：「わかりました。」	A: Okay.  		
+SB003S018	1	3	A：「では、確定申告のプロセスについてですが、あなたの2025年のアイルランドの確定申告は2026年10月31日まで期限がありませんので、まだまだ先です。」	"A: So just for the tax return process, your 2025 Irish tax return is not due until the 31st of October 2026 so it's a long time away.  "		
+SB003S019	1	3	A：「したがって、私たちは2026年の1月か2月までプロセスを開始しません。」	A: So we don't start the process until January or February 2026.  		
+SB003S020	1	3	A：「これについてあなたが今する必要は何もありません。すべてMy Mobilityを通じて行われます。」	"A: There's nothing you need to do for this now, so it's all done through My Mobility.  "		
+SB003S021	1	3	A：「私たちはあなたにアイルランドの税務アンケートを送りますので、あなたはそのアンケートに記入してください。そして、あなたの回答を使って確定申告を準備します。」	"A: We will send you an Irish tax questionnaire, you complete the questionnaire, and then we'll use your responses to prepare your return.  "		
+SB003S022	1	3	A：「私たちはあなたに確定申告書を共有しますので、あなたのレビューと承認をお願いします。その後、私たちがあなたに代わってアイルランド税務当局に提出します。これについて何か質問はありますか？」	A: We will share your tax return with you for your review and your approval and then we will file it with Irish Revenue on your behalf.  Any questions on that?  		
+SB003S023	1	3	私：「いいえ、ありがとうございます。」	Me: No thanks.  		
+SB003S024	1	3	A：「わかりました。それから、あなたにお知らせしたいのは、もし来年あなたが外国の銀行口座を開設した場合、私たちはそれをあなたの確定申告で開示する必要があります。」	A: Okay and then what I wanted to let you know is if you open any foreign bank account next year we need to disclose that in your tax return.  		
+SB003S025	1	3	A：「つまり、もし2025年に新しい銀行口座、アイルランドのものではなく外国の銀行口座を開設した場合、私たちはそれをあなたの確定申告で開示する必要があります。」	"A: So if you open any new bank account in 2025, not Irish, a foreign bank account, we need to disclose that in your tax return.  "		
+SB003S026	1	3	私：「わかりました。」	Okay.  		
+SB003S027	1	3	A：「ですので、それはあなたが覚えておくべきことです。」	A: So that's just something for you to remember.  		
+SB003S028	1	3	私：「では、私はアイルランドに来た後、外国の銀行口座を開設してはいけないのですか？」	Me: So I mustn't open a foreign bank account after I come to Ireland?  		
+SB003S029	1	3	A：「いいえ、できます、できますが、それをあなたの確定申告で開示する必要があるだけです。」	"A: No, you can, you can but you just need to disclose it in your tax return.  "		
+SB003S030	1	3	A：「それから、確認したいのですが、あなたは転居一時金やパッケージを受け取っていますか？」	A: And then I just want to check are you receiving like a relocation lump sum or package?  		
+SB003S031	1	3	私：「まだ受け取っていません。」	Me: I haven't received it yet.  		
+SB003S032	1	3	A：「しかし、それを受け取る予定ですか？その一時金は、税務支援を受けた支払いです。」	"A: But are you going to get it?  So the lump sum, that is a tax-assisted payment.  "		
+SB003S033	1	3	A：「それが意味するのは、Amazon Irelandがあなたのためにその金額のアイルランドの税金を支払うので、あなたはその金額に対してアイルランドの税金を支払う必要がないということです。」	A: What that means is Amazon Ireland will pay the Irish tax on that for you so you don't have to pay Irish tax on that amount.  		
+SB003S034	1	3	私：「わかりました。」	Okay.  		
+SB003S035	1	3	A：「あなたが受け取るものは最終的な金額です。」	A: Whatever you receive is the final amount.  		
+SB003S036	1	3	A：「それでは、他に何かありますか？」	A: So anything else?  		
+SB003S037	1	3	私：「いいえ、ありがとうございます。」	Me: No thanks.  		
+SB003S038	1	3	A：「わかりました。では、私からは以上です。」	A: Okay so that's all from my side.  		
+SB003S039	1	3	A：「私はこの通話のノートをあなたのMy Mobilityアプリのキャビネットにアップロードします。」	A: I will upload the notes from this call to your My Mobility app cabinet.  		
+SB003S040	1	3	A：「それがアップロードされると、あなたはメール通知を受け取ります。」	A: You will receive an email notification once it's uploaded.  		
+SB003S041	1	3	A：「それから、来週のあなたの日本の税務ブリーフィングがうまくいくことを願っています。」	A: And then I hope your Japanese tax briefing goes well next week.  		
+SB003S042	1	3	A：「後で何か質問があれば、遠慮なくご連絡ください。」	A: If you have any questions later on feel free to reach out.  		
+SB003S043	1	3	A：「では、完璧です。お時間をいただきありがとうございました、Mizukiさん。お引越しがうまくいくことをお祈りします。」	A: Okay perfect so thanks so much for your time Mizuki and all the very best with the move.  		

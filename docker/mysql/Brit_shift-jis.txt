@@ -261,3 +261,127 @@ NBU13S020	1	13	後半戦は僅差だった。	The second half was neck and neck.
 NBU13S021	1	13	君、Tシャツを後ろ前に着ているよ。	You're wearing your T-shirt back to front.		
 NBU13S022	1	13	パリにはだいたい1週間ぐらいステイします。	"I'll stay in Paris for a week, more or less."		
 NBU13S023	1	13	本棚の本が逆さまになっているのがイヤなんだ。	I don't like the books kept upside down on the shelf.		
+NBU14S001	1	14	ユキとトニーはリビングでリラックスしています。	Yuki and Tony are relaxing in the living room.		
+NBU14S002	1	14	T:日本では違うタイプのプラグを使うよね。	"T : In Japan, you use a different type of plug, don't you?"		
+NBU14S003	1	14	Y:ええ、そうです。それと、変圧器もちゃんと持参してきました。	"Y : Yes, we do. And, I made sure to bring a converter."		
+NBU14S004	1	14	T:それはよかった。日本から来た元学生のコノミのことを覚えているかな。荷物に入れるのを忘れていたことに気づいて、空港で買うことに。	"T : Good. You remember Konomi, our former student from Japan? She realised that she'd completely forgotten to pack a converter, so she had to buy one at the airport."		
+NBU14S005	1	14	Y:まあ、それはお気の毒。高かったんじゃないかしら。	"Y : Oh, poor her ... I'm sure it must've been expensive."		
+NBU14S006	1	14	T:ああ、そうだったね。ヨーロッパのプラグは本当に厄介で。知っての通り、イギリスでは3穴だけど、ヨーロッパ諸国では一般的に2穴のプラグを使うんだ。向こう(=ヨーロッパ大陸)に旅行するときは、そのことを覚えておく必要があるよ。	"T : Yes, it was. Plugs are really complicated in Europe. In the UK, we use a three-pin plug, as you know, but in other European countries, they generally use a two-pin one. You should remember that when you travel on the Continent."		
+NBU14S007	1	14	Y:そうですね。(ピーツ。ユキがメールを受信、画面を見る) あ、クラスメートからのメッセージだわ。あれ、バッテリーが切れかかっている。トニー、部屋に戻ってスマホを充電してきます。	"Y : Yeah. (Beep. Yuki receives a text message and looks at the screen.) Ah, a message from my classmate. Oops, the battery is almost flat. Tony, I'll just nip to my room to recharge my smartphone. I'll be back in a bit."		
+NBU14S008	1	14	T:了解!	T : All right!		
+NBU14S009	1	14	(床に画鉄を落としてしまい、どこに行ってしまったのか分からない)	"I dropped a drawing pin on the floor, and I don't know where it's gone."		
+NBU14S010	1	14	(デスクのこまごましたものを片づけなさい)	Get rid of those bits and bobs on the desk.		
+NBU14S011	1	14	(大量の仕事に埋もれてしまって、返事ができなかったんだ。ごめん)	"I've been snowed under at work, so I couldn't reply to your message. Sorry."		
+NBU14S012	1	14	(Enterキーを押せば、あとは大丈夫!)	"Just press the enter key, and Bob's your uncle!"		
+NBU14S013	1	14	(目下、仕事を掛け持ちしています)	I'm juggling a few jobs at the moment.		
+NBU14S014	1	14	(私の仕事には様々な業務が含まれます)	My job involves wearing many different hats!		
+NBU14S015	1	14	締め切リが明日で、こっちはてんやわんやだよ。	"The deadline is tomorrow, and it's all go around here."		
+NBU14S016	1	14	キッチンに車のカギを置き忘れてしまっていたに違いない。	I must've left the car key in the kitchen.		
+NBU14S017	1	14	どこにカギがあるのかをチェックしておくべきだった。	I should've checked where the car key was.		
+NBU14S018	1	14	ジェーンにカギのことを聞いておくことだってできたのに。	I could've asked Jane about the car key.		
+NBU14S019	1	14	そうすれば、時間までに会場に到着することができていたはず。	"I might've been able to arrive at the wedding on time, then."		
+NBU15S001	1	15	ユキはイギリスの住宅に興味があり、ルーシーは質問に答えます。	Yuki is curious about British homes and Lucy answers her questions.		
+NBU15S002	1	15	L:我が家はセミデタッチットというタイプよ。	L : Our house is a type called semi-detached.		
+NBU15S003	1	15	Y:セミデタッチット?	Y : Semi-detached?		
+NBU15S004	1	15	L:ええ。壁面の片側がほかの住宅とくっ付いているの。実際には、うちはお隣のスミスご夫妻と同じ建物に住んでいるということになるのね。もちろん、ちゃんと壁で隔てられているけれど。ロンドンにはこのような住宅がたくさんあるのよ。	"L : Yes. It's a house joined to another house on one side. Practically speaking, we live in the same building with our next-door neighbours, the Smiths. Of course, we're separated by a wall. There are many houses like this in London."		
+NBU15S005	1	15	Y:興味深いですね。ええと、さらに質問があります。それぞれの部屋は床一面、カーペットが敷き詰められていると思うんですが、イギリスでは一般的なことなんですか。	"Y : Interesting. Well, I have another question. I understand each room has wall-to-wall carpet - is it typical in the UK?"		
+NBU15S006	1	15	L:ちょっと時代遅れかもしれないわね。最近ではラミネート加エやタイル張りの床、またはラグを敷くのが人気になってますから。でも、厚みのあるカーペットは冬でも部屋を暖かく保ってくれるんですよ。	"L : It's a bit old-fashioned, I think. Nowadays people would prefer laminated or tiled floors, maybe with rugs. But thick carpeting keeps the rooms warmer in winter."		
+NBU15S007	1	15	Y:それはいいですね。階段のカーペットはどうやってお掃除をするんですか。大変じゃないかなと。	"Y : That's nice. But how do you clean the stair carpet? It must be hard, isn't it?"		
+NBU15S008	1	15	L:ナイスな着眼点ね、ユキ。でも、想像するほど難しくはないの。必要なのはちょっとしたコツを覚えるだけ。	"L : Good point, Yuki. Well, it's not as hard as you imagine. All you need is to learn the ropes."		
+NBU15S009	1	15	Y:次回のお掃除のときにその方法を教えてください。お手伝いしますね!	Y : I'd like you to show me how next time you clean it. I'll be able to help you out then!		
+NBU15S010	1	15	(ジョンはロンドン市内に一戸建てを買った)	John bought a detached house in the Greater London area.		
+NBU15S011	1	15	(ケンは現金で新居を購入したんだよ。信じられる?)	Ken bought a new house cash in hand. Can you believe it?		
+NBU15S012	1	15	(都心で小さな庭のある物件を探しています)	We're looking for a house with a small garden in the city centre.		
+NBU15S013	1	15	(日本では12月に家の大掃除をします)	"In Japan, we give our house a deep clean in December."		
+NBU15S014	1	15	(ゴミ箱に捨ててね)	Throw it in the bin.		
+NBU15S015	1	15	手伝いたかったんだけど、とても忙しくて。ごめんよ、メイト。	"I wish I could help you, but I've got a lot on. Sorry, mate."		
+NBU15S016	1	15	そんなに古いTシャツを着ないで。	Don't wear such an old T-shirt.		
+NBU15S017	1	15	その服、とっても古くさいよ。	Those clothes are really old-fashioned.		
+NBU15S018	1	15	彼女、期限切れのパスポートを持って空港に行っちゃった!	She's gone to the airport with an out-of-date passport!		
+NBU15S019	1	15	あの高齢のご夫婦はうちの隣に住んでいます。	The elderly couples are my next-door neighbours.		
+NBU15S020	1	15	来月30歳だよ。かなり年を取ったもんだ。	I'll turn 30 next month. I feel really ancient.		
+NBU16S001	1	16	ユキとイギリス人の友人カレンは、お気に入りのカフェでコーヒーとケーキをいただいています。	"Yuki and Karen, an English friend of hers, are having some coffee and cake at their favourite caff."		
+NBU16S002	1	16	Y:ちょっとヘンな質問をするけど。カレン、どうやって顔を洗う?	"Y : I have a funny question. How do you wash your face, Karen?"		
+NBU16S003	1	16	K:どうやって顔を洗うか…。そうね、とってもおもしろい質問ね。	"K : How do I wash my face ...? Hum, very interesting."		
+NBU16S004	1	16	Y:実は、お家のバスルームに温水と冷水の蛇口がそれぞれあって、常に冷水か熱湯なの。調整の仕方がよく分からなくて。	"Y : The thing is ... we have hot and cold taps in the bathroom, and the water is often too cold or too hot. I'm not sure how to adjust it."		
+NBU16S005	1	16	K:2つある蛇口のことかしら。オーケー、それなら排水栓を洗面台に差し込んで、水とお湯を張って混ぜるだけ。それがコツよ。	"K : You mean separate taps? OK, you should put the plug into the wash basin first, and mix the water. That's the point."		
+NBU16S006	1	16	Y:それだけ? うーん、日本では温水と冷水が別々の蛇口はあまリー般的じゃないので、ちょっと戸惑ってしまったの。たいていはひとつの蛇口で調整ができるから。	"Y : Is that it? Well, separate taps aren't very common in Japan, so I was a bit confused. We generally have a mixer tap."		
+NBU16S007	1	16	K:私たちもそうよ。例えば、うちのキッチンにはひとつ口の、バスルームには2つ口の蛇口があるわ。用途に応じて違ったタイプの蛇口を取り付けるというわけ。	"K : We have them, too. For instance, I have a mixer tap in the kitchen and separate taps in the bathroom. Different taps can be installed for different purposes."		
+NBU16S008	1	16	Y:なるほどね。また新しいことを学んじゃった。私、本が書けそうね! 海外生活は視野を広げてくれるし、楽しいわ。	"Y : I see. I've learned another new thing. I could write a book! Well, living abroad is to help broaden our horizons, and it's fun."		
+NBU16S009	1	16	K:その通り。顔の洗い方もちゃんと学べるしね、ユキ?	"K : I agree, and it teaches you how to wash your face. Right, Yuki?"		
+NBU16S010	1	16	(彼らはたくさんの観葉植物で家をおしゃれにしました)	They spruced up their house with a lot of green plants.		
+NBU16S011	1	16	(葉っぱの上の小さなてんとう虫を見て)	Look at the tiny little ladybird on the leaf.		
+NBU16S012	1	16	(寒い日には、ホットチョコレートが元気を取り戻してくれる)	A hot chocolate on a cold day could put the roses back in your cheeks.		
+NBU16S013	1	16	(リビングルームの模様替えをしていて、あと1ヶ月ほどで完成予定です)	We've been redecorating the living room and it'll be finished in a month or so.		
+NBU16S014	1	16	(お客様用の新しい枕と羽毛布団が必要だね)	We need a new pillow and duvet for the guest.		
+NBU16S015	1	16	(古い靴をたくさん処分したので、靴箱はほとんど空っぽです)	I turfed out a load of old shoes and now my shoe cabinet is practically empty.		
+NBU16S016	1	16	大丈夫だよ、いつでもまた機会があるから!	"Not to worry, we'll always have another chance!"		
+NBU16S017	1	16	まさにその点なんだ。	That's the point.		
+NBU16S018	1	16	いい点をついてくるね。	That's a good point.		
+NBU16S019	1	16	なかなかおもしろい見解だ。	That's an interesting point.		
+NBU16S020	1	16	聞くだけムダ。どっちにしても彼は来ないよ。	There's no point in asking him. He won't come anyway.		
+NBU16S021	1	16	趣旨を理解していないようだね。	I think you're missing a point.		
+NBU16S022	1	16	要するに、列車の旅のほうが空の旅よりも安いっていうこと。	The point is that travelling by train is cheaper than by plane.		
+NBU17S001	1	17	家族の朝食を作っているルーシーはユキにあるお願いをします。	"Lucy, making breakfast for the family, asks her a favour."		
+NBU17S002	1	17	L:ユキ、牛乳の瓶を取って来てくれる?	"L : Yuki, can you get me a bottle of milk?"		
+NBU17S003	1	17	Y:OK。(冷蔵庫を開ける)あれ、牛乳がないわ、ルーシー。	"Y : OK. (She opens the fridge) Ah, there's no milk, Lucy."		
+NBU17S004	1	17	L:あ、瓶は玄関先よ。	"L : Oh, the bottle is on the doorstep."		
+NBU17S005	1	17	(ユキは玄関に行き、瓶をピックアップする)	(Yuki goes to the front door and picks up a bottle.)		
+NBU17S006	1	17	L:今もロンドンに牛乳配達人がいることに驚いたでしょう。	L : You must be surprised that milkmen still exist in London.		
+NBU17S007	1	17	Y:正直に言うと、そうですね。私が子供の頃、よく配達してもらいました。	"Y : To be honest, yes. We used to have it delivered when I was a child."		
+NBU17S008	1	17	L:ここイギリスでも同じよ。スーパーでも買えるけど、それでも牛乳屋さんに届けてもらいたいの。牛乳はより新鮮ですし、カップに注ぐとさらに紅茶がいっそうおいしくなるわよ。	"L : It's the same here in the UK. You can buy milk at the supermarket, but we still want the milkman to deliver a bottle here. The milk is fresher, and pouring it into your cup, it makes the tea even tastier."		
+NBU17S009	1	17	Y:古き良き伝統の復活ですね。そして、それを守ることは重要だと思います。	"Y : It's a revival of a good old tradition, and I think conserving it is important."		
+NBU17S010	1	17	L:その通り。この国では伝統がなにより重要ですから。OK、すぐに朝食よ。自分のカップを持って来てね。紅茶を入れてあげましょう。	"L : That is totally true. In this country, tradition truly matters! OK, breakfast will be ready in a minute. Fetch your cup and I'll make you a tea."		
+NBU17S011	1	17	(自分に留学する勇気があるとは思ってもみなかった)	I never thought I would have the bottle to study abroad.		
+NBU17S012	1	17	(お酒を持って行くべき?)	Should I bring a bottle?		
+NBU17S013	1	17	(ジムだけど、お酒で人生がおかしくなっちゃって悲しいよ)	It's sad to see that Jim's life was ruined by the bottle.		
+NBU17S014	1	17	(a bottle of milk は牛乳の入った瓶、a milk bottle は牛乳の空き瓶のことだよ)	A bottle of milk is a bottle with milk in it. A milk bottle is an empty bottle.		
+NBU17S015	1	17	(とても寒い冬の夜には、今でもゴム製の湯たんぽを使っています)	I still use a rubber hot-water bottle on a very cold winter night.		
+NBU17S016	1	17	(息子は哺乳瓶ではまったく飲みませんでした)	My son wouldn't take a bottle at all.		
+NBU17S017	1	17	ヤツ、キミと双子の兄弟なの? 正直、二人とも全然似てないね!	"Is that chap your twin brother? You two are like chalk and cheese, to be honest!"		
+NBU18S001	1	18	ユキはカレンの新しいアパートについて尋ねています。	Yuki asks Karen about her new flat.		
+NBU18S002	1	18	Y:新しいアパートの住み心地はどう?	Y : How's your new flat?		
+NBU18S003	1	18	K:いいわよ。すべて家具付きで、近所はとても静か。自宅で仕事をすることが多いから、おそらく座り心地のいい椅子が必要かな。	"K : Nice. It's fully furnished, and the neighbourhood is really quiet. I often work from home, so I think I would probably need a comfortable chair."		
+NBU18S004	1	18	Y:もしよかったら、お店めぐリのお付き合いをするね。	"Y : I'Il go with you to shop around for a chair, if that's OK with you."		
+NBU18S005	1	18	K:ありがとう、ユキ。そのほうがもっと楽しいわ。	"K : Thanks, Yuki. The more the merrier!"		
+NBU18S006	1	18	Y:ところでだけど、新しい電子レンジを買うのを忘れないで。テレビを観ながらタ食を食べるのがとっても好きなのを知ってるわ。	"Y : By the way, don't forget to get a new microwave. I know how much you love eating TV dinners while watching telly."		
+NBU18S007	1	18	K:ハハハ、よくご存知ね。そうそう、テレビと言えば、テレビのライセンス料を払わなきゃ。思い出させてくれてありがとう。	"K : Ha-ha, you know me. Speaking of TV, I have to pay for the TV licence. Thanks for reminding me."		
+NBU18S008	1	18	Y:ええと、テレビのライセンス料って言った?それって何?	"Y : Ah, TV licence, did you say? What is it?"		
+NBU18S009	1	18	K:テレビを観るための正規ライセンスよ。テレビの所有者は誰でも料金を支払う必要があるの。私にとっては高額だけど、BBC は公的資金で運営されているし、広告がないから、国民がまかなうというわけ。	"K : It's an official licence to watch TV. All television owners in the UK must pay the fee. Well, it's a pretty fat fee to me. But the BBC is publicly funded and advert free, so its something we have to pay for."		
+NBU18S010	1	18	Y:なるほど。ライセンスは公的なサブスク料金のような感じね。	Y : I see. The licence is more like a public subscription fee.		
+NBU18S011	1	18	(BBCはあまり観ないです)	I don't really watch the Beeb.		
+NBU18S012	1	18	(今夜はどんなテレビ番組があるの?)	What's on telly tonight?		
+NBU18S013	1	18	(私のママはお隣さんには何か秘密があると疑っている)	My mum suspects that the next-door neighbour has a skeleton in the cupboard.		
+NBU18S014	1	18	(どうしてうちの奥さんはチープな恋愛ドラマが好きなのか、さっぱり分からない)	I've no clue why my wife loves cheesy soap operas.		
+NBU18S015	1	18	妻が帰ってくる前に、パブに行ってビールを飲んでこよう。	I'm going down the pub for a cheeky pint before my wife gets home.		
+NBU18S016	1	18	目下ダイエット中だけど、ケーキー切れぐらいなら別にいいよね。	I'm on a diet but a cheeky little slice of this cake won't hurt me.		
+NBU18S017	1	18	(サブスクをすれば、すべての広告がすぐに削除されます)	"If you subscribe, all adverts are immediately removed."		
+NBU18S018	1	18	来週、国王の戴冠式が生中継される。	The King's coronation goes out live next week.		
+NBU18S019	1	18	授業料はいくらですか。	What's the tuition fee?		
+NBU18S020	1	18	テーブルはいくらですか。	What's the price of the table?		
+NBU18S021	1	18	フラット(=アパート)の家賃はいくらですか。	What's the rent of the flat?		
+NBU18S022	1	18	今日の為替レートはいくらですか。	What's the exchange rate today?		
+NBU18S023	1	18	ロンドンの生活費はいくらですか。	What's the average cost of living in London?		
+NBU18S024	1	18	ミュンヘンまでの航空運賃はいくらですか。	What's the air fare to Munich?		
+NBU18S025	1	18	毎月の電話料金はいくらですか。	What's the monthly phone charge?		
+NBU19S001	1	19	ユキとカレンはハイドパークを散歩しています。	Yuki and Karen are taking a stroll in Hyde Park.		
+NBU19S002	1	19	K:弟のジョンだけど、今年の夏に引越しをするの。今、アパートを探しているわ。	K : My brother John is moving out in the summer. He's looking for a flat now.		
+NBU19S003	1	19	Y:彼が大学に行くと言っていたのを覚えているわ。それが理由なのかしら。	Y : I remember you said that he's going to uni. Is that why he's leaving?		
+NBU19S004	1	19	K:そうね。イギリスでは18歳になると親元を離れるのが普通なの。	"K : Yep. In the UK, it's quite normal to leave home when you're 18."		
+NBU19S005	1	19	Y:自分の家、つまり親の家が学校の徒歩圏内であったとしても?	"Y : Even when their house, I mean, their parents' house is within walking distance?"		
+NBU19S006	1	19	K:その場合は状況によるわね。例えば、私の大学は自宅から地下鉄で20分のところにあったの。一人暮らしをするために一度実家を出て、お金を貯めるために戻ってきて、また家を出たの。ロンドンの家賃はとても高いから、私と同じように多くの若者が難しい決断を迫られていると思うわ。	"K : In that case, it depends, I think. For instance, my uni was only 20 minutes away from home by tube. I left home once to live on my own and returned home to save money, then left again! The rent is super high in London, so just like me, many young people have a tough decision to make."		
+NBU19S007	1	19	Y:でも、少なくとも10代の若者が自立について学べるという点ではいいわね。	"Y : But, at least it's good practice for teens to learn what's it like being independent."		
+NBU19S008	1	19	K:その通り。どんなことも学びだと思う!	K : You're exactly right. I suppose everything is a lesson!		
+NBU19S009	1	19	(家賃が払えないのなら、ルームメイトを探してみたら?)	"If you can't pay the rent, why don't you find a flatmate?"		
+NBU19S010	1	19	(お部屋をキレイに保つのは簡単。物を買い過ぎないことです)	It's easy to keep your room tidy. Don't buy too many things.		
+NBU19S011	1	19	(コインランドリーでの暇つぶしの方法を教えて)	You can tell me how to kill time at the launderette.		
+NBU19S012	1	19	(ベッドスィットに住んでいます)	I'm living in a bedsit.		
+NBU19S013	1	19	(ジェーンは賃貸アパートを持っている)	Jane has a flat to let.		
+NBU19S014	1	19	(このガタついた古い洗濯機を新しいのに替えなきゃ)	I have to replace my rickety old washing machine.		
+NBU19S015	1	19	(今日から2日間、車をレンタルできますか)	Can I hire a car for two days from today?		
+NBU19S016	1	19	どうして、マイクはいつも失言ばかりするの?	Why is Mike always putting his foot in his mouth?		
+NBU19S017	1	19	海外留学は大きな決断だ	Studying abroad is a big decision.		
+NBU19S018	1	19	海外留学は困難を伴う決断だ	Studying abroad is a difficult decision.		
+NBU19S019	1	19	海外留学はいい決断だ	Studying abroad is a good decision.		
+NBU19S020	1	19	海外留学は正しい決断だ	Studying abroad is a right decision.		
+NBU19S021	1	19	海外留学は重要な決断だ	Studying abroad is an important decision.		
