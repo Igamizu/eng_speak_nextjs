@@ -55,54 +55,65 @@ SB002S002	1	2	A：「続ける前に、あなたがアイルランドに到着�
 SB002S003	1	2	A：「まず、あなた専用のアイルランドの税務登録番号であるPPS番号を申請する必要があります。」	A: Firstly you need to apply for an Irish PPS number that is your unique Irish tax registration number.  		
 SB002S004	1	2	A：「それはRevenueのウェブサイトでオンライン申請できますが、アイルランドの住所が必要です。そして、PPS番号を受け取ったら、Irish Revenueのウェブサイトで“My Account”プロフィールを作成する必要があります。」	A: You can do that online on Revenue's website but you do need an Irish address and then if you receive your PPS number you need to create a My Account profile on Irish Revenue's website.  		
 SB002S005	1	2	A：「プロフィールを作成したら、そのプロフィール上であなたのAmazon Irelandでの雇用を登録する必要があります。」	A: Once you've created your profile you need to register your Amazon Ireland employment on your profile.  		
-SB002S006	1	2	A：「さて、これらの手順を完了するまでは、非常に高い緊急税率（52％）で課税されます。しかし、良いニュースは、これらの手順を完了すると、次の給与期間で過払いの緊急税が給与を通じて自動的に払い戻されるので、長期間緊急税が適用されないようにするだけです。理解できますか？」	A: Now the thing is until you complete these steps you will be taxed at emergency rate which is quite high it's 52% but the good news is as soon as you complete these steps in the following pay period the overpaid emergency tax will be automatically reimbursed to you via payroll so it's just making sure that you're not on emergency tax for a long time. A: Does that make sense?  		
-SB002S007	1	2	私：「はい。わかりました。」	Me: Yes. Got it.  		
-SB002S008	1	2	A：「完璧です。では、Mizuki、ここアイルランドであなたがどのように課税されるかについてお話しします。アイルランドでは、あなたの税務状況を決定する3つの要素があります。」	A: Perfect.  So then to talk about how you'll be taxed here at Mizuki so in Ireland there are three things that determine your tax position.  		
-SB002S009	1	2	A：「まず、あなたのドミサイル（本籍地）ステータスです。」	A: Firstly it's your domicile status.  		
-SB002S010	1	2	A：「ドミサイルは法的な概念で、ここにどれだけ長く住んでも変わりません。ですから、あなたは非アイルランド・ドミサイルと見なされます、よろしいですか？」	A: Domicile is a legal concept and it doesn't change no matter how long you live here so you would be considered non-Irish domicile okay?  		
-SB002S011	1	2	A：「次に、いわゆる税務上の居住者があります。」	A: And then we have what's called tax residence.  		
-SB002S012	1	2	A：「アイルランドの税務居住者になるには、年間少なくとも183日をアイルランドで過ごす必要があります。」	A: To be an Irish tax resident you have to spend at least 183 days in Ireland during the year.  		
-SB002S013	1	2	A：「183日はおよそ6ヶ月です。あなたは3月の終わりに到着するので、その条件を満たし、180日間滞在することになります。したがって、2025年にはアイルランドの税務居住者となります。」	A: 183 days is approximately six months so because you're arriving in the end of March you will meet that condition so you will have 180 days therefore you'd be an Irish tax resident of Ireland in 2025.  		
-SB002S014	1	2	A：「さて、そして通常居住者というものがあります。」	A: Now and then we have ordinary residence.  		
-SB002S015	1	2	A：「アイルランドの通常居住者になるには、過去3年間アイルランドの税務居住者である必要があります。あなたはこれが初めてのアイルランド滞在なので、非通常居住者と見なされます。」	A: To be an Irish ordinary resident you need to have been an Irish tax resident for the last three years which you haven't been because this is your first time coming to Ireland so you're you're considered non-ordinary resident.  		
-SB002S016	1	2	A：「これら3つをまとめると、居住者、非通常居住者、非アイルランド・ドミサイルとなり、これはあなたがアイルランドの源泉所得に対して課税されることを意味します。」	"A: So if we just put those three things together resident, non-ordinary resident, and non-Irish domicile, what this means is you're taxable in Ireland on your Irish source income ."		
-SB002S017	1	2	A：「つまり、あなたの場合、Amazon Irelandでの雇用所得と、アイルランドに送金された場合のみ外国所得が課税対象となります。」	A: So for you that'll be your Amazon Ireland employment income and any foreign income only if it's remitted to Ireland.  		
-SB002S018	1	2	A：「しかし、その点は心配しなくて大丈夫です。アイルランドに移住した後は日本での仕事をやめるので、外国所得はありませんから。」	"A: Now you don't have to worry about that. Because after you move to Ireland, you won't have any foreign income. Because you will stop working in Japan, so you won't have any foreign income.  "		
-SB002S019	1	2	A：「ただし、アイルランドで使いたい日本での貯金があるかもしれませんね。貯金をアイルランドに送金したいと。」	A: But you may have some savings in Japan right that you want to use in Ireland you want to remit the saving to Ireland.  		
-SB002S020	1	2	A：「良いニュースは、あなたがアイルランドに移住するため、スプリットイヤーリリーフと呼ばれる特別な控除を受けられることです。この控除は、あなたの到着日に基づいて年を分割します。」	A: The good news is because you are relocating to Ireland you get a special kind of relief called split year relief and how the relief works is you split the year on your date of arrival.  		
-SB002S021	1	2	A：「例えば、3月20日に到着するとしましょう。2025年3月20日以前に得た外国での雇用所得は、たとえ送金しても課税されません。」	"A: Let's say you arrive on 20th of March for example, any foreign employment income you earn before 20th of March 2025 is not taxable even if you do remit it.  "		
-SB002S022	1	2	A：「ですから、日本での貯金はいつでもアイルランドに持ち込めますし、ここで課税されることはありません、よろしいですか？」	A: So whatever savings you have in Japan you can bring it to Ireland whenever you like and it won't be taxed here okay?  		
-SB002S023	1	2	A：「ただし、この控除を受けるためにあなたが行うべきことが一つあります。」	A: Now there is one thing you need to do to claim this relief.  		
-SB002S024	1	2	A：「まあ、私たちがそれを代行しますので、あなたがする必要はありませんが、アイルランドの税務当局にあなたが恒久的にアイルランドに移住したことを通知し、あなたの到着日を伝える必要があります。」	A: Well we will do it for you so you don't have to do it but we need to send a notification to Irish revenue authorities to let them know that you're terminally relocated to Ireland and we need to give them your date of arrival.  		
-SB002S025	1	2	A：「ですので、それは私たちが行いますので心配しないでください。到着日についてはご連絡しますが、私たちのチームが来年それを行います。」	A: So we will do that for you so you don't have to worry about that.  We will reach out to you for your arrival date but our team will do that next year.  		
-SB002S026	1	2	私：「わかりました、ありがとうございます。」	Me: Okay thank you.  		
-SB002S027	1	2	A：「完璧です。」	A: Perfect.  		
-SB002S028	1	2	A：「それから、キャピタルゲイン税についてお話ししたいと思います。キャピタルゲインとは、あなたがAmazonの株式を売却して得た利益で、アイルランドで課税される可能性があります。」	A: And then I just wanted to talk about capital gains tax. So capital gain is you know if you make a gain from the sale of your Amazon shares that may be taxed in Ireland.  		
-SB002S029	1	2	A：「あなたのAmazon株式に関して注意すべき2種類の所得があります。」	A: So there are two types of income you need to be aware of when it comes to your Amazon shares.  		
-SB002S030	1	2	A：「一つ目はキャピタルゲインで、株式を売却して利益を得た場合、それがアイルランドで課税される可能性があります。」	"A: The first is capital gain, that is when you sell the shares and if you make a gain that may be taxed in Ireland.  "		
-SB002S031	1	2	A：「アイルランドの居住者であり、非アイルランド・ドミサイルとして、あなたはアイルランドの所得、アイルランドの利益、そしてアイルランドに送金された場合のみ外国の利益に対して課税されます。」	"A: Now as an Irish resident and non-Irish domicile you're taxable in Ireland on your Irish income, Irish gains, and foreign gains only if they're remitted to Ireland.  "		
-SB002S032	1	2	A：「ここで重要なのは、あなたのAmazon株式はアメリカの資産であり、アイルランドの資産ではないということです。」	"A: The key thing for you to know here is that your Amazon shares are American assets, they're not Irish assets.  "		
-SB002S033	1	2	A：「ですから、それらを売却して利益を得た場合、その利益は外国の利益であり、アイルランドの利益ではありません。」	"A: So when you sell them and if you make a gain from the sale, the gain is a foreign gain, it's not an Irish gain.  "		
-SB002S034	1	2	A：「つまり、それは自動的にアイルランドで課税されるのではなく、あなたがそれを送金した場合にのみ課税されます。」	"A: That means it's not automatically taxed in Ireland, it's only taxed if you remit it.  "		
-SB002S035	1	2	A：「では、実際にあなたがAmazon株式を売却したいとき、どのように機能するのでしょうか？」	A: So how does it work practically when you want to sell your Amazon shares?  		
-SB002S036	1	2	A：「Amazonは、利益をどの銀行口座に振り込みたいかを尋ねます。」	A: Amazon will ask you which bank account you want them to transfer the gain to.  		
-SB002S037	1	2	A：「あなたはアイルランドの銀行口座を指定しないようにし、日本の銀行口座を指定できます。そして、外国の銀行口座で受け取ったら、それをアイルランドの外に保管する必要があります。」	"A: You should make sure you're not giving an Irish bank account, so you can give your Japanese bank account and once you receive it in the foreign bank account you need to keep it outside of Ireland.  "		
-SB002S038	1	2	A：「ですから、それをアイルランドに送金することはできず、完全に国外に保管しなければなりません。そうすれば、ここで課税されません。」	"A: So you can't then transfer it back to Ireland, you have to completely keep it out and then it won't be taxed here.  "		
-SB002S039	1	2	A：「何らかの理由でその利益をアイルランドに送金した場合、キャピタルゲイン税の規則に基づきここで課税され、税率は33％です。」	A: If for whatever reason you do remit the gain to Ireland then it will be taxed here on the capital gains tax rules and the capital gains tax rate is 33 percent.  		
-SB002S040	1	2	A：「RSUに関して注意すべき2つ目の所得は、権利確定時に受け取る所得です。」	A: The second type of income you need to be aware of with RSUs is the income you receive when they vest.  		
-SB002S041	1	2	A：「あなたのAmazonのRSUは、毎年、例えば今から1年後や2年後に権利確定するかもしれません。」	"A: I think your Amazon RSUs may vest every year, like one year from now or two years.  "		
-SB002S042	1	2	A：「基本的に、権利確定時にAmazonから所得を受け取り、それは権利確定時にあなたがアイルランドの税務居住者かどうかに基づいて課税されます。」	A: Basically when they vest you will receive income from Amazon and that in Ireland we tax them based on whether or not you're an Irish tax resident when they vest.  		
-SB002S043	1	2	A：「しかし、あなたは明らかにアイルランドの税務居住者になるので、いかなる権利確定もアイルランドで完全に課税されます。」	A: But you obviously will be an Irish tax resident so any vesting will be fully taxable in Ireland.  		
-SB002S044	1	2	A：「Amazonは税金を源泉徴収し、あなたに純額を支払います。」	A: Amazon will withhold the tax and pay you the net amount.  		
-SB002S045	1	2	A：「さて、Amazonは“セル・トゥ・カバー”メカニズムと呼ばれるものを使用しています。つまり、あなたのRSUが権利確定したとき、その税金をカバーするために一部のRSUを売却します。」	A: Okay so Amazon uses what's called a sell to cover mechanism so basically when your RSUs vest they will sell some of your RSUs to cover the tax on that.  		
-SB002S046	1	2	A：「それはあなたが留意しておくべきことです。」	A: So that is just something you need to keep in mind.  		
-SB002S047	1	2	A：「もしそれを望まない場合は、彼らに伝えることができますが、その場合はあなた自身で税金を支払う必要があります。」	A: If you don't want them to do that you can just let them know but then you have to pay the tax on that.  		
-SB002S048	1	2	A：「何か質問はありますか？」	A: Any questions?  		
-SB002S049	1	2	私：「では、RSUを売却する際に確定申告をしたほうがいいということでしょうか、正しいですか？」	"Me: So had I better do my tax return when I sell RSUs, am I correct?  "		
-SB002S050	1	2	A：「いいえ、先ほど申し上げたように、それはあなたが利益をアイルランドに送金した場合にのみ課税されます。ですから、送金しなければ課税されません。」	"A: No, as I said it's only taxed if you remit the gain to Ireland so if you don't remit the gain you won't be taxed.  "		
-SB002S051	1	2	A：「では、ええと、まず続ける前に他に何か質問はありますか？」	"A: Okay so um but then I just wanted to, first of all, any other questions before I continue?  "		
-SB002S052	1	2	私：「いえ、今のところ特にありません。」	"Me: Yeah, nothing so far.  "		
-SB002S053	1	2	A：「わかりました。」	A: Okay. 		
+SB002S006	1	2	A: さて、問題はこれらの手順を完了するまでは緊急税率で課税されることで、その税率はかなり高く、52%です。	"A: Now, the thing is that until you complete these steps, you will be taxed at the emergency rate, which is quite high at 52%. "		
+SB002S007	1	2	A: しかし、良いニュースとしては、これらの手順を完了すると、次の支給期間に過剰に支払われた緊急税が給与を通じて自動的に払い戻されるということです。	"A: But, the good news is that as soon as you complete these steps, in the following pay period, any overpaid emergency tax will be automatically reimbursed to you via payroll. "		
+SB002S008	1	2	A: ですので、長期間にわたって緊急税を課されないようにするだけのことです。お分かりいただけますか？	A: So it's just making sure that you're not on emergency tax for a long time. Does that make sense? 		
+SB002S009	1	2	私：「はい。わかりました。」	Me: Yes. Got it.  		
+SB002S010	1	2	A：「完璧です。では、Mizuki、ここアイルランドであなたがどのように課税されるかについてお話しします。アイルランドでは、あなたの税務状況を決定する3つの要素があります。」	"A: Perfect.  So then to talk about how you'll be taxed here at Mizuki. In Ireland, there are three things that determine your tax position.  "		
+SB002S011	1	2	A：「まず、あなたのドミサイル（本籍地）ステータスです。」	A: Firstly it's your domicile status.  		
+SB002S012	1	2	A：「ドミサイルは法的な概念で、ここにどれだけ長く住んでも変わりません。ですから、あなたは非アイルランド・ドミサイルと見なされます、よろしいですか？」	A: Domicile is a legal concept and it doesn't change no matter how long you live here so you would be considered non-Irish domicile okay?  		
+SB002S013	1	2	A：「次に、いわゆる税務上の居住者があります。」	A: And then we have what's called tax residence.  		
+SB002S014	1	2	A：「アイルランドの税務居住者になるには、年間少なくとも183日をアイルランドで過ごす必要があります。」	A: To be an Irish tax resident you have to spend at least 183 days in Ireland during the year.  		
+SB002S015	1	2	A: 183日というのはおおよそ6ヶ月に相当します。	A: 183 days is approximately six months. 		
+SB002S016	1	2	A: ですので、あなたが3月末に到着するため、その条件を満たすことになります。	"A: So, because you're arriving in the end of March, you will meet that condition. "		
+SB002S017	1	2	A: つまり、180日を超えることになります。そのため、2025年にはアイルランドの税務居住者となるでしょう。	"A: So you will have 180 days. Therefore, you'd be an Irish tax resident of Ireland in 2025.  "		
+SB002S018	1	2	A：「さて、そして通常居住者というものがあります。」	A: Now and then we have ordinary residence.  		
+SB002S019	1	2	A: アイルランドの通常居住者になるためには、過去3年間アイルランドの税務居住者である必要がありますが、あなたはそうではありません。	"A: To be an Irish ordinary resident, you need to have been an Irish tax resident for the last three years which you haven't been. "		
+SB002S020	1	2	A: 今回が初めてのアイルランド訪問となるため、通常居住者ではなく非通常居住者と見なされます。	"A: Because this is your first time coming to Ireland, so you're considered non-ordinary resident.  "		
+SB002S021	1	2	A：「これら3つをまとめると、居住者、非通常居住者、非アイルランド・ドミサイルとなり、これはあなたがアイルランドの源泉所得に対して課税されることを意味します。」	"A: So if we just put those three things together resident, non-ordinary resident, and non-Irish domicile, what this means is you're taxable in Ireland on your Irish source income ."		
+SB002S022	1	2	A：「つまり、あなたの場合、Amazon Irelandでの雇用所得と、アイルランドに送金された場合のみ外国所得が課税対象となります。」	A: So for you that'll be your Amazon Ireland employment income and any foreign income only if it's remitted to Ireland.  		
+SB002S023	1	2	A：「しかし、その点は心配しなくて大丈夫です。アイルランドに移住した後は日本での仕事をやめるので、外国所得はありませんから。」	"A: Now you don't have to worry about that. Because after you move to Ireland, you won't have any foreign income. Because you will stop working in Japan, so you won't have any foreign income.  "		
+SB002S024	1	2	A：しかし、日本にいくらか貯金があるのではないでしょうか？それをアイルランドで使いたいかもしれませんので、その貯金をアイルランドに送金したいということですね。	"A: But you may have some savings in Japan, right? You might want to use them in Ireland, so you want to remit the savings to Ireland."		
+SB002S025	1	2	A：良いニュースは、あなたがアイルランドに移住するため、スプリットイヤーリリーフと呼ばれる特別な控除を受けられることです。	"A: The good news is that because you are relocating to Ireland, you get a special kind of relief called split year relief. "		
+SB002S026	1	2	A：この控除は、あなたの到着日に基づいて年を分割します。	A: How the relief works is that you split the year on your date of arrival. 		
+SB002S027	1	2	A：「例えば、3月20日に到着するとしましょう。2025年3月20日以前に得た外国での雇用所得は、たとえ送金しても課税されません。」	"A: Let's say you arrive on 20th of March for example, any foreign employment income you earn before 20th of March 2025 is not taxable even if you do remit it.  "		
+SB002S028	1	2	A：「ですから、日本での貯金はいつでもアイルランドに持ち込めますし、ここで課税されることはありません、よろしいですか？」	A: So whatever savings you have in Japan you can bring it to Ireland whenever you like and it won't be taxed here okay?  		
+SB002S029	1	2	A：「ただし、この控除を受けるためにあなたが行うべきことが一つあります。」	A: Now there is one thing you need to do to claim this relief.  		
+SB002S030	1	2	A: まあ、それは私たちが行いますので、あなたが自分で行う必要はありません。	"A: Well, we will do it for you, so you don't have to do it. "		
+SB002S031	1	2	A: ただし、アイルランドの税務当局に通知を送る必要があり、あなたが正式にアイルランドに移住したことを知らせ、到着日を伝える必要があります。	"A: But, we need to send a notification to Irish revenue authorities to let them know that you're terminally relocated to Ireland, and we need to give them your date of arrival.  "		
+SB002S032	1	2	A：「ですので、それは私たちが行いますので心配しないでください。到着日についてはご連絡しますが、私たちのチームが来年それを行います。」	A: So we will do that for you so you don't have to worry about that.  We will reach out to you for your arrival date but our team will do that next year.  		
+SB002S033	1	2	私：「わかりました、ありがとうございます。」	Me: Okay thank you.  		
+SB002S034	1	2	A：「完璧です。」	A: Perfect.  		
+SB002S035	1	2	A：「それから、キャピタルゲイン税についてお話ししたいと思います。キャピタルゲインとは、あなたがAmazonの株式を売却して得た利益で、アイルランドで課税される可能性があります。」	A: And then I just wanted to talk about capital gains tax. So capital gain is if you make a gain from the sale of your Amazon shares that may be taxed in Ireland.  		
+SB002S036	1	2	A：「あなたのAmazon株式に関して注意すべき2種類の所得があります。」	A: So there are two types of income you need to be aware of when it comes to your Amazon shares.  		
+SB002S037	1	2	A：「一つ目はキャピタルゲインで、株式を売却して利益を得た場合、それがアイルランドで課税される可能性があります。」	"A: The first is capital gain, that is when you sell the shares and if you make a gain that may be taxed in Ireland.  "		
+SB002S038	1	2	A：「アイルランドの居住者であり、非アイルランド・ドミサイルとして、あなたはアイルランドの所得、アイルランドの利益、そしてアイルランドに送金された場合のみ外国の利益に対して課税されます。」	"A: Now as an Irish resident and non-Irish domicile you're taxable in Ireland on your Irish income, Irish gains, and foreign gains only if they're remitted to Ireland.  "		
+SB002S039	1	2	A：「ここで重要なのは、あなたのAmazon株式はアメリカの資産であり、アイルランドの資産ではないということです。」	"A: The key thing for you to know here is that your Amazon shares are American assets, they're not Irish assets.  "		
+SB002S040	1	2	A：「ですから、それらを売却して利益を得た場合、その利益は外国の利益であり、アイルランドの利益ではありません。」	"A: So when you sell them and if you make a gain from the sale, the gain is a foreign gain, it's not an Irish gain.  "		
+SB002S041	1	2	A：「つまり、それは自動的にアイルランドで課税されるのではなく、あなたがそれを送金した場合にのみ課税されます。」	"A: That means it's not automatically taxed in Ireland, it's only taxed if you remit it.  "		
+SB002S042	1	2	A：「では、実際にあなたがAmazon株式を売却したいとき、どのように機能するのでしょうか？」	A: So how does it work practically when you want to sell your Amazon shares?  		
+SB002S043	1	2	A：「Amazonは、利益をどの銀行口座に振り込みたいかを尋ねます。」	A: Amazon will ask you which bank account you want them to transfer the gain to.  		
+SB002S044	1	2	A: アイルランドの銀行口座を提供しないように注意してください。日本の銀行口座を提供することができます。	"A: You should make sure you're not giving an Irish bank account, so you can give your Japanese bank account. "		
+SB002S045	1	2	A: そして、外国の銀行口座で受け取った後は、それをアイルランド国外に保管しておく必要があります。	A: And once you receive it in the foreign bank account you need to keep it outside of Ireland.  		
+SB002S046	1	2	A：「ですから、それをアイルランドに送金することはできず、完全に国外に保管しなければなりません。そうすれば、ここで課税されません。」	"A: So you can't then transfer it back to Ireland, you have to completely keep it out and then it won't be taxed here.  "		
+SB002S047	1	2	A: 何らかの理由でその利益をアイルランドに送金した場合、それは資本利得税の規則に基づいて課税されることになります。	"A: If for whatever reason you do remit the gain to Ireland, then it will be taxed here on the capital gains tax rules."		
+SB002S048	1	2	A: 資本利得税の税率は33％です。	A: And the capital gains tax rate is 33 percent.  		
+SB002S049	1	2	A：「RSUに関して注意すべき2つ目の所得は、権利確定時に受け取る所得です。」	A: The second type of income you need to be aware of with RSUs is the income you receive when they vest.  		
+SB002S050	1	2	A：「あなたのAmazonのRSUは、毎年、例えば今から1年後や2年後に権利確定するかもしれません。」	"A: I think your Amazon RSUs may vest every year, like one year from now or two years.  "		
+SB002S051	1	2	A: 基本的に、それらが確定するときに、あなたはAmazonから収入を受け取ることになります。	"A: Basically when they vest, you will receive income from Amazon."		
+SB002S052	1	2	A: そして、アイルランドでは、それらが確定した時にあなたがアイルランドの税務居住者であるかどうかに基づいて課税します。	"A: And in Ireland, we tax them based on whether or not you're an Irish tax resident when they vest.  "		
+SB002S053	1	2	A：「しかし、あなたは明らかにアイルランドの税務居住者になるので、いかなる権利確定もアイルランドで完全に課税されます。」	A: But you obviously will be an Irish tax resident so any vesting will be fully taxable in Ireland.  		
+SB002S054	1	2	A：「Amazonは税金を源泉徴収し、あなたに純額を支払います。」	A: Amazon will withhold the tax and pay you the net amount.  		
+SB002S055	1	2	A: さて、Amazonは「セル・トゥ・カバー（売却して税金をカバーする）」メカニズムを使用しています。	A: Okay so Amazon uses what's called a sell to cover mechanism.		
+SB002S056	1	2	A: つまり、基本的にはあなたのRSU（譲渡制限付き株式）が確定するときに、その一部を売却して税金をカバーします。	"A: So basically when your RSUs vest, they will sell some of your RSUs to cover the tax on that.  "		
+SB002S057	1	2	A：「それはあなたが留意しておくべきことです。」	A: So that is just something you need to keep in mind.  		
+SB002S058	1	2	A：「もしそれを望まない場合は、彼らに伝えることができますが、その場合はあなた自身で税金を支払う必要があります。」	"A: If you don't want them to do that, you can just let them know, but then you have to pay the tax on that.  "		
+SB002S059	1	2	A：「何か質問はありますか？」	A: Any questions?  		
+SB002S060	1	2	私：「では、RSUを売却する際に確定申告をしたほうがいいということでしょうか、正しいですか？」	"Me: So had I better do my tax return when I sell RSUs, am I correct?  "		
+SB002S061	1	2	A：「いいえ、先ほど申し上げたように、それはあなたが利益をアイルランドに送金した場合にのみ課税されます。ですから、送金しなければ課税されません。」	"A: No, as I said it's only taxed if you remit the gain to Ireland so if you don't remit the gain you won't be taxed.  "		
+SB002S062	1	2	A：「では、ええと、まず続ける前に他に何か質問はありますか？」	"A: Okay so, first of all, any other questions before I continue? "		
+SB002S063	1	2	私：「いえ、今のところ特にありません。」	"Me: Yeah, nothing so far.  "		
+SB002S064	1	2	A：「わかりました。」	A: Okay. 		
 SB003S001	1	3	2024/10/24 Vialto tax breefing (ireland)その3	Vialto tax breefing (ireland) part 3		
 SB003S002	1	3	A：「それで、ブリーフィングノートにアイルランドの税率を含めますが、あなたが給与明細でどのような控除を見ることになるか、私が簡単にお伝えしましょうか？」	A: So along with the briefing notes I will include the Irish tax rates but did you just want me to quickly tell you what deductions you will see on your pay slip?  		
 SB003S003	1	3	A：「では、私があなたにお伝えします。」	A: Okay I'm just gonna tell you.  		
