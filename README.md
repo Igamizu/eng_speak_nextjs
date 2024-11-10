@@ -77,6 +77,7 @@ $ iconv -f sjis -t utf8 docker/mysql/giu_shift-jis.txt > docker/mysql/giu.txt
 $ iconv -f sjis -t utf8 docker/mysql/pass20_shift-jis.txt > docker/mysql/pass20.txt
 $ iconv -f sjis -t utf8 docker/mysql/Brit_shift-jis.txt > docker/mysql/Brit.txt
 $ iconv -f sjis -t utf8 docker/mysql/shuraba_shift-jis.txt > docker/mysql/shuraba.txt
+$ iconv -f sjis -t utf8 docker/mysql/ex15_shift-jis.txt > docker/mysql/ex15.txt
 ~~~
 
 ## DB更新

@@ -21,6 +21,16 @@ create table if not exists ENG_SPEAK.pass20 (
     eng3 TEXT
 );
 
+create table if not exists ENG_SPEAK.ex15 (
+    key_value VARCHAR(11) NOT NULL PRIMARY KEY,
+    cited INT NOT NULL,
+    unit INT NOT NULL,
+    japanese TEXT NOT NULL,
+    eng1 TEXT NOT NULL,
+    eng2 TEXT,
+    eng3 TEXT
+);
+
 create table if not exists ENG_SPEAK.brit (
     key_value VARCHAR(9) NOT NULL PRIMARY KEY,
     cited INT NOT NULL,
@@ -52,10 +62,12 @@ create table if not exists ENG_SPEAK.state_slot (
 
 delete from ENG_SPEAK.giu;
 delete from ENG_SPEAK.pass20;
+delete from ENG_SPEAK.ex15;
 delete from ENG_SPEAK.brit;
 delete from ENG_SPEAK.shuraba;
 LOAD DATA LOCAL INFILE '/etc/mysql/giu.txt'  INTO TABLE ENG_SPEAK.giu FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/pass20.txt'  INTO TABLE ENG_SPEAK.pass20 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
+LOAD DATA LOCAL INFILE '/etc/mysql/ex15.txt'  INTO TABLE ENG_SPEAK.ex15 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/Brit.txt'  INTO TABLE ENG_SPEAK.brit FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/shuraba.txt'  INTO TABLE ENG_SPEAK.shuraba FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 
