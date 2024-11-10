@@ -81,6 +81,26 @@ export default function Detail({ key_value, isRetry, setRetry }) {
         }
     }
 
+    const set10plus = () => {
+        if (questions && total !== current) {
+            if (current + 9 < total) {
+                router.push(`/questions/${questions[current + 9].key_value}?matl=${matl}`, { scroll: false });
+            } else if (current + 9 >= total) {
+                router.push(`/questions/${questions[total - 1].key_value}?matl=${matl}`, { scroll: false });
+            }
+        }   
+    }
+
+    const set10minus = () => {
+        if (questions && current !== 1) {
+            if (current - 11 > 1) {
+                router.push(`/questions/${questions[current - 11].key_value}?matl=${matl}`, { scroll: false });
+            } else if (current -11 <= 1) {
+                router.push(`/questions/${questions[0].key_value}?matl=${matl}`, { scroll: false });
+            }
+        }
+    }
+
     const incorrectSet = () => {
         const payload = [...questions];
         disptach(filterQuestionsIncorrect(payload));
@@ -104,13 +124,21 @@ return (
         </div>
         <SentenceList lang="ja" key="ja" />
         <SentenceList lang="en" key="en" onClick={() => setIsShow(prev => !prev)} isShow={isShow} />
-        <div className="flex flex-row justify-center pb-5">
+        <div className="flex flex-row justify-center pb-2">
             <Button onClick={setFirst}>初</Button>
             {current > 1 ? <Button onClick={setPrevious}>前</Button> : <EmptyButton />}
             {current !== total ? <Button onClick={setNext}>次</Button> : <EmptyButton />}
             <Button onClick={answered} className={"text-red-600"}>〇</Button>
             <Button onClick={mistaken} className={"text-blue-600"}>×</Button>
             {incorrect > 0 ? <Button onMouseDown={incorrectSet} onClick={retry} className={"text-blue-600"}>復</Button> : <EmptyButton />}
+        </div>
+        <div className="flex flex-row justify-center pb-5">
+            <Button onClick={set10plus}>10+</Button>
+            <Button onClick={set10minus}>10-</Button>
+            <EmptyButton />
+            <EmptyButton />
+            <EmptyButton />
+            <EmptyButton />
         </div>
     </div>
 );
