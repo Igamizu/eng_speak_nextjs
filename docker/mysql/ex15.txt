@@ -240,7 +240,7 @@ EX15U02S118	1	2	彼らはさまざまな国の人々と交流することがで�
 EX15U02S119	1	2	通常、この地域では大型のヤマネコが主要な捕食者だ。	Large wildcats are generally the main predator in this area.		
 EX15U02S120	1	2	この工場は、毎月数千台のスマートフォンを生産する能力がある。	The factory has the capacity to produce thousands of smartphones per month.		
 EX15U03S001	1	3	この映画は主流の観客をターゲットにしている。	This movie is targeting a mainstream audience.		
-EX15U03S002	1	3	"このコンサートホールは、約2,000人を収容することができる。"	"This concert hall can accommodate around 2,000 people."		
+EX15U03S002	1	3	"このコンサートホールは、約2,000人を収容することができる。"	This concert hall can accommodate around 2000 people.		
 EX15U03S003	1	3	彼女はいくつかの異なる法律分野の専門知識を持っている。	She has expertise in several different areas of law.		
 EX15U03S004	1	3	この牧場では馬が自由に草を食べることができる。	The horses can graze freely at this farm.		
 EX15U03S005	1	3	俳優が冗談を言うと、観客にどっと笑いが起きた。	The crowd erupted into laughter when the actor made a joke.		
@@ -359,3 +359,1323 @@ EX15U03S117	1	3	この試合に勝つにはチームワークが不可欠にな�
 EX15U03S118	1	3	悪天候のため、彼の乗る便はキャンセルになった。	His flight was canceled because of adverse weather conditions.		
 EX15U03S119	1	3	鉱山の中の状況は誰にとっても陰うつだった。	The conditions in the mines were dismal for everyone.		
 EX15U03S120	1	3	この病気は伝染性ではないので、心配する必要はありません。	"This disease isn't contagious, so you don't need to worry."		
+EX15U04S001	1	4	このレストランのイタリアンと和食を融合させた料理は素晴らしい。	The Italian-Japanese fusion food at this restaurant is great.		
+EX15U04S002	1	4	彼は母国を追われ、現在は亡命者としてロシアに住んでいる。	He was forced to flee his home country and now lives as an exile in Russia.		
+EX15U04S003	1	4	彼女は地元の歯科医院で事務職をしている。	She does clerical work for a local dental office.		
+EX15U04S004	1	4	立派な大人になるよう子どもたちを養育すべきです。	You should nurture your children so they grow up well.		
+EX15U04S005	1	4	起業家の課題は、限りある資源を使って価値を生み出すことだ。	The challenge of an entrepreneur is to create value using finite resources.		
+EX15U04S006	1	4	警察は同時攻撃に対応する準備ができていなかった。	The police force was not prepared to respond to simultaneous attacks.		
+EX15U04S007	1	4	彼女は、市内のいくつかの慈善団体でボランティアをしている。	She volunteers for several charitable organizations in the city.		
+EX15U04S008	1	4	彼はすべての授業でよい成績を取れるように努力している。	He strives to get good grades in all of his classes.		
+EX15U04S009	1	4	彼女は実利主義者だが、名声には興味がない。	"She is materialistic, but she is not interested in fame."		
+EX15U04S010	1	4	東京の夏の高い湿度は耐え難いことがある。	The high humidity of Tokyo summers can be unbearable.		
+EX15U04S011	1	4	彼は自分の作品に対する批判にとても敏感だ。	He is very touchy about criticism of his artwork.		
+EX15U04S012	1	4	彼女は鍛冶屋の見習いとして働いていた。	She worked as an apprentice to a blacksmith.		
+EX15U04S013	1	4	彼女は、息子の突飛な行動に悩み始めている。	Her son's eccentric behavior is starting to worry her.		
+EX15U04S014	1	4	この町に評判のよい歯科医はいますか。	Are there any reputable dentists in this town?		
+EX15U04S015	1	4	彼はとても信心深く、毎週教会に通っている。	He is deeply pious and attends church every week.		
+EX15U04S016	1	4	彼はピカピカになるまで浴槽を磨いた。	He scrubbed the bathtub until it was sparkling.		
+EX15U04S017	1	4	自分の会社がつぶれ、彼の夢は打ち砕かれた。	His dream was shattered when his business closed down.		
+EX15U04S018	1	4	用紙の下の部分を切り離し、郵送してください。	Detach the lower part of the form and mail it.		
+EX15U04S019	1	4	偏った食生活は、肥満の根本的な原因となることがある。	Poor diet can be an underlying cause of obesity.		
+EX15U04S020	1	4	嵐のために彼らの危険な登山はさらに危ないものになった。	The storm made their treacherous climb even more dangerous.		
+EX15U04S021	1	4	彼は子どもたちに責任感を植えつけることを望んだ。	He hoped to instill a sense of responsibility in his children.		
+EX15U04S022	1	4	近づく飼育係に向かって雌ライオンはうなり声を上げた。	The lioness growled at the zookeeper when she approached.		
+EX15U04S023	1	4	ときどきイルカが漁の網にひっかかる。	Sometimes dolphins get entangled in the fishing nets.		
+EX15U04S024	1	4	彼女はついに両親を説得して猫を買ってもらった。	She finally convinced her parents to get a cat.		
+EX15U04S025	1	4	オランウータンは、パーム油産業のせいで生息地を失った。	Orangutans have lost their habitat because of the palm oil industry.		
+EX15U04S026	1	4	これらの規則は、わが社の従業員の安全を保証するためのものだ。	These rules are to ensure the safety of our employees.		
+EX15U04S027	1	4	その会社は新しい有給休暇制度を導入した。	The company adopted a new paid holiday system.		
+EX15U04S028	1	4	温室効果ガスの排出は深刻な問題だ。	The emission of greenhouse gases is a serious problem.		
+EX15U04S029	1	4	そのケーキのレシピの材料はとても高価だ。	The ingredients for the cake recipe are very expensive.		
+EX15U04S030	1	4	甘い食べ物の過剰な摂取は健康に悪い。	Excessive consumption of sugary food is bad for your health.		
+EX15U04S031	1	4	このマーケティングプランの欠点は、コストが高いことだ。	The drawback of this marketing plan is the high cost.		
+EX15U04S032	1	4	彼女は女優になるためにフルタイムの仕事を捨てた。	She abandoned her full-time job to become an actress.		
+EX15U04S033	1	4	その地域の干ばつは年々長くなっている。	The droughts in that region are getting longer every year.		
+EX15U04S034	1	4	彼は毎年夏に人里離れた森ヘキャンプに行く。	He goes camping in a remote forest every summer.		
+EX15U04S035	1	4	お問い合わせの場合は、カスタマーサポートまで直接ご連絡ください。	Please contact customer support directly for any inquiries.		
+EX15U04S036	1	4	トラは、多くの絶滅危惧種のうちの1つだ。	The tiger is one of many endangered species.		
+EX15U04S037	1	4	敵との戦闘で多くの人が命を落とした。	Many people died in combat against the enemy.		
+EX15U04S038	1	4	その地域に新しく建てられる建物はすべて耐震でなければならない。	All new buildings in the area must be resistant to earthquakes.		
+EX15U04S039	1	4	いくつかのNGOは、世界の森林の保全を専門としている。	Several NGOs specialize in conservation of the world's forests.		
+EX15U04S040	1	4	環境に優しい作品を作ろうとする彼女の情熱は、人に伝わる。	Her passion for creating eco-friendly artwork is infectious.		
+EX15U04S041	1	4	政府が提案した著作権改革は物議をかもした。	The copyright reform proposed by the government was controversial.		
+EX15U04S042	1	4	彼女は提訴という手段に訴えざるを得なかった。	She had to resort to filing a lawsuit.		
+EX15U04S043	1	4	名声は彼をひどいうぬぼれ屋に変えた。	Fame transformed him into a very vain person.		
+EX15U04S044	1	4	さまざまな言語で書かれたパンフレットが用意されている。	There are brochures in many different languages available.		
+EX15U04S045	1	4	彼らは5種類のストリーミングサービスとサブスク契約している。	They have subscriptions to five different streaming services.		
+EX15U04S046	1	4	有害な化学物質は適切な容器で保管しなければならない。	Hazardous chemicals should be stored in appropriate containers.		
+EX15U04S047	1	4	その科学者の説は不正確であると判明した。	The scientist's theory turned out to be inaccurate.		
+EX15U04S048	1	4	この種のペンギンは、非常に過酷な環境の中で生息している。	This breed of penguin lives in a very hostile environment.		
+EX15U04S049	1	4	彼はいらいらするあまり、怒鳴り始めた。	He was so frustrated that he started yelling.		
+EX15U04S050	1	4	その会社は愚かにも、類似製品をすぐに作れる競合他社の能力を過小評価していた。	The company foolishly underrated their competitor's ability to quickly create a similar product.		
+EX15U04S051	1	4	子会社が合併して1つの大きな会社になった。	The subsidiaries merged to form one large company.		
+EX15U04S052	1	4	新しいゲームに気を取られて、彼は宿題が終わらなかった。	The new game was distracting him from finishing his homework.		
+EX15U04S053	1	4	彼女は春物の服を探して、店の中を見て回った。	"She browsed through the store, searching for spring clothes."		
+EX15U04S054	1	4	The Waterfall Chronicle は、この地域の日刊紙の中で最大の発行部数を誇っている。	The Waterfall Chronicle has the largest circulation of any daily newspaper in the region.		
+EX15U04S055	1	4	大学の入学手続きはちょっと煩雑だ。	College admission procedures are somewhat complicated.		
+EX15U04S056	1	4	ある種の食品は、消化に深刻な問題を引き起こす可能性がある。	Certain foods can cause serious problems with digestion.		
+EX15U04S057	1	4	その本の新版にはあまり変更点はない。	There are not many alterations to the new version of the book.		
+EX15U04S058	1	4	市長の行為は明らかな法律違反だった。	The mayor's action was a clear violation of the law.		
+EX15U04S059	1	4	勤務態度が悪いため、彼女は停職処分になった。	She was suspended from work due to her poor behavior.		
+EX15U04S060	1	4	このアプリは私のすべての金銭取引を記録している。	This application tracks all of my financial transactions.		
+EX15U04S061	1	4	現在、インフレについて多くのメディアで報道されている。	Inflation is receiving a lot of media coverage right now.		
+EX15U04S062	1	4	顧客がデバイスをアップグレードするには、動機付けが必要だ。	Customers need an incentive to upgrade their devices.		
+EX15U04S063	1	4	医者はその患者を腎臓結石と診断した。	The doctor diagnosed the patient with kidney stones.		
+EX15U04S064	1	4	彼女は誰に対しても自分の苦労について話すことをためらった。	She was hesitant to speak about her struggles to anyone.		
+EX15U04S065	1	4	住宅市場の低迷は、問題を引き起こすかもしれない。	A downturn in the housing market could cause problems.		
+EX15U04S066	1	4	台風が上陸する前に、何千人もの人が避難した。	Thousands of people evacuated before the typhoon reached land.		
+EX15U04S067	1	4	容疑者は警察に無実を主張し続けた。	The suspect continued to assert his innocence to the police.		
+EX15U04S068	1	4	歯磨きは、良好な衛生状態の大切な要素だ。	Brushing your teeth is an important part of good hygiene.		
+EX15U04S069	1	4	彼らはワクチン研究において大躍進を遂げた。	They had a major breakthrough in vaccine research.		
+EX15U04S070	1	4	その年、インフルエンザの流行により何百人もの人が亡くなった。	The flu epidemic killed hundreds of people that year.		
+EX15U04S071	1	4	彼女はそのお金を盗んだという容疑を否認した。	She denied accusations that she stole the money.		
+EX15U04S072	1	4	彼は娘2人を甘やかすのが大好きだ。	He loves to spoil both of his daughters.		
+EX15U04S073	1	4	本日お電話いただくと当社のファイナンシャルアドバイザーによる無料相談を受けられます。	Call today for a free consultation with one of our financial advisors.		
+EX15U04S074	1	4	彼の家族は2013年に米国に移住した。	His family immigrated to the US in 2013.		
+EX15U04S075	1	4	その国はいずれ自国の石油埋蔵量を使い果たすだろう。	The country will eventually exhaust its oil reserves.		
+EX15U04S076	1	4	祖父母は、彼女のしつけの大半を担っていた。	Her grandparents were responsible for most of her upbringing.		
+EX15U04S077	1	4	この古い家は長年放置されてきた。	This old house has been neglected for years.		
+EX15U04S078	1	4	医者は彼の感染症を治療するため薬を処方した。	The doctor prescribed medicine to treat his infection.		
+EX15U04S079	1	4	彼女は、北極圏に関するその講義が有益だと思った。	She found the lecture on the Arctic to be informative.		
+EX15U04S080	1	4	彼らはその店で1920年代のおもちゃをいくつか発見した。	They unearthed several toys from the 1920s in the shop.		
+EX15U04S081	1	4	子どもたちは、新しい町に引っ越す可能性にとてもワクワクしている。	Our kids are very excited by the prospect of moving to a new town.		
+EX15U04S082	1	4	彼がうっかり踏んで、花の茎が折れてしまった。	The flower's stem broke when he accidentally stepped on it.		
+EX15U04S083	1	4	雇用主には、安全な職場環境を提供する義務がある。	Employers have an obligation to provide a safe work environment.		
+EX15U04S084	1	4	建設作業員たちはその用地から川の流れをそらせた。	The construction workers diverted the water away from the site.		
+EX15U04S085	1	4	彼らは効果的なコミュニケーションによって50年にわたる関係を維持した。	They sustained their relationship of 50 years by communicating effectively.		
+EX15U04S086	1	4	そのカフェは住宅地に近い。	The caf? is close to a residential area.		
+EX15U04S087	1	4	チューダー家の治世はおよそ120年間続いた。	The Tudor's reign lasted for roughly 120 years.		
+EX15U04S088	1	4	どちらの社員を解雇するかは彼にとって大きなジレンマだった。	Choosing which employee to fire was a major dilemma for him.		
+EX15U04S089	1	4	人間に対するサメの危険性は、大幅に誇張されている。	The danger of sharks to humans is largely overstated.		
+EX15U04S090	1	4	彼は電話で大声で話して、皆をいらいらさせる。	He irritates everyone by talking loudly on the phone.		
+EX15U04S091	1	4	両国は敵と戦うために同盟を結んだ。	The two countries formed an alliance to fight their enemy.		
+EX15U04S092	1	4	彼女は、よくできたときは生徒たちを褒める。	She compliments her students when they do a good job.		
+EX15U04S093	1	4	昨夜、彼は自動車事故に遭うのをかろうじて回避した。	"Last night, he narrowly avoided getting into a car accident."		
+EX15U04S094	1	4	台風は何千人もの観光客の旅行計画を混乱させた。	The typhoon disrupted the travel plans of thousands of tourists.		
+EX15U04S095	1	4	観光キャンペーンのおかげで、彼女のビジネスは成功した。	Her business prospered because of the tourism campaign.		
+EX15U04S096	1	4	彼はほとんどの昆虫に対して根拠のない恐れを抱いている。	He has an irrational fear of most insects.		
+EX15U04S097	1	4	地震はその地域を壊滅させた。	The earthquake devastated the area.		
+EX15U04S098	1	4	ほとんどすべての患者が同じ症状を示している。	Virtually every patient is showing the same symptoms.		
+EX15U04S099	1	4	脚を骨折してから、彼女は移動が非常に制限された。	Her mobility was very limited after she broke her leg.		
+EX15U04S100	1	4	提案書を修正して、情報を追加してください。	Please modify your proposal to include more data.		
+EX15U04S101	1	4	売上ノルマを達成できなければ、われわれの何人かが首になるだろう。	Some of us will lose our jobs if we don't meet our sales quota.		
+EX15U04S102	1	4	米国では外来ペットがより一般的になりつつある。	Exotic pets are becoming more common in the US.		
+EX15U04S103	1	4	当社の製品はすべて、天然の保存料のみを使用しています。	All of our products contain only natural preservatives.		
+EX15U04S104	1	4	最高技術責任者は、当社の大所帯のエンジニアチームを統括している。	The chief technology officer oversees our large team of engineers.		
+EX15U04S105	1	4	警察は、町で騒動があったという報告を受けた。	The police received a report of a disturbance in town.		
+EX15U04S106	1	4	私の主治医は腕がよいという評判だ。	My doctor has a good reputation for being competent.		
+EX15U04S107	1	4	大豆製品はしばしば肉の代用品として使われる。	Soy products are often used as substitutes for meat.		
+EX15U04S108	1	4	彼はすでに現代の偉大な作家の一人として名を上げている。	He has already distinguished himself as one of the great authors of our time.		
+EX15U04S109	1	4	この引用句はアインシュタインの言葉とされるが、これを最初に言ったのは彼ではない。	"The quote is attributed to Einstein, but he was not the first to say this."		
+EX15U04S110	1	4	彼女は大の音楽好きで、熱烈なコンサート常連客でもある。	She loves music and is a passionate concert goer.		
+EX15U04S111	1	4	その政党は最初から失敗する運命にあった。	The political party was doomed to fail from the start.		
+EX15U04S112	1	4	この決定は、将来への危険な前例となる。	This decision sets a dangerous precedent for the future.		
+EX15U04S113	1	4	その製品のマーケティングはかなり誤解を招くものだった。	The marketing for that product was rather misleading.		
+EX15U04S114	1	4	彼は部長の指示を言葉通りに取りすぎることがある。	He sometimes takes his manager's instructions too literally.		
+EX15U04S115	1	4	彼女は新しい発明の特許を出願した。	She applied for a patent for her new invention.		
+EX15U04S116	1	4	その薬の副作用の一つは倦怠感だ。	One of the drug's side effects is fatigue.		
+EX15U04S117	1	4	彼女はその問題についての本当の気持ちを伝えることができなかった。	She was unable to convey her true feelings about the matter.		
+EX15U04S118	1	4	彼は意図的にレポートに名前を書かなかった。	He intentionally did not write his name on the report.		
+EX15U04S119	1	4	毎冬、この一帯にカモの大群が渡ってくる。	There is a large migration of ducks to this area every winter.		
+EX15U04S120	1	4	私の家の外の電線によく鳥が止まっている。	Birds often perch on the telephone wires outside of my house.		
+EX15U05S001	1	5	彼女は、最後の給料を送らなかったとして以前の会社を訴えた。	She sued her old company for failing to send her final paycheck.		
+EX15U05S002	1	5	スマートフォンは、ほとんどの人の生活になくてはならないものだ。	Smartphones are an indispensable part of most people's lives.		
+EX15U05S003	1	5	当店ではペットフードを多数取りそろえております。	Our store offers a large array of pet foods.		
+EX15U05S004	1	5	少年時代、彼はプロ野球選手になることを夢見ていた。	"As a boy, he aspired to become a professional baseball player."		
+EX15U05S005	1	5	彼は出かけるといつも、決まって買い物に時間をかけすぎる。	He invariably spends too much time shopping whenever he goes.		
+EX15U05S006	1	5	その詩人の作品は続く世代の人々に大きな影響を与えた。	The poet's work had a deep impact on subsequent generations.		
+EX15U05S007	1	5	彼女は完全家具つきのアパートを借りることにした。	She decided to rent a fully furnished apartment.		
+EX15U05S008	1	5	彼はバスケットボールがうまいといつも自慢している。	He always boasts about how good he is at playing basketball.		
+EX15U05S009	1	5	国鉄は何年も前に民営化された。	The national railway was privatized many years ago.		
+EX15U05S010	1	5	その会社の市場における優位はすぐに弱まった。	The company's dominance of the market soon faded.		
+EX15U05S011	1	5	戦争のない未来を想像するのは難しい。	It is difficult to envision a future without war.		
+EX15U05S012	1	5	明日雪が降る確率は低い。	There is a low probability that it will snow tomorrow.		
+EX15U05S013	1	5	あの会社は雇用する人を厳選している。	That company is very selective about who they employ.		
+EX15U05S014	1	5	彼女のテストの結果はかなりがっかりするものだった。	The results of her test were pretty discouraging.		
+EX15U05S015	1	5	欠陥商品のために、その会社は大きな損失を出した。	The faulty products cost the company a lot of money.		
+EX15U05S016	1	5	戦争中、多くの人が故郷を追われた。	Many people were uprooted from their homes during the war.		
+EX15U05S017	1	5	政界引退後、彼は回顧録の執筆に専念した。	"After retiring from politics, he focused on writing his memoirs."		
+EX15U05S018	1	5	私たちは来週、その計画の第2段階を開始する。	"Next week, we will initiate the second phase of the plan."		
+EX15U05S019	1	5	壁にぶつかって彼の車には大きなへこみができた。	Hitting the wall left a large dent in his car.		
+EX15U05S020	1	5	2人の姉妹にはよく似たところがある。	There is a strong likeness between the two sisters.		
+EX15U05S021	1	5	世界平和は理想主義的な目標だと多くの人が考えている。	Many people think that world peace is an idealistic goal.		
+EX15U05S022	1	5	私たちは技術チームと協力して、そのウェブサイトを制作した。	We collaborated with the engineering team to make the website.		
+EX15U05S023	1	5	スキャンダルのために、その政治家への支持は失われた。	Support for the politician eroded due to the scandal.		
+EX15U05S024	1	5	その夫婦は子どもたちのために友好的な関係を維持した。	The couple maintained an amicable relationship for their children.		
+EX15U05S025	1	5	強い匂いのためにこのチーズが嫌いな人もいる。	Some people do not like this cheese because of its strong odor.		
+EX15U05S026	1	5	彼らはその建物を補強して地震に強くした。	They reinforced the building to be stronger against earthquakes.		
+EX15U05S027	1	5	このソフトウェアを使えば、より円滑な帳簿作成が容易になる。	This software facilitates a smoother bookkeeping experience.		
+EX15U05S028	1	5	雪はすぐに雨に変わったので、積もらなかった。	"The snow quickly turned to rain, so it did not accumulate."		
+EX15U05S029	1	5	乗車中はシートベルトをお締めください。	Please keep your seatbelts fastened for the duration of the ride.		
+EX15U05S030	1	5	その都市国家は、独立100周年を記念して祝祭を催す。	The city-state will hold a festival to commemorate its 100th year of independence.		
+EX15U05S031	1	5	そのコンテストに彼が出した提出作品は、すべての審査員に感銘を与えた。	His submission to the contest impressed all the judges.		
+EX15U05S032	1	5	私どもの会社はクリスマスのお祝いで、月曜日は休みになります。	Our offices will be closed on Monday in observance of Christmas.		
+EX15U05S033	1	5	新しい屋根にいくらかかるか見積もりを取ってください。	Please get a quote for how much the new roof will cost.		
+EX15U05S034	1	5	何年か練習していないので、私のドイツ語の力は少々さびついている。	"I have not practiced for a few years, so my German is a bit rusty."		
+EX15U05S035	1	5	読み書きができない人の割合は、この100年間で減少している。	The percentage of illiterate people has decreased over the last 100 years.		
+EX15U05S036	1	5	彼女は、そのアルバムにインスピレーションをくれた人として何人かのミュージシャンを挙げた。	She cited several musicians as her inspiration for the album.		
+EX15U05S037	1	5	医者は治りますよと彼女に請け負った。	The doctor assured her that she would recover.		
+EX15U05S038	1	5	その慈善活動の成功はインターネットマーケティングの力のあかしだ。	The success of the charity is a testament to the power of Internet marketing.		
+EX15U05S039	1	5	トラックは木に衝突したが、幸運にも運転手の命は助かった。	"The truck collided with a tree, but luckily the driver survived the crash."		
+EX15U05S040	1	5	税金の申告は、彼にとって常に大きな悩みの種だ。	Filing his taxes is always a major annoyance for him.		
+EX15U05S041	1	5	当店の在庫はウェブサイトでご確認いただけます。	You can check our store's inventory on our website.		
+EX15U05S042	1	5	彼女は自分のアパートをしみひとつない状態になるまで掃除した。	She cleaned her apartment until it was spotless.		
+EX15U05S043	1	5	彼女は同僚全員に親近感を抱いていた。	She felt kinship with all of her coworkers.		
+EX15U05S044	1	5	彼はすべてのファイルを日付順で管理している。	He keeps all of his files in chronological order.		
+EX15U05S045	1	5	多くの人が、未来はかなり暗いと感じている。	Many people feel that the future looks rather bleak.		
+EX15U05S046	1	5	その土砂崩れは、地元の人々にとって大きな災難だった。	The landslide was a major calamity for the locals.		
+EX15U05S047	1	5	机の上が散らかっているため、彼女は効率よく仕事ができない。	The clutter on her desk keeps her from working effectively.		
+EX15U05S048	1	5	彼らはまったくの偶然でパリ行きの同じ便を予約していた。	They had booked the same flight to Paris by complete coincidence.		
+EX15U05S049	1	5	彼女はサマーキャンプでさまざまな結び目の作り方を学んだ。	She learned how to tie different knots at summer camp.		
+EX15U05S050	1	5	今年はインフルエンザにかかった人が多い。	The number of people afflicted with influenza is high this year.		
+EX15U05S051	1	5	彼らは手ごわい相手と対戦した。	They had a match against a formidable opponent.		
+EX15U05S052	1	5	彼らは授業で、ほかの人の考えを言い換える仕方を学んだ。	They learned how to paraphrase other people's ideas in class.		
+EX15U05S053	1	5	私は今週の残りの日は出張でいません。	I will be away on business for the remainder of the week.		
+EX15U05S054	1	5	パトカーが何台か犯罪現場に集結した。	Several police cars converged on the scene of the crime.		
+EX15U05S055	1	5	確かに給料は低いが、私はそれで構わない。	"Admittedly, my salary is low, but I'm OK with it."		
+EX15U05S056	1	5	彼女は反逆者と見なされ、刑務所に送られた。	She was deemed a traitor and sent to prison.		
+EX15U05S057	1	5	訴訟に勝つには、明白な証拠が必要だ。	You need indisputable evidence to win the case.		
+EX15U05S058	1	5	けさはどんよりしていたが、今はよく晴れている。	"It was overcast this morning, but it is sunny now."		
+EX15U05S059	1	5	彼女は仕事に夢中で、雨に気づかなかった。	She was too preoccupied with work to notice the rain.		
+EX15U05S060	1	5	多くの農家が家族を食べさせていけないなんて皮肉だ。	It is ironic that many farmers cannot feed their families.		
+EX15U05S061	1	5	わが社には、成功するために必要な創意工夫がある。	Our company has the ingenuity required to succeed.		
+EX15U05S062	1	5	基金は地元の美術館への寄付に使われる予定だ。	The funds will be used to endow the local museum.		
+EX15U05S063	1	5	兄弟間の争いに裁判所が介入せざるを得なくなった。	The court had to intervene in the dispute between the siblings.		
+EX15U05S064	1	5	旅行者たちは行く先々で素晴らしいもてなしを受けた。	The travelers received wonderful hospitality everywhere they went.		
+EX15U05S065	1	5	この小説は、精一杯頑張ることについての元気が出る話だ。	This novel is an uplifting story about trying your best.		
+EX15U05S066	1	5	私はこのプログラムを使って、2台のコンピュータ間でファイルを同期させている。	I use this program to synchronize files between my two computers.		
+EX15U05S067	1	5	この国の報道は政府によって厳しく検閲されている。	This country's news reports are heavily censored by the government.		
+EX15U05S068	1	5	先週、近所で強盗事件があった。	Last week there was a burglary in the neighborhood.		
+EX15U05S069	1	5	彼女がフライパンに魚を入れるとジューッと音がした。	The fish sizzled when she dropped it into the pan.		
+EX15U05S070	1	5	その哲学者の考えは、彼の死後になって初めて注目を集めるようになった。	The philosopher's ideas came to prominence only after his death.		
+EX15U05S071	1	5	その臆病な少年は、地面を見て何も言わずにいた。	The timid boy looked at the ground and said nothing.		
+EX15U05S072	1	5	いかなる情報もマスコミには開示しないでください。	Do not disclose any information to the media.		
+EX15U05S073	1	5	支店長は、彼が金庫室に入ることを許可した。	His manager authorized him to enter the vault.		
+EX15U05S074	1	5	変な髪形のせいで、彼はみんなからからかわれた。	Everyone mocked him because of his bad haircut.		
+EX15U05S075	1	5	多くの人の農業に対する先入観は間違っている。	Most people's preconceived ideas about farming are incorrect.		
+EX15U05S076	1	5	彼らはトカゲが獲物を素早く平らげるのを見た。	They watched the lizard quickly devour its prey.		
+EX15U05S077	1	5	嵐の中、マンホールから水が噴き出した。	Water gushed from the manhole during the storm.		
+EX15U05S078	1	5	モバイルアプリのプロジェクトは、最初から問題に悩まされた。	The mobile app project was plagued with problems from the start.		
+EX15U05S079	1	5	彼は別の部屋から彼女のすすり泣きが聞こえてきて驚いた。	He was surprised to hear her sobs from the other room.		
+EX15U05S080	1	5	彼の指導法は型破りだが、非常に効果的でもある。	"His teaching method is unorthodox, but it is also very effective."		
+EX15U05S081	1	5	彼女は、話しているときは一切悪意がなかった。	She did not have any malicious intent when she talked.		
+EX15U05S082	1	5	スキャンダル以降、何人かの政治家が大衆からの監視のもとに置かれた。	"After the scandal, several politicians came under scrutiny from the public."		
+EX15U05S083	1	5	彼は家族への愛を皆に公言した。	He professed his love for his family to everyone.		
+EX15U05S084	1	5	彼女が仕事を辞めた理由は、まったく理解できないものだった。	Her reasons for leaving her job were completely incomprehensible.		
+EX15U05S085	1	5	会社はその投資でかなりの利益を出した。	The company reaped significant profits from the investments.		
+EX15U05S086	1	5	その先生は、課題を終えられる十分な時間を全員に与えた。	The teacher gave everyone ample time to finish their assignment.		
+EX15U05S087	1	5	この慈善団体は、サイズを問わず種々雑多な品物の寄付を受け付けている。	This charity accepts donations of miscellaneous items of any size.		
+EX15U05S088	1	5	弁護士になるには、はっきりとものが言えなければならない。	You must be an articulate speaker to be a lawyer.		
+EX15U05S089	1	5	市は今年、公園を改修する資金を割り当てた。	The city allocated funds to upgrade the park this year.		
+EX15U05S090	1	5	彼の犬は、うれしいときはいつもしっぼを振る。	His dog wags its tail whenever it is happy.		
+EX15U05S091	1	5	彼女は自分の犯した過ちを深く後悔していた。	She was remorseful about the mistake she had made.		
+EX15U05S092	1	5	彼女は妊娠中ずっとピクルスとアイスクリームを食べたがった。	She craved pickles and ice cream throughout her whole pregnancy.		
+EX15U05S093	1	5	客室にはすべての基本的な設備がそろっています。	Our rooms come equipped with all basic amenities.		
+EX15U05S094	1	5	水分がほとんど蒸発するまでニンジンをゆでます。	Boil the carrots until most of the water has evaporated.		
+EX15U05S095	1	5	自分で事業を始めると考えると、彼女は不安でいっぱいになった。	The thought of starting her own business filled her with apprehension.		
+EX15U05S096	1	5	原油価格の下落により、輸送コストが低下している。	The dip in oil prices has decreased the cost of transportation.		
+EX15U05S097	1	5	スピーチの中で彼は有名な小説からの引用句を読み上げた。	"During his speech, he read an excerpt from a well-known novel."		
+EX15U05S098	1	5	その子どもたちにとって父親を失ったことは大きな試練だった。	The loss of their father was a difficult ordeal for the children.		
+EX15U05S099	1	5	その国は君主の死を悼んだ。	The country mourned the death of their monarch.		
+EX15U05S100	1	5	彼らは、彼の死因を特定するために検死を行った。	They performed an autopsy to determine the cause of his death.		
+EX15U05S101	1	5	嵐の猛威により、町の多くの建物が破壊された。	The fury of the storm destroyed many buildings in town.		
+EX15U05S102	1	5	悪天候のため、パイロットは離陸を中止した。	The pilot aborted the takeoff because of the bad weather.		
+EX15U05S103	1	5	彼女は、スカーフを忘れたという口実で彼の家に戻った。	She went back to his house on the pretext that she had forgotten her scarf.		
+EX15U05S104	1	5	平等の問題は、彼女の作品に繰り返し現れるテーマだ。	Issues of equality are a recurrent theme in her work.		
+EX15U05S105	1	5	ワシは多くのアメリカ先住民の民間伝承に登場する。	The eagle appears in a large amount of Native American folklore.		
+EX15U05S106	1	5	彼は電話機の代金を月割で払っている。	He pays for his phone in monthly installments.		
+EX15U05S107	1	5	契約書の改訂を行う前に、全員が同意する必要がある。	Everyone must agree before amendments to the contract are made.		
+EX15U05S108	1	5	彼が才能ある音楽家であることは間違いないが、同時にとてもうぬぼれている。	"There is no denying that he is a gifted musician, but he is also very conceited."		
+EX15U05S109	1	5	酒に酔った状態で車を運転するのは法律違反だ。	It is against the law to drive while intoxicated.		
+EX15U05S110	1	5	超自然的な力に関するテレビ番組は非常に人気がある。	TV shows about supernatural powers are very popular.		
+EX15U05S111	1	5	その政治家は支持者を集めるためにごまかしをした。	The politician used deception in order to gather supporters.		
+EX15U05S112	1	5	急激な気温の上昇は深刻な問題だ。	The drastic increase in temperature is a serious problem.		
+EX15U05S113	1	5	この種の投資にはリスクがつきものだ。	There are inherent risks in this type of investment.		
+EX15U05S114	1	5	間違って記入したため、彼の票はカウントされなかった。	His ballot did not count because he filled it out wrong.		
+EX15U05S115	1	5	会社に化学物質の投棄をやめることを求める彼らの嘆願は無視された。	Their pleas for the company to stop dumping the chemicals were ignored.		
+EX15U05S116	1	5	彼女はカボチャの風味が大嫌いだ。	She loathes the flavor of pumpkins.		
+EX15U05S117	1	5	彼は森の中の人里離れた家に1年間住んでいた。	He spent a year living in a secluded house in the forest.		
+EX15U05S118	1	5	クリーンエネルギーは、私たちに新しい時代の到来を告げるものかもしれない。	Clean energy could herald a new era for us.		
+EX15U05S119	1	5	彼女はいつも、何かがうまくいかないのではないかと疑心暗鬼になっている。	She is always paranoid that something will go wrong.		
+EX15U05S120	1	5	美術館は寄付不足のために財政難に陥っている。	The museum is having financial problems because of a shortfall in donations.		
+EX15U07S001	1	7	理事会はCEOの辞任の決断を承認した。	The board endorsed the CEO's decision to resign.		
+EX15U07S002	1	7	ほとんどの人が彼女の悲劇的な話を聞くと涙する。	Most people cry when listening to her tragic story.		
+EX15U07S003	1	7	その女性は隣人への嫌がらせの罪で起訴された。	The woman was charged with harassing her neighbors.		
+EX15U07S004	1	7	フィレミニョンは、とても柔らかいステーキ肉の部位だ。	Filet mignon is a very tender cut of steak.		
+EX15U07S005	1	7	彼女の祖母はもう弱って歩くことができない。	Her grandmother is now too feeble to walk.		
+EX15U07S006	1	7	その放課後プログラムは、青少年の創造性を育むことを目的としている。	The afterschool program aims to foster creativity in youth.		
+EX15U07S007	1	7	画像を拡大すると、背景に女性がいることがわかります。	"If you magnify the image, you'll notice there is a woman in the background."		
+EX15U07S008	1	7	証人の証言はあとになって偽りであることがわかった。	The testimony of the witness was later found to be false.		
+EX15U07S009	1	7	彼女はご飯を炊く前に米を冷水に浸した。	She soaked the rice in cold water before cooking it.		
+EX15U07S010	1	7	彼は研究室に入る許可を与えられた。	He was granted permission to enter the lab.		
+EX15U07S011	1	7	この山は、ネパールと中国の境界を成している。	This mountain marks the boundary between Nepal and China.		
+EX15U07S012	1	7	突然の風がテーブルの上に積まれた書類をまき散らした。	A sudden wind scattered the pile of papers on the table.		
+EX15U07S013	1	7	彼らは古いトラックに岩を積みすぎて、丘を登るのに苦労した。	"They had overloaded the old truck with rocks, and it struggled to climb the hill."		
+EX15U07S014	1	7	さしあたり、議論をマーケティングに限定しましょう。	Let's confine our discussion to marketing for now.		
+EX15U07S015	1	7	床には汚れた服や食器が散らばっていた。	The floor was littered with dirty clothes and dishes.		
+EX15U07S016	1	7	近隣諸国までもが、その地域に救助隊を派遣した。	Even their neighboring countries dispatched rescue workers to the area.		
+EX15U07S017	1	7	彼はとても傲慢で、自分が何でも知っていると思っている。	He is so arrogant; he thinks he knows everything.		
+EX15U07S018	1	7	彼女の話し方は時にぎこちないことがある。	The way she talks can be awkward at times.		
+EX15U07S019	1	7	このアライグマは屋内で育てられたので、人に慣れている。	This raccoon is tame because he was raised indoors.		
+EX15U07S020	1	7	軍隊は敵の領土の奥深くまで侵入した。	The military penetrated deep into enemy territory.		
+EX15U07S021	1	7	暴動は政府によって無事に鎮圧された。	The uprising was successfully suppressed by the government.		
+EX15U07S022	1	7	彼の頑固なものの考え方は、時に摩擦を引き起こす。	His rigid way of thinking sometimes leads to conflict.		
+EX15U07S023	1	7	彼は不法行為で家名を汚した。	He disgraced his family with his illegal activities.		
+EX15U07S024	1	7	時には痛みの激しい患者を拘束しなければならないこともある。	Sometimes it is necessary to restrain patients that are in extreme pain.		
+EX15U07S025	1	7	多くの人が、死刑は廃止されるべきだと考えている。	Many people believe the death penalty should be abolished.		
+EX15U07S026	1	7	2片の木材の摩擦で熱が生じる。	The friction of the two pieces of wood generates heat.		
+EX15U07S027	1	7	このワンピースはとても目の粗い素材でできている。	This dress is made of a very coarse material.		
+EX15U07S028	1	7	ネット上のやり取りの匿名性により、より卑怯な言葉による攻撃が行われている。	The anonymity of online interactions results in more cowardly verbal attacks.		
+EX15U07S029	1	7	彼らはつまらないことで言い争いになった。	They got into an argument over a petty issue.		
+EX15U07S030	1	7	その国は、非常に多くのテロ容疑者を拘束しているとして批判を受けている。	The country is under criticism for its detention of so many suspected terrorists.		
+EX15U07S031	1	7	切れないナイフでものを切るのは危険だ。	Using a blunt knife to cut things is dangerous.		
+EX15U07S032	1	7	そのチームは、マーケティング戦略について活発な議論を行った。	The team had a vigorous discussion on marketing strategies.		
+EX15U07S033	1	7	銃弾は彼の肺を貫通し、彼は緊急手術を受けなければならなかった。	"The bullet pierced his lung, and he had to undergo emergency surgery."		
+EX15U07S034	1	7	政府は反乱を長期間鎮圧しておくことができなかった。	The government could not suppress the revolt for long.		
+EX15U07S035	1	7	ネジをしめるには、時計回りに回します。	Twist the screw clockwise in order to tighten it.		
+EX15U07S036	1	7	ハイカーたちは嵐の間、洞窟を避難場所に使った。	The hikers used a cave for shelter during the storm.		
+EX15U07S037	1	7	その古い建物は地震で倒壊した。	The old building collapsed during the earthquake.		
+EX15U07S038	1	7	彼は卒業後、医学の道に進んだ。	He pursued a career in medicine after his graduation.		
+EX15U07S039	1	7	その店では、最高品質の電化製品のみを販売している。	The store only sells the highest quality appliances.		
+EX15U07S040	1	7	ほかの会社はすぐにこの製品を模倣した。	Other companies were quick to imitate this product.		
+EX15U07S041	1	7	その農場は今年、びっくりするような量のカボチャを収穫した。	The farm has yielded an impressive amount of pumpkins this year.		
+EX15U07S042	1	7	この技術でできることには限界がある。	There are limitations to what this technology can do.		
+EX15U07S043	1	7	彼は自動車業界で豊富な経験を持っている。	He has extensive experience in the automotive industry.		
+EX15U07S044	1	7	部長は、彼女の大胆な提案に感心した。	The manager was impressed by her radical proposal.		
+EX15U07S045	1	7	彼は職場での不適切な行動を理由に解雇された。	He was dismissed for improper conduct in the workplace.		
+EX15U07S046	1	7	そのサッカーの試合後に暴動が起きた。	There was a riot after the soccer game.		
+EX15U07S047	1	7	このアプリの開発費はわれわれの予算をはるかに超えている。	The development costs for this app far exceed our budget.		
+EX15U07S048	1	7	彼らは家全体をリフォームする見積もりを受け取った。	They received a quote to have their whole house remodeled.		
+EX15U07S049	1	7	政府は、教育支出の削減に対して激しい批判を受けた。	The government received fierce criticism for cutting education spending.		
+EX15U07S050	1	7	彼女は青年時代のすべてをドイツ語の勉強に費やした。	She spent all of her adolescent years studying German.		
+EX15U07S051	1	7	すべての素材は、さまざまな化学成分でできている。	All materials are made of different chemical components.		
+EX15U07S052	1	7	不審な行動をしていたため、警察はその男を監視した。	The police watched the man because of his suspicious behavior.		
+EX15U07S053	1	7	犬たちはヒツジを家畜小屋に連れ戻した。	The dogs herded the sheep back to the barn.		
+EX15U07S054	1	7	彼女はいくつかの異なる症候群と診断された。	She was diagnosed with several different syndromes.		
+EX15U07S055	1	7	その映画は女性を侮辱するものだと言う批評家もいる。	Some critics say the film is offensive to women.		
+EX15U07S056	1	7	レコードは時代遅れの技術かもしれないが、いまだに人気がある。	"Records may be outdated technology, but they are still popular."		
+EX15U07S057	1	7	そのバンドの人気は、時間とともに徐々に低下している。	The popularity of that band has gradually diminished over time.		
+EX15U07S058	1	7	彼女は、機能的かつかわいい服が欲しかった。	She wanted clothes that were both functional and pretty.		
+EX15U07S059	1	7	入国管理局は、観光客数に関する新しい統計データを発表した。	The Immigration Bureau released new statistics on tourist numbers.		
+EX15U07S060	1	7	1時間近くたってから、消防士たちは車の残骸から彼を救い出すことができた。	"After almost an hour, firefighters were able to pull him from the car wreck."		
+EX15U07S061	1	7	この野生動物保護区では、動物たちが安全に暮らすことができる。	Animals can live safely in this wildlife sanctuary.		
+EX15U07S062	1	7	アルコールは判断力を低下させ、行動に影響を及ぼす。	Alcohol impairs your judgment and affects your behavior.		
+EX15U07S063	1	7	店長は彼に仕事に戻るよう促した。	The manager prompted him to get back to work.		
+EX15U07S064	1	7	あの魚を釣るには、えさを変える必要がある。	You need to change your bait to catch that fish.		
+EX15U07S065	1	7	このセミナーの目的は、相互理解を促すことだ。	The goal of this seminar is to promote mutual understanding.		
+EX15U07S066	1	7	この図は、棚の組み立て方を示している。	This diagram shows how to put together the shelf.		
+EX15U07S067	1	7	困ったことに、彼女は仕事を解雇された。	"To her distress, she was fired from work."		
+EX15U07S068	1	7	彼は暴力行為のために学校を退学させられた。	He was expelled from school for violent behavior.		
+EX15U07S069	1	7	その犬は腐った肉を食べて病気になった。	The dog got sick from eating rotten meat.		
+EX15U07S070	1	7	彼女は毛布のデザインに微妙な変更を加えた。	She made subtle changes to the blanket design.		
+EX15U07S071	1	7	これは仮の計画にすぎないので、あとで変更になるかもしれない。	"This is just a tentative plan, so it might change later."		
+EX15U07S072	1	7	彼はその腕時計が不良品だったので、返品した。	He returned the watch because it was defective.		
+EX15U07S073	1	7	申請書の文字は読みやすいものでなければならない。	The writing on your application must be legible.		
+EX15U07S074	1	7	そのロケットは強力なジェットエンジンによって推進される。	The rocket is propelled by powerful jet engines.		
+EX15U07S075	1	7	彼女は花を抜くとそれを母親にあげた。	She plucked the flower and gave it to her mother.		
+EX15U07S076	1	7	彼女が長年にわたり、違法に脱税していたことが発覚した。	It was discovered that she had illegally evaded taxes for years.		
+EX15U07S077	1	7	物干しロープは長年の使用でたるんでいた。	The clothesline was slack from years of use.		
+EX15U07S078	1	7	巻末の用語集を調べれば、キーワードが簡単に見つかります。	Check the glossary to easily find key terms.		
+EX15U07S079	1	7	その小さな男の子は母親の手をしっかりと握った。	The little boy grasped his mother's hand tightly.		
+EX15U07S080	1	7	そのレストランは2つの大通りの合流点に位置している。	The restaurant is located at the junction of the two main streets.		
+EX15U07S081	1	7	残念ながら、慈善団体が常に正しいことをするとは限らない。	"Unfortunately, charities do not always do the righteous thing."		
+EX15U07S082	1	7	成功率は10パーセント前後でほぼ安定している。	The success rate is hovering around 10 percent.		
+EX15U07S083	1	7	その秘密のメッセージを解読するには専門家チームが必要だった。	It took a team of experts to decode the secret message.		
+EX15U07S084	1	7	果物は一つひとつプラスチックのケースに収められていた。	Each piece of fruit was encased in plastic.		
+EX15U07S085	1	7	凱旋軍を称える大規模なパレードが行われた。	A large parade was held in honor of the victorious army.		
+EX15U07S086	1	7	彼女はいつも立ち止まって物乞いにお金をやる。	She always stops to give money to beggars.		
+EX15U07S087	1	7	仕事で長い1日を過ごしたあと、彼女は眠くなった。	She felt drowsy after a long day at work.		
+EX15U07S088	1	7	男は彼女をベルトで絞殺しようとした。	The man attempted to strangle her to death with a belt.		
+EX15U07S089	1	7	部長は人間性と職業倫理を高く評価されている。	The manager is highly esteemed for his personality and work ethic.		
+EX15U07S090	1	7	風船は2、3日するとしぼんだ。	The balloons deflated after a few days.		
+EX15U07S091	1	7	その会社はいくつかの不審な商取引を行ってきた。	That company has made some dubious business deals.		
+EX15U07S092	1	7	彼はポリエステルの肌触りが好きではない。	He does not like the texture of polyester against his skin.		
+EX15U07S093	1	7	入居者は皆、公共スペースを清潔に保つよう努めなければならない。	All tenants must work to keep public spaces clean.		
+EX15U07S094	1	7	10月24日、その国は小国に対して宣戦布告を行った。	"On October 24, the country made a declaration of war against the smaller nation."		
+EX15U07S095	1	7	彼女が眼鏡をかけていたので、ほかの子どもたちは彼女をからかった。	The other children teased her because she wore glasses.		
+EX15U07S096	1	7	彼らは、画期的な合意を結び、鉄鋼の関税を引き下げることを決定した。	They decided to reduce steel tariffs in a landmark agreement.		
+EX15U07S097	1	7	イギリス人による世界征服はよく知られている。	The conquest of the world by the English is well known.		
+EX15U07S098	1	7	彼女は元夫が子どもに対する責任を否定したため、彼を訴えた。	She sued her ex-husband for his denial of responsibility for their children.		
+EX15U07S099	1	7	彼は、音楽とファッションデザインの両方の分野で高く評価されている人物だ。	He is a respected figure in the domains of both music and fashion design.		
+EX15U07S100	1	7	そのコンピュータプログラムは、さまざまな規模の地震の影響をシミュレートすることができる。	The computer program can simulate the effects of earthquakes of different sizes.		
+EX15U07S101	1	7	警察はすぐに男から武器を取り上げ、逮捕した。	The police quickly disarmed the man and arrested him.		
+EX15U07S102	1	7	結論は短く簡潔にまとめるようにしなさい。	Make sure to keep your conclusion short and concise.		
+EX15U07S103	1	7	悲しいことに、彼は死に至る病だと診断された。	"Sadly, he was diagnosed with a mortal disease."		
+EX15U07S104	1	7	彼女の本の続編は、本編ほどは売れなかった。	The sequel to her book did not sell as well.		
+EX15U07S105	1	7	彼は枝につまずいて、転んだ。	He stumbled on a branch and fell over.		
+EX15U07S106	1	7	その家は暗い色の家具ばかりで、陰気な感じがする。	The house is gloomy because of all the dark furniture.		
+EX15U07S107	1	7	このソファはベッドに変えることができる。	This sofa can be converted into a bed.		
+EX15U07S108	1	7	彼女はさらに3か月間働く契約を結んだ。	She signed a contract to work for three more months.		
+EX15U07S109	1	7	彼はそのホテルの203号室を割り当てられた。	He was assigned to room 203 at the hotel.		
+EX15U07S110	1	7	その地域の過酷な状況のせいで、毎年人々が亡くなっている。	The harsh conditions in that region kill people every year.		
+EX15U07S111	1	7	この記事は、自動車ローンを申し込むための手続きについて説明している。	This article explains the procedure for applying for a car loan.		
+EX15U07S112	1	7	軍は敵のミサイル攻撃に対抗するための訓練を行っている。	The military is training to counter enemy missile attacks.		
+EX15U07S113	1	7	汚染の増大は全住民の健康に危険を引き起こす。	Increasing pollution poses a threat to the health of all residents.		
+EX15U07S114	1	7	彼女はかろうじて仕事に間に合った。	She barely made it to work on time.		
+EX15U07S115	1	7	私たちは競合他社よりもすぐれたサービスを提供します。	We offer a superior service to our competitors.		
+EX15U07S116	1	7	彼はフリーランスの仕事を請け負うことで、収入を補っている。	He supplements his income by taking on freelance jobs.		
+EX15U07S117	1	7	この国の一流の教育機関の多くは、無料で通うことができる。	Many of the top-rated educational institutions in this country are free to attend.		
+EX15U07S118	1	7	富士山は2013年に世界遺産に登録された。	Mt. Fuji was registered as a World Heritage Site in 2013.		
+EX15U07S119	1	7	専門家は、現在の人口急増は将来の経済にとって素晴らしいことだと言っている。	Experts say the current population boom is great for the future economy.		
+EX15U07S120	1	7	彼は毎晩ギターを弾いてストレスを解消している。	He relieves stress by playing his guitar every night.		
+EX15U08S001	1	8	彼女は年間授業料の半分を奨学金でまかなった。	She covered half of her yearly tuition with scholarships.		
+EX15U08S002	1	8	近ごろ、有害植物種の侵入によって果樹が枯れている。	"Recently, the invasion of a harmful plant species is killing the fruit trees."		
+EX15U08S003	1	8	街の明かりは星を見る妨げになる。	The light in the city interferes with viewing the stars.		
+EX15U08S004	1	8	あなたの告発に異議を唱える人はここにはいない。	Nobody here disputes the accusations you have made.		
+EX15U08S005	1	8	そのゲーム会社は来月、新しいゲームを発売する予定だ。	The game company is going to launch a new game next month.		
+EX15U08S006	1	8	車は持っているが、職場まで歩くほうが私の個人的な好みだ。	"I have a car, but my personal preference is to walk to work."		
+EX15U08S007	1	8	そのレストランの名前は思い出せないが、それは駅の目の前にあった。	"I cannot recall the name of the restaurant, but it was right in front of the station."		
+EX15U08S008	1	8	今日、数か国が新しい和平条約に署名した。	Several countries signed the new peace treaty today.		
+EX15U08S009	1	8	ここにいれば、すぐには危険はない。	You are in no immediate danger if you stay here.		
+EX15U08S010	1	8	彼女はキャリアアップのために家庭生活を犠牲にした。	She sacrificed her family life in order to advance in her career.		
+EX15U08S011	1	8	人が話しているときに遮るのは失礼だ。	It is rude to interrupt someone when they are talking.		
+EX15U08S012	1	8	ここは、本場のタイ料理が味わえる最高のレストランだ。	This is the best restaurant for authentic Thai cuisine.		
+EX15U08S013	1	8	チーズがどこで生まれたのか、はっきりとわかっている人はいない。	Nobody is quite sure where cheese originated from.		
+EX15U08S014	1	8	安定した食料供給がなければ、多くの動物は餓死するだろう。	"Without a stable food supply, many animals will starve."		
+EX15U08S015	1	8	彼女は販売のたびに10パーセントの歩合を得る。	She gets a 10 percent commission for each sale she makes.		
+EX15U08S016	1	8	ケータリング業者が落として、彼らのケーキは台無しになった。	Their cake was ruined when the caterer dropped it.		
+EX15U08S017	1	8	私たちの実験結果をここに図解します。	The results of our experiment are illustrated here.		
+EX15U08S018	1	8	その洞窟の絵は原始社会について私たちに多くのことを教えてくれる。	The cave paintings have taught us a lot about primitive societies.		
+EX15U08S019	1	8	この機械を動かすには膨大な量の電気が必要だ。	It takes a tremendous amount of electricity to power this machine.		
+EX15U08S020	1	8	彼はたくさんある趣味の一つとして、流木を彫る。	He carves driftwood as one of his many hobbies.		
+EX15U08S021	1	8	彼女は、事故の前はかなりいい健康状態だった。	She was in pretty decent shape prior to the accident.		
+EX15U08S022	1	8	彼は父親の最もよい特性をすべて受け継いだ。	He inherited all of his father's best traits.		
+EX15U08S023	1	8	多くのアメリカ企業は、カスタマーサービスを他国に外部委託している。	Many American companies outsource customer service to other countries.		
+EX15U08S024	1	8	水素は、多くの一般的な化合物のベースとなっている。	Hydrogen is the base of many common compounds.		
+EX15U08S025	1	8	このフェンスに使われている素材は軽くて耐久性がある。	The material used for this fence is light and durable.		
+EX15U08S026	1	8	そのコーチは女性をおとしめるジョークを言って首になった。	The coach was fired for making jokes that degrade women.		
+EX15U08S027	1	8	中世音楽の研究は本当に魅力的だ	The study of medieval music is truly fascinating.		
+EX15U08S028	1	8	山頂への道は険しかった。	The trail to the peak of the mountain was steep.		
+EX15U08S029	1	8	架橋工事のため、その地域全体が強制退去させられた。	The whole community was displaced because of the bridge construction.		
+EX15U08S030	1	8	有害な化学物質を使わずに土壌を肥沃にすることは可能だ。	It is possible to enrich soil without using harmful chemicals.		
+EX15U08S031	1	8	両親は、彼が家事を終わらせるとお金をくれる。	His parents give him money for completing his chores.		
+EX15U08S032	1	8	彼女は政府に対する反乱を率い、勝利した。	She led a rebellion against the government and won.		
+EX15U08S033	1	8	彼らは学校で、ある有名な実験を再現した。	They replicated a famous experiment at school.		
+EX15U08S034	1	8	私たちは所有者の承諾を得ない限り、その建物に立ち入ることができない。	We cannot enter the building unless we obtain consent from the owner.		
+EX15U08S035	1	8	彼の顔は兄とそっくりだ。	His face is identical to that of his older brother.		
+EX15U08S036	1	8	ほとんどの生徒は、学校の新しい制服の規定を受け入れた。	Most students embraced the school's new uniform policy.		
+EX15U08S037	1	8	当美術館は、地元アーティストによる本物の絵画のみを収蔵している。	Our museum only contains genuine paintings from local artists.		
+EX15U08S038	1	8	その子どもたちは誤って森の奥深くに迷い込んだ。	The children strayed deep into the forest by mistake.		
+EX15U08S039	1	8	幸いなことに、盗まれた自転車は警察が取り戻してくれた。	"Thankfully, the police managed to retrieve the stolen bicycle."		
+EX15U08S040	1	8	彼は今日、最終稿を編集者に送った。	He sent his final draft to his editor today.		
+EX15U08S041	1	8	彼女は一流大学で文学士号を取得した。	She received her Bachelor of Arts from a prestigious university.		
+EX15U08S042	1	8	過去の帝国の滅亡には多くの理由がある。	There are many reasons for the downfall of past empires.		
+EX15U08S043	1	8	この製品は、当社の存続に極めて重要だ。	This product is crucial to our company's survival.		
+EX15U08S044	1	8	その道路には、ドライバーに減速させるためのスピードバンプがいくつかある。	The road has several speed bumps to slow down drivers.		
+EX15U08S045	1	8	反乱軍は完全に包囲されて、降伏した。	The rebel forces surrendered after they were completely surrounded.		
+EX15U08S046	1	8	健康保険証は封筒に同封されています。	Your health insurance card is enclosed in the envelope.		
+EX15U08S047	1	8	あのホラー映画はとても血生臭くて、どぎつかった。	That horror movie was very bloody and graphic.		
+EX15U08S048	1	8	この防護カバーは暑い日差しからの遮蔽物になる。	This protective covering works as a shield against the hot sun.		
+EX15U08S049	1	8	すべての儀式が特定の宗教的意味を持っているわけではない。	Not all rituals have a particular religious meaning.		
+EX15U08S050	1	8	既存の政策は、女性を差別するようにしか機能していない。	Existing policies only work to discriminate against women.		
+EX15U08S051	1	8	そのカップルはホテルで一番よいスイートルームを予約した。	The couple booked the nicest suite in the hotel.		
+EX15U08S052	1	8	男性は車を慎重に操って駐車スペースに入れた。	The man steered the car carefully into the parking space.		
+EX15U08S053	1	8	その区域は、サッカー場10個分の広さに相当する。	The area is equivalent in size to 10 soccer grounds.		
+EX15U08S054	1	8	彼女は美しい青の封ろうで封筒を閉じた。	She closed the envelope with a beautiful blue seal.		
+EX15U08S055	1	8	彼の先祖は、イギリスの貴族までたどることができる。	His ancestors can be traced back to the English aristocracy.		
+EX15U08S056	1	8	その政治家は先月、詐欺で訴えられた。	That politician was sued for fraud last month.		
+EX15U08S057	1	8	その会社は、個人の健康関連のデータを収集する業界の草分けだった。	The company pioneered the industry of gathering data on one's personal health.		
+EX15U08S058	1	8	彼女の携帯電話は、パーティーの最中にバッグから突然消えた。	Her cellphone vanished from her bag at the party.		
+EX15U08S059	1	8	その国の強みの一つは、少数民族の数が多いことだ。	One of the nation's strengths is its large number of ethnic minorities.		
+EX15U08S060	1	8	あなたは生涯を通じて多くの困難を経験するでしょう。	You will experience many hurdles throughout your life.		
+EX15U08S061	1	8	電車はあと15分で発車する。	The train will depart in another 15 minutes.		
+EX15U08S062	1	8	バナナは熟れるのを待ってから食べてね。	Wait for the bananas to ripen before eating them.		
+EX15U08S063	1	8	ツアーー行は足早に歩いた。	The tour group walked at a brisk pace.		
+EX15U08S064	1	8	住宅市場は去年から低迷している。	The housing market has been in a slump since last year.		
+EX15U08S065	1	8	2人の男性は共同ベンチャーを始めることにした。	The two men decided to start a joint venture.		
+EX15U08S066	1	8	彼女は妹がクラリネットを壊したことに激怒した。	She was furious that her sister broke her clarinet.		
+EX15U08S067	1	8	彼女が協力を拒んだことが捜査を遅らせている。	Her refusal to cooperate has impeded the investigations.		
+EX15U08S068	1	8	彼の医療分野への転身は大変だった。	His transition into the medical field was tough.		
+EX15U08S069	1	8	分析に主観的な判断が入らないようにしなさい。	Try to keep subjective judgments out of your analysis.		
+EX15U08S070	1	8	あなたの侮辱はもう私には何の意味もない。	Your insults don't mean anything to me anymore.		
+EX15U08S071	1	8	その母親は赤ちゃんを育てるためにできる限りのことをした。	The mother did what she could to nourish her baby.		
+EX15U08S072	1	8	ここに駐車すると罰金が科せられる。	A fine will be imposed if you park here.		
+EX15U08S073	1	8	魔女は敵に呪いをかけた。	The witch put a curse on her enemy.		
+EX15U08S074	1	8	眼鏡がないと、彼はすべてがぼやけて見える。	"Without his glasses, everything looks blurry."		
+EX15U08S075	1	8	彼女はCEOの後継者に選ばれた。	She was chosen as the successor to the CEO.		
+EX15U08S076	1	8	その建物の3階は現在改装中だ。	The third floor of the building is currently being renovated.		
+EX15U08S077	1	8	あなたの計画にはまったく欠陥が見当たらない。	I can see absolutely no flaws in your plan.		
+EX15U08S078	1	8	その果樹は平行に植えられている。	The fruit trees are planted in parallel rows.		
+EX15U08S079	1	8	どの会社にも産休があるわけではない。	Not all companies offer maternity leave.		
+EX15U08S080	1	8	学校で生徒が国歌を歌う国もある。	"In some countries, students sing the national anthem at school."		
+EX15U08S081	1	8	干ばつは、動物たちが必要とする水を奪った。	The drought deprived animals of the water they needed.		
+EX15U08S082	1	8	睡眠不足で彼は気が狂いそうだった。	The lack of sleep was causing him to go insane.		
+EX15U08S083	1	8	地元の人々は、町の資産の使われ方に不満を感じている。	Locals are unhappy with how the town's assets were used.		
+EX15U08S084	1	8	そのトーテム像にはぼんやりした模様がついている。	There are some obscure markings on the totem.		
+EX15U08S085	1	8	ベジタリアンになって10年となり、彼女は肉を食べることを考えるのも嫌だ。	"After 10 years as a vegetarian, the thought of eating meat disgusts her."		
+EX15U08S086	1	8	私たちは子どものころからずっと親友だ。	We have been intimate friends since we were children.		
+EX15U08S087	1	8	彼女は頭がかゆくてかかずにはいられなかった。	She could not help but scratch her itchy scalp.		
+EX15U08S088	1	8	植民地主義の遺産は、簡単には忘れられない。	The legacy of colonialism cannot be easily forgotten.		
+EX15U08S089	1	8	その一行が頂上にたどり着くのに5時間かかった。	It took the group five hours to reach the summit.		
+EX15U08S090	1	8	快活な性格のために彼女はパーティーの人気者だ。	Her vibrant personality makes her popular at social gatherings.		
+EX15U08S091	1	8	「私のミシンを直してくれたのね!」と彼女は叫んだ。	You fixed my sewing machine! she exclaimed.		
+EX15U08S092	1	8	彼は木片につまずいて足首をねんざした。	He sprained his ankle when he tripped on a piece of wood.		
+EX15U08S093	1	8	医者は彼女の脇の下にしこりを見つけた。	The doctor found a lump under her armpit.		
+EX15U08S094	1	8	春の市場には、花の種がたくさんある。	Flower seeds are plentiful at the market in spring.		
+EX15U08S095	1	8	彼女は一瞬目を閉じ、深く息を吸った。	She closed her eyes a moment and inhaled deeply.		
+EX15U08S096	1	8	雨の中外で遊んだので、その犬は泥だらけになった。	The dog got muddy after playing outside in the rain.		
+EX15U08S097	1	8	彼女は会社の利益を増やすためのプランを考案した。	She devised a plan to increase the company's profits.		
+EX15U08S098	1	8	医者たちは、がんの発生が増加していることに気づいている。	Doctors have detected an increased incidence of cancer.		
+EX15U08S099	1	8	土砂崩れにより、その小さな山道は通れなくなった。	The landslide made the small mountain road impassable.		
+EX15U08S100	1	8	彼はとてもおせっかいで、他人のことに首を突っ込んでばかりいる。	He is so nosy and always getting into other people's business.		
+EX15U08S101	1	8	その町は創設者の像を建てた。	The town erected a statue of its founder.		
+EX15U08S102	1	8	タオルはあまりに長時間湿ったままになっていたので、嫌な臭いがし始めた。	"The towels were left damp for too long, and they started to smell bad."		
+EX15U08S103	1	8	その広告キャンベーンは女性に権限を与えることを意図している。	The advertising campaign is meant to empower women.		
+EX15U08S104	1	8	証人の虚偽の証言のせいで、訴訟の進行が妨げられた。	A false confession from a witness held up the case.		
+EX15U08S105	1	8	たくさんの昆虫が一斉に飛んでいるのを見るのは、かなりの壮観だった。	Seeing many insects flying at once was quite the spectacle.		
+EX15U08S106	1	8	彼女は細かい点にまでとても注意深いので、この仕事に最適だ。	She is perfect for this job because she is so attentive to details.		
+EX15U08S107	1	8	その国は有罪判決率が非常に高い。	That country has an extremely high conviction rate.		
+EX15U08S108	1	8	宇宙空間は、実際には完全な真空ではない。	Outer space is not actually a perfect vacuum.		
+EX15U08S109	1	8	"約2,000人が中心街の集会に参加した。"	"About 2,000 people attended the rally downtown."		
+EX15U08S110	1	8	ナオミは彼の手から本をひったくった。	Naomi snatched the book out of his hands.		
+EX15U08S111	1	8	そのトンネルは手作りのたいまつを使って照らされていた。	The tunnel was lit using handmade torches.		
+EX15U08S112	1	8	彼女は食べるものにいつも本当にうるさい。	She is always really fussy about what she eats.		
+EX15U08S113	1	8	戦争が終わると、その国からの移民は途絶えた。	Emigration from that country stopped after the war ended.		
+EX15U08S114	1	8	テレビのサイズを知るには、画面の長さを対角線の方向に測ってください。	Measure the length of the screen diagonally to find out the size of the TV.		
+EX15U08S115	1	8	指揮官が入ってくると、兵士たちは全員敬礼した。	The soldiers all saluted their commander when she walked in.		
+EX15U08S116	1	8	彼女はその魅力的なイタリアンレストランの名前を思い出せなかった。	She could not recollect the name of that charming Italian restaurant.		
+EX15U08S117	1	8	身代金が支払われたら、彼らは人質を返すつもりだ。	They will return the hostage after the ransom is paid.		
+EX15U08S118	1	8	彼女は仲間たちを気遣うようにしていた。	She made sure to look out for her comrades.		
+EX15U08S119	1	8	オフィスのパーティションには何も貼らないでください。	Please do not tape anything to the office partitions.		
+EX15U08S120	1	8	乗客が降りると、列車は傾いた。	The train slanted when the passengers got off.		
+EX15U09S001	1	9	お金を節約するには、雑費を抑えなければならない。	We must curb miscellaneous spending to save money.		
+EX15U09S002	1	9	彼は背骨が変形していて歩けなかった。	A spine deformity prevented him from walking.		
+EX15U09S003	1	9	その子どもは隠れるために、茂みの陰にしゃがんだ。	The child crouched behind the bush to hide.		
+EX15U09S004	1	9	ハリケーンはその地域に計り知れない被害をもたらした。	The hurricane has caused immeasurable damage to the region.		
+EX15U09S005	1	9	上の階に住む人々の物音は、彼をひどくいらいらさせる。	The noise from the people living above him really agitates him.		
+EX15U09S006	1	9	彼らが車で去ると、ホテルは彼らの背後へと遠ざかっていった。	The hotel receded into the distance behind them as they drove away.		
+EX15U09S007	1	9	彼はかりっとしていなければフライドポテトを食べない。	He only eats French fries if they are crisp.		
+EX15U09S008	1	9	その母親は子どもを探している間、半狂乱だった。	The mother was frantic while looking for her child.		
+EX15U09S009	1	9	今週、彼女の初めての社説が掲載された。	She had her first editorial published this week.		
+EX15U09S010	1	9	計画は実行しなければ意味がない。	Plans are meaningless if you do not execute them.		
+EX15U09S011	1	9	開発者たちは、トラブルの原因を突き止められなかった。	The developers could not pinpoint the cause of the problem.		
+EX15U09S012	1	9	彼女はその愛くるしい子犬のうちの1匹を買いたかった。	She wanted to buy one of the adorable puppies.		
+EX15U09S013	1	9	有能な政治家は往々にして難しい質問をかわすのがうまい。	Good politicians tend to be good at deflecting difficult questions.		
+EX15U09S014	1	9	今はまだ、構想の大雑把な概要しかない。	We only have a crude outline of the design now.		
+EX15U09S015	1	9	この通りは、あちらに数マイル行ったところで幹線道路と交差します。	This street intersects with the highway a few miles that way.		
+EX15U09S016	1	9	女性は衝突現場を見ながら、ぼう然と立ち尽くしていた。	"The woman stood, dazed, looking at the crash site."		
+EX15U09S017	1	9	動揺するたびに、母親は彼を慰めてくれた。	His mother consoled him whenever he got upset.		
+EX15U09S018	1	9	彼女はただ、彼の気持ちを傷つけるために意地の悪い発言をした。	She only made the spiteful remark to hurt his feelings.		
+EX15U09S019	1	9	米国はその島に貿易制裁を科した。	The US imposed trade sanctions on the island.		
+EX15U09S020	1	9	観光客の流入は、経済の活性化に役立つ。	An influx of tourists will help boost the economy.		
+EX15U09S021	1	9	私たちは旅行の計画を取りやめ、代わりに車を買った。	We scrapped our plans for the trip and bought a car instead.		
+EX15U09S022	1	9	彼女の車は氷の上を滑ったあと、溝に突っ込んだ。	Her car crashed into the ditch after sliding on ice.		
+EX15U09S023	1	9	この情報をすぐに上司に伝えてください。	Please relay this information to your manager right away.		
+EX15U09S024	1	9	失敗した方法を2度試すというのは筋が通らない。	It is illogical to attempt the failed method a second time.		
+EX15U09S025	1	9	彼は不正行為のために軍から除隊された。	He was discharged from the army because of misconduct.		
+EX15U09S026	1	9	彼女は警備員をたぶらかして、会場に入れてもらった。	She charmed security into letting her into the venue.		
+EX15U09S027	1	9	そのドアはちょうつがいが壊れていて開いたままにならない。	The door will not stay open because the hinge is broken.		
+EX15U09S028	1	9	怒鳴らないでいるのは、彼にとって至難の業だった。	It took supreme effort for him not to yell.		
+EX15U09S029	1	9	多くの生物は肉眼では見えない。	Many organisms are invisible to the naked eye.		
+EX15U09S030	1	9	焚き火台からたくさんの火花が飛び散った。	Many sparks flew out from the fire pit.		
+EX15U09S031	1	9	彼女の小説は、政治と宗教の類似性を描いている。	Her novel draws an analogy between politics and religion.		
+EX15U09S032	1	9	彼は寝室の壁を青のグラデーションに塗った。	He painted his bedroom walls in a blue gradation.		
+EX15U09S033	1	9	彼は物理学について表面的な知識しか持っていない。	He has only a superficial knowledge of physics.		
+EX15U09S034	1	9	その痛みは耐えられるものではあったが、それでもとても不快な体験だった。	"The pain was bearable, but it was still a very unpleasant experience."		
+EX15U09S035	1	9	その男はとても腹黒そうな顔つきをしている。	The man has a very sinister look on his face.		
+EX15U09S036	1	9	陸上部のトラック競技のメンバーは皆やせていて、背が高い。	All of the track team members are lean and tall.		
+EX15U09S037	1	9	その映画が暴力を美化する仕方を多くの人が批判している。	Many people have criticized the way the film glorifies violence.		
+EX15U09S038	1	9	その教授の知識の幅広さは素晴らしい。	The breadth of the professor's knowledge is amazing.		
+EX15U09S039	1	9	その国の政治情勢はいまだに混沌としている。	The political situation in the country is still chaotic.		
+EX15U09S040	1	9	彼女は、親孝行な娘になることを両親に誓った。	She vowed to be a dutiful daughter to her parents.		
+EX15U09S041	1	9	多くの人が彼の演説の誠実さに疑問を感じた。	Many people questioned the sincerity of his speech.		
+EX15U09S042	1	9	検査結果を待つ間、彼女は非常に落ち着きがなかった。	She was extremely restless waiting for her test results.		
+EX15U09S043	1	9	あそこに積み上げられた書類は捨ててもよい。	The papers stacked over there can be thrown away.		
+EX15U09S044	1	9	個人情報を含む書類は必ずシュレッダーにかけてください。	Make sure to shred any documents containing private information.		
+EX15U09S045	1	9	この問題には、いくつかの異なる側面がある。	There are several different dimensions to this problem.		
+EX15U09S046	1	9	その男はあてもなく公園を歩き回った。	The man walked around the park aimlessly.		
+EX15U09S047	1	9	彼女が妊娠していることがわかって、夫婦は喜んだ。	The couple rejoiced when they found out she was pregnant.		
+EX15U09S048	1	9	このクリームは、しわを目立たなくするのに役立つ。	This cream will help reduce the appearance of your wrinkles.		
+EX15U09S049	1	9	彼はほとんどの種類の花の匂いをひどく嫌っている。	He despises the smell of most kinds of flowers.		
+EX15U09S050	1	9	彼らは家のネズミを駆除するために人を雇った。	They hired someone to exterminate the rats in their house.		
+EX15U09S051	1	9	毎年、何百人もの高齢者がこの食品をのどに詰まらせて亡くなっている。	"Every year, hundreds of elderly people die from choking on this food."		
+EX15U09S052	1	9	彼は物置を作っていて指にとげが刺さってしまった。	He got a splinter in his finger while building the shed.		
+EX15U09S053	1	9	この役職には、非常に大きな責任が伴う。	This position comes with an immense amount of responsibility.		
+EX15U09S054	1	9	新しいシャンプーで、彼女の髪はツヤツヤできれいになった。	Her new shampoo makes her hair glossy and clean.		
+EX15U09S055	1	9	海辺の町の住人たちは、今年も忙しい観光シーズンを迎えようとしている。	Residents of the beach town are bracing for another busy tourist season.		
+EX15U09S056	1	9	工場での爆発で5人が死亡した。	The blast at the factory killed five people.		
+EX15U09S057	1	9	このワインはまろやかな味わいだという評判だ。	This wine has a reputation for having a mellow flavor.		
+EX15U09S058	1	9	この契約書にサインすると、あなたは彼女の支払いに責任を持つことになります。	Signing this contract will make you liable for her payments.		
+EX15U09S059	1	9	彼は、柔らかそうなものなら何でも触りたがる。	He has an inclination to touch anything that looks soft.		
+EX15U09S060	1	9	素晴らしい演技は、映画の脚本の拙さをある程度補っている。	The fantastic acting somewhat redeems the poorly written film.		
+EX15U09S061	1	9	昨日、燃料貯蔵庫で事故があった。	There was an accident at the fuel depot yesterday.		
+EX15U09S062	1	9	すべての言語が英語のように複数形の名詞を持つわけではない。	Not all languages have plural nouns like English.		
+EX15U09S063	1	9	彼女は銀行業を辞めて不動産業に転職した。	She forsook banking for a career in real estate.		
+EX15U09S064	1	9	私はどこかで財布を落としたのではないかと来た道を引き返した。	I retraced my steps to see if I had dropped my wallet somewhere.		
+EX15U09S065	1	9	友人の言うことをすべて信用するのはお人よしだ。	It is naive to trust everything your friends tell you.		
+EX15U09S066	1	9	彼は冗談を言っただけだよ。そんなにいらいらするなよ。	He was just joking. Don't be so uptight.		
+EX15U09S067	1	9	その家族はクリスマスツリーの飾りつけをした。	The family put ornaments on their Christmas tree.		
+EX15U09S068	1	9	拒絶されるのが怖くて、彼は女性に話しかけられなかった。	The fear of rejection inhibited him from talking to women.		
+EX15U09S069	1	9	男は車で壁に激突した。	The man smashed into a wall with his car.		
+EX15U09S070	1	9	彼はすぐれたピアニストだが、自分の技術についてとても謙虚だ。	"Although he is an excellent piano player, he is very modest about his skills."		
+EX15U09S071	1	9	それは最小限の手入れで育つはずの丈夫な植物だ。	It is a hardy plant that should grow with minimal care.		
+EX15U09S072	1	9	会員になると、若干の割引が受けられます。	Being a member entitles you to a small discount.		
+EX15U09S073	1	9	水道は危険な毒で汚染されていた。	The water supply was tainted with a dangerous poison.		
+EX15U09S074	1	9	彼は祖父に驚くほど似ている。	He has a striking resemblance to his grandfather.		
+EX15U09S075	1	9	子どものころ、両親はいつも彼女を甘やかしていた。	Her parents were always indulgent with her as a child.		
+EX15U09S076	1	9	その会社は人目につかずに問題に対処する方法を急いで探した。	The company quickly searched for a discreet way to handle the problem.		
+EX15U09S077	1	9	医者は彼に、彼の病気は治らないと言った。	The doctor told him that his disease was incurable.		
+EX15U09S078	1	9	このソースは、この料理の肉をよく引き立てる。	This sauce complements the meat in this dish well.		
+EX15U09S079	1	9	事故以来、彼女は心を病んでいる。	She has been unsound of mind since the accident.		
+EX15U09S080	1	9	権力を行使するには、責任と敬意を持って行わなければならない。	You must wield your power with responsibility and respect.		
+EX15U09S081	1	9	肩から変な落ち方をして、彼は肩を脱臼した。	He dislocated his shoulder when he landed on it poorly.		
+EX15U09S082	1	9	私たちは、常にお客さまに真摯に対応することを誓います。	We pledge to always serve our customers diligently.		
+EX15U09S083	1	9	のどが痛いときは塩水でうがいをしてください。	Gargle with salt water when you have a sore throat.		
+EX15U09S084	1	9	彼は前の上司を完全に軽蔑している。	He has total contempt for his former boss.		
+EX15U09S085	1	9	長時間コンピュータに向かったことで彼女の眼精疲労は悪化した。	Spending too long on the computer aggravated her eyestrain.		
+EX15U09S086	1	9	全国で発生した拉致事件は、国民を震撼させた。	The abductions across the country horrified the public.		
+EX15U09S087	1	9	ふつう、下品な冗談は口にしないほうがよい。	It is usually best to keep vulgar jokes to yourself.		
+EX15U09S088	1	9	宴会の雰囲気は、友好的でリラックスしたものだった。	The atmosphere at the banquet was cordial and relaxed.		
+EX15U09S089	1	9	ボートはゆっくり静かに川を漂っていった。	The boat drifted down the river slowly and gently.		
+EX15U09S090	1	9	このデバイスの回路はシンプルな設計になっている。	The circuit of this device has a simple design.		
+EX15U09S091	1	9	設計図によると、窓は部屋の反対側にあるはずだ。	"According to the blueprint, the window should be on the other side of the room."		
+EX15U09S092	1	9	少女は面白がって柵を跳び越えた。	The girl vaulted over the fence for fun.		
+EX15U09S093	1	9	クラスの男子と女子の比率は1対1だ。	The ratio of boys to girls in the class is 1 to 1.		
+EX15U09S094	1	9	彼女は、健康保険が治療に適用されないことを知ってがっかりした。	She was dismayed to learn that her health insurance would not cover treatment.		
+EX15U09S095	1	9	今週末、これらの木の枯れ枝を切る予定だ。	This weekend I am going to trim the dead branches off these trees.		
+EX15U09S096	1	9	漏れたガスに引火して、大爆発が起きた。	The ignition of leaking gas caused a huge explosion.		
+EX15U09S097	1	9	彼は、弁護士になることの難しさについて見識を述べた。	He offered insight into the difficulty of becoming a lawyer.		
+EX15U09S098	1	9	修理するため、エンジンを分解しなければならないだろう。	We will have to dismantle the engine inorder to repair it.		
+EX15U09S099	1	9	サービスの停止がいつまで続くかは不定です。	Suspension of service will continue for an indefinite period.		
+EX15U09S100	1	9	ナンシーは彼の狡猾な計画にだまされた。	Nancy was fooled by his cunning plan.		
+EX15U09S101	1	9	金持ちになると、彼は貧しい友人たちをばかにした。	"After becoming rich, he scorned his poor friends."		
+EX15U09S102	1	9	卒業式の滑り出しは完ぺきだった。	The commencement of the graduation ceremony went perfectly.		
+EX15U09S103	1	9	手術が失敗したあと、彼女の視力は急速に低下した。	Her vision deteriorated rapidly after her surgery failed.		
+EX15U09S104	1	9	コーチはチームに、彼らのお粗末なプレーにうんざりしていると言った。	The coach told the team he was disgusted by their pathetic performance.		
+EX15U09S105	1	9	彼女はブランコから落ちて膝を擦りむいた。	She scraped her knee when she fell off the swing.		
+EX15U09S106	1	9	彼は自らの地所の周囲に大きな壁を建てた。	He built a large wall around the perimeter of his property.		
+EX15U09S107	1	9	インタビューの自動文字起こしにはいくつかの誤りがあるが、ほとんど正確だ。	"The automated transcription of the interview has some errors, but it is mostly accurate."		
+EX15U09S108	1	9	彼女は大きな牛肉の塊をグリルにのせた。	She put a big chunk of beef on the grill.		
+EX15U09S109	1	9	彼の地道な努力は、ついに上司によって報われた。	His humble efforts were finally rewarded by his superiors.		
+EX15U09S110	1	9	スープを沸騰させ、15分間とろ火で煮ます。	Bring the soup to a boil and let it simmer for 15 minutes.		
+EX15U09S111	1	9	彼の声は単調なので聞き取りにくい。	"His voice is monotonous, so he is hard to listen to."		
+EX15U09S112	1	9	連絡への迅速な返信をありがとうございます。	Thank you for your swift response to my message.		
+EX15U09S113	1	9	さらなる証拠なしに決定を下すのは時期尚早だろう。	Making a decision would be premature without more evidence.		
+EX15U09S114	1	9	この問題には無限の解決策が考えられる。	There are infinite possible solutions to this problem.		
+EX15U09S115	1	9	"6,000人を超える部隊がその紛争地域に配置されている。"	"Over 6,000 troops have been deployed to the location of the conflict."		
+EX15U09S116	1	9	検査の結果、彼は無精子ではなく、したがって子どもを作ることができると判明した。	The test revealed that he was not sterile and could therefore have children.		
+EX15U09S117	1	9	毎年秋になると、その農場にはトウモロコシの迷路ができる。	Every fall that farm has a corn maze.		
+EX15U09S118	1	9	ロンドンの雨がちな天気はかなり陰うつなことがある。	The rainy weather of London can be quite dreary.		
+EX15U09S119	1	9	その酔っ払いはカジノから追い出された。	The drunken man was ejected from the casino.		
+EX15U09S120	1	9	彼女はタガログ語を含む4つの異なる言語に堪能だ。	"She is fluent in four different languages, including Tagalog."		
+EX15U10S001	1	10	両親は、彼が自分たちの信念を共有していなかったので、彼を勘当した。	His parents disowned him because he did not share their beliefs.		
+EX15U10S002	1	10	彼女は 10年以上、客室乗務員として働いた。	She worked as a flight attendant for over 10 years.		
+EX15U10S003	1	10	警察は地元住民に、特に夜間は警戒するよう呼びかけている。	"Police are asking locals to be vigilant, especially at night."		
+EX15U10S004	1	10	皆さんの努力の積み重ねにより、私たちの計画は成功しました。	"Through your cumulative efforts, our plan has succeeded."		
+EX15U10S005	1	10	誰もが彼女の声に魅了された。	Everyone was enchanted by the sound of her voice.		
+EX15U10S006	1	10	彼は母親から率直なアドバイスをもらった。	He got some candid advice from his mother.		
+EX15U10S007	1	10	彼女の視界はぼやけ、文字はすべてごちゃごちゃに見えた。	Her vision blurred and the words looked all jumbled.		
+EX15U10S008	1	10	一瞬集中力を欠いたために、彼はテニスの試合に負けた。	The momentary loss of concentration caused him to lose the tennis match.		
+EX15U10S009	1	10	父親は彼女の誕生日にミニチュアの列車を買ってあげた。	Her father bought her a miniature train for her birthday.		
+EX15U10S010	1	10	利益の伸びが経費の増加を上回っている限り、会社は大丈夫だ。	"As long as profit growth outpaces increases in expenses, the company will be fine."		
+EX15U10S011	1	10	飲酒する若者の数は着実に減少している。	The number of young people who drink is declining steadily.		
+EX15U10S012	1	10	多くの研究で、トラウマが私たちの脳をどのように変化させるかが明らかにされている。	Many studies have revealed how trauma changes our brains.		
+EX15U10S013	1	10	3歳のころには、彼はすでにクリスマスと言えばサンタクロースを連想していた。	"By the age of three, he already associated Christmas with Santa Claus."		
+EX15U10S014	1	10	この研究は、その薬品が筋肉痛に有効であることを裏づけている。	This study confirms that the drug is effective against muscle pain.		
+EX15U10S015	1	10	彼は免許を更新するのに2時間かかった。	It took him two hours to get his license renewed.		
+EX15U10S016	1	10	未来を予言することはできない。	It is impossible to predict the future.		
+EX15U10S017	1	10	幸いなことに、2国間の紛争は平和的に解決された。	"Luckily, the conflict between the two countries was resolved peacefully."		
+EX15U10S018	1	10	彼女は新しい仕事を探していることをほのめかした。	She implied that she might be looking for a new job.		
+EX15U10S019	1	10	市は、市民が外出できる時間を制限した。	The city restricted when citizens could be outside.		
+EX15U10S020	1	10	どんな事情があっても私の部屋に入ってはいけません。	You are not to enter my room under any circumstances.		
+EX15U10S021	1	10	のどの痛みは風邪の典型的な症状だ。	A sore throat is a typical symptom of a cold.		
+EX15U10S022	1	10	政府は商品の価格を厳しく規制している。	The government strictly regulates the price of goods.		
+EX15U10S023	1	10	市長はスピーチにおいて教育の重要性を強調した。	The mayor emphasized the importance of education in her speech.		
+EX15U10S024	1	10	主治医は彼の膝の痛みの原因を突き止めた。	His doctor identified the cause of his knee pain.		
+EX15U10S025	1	10	このタクシー会社は信頼性が高く、すぐれたサービスを提供している。	This taxi company is reliable and has great service.		
+EX15U10S026	1	10	上司は彼女に、新入社員たちを注意深く監視するように言った。	Her boss told her to monitor the new recruits carefully.		
+EX15U10S027	1	10	その会社はウェブサイトの利用規約を更新した。	The company updated the terms and conditions on their website.		
+EX15U10S028	1	10	あなたの新しいピンクの靴は、シャツとのコントラストが美しい。	Your new pink shoes contrast beautifully with your shirt.		
+EX15U10S029	1	10	どのような服装が適切とされているかは、マニュアルを読んで確認してください。	Read the manual to know what clothes are considered appropriate.		
+EX15U10S030	1	10	人間は新しい環境に適応することに長けている。	Humans are very good at adapting to new environments.		
+EX15U10S031	1	10	遺伝子の組み換えは、商品作物に対して一般的に行われている。	Genetic modification is commonly done to commercial crops.		
+EX15U10S032	1	10	彼は携帯電話を最新機種にアップグレードした。	He upgraded his phone to the latest model.		
+EX15U10S033	1	10	警察は、その女性が犯罪を犯したと考えている。	The police believe the woman committed the crime.		
+EX15U10S034	1	10	彼の会社は競走馬の繁殖を専門にしている。	His company specializes in breeding race horses.		
+EX15U10S035	1	10	あなたは私に、自分の曲を書いてみようという刺激を与えてくれた。	You inspired me to try writing my own songs.		
+EX15U10S036	1	10	彼らの農場には、さまざまな種類の家畜がいる。	Their farm has many different kinds of livestock.		
+EX15U10S037	1	10	日光に過度にさらされると、肌はダメージを受ける。	Excessive exposure to sunlight will damage your skin.		
+EX15U10S038	1	10	その公園は、周辺地域の価値を高めるだろう。	The park will increase the value of surrounding neighborhoods.		
+EX15U10S039	1	10	強力なパスワードを使い、アカウントの安全性を確保してください。	Use strong passwords to keep your accounts secure.		
+EX15U10S040	1	10	労働者は、連邦と州の両方の所得税を支払う義務がある。	Workers are required to pay both federal and state income taxes.		
+EX15U10S041	1	10	彼女の通勤は電車でわずか15分だ。	Her commute only takes her 15 minutes by train.		
+EX15U10S042	1	10	何の前触れもなく攻撃的になる犬もいる。	Some dogs can become aggressive without any warning.		
+EX15U10S043	1	10	わが社にはその土地を購入する十分な資金がない。	Our company lacks sufficient funds to purchase the land.		
+EX15U10S044	1	10	ヨーロッパ人による北アメリカへの入植は、人類の歴史における重要なポイントになった。	The settlement of North America by Europeans marked a major point in human history.		
+EX15U10S045	1	10	私たちの種は、約20万年前に出現したようだ。	"Our species appears to have emerged about 200,000 years ago."		
+EX15U10S046	1	10	当社の新型カメラは洗練されたモダンなデザインです。	Our new camera has a sophisticated and modern design.		
+EX15U10S047	1	10	中心街は最近、大きな変化を遂げた。	The downtown area has undergone significant changes recently.		
+EX15U10S048	1	10	会社の収益は今年増加すると見込まれている。	The company's revenue is expected to increase this year.		
+EX15U10S049	1	10	家族のサポートにより、彼は摂食障害を克服した。	"With support from his family, he overcame his eating disorder."		
+EX15U10S050	1	10	その有名な科学者の研究結果は、今日でも通用する。	The famous scientist's research findings are still relevant today.		
+EX15U10S051	1	10	すぐれた編集者は細かい点も見落とさない。	A great editor does not overlook small details.		
+EX15U10S052	1	10	入社して1年後、彼は昇給を求めて交渉した。	"After one year at the company, he negotiated for a higher salary."		
+EX15U10S053	1	10	この家の住人は何か月も姿を見せていない。	The inhabitants of this house have not been seen for months.		
+EX15U10S054	1	10	廊下での食事は校則で禁止されている。	The school rules prohibit eating in the hallways.		
+EX15U10S055	1	10	一家は幹線道路でひどい事故を目撃した。	The family witnessed a terrible accident on the highway.		
+EX15U10S056	1	10	宝くじに当たる可能性はわずかだ。	The likelihood of winning the lottery is small.		
+EX15U10S057	1	10	社会化は、子どもの成長の重要な部分だ。	Socialization is a vital part of childhood development.		
+EX15U10S058	1	10	その物理学者の新しい理論の支持者はたくさんいる。	There are many proponents of the physicist's new theory.		
+EX15U10S059	1	10	彼は川にごみを投棄しているところを捕まった。	He got caught dumping trash in the river.		
+EX15U10S060	1	10	商品が届き次第、お客さまの返金手続きを行います。	"As soon as we receive the item, we will process your refund."		
+EX15U10S061	1	10	彼女の荷物はセキュリティゲートでスキャンされた。	Her luggage was scanned at the security gate.		
+EX15U10S062	1	10	新しいことを学ぶことは脳の活動を活性化する。	Learning new things stimulates brain activity.		
+EX15U10S063	1	10	状況を正しく理解するには、もっと前後関係が必要だ。	We need more context to properly understand the situation.		
+EX15U10S064	1	10	処理しなければならない膨大な量の申請書がある。	There is a massive amount of applications to process.		
+EX15U10S065	1	10	この植物は昆虫の助けを借りて繁殖する。	This plant reproduces through the assistance of insects.		
+EX15U10S066	1	10	市議会は、スタジアムの建設計画を承認した。	The city council approved the plan to build a stadium.		
+EX15U10S067	1	10	彼らの組織は現行の税法の変更を求めてロビー活動を行ってきた。	Their organization has lobbied for changes to the current tax laws.		
+EX15U10S068	1	10	医者は彼の腕にワクチンを注射した。	The doctor injected the vaccine into his arm.		
+EX15U10S069	1	10	そのNPO は驚くべき額の資金を集めた。	The NPO raised a remarkable amount of money.		
+EX15U10S070	1	10	既存のインフラの修復に、もっと資金を割く必要がある。	More money needs to be allotted to repairing existing infrastructure.		
+EX15U10S071	1	10	わが社ではラベンダーから精油を抽出している。	My company extracts oil from lavender plants.		
+EX15U10S072	1	10	泥棒たちはその界隈のいくつかの家で強盗を働くことを企んだ。	The thieves plotted to rob several houses in the neighborhood.		
+EX15U10S073	1	10	地球を救うには、技術革新と意志の力が必要だ。	Technological innovation and willpower are needed to save the planet.		
+EX15U10S074	1	10	その2つの料理は見た目は似ているが、風味は異なる。	The two dishes look similar but have distinct flavors.		
+EX15U10S075	1	10	恐竜は何百万年も前に絶滅した。	The dinosaurs went extinct millions of years ago.		
+EX15U10S076	1	10	人事部は、納税シーズン中はいつも忙しい。	The personnel department is always busy during tax season.		
+EX15U10S077	1	10	プールのこちら側は水深が浅い。	The water at this end of the pool is shallow.		
+EX15U10S078	1	10	彼の収入の大部分は家賃の支払いに使われている。	A large portion of his income goes toward paying rent.		
+EX15U10S079	1	10	彼は大規模な経済改革の提唱者だ。	He is an advocate for major economic reform.		
+EX15U10S080	1	10	台風の間、多くの漁船が被害を受けた。	Many fishing vessels were damaged during the typhoon.		
+EX15U10S081	1	10	赤ちゃんはおもちゃにたどり着くために床をはっていった。	The baby crawled across the floor to reach her toy.		
+EX15U10S082	1	10	自動車の発明は、新しい時代の幕開けとなった。	The invention of the automobile marked the beginning of a new era.		
+EX15U10S083	1	10	浴室の排水口が髪の毛で詰まっている。	The bathroom drain is clogged with some hair.		
+EX15U10S084	1	10	警察はまだ犯人の動機がよくわかっていない。	The police are not yet sure of the criminal's motive.		
+EX15U10S085	1	10	何か頭痛に効く家庭療法を知っていますか。	Do you know any good home remedies for a headache?		
+EX15U10S086	1	10	その2つの高校は、互いに激しいライバル関係にある。	The two high schools share an intense rivalry.		
+EX15U10S087	1	10	ボーナスが支給されたのは、ごく一部のスタッフだけだった。	Only a fraction of the staff was given a bonus.		
+EX15U10S088	1	10	このプロジェクトを完成させるのに、彼は最小限の努力しか必要としなかった。	Completing the project took minimal effort on his part.		
+EX15U10S089	1	10	彼女は農場で何種類かの穀物を栽培している。	She grows several different grains on her farm.		
+EX15U10S090	1	10	彼女はそのビジネスを合法的なものとするために、いくつか書類を提出しなければならなかった。	She had to file some paperwork to make the business legitimate.		
+EX15U10S091	1	10	その会社は四半期ごとに収益予測を見直している。	The company revises its revenue projections each quarter.		
+EX15U10S092	1	10	この肥料は土壌の化学変化を活性化する。	This plant food activates chemical changes in the soil.		
+EX15U10S093	1	10	彼女の健康問題は、ほとんどがアルコール乱用によるものだ。	Her health problems are mostly caused by alcohol abuse.		
+EX15U10S094	1	10	多くの有名人がそのコメディー映画に出演した。	Many celebrities appeared in the comedy film.		
+EX15U10S095	1	10	政府は不況の影響と闘うために懸命に努力した。	The government worked hard to combat the effects of the recession.		
+EX15U10S096	1	10	船がひどく揺れて、彼は吐きそうになった。	The boat rocked so badly that he almost vomited.		
+EX15U10S097	1	10	すべては、人々からお金をだまし取るための計画だった。	The entire thing was a scheme to cheat people out of their money.		
+EX15U10S098	1	10	プールの閉鎖は、予算削減が原因だった。	The closure of the pool was caused by budget cuts.		
+EX15U10S099	1	10	私たちは最先端のテクノロジーにおける優位性を維持しなければならない。	We must retain our advantage in cutting-edge technology.		
+EX15U10S100	1	10	バスの運転手は、乗客を守るために慎重でなければならない。	Bus drivers must be cautious to protect their passengers.		
+EX15U10S101	1	10	残念ながら、あなたのマーケティングの提案は経済的に実行可能ではない。	"Unfortunately, your marketing proposal is not economically viable."		
+EX15U10S102	1	10	この地域は、山がちの地形で有名だ。	The area is famous for its mountainous terrain.		
+EX15U10S103	1	10	ハリケーンはその国に大きな被害をもたらした。	The hurricane took a toll on the country.		
+EX15U10S104	1	10	秘書は今日の会議の議題をまとめた。	The secretary organized the agenda for today's meeting.		
+EX15U10S105	1	10	彼女は、貯金が底をつく前に仕事を見つけようと必死だった。	She was desperate to get a job before her savings ran out.		
+EX15U10S106	1	10	あと数日でその卵はふ化するだろう。	The eggs will hatch a few days from now.		
+EX15U10S107	1	10	この建物は警察の監視下にある。	This building is under police surveillance.		
+EX15U10S108	1	10	これらの島々は、16世紀初頭にスペインによって植民地化された。	These islands were colonized by Spain in the early 16th century.		
+EX15U10S109	1	10	人事部が収集したすべての個人情報は、機密情報と見なされる。	All personal information collected by HR is considered confidential.		
+EX15U10S110	1	10	パートナーとの別れで彼女の心は傷ついた。	The breakup with her partner broke her heart.		
+EX15U10S111	1	10	廊下は右側を歩いてください。	Please only walk on the right side of the corridor.		
+EX15U10S112	1	10	そのレストランの光熱費はとても高い。	The restaurant's utility bills are very expensive.		
+EX15U10S113	1	10	その科学実験室には、何千ものさまざまな標本がある。	The science lab contains thousands of different specimens.		
+EX15U10S114	1	10	この件に関して、皆さまのご意見をお待ちしております。	Your input on this matter would be greatly appreciated.		
+EX15U10S115	1	10	この都市は生活費が高いことで悪名高い。	The city is infamous for its high cost of living.		
+EX15U10S116	1	10	論争の的となったその映画は大いに評判を呼んだ。	The controversial film has received a lot of publicity.		
+EX15U10S117	1	10	彼は空港で自国通貨をドルに両替した。	He exchanged his currency for dollars at the airport.		
+EX15U10S118	1	10	あなたの行動は上司の権威を失墜させた。	Your actions undermined the authority of your manager.		
+EX15U10S119	1	10	巨大な嵐は週末中、街を襲った。	The huge storm swept through the city over the weekend.		
+EX15U10S120	1	10	彼は青い横じまのシャツを着ていた。	He was wearing a shirt with horizontal blue stripes.		
+EX15U11S001	1	11	囚人の拷問は国際法によって禁じられている。	The torture of prisoners is forbidden according to international laws.		
+EX15U11S002	1	11	その地域の最初の入植者は、フランス系だ。	The original settlers of the area are of French descent.		
+EX15U11S003	1	11	後ろ向きな態度のせいで、彼は同僚から疎外された。	His negative attitude alienated him from his coworkers.		
+EX15U11S004	1	11	それらの車は洪水で水没した。	The cars were submerged during the flooding.		
+EX15U11S005	1	11	父親は彼女に放課後にお使いに行くように頼んだ。	Her father asked her to run some errands after school.		
+EX15U11S006	1	11	骨董品は収集する価値のある商品で、非常に高価なこともある。	Antiques are collectable commodities that can sometimes be very valuable.		
+EX15U11S007	1	11	彼は上司に対する不満が爆発した。	He had an outburst in his frustration with his boss.		
+EX15U11S008	1	11	その2人の生徒はテストで同等の点数だ。	The two students have comparable test scores.		
+EX15U11S009	1	11	この情報は、地元のNGOによってまとめられたものだ。	This information was compiled by a local NGO.		
+EX15U11S010	1	11	この組織の発足は彼の功績だ。	He is credited with the inception of this organization.		
+EX15U11S011	1	11	気候変動により、多くの水生動物が絶滅の危機に瀕している。	Many aquatic animals are in danger of extinction due to climate change.		
+EX15U11S012	1	11	この機械はスパイス、穀物、種をひくことができる。	"This machine can grind spices, grains, and seeds."		
+EX15U11S013	1	11	その国は今、社会的な大変動の時期を迎えている。	The nation is experiencing a period of social upheaval now.		
+EX15U11S014	1	11	家族は息子の卒業を祝って祝宴を開いた。	The family had a feast to celebrate their son's graduation.		
+EX15U11S015	1	11	これは、契約書に記載されている業務の範囲を超えている。	This goes beyond the scope of work described in the contract.		
+EX15U11S016	1	11	その病気の治療費は、彼の家族に大きな経済的負担を強いた。	The cost of treatment for the disease placed a significant financial burden on his family.		
+EX15U11S017	1	11	彼のクローゼットには、ジャケットと靴がぎっしり詰まっている。	His closet is crammed with jackets and shoes.		
+EX15U11S018	1	11	彼女は仕事帰りにマスク姿の男に襲われた。	She was assaulted by a man wearing a mask while walking home from work.		
+EX15U11S019	1	11	部屋の音響特性は、オーディオ録音の品質に影響する。	The acoustic properties of the room will affect the quality of the audio recordings.		
+EX15U11S020	1	11	政府は子どもを守るための新しい法律を制定した。	The government enacted a new law to protect children.		
+EX15U11S021	1	11	彼は、地球が丸いと主張した最初の人物の一人だった。	He was one of the first people to contend that the Earth was round.		
+EX15U11S022	1	11	彼女は週に1度ごみを収集に出す。	She puts out the rubbish for collection once a week.		
+EX15U11S023	1	11	その会社は今日、来年の売上予測を発表した。	Today the company released its projections for next year's sales.		
+EX15U11S024	1	11	その女性の善意は、祝賀会で表彰された。	The woman's generosity was awarded at a celebration.		
+EX15U11S025	1	11	その会社は警察の捜査に協力的だった。	The company was cooperative during the police investigation.		
+EX15U11S026	1	11	そのリゾートは主に海外からの観光客を対象としている。	The resort mostly caters to international tourists.		
+EX15U11S027	1	11	彼は冷酷な統治者で、誰からも嫌われていた。	He was a ruthless ruler and was disliked by everyone.		
+EX15U11S028	1	11	この薬は、人によっては眠気を誘発することがある。	This medication may induce drowsiness in some people.		
+EX15U11S029	1	11	彼女が以前言ったことは無視してください。	We ask that you disregard what she said previously.		
+EX15U11S030	1	11	その学校には15分の休み時間が2回ある。	The school has two 15-minute recess periods.		
+EX15U11S031	1	11	この本には、健康によいおやつのレシピが多数掲載されている。	The book features recipes for many wholesome snacks.		
+EX15U11S032	1	11	一団の人々が共有スペースでテレビゲームをしていた。	A group of people was playing video games in the communal area.		
+EX15U11S033	1	11	ここを通る列車は、貨物だけを運んでいる。	The trains that pass through here only carry freight.		
+EX15U11S034	1	11	その事故は彼の視力に取り返しのつかないダメージを与えた。	The accident caused irreversible damage to his vision.		
+EX15U11S035	1	11	そのローンは変動金利だ。	The loan has a variable interest rate.		
+EX15U11S036	1	11	その組織における彼の役割は、つい最近になって正式に決定された。	His role in the organization was only recently formalized.		
+EX15U11S037	1	11	高い割合の従業員が何らかの理由で退職している。	A high proportion of employees are quitting for some reason.		
+EX15U11S038	1	11	そのアイドルグループはいきなり世界的なセンセーションを巻き起こした。	The idol group became a global sensation out of nowhere.		
+EX15U11S039	1	11	その夫婦は15年間の結婚生活に終止符を打つことにした。	The couple decided to terminate their marriage of 15 years.		
+EX15U11S040	1	11	そのボクサーは、相手の弱点の突き方がよくわかっている。	The boxer knows exactly how to exploit his opponents' weaknesses.		
+EX15U11S041	1	11	その美術館の売りは、エジプト古美術品の素晴らしいコレクションだ。	The museum features an impressive collection of Egyptian antiquities.		
+EX15U11S042	1	11	その会社は、すべての業務を1つの本社に集中させることを計画している。	The company plans to centralize all operations in a single headquarters.		
+EX15U11S043	1	11	彼女は彼の状況に同情したが、彼女にできることは何もなかった。	"She sympathized with his situation, but there was nothing she could do."		
+EX15U11S044	1	11	その犯罪は匿名の電話で通報された。	The crime was reported in an anonymous phone call.		
+EX15U11S045	1	11	地元のニュースは、人々の意見を形成するうえで影響力がある。	The local news is influential in shaping people's opinions.		
+EX15U11S046	1	11	彼女は小声でぶつぶつ言い、疲れたようにため息をついた。	She mumbled under her breath and sighed tiredly.		
+EX15U11S047	1	11	組合と会社は、部分的合意にしか達することができなかった。	The union and the company only came to a partial agreement.		
+EX15U11S048	1	11	昔の劣悪な衛生状態は多くの病気を引き起こした。	Poor sanitation in the past caused many diseases.		
+EX15U11S049	1	11	昨夜遅く、突然猛烈なひょうが降り出した。	The heavy hail suddenly started to fall late last evening.		
+EX15U11S050	1	11	彼は操られて不当な契約書にサインしてしまった。	He was manipulated into signing a bad contract.		
+EX15U11S051	1	11	そのアルバムは彼女の人生に大きな影響を与えた。	That album had a profound effect on her life.		
+EX15U11S052	1	11	あなたの現状認識には欠陥があります。	Your perception of the current situation is flawed.		
+EX15U11S053	1	11	彼女は夏休みの間ずっと論文に取り組んだ。	She spent her entire summer break working on her thesis.		
+EX15U11S054	1	11	フルートの演奏など、彼には多くの娯楽がある。	"He has many pastimes, including playing the flute."		
+EX15U11S055	1	11	近所の湿地には興味深い動物が多数生息している。	Many interesting animals live in the nearby swamps.		
+EX15U11S056	1	11	ヒツジの群れが草原で草を食んでいる。	A flock of sheep is grazing in the field.		
+EX15U11S057	1	11	マオリ族はヨーロッパからの入植者よりも前から住んでいた。	The Maori people predated European settlers.		
+EX15U11S058	1	11	その言語の音声学的な特徴から勉強し始めるとよいでしょう。	You should start by studying the phonetic characteristics of the language.		
+EX15U11S059	1	11	彼は債権者に対して多額の借金をしている。	He owes a lot of money to creditors.		
+EX15U11S060	1	11	彼の親切なうわべの裏には、冷酷な人物がいる。	Behind his kind facade is a cruel person.		
+EX15U11S061	1	11	彼女にとって自分の高潔な理想に従って生きることは難しい。	It is difficult for her to live up to her lofty ideals.		
+EX15U11S062	1	11	これらの儀式は、主任司祭のみが行うことができる。	These rites can only be performed by the head priest.		
+EX15U11S063	1	11	その泥棒は自らの腹黒い計画を友人に打ち明けた。	The thief shared his devious plan with his friend.		
+EX15U11S064	1	11	両社間の交渉は完全にこう着状態に陥っていた。	Negotiations between the two companies were in a complete deadlock.		
+EX15U11S065	1	11	彼女は夫のひっきりなしの愚痴にうんざりしてきた。	She was getting tired of her husband's incessant complaining.		
+EX15U11S066	1	11	母親は彼女を手招きした。	Her mother beckoned her forward with her hand.		
+EX15U11S067	1	11	このオフィスの配置は、生産性を最大化するはずだ。	The configuration of this office is supposed to maximize productivity.		
+EX15U11S068	1	11	総額から経費すべてを差し引く必要があります。	You need to subtract all your expenses from the total.		
+EX15U11S069	1	11	その一家は森の中の古風なコテージに住んでいた。	The family lived in a quaint cottage in the woods.		
+EX15U11S070	1	11	警察はその銃撃事件への自分たちの関与を軽く扱おうとした。	The police tried to downplay their involvement in the shooting.		
+EX15U11S071	1	11	事故直後、彼女は呼吸が乱れていた。	Her breathing was erratic immediately after the accident.		
+EX15U11S072	1	11	石は無生物で、まったく動かない。	A stone is an inanimate object and does not move at all.		
+EX15U11S073	1	11	祖母が亡くなり、彼女は多額の遺産を相続した。	She received a large inheritance when her grandmother passed away.		
+EX15U11S074	1	11	生徒たちは皆、間近に迫ったダンスパーティーを楽しみにしていた。	All the students were looking forward to the upcoming dance.		
+EX15U11S075	1	11	その組織は女性の構成比率を上げようとしている。	The organization is trying to become more inclusive of women.		
+EX15U11S076	1	11	昨夜、地元の刑務所で脱獄があった。	There was a breakout at the local prison last night.		
+EX15U11S077	1	11	人が持っているものをうらやましがってはいけない。	You should never be envious of what other people have.		
+EX15U11S078	1	11	山の上には不吉な暗雲が立ち込めていた。	There were ominous dark clouds gathering above the mountain.		
+EX15U11S079	1	11	彼女は怒ってドアをバタンと閉め、ベッドに倒れ込んだ。	She slammed her door angrily and collapsed onto her bed.		
+EX15U11S080	1	11	そのイベントは、関係者全員から成功と見なされた。	The event was deemed a success by everyone involved.		
+EX15U11S081	1	11	孤独に生きるのは健全ではない。	Living in solitude is not healthy.		
+EX15U11S082	1	11	このリサイクルショップは、レトロな衣服と靴だけを販売している。	This thrift shop only sells retro garments and shoes.		
+EX15U11S083	1	11	彼は妹の両頬を泣くまでつねった。	He pinched his sister's cheeks until she cried.		
+EX15U11S084	1	11	その銀行は不祥事で、あらゆる信用を失った。	That bank lost all credibility after the scandal.		
+EX15U11S085	1	11	指揮者は演奏の始めにお辞儀をした。	The conductor bowed at the beginning of the performance.		
+EX15U11S086	1	11	その町は古い商店街の活性化に取り組んでいる。	The town is working to revitalize their old shopping district.		
+EX15U11S087	1	11	彼は絶望的な気持ちを口に出すことは決してない。	He never gives utterance to his feelings of despair.		
+EX15U11S088	1	11	このような難しい決断を下すときには、自分の良心に耳を傾けるべきだ。	You should listen to your conscience when making a tough decision like this.		
+EX15U11S089	1	11	彼らの家族にはいかなる確執もない。	There is never any discord in their family.		
+EX15U11S090	1	11	その女性は自分が持っていたすべてのデータを総合した。	The woman synthesized all the data she had.		
+EX15U11S091	1	11	その少年は少年院に送られた。	The boy was sent to a juvenile detention center.		
+EX15U11S092	1	11	植物は太陽が照りつける中でしおれていた。	The plants drooped in the heat of the sun.		
+EX15U11S093	1	11	寒い中での作業で、彼女の指はかじかんだ。	Working in the cold made her fingers go numb.		
+EX15U11S094	1	11	消防士たちは炎を消すことができた。	The firefighters were able to extinguish the flames.		
+EX15U11S095	1	11	すでに1万人以上の人々がこの詐欺の被害に遭っている。	"Over 10,000 people have already fallen victim to this scam."		
+EX15U11S096	1	11	彼女には病気のときの仕事のやり残しがある。	She has a backlog from when she was sick.		
+EX15U11S097	1	11	彼らはイベント会場を去る前に連絡先を交換した。	They swapped contact information before leaving the event.		
+EX15U11S098	1	11	塩はあっという間に熱湯に溶けた。	The salt dissolved in the hot water very quickly.		
+EX15U11S099	1	11	その2つの政策の違いは、誰も見分けがつかなかった。	Nobody could discern the difference between the two policies.		
+EX15U11S100	1	11	株価は、今年の最後の四半期に反発した。	Stock prices rebounded in the last quarter of the year.		
+EX15U11S101	1	11	次の小説のための彼女のアイデアは、まったく際限がなかった。	Her ideas for her next novel were absolutely boundless.		
+EX15U11S102	1	11	彼は毎朝仕事に行く前に瞑想する。	He meditates every morning before going to work.		
+EX15U11S103	1	11	彼女は畑から鳥を追い払うのに苦労している。	She is having trouble repelling birds from the field.		
+EX15U11S104	1	11	彼女が何度も力任せに押すと、ようやくドアは開いた。	She shoved the door again and again until it finally opened.		
+EX15U11S105	1	11	害虫駆除のためアパート全体が燻蒸消毒された。	The entire apartment building was fumigated to get rid of the pests.		
+EX15U11S106	1	11	彼はその雄大な山々の写真を何枚か撮った。	He took several photos of the majestic mountains.		
+EX15U11S107	1	11	彼女は高級スーパーでしか買い物をしない。	She only shops at upscale supermarkets.		
+EX15U11S108	1	11	キツネはずるくて狡猾な生き物だと言われている。	It is said that foxes are sly and cunning creatures.		
+EX15U11S109	1	11	その先住民は生計を主に狩猟と採集に頼っている。	The native people mostly rely on hunting and gathering for subsistence.		
+EX15U11S110	1	11	交渉が始まる前に、多くの準備段階を経た。	We went through many preliminaries before the negotiations started.		
+EX15U11S111	1	11	そのテーブルは4本の頑丈な脚で支えられている。	The table is held up by four stout legs.		
+EX15U11S112	1	11	公害のため、この地域に居住する人は少ない。	There is low occupancy in the area because of pollution.		
+EX15U11S113	1	11	国中の人々が軍の大勝利を祝っている。	People all over the country are celebrating the military's triumph.		
+EX15U11S114	1	11	軍隊には武器と弾薬が十分に供給されている。	The army is well supplied with weapons and ammunition.		
+EX15U11S115	1	11	砂漠の動物たちは、そのような過酷な状況を生き延びるためには回復力を備えていなければならない。	Desert animals must be resilient to survive in such harsh conditions.		
+EX15U11S116	1	11	その種が発芽するのに10日ほどかかるだろう。	It will take about 10 days for the seed to sprout.		
+EX15U11S117	1	11	2人の男は激しい口論になり、それから取っ組み合いのけんかになった。	"The two men got into a big argument, and a fight ensued."		
+EX15U11S118	1	11	両チームは、日没時に最後の対決を行った。	The two teams had their final showdown at sunset.		
+EX15U11S119	1	11	ニューファンドランドの人々はとてもユニークな方言を話す。	The people of Newfoundland speak a very unique dialect.		
+EX15U11S120	1	11	彼女は小さな挫折に成功を妨げられるようなことはない。	She will not let a small setback stop her from succeeding.		
+EX15U12S001	1	12	写真の下のキャプションは、興味深く有益なものでなければならない。	The captions under pictures should be interesting and informative.		
+EX15U12S002	1	12	政治犯たちは新しい大統領によって恩赦を与えられた。	Political prisoners were granted amnesty by the new president.		
+EX15U12S003	1	12	ライオンは非常にどう猛な動物だと考えられている。	Lions are considered to be incredibly ferocious animals.		
+EX15U12S004	1	12	彼はシカをよけようとして急ハンドルを切り、木に激突した。	He swerved to avoid the deer and crashed into a tree.		
+EX15U12S005	1	12	彼には美しいチョウがちらりと見えた。	He caught a glimpse of a beautiful butterfly.		
+EX15U12S006	1	12	契約書の条項をすべてお読みください。	Please read all of the clauses in your contract.		
+EX15U12S007	1	12	多くの人は、地球が完全な球体ではないことを知っている。	Many know that the Earth is not a perfect sphere.		
+EX15U12S008	1	12	さまざまな星座を見るには訓練が必要だ。	It takes practice to see the different constellations.		
+EX15U12S009	1	12	その遺跡には霊がついていると信じられている。	It is believed that spirits haunt the ruins.		
+EX15U12S010	1	12	高熱のため、彼女は完全に錯乱していた。	She was completely delirious because of a high fever.		
+EX15U12S011	1	12	彼は幸せいっぱいのカップルがほほえんでいる写真を見た。	He saw a picture of a blissful couple smiling.		
+EX15U12S012	1	12	永遠に続くものはない。	Nothing lasts for eternity.		
+EX15U12S013	1	12	彼のエッセイのテーマは抽象的すぎて理解できない。	The theme of his essay is too abstract to understand.		
+EX15U12S014	1	12	彼女は道を尋ねるふりをして男性に話しかけた。	She started speaking to the man under the pretense of asking for directions.		
+EX15U12S015	1	12	彼女はこんろを消し忘れて叱られた。	She was admonished for forgetting to turn off the stove.		
+EX15U12S016	1	12	彼は自宅にあった証拠によって有罪になった。	He was incriminated by the evidence in his home.		
+EX15U12S017	1	12	この付近にいる人は直ちに避難する必要がある。	Everyone in this vicinity needs to escape immediately.		
+EX15U12S018	1	12	地域の人々は、その遊び場が閉鎖されることに激怒した。	The community was enraged that the playground would be closing.		
+EX15U12S019	1	12	水分を補給するために水を飲みなさい。	You should drink water to replenish your fluids.		
+EX15U12S020	1	12	これらの本は、ある有名な詩人の生涯を記録したものだ。	These books chronicle the life of a famous poet.		
+EX15U12S021	1	12	それらの植物は栄養不足で育っていなかった。	The plants were not growing because they were underfed.		
+EX15U12S022	1	12	情報を改ざんした場合は、罪に問われます。	You will be charged if you falsify any information.		
+EX15U12S023	1	12	その晩は霧のせいでいっそう不気味に思えた。	The fog made the evening all the more eerie.		
+EX15U12S024	1	12	この製品の市場はかなり停滞している。	The market for this product has become rather static.		
+EX15U12S025	1	12	彼らはその国を支援するために、特使を派遣した。	They sent a special envoy to assist the country.		
+EX15U12S026	1	12	その地域の動かせないものはすべて暴徒によって破壊された。	All immovable objects in the area were vandalized by the angry mob.		
+EX15U12S027	1	12	この機械は無線信号を増幅することができる。	This machine can amplify radio signals.		
+EX15U12S028	1	12	少女はマッチの炎で部屋を照らした。	The girl lit the room with the flare of a match.		
+EX15U12S029	1	12	彼はファンからの支援に感謝の意を表した。	He expressed his gratitude for the support from his fans.		
+EX15U12S030	1	12	市場の好転は近いと見込まれている。	An upturn in the market is expected soon.		
+EX15U12S031	1	12	会社の健全さを評価するにはさまざまな方法がある。	There are various ways to gauge the health of a company.		
+EX15U12S032	1	12	群衆はすぐに警察によって解散させられた。	The crowd was immediately dispersed by the police.		
+EX15U12S033	1	12	男性は新聞の巨大な束を運んでいた。	The man was carrying a giant bundle of newspapers.		
+EX15U12S034	1	12	誰もがその新型戦車は無敵だと思った。	Everyone thought that the new tank was invincible.		
+EX15U12S035	1	12	カナダは10の州と3つの準州で構成されている。	Canada is comprised of ten provinces and three territories.		
+EX15U12S036	1	12	警察はその暴行事件の調査を開始した。	The police have launched a probe into the assault.		
+EX15U12S037	1	12	彼はひどい交通事故で下半身不随になった。	He became paralyzed from the waist down after a horrible car accident.		
+EX15U12S038	1	12	その研究論文にはほとんどすべてのページに注釈がついていた。	The research paper included annotations on almost every page.		
+EX15U12S039	1	12	彼女は軍のトップの戦術指揮官だった。	She was the top tactical officer in the army.		
+EX15U12S040	1	12	違法薬物の脅威を食い止めなければならない。	The menace of illegal drugs must be stopped.		
+EX15U12S041	1	12	裁判官は自らの感情からある程度距離を置いている必要がある。	A judge should have a certain amount of detachment from their emotions.		
+EX15U12S042	1	12	彼女のイヤリングはかなり派手だと思いませんか。	"Her earrings are rather gaudy, don't you think?"		
+EX15U12S043	1	12	そのデザイナーは何百もの細部のことで悩んでいた。	The designer agonized over hundreds of small details.		
+EX15U12S044	1	12	彼はバスケットボールをしていて手の骨を折った。	He fractured a bone in his hand while playing basketball.		
+EX15U12S045	1	12	酸は徐々に機械の金属を腐食させた。	Acid corroded the metal on the machine over time.		
+EX15U12S046	1	12	当サイトのコンテンツをほかのウェブサイトに複製しないでください。	Do not duplicate any of the content on this site on another website.		
+EX15U12S047	1	12	全体的治療は、体と心の両方を癒すことを目的としている。	The holistic treatment attempts to heal both the body and mind.		
+EX15U12S048	1	12	この酸を希釈すると、害が少なくなる。	The dilution of this acid will make it less harmful.		
+EX15U12S049	1	12	姿勢が悪いと、年を取ってから腰痛になることがある。	Bad posture can lead to back problems when you get older.		
+EX15U12S050	1	12	抗議者たちが暴動を起こし、街は大混乱に陥った。	"Protesters went on a rampage, causing complete chaos in the city."		
+EX15U12S051	1	12	彼の成長は、子どものころの病気によって妨げられた。	His growth was stunted by a childhood illness.		
+EX15U12S052	1	12	暑いが、天気が乾燥しているのでほとんど汗をかかない。	"Although it is hot, the weather is so dry that I hardly perspire."		
+EX15U12S053	1	12	自然の崇高な美しさには、いつも感動させられる。	The sublime beauty of nature never fails to impress me.		
+EX15U12S054	1	12	彼女は国を離れたあと、国籍を放棄した。	She renounced her citizenship after leaving her country.		
+EX15U12S055	1	12	皮膚の専門医に診てもらうには、紹介状が必要だ。	You will need a referral to see a skin specialist.		
+EX15U12S056	1	12	彼は祖父に対して大きな尊敬の念を抱いている。	He feels great admiration for his grandfather.		
+EX15U12S057	1	12	資金的な制約により、そのプロジェクトは中止された。	Financial constraints caused the project to be canceled.		
+EX15U12S058	1	12	彼女は長い年月を経て、カルト教団から逃れることができた。	She was able to escape the cult after many years.		
+EX15U12S059	1	12	彼は平凡なサラリーマン人生にうんざりしている。	He is fed up with his mundane life as an office worker.		
+EX15U12S060	1	12	彼がその謎を完全に解くのに何年もかかった。	It took him years to completely unravel the mystery.		
+EX15U12S061	1	12	彼女は1位になったことを知って、舞い上がった。	She was ecstatic to find out she won first place.		
+EX15U12S062	1	12	私はこれまでずっと楽器が苦手だった。	I have always been inept at musical instruments.		
+EX15U12S063	1	12	これは実例ではなく、単なる仮定の状況だ。	"This is not a real example, just a hypothetical situation."		
+EX15U12S064	1	12	彼はボランティアをしたあと、その町に住む貧しい人々に共感を持った。	He developed empathy for the poor people after volunteering in their town.		
+EX15U12S065	1	12	その雄大な山は登るのが不可能に見えた。	The imposing mountain looked impossible to climb.		
+EX15U12S066	1	12	彼の意見はいつも鋭く、的を射ている。	His opinions are always incisive and to the point.		
+EX15U12S067	1	12	自分の所有物を自慢するのは失礼だ。	It is rude to brag about what you own.		
+EX15U12S068	1	12	彼女はショーケースの輝くイヤリングに魅了された。	She was enticed by the shiny earrings in the display case.		
+EX15U12S069	1	12	彼はあからさまに、彼女の決定に対する軽蔑を示した。	He showed his disdain for her decision openly.		
+EX15U12S070	1	12	誰もがそのスピーチを聞くために広場に集まった。	Everyone congregated in the square to listen to the speech.		
+EX15U12S071	1	12	彼女はスピーチの下書きを家に忘れてしまったので、即興で行った。	"She forgot her speech draft at home, so she improvised."		
+EX15U12S072	1	12	彼女の貢献はこの劇の成功に大きな役割を果たした。	Her contributions were instrumental in making this play a success.		
+EX15U12S073	1	12	彼はかつて、世界を旅した流れ者だった。	He used to be a transient who traveled the world.		
+EX15U12S074	1	12	彼女は部下の一人に出張の手配を任せた。	She had one of her subordinates handle the travel arrangements.		
+EX15U12S075	1	12	彼女の髪の洗い方は変わっている。	She has a peculiar way of washing her hair.		
+EX15U12S076	1	12	ボールは廊下をポンポン跳ねていった。	The ball bounced down the hallway quickly.		
+EX15U12S077	1	12	このような状況における適切な礼儀作法とはどのようなものでしょうか。	What is the proper protocol for a situation like this?		
+EX15U12S078	1	12	モネの色彩とぼんやりした形の使用は、印象派の絵画の典型だ。	Monet's use of color and vague forms typifies Impressionist paintings.		
+EX15U12S079	1	12	彼は1週間遅れて原稿を提出した。	He handed in his manuscript a week late.		
+EX15U12S080	1	12	事故のせいで、彼の背骨は真っすぐでなくなった。	His spine slipped out of alignment because of the accident.		
+EX15U12S081	1	12	皇帝は権力を奪われ、遠い島に追放された。	The emperor was stripped of power and was banished to a remote island.		
+EX15U12S082	1	12	野党は財政支援に関する首相の決定を非難した。	The opposition condemned the prime minister's decision on financial aid.		
+EX15U12S083	1	12	テロリストたちは離れた場所から爆弾を爆発させた。	The terrorists detonated the bomb from a remote location.		
+EX15U12S084	1	12	彼女は上司の行動を懸命にまねしようとした。	She tried hard to emulate her supervisor's actions.		
+EX15U12S085	1	12	そのような食品添加物は健康に悪いと主張する人もいる。	Some argue such food additives are bad for your health.		
+EX15U12S086	1	12	彼は常に自分とは異なる文化に引かれてきた。	He has always gravitated to cultures different from his own.		
+EX15U12S087	1	12	その自転車は停まっている車に誤って衝突した。	The bicyclist collided with a stationary vehicle by accident.		
+EX15U12S088	1	12	政府は特定の薬物を禁止する法律を廃止した。	The government repealed the law banning certain drugs.		
+EX15U12S089	1	12	ある若い科学者が、物理学の有名な理論を反証することに成功した。	A young scientist managed to disprove a famous physics theory.		
+EX15U12S090	1	12	彼女は調理器具を冷蔵庫の横に置いている。	She keeps her utensils next to the refrigerator.		
+EX15U12S091	1	12	そのボートは湖で何週間も漂流したままだった。	The boat was left adrift in the lake for weeks.		
+EX15U12S092	1	12	彼女は口げんかを始めたのは夫だとなじった。	She accused her husband of instigating the argument.		
+EX15U12S093	1	12	少年はポケットに手を突っ込んで立ち去った。	The teen thrust his hands into his pockets and walked away.		
+EX15U12S094	1	12	たいていの人種差別は単なる無知に起因している。	Most racial discrimination comes from simple ignorance.		
+EX15U12S095	1	12	アメリカではレストランの給仕にチップを置いてくるのが慣習だ。	"In the US, it is customary to leave a tip for restaurant servers."		
+EX15U12S096	1	12	彼は何回かまばたきをしてから、質問に答えた。	He blinked a few times before answering the question.		
+EX15U12S097	1	12	私たちの目と髪の色は遺伝だ。	The color of our eyes and hair is hereditary.		
+EX15U12S098	1	12	その厳粛な儀式の間、話をする人はほとんどいなかった。	Very few people spoke during the solemn ceremony.		
+EX15U12S099	1	12	彼はハチの群れに襲われた。	He was attacked by a swarm of bees.		
+EX15U12S100	1	12	恐ろしい事故を目撃したあとでも、彼は平然としていた。	He was unperturbed even after witnessing a horrible accident.		
+EX15U12S101	1	12	私たちは現在、開発の最終段階に入つている。	We are now entering the final phase of development.		
+EX15U12S102	1	12	少女はつまずいて、坂を転がり落ちた。	The girl tumbled down the hill after she tripped.		
+EX15U12S103	1	12	彼女は知的で才能もあるが、自発性に欠けている。	"She is both intelligent and talented, but she lacks initiative."		
+EX15U12S104	1	12	泣いている赤ん坊をあやすために彼女は歌を歌った。	She sang a song to soothe the crying baby.		
+EX15U12S105	1	12	登山者たちは山の尾根づたいに歩いた。	The climbers hiked along the crest of the mountain.		
+EX15U12S106	1	12	少年たちは、近所の犬をいじめるのが好きだった。	The boys liked to torment the neighborhood dog.		
+EX15U12S107	1	12	逮捕されたあと、彼女の在留資格は取り消された。	Her immigration status was revoked after she was arrested.		
+EX15U12S108	1	12	彼はどうしても大人の社会に溶け込むことができなかった。	He never managed to assimilate into adult society.		
+EX15U12S109	1	12	医師はその薬を飲むことに関する私の不安を払拭した。	The doctor dispelled my concerns about taking the medication.		
+EX15U12S110	1	12	その便は、嵐を避けるために元の経路から外れた。	The flight diverged from its original path to avoid the storm.		
+EX15U12S111	1	12	ケチャップとマスタードは、ホットドッグにかける定番の調味料だ。	Ketchup and mustard are the standard condiments added to hot dogs.		
+EX15U12S112	1	12	彼が従業員のミスの責任を取ったのは立派だった。	It was noble of him to accept the blame for his employee's mistake.		
+EX15U12S113	1	12	今までのところ、その病気を治療するあらゆる努力は失敗している。	So far all efforts to cure the disease have proven futile.		
+EX15U12S114	1	12	津波のあと、土壌は塩水に浸っていた。	The soil was saturated with salt water after the tsunami.		
+EX15U12S115	1	12	すぐれたワクチンのおかげで、天然痘は根絶された。	Smallpox was eradicated thanks to great vaccines.		
+EX15U12S116	1	12	2人の従業員の担当業務が重なると、どちらがその業務を行うべきか混乱することがある。	"When two employees' responsibilities overlap, it can cause confusion about who should do a given task."		
+EX15U12S117	1	12	彼女のクライアントは、個人的な経費と仕事の経費をごちゃ混ぜにしていた。	Her client had muddled his personal and business expenses.		
+EX15U12S118	1	12	彼は、そこまで車で2時間くらいかかると推測している。	He reckons that it will take about two hours to drive there.		
+EX15U12S119	1	12	誤って毒物を摂取した場合は、直ちに医師に連絡してください。	Contact a doctor immediately if you accidentally ingest poison.		
+EX15U12S120	1	12	そのジャケットは、1940年代のイギリス空軍の航空服をほうふつとさせる。	The jacket is reminiscent of a Royal Air Force flight suit from the 1940s.		
+EX15U13S001	1	13	開発費は予算内に収まるようにしてください。	Make sure that development costs come in under budget.		
+EX15U13S002	1	13	体全体の健康は、心の健康に影響される。	Your overall physical health is affected by your mental health.		
+EX15U13S003	1	13	その男は路地で違法薬物を売っているところを捕まった。	The man was caught selling illegal substances in an alley.		
+EX15U13S004	1	13	私たちは、あなたの計画にいくつかの潜在的な問題を発見した。	We have identified several potential problems in your plan.		
+EX15U13S005	1	13	その大学は昨年、学生が車でキャンパスに来ることを禁止した。	The university banned students from driving to the campus last year.		
+EX15U13S006	1	13	あなたが試すことができる代替薬があるかもしれません。	There may be an alternative medicine you can try.		
+EX15U13S007	1	13	政府は、自殺率の問題にすぐに対処すると約束した。	The government promised to address the suicide rate quickly.		
+EX15U13S008	1	13	地震はその小さな島国に広範囲に及ぶ被害をもたらした。	The earthquake caused widespread damage in the small island nation.		
+EX15U13S009	1	13	ほとんどの人は、果物や野菜をたくさん摂取するべきだ。	Most people should consume lots of fruits and vegetables.		
+EX15U13S010	1	13	彼は盗難品を売ろうとして逮捕された。	He was arrested for trying to sell stolen property.		
+EX15U13S011	1	13	これらのタオルは、水をたくさん吸収することができる。	These towels can absorb a lot of water.		
+EX15U13S012	1	13	この町にはスポーツ施設がない。	There are no sports facilities in this town.		
+EX15U13S013	1	13	その女性は自らの会社に多額の資金を投資した。	The woman invested a lot of money in her business.		
+EX15U13S014	1	13	今年の春は、その地域では比較的涼しかった。	Spring was relatively cool in that region this year.		
+EX15U13S015	1	13	彼は長期的な研究プロジェクトに参加したところだ。	He has just joined a long-term research project.		
+EX15U13S016	1	13	科学者たちは試験結果を注意深く分析した。	The scientists analyzed the test results carefully.		
+EX15U13S017	1	13	その薬を飲み始めてから、彼は体調がよくなった。	He has been feeling better since he started taking the medication.		
+EX15U13S018	1	13	この事件についていくつか疑問がある。	We have a few questions regarding the incident.		
+EX15U13S019	1	13	定期的な運動は健康に有益だ。	Regular exercise is beneficial to your health.		
+EX15U13S020	1	13	彼女は同僚と何の問題も抱えていない。	She does not have any problems with her colleagues.		
+EX15U13S021	1	13	彼らは、より効率的な発電方法を探している。	They are looking for a more efficient way to generate electricity.		
+EX15U13S022	1	13	彼は地元のジムの会員に登録した。	He registered for a membership at the local gym.		
+EX15U13S023	1	13	彼女は長年の努力の末に昇進を果たした。	She got a promotion after years of hard work.		
+EX15U13S024	1	13	政府は目前に迫った選挙に関心を移した。	The government shifted its attention to the upcoming election.		
+EX15U13S025	1	13	利用できるストリーミングサービスには数多くの種類がある。	There are numerous different streaming services available.		
+EX15U13S026	1	13	その職の候補者は全員、来週中に面接を受けなければなりません。	All candidates for the position must attend an interview within the next week.		
+EX15U13S027	1	13	彼女は建設的な批判を受け入れるのがずっと得意ではない。	She has never been good at accepting constructive criticism.		
+EX15U13S028	1	13	当店では、お客さまにご満足いただけなければ、返金をお約束します。	We guarantee your satisfaction or your money back.		
+EX15U13S029	1	13	彼は失業した。その結果、お金が足りない。	"He lost his job. Consequently, he is short on money."		
+EX15U13S030	1	13	政府は農業に対して多くの支援を提供している。	The government provides a lot of support to the agricultural industry.		
+EX15U13S031	1	13	その美術プログラムは学校の予算削減のために中止になった。	The art program was canceled due to the reduction of the school's budget.		
+EX15U13S032	1	13	20歳以上であることが、このクラブに加入するための要件だ。	Being over 20 is a requirement to join this club.		
+EX15U13S033	1	13	そのシリーズは映画化されたあと、絶大な人気を博した。	That series gained enormous popularity after its movie adaptation.		
+EX15U13S034	1	13	従業員向けの研修会は、年に2回開かれる。	Training sessions for employees will be held twice a year.		
+EX15U13S035	1	13	年々、パソコンは手ごろな価格になっている。	"Every year, personal computers become more affordable."		
+EX15U13S036	1	13	彼らは、環境への影響を軽減するためにビーガンになった。	They turned vegan to lessen their environmental impact.		
+EX15U13S037	1	13	自動車保険は若く経験の浅いドライバーのほうが値段が高い。	"Car insurance is more expensive for young, inexperienced drivers."		
+EX15U13S038	1	13	市議会議員6人のうち2人が新しい規則に反対した。	Two of six city council members opposed the new regulation.		
+EX15U13S039	1	13	預金は来週、銀行口座に入金されます。	The deposit will arrive in our bank account next week.		
+EX15U13S040	1	13	部長は大きな損失を出すミスを犯し、その結果、首になった。	"The manager made some costly mistakes, and she was fired as a result."		
+EX15U13S041	1	13	国内の燃料価格は上昇を続けている。	Domestic fuel prices are continuing to go up.		
+EX15U13S042	1	13	警察犬は袋の中から薬物を検出しなかった。	The police dogs did not detect any drugs in the bags.		
+EX15U13S043	1	13	そのイベントの目的は、LGBTQ+の権利に関する認知度を高めることだ。	The aim of the event is to raise awareness of LGBTQ+ rights.		
+EX15U13S044	1	13	彼らの戦略は、主要な競争相手になりそうな会社であれば買収してしまうというものだ。	Their strategy is to buy any company that might become a major competitor.		
+EX15U13S045	1	13	お客さまの満足は、わが社の最優先事項の一つだ。	Customer satisfaction is one of our top priorities.		
+EX15U13S046	1	13	カスタマーサービスの担当者と話をするのに30分待たなければならなかった。	I had to wait 30 minutes to speak with a customer service representative.		
+EX15U13S047	1	13	今日の会議の結果は、明日発表される。	The outcome of today's meeting will be announced tomorrow.		
+EX15U13S048	1	13	古代の人々は肉を保存するのに塩を使った。	The ancient people used salt to preserve their meat.		
+EX15U13S049	1	13	もしも億万長者なら、いろいろな高級車を10台買うのだが。	"If I were a billionaire, I would buy 10 different luxury cars."		
+EX15U13S050	1	13	毎週植物に水をやるよう、注意喚起を書いてください。	Please write a reminder to water the plants every week.		
+EX15U13S051	1	13	彼らの会社では自動車部品を製造している。	Their company manufactures auto parts.		
+EX15U13S052	1	13	わが社はサービスを全国に拡大する予定です。	We will extend our services to the rest of the country.		
+EX15U13S053	1	13	彼女はこのコースを教えるのに十二分の資格がある。	She is more than qualified to teach this course.		
+EX15U13S054	1	13	考古学者たちはその発掘現場でいくつかの新しい化石を発見した。	The archaeologists found several new fossils at the site.		
+EX15U13S055	1	13	彼女とビジネスパートナーは弁護士を雇い、会社を設立した。	She and her business partner hired a lawyer to form the corporation.		
+EX15U13S056	1	13	彼女の父と祖父は、2人ともウェールズの炭鉱で働いていた。	Her father and grandfather both worked in the coal mines in Wales.		
+EX15U13S057	1	13	彼らは結婚式で造花を使うことにした。	They decided to use artificial flowers at their wedding.		
+EX15U13S058	1	13	この30年で風景は変わった。	The landscape has changed over the past 30 years.		
+EX15U13S059	1	13	この仕事に応募する最低条件にご注意ください。	Please be sure to note the minimum requirements for applying for this job.		
+EX15U13S060	1	13	役員は全員、会社を売却することに同意した。	The executives all agreed to sell the company.		
+EX15U13S061	1	13	双子は、多くの同じ生物学的特徴を共有している。	Twins share many of the same biological characteristics.		
+EX15U13S062	1	13	約5パーセントの人々がこの病気に対して免疫を持っている。	About five percent of people are immune to this disease.		
+EX15U13S063	1	13	日がたつにつれ、天気は悪化の一途をたどった。	The weather only worsened as the day progressed.		
+EX15U13S064	1	13	そのトラは獲物に忍び寄り、襲いかかった。	The tiger stalked its prey before attacking.		
+EX15U13S065	1	13	すべての書類を提出した応募者のみが選考の対象となる。	Only applicants who hand in all forms will be considered.		
+EX15U13S066	1	13	これら2つの物質は、混ぜると有毒だ。	These two substances are toxic if mixed together.		
+EX15U13S067	1	13	彼女は生まれてからずっと激しい頭痛に悩まされてきた。	She has suffered from intense headaches her whole life.		
+EX15U13S068	1	13	仕事に満足している社員は、通常、会社の生産性を向上させる。	Happy workers generally increase a company's productivity.		
+EX15U13S069	1	13	彼は仕事のために引っ越さなければならなかった。	He was forced to relocate because of his job.		
+EX15U13S070	1	13	そのカップルは結婚してすぐに離婚を決意した。	The couple decided to get a divorce soon after marrying.		
+EX15U13S071	1	13	その映画はわかりづらかったが、それでも楽しめた。	"The movie was confusing, but entertaining nonetheless."		
+EX15U13S072	1	13	この問題を解決する手がかりがない。	We have no clue how to fix this issue.		
+EX15U13S073	1	13	オーナーたちは現在、その倉庫をオンライン小売業者に貸している。	The owners are currently renting the warehouse to an online retailer.		
+EX15U13S074	1	13	彼女はかなりの時間を勉強に費やした。	She spent a substantial amount of time studying.		
+EX15U13S075	1	13	仮設住宅は住み心地があまりよくない。	Temporary housing is not very comfortable to live in.		
+EX15U13S076	1	13	彼の仕事は、新入社員の研修を管理することだ。	His job is to supervise the training of new staff.		
+EX15U13S077	1	13	その研究者たちは調査の被験者を募集した。	The researchers recruited subjects for their surveys.		
+EX15U13S078	1	13	負けたチームにも参加賞のトロフィーが贈られる。	Even the teams that lose are given a trophy for participation.		
+EX15U13S079	1	13	彼女は予想外の気温の変化に敏感だ。	She is sensitive to unexpected changes in temperature.		
+EX15U13S080	1	13	この博物館には世界最古の陶器のいくつかがある。	Some of the oldest pottery in the world is at this museum.		
+EX15U13S081	1	13	彼女はまだ犬に対する恐怖を克服していない。	She still has not overcome her fear of dogs.		
+EX15U13S082	1	13	古いコンピュータは明日すべて撤去する予定だ。	All the old computers are scheduled for removal tomorrow.		
+EX15U13S083	1	13	州の医療制度は危機的状況にある。	The province's health care system is in a crisis.		
+EX15U13S084	1	13	統計は、特定の文脈の中で分析する必要がある。	Statistics must be analyzed within a specific context.		
+EX15U13S085	1	13	多くの人々がその抗議運動に加わって逮捕された。	Many people were arrested for engaging in the protests.		
+EX15U13S086	1	13	彼はすべての対戦相手に、勇敢に自信を持って立ち向かった。	He faced all of his opponents bravely and with confidence.		
+EX15U13S087	1	13	この競争の激しい業界で生き残るには、多大な努力が必要だ。	To survive in this competitive industry requires significant effort.		
+EX15U13S088	1	13	若年人口は劇的に減少すると予想されている。	The younger population is expected to shrink drastically.		
+EX15U13S089	1	13	医師は彼女に、糖分の摂取を制限するように忠告した。	The doctor advised her to limit her sugar intake.		
+EX15U13S090	1	13	彼が殺害された事件については、捜査が進行中だ。	There is an ongoing investigation into his murder.		
+EX15U13S091	1	13	そのレストランは、衛生検査のあと閉店した。	The restaurant was shut down following a health inspection.		
+EX15U13S092	1	13	そんなにわずかなデータで正確な分析を行うことは困難だ。	Making an accurate analysis is problematic with so little data.		
+EX15U13S093	1	13	動物を驚かせるので、フラッシュ撮影は固く禁じられています。	The use of flash photography is strictly forbidden as it upsets the animals.		
+EX15U13S094	1	13	これらの奨学金は、資金が限られている人を対象としている。	These scholarships are for individuals with limited finances.		
+EX15U13S095	1	13	町の美術館での盗難に誰もがショックを受けた。	The theft at the town's museum shocked everyone.		
+EX15U13S096	1	13	その海辺の町には、主に近くの市に住む観光客が訪れる。	The beach town is primarily visited by tourists living in the nearby city.		
+EX15U13S097	1	13	彼はメンバーたちのプロジェクトに対する貴重な貢献に言及した。	He mentioned the members' valuable contributions to the project.		
+EX15U13S098	1	13	作業員の安全を確保するために安全対策が講じられた。	Protective measures were put in place to keep workers safe.		
+EX15U13S099	1	13	考古学者たちは、その地域に古代文明があったことを示す証拠を発見した。	Archaeologists uncovered evidence that the area was home to an ancient civilization.		
+EX15U13S100	1	13	幽霊の存在は科学によって証明されていない。	The existence of ghosts has not been proven by science.		
+EX15U13S101	1	13	引っ越すとき、彼はすべての持ち物を残してきた。	He left all his possessions behind when he moved.		
+EX15U13S102	1	13	注意深い消防士が子どもの泣き声を聞いた。	An alert firefighter heard the cries of a child.		
+EX15U13S103	1	13	ライガーはトラとライオンの交配種だ。	Ligers are hybrids of tigers and lions.		
+EX15U13S104	1	13	その囚人は別の監房に隔離された。	The prisoner was isolated in a separate cell.		
+EX15U13S105	1	13	これらの書籍は、今後の参考に使うことができる。	You can use these books for future reference.		
+EX15U13S106	1	13	この部屋は主に、余剰品の保管に使われている。	This room is primarily used for storage of excess goods.		
+EX15U13S107	1	13	ラシュモア山の景色はかなり印象的だ。	Mount Rushmore is quite an impressive sight.		
+EX15U13S108	1	13	彼女は数日間荒野で迷子になった。	She was lost in the wilderness for several days.		
+EX15U13S109	1	13	結局のところ、必要な許可がなければ私たちは何もできない。	"Ultimately, there is nothing we can do without the necessary permits."		
+EX15U13S110	1	13	その人工衛星は、大気圏に再突入したときに燃え尽きた。	The satellite burned up when it reentered the atmosphere.		
+EX15U13S111	1	13	アメリカ南部にはかつて多くの大農園があった。	There used to be many plantations in the American South.		
+EX15U13S112	1	13	スペイン風邪の発生で、多くの人が亡くなった。	The outbreak of Spanish flu killed many people.		
+EX15U13S113	1	13	その車のオフロード性能をテストしていて、新たな問題が発生した。	New problems arose when they tested the vehicle's offroad capabilities.		
+EX15U13S114	1	13	その事件の捜査では、何の結果も得られなかった。	The investigation into the case did not provide any results. 		
+EX15U13S115	1	13	彼女は車のエンジンから赤い液体が漏れていることに気づいた。	She noticed a red fluid was leaking from her car's engine.		
+EX15U13S116	1	13	彼女は毎年、主治医による健康診断を受けている。	She has a checkup with her doctor every year.		
+EX15U13S117	1	13	彼女はポルトガルが大好きで、その地に永住した。	She loved Portugal so much that she stayed there permanently.		
+EX15U13S118	1	13	彼はギャンブル依存で借金を抱えた。	He got into debt because of a gambling problem.		
+EX15U13S119	1	13	賃金の平等は、今日でも多くの職場で問題となっている。	Pay equality remains a problem in many workplaces today.		
+EX15U13S120	1	13	この地域の空気は湿気が多い。	The air in this region contains a lot ofmoisture.		
+EX15U14S001	1	14	彼は仕事で複数回パリを訪れたことがある。	He has visited Paris multiple times for work.		
+EX15U14S002	1	14	今年は100万人以上の若者が労働力に加わると予想されている。	Over one million young people are expected to join the workforce this year.		
+EX15U14S003	1	14	当校では、フランス語の集中コースを提供しています。	Our school provides an intensive French language course.		
+EX15U14S004	1	14	辞書はその単語を「多すぎる何か」と定義している。	"The dictionary defines the word as ""too much of something."""		
+EX15U14S005	1	14	この森は植物が、非常に密生している。	The vegetation in this forest is very thick.		
+EX15U14S006	1	14	名声は人を駄目にする可能性がある。	Fame has the potential to ruin a person.		
+EX15U14S007	1	14	彼らのチームは3年連続で優勝した。	Their team won the championship three years in a row.		
+EX15U14S008	1	14	その夫婦は遺言書を書くよう弁護士から促された。	The couple were urged to write wills by their lawyer.		
+EX15U14S009	1	14	先週から、新しい納税申告制度が実施された。	The new tax filing system was implemented last week.		
+EX15U14S010	1	14	彼の課題は週末が締め切りだ。	His assignment is due at the end of the week.		
+EX15U14S011	1	14	問題行動のすべてがしつけで解決できるわけではない。	Not all behavioral problems can be solved with discipline.		
+EX15U14S012	1	14	彼は党内に大きな影響力を持っているので、成功できるだろう。	He will be able to succeed because he has a lot of leverage in the party.		
+EX15U14S013	1	14	彼はスーパーですごい掘り出し物を見つけた。	He found a real bargain at the supermarket.		
+EX15U14S014	1	14	琵琶湖にはさまざまな興味深い水生生物が生息している。	A variety of interesting aquatic species populate Lake Biwa.		
+EX15U14S015	1	14	彼は、動いている船にジェット機を着陸させることの信じられないほどの難しさについて説明した。	He described the incredible difficulty of landing a jet on a moving ship.		
+EX15U14S016	1	14	乳児は、生後6か月ごろから固形物を食べ始めることができる。	Infants can begin eating solid foods at around six months old.		
+EX15U14S017	1	14	わが国は、輸入農産物に過度に依存している。	Our country is overly dependent on imported produce.		
+EX15U14S018	1	14	当店では高品質な食品のみを販売しています。	We only sell premium food products at our store.		
+EX15U14S019	1	14	このクーポン券を使うと飲み物が割引になります。	This voucher will give you a discount on your drink.		
+EX15U14S020	1	14	心の健康にも気を配る必要がある。	You must take care of your emotional well-being too.		
+EX15U14S021	1	14	古代の洞窟壁画には、宗教的な意味があった可能性がある。	Ancient cave paintings may have had religious significance.		
+EX15U14S022	1	14	その動画の編集には3日くらいかかる。	It will take me approximately three days to edit the video.		
+EX15U14S023	1	14	来週、すべての施設で定期点検が実施される。	Routine inspections will be conducted at all facilities next week.		
+EX15U14S024	1	14	彼女は動揺のあまり、埋葬に立ち会うことができなかった。	She was too upset to attend the burial.		
+EX15U14S025	1	14	私は傘を持っていきます。あなたもそうするといいですよ。	"I'm packing an umbrella, and you should do likewise."		
+EX15U14S026	1	14	この辺りは歩行者が多いので、ゆっくり運転しなさい。	"Drive slowly, because there are many pedestrians in this area."		
+EX15U14S027	1	14	彼は幼いころに同級生をいじめたことを悔やんでいた。	He felt bad for bullying his classmate during his childhood.		
+EX15U14S028	1	14	彼女のスープに1本の髪の毛が浮いていた。	There was a strand of hair in her soup.		
+EX15U14S029	1	14	彼女の父親は、さまざまなミツバチについてとても詳しい。	Her father is very knowledgeable about various bees.		
+EX15U14S030	1	14	その国は、いくつかの森林を保護するために新たな法律を成立させた。	The country passed new legislation to protect several forests.		
+EX15U14S031	1	14	今後数年間でさらなる気候の変化が予想される。	Even more climatic changes are expected in coming years.		
+EX15U14S032	1	14	その町には独自の下水道システムがない。	The town does not have its own sewage system.		
+EX15U14S033	1	14	その2つの動物の遺伝子の構成はとても似ている。	The genetic makeup of those two animals is very similar.		
+EX15U14S034	1	14	彼女の息子は、金を盗んだ理由を正当化しようとした。	Her son tried to justify why he stole the money.		
+EX15U14S035	1	14	その小さな女の子は、周りのことにとても好奇心がある。	The little girl is very curious about her surroundings.		
+EX15U14S036	1	14	そのレストランはベトナム料理で有名だ。	That restaurant is famous for its Vietnamese cuisine.		
+EX15U14S037	1	14	その記事には、彼女の仕事上の業績が多数挙げられていた。	The article listed many of her professional accomplishments.		
+EX15U14S038	1	14	福祉制度は、人々を助け続けるために大幅な改善が必要だ。	The welfare system needs significant improvements to continue helping people.		
+EX15U14S039	1	14	残念ながら、医師たちはその患者を生き返らせることはできなかった。	"Sadly, the doctors were unable to revive the patient."		
+EX15U14S040	1	14	このスマートフォンは今や、ほかのすべての機種の人気を凌駕している。	This smartphone has now overtaken the popularity of all other models.		
+EX15U14S041	1	14	この件については、フィンランドのカウンターパートと話し合う必要がある。	We will have to discuss this matter with our Finnish counterpart.		
+EX15U14S042	1	14	多くの小売店がインフレで苦しんでいる。	Many retail shops are suffering because of inflation.		
+EX15U14S043	1	14	彼女はニンジンを刻んでいて指先を切った。	She cut the tip of her finger while chopping carrots.		
+EX15U14S044	1	14	"この工場は1日に2,000 ユニットを生産する能力がある。"	"This factory has the capability to produce 2,000 units per day."		
+EX15U14S045	1	14	不況で多くの人々の生計に問題が生じた。	The recession caused problems for many people's livelihoods.		
+EX15U14S046	1	14	彼は週に3日、激しい運動を行っている。	He does an intense workout three days per week.		
+EX15U14S047	1	14	法廷での彼女の証言は疑わしいものだった。	Her testimony in court was of questionable quality.		
+EX15U14S048	1	14	わが社は、すべての製品にわかりやすいデザインを施すよう努めている。	We strive to give all of our products a straightforward design.		
+EX15U14S049	1	14	その昆虫はこの地域に固有ではない。	The insect is not indigenous to this area.		
+EX15U14S050	1	14	その車は買うのにずいぶんお金がかかったでしょう。	That car must have cost you a fortune to buy.		
+EX15U14S051	1	14	その地域の近代化は誰からも歓迎された。	The modernization of the area was welcomed by everyone.		
+EX15U14S052	1	14	彼女は卒業したら科学に関わる職に就きたいと思っている。	She wants to enter a scientific profession when she graduates.		
+EX15U14S053	1	14	クマがそのレストランの周りを歩き回っているのが目撃された。	A bear was spotted roaming around the restaurant.		
+EX15U14S054	1	14	妻は、結婚記念日に彼を高級レストランに連れて行った。	His wife took him to a fancy restaurant for their anniversary.		
+EX15U14S055	1	14	彼女は乳製品が一切食べられない。	She is unable to eat any dairy products.		
+EX15U14S056	1	14	その会社は、危険な労働環境に関して訴訟を起こされている。	The company is facing a lawsuit for unsafe working conditions.		
+EX15U14S057	1	14	その絵が偽物であることを専門家が確認した。	An expert confirmed that the painting was fake.		
+EX15U14S058	1	14	受賞者には電話にてご連絡差し上げます。	The recipients of the award will be contacted by phone.		
+EX15U14S059	1	14	新しいいすの方が確かに快適だが、まだ完ぺきではない。	"The new chair is definitely more comfortable, but it is still not perfect."		
+EX15U14S060	1	14	1865年、アメリカで奴隷制が廃止された。	Slavery was abolished in the United States in 1865.		
+EX15U14S061	1	14	家庭の財政が安定していなかったので、彼女はストレスがたまっていた。	She was stressed because her family did not have any financial stability.		
+EX15U14S062	1	14	彼女は全身に慢性的な痛みを抱えている。	She suffers from chronic pain all over her body.		
+EX15U14S063	1	14	その薬は臨床試験にすべて合格した。	The drug passed all of its clinical trials.		
+EX15U14S064	1	14	彼は素晴らしいプレゼンを行った。	He did an outstanding job on his presentation.		
+EX15U14S065	1	14	あらゆる信仰を持つ人々がこのスペースを使用することができる。	People of all faiths are allowed to use this space.		
+EX15U14S066	1	14	彼女は妹とずっと特別なきずなで結ばれてきた。	She has always had a special bond with her sister.		
+EX15U14S067	1	14	その子どもは誘拐されたが、最終的に無事に戻ってきた。	The child was kidnapped but eventually returned unharmed.		
+EX15U14S068	1	14	彼は毎日皿洗いをして小遣いをもらっている。	He gets an allowance for washing the dishes every day.		
+EX15U14S069	1	14	その州では医師の不足が深刻だ。	There is a serious shortage of doctors in the province.		
+EX15U14S070	1	14	彼女は勇敢に戦うことで王への忠誠を示した。	She showed her loyalty to the king by fighting bravely.		
+EX15U14S071	1	14	幸いなことに、彼のシャツの染みはあまり目立たなかった。	"Luckily, the stain on his shirt was not too noticeable."		
+EX15U14S072	1	14	パンデミックの期間、観光部門は大きな打撃を受けた。	The tourism sector took a major hit during the pandemic.		
+EX15U14S073	1	14	そのスピーチは世界の熱帯雨林を保護する重要性を強調していた。	The speech highlighted the importance of protecting the world's rainforests.		
+EX15U14S074	1	14	氏名、年齢、性別を用紙に明記してください。	"Please indicate your name, age, and gender on the form."		
+EX15U14S075	1	14	彼女は珍しいコインの熱心なコレクターだ。	She is an enthusiastic collector of rare coins.		
+EX15U14S076	1	14	彼女のピアノの演奏は技術的には素晴らしかったが、情感が欠けていた。	"Her piano performance was technically impressive, but it lacked feeling."		
+EX15U14S077	1	14	本が出版されたあと、彼女は世界的に認知された。	She gained international recognition after her book came out.		
+EX15U14S078	1	14	実務経験がなかったために、彼は雇われなかった。	"Without any firsthand experience, he was unable to get hired."		
+EX15U14S079	1	14	2日で終わらせると約束したとき、彼女は自分の力を過大評価していた。	She was overestimating her ability when she promised to finish in two days.		
+EX15U14S080	1	14	彼はときどきとてもいいプレーをするが、一貫性を高める必要がある。	"Sometimes he plays really well, but he needs to improve his consistency."		
+EX15U14S081	1	14	3年後に彼女は定年退職の資格を得る。	"In three years, she will be eligible for retirement."		
+EX15U14S082	1	14	彼は中級レベルの広東語とスウェーデン語を話す。	He speaks Cantonese and Swedish at an intermediate level.		
+EX15U14S083	1	14	彼女は称賛に値する偉大な監督だ。	She is a great director who deserves praise.		
+EX15U14S084	1	14	彼のITに関する豊富な経験は、そのプロジェクトにとって非常に貴重なものだった。	His extensive IT experience was invaluable to the project.		
+EX15U14S085	1	14	東京はロサンゼルスとほとんど同じ緯度に位置している。	Tokyo is located at roughly the same latitude as Los Angeles.		
+EX15U14S086	1	14	彼女は面接の前、緊張していた。	She was tense before her interview.		
+EX15U14S087	1	14	この直販店では商品を割引価格で買うことができる。	You can get items at a discount at this outlet.		
+EX15U14S088	1	14	その教師は生徒全員に対して思いやりの気持ちを持っている。	The teacher has compassion for all of her students.		
+EX15U14S089	1	14	帰国子女は、帰国後、アイデンティティの危機に陥ることがある。	Returnees can sometimes have an identity crisis upon returning.		
+EX15U14S090	1	14	この病気は親から子にうつる恐れはない。	The disease has no risk of being transferred from a parent to their offspring.		
+EX15U14S091	1	14	嵐のあと、ボランティアたちはビーチのがれきを撤去した。	"After the storm, volunteers removed debris from the beach."		
+EX15U14S092	1	14	その少年は仲間うちで人気がある。	The boy is popular among his peers.		
+EX15U14S093	1	14	ベトナム語は歴史的に、漢字を含む文字を使って書かれていた。	Vietnamese was historically written using a script that contained Chinese characters.		
+EX15U14S094	1	14	そのアリーナでは大規模な漫画の大会が開催された。	They held a huge comic convention at the arena.		
+EX15U14S095	1	14	その講義にはいくつか異なる分野の学生が出席した。	Students from several different disciplines attended the lecture.		
+EX15U14S096	1	14	工学における彼女の業績は、年齢的にも注目に値する。	Her achievements in engineering are notable for her age.		
+EX15U14S097	1	14	密閉空間の内部で一酸化炭素が増加すると非常に危険だ。	The buildup of carbon monoxide inside of an enclosed area is very dangerous.		
+EX15U14S098	1	14	その地域社会では、これまで以上に移民が受け入れられ始めた。	Immigrants started getting more acceptance in the local community.		
+EX15U14S099	1	14	このプロジェクトは最初から問題だらけだった。	This project was full of problems from the outset.		
+EX15U14S100	1	14	その会社は、顧客満足度に関するアンケートを行った。	The company took a poll on customer satisfaction.		
+EX15U14S101	1	14	沖縄の高齢者は長寿で有名だ。	The elderly residents of Okinawa are famous for their longevity.		
+EX15U14S102	1	14	この家の住宅ローンを完済するにはあと10年かかる。	It will take 10 more years to pay off the mortgage on this home.		
+EX15U14S103	1	14	彼の最新小説は、批評家から多くの高い評価を得ている。	His latest novel has received a great deal of critical acclaim.		
+EX15U14S104	1	14	申し込みが考慮の対象になるには、すべての基準を満たす必要がある。	All criteria must be met for applications to be considered.		
+EX15U14S105	1	14	この本は、韓国の陶器に関する包括的な手引きだ。	This book is a comprehensive guide to Korean pottery.		
+EX15U14S106	1	14	日照り続きで多くの作物が枯れた。	The dry spell has caused many crops to die.		
+EX15U14S107	1	14	その K-POP のアイドルグループは2枚目のアルバムをリリースしたあと、解散した。	The K-pop idol group disbanded after releasing their second album.		
+EX15U14S108	1	14	彼は昔から楽器の演奏がすぐれている。	He has always excelled at playing musical instruments.		
+EX15U14S109	1	14	彼女は普段、昼食に残り物を食べる。	She usually eats leftovers for lunch.		
+EX15U14S110	1	14	ローンの申請にはいくつかの必要条件がある。	There are several prerequisites to applying for a loan.		
+EX15U14S111	1	14	彼女はエスカレーターでつまずいて、恥をかいた。	She was humiliated when she tripped on the escalator.		
+EX15U14S112	1	14	彼はいつも、どうでもいいことでカッとなる。	He always loses his temper over the smallest things.		
+EX15U14S113	1	14	サプライチェーンの混乱により、輸入品の価格が急騰している。	Supply chain disruptions have caused the prices of imported goods to soar.		
+EX15U14S114	1	14	この仕事には、厳しい訓練が提供される。	Rigorous training will be provided for this job.		
+EX15U14S115	1	14	注射を打ったあとは激しい運動をしないでください。	Do not do any strenuous activity after your shot.		
+EX15U14S116	1	14	あなたのアイデアの前提はよいが、実現可能ではない。	"The premise of your idea is good, but not feasible."		
+EX15U14S117	1	14	子どもが自分より長生きしてくれることは、親なら誰でも願うことだ。	It is every parent's hope that their child will outlive them.		
+EX15U14S118	1	14	この国の軍事費は増加の一途をたどっている。	Military expenditures are only continuing to increase in the country.		
+EX15U14S119	1	14	クレアは大きくて人間味のない会社で働くのが好きではなかった。	"Claire did not like working for a large, impersonal company."		
+EX15U14S120	1	14	彼らが今年新しいゲームをリリースするという憶測が流れている。	There is speculation that they will release a new game this year.		
+EX15U06S001	1	6	彼にはその違法な申し出を拒絶する誠実さがあった。	He had the integrity to refuse the illegal offer.		
+EX15U06S002	1	6	その映画監督には、熱心な、しかし狂信的なファンがいる。	The movie director has a devoted but fanatical following.		
+EX15U06S003	1	6	彼は両親の希望に沿わず、美術学校に進学した。	He defied his parents' wishes by going to art school.		
+EX15U06S004	1	6	ロケットは大きな弧を描いて空中を飛んでいった。	The rocket flew through the air in a large arc.		
+EX15U06S005	1	6	その薬が実際に睡眠の質を向上させるかどうかは議論の余地がある。	It is debatable whether the drug actually improves sleep quality.		
+EX15U06S006	1	6	彼の成功の速さに誰もが感心した。	Everyone was impressed by the rapidity of his success.		
+EX15U06S007	1	6	老朽化のため、壁が崩れ始めている。	The wall has started to crumble because of its age.		
+EX15U06S008	1	6	この件に関する理事会の最終決定は、まだ保留中だ。	The board's final decision on the matter is still pending.		
+EX15U06S009	1	6	彼らは一緒に、エベレストに登る旅に出た。	They embarked on a journey together to climb Mount Everest.		
+EX15U06S010	1	6	警備員は侵入者を取り押さえ、警察に通報した。	The security guard overpowered the intruder and called the police.		
+EX15U06S011	1	6	仕事の詳細を第三者に伝えることは契約違反だ。	Sharing the details of the job with a third party is a breach of contract.		
+EX15U06S012	1	6	お金の話をするのが無作法になる人もいる。	It is improper to talk about money with certain people.		
+EX15U06S013	1	6	流れ星が幸運をもたらすという考えは、単なる迷信だ。	The belief that shooting stars bring good luck is just a superstition.		
+EX15U06S014	1	6	このような若い起業家が、すでに3つの事業を成功させているのは珍しい。	It is rare for such a young entrepreneur to already have three successful businesses.		
+EX15U06S015	1	6	理論は合理的で、証拠によって裏づけられていなければならない。	Your theory must be rational and supported by evidence.		
+EX15U06S016	1	6	使い捨てのものはできるだけ使わないほうがよい。	You should avoid using disposable items as much as possible.		
+EX15U06S017	1	6	この電車のアナウンスはほとんど聞き取れない。	The announcements on this train are barely intelligible.		
+EX15U06S018	1	6	ご自分の状況に該当する事項のみご記入ください。	Only fill out the information applicable to your situation.		
+EX15U06S019	1	6	彼の出費に関するスキャンダルは、国中に大騒動を引き起こした。	His spending scandal caused an uproar all over the country.		
+EX15U06S020	1	6	彼は貧しい国における人道的な活動で知られている。	He is well-known for his humanitarian efforts in poor countries.		
+EX15U06S021	1	6	生産を外部委託する利点は、コストの削減だ。	The upside to outsourcing production is the decreased cost.		
+EX15U06S022	1	6	この寺院の複雑な彫刻は有名だ。	The intricate carvings at this temple are famous.		
+EX15U06S023	1	6	彼女は混雑した通勤電車に耐えられるようになった。	She learned to endure the crowded commuter trains.		
+EX15U06S024	1	6	侵攻を受けて政府は軍の動員を急いだ。	The government rushed to mobilize the army following the invasion.		
+EX15U06S025	1	6	相性がよくなかったため、その夫婦は離婚した。	The couple divorced because they were not compatible.		
+EX15U06S026	1	6	お世辞を言われても、あなたの成績を上げたりはしませんよ。	Flattery won't convince me to give you a better grade.		
+EX15U06S027	1	6	交渉の間、その会社は一切の譲歩を拒んだ。	"During negotiations, the company has refused to make any concessions."		
+EX15U06S028	1	6	窓から差し込む太陽の光がまぶしかった。	The glare of the sun through the window was blinding.		
+EX15U06S029	1	6	医師は彼女に、手術の前の晩は食事を控えるように言った。	The doctor told her to abstain from eating the night before the operation.		
+EX15U06S030	1	6	彼らはそのわずかな賃金では生活するのがやっとだ。	They can barely afford to live on their scanty wages.		
+EX15U06S031	1	6	かびを防ぐために、結露を必ず拭き取ってください。	Make sure to wipe away the condensation to prevent molding.		
+EX15U06S032	1	6	この公園の目的は、地域の野生動物に安全な避難場所を提供することだ。	The goal of this park is to provide a safe haven for local wildlife.		
+EX15U06S033	1	6	彼女は何週間かに一度は、箱入りのチョコレートの詰め合わせを買う。	She gets a box of assorted chocolates every few weeks.		
+EX15U06S034	1	6	彼は視力が悪いため、パイロットになれなかった。	He was precluded from becoming a pilot because of his poor eyesight.		
+EX15U06S035	1	6	痛かったが、痛みは耐えられるものだった。	"It was painful, but the pain was tolerable."		
+EX15U06S036	1	6	ほとんどの大学は、学生の能力を測る指標として今でもテストを使っている。	Most universities still use the tests as a yardstick for measuring a student's ability.		
+EX15U06S037	1	6	彼女はいたずら好きで、いつも問題を起こす。	She is mischievous and always getting into trouble.		
+EX15U06S038	1	6	国内最大のポップスターになるという彼のもくろみは失敗に終わった。	His bid to become the country's biggest pop star failed.		
+EX15U06S039	1	6	ボートの揺れが収まるまで動かないでください。	Please don't move until the boat ceases rocking.		
+EX15U06S040	1	6	彼女はしつこく昇給を要求した。	She was persistent in her demands for a raise.		
+EX15U06S041	1	6	CEOの辞任は、誰にとっても驚きだった。	The CEO's resignation came as a surprise to everyone.		
+EX15U06S042	1	6	自分が残業しないで従業員に残業を求めるのは、偽善的だ。	It is hypocritical to expect overtime from employees without working overtime yourself.		
+EX15U06S043	1	6	そのショッピングセンターは平日はいつも閑散としている。	The shopping center is always deserted on weekdays.		
+EX15U06S044	1	6	被害者は幸運にもこの狂暴な襲撃を生き延びた。	The victim was lucky to survive the savage attack.		
+EX15U06S045	1	6	その男性はイタリア旅行をすることで、ついに飛行機恐怖症と向き合った。	The man finally confronted his fear of flying by taking a trip to Italy.		
+EX15U06S046	1	6	彼らは皆、通りの向こうからの悲鳴を耳にした。	They all heard a shriek coming from down the street.		
+EX15U06S047	1	6	彼女は自国を思う真の愛国者だ。	She is a true patriot who cares about her country.		
+EX15U06S048	1	6	毎年多くの10代の若者が無謀運転で命を落としている。	Many teenagers die every year because of reckless driving.		
+EX15U06S049	1	6	そのけちな事業主は決して従業員を昇給させない。	The stingy business owner never gives his employees raises.		
+EX15U06S050	1	6	彼は火事で失ったもののことをまだ嘆いている。	He is still lamenting what he lost in the fire.		
+EX15U06S051	1	6	彼の夢はアラスカの森林の公園管理人になることだった。	His dream was to become a park ranger in the forests of Alaska.		
+EX15U06S052	1	6	そのセールスマンは緊張気味で、それが顧客の疑念を引き起こした。	"The salesperson seemed nervous, which aroused the client's suspicion."		
+EX15U06S053	1	6	強盗の企みは警察によって阻止された。	The robber's plot was foiled by the police.		
+EX15U06S054	1	6	そのレタスはバクテリアに汚染されていることが判明した。	The lettuce was found to be contaminated with bacteria.		
+EX15U06S055	1	6	ショッピングモールのオープンは、地域全体に経済的な影響をもたらした。	The opening of the mall had economic implications for the entire community.		
+EX15U06S056	1	6	彼女はあらゆる困難に冷静に対処した。	She handled all of the difficulties stoically.		
+EX15U06S057	1	6	彼女の昇進は、夜勤を承諾することが条件だった。	Her promotion was conditional on agreeing to do night shifts.		
+EX15U06S058	1	6	この文章の古めかしい言葉はわかりづらい。	The archaic language of this text is hard to understand.		
+EX15U06S059	1	6	科学者たちは、その小惑星が地球に衝突しないことを確認した。	Scientists ascertained that the asteroid would not hit Earth.		
+EX15U06S060	1	6	その間違いに気づいたなんて、あなたは注意深いですね。	It was observant of you to notice that mistake.		
+EX15U06S061	1	6	彼女の選挙公約はすべて美辞麗句にすぎない。	Her campaign promises are all just rhetoric.		
+EX15U06S062	1	6	彼女は走っているときに脇腹が痛くなった。	She got a cramp in her side while running.		
+EX15U06S063	1	6	彼の声は風の音で聞こえなかった。	His voice was not audible due to the sound of the wind.		
+EX15U06S064	1	6	観光客が戻ってきたことにその地域は驚いている。	The resurgence of tourists has surprised the region.		
+EX15U06S065	1	6	歌手が倒れて、そのショーは途中で中止された。	The show came to a standstill when the singer fell.		
+EX15U06S066	1	6	この宗教の教えに従う人々は、魂の不死を信じている。	Those following this religion believe in the immortality of the soul.		
+EX15U06S067	1	6	このように強い薬は通常、子どもには勧められない。	Such potent medication is not normally recommended for children.		
+EX15U06S068	1	6	学校の初日はどうしても慌ただしくなる。	The first day of school is inevitably hectic.		
+EX15U06S069	1	6	彼が高校生のころ、両親は彼に11時の門限を課していた。	His parents gave him an 11 o'clock curfew in high school.		
+EX15U06S070	1	6	そのチームのピッチャーは年間最優秀選手にノミネートされた。	The team's pitcher was nominated for player of the year.		
+EX15U06S071	1	6	その小説は、田舎暮らしの描写が高く評価されている。	The novel is praised for its depiction of rural life.		
+EX15U06S072	1	6	彼は妹のお気に入りのおもちゃをわざと捨てた。	He deliberately threw away his sister's favorite toy.		
+EX15U06S073	1	6	その町には炭鉱時代の名残がほとんどない。	The town contains few remnants of the mining days.		
+EX15U06S074	1	6	彼らは病気の予防策として手を洗った。	They washed their hands as a precaution against illness.		
+EX15U06S075	1	6	そのイベントは何もかもうまくいかず、完全に大失敗だった。	Everything at the event went wrong; it was a total catastrophe.		
+EX15U06S076	1	6	彼女は、警察が自白するよう脅したと主張している。	She claims that the police intimidated her into confessing.		
+EX15U06S077	1	6	低迷した経済は、低所得層の人々に最も打撃を与えている。	The sluggish economy is hurting low income people the most.		
+EX15U06S078	1	6	両社は問題解決を手助けする仲介者を雇った。	The two companies hired a mediator to help settle the issue.		
+EX15U06S079	1	6	ジャンクフードはほどほどに食べるだけにしてください。	You should only eat junk food in moderation.		
+EX15U06S080	1	6	彼は政治をよく知るやり手のジャーナリストだ。	He is a shrewd journalist who knows politics well.		
+EX15U06S081	1	6	国会は税の抜け穴をふさぐために新しい法律を成立させた。	Congress passed a new law to close a tax loophole.		
+EX15U06S082	1	6	人々に密猟をやめさせるのがレンジャーの仕事だ。	It is a ranger's job to stop people from poaching.		
+EX15U06S083	1	6	残念ながら、この解決できない問題について私たちができることはない。	"Unfortunately, there is nothing we can do about this insoluble problem."		
+EX15U06S084	1	6	彼女は以前の仕事について、面白い逸話をたくさん話してくれた。	She shared many funny anecdotes about her old job.		
+EX15U06S085	1	6	彼女はもう一度家族に会えることを切に願った。	She yearned to see her family again.		
+EX15U06S086	1	6	わが社の成功はもっぱら勤勉な社員たちのおかげだ。	Our success is all thanks to our diligent employees.		
+EX15U06S087	1	6	その地域が工業化されてから、そこの公害は悪化した。	"After the area was industrialized, pollution there worsened."		
+EX15U06S088	1	6	政治家がみんな悪いと言うのは、乱暴な一般論だ。	It is a gross generalization to say all politicians are bad.		
+EX15U06S089	1	6	資材を待つ間、工場労働者は仕事をしていなかった。	The factory workers were idle while waiting for materials.		
+EX15U06S090	1	6	新たな関係を築くことは、わが社のビジネスの拡大に役立つ。	Forging new relationships will help us expand our business.		
+EX15U06S091	1	6	今夜は断続的にしか雪が降らないはずだ。	It is only supposed to snow intermittently this evening.		
+EX15U06S092	1	6	彼女の行動は契約違反と見なされる。	Her actions constitute a violation of her contract.		
+EX15U06S093	1	6	深海は、ほとんどの生物にとって住むのに適さない環境だ。	The deep sea is an inhospitable environment for most creatures.		
+EX15U06S094	1	6	そのレストランは新しい客を呼び込むためにクーポンを配布した。	The restaurant handed out coupons to lure new customers.		
+EX15U06S095	1	6	自然災害に遭って生き延びることは、心的外傷を残す経験になる可能性がある。	Surviving a natural disaster can be a traumatic experience.		
+EX15U06S096	1	6	その記事の目的は、市長の信用を傷つけることだった。	The purpose of the article was to discredit the mayor.		
+EX15U06S097	1	6	彼女は彼のあいまいな言葉をどう解釈していいかわからなかった。	She did not know how to interpret his ambiguous words.		
+EX15U06S098	1	6	当校は、生徒に高い自主性を与えることを信条としている。	Our school believes in giving students a lot of autonomy.		
+EX15U06S099	1	6	そのテレビスターは引退後、自伝を書いた。	The TV star wrote an autobiography after she retired.		
+EX15U06S100	1	6	あなたの作文はいつも矛盾した記述でいっぱいだ。	Your essays are always full of contradictory statements.		
+EX15U06S101	1	6	彼女は自分の名前が選手名簿にあるのを見て、興奮した。	She was excited to see her name on the roster of players.		
+EX15U06S102	1	6	曲がりくねった山道のせいで、彼は吐き気を催した。	The winding mountain roads made him nauseous.		
+EX15U06S103	1	6	わかりやすく首尾一貫した議論をしてください。	Please present a coherent argument that is easy to understand.		
+EX15U06S104	1	6	事件は終結したが、捜査官の真相究明はまだ続いている。	"The case is closed, but the investigator's quest for the truth still continues."		
+EX15U06S105	1	6	彼は腹部の激しい痛みのため入院した。	He was hospitalized for acute pain in his abdomen.		
+EX15U06S106	1	6	おなかが空いたときに飢えていると言うのは誇張だ。	It is an exaggeration to say you are starving when you are hungry.		
+EX15U06S107	1	6	彼は何週間も間違いをばかにされた。	He was ridiculed for his mistake for weeks.		
+EX15U06S108	1	6	彼女は両親の前で踊るのが恥ずかしかった。	She felt bashful dancing in front of her parents.		
+EX15U06S109	1	6	彼女が新しいソフトウェアに習熟するまで数週間かかった。	It took her a few weeks to familiarize herself with the new software.		
+EX15U06S110	1	6	彼は生まれてからずっと病気がちだ。	He has been prone to illness his whole life.		
+EX15U06S111	1	6	私の意見では、これが今手に入る辞書としては最高のものだ。	"In my estimation, this is the best dictionary around."		
+EX15U06S112	1	6	彼女は彼に許しを請うたが、無駄だった。	"She begged for his forgiveness, but to no avail."		
+EX15U06S113	1	6	彼は好奇心が旺盛で、辛いコショウを食べてみずにはいられなかった。	His curiosity compelled him to taste the spicy pepper.		
+EX15U06S114	1	6	インフレの上昇は、より大きな経済問題を暗示している。	The rise in inflation is indicative of greater economic issues.		
+EX15U06S115	1	6	彼女は常に新しい考えを受け入れてきた。	She has always been receptive to new ideas.		
+EX15U06S116	1	6	彼は司法試験に合格するために勉強に没頭した。	He immersed himself in his studies to pass the bar.		
+EX15U06S117	1	6	彼の母はパーティーの前にひと焼き分のクッキーを焼いた。	His mother baked a batch of cookies before the party.		
+EX15U06S118	1	6	その国は経済崩壊の瀬戸際にいる。	The country is on the verge of economic collapse.		
+EX15U06S119	1	6	私たちの目的達成のために多大なる寄付をいただき、感謝いたします。	We are appreciative of your generous donations to our cause.		
+EX15U06S120	1	6	その会社は不正を隠そうとしたが、失敗した。	"The company tried to conceal their wrongdoing, but failed."		
