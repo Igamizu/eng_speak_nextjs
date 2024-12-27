@@ -1679,3 +1679,339 @@ EX15U06S117	1	6	彼の母はパーティーの前にひと焼き分のクッキ�
 EX15U06S118	1	6	その国は経済崩壊の瀬戸際にいる。	The country is on the verge of economic collapse.		
 EX15U06S119	1	6	私たちの目的達成のために多大なる寄付をいただき、感謝いたします。	We are appreciative of your generous donations to our cause.		
 EX15U06S120	1	6	その会社は不正を隠そうとしたが、失敗した。	"The company tried to conceal their wrongdoing, but failed."		
+EX15U15S001	1	15	たとえ事業に失敗しても、彼らには頼ることのできる資金がある。	"Even if the business fails, they have money to fall back on."		
+EX15U15S002	1	15	彼女は給料をもらうまで食料品を買うのを控えている。	She is holding off on buying groceries until she gets paid.		
+EX15U15S003	1	15	私たちは、彼が無実である可能性を排除することはできない。	We cannot rule out the possibility of his innocence.		
+EX15U15S004	1	15	彼らはその政治家の偽りの約束にだまされた。	They fell for the false promises of the politician.		
+EX15U15S005	1	15	家にいてすべての楽しみを見逃してはいけません!	Don't miss out on all the fun by staying home!		
+EX15U15S006	1	15	彼女は式の直前に風邪をひいた。	She came down with a cold right before the ceremony.		
+EX15U15S007	1	15	新しい営業部長は、部を改革したいと考えていた。	The new sales manager wanted to shake up the department.		
+EX15U15S008	1	15	組合は自分たちの要求が満たされるまで頑張った。	The union held out until their demands were met.		
+EX15U15S009	1	15	ゴールはあと少しだから、気を抜かないで。	"You're almost there, so don't let up now."		
+EX15U15S010	1	15	この役職では、わが社の理想に全面的にコミットすることが求められる。	This position calls for full commitment to our company's ideals.		
+EX15U15S011	1	15	祖父が亡くなったとき、彼女はいくらかのお金を手に入れた。	She came into some money when her grandfather died.		
+EX15U15S012	1	15	彼にクリスマスプレゼントを買うために皆がお金を出し合った。	Everyone chipped in to help pay for his Christmas present.		
+EX15U15S013	1	15	危険な化学物質は必ず適切に廃棄してください。	Please make sure to properly dispose of dangerous chemicals.		
+EX15U15S014	1	15	彼らは当初のマーケティングプランを変えずにいくことにした。	They decided to stick with their original marketing plan.		
+EX15U15S015	1	15	あなたは空いたばかりの管理職のポストを狙うべきです。	You should go for the new management position that opened up.		
+EX15U15S016	1	15	強盗は現金20万ドル以上を奪って逃げた。	"The robbers made off with over $200,000 in cash."		
+EX15U15S017	1	15	彼女はときどき、ほかの従業員が病気のときに代わりに入る。	She sometimes covers for other employees when they are sick.		
+EX15U15S018	1	15	睡眠不足は多くの健康問題を引き起こす可能性がある。	Lack of sleep can bring on many health problems.		
+EX15U15S019	1	15	俳優に会えることを期待して、何人かの人がショーのあとも残っていた。	A few people stuck around after the show in hopes of meeting the actors.		
+EX15U15S020	1	15	この問題を解決する責任は、あなたにあります。	The responsibility to fix this problem falls on you.		
+EX15U15S021	1	15	その新しいゲームをプレーし始めると、私は結構すぐにやり方がわかった。	"Once we started playing the new game, I caught on pretty quickly."		
+EX15U15S022	1	15	彼らは世界中を旅する旅に出た。	They set off on a journey across the world.		
+EX15U15S023	1	15	ボーイフレンドが彼女の両親に気に入られるまで、しばらく時間がかかった。	It took her boyfriend a while to win over her parents.		
+EX15U15S024	1	15	私たちの計画は土壇場になって失敗した。	Our plans fell through at the last minute.		
+EX15U15S025	1	15	警察はその犯罪の首謀者を懸命に追跡している。	Police are working hard to track down the person responsible for the crime.		
+EX15U15S026	1	15	ポップミュージックを作り始めたとき、その歌手は節を曲げたと非難された。	The singer was accused of selling out when he started making pop music.		
+EX15U15S027	1	15	CEO のスピーチは何時間もだらだらと続いた。	The CEO's speech dragged on for hours.		
+EX15U15S028	1	15	雨が弱くなったら、その店に行こう。	Let's go to the store after the rain dies down.		
+EX15U15S029	1	15	彼女の娘はついに折れ、学校をサボったことを認めた。	Her daughter finally broke down and admitted to skipping school.		
+EX15U15S030	1	15	彼らは自分の気持ちを話し合い、最後は仲直りした。	They finally made up after talking about their feelings.		
+EX15U15S031	1	15	悪天候のため、そのイベントは中止された。	The event was called off because of bad weather.		
+EX15U15S032	1	15	無理して人の期待に応えようとする必要はありません。	Don't bother trying to live up to others' expectations.		
+EX15U15S033	1	15	彼女は不動産屋との打ち合わせで家賃の話を持ち出した。	She brought up rent costs at the meeting with the real estate agent.		
+EX15U15S034	1	15	最初の数段落は、調査結果を要約していた。	The first few paragraphs summed up the findings of the research.		
+EX15U15S035	1	15	そのカップルは結婚してたった1か月で別れた。	The couple split up only a month after getting married.		
+EX15U15S036	1	15	友人がいじめられていたとき、彼女は友人をかばった。	She stuck up for her friend when he was bullied.		
+EX15U15S037	1	15	その会社のCEO は先週辞任した。	The CEO of the company stepped down last week.		
+EX15U15S038	1	15	15年間使ってきた車のエンジンがついに壊れた。	"After 15 years of use, the car's engine finally gave out."		
+EX15U15S039	1	15	その警察官は取り調べ中の容疑者に乱暴を働いたとして、停職処分になった。	The police officer was suspended for roughing up a suspect during questioning.		
+EX15U15S040	1	15	彼は長い間3つの仕事を掛け持ちしていて燃え尽き症候群になった。	He burned out from working three jobs for so long.		
+EX15U15S041	1	15	彼女はコーディングの知識を生かしてウェブサイトを作った。	She drew on her knowledge of coding to create the website.		
+EX15U15S042	1	15	彼は、彼らに口出しをやめて、そっとしておいてほしいと思っている。	He wants them to back off and leave him alone.		
+EX15U15S043	1	15	会議中に考えが浮かんだら、遠慮しないでください。	"If you have an idea in a meeting, don't hold back."		
+EX15U15S044	1	15	その犬は牧草地のヒツジをすべて駆り集めた。	The dog rounded up all the sheep in the pasture.		
+EX15U15S045	1	15	彼女はボーイフレンドのうそをすぐに見破った。	She saw through her boyfriend's lies right away.		
+EX15U15S046	1	15	次のキャンペーンで何をするか計画を立てよう。	Let's map out what we'll do during the next campaign.		
+EX15U15S047	1	15	彼はチームの人たちの一番いいところを引き出す。	He brings out the best in the people on his team.		
+EX15U15S048	1	15	新しい高速道路建設のため、いくつかの家が取り壊された。	They knocked down several houses to build the new expressway.		
+EX15U15S049	1	15	彼女は、毎日目にするホームレスの人々に同情している。	She feels for the homeless people she sees every day.		
+EX15U15S050	1	15	電車のドアが開くと、皆がどやどやと乗り込んだ。	Everyone piled in when the train's doors opened.		
+EX15U15S051	1	15	彼らは午後4時ごろに会議を終えた。	They wrapped up the meeting at around 4 p.m.		
+EX15U15S052	1	15	その店の主人は、絵画の複製品を本物としてつかませようとして、罰金を科された。	The shop owner was fined for trying to pass off copies of paintings as originals.		
+EX15U15S053	1	15	彼は休暇中に多くの名所を訪れた。	He took in many sights on his vacation.		
+EX15U15S054	1	15	昨日どこで中断したか、覚えていますか。	Do you remember where we left off yesterday?		
+EX15U15S055	1	15	彼女は留学するチャンスに飛びついた。	She jumped at the chance to study abroad.		
+EX15U15S056	1	15	イベントはその企業の社長のスピーチで始まった。	They kicked off the event with a speech by the company president.		
+EX15U15S057	1	15	彼女は大きくなって爪をかむのをやめた。	She grew out of chewing on her fingernails.		
+EX15U15S058	1	15	"何も考えずに1,000ドルぽんと出せる人はほとんどいない。"	"Few people can just dish out $1,000 without thinking about it."		
+EX15U15S059	1	15	彼は外食を控えることにした。	He decided to cut back on eating out.		
+EX15U15S060	1	15	あなたが破った約束は、どんなものをもってしても埋め合わせることはできない。	Nothing can make up for the promise you broke.		
+EX15U15S061	1	15	彼には提出前に論文を見直す時間がなかった。	He did not have time to go over his essay before turning it in.		
+EX15U15S062	1	15	その評論家のレビューはすべての筋書きの要点をネタばらしした。	The critic's review gave away all the plot points.		
+EX15U15S063	1	15	彼女はアルバイトのせいで、学校でついていくのに苦労している。	"Because of her part-time job, she is struggling to keep up at school."		
+EX15U15S064	1	15	予想通り、チームの努力はシーズン優勝という形で実を結んだ。	"Not surprisingly, the team's hard work added up to a winning season."		
+EX15U15S065	1	15	求人応募数の増加は、景気の低迷を示している。	The increasing number of job applications points to the poor state of the economy.		
+EX15U15S066	1	15	あなたの油絵はとても順調に進んでいますね。	Your oil painting is coming along really nicely.		
+EX15U15S067	1	15	代理の先生は、生徒たちを落ち着かせるのに苦労した。	The substitute teacher had a difficult time getting the students to settle down.		
+EX15U15S068	1	15	数年前の景気後退で資金は枯渇した。	Financing dried up during the recession several years ago.		
+EX15U15S069	1	15	あなたが引き起こした混乱を収拾するのに何日もかかったんですよ。	It took days to straighten out the mess you caused.		
+EX15U15S070	1	15	彼は毎月、学費のために金を取っておいている。	He sets aside money every month to pay for school.		
+EX15U15S071	1	15	いつか子どもたちが読めるように、これらの本を取っておくべきだ。	You should hang onto these books so your kids can read them someday.		
+EX15U15S072	1	15	もう遅いので、今夜は寝ましょう。	"It's late, so we'll be turning in for the night."		
+EX15U15S073	1	15	彼らは図書館を取り壊して、アパートを建てる予定だ。	They are going to tear down the library and build apartments.		
+EX15U15S074	1	15	しっかりしないと、首になるかもしれませんよ。	"If you don't shape up, you may lose your job."		
+EX15U15S075	1	15	彼女は非常に大きな菜園を作り始めた。	She set out to create a giant vegetable garden.		
+EX15U15S076	1	15	警察はその事件への関与を隠蔽した。	The police covered up their involvement in the incident.		
+EX15U15S077	1	15	彼らは商品がなくなると客を断った。	They turned away customers when they ran out of products.		
+EX15U15S078	1	15	彼らは家に新しいバスルームを備えつけた。	They put in a new bathroom in their house.		
+EX15U15S079	1	15	彼女は小学生のときにロボット工学に興味を持った。	She got into robotics when she was in elementary school.		
+EX15U15S080	1	15	他人の忠告にやみくもに従うだけではいけません。	Don't just blindly act on the advice of others.		
+EX15U15S081	1	15	彼は週末はほとんどくつろいで過ごす。	He spends most weekends just kicking back.		
+EX15U15S082	1	15	視力の問題の増加は、コンピュータの使用が増えたことに起因している可能性がある。	It is possible the rise in vision problems stems from increased computer use.		
+EX15U15S083	1	15	そのやんちゃな男の子たちは学校で問題を起こした。	The mischievous boys stirred up trouble at their school.		
+EX15U15S084	1	15	彼らは、新しい奨学金プログラムの開始を強く求めた。	They pushed for a new scholarship program to be started.		
+EX15U15S085	1	15	彼女はパーティーで浮かれて、飲みすぎてしまった。	She got carried away at the party and drank far too much.		
+EX15U15S086	1	15	彼女はジェットコースターで吐きそうになった。	She almost threw up on the roller coaster.		
+EX15U15S087	1	15	彼女は新しいアイデアが浮かぶとすぐに、それを紙に書き留める。	"The moment she gets a new idea, she sets it down on paper."		
+EX15U15S088	1	15	あなたの行動は、あらゆる年齢の人々に好感を抱かせる。	Your behavior endears you to people of all ages.		
+EX15U15S089	1	15	彼はパンクしているかどうか確かめるために車を止めた。	He pulled over to check if he had a flat tire.		
+EX15U15S090	1	15	彼はそんな低収入では生活できなかった。	He could not live on such a low income.		
+EX15U15S091	1	15	彼は話を長引かせる傾向があり、そのせいで話がつまらなくなる。	"He tends to drag out his stories, which makes them boring."		
+EX15U15S092	1	15	その会社の失敗は、財務管理の不備に帰着する。	The company's failure comes down to poor financial management.		
+EX15U15S093	1	15	彼女は苦情を無視されたことで、上司に怒りを爆発させた。	She blew up at her boss for ignoring her complaint.		
+EX15U15S094	1	15	彼らはバリに行くチャンスを見送った。	They passed up the chance to go to Bali.		
+EX15U15S095	1	15	彼はその周辺にアパートを借りる手配をするため、事務所に入っていった。	He went into the office to see about renting an apartment in the area.		
+EX15U15S096	1	15	その会社はほかの市場に手を広げようとしている。	The company is trying to branch out into other markets.		
+EX15U15S097	1	15	彼はフットボールでけがをして、病院に担ぎ込まれた。	He wound up in the hospital after a football injury.		
+EX15U15S098	1	15	彼女はまったく異なるスタイルの生活を送る人々に共感するのが難しかった。	She had trouble relating to people that led such different lifestyles.		
+EX15U15S099	1	15	大統領の訪問を控え、警備が強化された。	They tightened up security before the president's visit.		
+EX15U15S100	1	15	新しいタイプのカフェが全国にでき始めた。	The new type of caf?s started to spring up all over the country.		
+EX15U15S101	1	15	彼は空港に向かう途中、渋滞に対処しなければならなかった。	He had to contend with heavy traffic on his way to the airport.		
+EX15U15S102	1	15	彼女のラジオ番組には、毎週何千人もの人がチャンネルを合わせている。	Thousands tune in to her radio show every week.		
+EX15U15S103	1	15	残念ながら、市長は皆の期待に応えることができなかった。	"Unfortunately, the mayor did not measure up to everyone's expectations."		
+EX15U15S104	1	15	彼は娘からしばらく連絡がなかったので、様子を確認するために電話をかけた。	"He had not heard from his daughter in a while, so he called to check up on her."		
+EX15U15S105	1	15	景気はようやく持ち直し始めたようだ。	It seems that the economy is finally beginning to turn around.		
+EX15U15S106	1	15	家が裕福だったので、彼女は子どものころ何一つ不自由することがなかった。	She never wanted for anything as a child because her family was rich.		
+EX15U15S107	1	15	彼女の手紙は行方知れずになり、目的地に届かなかった。	Her letter went astray and never reached its destination.		
+EX15U15S108	1	15	出席していない人の名前を消しましょう。	Let's cross out the names of everyone not attending.		
+EX15U15S109	1	15	プログラムの設定をいじらないようにしてください。	Please try to avoid messing with the program's settings.		
+EX15U15S110	1	15	断りもなく他人の気持ちを代弁するべきではない。	You should not speak for others without their permission.		
+EX15U15S111	1	15	毎朝7時に、ボブは工事現場に向かう。	"Every morning at seven, Bob heads off to his construction job."		
+EX15U15S112	1	15	彼は共同経営者の株を買い取り、会社の単独のオーナーとなった。	He bought out his partners and became the company's sole owner.		
+EX15U16S001	1	16	彼は計画の細部をいちいち説明することを拒んだ。	He refused to spell out every detail of the plan.		
+EX15U16S002	1	16	その馬はほかの馬から抜け出し、勝った。	The horse broke away from the others and won.		
+EX15U16S003	1	16	電車は数分遅れて駅に着いた。	The train pulled in several minutes late.		
+EX15U16S004	1	16	彼女は夫を説得して子犬を買わせた。	She talked her husband into getting them a puppy.		
+EX15U16S005	1	16	彼は、自分の努力が何の役にも立たなかった感じがしている。	He feels like none of his hard work counted for anything.		
+EX15U16S006	1	16	彼女はずいぶん長い間、その数学の問題と格闘した。	She wrestled with the math problem for ages.		
+EX15U16S007	1	16	彼らは、気に入ったものが見つかるまで、アイデアをいろいろと検討した。	They kicked around ideas until they found one they liked.		
+EX15U16S008	1	16	彼らは町を探索しているときに、偶然かわいいカフェを見つけた。	They happened on a cute caf? while exploring the town.		
+EX15U16S009	1	16	彼女は部下にチームの指揮を委ねた。	She gave over control of the team to her subordinate.		
+EX15U16S010	1	16	短期間入院して、彼は回復した。	He bounced back after his short stay in the hospital.		
+EX15U16S011	1	16	大量の葉っぱが排水口に詰まり、そのせいで水浸しになった。	"A large number of leaves stopped up the drain, which led to the flooding."		
+EX15U16S012	1	16	家を買ったとき、彼は不動産市場が上がることに賭けていた。	He was betting on the real estate market going up when he bought the house.		
+EX15U16S013	1	16	彼の年齢になると歩き回るのは大変だ。	It is hard for him to get around at his age.		
+EX15U16S014	1	16	その番組の視聴者は急速に減り始めた。	Viewers of the program began to fall off rapidly.		
+EX15U16S015	1	16	彼は自伝で執筆活動を締めくくった。	He rounded out his writing career with an autobiography.		
+EX15U16S016	1	16	昇給して、彼女の仕事は報われた。	Her work paid off when she got a raise.		
+EX15U16S017	1	16	彼が家族と再会するまで長い年月が過ぎた。	Many years went by before he saw his family again.		
+EX15U16S018	1	16	データの場所を見つけるのに数分かかるので、お待ちください。	"It will take me a few minutes to locate the data, so please bear with me."		
+EX15U16S019	1	16	彼女はよくないアイデアだと思ったが、とにかくそのグループに賛同した。	"She thought it was a bad idea, but she went along with the group anyway."		
+EX15U16S020	1	16	彼女はスピーチの中で多くの重要な問題に触れた。	She touched on many important issues in her speech.		
+EX15U16S021	1	16	裁判官の前に出ると、彼は一礼した。	He bowed his head when he came before the judge.		
+EX15U16S022	1	16	わが社は来年この古いモデルのコンピュータを段階的に廃止する。	Our company will phase out this older model computer next year.		
+EX15U16S023	1	16	その整備士はよそより安い値段で人々のエンジンを調整している。	The mechanic tunes up people's engines at lower prices.		
+EX15U16S024	1	16	そろそろ出発する時間だ。	It's about time for us to head out.		
+EX15U16S025	1	16	彼女は内気に見えるかもしれないが、実は無口なだけだ。	"She can come off as shy, but actually she is just quiet."		
+EX15U16S026	1	16	彼女は最高のアイデアだけを上司に出す。	She puts forth only her best ideas to her boss.		
+EX15U16S027	1	16	観光客たちは、大通りから枝分かれする小さな路地を探索するのが大好きだ。	Tourists love to explore the small alleys that branch off from the main road.		
+EX15U16S028	1	16	地元の子どもたちはモールをぶらぶらするのが好きだ。	The local kids like to hang around the mall.		
+EX15U16S029	1	16	車を選ぶには、まず選択肢を絞る必要があります。	"Before you can choose a car, first you'll need to narrow down your options."		
+EX15U16S030	1	16	彼女が芸術に関心があるのは、母親の仕事がきっかけだ。	Her interest in art springs from her mother's job.		
+EX15U16S031	1	16	ヘレンは同僚の休暇中、その代わりをした。	Helen filled in for her colleague while he was on vacation.		
+EX15U16S032	1	16	安全確保のため、ここでのルールを守ってください。	Please adhere to our rules to ensure your safety.		
+EX15U16S033	1	16	自分の価値に見合わないものに甘んじないでください。	Don't settle for anything less than you deserve.		
+EX15U16S034	1	16	彼は仕事のあとで、そのニュースを知った。	He caught up on the news after work.		
+EX15U16S035	1	16	おしゃべりは楽しかったけど、そろそろ仕事に取りかからないとね。	"It has been fun chatting, but we should really get down to work."		
+EX15U16S036	1	16	彼らは、コストを削減するためのいくつかのアイデアを出した。	They put forward several ideas to reduce costs.		
+EX15U16S037	1	16	先生は授業の初日にいくつかの厳しい規則を定めた。	The teacher laid down some strict rules on the first day of class.		
+EX15U16S038	1	16	以前は11月ごろになると寒い時期が始まったものだった。	The cold weather used to set in around November.		
+EX15U16S039	1	16	子猫を見た途端、彼の怒りは収まった。	His anger fell away as soon as he saw the kitten.		
+EX15U16S040	1	16	手をこまねいて何もしないというわけにはいかない。	We cannot just sit by and do nothing.		
+EX15U16S041	1	16	引っ越しの準備でまる1週間つぶれた。	Preparing to move ate up a whole week.		
+EX15U16S042	1	16	外を走るのは、カロリーを消費するためにただでできる方法だ。	Running outside is a free way to burn off some calories.		
+EX15U16S043	1	16	その子どもは怖くて父親の腕にしがみついた。	The child clung to his father's arm in fear.		
+EX15U16S044	1	16	そのレーシングドライバーは、危険な操縦をやってのけた。	The race car driver pulled off some dangerous maneuvers.		
+EX15U16S045	1	16	彼は問題に遭遇すると、全力でそれに取り組む。	"When he encounters a problem, he goes at it with everything he has."		
+EX15U16S046	1	16	彼は決勝ゴールを決めて、チームの期待に応えた。	He came through for his team by scoring the winning shot.		
+EX15U16S047	1	16	あなたが何を言おうとしているのか、私たちにはよくわかりません。	We don't really understand what you're trying to get at.		
+EX15U16S048	1	16	そのコンサートには全国から人が集まった。	People from all over the country turned out for the concert.		
+EX15U16S049	1	16	彼は母親と妻の言い争いに巻き込まれた。	He was drawn into an argument between his mother and his wife.		
+EX15U16S050	1	16	その騒ぎはすぐに収まり、みんなそれを忘れてしまった。	"The scandal soon blew over, and everyone forgot about it."		
+EX15U16S051	1	16	社会の貧しい人々は無視されつつある。	Poor people in the community are getting shoved aside.		
+EX15U16S052	1	16	彼女が一人で対応するには顧客が多すぎる。	She has too many clients to attend to alone.		
+EX15U16S053	1	16	彼は土壇場でその取引から手を引いた。	He backed down from the deal at the last minute.		
+EX15U16S054	1	16	危険な手術だったが、彼女は何とか持ち直すことができた。	"It was a risky surgery, but she managed to pull through."		
+EX15U16S055	1	16	彼はスキャンダルのあと、CEO の職を辞した。	He stood down as CEO after his scandal.		
+EX15U16S056	1	16	そのろうそくは、燃やすとフルーティーな香りを放つ。	The candle gives off a fruity scent when burned.		
+EX15U16S057	1	16	その政治家はかつてのボランティア活動を大げさに強調しようとしている。	The politician is trying to play up his former volunteer work.		
+EX15U16S058	1	16	私たちは、それらの時代遅れのルールをそろそろ廃止するべきだ。	It is time we did away with those archaic rules.		
+EX15U16S059	1	16	わが社は、これ以上スタッフを雇うほど収益を上げていない。	Our company does not make enough money to take on more staff.		
+EX15U16S060	1	16	彼女は上司にその書類を手渡した。	She handed off the documents to her boss.		
+EX15U16S061	1	16	彼は奨学生に選ばれるのを当てにしている。	He is banking on being chosen for the scholarship.		
+EX15U16S062	1	16	うるさくて、誰が何を言っているのかわからない。	It is too noisy to make out what anyone is saying.		
+EX15U16S063	1	16	近くに来たときは、いつでも気軽に立ち寄ってください。	Feel free to call on me any time you're in the neighborhood.		
+EX15U16S064	1	16	もう二度と犬に会えないということを彼女が理解するまで、しばらく時間がかかった。	It took a while for it to sink in that she would never see her dog again.		
+EX15U16S065	1	16	彼女は新しいアルバムへの批判を一蹴し、それは万人に向けたものではないのだと言った。	"She brushed off the criticisms of her new album, saying it is not meant for everyone."		
+EX15U16S066	1	16	その泥棒は、罰を受けることなく罪を免れた。	The chef rolled up his sleeves before getting to work.		
+EX15U16S067	1	16	科学者は、裏づけとなるデータなしに主張をするべきではない。	A scientist should not make claims without data to back them up.		
+EX15U16S068	1	16	彼女は契約書を作成するために弁護士を雇った。	She hired a lawyer to draw up the contract.		
+EX15U16S069	1	16	シェフは仕事に取りかかる前にそでをまくった。	The thief got away with her crime without punishment.		
+EX15U16S070	1	16	彼らはクライアントに電話する前に、もう一度重要なポイントを確認した。	They ran through the important talking points once more before calling the client.		
+EX15U16S071	1	16	インターンシップは、実務経験を積むすぐれた方法だ。	An internship is a great way to build up work experience.		
+EX15U16S072	1	16	勉強したいので、音楽の音量を下げてもらえますか。	"I'm trying to study, so could you turn down your music?"		
+EX15U16S073	1	16	母親は彼のリサイタルに来られず、彼を失望させた。	His mother let him down when she missed his recital.		
+EX15U16S074	1	16	私たちは、この件で彼女の支援を当てにすることはできない。	We cannot count on her help in this matter.		
+EX15U16S075	1	16	彼はそんなわずかな給料でやっていくのに苦労した。	He had trouble getting by on such a small salary.		
+EX15U16S076	1	16	その IT 大企業は、何千人もの従業員を解雇すると発表した。	The large IT company announced it will lay off thousands of employees.		
+EX15U16S077	1	16	その会社は、利用可能な最も高価なセキュリティプランを選択した。	The company opted for the most expensive security plan available.		
+EX15U16S078	1	16	薬の効果は4時間ほどで切れるはずだ。	The effects of the drug should wear off in about four hours.		
+EX15U16S079	1	16	雨は、すべてを覆っていたほこりを洗い流した。	The rain washed away the dust that covered everything.		
+EX15U16S080	1	16	会社はついに、休暇を増やしてほしいという従業員の要求に折れた。	The company finally gave in to employees' demands for more vacation time.		
+EX15U16S081	1	16	彼女はそのお金を使ってキッチン全体を作り直した。	She used the money to make over her entire kitchen.		
+EX15U16S082	1	16	彼が借りたかった本はすでに借りられていた。	The book he wanted to borrow was already signed out.		
+EX15U16S083	1	16	彼は老婆を助けようと近づいたが、彼女は彼を振り払った。	"He approached the old woman to help her, but she waved him off."		
+EX15U16S084	1	16	その会社は新しい人事ソフトを試した。	The company tried out a new HR software.		
+EX15U16S085	1	16	彼女は小さな古書店で偶然その本に巡り合った。	She stumbled on the book in a small used bookstore.		
+EX15U16S086	1	16	彼女は自分のチームのスキルについて盛って話した。	She talked up the skills of her team.		
+EX15U16S087	1	16	彼は計量スプーンを使って小麦粉をすくった。	He used a measuring spoon to scoop up the flour.		
+EX15U16S088	1	16	彼らは計画をやり抜くことにした。	They decided to go through with their plan.		
+EX15U16S089	1	16	彼女は午前中いっぱいを、その仕事の応募書類を選ぶのに費やした。	She spent the whole morning picking over the applications for the job.		
+EX15U16S090	1	16	その会社は、多くの都市で業務を縮小することにした。	The company decided to scale down operations in many cities.		
+EX15U16S091	1	16	群衆は、ロケットが打ち上げられるのを畏敬の念を持って見ていた。	The crowd watched in awe as the rocket lifted off.		
+EX15U16S092	1	16	子どもに注射をするとき、看護師はその子を押さえつけなければならなかった。	The nurses had to hold down the child when they gave him the shot.		
+EX15U16S093	1	16	彼らは家を片づけるのに8日かかった。	It took them eight days to clean out the house.		
+EX15U16S094	1	16	彼は休暇から戻るとすぐに家を換気した。	He aired out his house as soon as he got back from vacation.		
+EX15U16S095	1	16	山でハイキングするときは、野生動物に気をつけなさい。	Look out for wild animals when hiking in the mountains.		
+EX15U16S096	1	16	彼女は非常に成功した若い女性に成長した。	She grew into a very successful young woman.		
+EX15U16S097	1	16	トラはゆっくりとシカに近づいた。	The tiger slowly closed in on the deer.		
+EX15U16S098	1	16	需要を満たすために、業務を強化しなければなりません。	We must step up operations to meet demand.		
+EX15U16S099	1	16	口をはさんで申し訳ありませんが、もう一度言っていただけますか。	"Sorry to cut in, but could you repeat that?"		
+EX15U16S100	1	16	彼は自分よりお金のない人を見下している。	He looks down on anyone who has less money.		
+EX15U16S101	1	16	彼女はあまりにも勢いよく立ち上がって気を失いかけた。	She almost passed out from standing up too fast.		
+EX15U16S102	1	16	彼はドアから出る前に靴を急いで履いた。	He slipped on his shoes before going out the door.		
+EX15U16S103	1	16	非常に多くの従業員を解雇した結果の全容は、まだ明らかになっていない。	The full consequences of laying off so many employees have yet to play out.		
+EX15U16S104	1	16	彼女はようやく、その会社の買収から手を引いた。	She finally pulled back from purchasing the company.		
+EX15U16S105	1	16	彼は会議を始める前にメモにざっと目を通した。	He skimmed over his notes before starting the meeting.		
+EX15U16S106	1	16	彼女は兄が自分の人形を取ったと告げロした。	She told on her brother for taking her doll.		
+EX15U16S107	1	16	彼は2人の友だちの言い争いを収めようとした。	He tried to smooth over the argument between his two friends.		
+EX15U16S108	1	16	みんな持ち物をかばんにしまい、家に帰った。	Everyone packed up their belongings and went home.		
+EX15U16S109	1	16	彼は毎晩欠かさず娘に布団をかけて寝かしつける。	He tucks in his daughter every single night.		
+EX15U16S110	1	16	彼はホースを使って娘のハイチェアを洗い流した。	He used the hose to wash down his daughter's high chair.		
+EX15U16S111	1	16	その会社は不況で倒産しかかったが、何とか持ちこたえた。	"The company almost went under during the recession, but somehow it survived."		
+EX15U16S112	1	16	彼女はしばらく頭の中でその問題について考えを巡らせた。	She turned over the problem in her mind for a while.		
+EX15U17S001	1	17	そのびんは倒れて地面に落ちた。	The jar tipped over and fell on the ground.		
+EX15U17S002	1	17	スキャンダルが発覚し、多くの人が学長の辞任を迫った。	Many people pressed for the dean's resignation when the scandal came out.		
+EX15U17S003	1	17	ずっとそばで見張られたら絵が描けないよ。	I can't paint with you standing over me all the time.		
+EX15U17S004	1	17	彼女は洗面所で手早く化粧を直した。	She quickly touched up her makeup in the bathroom.		
+EX15U17S005	1	17	誰もがこのもうかる業界に参入したいと思っている。	Everyone wants to get in on this profitable industry.		
+EX15U17S006	1	17	すぐにチャンさんにおつなぎします。	I'll put you through to Ms. Chan right away.		
+EX15U17S007	1	17	彼は日差しを遮るために厚手のカーテンを買った。	He bought some heavy curtains to shut out the sunlight.		
+EX15U17S008	1	17	両チームは世紀の一戦で対決した。	The two teams faced off in an epic battle.		
+EX15U17S009	1	17	彼はチケットを探してごみ箱をあさった。	He picked through the trash for his ticket.		
+EX15U17S010	1	17	そのクマは子グマの近くにいる人々を追い払った。	The bear drove off the people near her cubs.		
+EX15U17S011	1	17	あなたのおじさんは、あなたのお兄さんと言っても通るくらい若い。	Your uncle is young enough to pass for your brother.		
+EX15U17S012	1	17	彼らはもう1日決定を保留することにした。	They decided to hold over their decision another day.		
+EX15U17S013	1	17	彼女は昨夜、誤ってシカをひいてしまった。	She accidentally ran down a deer last night.		
+EX15U17S014	1	17	彼らが言い争いをしている間にかなりの時間が過ぎ去った。	So much time slipped by while they were arguing.		
+EX15U17S015	1	17	そのような振る舞いを我慢するべきではありません。	You shouldn't put up with that kind of behavior.		
+EX15U17S016	1	17	私たちは問題の原因を特定する必要がある。	We need to pin down the reason for the problem.		
+EX15U17S017	1	17	わかった、君の勝ちだ。何度も言わなくてもわかってるよ。	"OK, you won. You don't have to rub it in."		
+EX15U17S018	1	17	彼らはほんの数日で家を片づけて空にした。	They cleared out the house in a matter of days.		
+EX15U17S019	1	17	その男性は仕事中にデスクで居眠りをした。	The man dozed off at his desk while working.		
+EX15U17S020	1	17	彼女は新しい趣味として編み物を始めることにした。	She decided to take up knitting as her new hobby.		
+EX15U17S021	1	17	家賃の高騰により、多くの低所得世帯が住む家を追われている。	The rising cost of rent is driving out many low-income families.		
+EX15U17S022	1	17	その学校は学生のために新しい奨学金を創設した。	The school set up a new scholarship for its students.		
+EX15U17S023	1	17	この時期になるといつもアレルギーが出る。	My allergies always act up at this time of year.		
+EX15U17S024	1	17	彼女の貯金は信じられないほど早くなくなった。	She could not believe how quickly her savings ran out.		
+EX15U17S025	1	17	彼はチーム内で選ばれて、昇給した。	He was singled out on his team for a raise.		
+EX15U17S026	1	17	そのカップルは、意見の相違から別れることにした。	The couple decided to break up because of their differences.		
+EX15U17S027	1	17	彼女は主にアンティーク家具を扱っている。	She deals in antique furniture for the most part.		
+EX15U17S028	1	17	その地域で戦争が勃発したとき、誰もが驚いた。	Everyone was surprised when war broke out in the region.		
+EX15U17S029	1	17	この本の映画版では、主人公の攻撃的な言葉の多くは和らげられていた。	The movie version of the book watered down the main character's often offensive remarks.		
+EX15U17S030	1	17	彼女はそのアンティークジュエリーを子どもたちに受け渡すつもりだ。	She plans to pass on the antique jewelry to her children.		
+EX15U17S031	1	17	彼女の古いスニーカーは、何年も使って最後はボロボロになった。	Her old sneakers finally fell apart after years of use.		
+EX15U17S032	1	17	彼らはすぐに新しい家に慣れた。	They settled in to their new home very quickly.		
+EX15U17S033	1	17	彼はほかの人が降りられるよう電車から降りた。	He stepped out of the train to let others off.		
+EX15U17S034	1	17	その店はクリスマス商品をすべて値下げした。	The store marked down all of their Christmas goods.		
+EX15U17S035	1	17	お話に割り込んで申し訳ありませんが、伺いたいことがあります。	"I'm sorry to break in on your conversation, but may I ask you something?"		
+EX15U17S036	1	17	保護者の方は、学校の最初の数日間、授業を参観することができます。	Parents are welcome to sit in on the class for the first few days of school.		
+EX15U17S037	1	17	その会社はその地域の土地をすべて買い占めた。	The company bought up all the land in the area.		
+EX15U17S038	1	17	この記事では来たる選挙の全候補者を分析している。	This article sizes up all of the candidates in the upcoming election.		
+EX15U17S039	1	17	彼らは警察からの警告だけで釈放された。	They were let off with a warning from police.		
+EX15U17S040	1	17	彼らは新しいビルの建設予定地を仕切った。	They marked out the area where they would place the new building.		
+EX15U17S041	1	17	その小さな鳥は木の実を食料にしている。	The small birds feed off tree nuts.		
+EX15U17S042	1	17	残念ながら彼らはタクシーを手を挙げて止めることができなかった。	"Unfortunately, they were not able to flag down a taxi."		
+EX15U17S043	1	17	彼女は貧しさを乗り越え、大成功を収めた。	She rose above her poverty to become very successful.		
+EX15U17S044	1	17	手数料は 50 ドルほど見込んでおいてください。	You should figure on about $50 in fees.		
+EX15U17S045	1	17	営業チームはプレッシャーがかかっても、よく持ちこたえている。	The sales team is holding up well under the pressure.		
+EX15U17S046	1	17	教師は生徒たちが授業を妨害したと言って叱った。	The teacher told off the students for disrupting the class.		
+EX15U17S047	1	17	彼はその恥ずかしさを決して忘れることはできないだろう。	He will never be able to live down his embarrassment.		
+EX15U17S048	1	17	その会社は別の商品を発売する前に市場の感触を探りたいと考えている。	The company wants to feel out the market before they release another product.		
+EX15U17S049	1	17	私たちは計画の詳細を出す必要があります。	We need to hammer out the details of our plan.		
+EX15U17S050	1	17	彼女は服を脱ぎ捨て、すぐに風呂に入った。	She threw off her clothes and quickly got into the bath.		
+EX15U17S051	1	17	彼は上司に昇給を見送られた。	He was passed over for a raise by his boss.		
+EX15U17S052	1	17	タクシーの運転手は縁石のところに車を止めた。	The taxi driver pulled up to the curb.		
+EX15U17S053	1	17	その町の物語は何百年もの間、語り継がれてきた。	The story of the town has been passed down for hundreds of years.		
+EX15U17S054	1	17	その小説の翻訳はなかなか手に入らない。	A translation of the novel is hard to come by.		
+EX15U17S055	1	17	ほとんどの生徒がその新しい先生のことをすぐに好きになった。	Most of the students took to the new teacher immediately.		
+EX15U17S056	1	17	彼らは金利を下げて不況を回避しようとした。	They attempted to head off a recession by lowering interest rates.		
+EX15U17S057	1	17	彼らは重量超過したかばんのために100 ドルの追加料金を払わなければならなかった。	They had to cough up an extra $100 for their overweight bags.		
+EX15U17S058	1	17	私たちは帰りにトロントに立ち寄った。	We stopped over in Toronto on our way back.		
+EX15U17S059	1	17	需要が多くの分野でコストを押し上げている。	Demand is driving up costs in many sectors.		
+EX15U17S060	1	17	私たちは、満足度調査を追跡する必要がある。	We need to follow up on our satisfaction survey.		
+EX15U17S061	1	17	おそらくしばらくの間、インフレは横ばいにはならないだろう。	Inflation probably will not level off for some time.		
+EX15U17S062	1	17	その会社は少額のボーナスを全従業員に分配した。	The company dealt out small bonuses to all of the employees.		
+EX15U17S063	1	17	何が起こっても、私たちはあなたを応援し続けます。	We'll stick by you no matter what happens.		
+EX15U17S064	1	17	彼女は3時間遅れてパーティーに現れた。	She showed up to the party three hours late.		
+EX15U17S065	1	17	彼はすぐに返事を書くと母親に約束した。	He promised his mother he would write back soon.		
+EX15U17S066	1	17	事故現場の後ろで車が渋滞した。	Traffic stacked up behind the site of the accident.		
+EX15U17S067	1	17	君のジョークはどれも本当に爆笑させてくれる。	You really crack me up with all your jokes.		
+EX15U17S068	1	17	彼女は宝石をすべてクローゼットの金庫にしまい込んでいる。	She keeps all of her jewelry tucked away in the safe in her closet.		
+EX15U17S069	1	17	彼は数時間後にばんそうこうをはがした。	He ripped off the bandage after a few hours.		
+EX15U17S070	1	17	彼女はリストから自分の名前を消した。	She scratched out her name from the list.		
+EX15U17S071	1	17	このキャンペーンは、あなたの映画への関心を高めるはずです。	This campaign should whip up some interest in your movie.		
+EX15U17S072	1	17	そのローンは、相当な利子が積み上がっている。	The loan has been racking up some serious interest.		
+EX15U17S073	1	17	彼女はその厚かましいセールスマンに立ち去るよう言った。	She told the pushy salesperson to shove off.		
+EX15U17S074	1	17	不況はついに底を打ったのかもしれない。	Maybe the recession has finally bottomed out.		
+EX15U17S075	1	17	家まで車で帰る途中、彼女はうとうとしかけた。	She almost nodded off while she was driving home.		
+EX15U17S076	1	17	お名前とご住所を入力して、季節限定の無料カタログをお取り寄せください。	Enter your name and address to send for our free seasonal catalog.		
+EX15U17S077	1	17	主治医は彼女に、甘い食べ物を控えるようにと注意した。	Her doctor warned her to stay off sugary foods.		
+EX15U17S078	1	17	彼女はスーパーで見た光景を演じてみせた。	She acted out the scene she saw at the supermarket.		
+EX15U17S079	1	17	私たちは事務所として使えるように、屋根裏を修理する予定だ。	We are planning to fix up the attic so that we can use it as an office.		
+EX15U17S080	1	17	私たちはシンガポールに事務所を開設する計画をまだ実行するつもりだ。	We still intend to carry through with our plan to open an office in Singapore.		
+EX15U17S081	1	17	彼らがそのアプリを発売するとすぐにお金がたくさん入るようになった。	The money came rolling in as soon as they launched the app.		
+EX15U17S082	1	17	彼は法廷で自分の犯した罪の責任を取ることになるだろう。	He will answer for his crimes in a court of law.		
+EX15U17S083	1	17	その政治家は、企業の強欲に立ち向かうと約束した。	The politician promised to stand up to corporate greed.		
+EX15U17S084	1	17	スケジュールに少し時間を空けるようにしてみるよ。	I'll try to free up some time in my schedule.		
+EX15U17S085	1	17	負けるかもしれないという考えが彼の肩に重くのしかかった。	The thought of losing weighed heavily on his shoulders.		
+EX15U17S086	1	17	彼女は立ち去る前に船を波止場に係留した。	She tied up her boat to the dock before leaving.		
+EX15U17S087	1	17	私は彼の人柄に引かれ始めている。	His personality is starting to grow on me.		
+EX15U17S088	1	17	彼はうっかりペットのオウムを外に出してしまった。	He accidentally let out his pet parrot.		
+EX15U17S089	1	17	彼の娘は誤って寝室に閉じ込められた。	His daughter accidentally locked herself in the bedroom.		
+EX15U17S090	1	17	彼女の両親は、彼女と夫が留守の間、子どもたちを見守ると約束した。	Her parents promised to watch over the kids while she and her husband were away.		
+EX15U17S091	1	17	1969年7月16日、アポロ11号は宇宙に向けて飛び立った。	"On July 16, 1969, the Apollo 11 rocket blasted off into space."		
+EX15U17S092	1	17	よくも私との約束を破ったな。	How dare you go back on your promise to me?		
+EX15U17S093	1	17	上司は彼のミスについてひどくなじった。	The boss really laid into him about his mistake.		
+EX15U17S094	1	17	嫌いな食べ物だったが、彼女は無理やり流し込んだ。	She forced down the food even though she hated it.		
+EX15U17S095	1	17	こんな難しい役をこなせる俳優は、世界中探しても数人しかいない。	There are only a few actors in the whole world who could bring off such a difficult role.		
+EX15U17S096	1	17	彼の洗濯物はずいぶんたまり始めている。	His laundry is really starting to pile up.		
+EX15U17S097	1	17	あなたには仕事にゆっくり慣れてほしいと思っています。	We want you to ease into the job slowly.		
+EX15U17S098	1	17	彼はメモを確認するためにスピーチの途中で話を中断した。	He broke off in the middle of his speech to check his notes.		
+EX15U17S099	1	17	私たちが資金を調達できるかどうかにすべてがかかっている。	Everything hangs on whether we can get funding or not.		
+EX15U17S100	1	17	彼女の本はすべてフィクションのカテゴリーに入る。	Her books all fall under the fiction category.		
+EX15U17S101	1	17	会議が遅くなりそうなので、ピザの出前を頼もう。	"Since the meeting will run late, let's send out for some pizza."		
+EX15U17S102	1	17	彼らは皆、明日のコンサートに向けて気合が入っている。	They are all fired up about the concert tomorrow.		
+EX15U17S103	1	17	彼はリストで完了したものすべてにチェック印を入れた。	He checked off everything he had completed on his list.		
+EX15U17S104	1	17	その野球チームは次のシーズンも成功するよう準備を進めている。	The baseball team is gearing up for another successful season.		
+EX15U17S105	1	17	英単語のかなりの割合はラテン語に由来している。	A significant percentage of English words derive from Latin.		
+EX15U17S106	1	17	彼女はテレビゲームの素晴らしいアイデアを思いついた。	She dreamed up an amazing idea for a video game.		
+EX15U17S107	1	17	彼の幼少期のトラウマは、大人になっても消えなかった。	His childhood trauma carried over into his adult life.		
+EX15U17S108	1	17	皆さんが食べ終わったら、会議を再開しましょう。	"If everyone is done eating, let's get on with the meeting."		
+EX15U17S109	1	17	彼女はストレスを軽減するために、音楽に救いを求めた。	She turned to music to reduce stress.		
+EX15U17S110	1	17	私たちが持っている材料で間に合わせなければなりません。	We will have to make do with the materials we have.		
+EX15U17S111	1	17	痛み止めの効果が出始めるのに15分くらいかかるだろう。	It will take about 15 minutes for the painkiller to kick in.		
+EX15U17S112	1	17	皆が協力して、パーティーの後片づけをした。	Everyone pitched in to clean up after the party.		
