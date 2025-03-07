@@ -9,7 +9,7 @@ export default function SearchPullDown ({ term, actionCreator }) {
     const optionsObj = {
         unit: [...unitArray],
         // unit: [...Array(145)].map((_, i) => i + 1),
-        matl: ["giu", "pass20", "ex15", "brit", "shuraba", "toefl700"]
+        matl: ["giu", "pass20", "ex15", "brit", "shuraba", "toefl700", "eijukugo"]
     }
     const OPTIONS = [...optionsObj[term]];
     

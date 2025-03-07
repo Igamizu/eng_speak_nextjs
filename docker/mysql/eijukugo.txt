@@ -1,0 +1,799 @@
+key_value	cited	unit	japanese	eng1	eng2	eng3
+PV001S001	1	1	そのホテルは海から500メートル離れた所にある。	The hotel is 500 meters away from the sea.		
+PV001S002	1	1	1週間留守にします。	I'Il be away for a week.		
+PV001S003	1	1	私が近づくと鳥は泳いで去った。	The bird swam away when I got near.		
+PV001S004	1	1	彼は部屋で泣き続けていた。	He was crying away in his room.		
+PV001S005	1	1	週末には出かけるつもりです。	We'll go away for the weekend.		
+PV001S006	1	1	車が立ち去る音が聞こえた。	I heard a car drive away.		
+PV001S007	1	1	彼は心配事を笑い飛ばした。	He laughed away his worries.		
+PV001S008	1	1	雪だるまが溶けてなくなった。	The snowman melted away.		
+PV001S009	1	1	その車の騒音は徐々に消えていった。	The noise of the car died away.		
+PV001S010	1	1	この花はすぐに枯れるだろう。	This flower will soon fade away.		
+PV001S011	1	1	やかんのお湯が蒸発しかけている。	The water in the kettle is boiling away.		
+PV001S012	1	1	彼は畑でせっせと働いている。	He is working away in the fields.		
+PV002S001	1	2	駅は2キロ先にある。	The station is two kilometers off.		
+PV002S002	1	2	彼は一気にその仕事を終わらせた。	He finished off the work.		
+PV002S003	1	2	その試合は何時に始まりますか。	What time does the game kick off?		
+PV002S004	1	2	彼はテレビを消した。	He switched off the TV.		
+PV002S005	1	2	騎手は馬から落ちた。	The jockey fell off the horse.		
+PV002S006	1	2	彼はいつも時計を見せびらかしている。	He's always showing off his watch.		
+PV002S007	1	2	そのコンサートは中止された。	The concert was called off.		
+PV002S008	1	2	社長は50人を解雇した。	The president laid off 50 employees.		
+PV002S009	1	2	彼女はテーブルをきれいに片付けた。	She cleared off the table.		
+PV002S010	1	2	私は1年で借金を完済しなければならない。	I have to pay off all my debts in a year.		
+PV002S011	1	2	まずはビールから始めよう。	Let's start off with a beer.		
+PV002S012	1	2	列車はガタンと動き出した。	The train moved off with a jerk.		
+PV003S001	1	3	ロケットは上空に打ち上げられた。	The rocket flew up into the sky.		
+PV003S002	1	3	少年は成長して医者になった。	The boy grew up to be a doctor.		
+PV003S003	1	3	その車はどんどん加速している。	The car is speeding up.		
+PV003S004	1	3	時間終了です。	Time's up.		
+PV003S005	1	3	この植物を堀り起こせますか。	Can you dig up this plant?		
+PV003S006	1	3	自分のおもちゃを拾い集めなさい。	Gather up your toys.		
+PV003S007	1	3	彼はパーティー会場に現れなかった。	He didn't show up at the party.		
+PV003S008	1	3	英語で20まで数えられますか。	Can you count up to 20 in English?		
+PV003S009	1	3	明日の朝は6時に起こしてください。	Wake me up at six tomorrow morning.		
+PV003S010	1	3	大きな声で話してください!聞こえません。	Speak up! I can't hear you.		
+PV003S011	1	3	すぐにこの数の合計を出してください。	Add up these figures quickly.		
+PV003S012	1	3	電話を切らないで。	Don't hang up on me.		
+PV003S013	1	3	彼はクラスメイトに追いつくために一生懸命に勉強した。	He studied hard to catch up with his classmates.		
+PV003S014	1	3	自分の英語を磨き直したい。	I want to brush up on my English.		
+PV003S015	1	3	彼は一日でお金を使い果たした。	He used up all the money in one day.		
+PV003S016	1	3	魚を全部食べなさい。	Eat up your fish.		
+PV003S017	1	3	オレンジジュースを全部飲みなさい。	Drink up your orange juice.		
+PV003S018	1	3	飛行機は墜落して燃え尽きた。	The plane burned up in the crash.		
+PV003S019	1	3	(ガソリンスタンドで)満タンでお願いします。	"Fill it up, please."		
+PV003S020	1	3	その農夫は最後には大統領になった。	The farmer ended up as President.		
+PV003S021	1	3	部屋を片付けるのを手伝って。	Help me clear up the room.		
+PV003S022	1	3	嵐の後、空は晴れ上がった。	The sky cleared up after the storm.		
+PV003S023	1	3	2列に並んでください。	Please line up in two rows.		
+PV003S024	1	3	家の戸締りを忘れずに。	Don't forget to lock up the house.		
+PV003S025	1	3	黙りなさい!	Shut up!		
+PV003S026	1	3	私の自転車のタイヤに空気を入れてくれますか。	Will you blow up the tire of my bike?		
+PV003S027	1	3	ダイナマイトがその大きな岩を爆破した。	The dynamite blew up the big rock.		
+PV004S001	1	4	手を降ろしなさい。	Put your hand down.		
+PV004S002	1	4	列車は速度を落とした。	The train slowed down.		
+PV004S003	1	4	この鉄くずは溶かして再利用されるでしょう。	This scrap metal will be melted down and used again.		
+PV004S004	1	4	彼はソファにゆったりと座った。	He settled down on the sofa.		
+PV004S005	1	4	そのビルは突然倒れた。	The building suddenly fell down.		
+PV004S006	1	4	あなたの名前と住所を書き留めてください。	Write down your name and address.		
+PV004S007	1	4	ソファに横になりたい。	I want to lie down on the sofa.		
+PV004S008	1	4	兵士たちは武器を置いた。	The soldiers laid down their weapons.		
+PV004S009	1	4	事態が収まることを願っています。	I hope things will calm down.		
+PV004S010	1	4	私の家は全焼した。	My house was burned down.		
+PV004S011	1	4	その支店を閉鎖することが決定した。	They decided to shut down the branch.		
+PV004S012	1	4	風は次第におさまった。	The wind died down.		
+PV005S001	1	5	彼はアメリカに渡った。	He flew over to America.		
+PV005S002	1	5	授業は終わりました。	School is over.		
+PV005S003	1	5	最初からやり直してもいいですか。	Can I start over from the beginning?		
+PV005S004	1	5	昼食を取りながらこの問題を話し合いましょう。	Let's discuss this matter over lunch.		
+PV005S005	1	5	香港で途中降機した。	I stopped over at Hong Kong.		
+PV005S006	1	5	あの橋を渡ろう。	Let's cross over that bridge.		
+PV005S007	1	5	彼はかがんで札入れを拾った。	He leaned over and picked up a wallet.		
+PV005S008	1	5	スープがふきこぼれている。	The soup is boiling over.		
+PV005S009	1	5	その車は通りで反転した。	The car rolled over in the street.		
+PV005S010	1	5	そのことは後で話し合いましょう。	Let's talk it over later.		
+PV005S011	1	5	よく考えたほうがいいと思います。	I think you should think it over.		
+PV005S012	1	5	過ぎたことをくよくよするな。	Don't cry over spilt milk.		
+PV006S001	1	6	一杯飲みに行こう。	Let's go out for a drink.		
+PV006S002	1	6	ほら、星が出てるよ。	"Look, stars are out."		
+PV006S003	1	6	電気がまた止まっている。	The electricity is out again.		
+PV006S004	1	6	最後まで聞いてよ。	Hear me out.		
+PV006S005	1	6	今晩は外食しませんか。	How about eating out tonight?		
+PV006S006	1	6	彼は私の英語にいくつか問違いを指摘した。	He pointed out some mistakes in my English.		
+PV006S007	1	6	彼が嘘をついていることがわかった。	I found out he was lying.		
+PV006S008	1	6	彼女をデートに誘った。	I asked her out for a date.		
+PV006S009	1	6	彼はタ食後たいていソファで寝そべる。	He usually stretches out on the sofa after dinner.		
+PV006S010	1	6	私たちはホームレスの人たちに援助の手を差し伸べなければならない。	We must reach out to homeless people.		
+PV006S011	1	6	洗濯物を干さなくては。	I have to hang out the laundry.		
+PV006S012	1	6	彼は机に大きな地図を広げた。	He laid out a large map on the desk.		
+PV006S013	1	6	彼は結婚式に一財産を費やした。	He laid out a fortune on the wedding.		
+PV006S014	1	6	今回は遠慮しておきます。	You can count me out this time.		
+PV006S015	1	6	彼はその決定に反対の表明をした。	He spoke out against the decision.		
+PV006S016	1	6	窓から顔を出してはいけません。	Don't stick your head out of the window.		
+PV006S017	1	6	その鳥の種は1世紀前に絶滅した。	That bird species died out a century ago.		
+PV006S018	1	6	間違った語を削除しなさい。	Cross out the wrong words.		
+PV006S019	1	6	その靴はすぐにすり切れる。	Those shoes wear out easily.		
+PV006S020	1	6	この用紙に必要事項を記入していただけますか。	Could you fill out this form?		
+PV007S001	1	7	列車は浅草に到着した。	The train arrived in Asakusa.		
+PV007S002	1	7	浅草は東京の東にある。	Asakusa lies in the east of Tokyo.		
+PV007S003	1	7	建設業に携わっています。	I'm in the construction business.		
+PV007S004	1	7	上司は正午にはいるでしょう。	My boss will be in at noon.		
+PV007S005	1	7	彼は演説大会に参加した。	He took part in the speech contest.		
+PV007S006	1	7	この荷物を預けたいのですが。	I'd like to check in this baggage.		
+PV007S007	1	7	彼は事故に巻き込まれた。	He was involved in an accident.		
+PV007S008	1	7	仲間に入れてよ。	Count me in.		
+PV007S009	1	7	ここに名前と住所を記入してください。	Fill in your name and address here.		
+PV007S010	1	7	普段、土曜日の夜は家にいます。	I usually stay in on Saturday nights.		
+PV007S011	1	7	今日の彼女は白い服を着ている。	She is dressed in white today.		
+PV007S012	1	7	神の存在を信じますか。	Do you believe in God?		
+PV008S001	1	8	私たちの列車は東京駅に到着した。	Our train arrived at Tokyo Station.		
+PV008S002	1	8	大統領は(外遊の途中で)東京に到着した。	The President arrived at Tokyo.		
+PV008S003	1	8	彼は私にボールを投げつけた。	He threw a ball at me.		
+PV008S004	1	8	夫はまだ会社にいます。	My husband is still at work.		
+PV008S005	1	8	昨日、彼のオフィスを訪れた。	I called at his office yesterday.		
+PV008S006	1	8	彼女は私を見てほほ笑んでいる。	She's smiling at me.		
+PV008S007	1	8	私を見て笑わないで。	Don't laugh at me.		
+PV008S008	1	8	彼は時計をちらっと見た。	He glanced at his watch.		
+PV008S009	1	8	どうして私をじろじろ見ているの?	Why are you staring at me?		
+PV008S010	1	8	彼女はそのダイヤの指輪をじっと見た。	She gazed at the diamond ring.		
+PV008S011	1	8	私を怒らないで。	Don't get angry at me.		
+PV008S012	1	8	怒鳴ることはないでしょ。	You don't have to shout at me.		
+PV008S013	1	8	彼はその知らせに驚いた。	He was surprised at the news.		
+PV008S014	1	8	犬が私のカバンのにおいをくんくんかいでいる。	The dog is sniffing at my bag.		
+PV008S015	1	8	私に指をささないで。	Don't point your finger at me.		
+PV008S016	1	8	彼は銃で的を狙った。	He aimed a gun at the target.		
+PV008S017	1	8	猟師は鳥を狙い撃ちした。	The hunter shot at a bird.		
+PV008S018	1	8	私の年齢を推測できますか。	Can you make a guess at my age?		
+PV008S019	1	8	彼はボールに飛びつこうとした。	He caught at the ball.		
+PV008S020	1	8	何を言いたいの?	What are you driving at?		
+PV009S001	1	9	独り立ちがしたい。	I want to stand on my own feet.		
+PV009S002	1	9	成功は君の努力次第だ。	Success depends on your effort.		
+PV009S003	1	9	仕事に集中しなさい。	Concentrate on your work.		
+PV009S004	1	9	雨がどんどん降り続いている。	It is raining on and on.		
+PV009S005	1	9	昨日、彼を訪れた。	I called on him yesterday.		
+PV009S006	1	9	試着してもいいですか。	Can I try it on?		
+PV009S007	1	9	私を当てにしてもいい。	You can rely on me.		
+PV009S008	1	9	牛は草を常食とする。	Cows feed on grass.		
+PV009S009	1	9	彼は低収入で生活している。	He lives on a small income.		
+PV009S010	1	9	それは実話に基づいている。	It is based on a true story.		
+PV009S011	1	9	ロープにしっかりつかまりなさい。	Hang on to the rope.		
+PV009S012	1	9	雨が降ったりやんだりしている。	It's raining off and on.		
+PV010S001	1	10	その都市は東京の北方にある。	The city lies to the north of Tokyo.		
+PV010S002	1	10	彼は車で会社に行く。	He goes to work by car.		
+PV010S003	1	10	彼は成長して医者になった。	He grew up to be a doctor.		
+PV010S004	1	10	ジャイアンツはドラゴンズに10対1で勝った。	"The Giants defeated the Dragons, 10 to 1."		
+PV010S005	1	10	私の言うことに耳を傾けなさい。	Listen to me.		
+PV010S006	1	10	全ての道はローマに通じる。	All roads lead to Rome.		
+PV010S007	1	10	彼の借金は百万ドルに達した。	His debts amounted to one million dollars.		
+PV010S008	1	10	あなたの提案に賛成です。	I agree to your proposal.		
+PV010S009	1	10	私はテニスクラブに所属している。	I belong to the tennis club.		
+PV010S010	1	10	自分で決めたことを最後まで貫きなさい。	Stick to your decision.		
+PV010S011	1	10	彼らは新空港の建設に反対した。	They objected to the construction of a new airport.		
+PV010S012	1	10	私はサッカーより野球が好きだ。	I prefer baseball to soccer.		
+PV011S001	1	11	私は彼にプレゼントを買った。	I bought a present for him.		
+PV011S002	1	11	これはあなたへのプレゼントです。	This is for you.		
+PV011S003	1	11	私はこの腕時計を1000ドルで買った。	I bought this watch for 1000 dollars.		
+PV011S004	1	11	プレゼントをありがとうございます。	Thank you for the present.		
+PV011S005	1	11	この国は不況に向かっている。	This country is heading for recession.		
+PV011S006	1	11	この列車は大阪行きです。	This train is bound for Osaka.		
+PV011S007	1	11	私はその法律に賛成の票を投じた。	I voted for that law.		
+PV011S008	1	11	ビールが飲みたくてたまらない。	I'm dying for a beer.		
+PV011S009	1	11	その会社は新しいCEOを探している。	That company is searching for a new CEO.		
+PV011S010	1	11	赤ちゃんは泣いてミルクを求めている。	The baby is crying for milk.		
+PV011S011	1	11	彼女の助言を求めた。	I asked for her advice.		
+PV011S012	1	11	私たちは首尾よい結果を願った。	We hoped for a successful result.		
+PV011S013	1	11	私たちは世界平和を願っている。	We wish for world peace.		
+PV011S014	1	11	彼らは彼が無事に戻って来ることを切望した。	They longed for his safe return.		
+PV011S015	1	11	彼が来るのを待った。	I waited for him to come.		
+PV011S016	1	11	その仕事に多くの人が応募した。	Many people applied for the job.		
+PV011S017	1	11	彼は塩に手を伸ばしている時に飲み物をこぼした。	He spilled his drink while reaching for the salt.		
+PV011S018	1	11	このズボンをもっと大きいのと交換してくれますか。	Could you exchange these pants for bigger ones?		
+PV011S019	1	11	バターの代わりにマーガリンが使えます。	You can substitute margarine for butter.		
+PV011S020	1	11	その車にいくら払いましたか。	How much did you pay for the car?		
+PV012S001	1	12	彼は強盗からナイフを取った。	He took the knife from the robber.		
+PV012S002	1	12	彼女はアンズでジャムを作る。	She makes jam from apricots.		
+PV012S003	1	12	ネコは寒さで震えている。	The cat shivers from cold.		
+PV012S004	1	12	その事故で私は間に合わなかった。	The accident kept me from coming in time.		
+PV012S005	1	12	その双子はそっくりで区別がつかない。	The twins are so alike I can't tell one from the other.		
+PV012S006	1	12	私の車はあなたの車とは色が違う。	My car differs from yours in color.		
+PV012S007	1	12	多くの子どもたちは飢えによって亡くなる。	Many children die from starvation.		
+PV012S008	1	12	彼はうつ病に苦しんでいる。	He's suffering from depression.		
+PV012S009	1	12	その事故はドライバーの不注意の結果起こった。	The accident resulted from the driver's carelessness.		
+PV012S010	1	12	たばこはご遠慮ください。	Please refrain from smoking.		
+PV012S011	1	12	台風のために列車は時間通り到着できなかった。	The typhoon prevented the train from arriving on time.		
+PV012S012	1	12	法律で未成年の飲酒を禁止している。	The law prohibits minors from drinking.		
+PV013S001	1	13	このビールは無料です。	This beer is free of charge.		
+PV013S002	1	13	彼らはお互いに影響を受けることなく同じ結論に達した。	They came to the same conclusion independent of each other.		
+PV013S003	1	13	この机は木でできている。	This desk is made of wood.		
+PV013S004	1	13	私はいつもあなたのことを思っています。	I always think of you.		
+PV013S005	1	13	アメリカは50州から成り立つ。	America consists of 50 states.		
+PV013S006	1	13	噂をすれば影が差す。	"Speak of the devil, and he'll soon appear."		
+PV013S007	1	13	その後、彼の噂を聞かなかった。	I heard nothing of him after that.		
+PV013S008	1	13	彼はいつも何かに不平を言っている。	He's always complaining of something.		
+PV014S001	1	14	コーヒーに砂糖を入れますか。	Do you want some sugar with your coffee?		
+PV014S002	1	14	強盗は銃で店員を脅した。	The robber threatened the clerk with a gun.		
+PV014S003	1	14	私はあなたに賛成です。	I agree with you.		
+PV014S004	1	14	彼はいつも妻と口論ばかりしている。	He's always quarreling with his wife.		
+PV014S005	1	14	グラスはワインで満たされている。	The glass is filled with wine.		
+PV014S006	1	14	山は雪で覆われている。	The mountain is covered with snow.		
+PV014S007	1	14	バスは乗客で混み合っている。	The bus is crowded with passengers.		
+PV014S008	1	14	彼らは武器を装備していた。	They were equipped with weapons.		
+PV014S009	1	14	その部屋はベッドとソファが備え付けられている。	The room is furnished with a bed and a sofa.		
+PV014S010	1	14	彼は賞を贈呈された。	He was presented with an award.		
+PV014S011	1	14	彼は扱いにくい人だ。	He's a difficult person to deal with.		
+PV014S012	1	14	牛は私たちに牛乳を供給する。	Cows provide us with milk.		
+PV014S013	1	14	彼は庭にチューリップを植えた。	He planted the garden with tulips.		
+PV014S014	1	14	彼らは石炭を石油に替えた。	They replaced coal with oil.		
+PV014S015	1	14	油は水と混ざらない。	Oil does not mix with water.		
+PV014S016	1	14	私はインドの友達と文通している。	I correspond with a friend in India.		
+PV015S001	1	15	そのオーケストラは小澤征爾によって指揮された。	The orchestra was conducted by Ozawa Seiji.		
+PV015S002	1	15	「通勤方法は何ですか」「電車で通勤します」	How do you go to work? - I go to work by train.		
+PV015S003	1	15	ニュースは別として、テレビをめったに見ません。	"I seldom watch TV, aside from news."		
+PV015S004	1	15	その箱をわきにどけてくれますか。	Will you move that box aside?		
+PV015S005	1	15	子どもたちが走って通り過ぎるのが見えた。	I saw children running by.		
+PV015S006	1	15	家に帰る途中に立ち寄ってください。	Come by on your way home.		
+PV015S007	1	15	あのコンビニにちょっと寄ってもいい?	Can I stop by at that convenience store?		
+PV015S008	1	15	将来のためにこの金を取っておきます。	I'Il set this money aside for the future.		
+PV015S009	1	15	私が通れるように彼はわきに寄った。	He stepped aside for me to pass.		
+PV015S010	1	15	彼はメガネをわきに置いた。	He laid aside his glasses.		
+PV015S011	1	15	将来のためにこのお金を取っておいたほうがいでしょう。	You should lay aside this money for the future.		
+PV015S012	1	15	彼は人々を肘で押しのけた。	He elbowed people aside.		
+PV016S001	1	16	車は壁に衝突した。	The car crashed into the wall.		
+PV016S002	1	16	ジャズにはまっています。	I'm into jazz.		
+PV016S003	1	16	詳しく説明している時間はない。	I don't have time to go into detail.		
+PV016S004	1	16	皿は粉々に割れた。	The plate broke into pieces.		
+PV016S005	1	16	昨日、元カノに偶然会った。	I bumped into my ex-girlfriend yesterday.		
+PV016S006	1	16	スーツに着替えます。	I'II change into a suit.		
+PV016S007	1	16	氷は溶けて水になった。	The ice melted into water.		
+PV016S008	1	16	母はケーキを5個に分けた。	Mother divided the cake into five.		
+PV016S009	1	16	この文を中国語に翻訳できますか。	Can you translate this sentence into Chinese?		
+PV016S010	1	16	クラスのみんなが先生の冗談に突然笑い出した。	The class burst into laughter at the teacher's joke.		
+PV016S011	1	16	彼の会社は大企業に成長した。	His business grew into a big company.		
+PV016S012	1	16	彼を説得して禁煙させた。	I talked him into giving up smoking.		
+PV017S001	1	17	彼はモネ風の絵を描く。	He paints pictures after Monet.		
+PV017S002	1	17	彼らは来る日も来る日も仕事を続けた。	They continued the work day after day.		
+PV017S003	1	17	バターと一緒にミルクをスープに加えます。	Add milk along with butter to the soup.		
+PV017S004	1	17	彼の家は図書館の向かいにある。	His house is across the street from the library.		
+PV017S005	1	17	警察官はそのスリを追いかけた。	The police officer chased after the pickpocket.		
+PV017S006	1	17	彼は真実を追い求め続けた。	He continued to seek after the truth.		
+PV017S007	1	17	父は有名な俳優にちなんで私に名前をつけた。	My father named me after a famous actor.		
+PV017S008	1	17	この道を進んでください。	Go along this street.		
+PV017S009	1	17	やっていくうちに遅れを取り戻せるよ。	You'll make it up as you go along.		
+PV017S010	1	17	あなたの提案には賛成できません。	I can't go along with your proposal.		
+PV017S011	1	17	私も一緒に行きます。	"I'Il come along, too."		
+PV017S012	1	17	空港で偶然彼に会った。	I ran across him at the airport.		
+PV018S001	1	18	ポケットから手を出しなさい。	Take your hands out of your pockets.		
+PV018S002	1	18	危険な状態から脱している。	We are out of danger.		
+PV018S003	1	18	この列車は銀座まで乗り換えなしで行きます。	This train goes through to Ginza.		
+PV018S004	1	18	この店は月曜日から土曜日までやっています。	This shop is open Monday through Saturday.		
+PV018S005	1	18	彼は私からお金をだまし取った。	He cheated me out of my money.		
+PV018S006	1	18	彼を説得して彼女との結婚を思いとどまらせた。	I talked him out of marrying her.		
+PV018S007	1	18	その船は見えなくなった。	The ship went out of sight.		
+PV018S008	1	18	私のことに関わらないで。	Stay out of my business.		
+PV018S009	1	18	報告書を全部読みましたか。	Have you read the report through?		
+PV018S010	1	18	彼の嘘を見抜けなかった。	I couldn't see through his lies.		
+PV018S011	1	18	この仕事を最後までやり通したい。	I want to see this job through.		
+PV018S012	1	18	テムズ川はロンドンを貫流している。	The Thames flows through London.		
+PV019S001	1	19	彼はネコに関する本をたくさん書いています。	He writes many books about cats.		
+PV019S002	1	19	その岩は今にも落ちそうだ。	That rock is about to fall.		
+PV019S003	1	19	世界一周旅行をしたい。	I want to travel around the world.		
+PV019S004	1	19	その角を曲がってください。	Turn around the corner.		
+PV019S005	1	19	何について話しているのですか。	What are you talking about?		
+PV019S006	1	19	何のことを考えているのですか。	What are you thinking about?		
+PV019S007	1	19	彼は日本の経済について話をした。	He spoke about Japan's economy.		
+PV019S008	1	19	そのネコはお腹がへるとやって来る。	That cat comes around when it's hungry.		
+PV019S009	1	19	彼のオフィスに立ち寄った。	I went around to his office.		
+PV019S010	1	19	書店をぶらぶらした。	I hung around the bookshop.		
+PV019S011	1	19	今日の午後はぶらぶら見て回ります。	I'll shop around this afternoon.		
+PV019S012	1	19	子どもたちは公園で遊びまわっている。	The kids are running around in the park.		
+PV020S001	1	20	彼は振り返って私を見た。	He looked back at me.		
+PV020S002	1	20	過去は振り向くな、前進あるのみ。	Don't look back; just keep moving forward.		
+PV020S003	1	20	次の試合を楽しみにしている。	I look forward to the next game.		
+PV020S004	1	20	ジャイアンツは3回でリードしている。	The Giants are ahead in the third inning.		
+PV020S005	1	20	あとでかけ直します。	I'II call you back later.		
+PV020S006	1	20	後ろへ下がってください。	Please step back.		
+PV020S007	1	20	彼は賞を受けるために前に出た。	He stepped forward to receive the prize.		
+PV020S008	1	20	でしゃばるな。	Don't put yourself forward.		
+PV020S009	1	20	時計を5秒早めた。	I put my watch forward 5 seconds.		
+PV020S010	1	20	どうぞお先に。	Go ahead.		
+PV020S011	1	20	「トイレを借りてもいいですか」「ええ、どうぞ」	"Can I use the restroom? - Yes, go ahead."		
+PV020S012	1	20	お祭りは予定通り行われる。	The festival will go ahead as planned.		
+PV021S001	1	21	私はアリスと一緒に仕事をしている。	I work together with Alice.		
+PV021S002	1	21	みんなで一緒に歌を歌いましょう。	Let's sing a song together.		
+PV021S003	1	21	私は両親とは別々に暮らしている。	I live apart from my parents.		
+PV021S004	1	21	兄と私は5歳離れている。	My brother and I are five years apart.		
+PV021S005	1	21	今夜、集まろう。	Let's get together tonight.		
+PV021S006	1	21	私たちは結婚する前から同棲していた。	We lived together before we got married.		
+PV021S007	1	21	このネクタイとこのスーツは合っている。	This tie and this suit go together.		
+PV021S008	1	21	両国はこの問題に関して1つにまとまった。	Those two countries came together on this issue.		
+PV021S009	1	21	その国は崩壊するだろう。	The country is going to fall apart.		
+PV021S010	1	21	彼はラジオを分解できる。	He can take the radio apart.		
+PV021S011	1	21	彼は敵に楽勝した。	He took apart his opponent.		
+PV021S012	1	21	その双子の姉妹を見分けられますか。	Can you tell those twin sisters apart?		
+PV022S001	1	22	「夕食の準備ができましたよ。」「今行きます。」	Dinner's ready. - I'm coming.		
+PV022S002	1	22	バスが来ました。	Here comes our bus.		
+PV022S003	1	22	私の夢はついに実現した。	At last my dream came true.		
+PV022S004	1	22	患者の熱は平熱に下がった。	The patient's temperature came down to normal.		
+PV022S005	1	22	このポテトはどこで採れたものですか。	Where do these potatoes come from?		
+PV022S006	1	22	息子はマラソンで2着に入った。	My son came in second in the marathon.		
+PV022S007	1	22	暇な時に、来てほしいのですが。	I'd like you to come over when you are free.		
+PV022S008	1	22	それは私の頭に浮かんだ最初の考えだった。	It was the first idea that came into my mind.		
+PV022S009	1	22	どうしてこんな状態になったのですか。	How did such a situation come about?		
+PV022S010	1	22	今朝、偶然ジェーンに会った。	I came across Jane by chance this morning.		
+PV022S011	1	22	ご一緒してもいいですか。	Can I come along with you?		
+PV022S012	1	22	コートのボタンが取れちゃった。	A button has come off my coat.		
+PV022S013	1	22	さあ行こう!遅れちゃうよ。	Come on! We'll be late.		
+PV022S014	1	22	彼の新作は間もなく発売されます。	His new book is coming out soon.		
+PV022S015	1	22	いい考えを思いついた。	I came up with a good idea.		
+PV022S016	1	22	通ります。	"Coming through, please."		
+PV022S017	1	22	このアンティークの時計、どうやって手に入れたの?	How did you come by this antique watch?		
+PV022S018	1	22	出世したい。	I want to come up in the world.		
+PV022S019	1	22	かわいいネコが私に近づいてきた。	A cute cat came up to me.		
+PV022S020	1	22	ここまで降りてきてくれる?	Will you come down here?		
+PV023S001	1	23	チーズはどこへ消えた?	Where has the cheese gone?		
+PV023S002	1	23	そろそろおいとましなくては。	I must be going now.		
+PV023S003	1	23	彼は30歳で頭がはげた。	He went bald at 30.		
+PV023S004	1	23	仕事を辞めるつもりです。	I'm going to quit my job.		
+PV023S005	1	23	警察はその車を追っている。	The police are going after the car.		
+PV023S006	1	23	みんなに行き渡るだけのケーキがあります。	We have enough cake to go around.		
+PV023S007	1	23	痛いの痛いの飛んで行け!	"Pain, pain, go away!"		
+PV023S008	1	23	(エレベーターに乗る際に)下ですか。	Going down?		
+PV023S009	1	23	その船は海に沈んだ。	The ship went down into the sea.		
+PV023S010	1	23	地震でビルが倒れた。	The earthquake made the building go down.		
+PV023S011	1	23	物価が上がっている。	Prices are going up.		
+PV023S012	1	23	知らない人が彼に近づいた。	A stranger went up to him.		
+PV023S013	1	23	ダンプカーが通り過ぎて行った。	A dump truck went by.		
+PV023S014	1	23	昼食に出ましょうか。	How about going out to lunch?		
+PV023S015	1	23	1ヵ月、ナンシーと付き合ってます。	I've been going out with Nancy for a month.		
+PV023S016	1	23	白ワインは魚に合う。	White wine goes with fish.		
+PV023S017	1	23	彼は私のお金を全部持ち逃げした。	He went off with all my money.		
+PV023S018	1	23	アラームが鳴った。	The alarm went off.		
+PV023S019	1	23	電気が消えた。	The lights went off.		
+PV023S020	1	23	彼はアメリカに渡った。	He went over to America.		
+PV023S021	1	23	試験前にノートを復習しないと。	I have to go over my notes before the exam.		
+PV023S022	1	23	その少年は自転車に乗り続けた。	The boy went on riding his bike.		
+PV023S023	1	23	時が速く経過した。	Time went on quickly.		
+PV023S024	1	23	その法案は大差で可決した。	The bill went through with a big majority.		
+PV023S025	1	23	彼は多くの困難を経験した。	He went through a lot of difficulties.		
+PV023S026	1	23	警察はその殺人事件の詳細を調査し始めた。	The police began to go into the details of the murder.		
+PV023S027	1	23	頑張れ!	Go for it !		
+PV023S028	1	23	そのトラックは壁に衝突した。	The truck went into the wall.		
+PV024S001	1	24	最初の角を右に曲がってください。	Turn right at the first corner.		
+PV024S002	1	24	地球は軸を中心に回っている。	The earth turns around its axis.		
+PV024S003	1	24	木の葉が紅葉している。	The leaves of the tree are turning red.		
+PV024S004	1	24	彼は昨日60歳になった。	He turned 60 yesterday.		
+PV024S005	1	24	彼はぐるりと向きを変えて私を見た。	He turned around and looked at me.		
+PV024S006	1	24	大統領は経済を好転させた。	The President has turned the economy around.		
+PV024S007	1	24	2番目の角を左に曲がってください。	Turn to the left at the second corner.		
+PV024S008	1	24	ノートを調べなさい。	Turn to your notes.		
+PV024S009	1	24	23ページを開いてください。	Turn to page 23.		
+PV024S010	1	24	彼は蛇を見て顔をそむけた。	He turned away at the sight of the snake.		
+PV024S011	1	24	後戻りはできない。	There is no turning back.		
+PV024S012	1	24	カードをひっくり返してテーブルに置いてください。	Turn over the card and place it on the table.		
+PV024S013	1	24	人質は政府に引き渡された。	The hostage was turned over to his government.		
+PV024S014	1	24	芋虫は蝶に変わる。	Caterpillars turn into butterflies.		
+PV024S015	1	24	委員会は私の提案を拒否した。	The committee turned down my proposal.		
+PV024S016	1	24	音量を下げましょうか。	Shall I turn down the volume?		
+PV024S017	1	24	トラックは幹線道路から脇道に入った。	The truck turned off the main road.		
+PV024S018	1	24	部屋を出る時は電気を消してください。	Turn off the light when leaving the room.		
+PV024S019	1	24	彼はラジオのスイッチを入れた。	He turned on the radio.		
+PV024S020	1	24	経済が上向いている。	The economy is turning up.		
+PV024S021	1	24	ズボンの丈を詰めてくれますか。	Can you turn up the hem on these pants?		
+PV024S022	1	24	音量を上げてくれますか。	Will you turn up the volume?		
+PV024S023	1	24	結局、彼女はパーティーに姿を現さなかった。	She didn't turn up at the party after all.		
+PV024S024	1	24	パーティーは大成功だった。	The party turned out to be a big success.		
+PV024S025	1	24	その工場は1日300台の車を生産する。	That factory turns out 300 cars a day.		
+PV024S026	1	24	それを裏返しなさい。→中身を出しなさい。	Turn it inside out.		
+PV024S027	1	24	それをひっくり返しなさい。	Turn it upside down.		
+PV024S028	1	24	明日、課題を提出しなければならない。	I have to turn in my assignment tomorrow.		
+PV025S001	1	25	金メダルを獲ったのは誰ですか。	Who got the gold medal?		
+PV025S002	1	25	母からクリスマスプレゼントをもらった。	I got a Christmas present from my mother.		
+PV025S003	1	25	トムから風邪をうつされた。	I got a cold from Tom.		
+PV025S004	1	25	夜中の12時に家に帰りついた。	I got home at midnight.		
+PV025S005	1	25	どうやって川を渡ればいいですか。	How can I get across the river?		
+PV025S006	1	25	彼は法を逃れる術を知っている。	He knows how to get around the law.		
+PV025S007	1	25	5時に起こしてくれますか。	Can you get me up at 5?		
+PV025S008	1	25	どうやって空港まで行けばいいですか。	How can I get to the airport?		
+PV025S009	1	25	風邪が抜けない。	I can't get over my cold.		
+PV025S010	1	25	明日までにこの仕事を終える必要がある。	I need to get through this work by tomorrow.		
+PV025S011	1	25	出て行け!	Get out!		
+PV025S012	1	25	タクシーから降りた。	I got out of the taxi.		
+PV025S013	1	25	次の駅で降ります。	I'Il get off at the next stop.		
+PV025S014	1	25	駅前でバスに乗った。	I got on the bus in front of the station.		
+PV025S015	1	25	彼の目標は出世することだ。	His aim is to get on in the world.		
+PV025S016	1	25	奥さんとはうまくいっていますか。	How are you getting along with your wife?		
+PV025S017	1	25	棚の上の本に手が届きますか。	Can you get at that book on the shelf?		
+PV025S018	1	25	その泥棒は警察の手から逃れた。	The thief got away from the police.		
+PV025S019	1	25	成功するには一生懸命に働くことだけだ。	You only have to work hard to get ahead.		
+PV025S020	1	25	伏せろ!	Get down!		
+PV025S021	1	25	仕事に集中しよう。	Let's get down to work.		
+PV025S022	1	25	泥棒は浴室の窓から侵入した。	The thief got in through the bathroom window.		
+PV025S023	1	25	列車は何時に到着しますか。	What time does the train get in?		
+PV025S024	1	25	タクシーに乗ろう。	Let's get into the taxi.		
+PV025S025	1	25	彼の息子は東大に入った。	His son got into Tokyo University.		
+PV025S026	1	25	面倒なことになるかもしれない。	We may get into trouble.		
+PV025S027	1	25	ジャズにはまっています。	I'm getting into jazz.		
+PV025S028	1	25	パジャマに着替えなさい。	Get into your pajamas.		
+PV026S001	1	26	今すぐに持って行きます。	I'Il bring it to you right now.		
+PV026S002	1	26	奥さんを連れて来てください。	Bring your wife.		
+PV026S003	1	26	食事に連れて行きますよ。	I'Il take you to dinner.		
+PV026S004	1	26	いつもパスポートを持ち歩かなければいけません。	You must always carry your passport.		
+PV026S005	1	26	彼はパリで育った。	He was brought up in Paris.		
+PV026S006	1	26	彼の無謀運転が事故を引き起こした。	His reckless driving brought about the accident.		
+PV026S007	1	26	月曜日までに本を返却してください。	Please bring back the book by Monday.		
+PV026S008	1	26	この写真を見るとたくさん楽しかったことを思い出す。	This photo brings back lots of good memories.		
+PV026S009	1	26	その会社はコンピュータの値段を下げることに決定した。	The company decided to bring down the prices of its computers.		
+PV026S010	1	26	その危機で政府は倒れた。	The crisis brought down the government.		
+PV026S011	1	26	スパイスは肉の風味を引き出している。	The spices bring out the flavor of the meat.		
+PV026S012	1	26	その出版社は1年で彼の本5冊を出版した。	The publisher brought out five of his books in one year.		
+PV026S013	1	26	泥棒が宝石を運び去った。	The thief carried away the jewels.		
+PV026S014	1	26	調子に乗らないで。	Don't get carried away.		
+PV026S015	1	26	この歌を聴くといつも子どもの頃を思い出す。	This song always carried me back to my childhood.		
+PV026S016	1	26	彼らは試合の最後の瞬間に勝ちをさらって行った。	They carried off the win in the last minute of the game.		
+PV026S017	1	26	警察は調査を続けた。	The police carried on with the investigation.		
+PV026S018	1	26	彼はその計画を遂行した。	He carried out the plan.		
+PV026S019	1	26	この討論は昼食後に持ち越しましょう。	Let's carry over this discussion after lunch.		
+PV026S020	1	26	彼は約束を果たさなかった。	He didn't carry through with his promise.		
+PV027S001	1	27	「これ、どこに置けばいいですか。」「机の上に置いてください。」	Where should I put this? - Please put it on the desk.		
+PV027S002	1	27	忘れずに切手を貼ってください。	Don't forget to put a stamp on it.		
+PV027S003	1	27	テーブルにお皿を並べてくれる?	Will you set the plates on the table?		
+PV027S004	1	27	太陽が水平線の向こうに沈んだ。	The sun set beyond the horizon.		
+PV027S005	1	27	まさかの時のために、そのお金は取っておいたほうがいい。	You should put the money aside for a rainy day.		
+PV027S006	1	27	仕事をちょっと中断して私の言うことを聞いて。	Put your work aside for a minute and listen to me.		
+PV027S007	1	27	おもちゃを片付けなさい。	Put your toys away.		
+PV027S008	1	27	元あった場所に戻しなさい。	Put it back where it was.		
+PV027S009	1	27	演奏日は次の日曜日に延期された。	The performance date has been put back to next Sunday.		
+PV027S010	1	27	彼は10ページにしおりをはさんだ。	He put in a bookmark at page 10.		
+PV027S011	1	27	「賛成できません」と彼女は口をはさんだ。	"I disagree, she put in."		
+PV027S012	1	27	その文を英語に翻訳しなさい。	Put the sentence into English.		
+PV027S013	1	27	彼はその計画に大金をつぎ込んだ。	He put a lot of money into the project.		
+PV027S014	1	27	模型飛行機の組み立てが好きです。	I like putting model planes together.		
+PV027S015	1	27	用紙に名前を書いてお待ちください。	Will you put your name down for a table and wait?		
+PV027S016	1	27	暴動は警察に鎮圧された。	The riot was put down by the police.		
+PV027S017	1	27	彼は1000ドルの内金を払った。	He put down a deposit of 1000 dollars.		
+PV027S018	1	27	外に出る時はコートを着なさい。	Put your coat on when you go out.		
+PV027S019	1	27	最近、体重が増えました。	I've put on weight recently.		
+PV027S020	1	27	パスタを作り始めましょうか。	Shall I put the pasta on?		
+PV027S021	1	27	質問がある時は手を挙げてください。	Put your hand up when you have a question.		
+PV027S022	1	27	友達が私をその晩泊めてくれた。	My friends put me up for the night.		
+PV027S023	1	27	彼は昇進を推薦された。	He was put up for a promotion.		
+PV027S024	1	27	彼の傲慢さに我慢しなければならなかった。	I had to put up with his arrogance.		
+PV027S025	1	27	社長さんにつないでください。	Please put me through to the president.		
+PV027S026	1	27	彼はタバコを消した。	He put the cigarette out.		
+PV027S027	1	27	歯医者に行くのを来週の月曜日に延期した。	I put off going to the dentist until next Monday.		
+PV027S028	1	27	彼らはヨーロッパ旅行に出かけた。	They set off on a trip to Europe.		
+PV027S029	1	27	私たちはビーチで花火の打ち上げを楽しんだ。	We enjoyed setting off fireworks on the beach.		
+PV027S030	1	27	梅雨が始まった。	The rainy season has set in.		
+PV027S031	1	27	彼女は弁護士業を始めた。	She set out to build a law practice.		
+PV027S032	1	27	彼はパリに向かって出発した。	He set out for Paris.		
+PV027S033	1	27	仕事に取り掛かる時だ。	It's time to set about our work.		
+PV027S034	1	27	警察はニューヨークへ通じる道路にバリケードを立てた。	The police set up a roadblock to New York.		
+PV027S035	1	27	彼は新会社を設立した。	He set up a new business.		
+PV028S001	1	28	犬のしっぽを引っ張ってはだめです。	Don't pull the dog by its tail.		
+PV028S002	1	28	駅までの地図を描いてくれますか。	Will you draw me a map to the station?		
+PV028S003	1	28	後ろの人たち、押すのはやめてくれ。	"People at the back, stop pushing."		
+PV028S004	1	28	ワインを作るのにブトウが絞られる。	Grapes are pressed to make wine.		
+PV028S005	1	28	日よけを下げてくれますか。	Will you pull down the shade?		
+PV028S006	1	28	ベルリンの壁はとうとう取り壊された。	The Berlin Wall was finally pulled down.		
+PV028S007	1	28	兵士たちは後退するように言われた。	The soldiers were told to pull back.		
+PV028S008	1	28	列車は予定通りに着いた。	The train pulled in on schedule.		
+PV028S009	1	28	彼はギャンブルで大金を稼いだ。	He pulled in a lot of money by gambling.		
+PV028S010	1	28	靴を引っ張って脱がないで。	Don't pull off your shoes.		
+PV028S011	1	28	彼は勝利を勝ち取った。	He pulled off the win.		
+PV028S012	1	28	僕のTシャツを引っ張って着ないで。	Don't pull on my T-shirt.		
+PV028S013	1	28	虫歯を抜いてもらった。	I had a cavity pulled out.		
+PV028S014	1	28	危ない!車が出て来るよ。	Watch out! There's a car pulling out.		
+PV028S015	1	28	車をわきに寄せなさい!	Pull over!		
+PV028S016	1	28	花を引き抜かないでください。	Don't pull up the flowers.		
+PV028S017	1	28	イスを持って来て私の隣に座ってください。	Pull up a chair and sit next to me.		
+PV028S018	1	28	彼はホテルの前に車を停めた。	He pulled up his car in front of the hotel.		
+PV028S019	1	28	彼は必ず乗り切ってくれるだろう。	He will definitely pull through.		
+PV028S020	1	28	彼らはお互いの利益のために一致協力した。	They pulled together for their mutual interest.		
+PV028S021	1	28	ATMから現金を引き出した。	I drew out cash from the ATM.		
+PV028S022	1	28	彼らは契約書を作成した。	They drew up the contract.		
+PV028S023	1	28	イスを引き寄せてください。	Draw up a chair.		
+PV028S024	1	28	彼は蛇を見て後ずさりした。	He drew back at the sight of a snake.		
+PV028S025	1	28	彼はいつも部下たちをこき使っている。	He's always pushing his men around.		
+PV028S026	1	28	出発する時間です。	It's time to push off.		
+PV028S027	1	28	彼はテーブルとイスをひっくり返した。	He pushed over the table and the chairs.		
+PV028S028	1	28	大統領はその法案を通過させた。	The President pushed the bill through.		
+PV028S029	1	28	彼は怒りを忘れようとした。	He pushed aside his anger.		
+PV028S030	1	28	彼らはその計画をどんどん進めた。	They pushed forward with the project.		
+PV028S031	1	28	インフレが物価を20%押し上げた。	Inflation pushed up prices 20%.		
+PV028S032	1	28	多くの従業員が職場を解雇された。	Many employees were pushed out of their jobs.		
+PV028S033	1	28	仕事をどんどん進めよう。	Let's press on with our work.		
+PV028S034	1	28	彼らは法律の改正を強く求めた。	They pressed for a change in the law.		
+PV028S035	1	28	あなたの考えを私に押し付けないで。	Don't press your views on me.		
+PV028S036	1	28	ファンの群衆が狭いコンサート会場に押し寄せた。	The crowd of fans pressed into the small concert hall.		
+PV029S001	1	29	彼はドアを開けたままにした。	He kept the door open.		
+PV029S002	1	29	ちょっとバッグを預かってくれますか。	Can you keep my bag for a moment?		
+PV029S003	1	29	彼はドアを開けたままにした。	He held the door open.		
+PV029S004	1	29	彼はドアを開けっぱなしにした。	He left the door open.		
+PV029S005	1	29	後ろに下がって!トラックが来るよ。	Keep back! There's a truck coming.		
+PV029S006	1	29	彼は涙を堪えようとした。	He tried to keep back his tears.		
+PV029S007	1	29	洪水を制止するために防御壁が建てられた。	They built barriers to keep back the flood water.		
+PV029S008	1	29	伏せろ!彼らは君を狙っているぞ。	Keep down! They are shooting at you.		
+PV029S009	1	29	声を小さくしてください。	Please keep your voice down.		
+PV029S010	1	29	芝生に立ち入り禁止。	Keep off the grass.		
+PV029S011	1	29	立入禁止!	Keep out!		
+PV029S012	1	29	好景気は1年間続いた。	The economic boom kept up for a year.		
+PV029S013	1	29	私たちは彼に遅れずについていけるように速く歩いた。	We walked fast to keep up with him.		
+PV029S014	1	29	彼は文句を言い続けた。	He kept on complaining.		
+PV029S015	1	29	彼は1ヵ月間投獄された。	He was kept in prison for a month.		
+PV029S016	1	29	その事故は私が時間通りに来ることを妨げた。→その事故で私は時間通りに来られなかった。	The accident kept me from coming on time.		
+PV029S017	1	29	1日1個のリンゴは医者を遠ざける。→1日1個のリンゴで医者いらず。	An apple a day keeps the doctor away.		
+PV029S018	1	29	その崖に近づかないように。	Keep away from the cliff.		
+PV029S019	1	29	左側通行。	Keep to the left.		
+PV029S020	1	29	その秘密は誰にも話しません。	I'II keep the promise to myself.		
+PV029S021	1	29	手を上げろ。	Hold up your hands.		
+PV029S022	1	29	2人の武器を持った男が銀行を襲った。	Two armed men held up the bank.		
+PV029S023	1	29	涙を堪えることができなかった。	I couldn't hold back my tears.		
+PV029S024	1	29	店のオーナーは強盗を取り押さえた。	The shop owner held down the robber.		
+PV029S025	1	29	彼は決定を先延ばしにした。	He held off making a decision.		
+PV029S026	1	29	少々お待ちください。	Can you hold on a moment?		
+PV029S027	1	29	つり革にしっかりつかまって。	Hold on to the strap.		
+PV029S028	1	29	政府はインフレ率を低く抑えようとした。	The government tried to hold down inflation.		
+PV029S029	1	29	両手の手のひらを出して。	Hold out your palms.		
+PV029S030	1	29	水の供給はあまり長続きしないでしょう。	Water supplies won't hold out much longer.		
+PV029S031	1	29	彼は感情を抑えることができない。	He can't hold in his emotions.		
+PV029S032	1	29	来週まで決定を延期しましょう。	Let's hold over deciding until next week.		
+PV029S033	1	29	この単語は省略してもいいでしょう。	You can leave out this word.		
+PV029S034	1	29	もうこの討論はやめましょう。	Let's leave off this discussion for now.		
+PV029S035	1	29	残り物がたくさんある。	We have lots of food left over.		
+PV029S036	1	29	明日、パリに向かう予定です。	I'm leaving for Paris tomorrow.		
+PV030S001	1	30	(店で)これにします。	I'Il take this one.		
+PV030S002	1	30	彼は私の腕をつかんだ。	He took me by the arm.		
+PV030S003	1	30	君にご褒美をあげよう。	I'II give you a reward.		
+PV030S004	1	30	ご褒美を君にあげよう。	I'Il give a reward to you.		
+PV030S005	1	30	あなたを保守的な人だと思っていました。	I took you for a conservative.		
+PV030S006	1	30	あなたはお母さんに似ています。	You take after your mother.		
+PV030S007	1	30	この薬を飲んだら痛みがなくなった。	The medicine took my pain away.		
+PV030S008	1	30	これを持ち帰りできますか。	Can I take this away?		
+PV030S009	1	30	この本を図書館に返します。	I'Il take this book back to the library.		
+PV030S010	1	30	私が言ったことを撤回します。	I take back what I said.		
+PV030S011	1	30	ポスターを全部はがさなければ。	I must take down all the posters.		
+PV030S012	1	30	彼は私が言ったこと全てを書き留めた。	He took down everything I said.		
+PV030S013	1	30	外に出て新鮮な空気を吸おう。	Let's go out and take in some fresh air.		
+PV030S014	1	30	彼女の突然の結婚のニュースを理解できません。	I can't take in the news that she suddenly got married.		
+PV030S015	1	30	この家は外国の旅行者を受け入れてくれます。	This house takes in overseas travelers.		
+PV030S016	1	30	あの販売員にだまされたようだ。	It seems I was taken in by that salesperson.		
+PV030S017	1	30	ウエストを詰めてもらえますか。	Can you take in the waist on this skirt?		
+PV030S018	1	30	その飛行機は定刻に離陸した。	The plane took off on schedule.		
+PV030S019	1	30	靴を脱いでください。	Please take your shoes off.		
+PV030S020	1	30	1日休みを取りたい。	I want to take a day off.		
+PV030S021	1	30	10%値引きできますか。	Can you take off 10 percent?		
+PV030S022	1	30	その会社はたくさんの研修生を雇っている。	That company takes on many trainees.		
+PV030S023	1	30	彼は重い責任を負うのを恐れている。	He is afraid to take on heavy responsibilities.		
+PV030S024	1	30	彼は私を昼食に連れて行ってくれた。	He took me out to lunch.		
+PV030S025	1	30	彼はポケットからペンを取り出した。	He took a pen out of his pocket.		
+PV030S026	1	30	誰が会社を継ぎますか。	Who will take over the business?		
+PV030S027	1	30	すぐに私たちは全員彼女のことを好きになった。	We all took to her immediately.		
+PV030S028	1	30	明日、この話題を取り上げましょう。	We'll take up this topic tomorrow.		
+PV030S029	1	30	私は10歳の時にギターを始めました。	I took up the guitar when I was ten.		
+PV030S030	1	30	その植物は場所を取りすぎる。	The plants take up too much space.		
+PV030S031	1	30	すそを詰めてもらえますか。	Can you take up the hem?		
+PV030S032	1	30	彼は腕時計を分解するのが好きです。	He likes taking apart watches.		
+PV030S033	1	30	それ、彼女に返しなさい。	Give it back to her.		
+PV030S034	1	30	そんなに簡単に諦めるな。	Don't give up too easily.		
+PV030S035	1	30	おもちゃを全部手放すべきではなかった。	I shouldn't have given all my toys away.		
+PV030S036	1	30	彼は国家秘密をロシアにもらした。	He gave away state secrets to Russia.		
+PV030S037	1	30	彼は時間通りに報告書を提出した。	He gave in the reports on time.		
+PV030S038	1	30	彼女はとうとう誘惑に負けた。	She finally gave in to temptation.		
+PV030S039	1	30	この花は甘いにおいを出している。	This flower gives off a sweet smell.		
+PV030S040	1	30	私たちの食料供給は尽きた。	Our food supplies gave out.		
+PV030S041	1	30	生徒たちにこの配布物を配ってくれますか。	Can you give out these handouts to the students?		
+PV030S042	1	30	そのスピーカーはザーザーと音を出している。	That speaker gives out a buzz.		
+PV030S043	1	30	私はその泥棒を警察に引き渡した。	I gave over the thief to the police.		
+PV030S044	1	30	仕事に専念しなさい。	Give yourself over to your work.		
+PV031S001	1	31	彼女のバッグを見て。	Look at her bag.		
+PV031S002	1	31	見たが何も見えなかった。	I looked but saw nothing.		
+PV031S003	1	31	銀座に映画を見に行くのはどう?	How about going to see a movie in Ginza?		
+PV031S004	1	31	ちょっと彼女のバッグを見てて。	Watch her bag for a moment.		
+PV031S005	1	31	何かお探しですか。	Are you looking for anything?		
+PV031S006	1	31	彼は窓の外を見た。	He looked out of the window.		
+PV031S007	1	31	新聞に目を通す時間がない。	I have no time to look through the newspaper.		
+PV031S008	1	31	彼女は彼から目を背けた。	She looked away from him.		
+PV031S009	1	31	彼は振り返ることなく去った。	He left without looking back.		
+PV031S010	1	31	よく学生時代のことを振り返る。	I often look back on my school days.		
+PV031S011	1	31	ネコの世話をしてくれますか。	Can you look after my cat?		
+PV031S012	1	31	彼は下を見ないようにした。	He tried not to look down.		
+PV031S013	1	31	私は彼を軽蔑する。	I look down on him.		
+PV031S014	1	31	鏡を見てごらん。	Look in the mirror.		
+PV031S015	1	31	委員会はその件を調査した。	The committee looked into the matter.		
+PV031S016	1	31	あとで、あなたの報告書に目を通します。	I'Il look over your report later.		
+PV031S017	1	31	彼の助けを当てにした。	I looked to him for help.		
+PV031S018	1	31	空を見上げて。	Look up at the sky.		
+PV031S019	1	31	生活は上向きになってきている。	Life is looking up.		
+PV031S020	1	31	辞書でこの単語を調べなさい。	Look up this word in a dictionary.		
+PV031S021	1	31	どの生徒も佐藤先生を尊敬している。	Every student looks up to Mr. Sato.		
+PV031S022	1	31	彼らは黙って傍観していた。	They stood looking on in silence.		
+PV031S023	1	31	見ているだけです。	I'm just looking around.		
+PV031S024	1	31	気を付けて!車が来ます。	Look out! There's a car coming.		
+PV031S025	1	31	道路を渡るときは車に気を付けてください。	Look out for cars when you cross the road.		
+PV031S026	1	31	じろじろ見ないで。	Don't look me up and down.		
+PV031S027	1	31	彼らは空港まで見送りしてくれた。	They saw me off at the airport.		
+PV031S028	1	31	あなたの留守中、誰が赤ちゃんの世話をしますか。	Who will see to the baby while you are away?		
+PV032S001	1	32	こんな寒い天気に耐えられない。	I can't stand this cold weather.		
+PV032S002	1	32	壁に傘を立てかけた。	I stood my umbrella against the wall.		
+PV032S003	1	32	ホテル?シェラトンに泊まりました。	I stayed at the Hotel Sheraton.		
+PV032S004	1	32	電線に鳥が数羽止まっている。	Some birds are sitting on the electric wire.		
+PV032S005	1	32	ドアから離れてくれますか。	Will you stand back from the door?		
+PV032S006	1	32	わきに寄って、通してください。	Stand aside and let us past.		
+PV032S007	1	32	どんなことがあってもあなたを支持します。	I'II stand by you whatever happens.		
+PV032S008	1	32	TOEFLは何の略ですか。	What does TOEFL stand for?		
+PV032S009	1	32	赤い旗が青い空を背景に明るく際立っている。	The red flags stand out brightly against the blue sky.		
+PV032S010	1	32	あなたの権利のために立ち上がるべきです。	You should stand up for your rights.		
+PV032S011	1	32	彼はいじめっ子に立ち向かうことを決心した。	He decided to stand up to the bully.		
+PV032S012	1	32	裁判官は彼に証言台を降りるように命じた。	The judge ordered him to stand down.		
+PV032S013	1	32	彼はスキャンダルで辞任した。	He stood down from the scandal.		
+PV032S014	1	32	彼を監督しなくてはいけない。	I'II have to stand over him.		
+PV032S015	1	32	昨夜はすっぽかしてごめんなさい。	I'm sorry I stood you up last night.		
+PV032S016	1	32	彼はいつも何もしないで立ってしゃべっている。	He's always standing around and talking.		
+PV032S017	1	32	今日は放課後、居残ります。	I'm going to stay on after school today.		
+PV032S018	1	32	私に近づかないで。	Stay away from me.		
+PV032S019	1	32	夜遅くまで外出していてはいけません。	Don't stay out late in the evening.		
+PV032S020	1	32	彼らは徹夜した。	They stayed up in the evening.		
+PV032S021	1	32	ただ何もせずにボーッとしているのは嫌です。	I hate just sitting around.		
+PV032S022	1	32	じっくり腰を据えて将来について話し合おう。	Let's sit down and talk about our future.		
+PV032S023	1	32	背筋をまっすぐに伸ばしなさい。	Sit up straight.		
+PV032S024	1	32	帰りが遅くなるから起きて待っていない	"I'Il get back late, so don't sit up for me."		
+PV032S025	1	32	休日をゆっくりして楽しみたい。	I want to sit back and enjoy the holiday.		
+PV032S026	1	32	彼女は肖像画のモデルになっている。	She is sitting for her portrait.		
+PV032S027	1	32	その講義を聴講してもいいですか。	Can I sit in on the lecture?		
+PV032S028	1	32	じっとして彼が戻るのを待つのは嫌です。	I don't want to sit by and wait for him to come back.		
+PV033S001	1	33	通りにゴミを捨てないで。	Don't drop litter in the street.		
+PV033S002	1	33	最近、物価が急激に下がっている。	Prices are dropping these days.		
+PV033S003	1	33	葉が木々から落ちている。	The leaves are falling from the trees.		
+PV033S004	1	33	彼は滑って転んだ。	He slipped and fell down.		
+PV033S005	1	33	電車でうとうとして、乗り過ごしてしまった。	I dropped off on the train and missed my stop.		
+PV033S006	1	33	彼は大学を中退した。	He dropped out of college.		
+PV033S007	1	33	今日の午後、会社に立ち寄ってもいいですか。	Can I drop by your office this afternoon?		
+PV033S008	1	33	次の角で降ろしてくれますか。	Will you drop me off at the next corner?		
+PV033S009	1	33	いつでも立ち寄ってください。	Drop in on me anytime.		
+PV033S010	1	33	ここ数年、彼のふてぶてしい態度が原因で友達が一人ずっ去って行った。	His friends dropped away over the years because of his bad attitude.		
+PV033S011	1	33	いつでも寄ってください。	Drop over to my place any time.		
+PV033S012	1	33	兵士たちは後退せざるを得なかった。	The soldiers had to fall back.		
+PV033S013	1	33	彼には頼りにできる親戚はいなかった。	He had no relatives to fall back on.		
+PV033S014	1	33	彼は簡単に罠にはまってしまった。	He easily fell into a trap.		
+PV033S015	1	33	彼は飲酒の習慣をつけてしまった。	He fell into the habit of drinking.		
+PV033S016	1	33	私の誕生日は、今年は日曜日に当たります。	My birthday falls on a Sunday this year.		
+PV033S017	1	33	投薬で彼の髪の毛は抜け落ちた。	The medication made his hair fall out.		
+PV033S018	1	33	彼は石につまずいて転んだ。	He fell over a stone.		
+PV033S019	1	33	そんな愚かなトリックにはだまされません。	I won't fall for such a stupid trick.		
+PV033S020	1	33	彼の計画は結局失敗に終わった。	His plan fell through after all.		
+PV034S001	1	34	サンドイッチを作ってあげよう。	I'Il make you a sandwich.		
+PV034S002	1	34	その知らせは私たちを喜ばせた。	The news made us happy.		
+PV034S003	1	34	先生は生徒を立たせた。	The teacher made his student stand up.		
+PV034S004	1	34	もう1枚撮らせてください。	Let me take one more picture.		
+PV034S005	1	34	このイスは廃材でできている。	This chair is made out of scrap wood.		
+PV034S006	1	34	ワインは葡萄でできている。	Wine is made from grapes.		
+PV034S007	1	34	牛乳はチーズに加工される。	Milk is made into cheese.		
+PV034S008	1	34	泥棒は宝石類を持って逃げた。	The thief made away with the jewelry.		
+PV034S009	1	34	この商品の請求書を書いてください。	Please make out a bill for these goods.		
+PV034S010	1	34	彼が言ったことを理解できない。	I can't make out what he said.		
+PV034S011	1	34	あらいやだ!化粧するのを忘れた。	"Oh, no! I forgot to make up my face."		
+PV034S012	1	34	あなたがこの話をでっち上げましたか。	Did you make up this story?		
+PV034S013	1	34	50州がアメリカ合衆国を構成する。	There are fifty states that make up the United States.		
+PV034S014	1	34	彼女と仲直りしましたか。	Did you make up with her?		
+PV034S015	1	34	遅れを取り戻さなければならない。	I have to make up for lost time.		
+PV034S016	1	34	仕立て屋さんにズボンを直してもらった。	I had the tailor make over my pants.		
+PV034S017	1	34	その登山者は下の登山者にロープを下げた。	The climber let down the rope to the others below.		
+PV034S018	1	34	がっかりさせないで。	Don't let me down.		
+PV034S019	1	34	彼は新鮮な空気を入れるために窓を開けた。	He opened the window to let in fresh air.		
+PV034S020	1	34	彼はカゴから鳥を解放した。	He let the bird out of the cage.		
+PV034S021	1	34	この秘密はしゃべらないで。	Don't let out this secret.		
+PV034S022	1	34	彼は絶望の叫びを発した。	He let out a cry of despair.		
+PV034S023	1	34	昨日、雨は止まなかった。	The rain didn't let up yesterday.		
+PV034S024	1	34	バスは停まって乗客を降ろした。	The bus stopped to let off the passengers.		
+PV034S025	1	34	家の近くで誰かが花火を上げている。	Someone is letting off fireworks near my house.		
+PV034S026	1	34	私たちは特別な入場許可書で舞台裏に通された。	We were let through to the backstage with our special passes.		
+PV034S027	1	34	私があなたに言ったと口外しないで。	Don't let on that I told you.		
+PV034S028	1	34	彼を部屋に入れてください。	Let him into the room.		
+PV035S001	1	35	バスは15分ごとに出ている。	The buses run every fifteen minutes.		
+PV035S002	1	35	彼は靴工場を経営しています。	He runs a shoe factory.		
+PV035S003	1	35	この機械は電気で動く。	This machine works by electricity.		
+PV035S004	1	35	その映画に感動して涙ぐんでしまった。	I was moved to tears by the movie.		
+PV035S005	1	35	ネコがネズミを追いかけている。	The cat is running after a mouse.		
+PV035S006	1	35	彼は警察官を見て逃げ出した。	He ran away when he saw a police officer.		
+PV035S007	1	35	レッズが優勝を楽々と獲得した。	The Reds ran away with the championship.		
+PV035S008	1	35	階段を走って降りないでください。	Don't run down the stairs.		
+PV035S009	1	35	涙が彼の頬を流れ落ちた。	Tears started running down his cheeks.		
+PV035S010	1	35	その犬は車に引き倒された。	The dog was run down by a car.		
+PV035S011	1	35	電池が切れてしまった。	The battery has run down.		
+PV035S012	1	35	10年ぶりに旧友に偶然会った。	I ran into an old friend for the first time in ten years.		
+PV035S013	1	35	あと少しコピーさせてください。	Let me run off a few more copies.		
+PV035S014	1	35	余分なエネルギーを走って減らす必要があります。	You need to run off some of your excess energy.		
+PV035S015	1	35	彼の妻は別の男と駆け落ちした。	His wife has run off with another man.		
+PV035S016	1	35	もう帰ったほうがいいかな。雨が降りそうだから。	I must run off now. It looks like rain.		
+PV035S017	1	35	お金がなくなってきた。	My money is running out.		
+PV035S018	1	35	水がなくなりかけている。	We are running out of water.		
+PV035S019	1	35	風呂の水があふれている。	The bath water is running over.		
+PV035S020	1	35	その箱はトラックにひかれた。	The box was run over by a truck.		
+PV035S021	1	35	今夜セリフを読み返さなくては。	I have to run over my lines tonight.		
+PV035S022	1	35	コンビニまで急いで行ってきてくれる?	Can you run over to the convenience store?		
+PV035S023	1	35	大きな犬が私に駆け寄ってきた。	A big dog ran up to me.		
+PV035S024	1	35	彼の借金は200万ドルに達した。	His debt ran up to two million dollars.		
+PV035S025	1	35	彼は運動をして余分な体重を落とすことに決めた。	He decided to work off his extra weight.		
+PV035S026	1	35	何でもないことで興奮しないでよ。	Don't work yourself up over nothing.		
+PV035S027	1	35	彼女は今新しい企画に取り組んでいる。	She's working on a new project.		
+PV035S028	1	35	この薬は私には効かなかった。	This medicine didn't work on me.		
+PV035S029	1	35	私は普段は週末に運動します。	I usually work out on the weekends.		
+PV035S030	1	35	どうやってその問題を解決しましたか。	How did you work out the problem?		
+PV035S031	1	35	全てはうまくいきますよ。	Everything will work out all right.		
+PV035S032	1	35	彼は困難を克服した。	He worked through his difficulties.		
+PV035S033	1	35	(立ち止まらずに)先にお進みください。	"Move along, please."		
+PV035S034	1	35	地下鉄の建設がどんどん進んでいる。	The construction of the subway is moving along.		
+PV035S035	1	35	いつ引っ越して来るの?	When are you moving in?		
+PV035S036	1	35	いつ引っ越して行くの?	When are you moving out?		
+PV035S037	1	35	道を空けていただけますか。	Could you move out of the way?		
+PV035S038	1	35	彼は私が子どもの頃、引っ越して行った。	He moved away when I was a child.		
+PV035S039	1	35	ちょっと詰めてくれますか。	Will you move over a little?		
+PV035S040	1	35	中へお詰めください。	"Move down, please."		
+PV035S041	1	35	次の話題に移りましょう。	Let's move on to the next subject.		
+PV035S042	1	35	これが出世する最後のチャンスだ。	This is your last chance to move up in the world.		
+PV035S043	1	35	今週、ドルに対して円が値上がりした。	The yen moved up against the dollar this week.		
+PV035S044	1	35	父の仕事の都合で住居を転々とした。	We moved around a lot because of my father's job.		
+PV036S001	1	36	泥棒は窓を割った。	The thief broke the window.		
+PV036S002	1	36	一休みしてコーヒーにしよう。	Let's break for coffee.		
+PV036S003	1	36	ナイフで指を切ってしまった。	I cut my finger with a knife.		
+PV036S004	1	36	髪を短く切ってほしいのですが。	I'd like to have my hair cut short.		
+PV036S005	1	36	彼は警察官からふりほどいて逃げようとした。	He tried to break away from the police officer.		
+PV036S006	1	36	彼は離党したがっていた。	He wanted to break away from the party.		
+PV036S007	1	36	彼らはお互いが関係する古い習慣を断っことができない。	They can't break away from old habits in their relationship.		
+PV036S008	1	36	警察がドアを打ち破って家に入った。	The police broke down the door to get into the house.		
+PV036S009	1	36	私の車は道の真ん中で故障した。	My car broke down in the middle of the road.		
+PV036S010	1	36	古い偏見を乗り越えるには時間がかかる。	It takes a long time to break down old prejudices.		
+PV036S011	1	36	昨夜、私のアパートに泥棒が入った。	My apartment was broken into last night.		
+PV036S012	1	36	その子は突然泣き出した。	The child broke into tears.		
+PV036S013	1	36	おもちゃの飛行機の両翼がちぎれていた。	The wings of the toy plane had broken off.		
+PV036S014	1	36	会議は昼食休憩になった。	The meeting broke off for lunch.		
+PV036S015	1	36	彼は話の最中に急に話をやめた。	He broke off in the middle of his sentence.		
+PV036S016	1	36	昨夜、近所で大火事が起こった。	A big fire broke out in my neighborhood last night.		
+PV036S017	1	36	私は卵を食べるとじんましんが出る。	I break out in a rash when I eat eggs.		
+PV036S018	1	36	群衆は柵を打ち破った。	The crowd broke through the barrier.		
+PV036S019	1	36	太陽が雲間から現れた。	The sun broke through the clouds.		
+PV036S020	1	36	その小さな船は岩場に当たってバラバラになった。	The small boat broke up on the rocks.		
+PV036S021	1	36	会議は予定通り終わった。	The meeting broke up on schedule.		
+PV036S022	1	36	彼女といつ別れましたか。	When did you break up with her?		
+PV036S023	1	36	愚かな質問をして口をはさまないで。	Don't break in with such a stupid question.		
+PV036S024	1	36	泥棒はキッチンの窓から侵入した。	The thief broke in through the kitchen window.		
+PV036S025	1	36	彼はチェーンソーで木を切り倒している。	He's cutting down a tree with a chainsaw.		
+PV036S026	1	36	彼はコーヒーとたばこの量を減らそうと決心した。	He decided to cut down on coffee and cigarettes.		
+PV036S027	1	36	私たちの会話に口をはさまないで。	Don't cut in on our conversation.		
+PV036S028	1	36	彼は枯れ枝を切り取っている。	He is cutting away the dead branches.		
+PV036S029	1	36	ケーキを一切れ切ってくれますか。	Can you cut off a piece of cake for me?		
+PV036S030	1	36	水の供給が止まっている。	The water supply has been cut off.		
+PV036S031	1	36	私は新聞の写真を切り取った。	I cut out my photo from the newspaper.		
+PV036S032	1	36	彼らは森を通る道を切り開いていた。	They were cutting out a path through the forest.		
+PV036S033	1	36	彼女は教師に向いている。	She is cut out to be a teacher.		
+PV036S034	1	36	このニンジンをみじん切りにしてくれますか。	Will you cut up these carrots?		
+PV036S035	1	36	私たちは公園を横切って近道をした。	We cut across the park.		
+PV036S036	1	36	私たちは森を突っ切って進んだ。	We cut through the forest.		
+PV037S001	1	37	塩を取ってくれますか。	Will you pass me the salt?		
+PV037S002	1	37	一日中読書で時間をつぶした。	I passed the time reading all day.		
+PV037S003	1	37	ダンプカーが私の車を追い抜いた。	A dump truck passed my car.		
+PV037S004	1	37	彼は私に赤ちゃんを手渡した。	He handed me the baby.		
+PV037S005	1	37	父は58歳で亡くなった。	My father passed away at age 58.		
+PV037S006	1	37	パレードが通り過ぎるのが見えた。	I saw a parade passing by.		
+PV037S007	1	37	君は18歳で通ると思います。	I think you'd pass for 18.		
+PV037S008	1	37	次の話題に進みましょう。	Let's pass on to the next subject.		
+PV037S009	1	37	彼は熱中症で意識を失った。	He passed out from heatstroke.		
+PV037S010	1	37	彼のコメントは無視したほうがいいでしょう。	We'd better pass over his remark.		
+PV037S011	1	37	若い時にたくさんの苦労を経験したほうがいいですよ。	You should pass through many difficulties while young.		
+PV037S012	1	37	こんなチャンスを逃してはだめです。	Don't pass up a chance like this.		
+PV037S013	1	37	クッキーを回してください。	Please pass around the cookies.		
+PV037S014	1	37	彼が通りでチラシを配っているのを見た。	I saw him handing out flyers on the street.		
+PV037S015	1	37	この物語は何世代にも渡って伝えられてきた。	This story has been handed down for generations.		
+PV037S016	1	37	彼にその辞書を戻しました。	I handed the dictionary back to him.		
+PV037S017	1	37	裁判官は終身刑を言い渡した。	The judge handed down a life sentence.		
+PV037S018	1	37	明日までにレポートを提出しなければならない。	I have to hand in my report by tomorrow.		
+PV037S019	1	37	強盗は銃を警察官に手渡した。	The robber handed over his gun to the police officer.		
+PV037S020	1	37	彼は娘にその家を譲渡した。	He handed over the house to his daughter.		
+PV038S001	1	38	私は馬から振り落とされた。	I was thrown off the horse.		
+PV038S002	1	38	彼女は私にさっと抱きついた。	She threw her arms around me.		
+PV038S003	1	38	鳥が骨から肉をつついて取った。	The bird picked meat from the bone.		
+PV038S004	1	38	1から10までの中から1つ選んでください。	Pick a number from one to ten.		
+PV038S005	1	38	彼には浪費できるお金がたくさんある。	He has a lot of money to throw around.		
+PV038S006	1	38	通りにごみを投げ捨てるな。	Don't throw away trash on the street.		
+PV038S007	1	38	このチャンスを逃すな。	Don't throw away this chance.		
+PV038S008	1	38	この風邪がどうしても治らない。	I just can't throw off this cold.		
+PV038S009	1	38	どうしても飲酒の習慣を断つことができない。	I just can't throw off my drinking habit.		
+PV038S010	1	38	彼はシャツを脱ぎ捨てた。	He threw off his shirt.		
+PV038S011	1	38	その火山は灰と煙を出していた。	The volcano was throwing off ash and smoke.		
+PV038S012	1	38	彼は何とかパパラッチから逃れた。	He managed to throw off the paparazzi.		
+PV038S013	1	38	その火山は溶岩をはね上げていた。	The volcano was throwing up hot rocks.		
+PV038S014	1	38	吐きそうです。	I'm going to throw up.		
+PV038S015	1	38	彼は絶望して両手を上げた。→彼は絶望して諦めた。	He threw up his hands in despair.		
+PV038S016	1	38	彼は決してタオルを投げ込まないでしょう。→彼は決して降参しないでしょう。	He'll never throw in the towel.		
+PV038S017	1	38	テーブルを買ったらおまけでイスがついてきた。	I bought a table and they threw in a chair.		
+PV038S018	1	38	急いで簡単な昼食を作ります。	I'II throw together a quick lunch.		
+PV038S019	1	38	彼女はガウンをさっと着た。	She threw on her gown.		
+PV038S020	1	38	彼は仕事場から追い出された。→彼は失業した。	He was thrown out of work.		
+PV038S021	1	38	この木からリンゴをもぎ取るな。	Don't pick any apples off this tree.		
+PV038S022	1	38	好きなものならどんなフルーツでも選べます。	You can pick out any fruit you like.		
+PV038S023	1	38	彼は床に落ちていた札入れを拾った。	He picked up a wallet from the floor.		
+PV038S024	1	38	午後3時に迎えに来てくれますか。	Will you pick me up at 3 p.m .?		
+PV038S025	1	38	彼は1年でフランス語を身に付けた。	He picked up French in a year.		
+PV038S026	1	38	彼はパーティでナンパしようとした。	He tried to pick up a girl at a party.		
+PV038S027	1	38	最近、景気が回復しつつある。	The economy is picking up these days.		
+PV038S028	1	38	帰宅途中に牛乳を買ってきてくれる?	Can you pick up some milk on your way home?		
