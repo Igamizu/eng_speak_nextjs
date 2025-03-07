@@ -51,6 +51,16 @@ create table if not exists ENG_SPEAK.shuraba (
     eng3 TEXT
 );
 
+create table if not exists ENG_SPEAK.toefl700 (
+    key_value VARCHAR(9) NOT NULL PRIMARY KEY,
+    cited INT NOT NULL,
+    unit INT NOT NULL,
+    japanese TEXT NOT NULL,
+    eng1 TEXT NOT NULL,
+    eng2 TEXT,
+    eng3 TEXT
+);
+
 create table if not exists ENG_SPEAK.state_slot (
     id VARCHAR(255) NOT NULL PRIMARY KEY,
     matl VARCHAR(255) NOT NULL,
@@ -65,11 +75,13 @@ delete from ENG_SPEAK.pass20;
 delete from ENG_SPEAK.ex15;
 delete from ENG_SPEAK.brit;
 delete from ENG_SPEAK.shuraba;
+delete from ENG_SPEAK.toefl700;
 LOAD DATA LOCAL INFILE '/etc/mysql/giu.txt'  INTO TABLE ENG_SPEAK.giu FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/pass20.txt'  INTO TABLE ENG_SPEAK.pass20 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/ex15.txt'  INTO TABLE ENG_SPEAK.ex15 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/Brit.txt'  INTO TABLE ENG_SPEAK.brit FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 LOAD DATA LOCAL INFILE '/etc/mysql/shuraba.txt'  INTO TABLE ENG_SPEAK.shuraba FIELDS TERMINATED BY '\t' ESCAPED BY '"';
+LOAD DATA LOCAL INFILE '/etc/mysql/toefl700.txt'  INTO TABLE ENG_SPEAK.toefl700 FIELDS TERMINATED BY '\t' ESCAPED BY '"';
 
 DELETE from ENG_SPEAK.state_slot where id = 'test';
 INSERT INTO ENG_SPEAK.state_slot values ('test', 'giu', 2, 2, 1, JSON_ARRAY(

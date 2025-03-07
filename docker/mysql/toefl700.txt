@@ -1,0 +1,793 @@
+key_value	cited	unit	japanese	eng1	eng2	eng3
+TJ001S001	1	1	ビルは申込書に自分の住所を書き込んだ。	Bill put down his address on the application form.		
+TJ001S002	1	1	君は重い荷物を下に置いた方がよい。	You’d better put down your heavy baggage.		
+TJ001S003	1	1	電車が出発しそうだ。急いだ方がよい。	The train is departing. You’d better hurry.		
+TJ001S004	1	1	ミーティングの協議事項をはっきりと設定しよう。	Let’s set the agenda for the meeting once and for all.		
+TJ001S005	1	1	この大量の宿題を考えると，ロックのコンサートはまたの機会にした方が良さそうだ。	"With this load of assignments, we’d better take a rain check on the rock concert."		
+TJ001S006	1	1	学者たちは新しい進化論に反対した。	The scholars objected to the new theory of evolution.		
+TJ001S007	1	1	ジムを見下さないように。	Don’t look down on Jim.		
+TJ001S008	1	1	テリーはその事故について責任がある。	Terry is responsible for the accident.		
+TJ001S009	1	1	メアリーは，そのニュースを聞くと，突然泣きだした。	"When Mary heard the news, she burst into tears."		
+TJ001S010	1	1	この冷蔵庫はあちらのものより優れている。	This refrigerator is superior to that one.		
+TJ001S011	1	1	その女性は手を挙げてタクシーを止めようとした。	"Holding up her hand, the lady tried to stop a cab."		
+TJ001S012	1	1	トムソン教授の宿題が終わった。今日は終わりにしよう。	We just finished the assignment for Professor Thomson. Let’s call it a day.		
+TJ001S013	1	1	それは単に偶然の一致にすぎなかった。	It was nothing more than a mere coincidence. 		
+TJ001S014	1	1	ジムだけでなくケンも悪い。	Not only Jim but also Ken was to blame.		
+TJ001S015	1	1	ジョンはケンの隣に住んでいた。	John lived next to Ken. 		
+TJ001S016	1	1	彼が試験に合格するのはほとんど不可能だった。	It was next to impossible for him to pass the exam.		
+TJ001S017	1	1	この森はいろいろな種類のベリーに富んでいる。	This forest abounds in a variety of berries.		
+TJ002S001	1	2	従業員の皆さん，特に学校を出たばかりの人たちは，私たちの会社のことをもっとよく勉強してください。	"All employees should study more about our company, especially those who are fresh from school."		
+TJ002S002	1	2	君の住所を教えて。書き留めておくから。	Please let me know your address. I will write it down.		
+TJ002S003	1	2	私たちは何とか苦境を切り抜けることができた。	We could somehow break through our hardships.		
+TJ002S004	1	2	それは筋が通らないよ。君の考えは間違いだ。	It doesn’t make sense. Your idea is wrong.		
+TJ002S005	1	2	私は映画館でトムに偶然出会った。	I ran into Tom at a theater.		
+TJ002S006	1	2	この車は時代遅れだ。	This vehicle is out of date.		
+TJ002S007	1	2	彼は生計を立てるために，朝から晩まで一生懸命に働いている。	He works hard from morning till night in order to make a living.		
+TJ002S008	1	2	一方では，彼の発明は省エネに役立つだろうが，また他方では，それは兵器として利用されるかもしれない。	On the one hand his invention will save energy; on the other hand it might be used as a weapon.		
+TJ002S009	1	2	彼の理論は実験結果と一致している。	His theory is consistent with the experimental results.		
+TJ002S010	1	2	ようこそパーティーへ！お飲み物はご自由にお取りください。	Welcome to the party! Please help yourself to some drinks.		
+TJ002S011	1	2	お昼までに，曲のリストを作成してください。	Please draw up the music list by noon.		
+TJ002S012	1	2	なんて素敵な日なんだ！川沿いをぶらつかない？	What a nice day! Why don’t we mill about along the river?		
+TJ002S013	1	2	私は毎日カフェテリアの食べ物を食べなくてはならないことにうんざりしている。	I’m sick of having to eat cafeteria food every day.		
+TJ002S014	1	2	勝利を祝うためにチームのメンバーが集まった。	The team members got together to celebrate their victory.		
+TJ002S015	1	2	私は人生の困難に屈しない。	I’ll not yield to hardships in my life.		
+TJ003S001	1	3	歓迎会の準備に取りかかろう。	Let’s set about preparing for the welcome party.		
+TJ003S002	1	3	ルーズベルト大統領による財政政策は，失業率の減少に不可欠であった。	The fiscal policy done by President Roosevelt was indispensable to the reduction of the rate of unemployment.		
+TJ003S003	1	3	右に曲がって真っすぐに歩いてください。すぐに郵便局が見つかりますよ。	Turn right and walk straight. You’ll find the post office in no time.		
+TJ003S004	1	3	彼の実験は失敗に終わった。	His experiment wound up with a failure. 		
+TJ003S005	1	3	私たちはみんな，その見物人がいることを意識していた。	We were all conscious of the onlooker.		
+TJ003S006	1	3	議長はその議題を取り上げた。	The chairperson took up the agenda.		
+TJ003S007	1	3	彼はドアの方へ向かったが，開けられなかった。	"He made for the door, but he couldn’t open it. "		
+TJ003S008	1	3	彼の援助は君の成功に寄与しないだろう。	His help will not make for your success.		
+TJ003S009	1	3	元気になったどころでなく，彼女は実際は数週間入院していた。	"Far from being well, she had actually been hospitalized for weeks. "		
+TJ003S010	1	3	ジムが私たちに話したことは決して真実ではなかった。	What Jim told us was far from the truth.		
+TJ003S011	1	3	彼はアルコール中毒になっていた。	He was addicted to alcohol.		
+TJ003S012	1	3	どんなに批判が痛烈でも，トムは平静を保った。	"However hard the criticism was, Tom kept his temper."		
+TJ003S013	1	3	内閣府は，現在の不況を民間投資の欠如のせいにした。	The Cabinet Office attributed today’s recession to the lack of private investments.		
+TJ003S014	1	3	今度の金曜日までミーティングを延期していただけませんか？	Would you please put off the meeting till next Friday? 		
+TJ003S015	1	3	私はその交通事故のせいで授業に遅れた。	"Because of the traffic accident, I was late for class."		
+TJ003S016	1	3	彼らは新しい会社を設立した。その事業は大いなる成功を期待されている。	They set up a new company. The business is expected to be very successful.		
+TJ003S017	1	3	彼女は２組の双子を育てた。 	She has brought up two pairs of twins. 		
+TJ003S018	1	3	ジムは生徒会で提案を持ち出した。	Jim brought up the proposal at the student conference.		
+TJ004S001	1	4	教室がとてもうるさかったので，教授が話していたことを聞き取れさえしなかった。	The class was so noisy that I couldn’t even hear what the professor said.		
+TJ004S002	1	4	火星への訪問は，もはや単なるＳＦの話ではない。	Visiting Mars is no longer mere science fiction.		
+TJ004S003	1	4	彼から目を離さないで！薬品を誤って混合するかもしれない。	Keep an eye on him! He may mistakenly mix up the chemicals.		
+TJ004S004	1	4	私たち２人は一生懸命に研究した。その結果として，実験から十分なデータを得るのに成功した。	"Both of us worked hard. As a result, we succeeded in obtaining enough data from our experiments."		
+TJ004S005	1	4	みなさんはこの実験の結果を詳細に書き留める必要がある。	You are required to write down the results of these experimentsin detail.		
+TJ004S006	1	4	人前で彼に恥をかかせないように。	Don’t humiliate him in public.		
+TJ004S007	1	4	両親が来るんだ。部屋を片付けないといけないな。	My parents are coming. I have to straighten up my room.		
+TJ004S008	1	4	次の議題に取りかかりましょう。 	Let’s turn to the next agenda. 		
+TJ004S009	1	4	路上の雪は夜中に氷に変わった。	The snow on the road turned to ice at midnight.		
+TJ004S010	1	4	あなたの指示に従って，私たちは財産を処分した。	"In accordance with your instructions, we disposed of our property."		
+TJ004S011	1	4	大気汚染により，多くの動物が死滅した。	Many animals have died out because of air pollution.		
+TJ004S012	1	4	ご親切なアドバイスをありがとうございました。私たちは面目を保つことができました。	Thank you for your kind advice. We were able to save face.		
+TJ004S013	1	4	私はこの合格通知を切望していた。 	I’ve longed for this letter of acceptance. 		
+TJ004S014	1	4	難民たちは，祖国での生活を思いこがれていた。	The refugees longed for the life in their homeland.		
+TJ004S015	1	4	金融市場に関する全ての情報は，役に立つだろう。	All the information about the financial market will come in handy.		
+TJ004S016	1	4	工場はガス漏れで爆発した。 	The plant blew up because of a gas leakage. 		
+TJ004S017	1	4	激しい風が起こった。	A strong wind blew up.		
+TJ004S018	1	4	ジムのおじいさんはようやく病気が治った。	Jim’s grandfather finally got well.		
+TJ005S001	1	5	☆：ジム，私たちは研究室の手順を踏んでいないわ。 ★：自分のことだけ言いなよ。僕は実験着を着ているよ。	"☆：Jim, we don’t follow our lab protocol. ★：Speak for yourself. I’m the one who wears a lab coat."		
+TJ005S002	1	5	★：実家に帰るのかい？  ☆：まだ分からないわ。ここの数社に応募しているの。でも，良かれ悪しかれ，卒業の準備をしなくちゃね。	"★：Are you going back to your hometown?  ☆：I’m not sure yet. I’m applying for several companies here. But, for better or worse we have to prepare for the graduation."		
+TJ005S003	1	5	☆：ダンは，あんな態度では私たちの委員会にいられないわ。 ★：本当だね。彼は，最近の打ち合わせで協調性がないね。	☆：Dan will not remain in our committee with his attitude.  ★：Indeed. He’s been out of line in recent meetings.		
+TJ005S004	1	5	★：最近，昆虫学にかかわる仕事に興味を持っているんだ。 ☆：分かるわ。子供の時にしょっちゅう昆虫を観察していたもの。	★：I’ve recently taken an interest in a career in entomology. ☆：I know why. You frequently observed insects as a child.		
+TJ005S005	1	5	☆：このところ，隣の人が夜中にずっとピアノを弾いているの。イライラするわ！ ★：そのことを，彼に話したらどうだい？	"☆：These days, the guy next door is playing the piano all night. It gets to me! ★：Why don’t you talk to him about it?"		
+TJ005S006	1	5	☆：ああ，なんてこと！私のコンピューターがウィルスに感染したわ。私のレポートが消されていくわ！ ★：落ち着きなさい。最初に，コンピューターの電源を抜いて。	"☆：Oh, no! My computer got a virus. My paper is being deleted! ★：Get a hold of yourself. First, unplug the computer. "		
+TJ005S007	1	5	☆：新しい上司が私につらくあたるのよ。 ★：話し合いなよ。彼は実際のところ，とても理解があると聞いているから。	☆：My new boss is hard on me. ★：Why don’t you talk to him? I heard he is actually quite understanding.		
+TJ005S008	1	5	★：君の息子さんが全額支給の奨学金を取ったんだって。おめでとう。息子さんはすごい人に違いないね。 ☆：本当なのよ。一生懸命に勉強しているわ。いつも息子を誇りに思うの。	★：I hear your son won a full scholarship. Congratulations. He must be quite a person.  ☆：He sure is! He’s been studying so hard. I’m always proud of him.		
+TJ005S009	1	5	☆：公園を散歩するって本当に良い気分転換だわ。 ★：でも雨が降りそうな予感がする。宿に戻ろうよ。	"☆：Walking in the park is very refreshing. ★：Well, I have a hunch that it’ll rain soon. Let’s go back to the lodge."		
+TJ005S010	1	5	★：トムは研究グループを見つけられるかな？彼のパートナーが学校を辞めたんだ。  ☆：トムが良い学生だというのは分かっているわ。でも，形勢は彼に不利なようね。トム以外の学生はみんなプロジェクトをすでに始めているわ。	"★：Is there any chance that Tom will find a study group? His partner just left school.  ☆：I know Tom is a good student. But, the odds are against him. All of the students except Tom already started the project."		
+TJ006S001	1	6	モグラは通常夜に巣から出てくる。	Moles usually come out from their nests at night.		
+TJ006S002	1	6	君の小説はいつ出版されるのですか？	When will your novel come out?		
+TJ006S003	1	6	南軍は，激しい戦闘の後に降参した。	The South gave in after heavy fighting.		
+TJ006S004	1	6	毎朝散歩すると，良い健康状態に保てる。	Taking a walk every morning will keep you in good shape.		
+TJ006S005	1	6	そこの角で君のお父さんに偶然お会いしたよ。	I came across your father on the corner.		
+TJ006S006	1	6	彼には自分の間違いを説明するのが難しかった。	It was difficult for him to account for his mistakes.		
+TJ006S007	1	6	端的に言えば，この理論はばかげている。	"In short, this theory is nonsense."		
+TJ006S008	1	6	この新しい技術は，全体として，エネルギーと時間を節約するだろう。	This new technology will save both energy and time as a whole.		
+TJ006S009	1	6	私は実験結果について少しも気にしていない。	I don’t care about the lab result at all.		
+TJ006S010	1	6	喫煙は有害無益だ。	Smoking does you more harm than good.		
+TJ006S011	1	6	スタントン教授から口コミについて突然質問されて，私は答えられなかった。	"When Professor Stanton asked me about buzz marketing at short notice, I couldn’t give an answer."		
+TJ006S012	1	6	お金を稼げば稼ぐほど，ますます多く税金を支払わなければならない。	"The more money you make, the more taxes you have to pay.?すればするほど（ますます） …する［しなくなる］"		
+TJ006S013	1	6	私は入学試験合格に成功した。	I succeeded in passing the entrance exam.		
+TJ006S014	1	6	彼の息子は一生懸命練習し，その結果１等賞を取った。	"His son practiced very hard, so that he won first prize."		
+TJ006S015	1	6	彼はゼロから巨万の富を築き上げた。	He made a huge fortune from scratch.		
+TJ006S016	1	6	あなたからお便りがあるのを楽しみに待っています。	I’m looking forward to hearing from you.		
+TJ007S001	1	7	もし緊急の場合には，私の車をお使いください。	Please use my car in case of emergency.		
+TJ007S002	1	7	日は間もなく落ちるだろう。ガイドに遅れずについて行かなくてはならない。	The sun will set soon. We’ll have to keep up with the guide.		
+TJ007S003	1	7	マザー・テレサは貧しい人々の世話をすることに専念した。	Mother Teresa had devoted herself to caring for the poor.		
+TJ007S004	1	7	サム，泣きたい気分だよ！	"Sam, I feel like crying!"		
+TJ007S005	1	7	今夜あなたに電話をします。	I will give you a ring tonight.		
+TJ007S006	1	7	今にも雪が降りだしそうだ。	It will snow at any moment.		
+TJ007S007	1	7	キャシーは早期卒業の計画をやり通した。	Kathy went through with her plan to graduate early.		
+TJ007S008	1	7	私は音楽学校に行って，バイオリンを習ったのではないんだ。自分で覚えたんだよ。	I didn’t go to music school to learn how to play the violin. I picked it up on my own.		
+TJ007S009	1	7	多くの若者たちが夜，ここであてもなくぶらついている。	Many youngsters hang around here at night.		
+TJ007S010	1	7	ハンバーガーを買うことを，うっかり忘れてしまった。	It slipped my mind to buy the hamburger.		
+TJ007S011	1	7	もう二度とあんなことしないように！君の指導者の言いつけを心に留めなさい ！	Never do that again! Keep what your mentor told you in mind!		
+TJ007S012	1	7	彼らはそのイデオロギーから遠ざかった。	They backed away from the ideology.		
+TJ007S013	1	7	お買い上げは総額で50ドルになります。	Your purchase amounts to $50.		
+TJ007S014	1	7	その事故による損失は300万ドルに達した。	The loss caused by the accident amounted to three million dollars.		
+TJ007S015	1	7	時が経つにつれて，私たちは国土の美しさを失った。	"As time went by, we lost the beauty of our land."		
+TJ007S016	1	7	私の靴は使い古されている。	My shoes are worn out.		
+TJ007S017	1	7	もう勉強できない！私は疲れ果てています。	I can’t study anymore! I’m worn out.		
+TJ008S001	1	8	私自身がウェブサイトを作ろうが，誰かに頼もうが，私にとってはどちらでも同じことである。	It makes no difference to me whether I make the website myself or ask someone else to do it.		
+TJ008S002	1	8	メアリーが私たちの都会のコミュニティーになじむのは大変だろう。	It might be hard for Mary to fit in our urban community.		
+TJ008S003	1	8	卒業するためには，私は上級生物学コースをスケジュールに入れないといけない。	I have to fit the advanced biology course in my schedule to graduate.		
+TJ008S004	1	8	ひどい事故だったが，彼女は何とか回復すると思う。	"It was a bad accident, but I think she’ll pull through."		
+TJ008S005	1	8	２人の友人は最後には仲直りした。 	The two friends made up at last.		
+TJ008S006	1	8	この金属は２つの異なる物質から構成されている。	This metal is made up of two different substances.		
+TJ008S007	1	8	それに加えて，ケンはクラスメート全員から信頼されている。	"On top of that, Ken is trusted by every classmate."		
+TJ008S008	1	8	彼はメアリーが話していることに無関心だった。	He was indifferent to what Mary was talking about.		
+TJ008S009	1	8	この応募書類に記入しなさい。	Fill out this application form.		
+TJ008S010	1	8	歩けばおおよそ15分かかるでしょう。	"It will take 15 minutes, more or less, if you go on foot."		
+TJ008S011	1	8	大学院での研究のために，君はいくらかのお金をとっておくべきだ。	You should lay aside some money for your graduate studies.		
+TJ008S012	1	8	高熱はインフルエンザの特徴を示している。	High fever is typical of the flu.		
+TJ008S013	1	8	議題から離れて，来るべきパーティーについて検討しよう。 	"Apart from the agenda, let’s discuss the coming party."		
+TJ008S014	1	8	新しい職を得る難しさを別にすれば，彼は職業を変えたがっていた。	"Apart from the difficulty of getting a new job, he wanted to change his career."		
+TJ008S015	1	8	この前の授業を中止にしてすみませんでした。今週末にその埋め合わせをします。	I’m sorry I canceled the last class. I will make up for it this weekend.		
+TJ008S016	1	8	彼の働く女性に対する考え方は本当に時代遅れだ。	His opinion about working women is well behind the times.		
+TJ008S017	1	8	こぼれたミルクを嘆いても無駄だ。	It is no use crying over spilt milk.		
+TJ008S018	1	8	これらの熟語は覚える価値がある。	It is worth your while mastering these idioms.		
+TJ009S001	1	9	私たちの多くが期末試験で落第点を取ったので，スミス教授は本当に失望している。 	Professor Smith feels really let down because so many of us failed his final exam.		
+TJ009S002	1	9	うそをついてわれわれを裏切るな。	Don’t let us down by lying to us.		
+TJ009S003	1	9	彼の家柄は王族の家系に由来していた。	His family stemmed from the royal lineage.		
+TJ009S004	1	9	彼は由緒ある木を切り倒した。	He brought down a time-honored tree.		
+TJ009S005	1	9	新しい低価格を利用することができます。	You can take advantage of the new low price.		
+TJ009S006	1	9	大気汚染は生態系に影響を及ぼすだろう。	Air pollution will have an effect on the ecosystem.		
+TJ009S007	1	9	私はあなたのアドバイスについてあなたにとても感謝している。	I’m much obliged to you for your advice.		
+TJ009S008	1	9	気分転換に散歩したほうがよいですよ。	It’s better for you to take a walk for a change.		
+TJ009S009	1	9	ジョンソン教授は多くのレポートに目を通した。	Professor Johnson looked over many papers.		
+TJ009S010	1	9	夏休みの計画はまだ未定だ。	Plans for summer vacation are still up in the air.		
+TJ009S011	1	9	これは大変な機密情報だ。それを他の人に明かさないように。	This is very sensitive information. Please keep it to yourself.		
+TJ009S012	1	9	今日はテニスをするだけの元気がない。	I don’t feel up to playing tennis today.		
+TJ009S013	1	9	言語を用いない意志の疎通は，不可能でないにしても難しいでしょう。	"Communication without verbal language would be difficult, if not impossible."		
+TJ009S014	1	9	良い学生でありなさい。皆さんは卒業後に社会に貢献するようになるでしょう。	Be a good student. You will contribute to society after graduation.		
+TJ009S015	1	9	私が君に話している時は，私の目をちゃんと見なさい ！	Look me in the eye when I’m talking to you!		
+TJ009S016	1	9	私は大学で経済学を専攻した。	I majored in economics in university.		
+TJ010S001	1	10	☆：本当に，大学院に行きたいわ。 ★：今の仕事をどうするんだい？でも，もうそれを心に決めているんだったら，頑張って。	"☆：I really want to go to graduate school. ★：What would you do with your current job? But, if you have your heart set on it, go for it."		
+TJ010S002	1	10	★：ビルが会社を辞めるって聞いたかい？ ☆：ええ，役員会では彼の後任を務める人を探せないでしょうね。	"★：Did you hear Bill will leave the company? ☆：Yeah, the board committee won’t be able to find anyone to fill his shoes."		
+TJ010S003	1	10	☆：車があれば素敵ね。授業に行くのに 50分もかかるのよ。 ★：キャンパスのそばに住んでさえいたらよかったのになあ。	☆：Having a car would be nice. It takes 50 minutes to get to class. ★：If only we lived near campus.		
+TJ010S004	1	10	☆：お金なしでどうしたらいいのかしら？ ★：君が服にそんなにお金をかけるからだよ！でも，ともかく，現実を受け止めなきゃね。	"☆：What shall we do without money? ★：You spent so much money on clothing! But, anyway, we have to face the music."		
+TJ010S005	1	10	☆：来賓講演者はいつ着くのかしら？ ★：間もなくここに到着する予定だ。	"☆：When will our guest speaker arrive? ★：By and by, he will be here."		
+TJ010S006	1	10	☆：豪雨が収まってほっとしたわ。 ★：幸いなことに，消防士が洪水を食い止めることができたね。	"☆：I’m relieved that the heavy rain dwindled. ★：Luckily, firefighters could keep the flood at bay."		
+TJ010S007	1	10	★：やあ，ジャネット。実は化学102のクラスを辞めようかと思っているんだ。中間試験が心配でさ。 ☆：私ならばそんなことは考えさえもしないわ。ジョンソン教授は厳しくないわよ。	"★：Hi, Janet. I’m thinking of dropping Chem 102. I’m worried about the mid-term exam. ☆：If I were you, I wouldn’t even think of it. Professor Johnson is easy on everyone."		
+TJ010S008	1	10	☆：見てよ彼らの身体！対戦相手はみんな本当に強そうよ。トムは州のレスリングトーナメントで勝ち目はあるかしら？ ★：難しいね。	☆：Look at their bodies! All the opponents look really strong. Do you think Tom stands a chance at the state wrestling tournament? ★：I doubt it.		
+TJ010S009	1	10	☆：ピアノを弾くって聞いたわ。私に聞かせてくださらない？ ★：ごめん。かなり腕がなまっているんだ。	☆：I heard you play the piano. Would you play it for me? ★：I’m sorry. I’m really rusty.		
+TJ010S010	1	10	★：サマーインターンシップではなんて素晴らしい経験をしたんだろう！ ☆：その通りね！	★：What a magnificent experience we had during the summer internship! ☆：You said it!		
+TJ011S001	1	11	ホワイト教授は全ての論文にざっと目を通して，ため息をついた。	Professor White looked through all the papers and sighed.		
+TJ011S002	1	11	セントラル・ステーションで私の祖母を降ろしてくれませんか。 	Would you please let my grandmother off at Central Station?		
+TJ011S003	1	11	試験監督者は，警告をして３名の受験者を許した。	The administrator let three examinees off with a warning.		
+TJ011S004	1	11	母親は，たいてい自分の子供の味方をするものだ。	A mother will usually stand up for her children.		
+TJ011S005	1	11	生徒にこのテキストを配布してくれませんか。	Will you hand out these textbooks to the students?		
+TJ011S006	1	11	これらの熟語を暗記してください。	Please try to learn these idioms by heart.		
+TJ011S007	1	11	新政府は国民から言論の自由を奪った。	The new government deprived its people of freedom of speech.		
+TJ011S008	1	11	信じられますか？先月，トムはレポートを３つ連続して提出しなければならなかったのですよ！	Can you believe it? Tom had to hand in three papers in a row last month!		
+TJ011S009	1	11	軍隊は敵と差し向かいになった。	The troops came face to face with their enemies.		
+TJ011S010	1	11	森林警備隊員は，しばしば激しい雷雨に直面する。	The rangers often come face to face with severe thunderstorms.		
+TJ011S011	1	11	帰るときは全ての電気を消してください。	Please turn off all the lights when you leave.		
+TJ011S012	1	11	その新しい宇宙観測所は，太陽風を観測するのに適している。	The new space observatory is fit for tracking the solar wind.		
+TJ011S013	1	11	私の知る限り，彼は有能な講師だ。	He is a superb instructor as far as I know.		
+TJ011S014	1	11	このシャツはあなたのスーツに合う。	This shirt goes with your suit.		
+TJ011S015	1	11	奇妙な伝染病が発生した。	A strange epidemic broke out.		
+TJ011S016	1	11	台風 11号により洪水が引き起こされた。	The floods were brought about by Typhoon 11.		
+TJ011S017	1	11	彼女は７時きっかりに，ここに着いた。	She arrived here at seven o’clock on the nose.		
+TJ012S001	1	12	Ａ社のマーケットシェアはＢ社のシェアと比べて小さい。	The market share of A Company is small in comparison with B Company’s.		
+TJ012S002	1	12	生協でジムと偶然に出会った。	I bumped into Jim in the co-op.		
+TJ012S003	1	12	さあ，私たちの計画を実行する時がきた。	Now it’s time to put our plan into action.		
+TJ012S004	1	12	新しい治療法は以前のものと異なる。	The new treatment differs from the old one.		
+TJ012S005	1	12	そこには２つの有名な大学があり，その間には川が流れている。	"There are two major universities, and in between is a river."		
+TJ012S006	1	12	自由主義的な人もいれば，とても保守的な人もいる。しかし，ほとんどの人はその中間に収まる。	"Some people are liberal and others very conservative, but most fall in between."		
+TJ012S007	1	12	サムはこの問題に対処する能力がある。	Sam is capable of handling this problem.		
+TJ012S008	1	12	ジョンソンは次の選挙で大統領に立候補するでしょう。	Johnson will run for President in the coming election.		
+TJ012S009	1	12	良い経営者は，目先の利益を追いかけるべきではない。	A good manager should not run after short-term profit.		
+TJ012S010	1	12	その実験は，ほかの素材を使うことを必要とした。	The experiment called for the use of another kind of material.		
+TJ012S011	1	12	天気予報では，激しい雨を予測している。	The weather forecast calls for heavy rain.		
+TJ012S012	1	12	彼女が褒ほう賞しょうを辞退するのももっともだった。	She had good reason to decline the reward.		
+TJ012S013	1	12	かつてツインタワー（世界貿易センター）があったその場所に，今は記念碑が建てられている。	There’s a monument now on the spot where the Twin Towers used to be.		
+TJ012S014	1	12	図書館長は即座にケリーを雇うことに決めた。	The chief librarian decided to hire Kelly on the spot.		
+TJ012S015	1	12	君が受講しなければならない科目はたくさんある。数学，経済学，会計学などだ。	"There are many subjects you have to take: math, economics, accounting and so on."		
+TJ012S016	1	12	君はそんなことをするほど愚かではないはずだ。	You should know better than to do such things.		
+TJ012S017	1	12	テリーは朝早くに，海外での職業訓練プログラムに参加するため出発した。	Terry set off for the overseas vocational training program early in the morning.		
+TJ012S018	1	12	一致団結して弾圧と戦おう。 	Let’s stand shoulder to shoulder and fight against the oppression.		
+TJ012S019	1	12	彼らは肩を並べて，川沿いを歩いた。	They walked along the river shoulder to shoulder.		
+TJ013S001	1	13	弟は足が速くない。競走ではせいぜい３位だろう。	My brother is not a fast runner. He will place third in the race at best.		
+TJ013S002	1	13	彼女をそんなに批判するな。同じことが君にも当てはまるのだから。	Don’t criticize her so much. The same is true of you.		
+TJ013S003	1	13	彼の新しい実験の結果を理解できない。たぶん彼は誤ったデータを用いたのだろう。	I cannot understand the result of his new experiment. The chances are that he used faulty data.		
+TJ013S004	1	13	君の助けがなかったら，その試験に合格していなかっただろう。	"But for your help, I couldn’t have passed the exam."		
+TJ013S005	1	13	不況は金利上昇の結果として生じた。	The recession resulted from the hike in the interest rate.		
+TJ013S006	1	13	クラスの全員が宿題を忘れた時，教授は私たちをまるで子供のようにしかりつけた。	"When everyone in the class forgot the assignment, the professor scolded us as if we were children."		
+TJ013S007	1	13	私がやったことは研究室の爆発と何の関係もなかった。	What I did had nothing to do with the explosion in the laboratory.		
+TJ013S008	1	13	ヘンリー教授があまりにも比喩を使うので，私は授業中に理解できなかった。	Professor Henry used so many metaphors that I got lost during his class.		
+TJ013S009	1	13	私は自分の成績に満足している。	I’m content with my grades.		
+TJ013S010	1	13	そのプロジェクトは失敗に終わった。	The project resulted in failure.		
+TJ013S011	1	13	彼女の銅メダルは賞賛に値した。	Her bronze medal was worthy of admiration.		
+TJ013S012	1	13	なんて嫌な天気なんだ！外に出かけられない。どうやって暇をつぶせばいいんだ？	What nasty weather! We cannot go out. How can we kill time?		
+TJ013S013	1	13	彼女は年老いた両親のために，定期的にお金を蓄えている。	She regularly puts aside some money for her elderly parents.		
+TJ013S014	1	13	コンピューター室は一日中私たちに開放されている。	The computer room is open to us all day long.		
+TJ013S015	1	13	ほかの人の言うことに影響を受けやすい子供もいる。	Some children are open to what others suggest.		
+TJ013S016	1	13	新しい内閣は，いくつかの規制を廃止しようと努めている。	The new Cabinet is trying to do away with several regulations.		
+TJ014S001	1	14	多くの評論家はその映画監督の痛いところを突いた。	Many critics hit a nerve with the film director.		
+TJ014S002	1	14	その舞台は結果的に大成功となった。 	The play turned out to be a great success.		
+TJ014S003	1	14	新しい工場は１カ月当たり１万台のテレビを生産することができる。	"The new plant can turn out 10,000 TV sets a month."		
+TJ014S004	1	14	我が国が技術においてほかのアジア諸国に遅れをとっているとは思えない。	I don’t think we lag behind other Asian nations in terms of technology.		
+TJ014S005	1	14	彼女は今夜，私に電話をかけてくるだろう。	She will call me up tonight.		
+TJ014S006	1	14	まず第一に，新入生は全員オリエンテーションに参加しなければならない。	"In the first place, all freshmen must attend the orientation."		
+TJ014S007	1	14	31ページまでテキストを読んでください。	Please read the textbook up to page 31.		
+TJ014S008	1	14	私は頭を打ったが，すぐに意識を取り戻した。	"I was hit on the head, but I came to after a few seconds."		
+TJ014S009	1	14	ティムは，学生時代からルームメートと仲が良い。	Tim has been on good terms with his roommate since their college days.		
+TJ014S010	1	14	今年の売上高は予測に達しなかった。	This year’s sales were short of the projections.		
+TJ014S011	1	14	今年は食料品の十分な供給が不足している。	We are short of an adequate supply of foodstuffs this year.		
+TJ014S012	1	14	彼女の愚痴にはうんざりだ。	I’m fed up with her complaints.		
+TJ014S013	1	14	その仕事はお金の観点から言えば，それほどもうからない。	The work is not very profitable in terms of cash.		
+TJ014S014	1	14	港の封鎖により，入植者たちは食糧が不足した。	"Because of the blockade of the port, the colonists ran short of food."		
+TJ014S015	1	14	ケンはパーティーにやっと姿を現した。	Ken finally turned up at the party.		
+TJ014S016	1	14	心配しないで，働き口はきっと見つかるよ。	"Don’t worry, a job offer is sure to turn up."		
+TJ014S017	1	14	必要なときには最善を尽くさなければならない。	You should do your best when needed.		
+TJ014S018	1	14	キムはバスケのトーナメントで私たちが勝利することを確信していた。	Kim was convinced of our victory in the basketball tournament.		
+TJ015S001	1	15	★：どうしたんだ？車が動かないぞ。 ☆：サービスセンターに連絡を取るべきね。	★：What happened? My car won’t start. ☆：You should get a hold of the service center.		
+TJ015S002	1	15	☆：ねえ，ビル。実験実習費を払わなければならないの。ひょっとして200ドル持っていたりしない？ ★：冗談言うなよ。僕は財布の中に 50ドルすら入っていたことがないんだ！	"☆：Hi, Bill. I have to pay for my lab fee. Do you have 200 dollars by any chance? ★：No way. I’ve never seen even 50 bucks in my wallet!"		
+TJ015S003	1	15	★：国会じゃメチャクチャになっている金融市場を建て直そうと新しい法案を可決しようとしているけど，ナンセンスなことばかり言っているよね。 ☆：そんなこと言っちゃ駄目よ。みんな一生懸命なのよ。	"★：The Diet is now trying to pass new laws to save the turbulent financial market, but I think they are full of hot air. ☆：Please don’t say that. They are doing their best."		
+TJ015S004	1	15	★：ジムが辞めるって聞いたけど。 ☆：知っているわ。部長を怒らせたのよ。	★：I heard Jim is going to leave. ☆：I know. He got under the manager’s skin.		
+TJ015S005	1	15	★：ジェーン，今夜パーティーに来るかい？ ☆：そうしたいのだけれど。	"★：Jane, would you come to the party tonight? ☆：I wish I could."		
+TJ015S006	1	15	☆：私たちのバスケットボールチームが勝つと思う？ ★：彼らを見てごらんよ。チームワークがなっていない。監督が勝手気ままにさせているんだ。	☆：Do you think our basketball team will win? ★：Look at them. There’s no team-work. The manager let them cut loose.		
+TJ015S007	1	15	★：授業が終わったら公園に行こうよ。とても素晴らしい天気だよ。 ☆：わあ！行きたいわ。でも実験がいつも遅くまでかかるの。	"★：Let’s go to the park after class. It’s such a beautiful day. ☆：Great! I’d love to, but my lab usually runs late."		
+TJ015S008	1	15	★：明日，（ワシントン）ＤＣに行くんだ。誰か僕を泊めてくれる人を知らないかい？ ☆：いとこのケイトがそこで広いアパートに住んでいるわ。	"★：I’m going to D.C. tomorrow. Do you know anyone who can put me up? ☆：My cousin, Kate, lives in a large apartment there."		
+TJ015S009	1	15	★：新しい部長をどう思う？ ☆：まあ，威張りちらしているだけね。	"★：Do you like your new manager? ☆：Ah, he is just throwing his weight around."		
+TJ015S010	1	15	★：データベースが何かおかしいな。 ☆：アクセスの異常に注意を払いましょう。	★：Something is wrong with our database. ☆：Let’s keep tabs on access anomalies.		
+TJ016S001	1	16	彼はレポートをやっと何とか終わらせた。	He finally managed to finish the paper.		
+TJ016S002	1	16	彼らは最新式の業務用コンピューターを買った。	They bought an up to date business computer.		
+TJ016S003	1	16	最初は，誰もがジムの発明品をからかった。数年後，彼はそれらを何百万個も売り，裕福になった。	"At first, everybody poked fun at Jim’s invention. A few years later, he sold millions of them and became rich."		
+TJ016S004	1	16	割り勘にしよう。10ドルずつ払うよ。それでいいかい？	Let’s go Dutch. We’ll pay 10 dollars each. All right?		
+TJ016S005	1	16	学校時代の友達は将来，君の助けとなるだろう。絶対に友達との関係を絶つべきではない。	Your friends from school will help you in the future. You should never cast aside your friends.		
+TJ016S006	1	16	ケイトは間もなく来るよ。	Kate will show up before long.		
+TJ016S007	1	16	これ以上私を頼るな！今後は自分でやるべきだ。	Don’t count on me anymore! You should do things by yourself from now on.		
+TJ016S008	1	16	トムは誘惑に負けた。 	Tom gave way to temptation.		
+TJ016S009	1	16	映画館は新しいメディアに取って代わられた。	Movie theaters have given way to new media.		
+TJ016S010	1	16	当分の間，その新発見については口外しないでください。	Please do not talk about the new findings for the time being.		
+TJ016S011	1	16	政府は伝染病と闘うべく近隣諸国と協力した。	The government cooperated with its neighboring countries to fight the epidemic.		
+TJ016S012	1	16	ボランティアたちは流出した原油を除去する作業に参加している。	Volunteers have taken part in clearing up the oil spill.		
+TJ016S013	1	16	私は英会話能力に磨きをかける必要がある。	I need to brush up my conversational English ability.		
+TJ016S014	1	16	私は，スケジュールに関する問題の解決方法をふと思いついた。	I hit on a solution to our scheduling problem.		
+TJ016S015	1	16	一般的に，高地の重力は地上より小さい。	"In general, the gravity at high altitudes is lower than that on land."		
+TJ016S016	1	16	入植者たちは英国の抑圧と戦った。	The colonists fought against British oppression.		
+TJ017S001	1	17	（英国）議会に仕返しをする直接的な方法はなかった。入植者たちにできることは，全ての紅茶を投げ捨てることだけだった。	There was no direct way of getting back at Parliament. All the colonists could do was just to throw away all the tea.		
+TJ017S002	1	17	遅くまで働くのは体にこたえる。	Working late tells on my health.		
+TJ017S003	1	17	先生が戻ったら彼のことを言いつけるべきだ。	You’d better tell on him when the teacher comes back.		
+TJ017S004	1	17	そのビルはがれきとなった。	The building was reduced to rubble.		
+TJ017S005	1	17	人はニュースを疑問も持たずに信じがちだ。 	People are apt to believe the news without question.		
+TJ017S006	1	17	ここの気候は，あっという間に変わる傾向がある。	The weather here is apt to change at a moment’s notice.		
+TJ017S007	1	17	メアリーは素晴らしい考えを思いついた。	Mary came up with an excellent idea.		
+TJ017S008	1	17	どうやってこれの支払いに必要なお金を作るつもり？	How do you plan to come up with the cash to pay for this?		
+TJ017S009	1	17	君は，彼女にその仕事に応募するのをやめさせるべきだ。彼女は適任ではない。	You should stop her from applying for the job. She’s not qualified.		
+TJ017S010	1	17	継続的な勉強にもかかわらず，彼は試験に失敗した。	"In spite of his continuous studying, he failed the exam."		
+TJ017S011	1	17	明かりをつけてください。	Please turn on the lights.		
+TJ017S012	1	17	学生は学校をきれいにしておくという役目を果たさなければならない。	Students should do their part to keep their school clean.		
+TJ017S013	1	17	学生ローンの利率は，予告なしに変更されることがあります。 	The rate for student loans is subject to change without notice.		
+TJ017S014	1	17	この（法律などの）改正は国会の承認を必要とします。	This amendment is subject to approval by the Diet.		
+TJ017S015	1	17	VIP は，Very Important Person（要人）を表す。	“VIP” stands for “Very Important Person.”		
+TJ017S016	1	17	教師は生徒の素行不良を我慢しようとしなかった。	The teacher refused to stand for the student’s bad behavior.		
+TJ017S017	1	17	ジェーンはしばしば，幸せだった幼児期を追想しているようだ。	Jane often seems to look back on her happy childhood.		
+TJ017S018	1	17	私はケント教授の話を理解することができなかった。	I couldn’t catch on to what Professor Kent was talking about.		
+TJ017S019	1	17	何も見えない。電気が消えたんだ。 	I can’t see anything. The lights went off.		
+TJ017S020	1	17	ごめんなさい。目覚まし時計３つが鳴ったんだけれど，起きられませんでした。	"Sorry, I couldn’t wake up even though three alarm clocks went off."		
+TJ017S021	1	17	斉藤総理は経済改革の計画を説明した。	Prime Minister Saito set forth the plan for economic reforms.		
+TJ018S001	1	18	カエルは早春に卵を産み始める。	Frogs begin to lay eggs in early spring.		
+TJ018S002	1	18	私はこの機械を操作できない。	I’m incapable of handling this machine.		
+TJ018S003	1	18	ケント教授は，クラスでの討論のためバイオ燃料に関する記事を取り上げた。	Professor Kent picked up an article on biofuel in order to discuss it in the class.		
+TJ018S004	1	18	期末試験についてハワード博士が何を話されたか，詳しく教えてもらえますか？	Would you fill me in on what Dr. Howard said about the final exam?		
+TJ018S005	1	18	解答用紙の空欄に記入してください。	Please fill in the blanks on your answer sheets.		
+TJ018S006	1	18	世界大恐慌時には，多くの億万長者が結局一文無しになった。	"During the Great Depression, many millionaires ended up penniless."		
+TJ018S007	1	18	彼はわざと約束を破ったんだ。それが不測の出来事だったなんて，彼に言わせないように。	He broke his promise on purpose. Don’t let him tell you it was an accident.		
+TJ018S008	1	18	彼は貧しい人々に，全ての古着を寄付した。	He gave away all of his old clothes to the poor.		
+TJ018S009	1	18	明日は大事な試験がある。だから，夜中まで寝ずに起きていないといけないな。	"Tomorrow, I’m going to have a big exam. Therefore, I have to stay up until after midnight."		
+TJ018S010	1	18	私の公表論文を参照してもいいですよ。	You can refer to my published paper.		
+TJ018S011	1	18	今日の講義は最近の少年犯罪問題に言及した。	Today’s lecture referred to the current juvenile delinquency problems.		
+TJ018S012	1	18	ジョンの機敏な判断が窮地を救った。 	John’s quick thinking saved the day.		
+TJ018S013	1	18	テッドはその試合の最後の瞬間にゴールを決め，チームを勝利へ導いた。	Ted saved the day by scoring a goal in the final seconds of the match.		
+TJ018S014	1	18	後で私のところに立ち寄ってくれませんか？	Would you drop by later?		
+TJ018S015	1	18	私たちは平和的に原子力エネルギーを利用しようと努力しています。	We are trying to make peaceful use of atomic energy.		
+TJ018S016	1	18	このプロジェクトのために，利用可能な機材を最大限に活用しなければならない。	We have to make the most of the available equipment for this project.		
+TJ018S017	1	18	スーザンは司法試験の勉強のために，一分一秒をとても大切に使った。	Susan made the most of every minute to study for the bar exam.		
+TJ018S018	1	18	彼は時々私に電話をかけてくる。	He calls me once in a while.		
+TJ018S019	1	18	もし君がそれを実行したいなら，自分の責任でやりなさい。	"If you want to implement it, do it on your own account."		
+TJ019S001	1	19	私は，来る日も来る日も同じことばかりするのにうんざりしている。	I’m tired of doing the same thing day in and day out.		
+TJ019S002	1	19	ルイーズは会議の終わりになってようやく現れた。	Louise finally showed up at the end of the conference.		
+TJ019S003	1	19	ハッブル宇宙望遠鏡は，ブラックホールの存在を明らかにしている。	The Hubble Space Telescope has shed light on the existence of black holes.		
+TJ019S004	1	19	植民地政府は暴徒たちを包囲しつつあった。 	The colonial government was closing in on the rioters.		
+TJ019S005	1	19	冬が近づいてきている。	Winter is closing in.		
+TJ019S006	1	19	私と一緒に行こうよ。お昼を食べるのにいいところがあるんだ。	Come along with me. There is a nice place to have lunch.		
+TJ019S007	1	19	まさかの時に備えて貯金しなさい。	You should put some money aside for a rainy day.		
+TJ019S008	1	19	私は当時，事情を理解していなかった。	I didn’t take in the situation at the time.		
+TJ019S009	1	19	旅行客は，しばしば詐欺師にだまされる。	Tourists are often taken in by scams.		
+TJ019S010	1	19	君が発見したものを見せびらかすことは，君の社会的地位を下げることになる。	To show off what you discovered will damage your social status.		
+TJ019S011	1	19	君の発言は，以前君が話したことと矛盾してはならない。	Your words should not be inconsistent with what you have said before.		
+TJ019S012	1	19	その盗まれた宝石は何度も持ち主が変わった。	The stolen jewels changed hands several times.		
+TJ019S013	1	19	あの珍しい郵便切手は高額でやり取りされた。	That rare postage stamp changed hands for a lot of money.		
+TJ019S014	1	19	私はむしろ家で勉強したい。	I would rather study at home.		
+TJ019S015	1	19	先生方はみんな，マイクを褒めた。	All the teachers spoke well of Mike.		
+TJ019S016	1	19	会議の間，私を支持してくれてありがとう。	Thank you for backing me up during the meeting.		
+TJ019S017	1	19	DNA 鑑定は彼の理論を裏付けた。	The DNA test backed up his theory.		
+TJ019S018	1	19	監査役の仕事は，財務諸表の細部を徹底的に調べることです。	The role of the auditor is to go into the details of financial statements.		
+TJ019S019	1	19	農家の人たちは，繰り返し起こる干ばつに苦しんでいる。	The farmers have suffered from recurrent droughts.		
+TJ019S020	1	19	彼はインフルエンザにかかっている。	He is suffering from the flu.		
+TJ020S001	1	20	★：50ドル貸してくれないか？ ☆：先週も同じこと言ったわよね。忘れたの？もう勘弁できないわ（貸さない）。	★：Would you lend me 50 dollars? ☆：You said the same thing last week. Did you forget that?		
+TJ020S002	1	20	☆：街へ花瓶を買いに行くわ。 ★：車に乗せていこうか？	☆：I’m going downtown to buy a vase. ★：Would you like me to give you a lift?		
+TJ020S003	1	20	★：前回の心理学の授業の時，体調が悪くて休んだんだ。詳しく教えてほしいんだ。来週のいつ頃，会えるかな？ ☆：火曜日はだめなの。 他の日ならいつでも大丈夫よ。	"★：I was sick and absent from the last psychology class. I want you to fill me in. When can we get together next week? ☆：I’m not available on Tuesday. Other than that, any day’s as good as the next."		
+TJ020S004	1	20	★：フィジーへの旅はどうだった？ ☆：もう，最悪よ。私たちが泊まっていた島に台風が来たの。週末ずっと雨だったのよ！	"★：How was your trip to Fiji? ☆：Oh, it couldn’t be worse. A typhoon hit the island we stayed in. And it rained all weekend!"		
+TJ020S005	1	20	★：ジェーン，カレンの学習習慣についてどう話し合ったらいいだろう？成績が本当に悪いよね。 ☆：時間をかけましょう。彼女はまだ新入生よ。すぐに，こんな成績じゃどの大学にも入れないと分かるわ。	"★：Jane, how do we talk to Karen about her study habits? Her grades are really poor. ☆：Give it time. She is still a freshman. Soon, she’ll realize she can’t get into any university with her grades."		
+TJ020S006	1	20	☆：ちょっとサンドイッチを食べてもいいかしら？ ★：どうぞご自由に。サンドイッチを食べれば，最後の授業まで（お腹が）持つよね。	"☆：Do you mind if I grab a sandwich? ★：No, go ahead. That should hold you over till the last class."		
+TJ020S007	1	20	☆：老婦人を海で助けたんですって。あえて危険を冒して他人を助けようとする人はなかなかいないわ。 ★：ああ，ありがとう。ご婦人を背負って一生懸命泳いだんだ。ご婦人が大丈夫だったのでうれしいよ。	"☆：I heard you rescued an old lady in the sea. Only a few can stick their neck out to save others. ★：Well, thanks. I swam for life with her on my back. I’m glad she was fine."		
+TJ020S008	1	20	★：二人には我慢できないよ。テリーとピーターはいつも互いに反目し合っているんだ。 ☆：本当にね。でも彼らがいなくちゃ，私たちは 春休みの旅行先を決められないわ。	★：I can’t stand them. Terry and Peter are always at odds with each other. ☆：I’ll say. But we can’t decide on our spring vacation destination without them.		
+TJ020S009	1	20	★：見て，この一風変わった描画スタイルを。ピカソに違いないな。たった 200ドルだよ。 ☆：お金の無駄遣いね。これは，ピカソのスタイルとはかなり異なるわ。	★：Look at this eccentric drawing style. It must be Picasso’s. It costs only 200 dollars. ☆：You’d throw money down the drain. This is a far cry from his style.		
+TJ020S010	1	20	★：学園祭の劇を練習しよう。 ☆：君たち。ラウンジを散らかさないでね。悪いことをしないようにね。	"★：Let’s practice the play for the school festival. ☆：Hey, guys. Don’t mess up the lounge. You should keep your nose clean."		
+TJ021S001	1	21	トムは彼女をくつろがせた。	Tom put her at ease.		
+TJ021S002	1	21	キング教授の授業についていけない。	I cannot keep pace with Professor King’s class.		
+TJ021S003	1	21	アメリカ先住民は土地と交換に，ほんのわずかのお金を受け取った。	Native Americans received only a small amount of money in exchange for their land.		
+TJ021S004	1	21	碑文が摩滅してしまった。	The inscription has worn away.		
+TJ021S005	1	21	読書の精神に対する関係は食物の肉体に対する関係に等しい。	Reading is to the mind what food is to the body.		
+TJ021S006	1	21	彼らは新しい実験室を造るための必要資金を全て使い切ってしまい，どうしたらよいか途方に暮れた。	They used up all the necessary funds to build a new lab and were at a loss as to what to do.		
+TJ021S007	1	21	流れ星は奇妙な光を放った。	The shooting stars gave off strange lights.		
+TJ021S008	1	21	彼の逮捕後すぐに贈ぞう収しゅう賄わい事件が明るみに出た。	"Soon after his arrest, the bribery case came to light."		
+TJ021S009	1	21	私は時折メアリーが図書館で勉強しているのを見かける。	I see Mary studying at the library every now and then.		
+TJ021S010	1	21	カレンはテレビゲームに熱中していて，提出期限が来た宿題を忘れていた。	"Karen was absorbed in her video games, forgetting the assignment that was due."		
+TJ021S011	1	21	次のミーティングの部屋の予約を手配してくれませんか。	Would you please see about reserving the room for the next meeting?		
+TJ021S012	1	21	どうやってこの大量のバッタに対処したらよいのだろうか。	How can we cope with these massive grasshoppers?		
+TJ021S013	1	21	ミーティングが来週まで延びました。その間に，協議事項をもう一度考え直しましょう。	"The meeting has been postponed till next week. In the meantime, let’s rethink the agenda."		
+TJ021S014	1	21	私は遅かれ早かれ，その問題を調べるつもりだ。	I will look into the matter sooner or later.		
+TJ021S015	1	21	新郎新婦はお互いの目を優しく見つめ合った。	The bride and groom looked lovingly into each other’s eyes.		
+TJ021S016	1	21	飛行機が離陸した。	The airplane took off.		
+TJ021S017	1	21	イザベラはコートを脱いだ。	Isabella took her coat off.		
+TJ021S018	1	21	ためらうな！やるだけの価値があるんだ！	Don’t hesitate! It’s worth trying!		
+TJ022S001	1	22	ここでお祭りが隔月に催される。	The festival takes place here every other month.		
+TJ022S002	1	22	クリフは最高点を取った。それと同時に，奨学金を受け取った。	"Cliff received the highest score, and at the same time, he received a scholarship."		
+TJ022S003	1	22	適度な水やりにより，その植物は日ごとに大きく成長することができた。	Adequate watering enabled the plant to grow taller day by day.		
+TJ022S004	1	22	事故は信号が消えた時に起こった。	The accident came about when the traffic lights went off.		
+TJ022S005	1	22	必ずその話題に関連性がある小論文にしてください。	Please make sure your essay is relevant to the topic.		
+TJ022S006	1	22	高熱のために論文を仕上げられなかった。	I couldn’t finish the paper on account of a high fever.		
+TJ022S007	1	22	スーは期限通りにレポートを提出した。	Sue handed in her report on time.		
+TJ022S008	1	22	この手紙は書留にすべきだ。	You ought to have this letter registered.		
+TJ022S009	1	22	彼女はピアノは言うまでもなく，バイオリンも弾ける。	"She can play the violin, not to mention the piano."		
+TJ022S010	1	22	研究者たちは医学の飛躍的進歩をまさに達成しようとしている。	Researchers are about to make a breakthrough in medicine.		
+TJ022S011	1	22	彼をからかうなよ。彼は一生懸命努力しているんだ。	Don’t make fun of him. He’s trying his best.		
+TJ022S012	1	22	彼女はハイキングの後，ほとんどへとへとだった。	She was all but worn out after the hike.		
+TJ022S013	1	22	委員会は提案された予算を検討した。	The committee went over the proposed budget.		
+TJ022S014	1	22	彼のミスのせいで，私たちは計画を変更せざるを得なかった。	"Owing to his mistake, we had to change the plan."		
+TJ023S001	1	23	彼らは困難を克服した。	They got over their difficulties.		
+TJ023S002	1	23	彼女は風邪から回復するのに２週間かかった。	It took two weeks for her to get over her cold.		
+TJ023S003	1	23	列車は定刻に着いた。	The train arrived on time.		
+TJ023S004	1	23	私はこの小説をつまらないものと思う。	I have a poor opinion of this novel.		
+TJ023S005	1	23	流行中の感染症を患っている患者は，ほかの患者から隔離される。	The patients suffering from the current epidemic will be set apart from the other patients.		
+TJ023S006	1	23	決心しなさい。これが博士課程に応募する最後のチャンスなんだから。	Make up your mind. This is your last chance to apply for the doctoral program.		
+TJ023S007	1	23	少なからぬ人々が，社会規範が変化したと考えている。	Not a few people think that social norms have changed.		
+TJ023S008	1	23	気象庁は，大地震による直接の影響の先を見通すための，新しい計測システムを確立しようとしている。	The Meteorological Agency is trying to establish a new measurement system to see beyond the direct impact of a major earthquake.		
+TJ023S009	1	23	乗組員はロープにしっかりつかまっていなければならなかった。さもなければ，命を落としていたことだろう。	"The crew had to hold on to the rope, or they would have lost their lives."		
+TJ023S010	1	23	アンはルームメートと仲良くすることができなかった。	Anne couldn’t get along with her roommate.		
+TJ023S011	1	23	中東では，小さなデモが突如として暴動を引き起こした。	Small demonstrations suddenly gave rise to a commotion in the Middle East.		
+TJ023S012	1	23	台風 15号は多くの漁船を転覆させた。	Typhoon 15 turned over many fishing boats.		
+TJ023S013	1	23	私が指示するまでページをめくらないように。	Don’t turn over the page until I direct you to.		
+TJ023S014	1	23	ジムによると，メアリーは卒業式に出席するとのことだ。	"According to Jim, Mary will attend the graduation ceremony."		
+TJ023S015	1	23	君は取扱説明書に従って，その手順を踏まなければならない。	You must follow the procedures according to the instruction manual.		
+TJ023S016	1	23	結局は，円の為替レートはドルに対して上昇するだろう。	"In the long run, the exchange rate of the yen will go up against the dollar."		
+TJ023S017	1	23	そのニュースを聞いた時，私は取り乱した。	"When I heard the news, I lost my head."		
+TJ023S018	1	23	授業料が15％もアップするって聞いた？	Did you hear that the tuition will go up by as much as 15%?		
+TJ023S019	1	23	メアリーは，トムが彼女を信頼しているのと同じくらい，彼を信頼している。	Mary trusts Tom as much as he trusts her.		
+TJ024S001	1	24	これらの本を借り出したいのですが。 	I would like to check out these books.		
+TJ024S002	1	24	私たちはホテルを午前11時にチェックアウトした。	We checked out of the hotel at 11 a.m.		
+TJ024S003	1	24	僕の成績は数学を除いて良かった。	My grades were fine except for math.		
+TJ024S004	1	24	あなたは彼をひどく困らせた。そこまでする必要はなかった。 	You really embarrassed him. You didn’t have to go so far.		
+TJ024S005	1	24	これまでのところ，全て計画通りに進んでいる。	So far everything is going according to plan.		
+TJ024S006	1	24	彼は実験室を離れるときには，保安設備をチェックすることにしている。	He makes it a rule to check the security system when he leaves the lab.		
+TJ024S007	1	24	言い換えれば，この装置は汚水を浄化する。	"In other words, this device will purify dirty water."		
+TJ024S008	1	24	あなたは持っているもので我慢しなければならない。 	You have to do with what you have.		
+TJ024S009	1	24	タイピストが欲しいところだ。	I could do with a typist.		
+TJ024S010	1	24	その車はガソリンで動く。	The car runs off gasoline.		
+TJ024S011	1	24	スーザンは自作のフォークソングをすらすらと書き上げた。	Susan ran off an original folk song.		
+TJ024S012	1	24	私はもはやルームメートに我慢できない。	I cannot put up with my roommate anymore.		
+TJ024S013	1	24	どこに行こうとも，ご両親と連絡を保つのを忘れないように！	"Wherever you go, don’t forget to keep in touch with your parents!"		
+TJ024S014	1	24	夕方は空いています。特にやることはありません。	I’m free this evening. I don’t have anything to do in particular.		
+TJ024S015	1	24	彼らは私たちの提案を拒絶した。 	They turned down our proposal.		
+TJ024S016	1	24	私が勉強している間，ボリュームを下げてくれませんか。	Would you please turn down the volume while I’m studying?		
+TJ024S017	1	24	私たちは皆，彼の不作法にうんざりしている。	All of us are disgusted with his rudeness.		
+TJ024S018	1	24	申し訳ありません，今日の授業をキャンセルしなければなりません。来週この分の埋め合わせをします。	I’m sorry I have to call off today’s class. I will make it up to you next week.		
+TJ024S019	1	24	時事問題を知らないでいるのを避けることは重要だ。	It’s important to avoid being ignorant of current events.		
+TJ024S020	1	24	映画に行くつもりだったが，考え直して動物園に行くことにした。	"We planned to go to the movie, but on second thought, we decided to go to the zoo."		
+TJ025S001	1	25	☆：スミス教授，私たちは，プロジェクターやビデオスクリーン，他にもたくさん必要なものがあります。 ★：大丈夫。これらの機材は全部君たちの自由に使って構わないから。	"☆：Professor Smith, we need a projector, video screen, and many other things. ★：Don’t worry. All these instruments are at your disposal."		
+TJ025S002	1	25	☆：妹さんをロッキー山脈に連れて行ったって聞いたわ。 ★：妹が嫌とは言わせてくれなくてね。でも，まあ楽なハイキングだったよ。	"☆：I hear you took your sister to the Rockies. ★：She wouldn’t take no for an answer. But, anyway, it was an easy day’s hike."		
+TJ025S003	1	25	★：教室は混みすぎだよね。ここからじゃ，教授が見えないよ。 ☆：全くその通りね！	★：The classroom is overcrowded. I can’t see the professor from here. ☆：You can say that again!		
+TJ025S004	1	25	★：将来，必ず彼女のご両親に会いに行くつもりなんだ。 ☆：素晴らしいわ！あなたたち結婚するのね？	"★：I’m certain I’m going to visit my girlfriend’s parents somewhere down the road. ☆：Fabulous! You mean you are going to get married, don’t you?"		
+TJ025S005	1	25	☆：この社会学の教科書を見て。 70ドルもしたのよ！ ★：本当だね。これらの教科書でお金がどんどんなくなっていくよ！	☆：Look at this sociology textbook. It cost 70 dollars! ★：You’re telling me. These textbooks are burning holes in our pockets!		
+TJ025S006	1	25	★：今学期の試験スケジュールは厳しいね。ジョーンズ教授は期末試験を延長しないかな？ ☆：あり得ないわ。	★：We have a heavy exam schedule this term. Will Professor Jones postpone the final exam? ☆：Not in a million years.		
+TJ025S007	1	25	★：ブラウン教授は文法にとても厳しいんだ。 ☆：本当ね。教授は私たちのレポートを隅から隅まで調べるのよ。	"★：You know Professor Brown is very strict about grammar. ☆：Indeed, he checks our papers every nook and cranny."		
+TJ025S008	1	25	☆：どうしてもジェーンの電話番号を思い出せないわ。 ★：キャシーに電話して（聞いて）みれば？	☆：I can’t for the life of me remember Jane’s phone number. ★：Why don’t you call Cathy?		
+TJ025S009	1	25	★：このプロジェクトはあまりうまくいっていないね。永遠に終わらなそうだ。 ☆：手伝ってくれる人をもっと見つけて，今晩もう少し進めましょう。来週の月曜日が期限なのだから明日までに何とかして終わらせないといけないわ。	★：This project isn’t going so well and it’s taking forever. ☆：Let’s get some more help and work on it more tonight. We have to complete it by tomorrow one way or another because it’s due next Monday.		
+TJ025S010	1	25	☆：あ，すみません。拭きますね，代わりのコーヒーをお持ちします。 ★：大丈夫。よくあることです。	"☆：Oops, sorry. Let me wipe up that coffee and get you another one. ★：Don’t worry. It’s one of those things."		
+TJ026S001	1	26	私は文句をたくさん言いたかったが，黙っていた。	"I wanted to complain a lot, but I held my tongue."		
+TJ026S002	1	26	両者はあれこれ言い合うだけで，合意に至らなかった。	The two sides argued back and forth without coming to an agreement.		
+TJ026S003	1	26	これらの菌が繁殖する過程を，よく調べてください。	Please read up on the process of how these germs propagate.		
+TJ026S004	1	26	ロス教授が何を言おうとしているのかを理解することは難しかった。＊多くの意味があるので注意。	It was difficult for me to get at what Professor Ross meant.		
+TJ026S005	1	26	一定額以上のご購入で，配送料は無料です。	"For purchases above a certain amount, delivery is free of charge."		
+TJ026S006	1	26	テッドはメアリーの両親と意見が一致しなかった。	Ted never saw eye to eye with Mary’s parents.		
+TJ026S007	1	26	彼女の歌を聞いた？真顔でいるのにとても苦労したよ。	Did you listen to her song? It was very hard for me to keep astraight face.		
+TJ026S008	1	26	ジムは何事も決して中途半端にしない。彼は素晴らしいレポートを書き上げた。	Jim never does things by halves. He made an excellent report.		
+TJ026S009	1	26	赤いブラウスを試着させてください。	Let me try on the red blouse.		
+TJ026S010	1	26	スージーは３年間ホームレスの人たちの世話をしている。 	Susie’s been doing for homeless people for three years.		
+TJ026S011	1	26	この硬貨がドライバーの代わりになるだろう。	This coin will do for a screwdriver.		
+TJ026S012	1	26	メアリーは社会道徳の重要性を認識するようになった。	Mary came to realize the importance of social morals.		
+TJ026S013	1	26	彼が何を言っているのか理解することができない。 	I can’t make out what he’s talking about.		
+TJ026S014	1	26	彼らは濃霧のために教会の形を判別することができなかった。	They could not make out the shape of the church because of the heavy fog.		
+TJ026S015	1	26	たいていの人々は，ほかの文化は受け入れ難いものと考える傾向がある。	Most people tend to think that other cultures are hard to accept.		
+TJ026S016	1	26	この会社は親会社から独立している。 	This company is independent of its parent company.		
+TJ026S017	1	26	これらの実験は互いに無関係であった。	These experiments were independent of each other.		
+TJ026S018	1	26	彼らはパーティーの詳細を決められなかったので，ぶっつけ本番で行った。	"They couldn’t decide on the details for the party, so they played it by ear."		
+TJ027S001	1	27	聞いたかい？トムが面接でしくじったんだよ。彼を励ましてくれないか？	Did you hear? Tom failed the interview. Would you cheer him up?		
+TJ027S002	1	27	ジムの部屋はいつも散らかっている。	Jim’s room is always in a mess.		
+TJ027S003	1	27	トムはインフルエンザにかかった。	Tom came down with the flu.		
+TJ027S004	1	27	ディーン教授によると，トムはクラスの中の誰よりもはるかに優れている学生だ。	"According to Professor Dean, Tom is by far the best student in our class."		
+TJ027S005	1	27	授業料が20％値上がりする。私はアルバイトを探さなくてはならないだろう。	The tuition will increase by 20%. I’ll have to look for a part-time job.		
+TJ027S006	1	27	コンピューターは計算機やワープロの代わりに用いられるようになった。	Computers came to be used in place of calculators and word processors.		
+TJ027S007	1	27	リーディング・セクションで高得点を取るためには，行間を読み取ることが重要である。	"In order to get a high score on the Reading Section, it is important that you read between the lines."		
+TJ027S008	1	27	トムは刑事を泥棒だと思い違いした。	Tom took the detective for a thief.		
+TJ027S009	1	27	たとえどんなに雨が強く降ろうとも，行かなければ！ミラー教授は期末試験を延期してくれないだろう。	"No matter how hard it rains, we should go! Professor Miller won’t postpone the final."		
+TJ027S010	1	27	その教師は学生の抗議行動を終わらせた。	The teacher broke up the student protest.		
+TJ027S011	1	27	彼女の両親は数年前に離婚した。	Her parents broke up a couple of years ago.		
+TJ027S012	1	27	台風は作物に甚大な被害を与えた。	The typhoon did considerable damage to the crops.		
+TJ027S013	1	27	君のプロジェクトに専念してください。もうすでに終わっていたはずです。	Please concentrate on your project. You should have finished by now.		
+TJ027S014	1	27	君は小論文を書くのに旧態依然とした理論に執着しないほうがいいよ。	You’d better not cling to the old-fashioned theory for your essay.		
+TJ027S015	1	27	もうこれ以上仕事を引き受けるなよ。 	Don’t take on any more work.		
+TJ027S016	1	27	会社は売り上げを促進するために，100人の販売員を雇う予定だ。	The company will take on 100 salespersons to promote sales.		
+TJ027S017	1	27	私の知っている限りでは，メアリーは立派な学生だよ。	"So far as I know, Mary is a good student."		
+TJ028S001	1	28	指導教授は，マイクの才能に感銘を受けた。	The academic advisor was impressed by Mike’s talent.		
+TJ028S002	1	28	ジムは実験に本気で取りかかった。	Jim got down to his experiments.		
+TJ028S003	1	28	ここの学生全員が大学院に進学したいと思っているとは限らない。	Not all the students here want to go to graduate school.		
+TJ028S004	1	28	彼は二度と歩けないだろう，ましてサッカーをするなんて。	"He would never walk again, let alone play soccer."		
+TJ028S005	1	28	泥棒が彼女の学生寮の部屋に侵入した。 	The thief broke into her dorm room.		
+TJ028S006	1	28	私たちの会話に割り込まないで。	You should not break into our conversation.		
+TJ028S007	1	28	どう暮らしておられますか？	How are you getting along?		
+TJ028S008	1	28	どうやら講堂への道に迷ったらしい。	It seems that we have lost our way to the auditorium.		
+TJ028S009	1	28	新しいプロジェクトは，たくさんのお金がかかるだろう。	The new project will cost no end of money.		
+TJ028S010	1	28	当時，私は事故を大したことと思わなかった。	I thought little of the accident at that time.		
+TJ028S011	1	28	息子はとても早く成長した。	My son has grown up so fast.		
+TJ028S012	1	28	今日の午後はずっと忙しい。	I’ve been tied up the whole afternoon.		
+TJ028S013	1	28	トムは大学院で研究を続けようと決心した。	Tom was determined to continue his research at graduate school.		
+TJ028S014	1	28	少しずつメアリーはジムを信じ始めた。	"Little by little, Mary started to believe Jim."		
+TJ028S015	1	28	この試験に受かれば，化学100の授業を免除される。	"If you pass the exam, you will be free of having to take Chemistry 100."		
+TJ028S016	1	28	ジムは彼の仮説が間違っていることを証明されて，グループ内で面目を失った。	Jim lost face with the group when his hypothesis was proven wrong.		
+TJ029S001	1	29	実験室には，無数の薬品が整然と置かれている。	There are a myriad of chemicals in order at the lab.		
+TJ029S002	1	29	世界中の先住民たちは，多くの共通した特徴を持っている。 	Indigenous people worldwide have many characteristics in common.		
+TJ029S003	1	29	資本主義国では，共有の財産を保有することはまれである。	Keeping property in common is rare in capitalist countries.		
+TJ029S004	1	29	突然，竜巻が私たちの町を襲った。	"All at once, a tornado hit our town."		
+TJ029S005	1	29	私は努めて毎日散歩するようにしている。	I make a point of taking a walk every day.		
+TJ029S006	1	29	申しわけありませんが，私はあなたに同意することはできません。	"I’m sorry, but I cannot agree with you."		
+TJ029S007	1	29	彼女はいつもルームメートのあら探しをする。	She always finds fault with her roommate.		
+TJ029S008	1	29	遅れた言い訳をしないように。	Don’t make excuses for being late.		
+TJ029S009	1	29	いったい何が君の身にふりかかったんだい。パーティーに来なかったね。 	What happened to you? We missed you at the party.		
+TJ029S010	1	29	彼が電話をかけてきた時，私はたまたま出かけていた。	I happened to be away from home when he called.		
+TJ029S011	1	29	引っ越しで１日中忙しかったから，外食をしよう。	"We’ve been busy moving all day. So, let’s eat out."		
+TJ029S012	1	29	私はこのコンピューターが最新のものより劣っているとは思わない。	I don’t think this computer is inferior to the latest one.		
+TJ029S013	1	29	フットボールの試合は大雪のために中止された。	The football game was called off because of heavy snow.		
+TJ029S014	1	29	トムは奨学金を得たので，なおさら一生懸命に勉強した。	Tom studied hard all the more because he received the scholarship.		
+TJ029S015	1	29	私たちはおしゃべりに夢中になって時を忘れた。	We got carried away with talking and forgot about the time.		
+TJ029S016	1	29	交代でシャーレ（培養皿）の観察をしよう。	Let’s take turns observing the petri dish.		
+TJ029S017	1	29	このメンターグループ（講師や学生の互助グループ）の一員として，君は新入生の世話をしなければならない。	"As a member of this mentor group, you must look after a freshman."		
+TJ030S001	1	30	☆：マーティーは退学になるの？彼が試験でカンニングしたとは思えないわ。 ★：まだ結論は出ていないんだ。大学の理事会が来週開かれ るらしい。	☆：Is Marty being expelled from school? I don’t think he cheated on the exam. ★：The jury is still out. The school board will meet next week.		
+TJ030S002	1	30	☆：生徒会に入ってくれない？ ★：それは一番望んでいないことだ。	☆：Would you please join the student union? ★：That’s the last thing I want to do.		
+TJ030S003	1	30	★：カレン，ありがとう。君は僕たちのプロジェクトを救ったよ。君の努力がなければ，駄目だったところだ。 ☆：気にしないでね。私は他のみんなのように，自分の役割を十分に果たしただけだ	"★：Thank you, Karen. You saved our project. If it had not been for your efforts, we would have been ruined. ☆：Never mind. I just pulled my weight like everyone else."		
+TJ030S004	1	30	★：次の大学祭の計画をいくつかあれこれ検討したみたいだね。 ☆：そうなのよ，ジム。でもね，結局何も決まらなかったの。	"★：You seem to have kicked around several ideas for the coming university festival. ☆：Right, Jim. But we couldn’t reach a conclusion after all."		
+TJ030S005	1	30	☆：ピーターは素晴らしい社員だわ。 ★：本当にそうだね。業務の手順をすぐにのみ込んだからね。	"☆：Peter is a brilliant worker. ★：Yes, indeed. It was not long before he got the hang of our procedure."		
+TJ030S006	1	30	"☆：私たちの（大学の）理学部は急速に発展しているわ。 ★：本当だね。入学者が 2,000人を超えたんだ。"	"☆：Our Science Department is growing by leaps and bounds. ★：Yeah, the enrollment has exceeded two thousand."		
+TJ030S007	1	30	☆：なんでここの人たちは私たちの婚約を知っているの？ ★：いいかい，君のお母さんが至る所で僕たちのことを話しているんだ。	"☆：Why do people around here know about our engagement? ★：Look, your mother is talking about us to everyone right and left."		
+TJ030S008	1	30	☆：授業料が15パーセント上がるのよ！ ★：またかい？天井知らずに上がるね！	☆：Tuition is going up 15%! ★：Again? It’s going through the roof!		
+TJ030S009	1	30	☆：怖くて，あがってしまうわ。200人以上の参加者がいるの。プレゼンテーションできるかしら。 ★：落ち着いて，深呼吸するんだ。何と言ったって君は素晴らしい進歩をしたんだから（安心しなさい）。	"☆：I’m so scared that I’ve got stage fright. There are more than 200 attendees. I’m not sure I can give a presentation. ★：Hold yourself together and take a deep breath. After all, you’ve made great progress."		
+TJ030S010	1	30	☆：この地図は正しいかしら？私たち，正しい方角に進んでいるようには思えないわ。 ★：大丈夫。僕たちは正しい方向に進んでいるよ。	☆：Is this map correct? It doesn’t seem like we are driving towards the right direction. ★：Don’t worry. We are on the right track.		
+TJ031S001	1	31	全ての人々は地球温暖化を緩和するために，化石燃料の使用を減らすべきだ。	Everyone has to cut down on the use of fossil fuels to reduce global warming.		
+TJ031S002	1	31	トムとは面と向かって何一つ話ができない。	I cannot say anything to Tom face to face.		
+TJ031S003	1	31	ジョンはわれわれがいることに気付いている。	John is aware of our presence.		
+TJ031S004	1	31	スーザンは運転免許試験に合格することができなかった。 	Susan couldn’t get through the driving test.		
+TJ031S005	1	31	私はついに宿題を終えた。	I got through my assignment at last.		
+TJ031S006	1	31	私のプロジェクトが失敗した時，研究室の誰もが私に冷たくした。	"When my project failed, everyone in the laboratory gave me the cold shoulder."		
+TJ031S007	1	31	秘書の仕事の一つは，会議で話し合われること全てを書き留めることであった。	One of the secretary’s jobs was to take down everything that was discussed at a meeting.		
+TJ031S008	1	31	メアリーは公園を散歩していてトムに偶然出会った。	Mary ran across Tom while walking in the park.		
+TJ031S009	1	31	私たちは，鳥インフルエンザに関する時代遅れの検査方法を取り除くべきだ。	We should get rid of these old-fashioned methods of testing for avian flu.		
+TJ031S010	1	31	偶然にも駅で旧友に出くわした。	I met an old friend of mine at the station by accident.		
+TJ031S011	1	31	今までのところはテッドから便りがない。	We have heard nothing from Ted as yet.		
+TJ031S012	1	31	わが家にちょっと立ち寄ってください。	Please drop in at my home.		
+TJ031S013	1	31	彼は偶然に新しい彗星を発見した。	He found a new comet by chance.		
+TJ031S014	1	31	君は約束したことに応えるようにしなさい。	Please live up to what you have promised.		
+TJ031S015	1	31	君は学校を２週間休んでいるね。クラスメートに追いつかなくてはね。	You’ve been absent from school for two weeks. You have to catch up with your classmates.		
+TJ031S016	1	31	ジュディーは三角関数を一日中勉強した。	Judy studied trigonometric functions all day long.		
+TJ032S001	1	32	外でサッカーをしてうっぷんを晴らすのがいいでしょう。	It might be better for you to blow off steam by playing soccer outside.		
+TJ032S002	1	32	患者は手術の間，歯科医から目をそらした。	The patient looked away from the dentist during the operation.		
+TJ032S003	1	32	化学では彼は誰にも劣らない。	He is second to none in chemistry.		
+TJ032S004	1	32	彼女は新しい企画に昼も夜もかかりきりだ。	She has been working on the new project day and night.		
+TJ032S005	1	32	彼の主張は正しいという結論に達した。	We came to the conclusion that his proposition was correct.		
+TJ032S006	1	32	ハチドリの母親はヒナ鳥を脅かしていたタカに襲いかかった。	The mother hummingbird made at a hawk that was threatening its chicks.		
+TJ032S007	1	32	彼は会議の時間を確認した後，電話を切った。	He hung up after he checked the meeting time.		
+TJ032S008	1	32	まともな給料をもらえる仕事を手に入れるのは難しい。	It’s hard to come by a job with a decent salary.		
+TJ032S009	1	32	どうぞ立ち寄って監督に会ってください。	Please come by and see our director.		
+TJ032S010	1	32	スーザンは妹のために，給料の半分を取っておいている。	Susan sets aside half of her salary for her sister.		
+TJ032S011	1	32	あなたの夢が全て実現しますように。	I hope all of your dreams will come true.		
+TJ032S012	1	32	アジア諸国の生産技術レベルは，南米諸国の生産技術レベルと同等である。	The technical level of the Asian production is on a par with that of the South American production.		
+TJ032S013	1	32	予定を立てるのに苦労した。	I had difficulty in making up the schedule.		
+TJ032S014	1	32	分子は原子と呼ばれる微粒子から成り立つ。	The molecule consists of particles called atoms.		
+TJ032S015	1	32	遅かれ早かれ，ルイスは私たちの委員会の委員長に選出されるだろう。	"Sooner or later, Louis will be elected president of our committee."		
+TJ032S016	1	32	スミス教授はベルが鳴った後も授業し続けていた。	Professor Smith kept on teaching even after the bell rang.		
+TJ033S001	1	33	トムは彼女を見ると，顔をしかめた。	"When Tom saw her, he made a face."		
+TJ033S002	1	33	スーザンは川を渡った。	Susan got across the river.		
+TJ033S003	1	33	彼の説明はあいまいで，私に彼の考えを分からせることはできなかった。	"His explanation was vague, and he could not get his idea across to me."		
+TJ033S004	1	33	私にはトムのやったことを信じられない。自転車をただで寄付したんだよ！	I cannot believe what Tom did. He gave away his bike for nothing!		
+TJ033S005	1	33	図書館での仕事が，私の生活の糧です。	Working at the library is my bread and butter.		
+TJ033S006	1	33	アジアの文化にはよくあることだが，日本人は年長者を尊敬する。	"As is usual with Asian cultures, Japanese people respect their elders."		
+TJ033S007	1	33	陰で人の悪口を言ってはいけません。	Don’t speak ill of a man behind his back.		
+TJ033S008	1	33	授業を一緒に受けてから，私はキャシーと付き合うようになった。 	I fell in with Kathy after taking a class together.		
+TJ033S009	1	33	委員会のメンバー全員が最終的に再建計画に同意した。	All the committee members fell in with the restructuring plan in the end.		
+TJ033S010	1	33	長期療養を続けていた前首相は，今朝亡くなった。	"The former prime minister, who had long been sick, passed away this morning."		
+TJ033S011	1	33	過密なスケジュールのために，会う段取りを組むことができなかった。	"Due to our busy schedules, we couldn’t arrange to meet."		
+TJ033S012	1	33	ヘンリーはケンに遅れを取らないよう一生懸命に勉強した。	Henry studied hard not to fall behind Ken.		
+TJ033S013	1	33	誰かが週末に押し入って，教科書を盗んでいった。	Somebody broke in during the weekend and stole my textbooks.		
+TJ033S014	1	33	私が話しているときに割り込むな。	Don’t break in while I’m talking.		
+TJ033S015	1	33	これらの馬は容易に調教されるだろう。	These horses will be easily broken in.		
+TJ033S016	1	33	私は一連の新しい実験方式を好まない。	I don’t care for the new series of experiments.		
+TJ033S017	1	33	各人が自分のペットの世話をするべきだ。	One should care for his or her own pet.		
+TJ033S018	1	33	社会規範に従うことは大事だ。	It is important that you conform to social norms.		
+TJ033S019	1	33	彼は仕事で，米国と日本を行ったり来たりしている。	He has been traveling to and fro between the U.S. and Japan on business.		
+TJ033S020	1	33	君の知識をもってすれば，教授として通用すると思う。	"With your knowledge, I think you could pass for a professor."		
+TJ034S001	1	34	私たちは彼の昇進を喜んでいる。	We are pleased at his promotion.		
+TJ034S002	1	34	彼らは船員のふりをした。	They made believe that they were sailors.		
+TJ034S003	1	34	レポートを期限後に提出することはできない。それは問題外だ。	You can’t hand in your report after the due date. That’s out of the question.		
+TJ034S004	1	34	キング教授はナンシーに，それらのテキストを配るように言った。	Professor King asked Nancy to give out those textbooks.		
+TJ034S005	1	34	１万マイル走った時，私たちの車のエンジンが動かなくなった。	"The engine of our car gave out when we drove 10,000 miles."		
+TJ034S006	1	34	級友の中で彼を支持した者は誰もいなかった。	None of his classmates stood by him.		
+TJ034S007	1	34	ハイウェイ・パトロールは緊急事態に備えて待機している。	Highway patrols are standing by in case of emergency.		
+TJ034S008	1	34	ジムが前議長の職を引き継ぐ予定だ。	Jim is going to take over the duties from the former chairperson.		
+TJ034S009	1	34	私が話している最中に割り込むな！	Don’t cut in while I’m talking!		
+TJ034S010	1	34	私はレポートの作成を手伝ってもらうために，手当たり次第にクラスメートに電話した。	I called up my classmates at random to ask them for help in writing a report.		
+TJ034S011	1	34	私たちは新しい試験が始まる前に，手続きをくまなく調べなければなりません。 	We have to go through the procedure carefully before the new exam.		
+TJ034S012	1	34	ピルグリム・ファーザーズは多くの困難を経験した。	The Pilgrim Fathers went through many hardships.		
+TJ034S013	1	34	親切な看護師がその患者の世話をした。	The patient was attended to by a kind nurse.		
+TJ034S014	1	34	トムもメアリーもその課題を理解することができなかった。	Neither Tom nor Mary could understand the assignment.		
+TJ034S015	1	34	全てが必ずうまくいくように取り計らいます。	I will see to it that everything goes well.		
+TJ034S016	1	34	コピー機が出現する前には，人々は手で書き写さなければならなかった。	"Prior to the advent of the copier, people had to copy by hand."		
+TJ034S017	1	34	ぜいたくをしないでください。収支を合わせなければいけません。	Please don’t be lavish. We have to make both ends meet.		
+TJ034S018	1	34	この方程式の解き方を教えてくれませんか。私にはそれを理解することができません。	Could you show me how to solve this equation? I cannot make heads or tails of it.		
+TJ035S001	1	35	★：風邪が治ったようだね。 ☆：それほどでもないのよ。まだ風邪と戦っているの。	★：You seem to have gotten over your cold. ☆：Not quite. I’m still fighting it off.		
+TJ035S002	1	35	★：州の野球選手権を見たかい？僕たちの大学が全国大会に出られるんだ。 ☆：ええ，危機一髪だったわね（かろうじて勝ったわね）。	"★：Did you see the state baseball championship? Our college can go to the national competition. ☆：Yeah, it was a close call."		
+TJ035S003	1	35	★：NASA（航空宇宙局）に宇宙飛行士の応募をするんだ。 ☆：その前に宿題を終わらせなさいよ。もっと現実的にならないと駄目よ。	"★：I’m applying to NASA to become an astronaut. ☆：Before that, why don’t you finish your assignment? You should come down to earth."		
+TJ035S004	1	35	★：なんて山道なんだ！完全に疲れ切ったよ。 ☆：泣き言を言わないで！あと５マイル歩くのよ。	★：What a trail that was up the mountain! I’m completely wiped out. ☆：Stop whining! We have another 5 miles to walk.		
+TJ035S005	1	35	★：ああ，来週キャンパスで新卒募集があるんだ。履歴書を提出したいな。 ☆：あまり期待しない方が良いわよ。ほんの少しの会社しか来 ないわよ。	"★：Oh, there is a campus recruiting next week. I want to drop off my r?sum?. ☆：Please don’t expect too much. Only a handful of companies will attend."		
+TJ035S006	1	35	☆：こんにちは，ベン。昇進したんですってね。おめでとう。 ★：実際には，僕の昇進は条件付きなんだ。毎月厳しい販売ノルマがあるん だよ。	"☆：Hi, Ben. I heard you got a promotion. Congratulations. ★：As a matter of fact, my promotion is with strings attached. I have a high sales quota every month."		
+TJ035S007	1	35	☆：この本棚を組み立てるのにすごく時間がかかるわ。 ★：手伝おうか？	☆：It’s taking forever to assemble this book case. ★：Need a hand?		
+TJ035S008	1	35	★：ジョアンと来月結婚することになったんだ。先月会って以来，僕たち気が合ってね。 ☆：その通りね！本当に良かったわね！	★：I decided to get married to Joan next month. We’ve hit it off well since I met her last month. ☆：You can say that again! I’m happy for you!		
+TJ035S009	1	35	★：最近疲れ切っているんだ。コースを辞めようかと思い始めているんだ。 ☆：冗談でしょう！あと１つテストがあるだけでしょう。	★：I’m really exhausted these days. I’m thinking of quitting the course. ☆：You can’t be serious! There’s only one more test.		
+TJ035S010	1	35	★：ルークは近頃夜遅くまで仕事をしているね。 ☆：ええ，モーターを回転させる新しい方法を確立したいんですって。彼は先例にならうことはしない人だけれど，彼の精神は賞賛に値す るわ。	"★：Luke has been burning the midnight oil lately. ☆：Well, he said he wants to establish a new way to rotate motors. Although he doesn’t follow suit, his spirits are well appreciated."		
+TJ036S001	1	36	人口増加は食料供給に比例することが必要である。	It is necessary that population growth (should) be in proportion to the food supply.		
+TJ036S002	1	36	その映画は小説に忠実だ。	The movie is true to the novel.		
+TJ036S003	1	36	私たちは時折，一緒にレポートを書きます。	We get together at times to write papers.		
+TJ036S004	1	36	ビルが医学部に向いているとは思わない。	I don’t think Bill is cut out for medical school.		
+TJ036S005	1	36	レポートを終わらせるために，メアリーは昼食なしで済ませなければならなかった。	"In order to finish the paper, Mary had to go without lunch."		
+TJ036S006	1	36	学校の規則に従わなければならない。	You have to comply with the school rules.		
+TJ036S007	1	36	私たちはみんな，彼の進歩に驚いている。	We are all amazed at his progress.		
+TJ036S008	1	36	すみません，あのコピー機は故障しています。	"Sorry, that copy machine is out of order."		
+TJ036S009	1	36	全体的に見て，ここの生徒はとても勉強熱心だよ。	"On the whole, the students here are very industrious."		
+TJ036S010	1	36	私が働いている食堂は，何人かの職員を一時解雇する予定だ。	The diner I’m working for will lay off some of its staff.		
+TJ036S011	1	36	バラは暖かい部屋ではしおれてしまいがちである。	Roses are liable to wither in a warm room.		
+TJ036S012	1	36	これらの植物は水を大いに必要としている。	These plants are crying out for water.		
+TJ036S013	1	36	自分自身のクローンを作れるということは決して幸福ではない。	It is by no means a blessing to be able to make clones of ourselves.		
+TJ036S014	1	36	春には，桜の木は美しい花を咲かせる。	"In spring, cherry trees put forth lovely blossoms."		
+TJ036S015	1	36	彼は記事の中で彼の考えを提言した。	He put forth his ideas in the article.		
+TJ036S016	1	36	スーザンの提案が会議で取り上げられた。	Susan’s proposal came up at the conference.		
+TJ037S001	1	37	箱を逆さまにしないでください。	Don’t turn the box upside down.		
+TJ037S002	1	37	君は私の部屋をめちゃくちゃにした！	You turned my room upside down!		
+TJ037S003	1	37	彼女のコメントは簡潔で的を射ていた。	Her comment was brief and to the point.		
+TJ037S004	1	37	送別会の準備をしましょう。	Let’s make arrangements for the farewell party.		
+TJ037S005	1	37	国連は世界平和のために設立された。	The United Nations was established for the sake of world peace.		
+TJ037S006	1	37	数学に関しては，ケンにお願いをしてはどうですか。	"As for math, why not ask a favor of Ken?"		
+TJ037S007	1	37	彼が空港に到着するやいなや，飛行機は離陸した。	No sooner had he arrived at the airport than the plane took off.		
+TJ037S008	1	37	ジムは彼の計画が受け入れられるのを当然のことと思っていた。しかし実際には，それは却下された。	"Jim took it for granted that his plan would be accepted. But in fact, it was rejected."		
+TJ037S009	1	37	スーはコンテストで良いスピーチをすることを確信していた。	Sue was confident of making a good speech at the contest.		
+TJ037S010	1	37	簡潔に言えば，君が本当に１番になりたいのなら，もっと頑張らなければならない。	"In a nutshell, if you really want to be the best, you’ll just have to work harder."		
+TJ037S011	1	37	そのプロジェクトは10億ドルもの大金を必要とした。	The project required no less than one billion dollars.		
+TJ037S012	1	37	私は数学より経済学を好む。	I prefer economics to math.		
+TJ037S013	1	37	彼の講義は要点から外れていた。	His lecture was beside the point.		
+TJ037S014	1	37	返してくれる限りは，私のペンを使ってもいいよ。	You can use my pen as long as you return it.		
+TJ037S015	1	37	君がここにいる間は，自分の分の家賃を支払うことを忘れないように。	"As long as you stay here, do not forget to pay your share of the rent."		
+TJ037S016	1	37	あなた自らここに来られたことに感謝しています。	I am grateful that you came here in person.		
+TJ037S017	1	37	彼の真の性格は先生方が考えているのと全く反対である。	His true character is very contrary to what the teachers think.		
+TJ038S001	1	38	ボストン市民は茶条例のために憤慨した。	Bostonians got angry because of the Tea Act.		
+TJ038S002	1	38	いつまでもこの思い出を持っていたい。	I want to have this memento for keeps.		
+TJ038S003	1	38	君はこのホッケートーナメントに参加することになっているよ。	You are supposed to participate in this hockey tournament.		
+TJ038S004	1	38	彼を知っている。彼の名前はのどまで出かかっているんだが，思い出せない。	"I know him. His name is on the tip of my tongue, but I just can’t remember it."		
+TJ038S005	1	38	私には本物のドル紙幣と偽物とを区別するのが本当に難しい。	It’s pretty difficult for me to distinguish real dollar bills from fake ones.		
+TJ038S006	1	38	トムは上司が出張で不在の間，オフィスを管理するだろう。	Tom will take charge of the office while his boss is away on a business trip.		
+TJ038S007	1	38	彼は授業中におしゃべりを控えることはなかった。	He did not refrain from chatting in the class.		
+TJ038S008	1	38	私はトムを信用している。彼は約束を守る人間だ。	I believe in Tom. He is a man of his word.		
+TJ038S009	1	38	君が電話をくれた時，私は仕事をしていた。	"When you called me, I was at work."		
+TJ038S010	1	38	この成分を作り出すのに作用する特有の酵素を特定することが重要だ。	It is important to identify the specific enzyme at work in producing this substance.		
+TJ038S011	1	38	彼はちょっとしたミュージシャンです。	He is something of a musician.		
+TJ038S012	1	38	ジムは年の割に若く見える。	Jim looks young for his age.		
+TJ038S013	1	38	私はフルマラソンを走れると思わない。私は体がなまっている。	I don’t think I can run a full marathon. I’m out of shape.		
+TJ038S014	1	38	考古学は古代の遺物を扱う。 	Archaeology (Archeology) deals with ancient artifacts.		
+TJ038S015	1	38	サムはあの供給業者と10年間，取引している。	Sam has dealt with that supplier for ten years.		
+TJ038S016	1	38	私たちのチームが５対４で試合に負けた時，キャプテンはがっかりした顔をした。	"When our team lost the game 5 to 4, our captain made a longface."		
+TJ038S017	1	38	この失敗を心に留めておきなさい。次の試験では失敗しないように。	Bear this failure in mind. Don’t fail the examination next time.		
+TJ039S001	1	39	ここにあるいくつかの物質は可燃性です。例えば，このマグネシウムの板は燃やすことができます。	"Some substances here are combustible. For instance, you can light this magnesium plate."		
+TJ039S002	1	39	国連は，核エネルギーの平和利用について合意に達した。	The United Nations came to terms with peaceful uses of nuclear energy.		
+TJ039S003	1	39	大気汚染は徐々に私たちの健康をむしばんでいる。	The air pollution has undermined our health by degrees.		
+TJ039S004	1	39	結局，私は宿題を朝の５時までに終わらせることができた。	"In the end, I was able to finish the assignment by 5 o’clock in the morning."		
+TJ039S005	1	39	期末試験のレポートの採点を担当してください。	Please take care of grading the final papers.		
+TJ039S006	1	39	父は私の留守の間，私の犬の世話をしてくれた。	My father took care of my dog while I was away.		
+TJ039S007	1	39	ジムは，両親が彼の学校でのひどい成績について言い争っていたので，家から逃げ出した。	Jim ran away from home because his parents fought about his poor grades at school.		
+TJ039S008	1	39	この件について，あなたと内密に話をしたいのですが。	I would like to discuss this matter with you in private.		
+TJ039S009	1	39	彼女は永久に家に帰らなかった。	She left home for good.		
+TJ039S010	1	39	彼のオペレーティングシステムを復旧させようという努力は，無駄に終わった。	His efforts to restore the OS were in vain.		
+TJ039S011	1	39	その店は口コミで，多くの新しい化粧品を売り上げた。	The shop sold hundreds of new cosmetics through word ofmouth.		
+TJ039S012	1	39	努力は潜在能力を引き出す。	Efforts will bring out your potential.		
+TJ039S013	1	39	私は新しいテキストを出版するつもりだ。	I’m going to bring out new textbooks.		
+TJ039S014	1	39	昨夜は時折雪が降った。	"Last night, it snowed on and off."		
+TJ039S015	1	39	私が戻ってくる時までに終えるように。	Try to finish by the time I’m back.		
+TJ039S016	1	39	電灯を消すのを忘れないでください。	Please don’t forget to put out the lights.		
+TJ039S017	1	39	昨年は多くのコンピューター会社がより多くの製品を生産した。	Many computer companies put out an increased number of units last year.		
+TJ039S018	1	39	この単語はフランス語に由来する。	This word is derived from French.		
+TJ040S001	1	40	☆：食料品をたくさん買い過ぎたわ。手を貸してくれない？ ★：もちろんだよ。今，駐車場に向かっているところなんだ。	☆：I bought too many groceries. Could you give me a hand? ★：Sure thing. I’m on my way to the parking lot.		
+TJ040S002	1	40	★：このところ図書館に缶詰だよ。休暇に出かけたいな。 ☆：そうね，私たちかなり大変な読書課題があるものね。でも，私は続けたい気 がするけど。	"★：I’ve been cramming in the library. I want to go on vacation. ☆：Yes, we have quite a heavy reading assignment. I’d actually care to continue it, though."		
+TJ040S003	1	40	★：式に出なければならないの？ ☆：何で慎重に考えているの？あなたの兄弟の卒業式でしょ。	★：Should I attend the ceremony? ☆：Why are you thinking twice? It’s your brother’s graduation ceremony.		
+TJ040S004	1	40	☆：学生自治会のパーティーに行きましょうよ。飲み物はただだし，楽しくお話ができるわよ。 ★：冗談だろ。勉強しなければいけないんだ。	☆：Let’s go to the student union party. The drinks are free and we can have a good talk. ★：No way. I have to hit the books.		
+TJ040S005	1	40	★：ウィリアムはジェーンに言い過ぎだったよ！ ☆：彼女は彼を黙らせたわ。負けずにやり返したのよ。	★：William said too much to Jane! ☆：She argued him into silence. She gave as good as she got.		
+TJ040S006	1	40	★：パンフレットの予算がかなり限られている。必要のないページをいくつか削らなくちゃ。 ☆：一理あるわね。	★：Our budget for this brochure is pretty limited. We should cut some of the unnecessary pages. ☆：You have a point.		
+TJ040S007	1	40	★：今夜パーティーに来られないかい？ ☆：プレゼンテーションの準備で忙しいの。ごめんなさい。また今度にするわ。	"★：Won’t you come to the party tonight? ☆：I’m up to my ears in the preparation for the presentation. Sorry, but I’ll have to take a rain check."		
+TJ040S008	1	40	★：ジャネット，どうしたんだい。憂うつそうだ。 ☆：何でもないの。数学でＣを取っただけよ。	"★：Hi, Janet. What’s up? You look blue. ☆：Nothing. I just got a “C” in math."		
+TJ040S009	1	40	☆：イタリア旅行のことを考えるのをやめられないわ。 ★：僕もだよ。でも期末試験が迫っているよ。気持ちを切り替えなきゃね。	"☆：I can’t stop thinking about our trip to Italy. ★：Me, neither. But final exams are coming. We have to snap out of it."		
+TJ040S010	1	40	☆：あなたのレポートは，アウトラインはしっかりしているわ。でも，結論が的外れです。 ★：まだ書き直すことはできますか？	☆：Your paper was well-outlined except the conclusion was off the mark. ★：Is it still possible to rewrite the paper?		
+TJ041S001	1	41	最初テッドは不器用だと思っていたが，それどころか，彼は私の車を直してくれた。	"At first I thought Ted was clumsy; on the contrary, he was able to fix my car."		
+TJ041S002	1	41	強風が徐々になくなった。	The strong wind died away.		
+TJ041S003	1	41	パンダは昨夜，２頭目のオスを産んだ。	The panda gave birth to a second male last night.		
+TJ041S004	1	41	外食しようがしまいがどちらでもいいよ。君次第だよ。	I don’t mind whether we eat out or not. It depends on you.		
+TJ041S005	1	41	そんなばかなことをするなよ！それは度が過ぎているよ！	Don’t be ridiculous! That’s going too far!		
+TJ041S006	1	41	君が発明したものは，事実上，われわれの研究には役に立たないものだった。 	"What you invented was, in effect, useless to our lab work."		
+TJ041S007	1	41	この法律は1959年以来有効である。	This law has been in effect since 1959.		
+TJ041S008	1	41	彼はその新技術に精通していた。	He was acquainted with the new technology.		
+TJ041S009	1	41	効率的な勉強方法が，卒業するのに大いに役立つでしょう。	Effective study methods will go a long way to helping you graduate.		
+TJ041S010	1	41	彼がわれわれに話したことは，ある程度は本当のようだ。	What he told us seems to be true to some extent.		
+TJ041S011	1	41	君の努力は称賛に値する。うまくいくと信じているよ。	Your efforts are admirable. I believe things will work out well.		
+TJ041S012	1	41	そろそろエディソン教授に会いに行ってもいいころだよね。	"It’s about time you saw Professor Edison, isn’t it?"		
+TJ041S013	1	41	トムはオンライン上のワープロソフトを用いて宿題を書き上げた。	Tom wrote the assignment by means of an online word processor.		
+TJ041S014	1	41	彼は，１日 12時間勉強をするのを苦にしなかった。	He thought nothing of studying 12 hours a day.		
+TJ041S015	1	41	私は彼女の言ったことを理解することができない。	I can’t figure out what she said.		
+TJ041S016	1	41	激論の後で，ナンシーは腹を立てて家へ帰ってしまった。	"After the heated discussion, Nancy lost her temper and went home."		
+TJ042S001	1	42	彼に連絡を取ろう。	Let’s get in touch with him.		
+TJ042S002	1	42	兄はきっとうまくやるよ。保証する。	"My brother will make good, I promise you. He’s a genius."		
+TJ042S003	1	42	彼は天才なんだ。 ジムは約束を果たした。	Jim made good on his promise.		
+TJ042S004	1	42	この薬を使えば，３時間は痛みがないでしょう。	"With this medicine, you will be free from pain for three hours."		
+TJ042S005	1	42	ティムは，たったの１学期で中途退学した。	Tim dropped out of school after just one semester.		
+TJ042S006	1	42	頑張ってください，あきらめないで！ 	You should hang on and never give up!		
+TJ042S007	1	42	切らないでお待ちください。スタッフがすぐに応対いたします。	"Hang on, please. A staff member will be with you right away."		
+TJ042S008	1	42	ジャックはいいやつだ。いつも約束を守る。	Jack is a good person. He always keeps his word.		
+TJ042S009	1	42	スミス教授の研究は，これからの時代に有益である。	Professor Smith’s study is beneficial to the upcoming era.		
+TJ042S010	1	42	ジムは数学が得意であった。	Jim was good at math.		
+TJ042S011	1	42	黙っていなさい。誰も君の言うことなんか聞いていないよ。	Save your breath. No one is listening to you.		
+TJ042S012	1	42	あまりカリキュラムについて不平を言うなよ。良くできているよ。	Don’t complain about the curriculum so much. It’s well designed.		
+TJ042S013	1	42	先生の言うことに注意を払わなければいけません。彼はとても厳格な方です。	You have to pay attention to what the teacher says. He is very stringent.		
+TJ042S014	1	42	私たちは新しい公会堂を建設する資金を使い果たした。	We ran out of funds to construct a new auditorium.		
+TJ042S015	1	42	その警官たちは極秘の使命に従事している。	The policemen have been engaged in a secret mission.		
+TJ042S016	1	42	もし留学したいなら，遠回しに言うのはやめなさい。そう言えば良い。	"If you want to study abroad, don’t beat around the bush. You should say so."		
+TJ042S017	1	42	宿題を手伝ってもらうために，メアリーはトムに来る日も来る日も電話した。	Mary called up Tom day after day to get help with her assignments.		
+TJ043S001	1	43	ジムの事業は好況のおかげで大きな富を生んだ。	Jim’s business made a big fortune by virtue of the boom.		
+TJ043S002	1	43	君の発明は素晴らしいものだったが，実際にはうまく機能しなかった。	"Your invention was great; however, it did not work well in practice."		
+TJ043S003	1	43	メアリーは親切にもノートのコピーを私にくれた。	Mary was so kind as to give me a copy of her notes.		
+TJ043S004	1	43	クラスメートは共同の論文についての私の意見を無視した。 	My classmates left out my opinion on our joint essay.		
+TJ043S005	1	43	メアリーはレポートの中で，重要な情報を抜かさないように努めた。	Mary tried not to leave out important information in her report.		
+TJ043S006	1	43	君はその状況をあるがままに受け入れなければならない。	You have to accept the situation as it is.		
+TJ043S007	1	43	もし彼のアドバイスがなかったら，私たちの計画は失敗していたでしょう。	"If it had not been for his advice, our plan would have failed."		
+TJ043S008	1	43	若い優秀な医者が手術を担当した。	"A young, competent doctor was in charge of the operation."		
+TJ043S009	1	43	その川は太平洋へと流れている。 	The river runs down to the Pacific Ocean.		
+TJ043S010	1	43	携帯電話のバッテリーが切れそうだ。	The battery of my cell phone is running down.		
+TJ043S011	1	43	私は英字新聞２紙を購読している。 	I subscribe to two English language papers.		
+TJ043S012	1	43	トンプソン教授は，親切にも私たちのチャリティーコンサートに寄付をした。	Professor Thompson was kind enough to subscribe to our charity concert.		
+TJ043S013	1	43	貧しい人がいつも惨めとは限らない。	The poor are not always miserable.		
+TJ043S014	1	43	外国で働くことは彼のためになるでしょう。	It will do him good to work in a foreign country.		
+TJ043S015	1	43	年金のおかげで，お金が足りなくなったことがない。	"Thanks to our pensions, we’ve never wanted for money."		
+TJ043S016	1	43	サムは，生物学のレポートを仕上げるために夜遅くまで勉強している。	Sam has been burning the midnight oil to finish his bio report.		
+TJ043S017	1	43	この機械は壊れた。 	This machine broke down.		
+TJ043S018	1	43	これらの標本を分類してくれませんか。	Could you break down these specimens into groups?		
+TJ043S019	1	43	新プロジェクトの予算は，私たちが要求した額に達しなかった。	The budget for the new project fell short of what we had requested.		
+TJ044S001	1	44	私が就職したといううわさが広まっている。	There’s a rumor in the air that I got the job.		
+TJ044S002	1	44	多くの政治家や官僚たちは，均衡予算を編成しようと努力している。	Many politicians and bureaucrats are making efforts to establish a balanced budget.		
+TJ044S003	1	44	夕食に出かけよう。今夜は非番なんだ。	Let’s go out for dinner tonight. I’m off duty.		
+TJ044S004	1	44	この平原では時々，日本のツルを見ることができる。	You can see Japanese cranes in this field from time to time.		
+TJ044S005	1	44	なんて素晴らしい日なんだ！晴れ上がったよ。今日は実験室に閉じこもっていたくないな。	What a nice day! It has cleared up. I don’t want to stay in the lab today.		
+TJ044S006	1	44	スーザンはその島民の歴史に熟達している。	Susan is proficient in the history of the islanders.		
+TJ044S007	1	44	ご両親によろしくお伝えください。	Please give my best regards to your parents.		
+TJ044S008	1	44	交通の騒音は夜には静まるでしょう。	The traffic noise will die down by night.		
+TJ044S009	1	44	君がここに泊まろうが泊まるまいが私は構わないよ。 	It’s all the same to me whether you stay here or not.		
+TJ044S010	1	44	トムは少し無作法だが，それでもリサは彼を信じている。	"Tom is a little bit rude, but Lisa believes in him all the same."		
+TJ044S011	1	44	彼は私たちの家を訪れたが，私たちはその時，外出していた。	"He called on us, but we were out at that time."		
+TJ044S012	1	44	彼の健康問題はお酒の飲みすぎが原因である。	His health problems come from drinking too much.		
+TJ044S013	1	44	彼女はケンタッキー州の出身です。	She comes from Kentucky.		
+TJ044S014	1	44	月曜日までにレポートを提出してください。	Please turn in your paper by Monday.		
+TJ044S015	1	44	新しい教授に関する知らせを学部長から直接聞いた。	I heard the news about the new professor at first hand from the dean.		
+TJ044S016	1	44	それとは反対の意見はありません。	We have nothing to say to the contrary.		
+TJ044S017	1	44	ジムの成績はクラスのほかの生徒よりずば抜けていた。	Jim’s achievement stood out from the other students in the class.		
+TJ045S001	1	45	★：僕は，３つの数学，２つの統計学，そして，２つの経済学を登録しているよ。 ☆：あらなんてこと！それは手に余ることね。	"★：I’m registering for three math, two statistics, and two economics courses. ☆：Oh, dear! That’s a bridge too far."		
+TJ045S002	1	45	★：また宝くじに外れたよ！ ☆：次はうまくいくわよ！	★：I lost the lottery again! ☆：Better luck next time!		
+TJ045S003	1	45	★：お母さん，見て！全額給付の奨学金をもらったよ。さあ，大学院に行けるんだ。 ☆：なんて素晴らしいことでしょう。あなたの一生懸命の努力が報われてうれしいわ。	"★：Mom, look! I got a full scholarship. Now, I can go to grad school. ☆：This is really music to my ears. I’m glad your hard work has paid off."		
+TJ045S004	1	45	☆：あら，冬支度を進めているの？秋祭りが始まったばかりよ。 ★：少しも早くないよ。山頂を見てごらん。白くなり始めている。	"☆：Wow, are you preparing for winter? The autumn festival has just begun. ★：None too early. Look at the mountaintop. It’s getting white."		
+TJ045S005	1	45	★：君は学期末までに君の専攻で取れる全てのクラスを取ってしまいそうだね。 ☆：そうね，国際経済学は取るのを思いとどまったわ。	"★：It seems you will have taken every available course in your major by the end of the semester. ☆：Well, I just stopped short of taking International Economics."		
+TJ045S006	1	45	☆：大学は，学費を値上げしようとしているわ。また値上げなんて我慢できないわ。 ★：でも，今のインフレを考えると，それももっとも だけどね。	"☆：The university is going to raise our tuition. I won’t stand for another raise. ★：But, thinking of today’s inflation, it talks sense."		
+TJ045S007	1	45	★：ルーシー，聞いた？ミラー教授はこれから毎回のクラスで小論文を書かせるつもりだって。 ☆：本当に？もう，我慢できないわ！	"★：Lucy, did you hear? Professor Miller is going to make us write a paper in every class from now on. ☆：Really? I can’t stand it anymore!"		
+TJ045S008	1	45	☆：どうしたの？目の下に大きなクマがあるわよ。 ★：生態学の授業が分からないんだ。個人教授を頼んだ方が良いだろうか？	☆：What’s wrong? You have bags under your eyes. ★：I’m lost in the ecology class. Is it better for me to ask for a tutor?		
+TJ045S009	1	45	☆：まただめなの！このコンピューターは嫌い。掲示板にさえアクセスできないわ。 ★：大丈夫だよ。一度コツを覚えれば，このコンピューターはとても頼りになるよ。	"☆：Not again! I hate this computer. I can’t even access the BBS. ★：Don’t worry. Once you learn the ropes, this computer is pretty reliable."		
+TJ045S010	1	45	★：スティーブは，椅子さえも直せない。 ☆：本当にそうよね。彼はひどく不器用だわ。	"★：Steve can’t even fix a chair. ☆：Yeah, indeed. He is all fingers and thumbs."		
+TJ046S001	1	46	現在，新しいプロジェクトが進行中だ。	The new project is now under way.		
+TJ046S002	1	46	私について言えば，その結果にとても満足しています。	"As for me, I’m very satisfied with the result."		
+TJ046S003	1	46	図書館の全ての本を利用できます。	You can avail yourself of all the books in the library.		
+TJ046S004	1	46	もう夜中だ。今日は終わりにしよう。	It’s almost midnight. Let’s wrap up for today.		
+TJ046S005	1	46	この大量の解答用紙は重すぎるよ。ねえ，僕のお願いを聞いて，半分運んでくれない？	"This stack of answer sheets is too heavy. Hey, would you do me a favor and carry half of them?"		
+TJ046S006	1	46	医者はとりわけよく休息をとるようにと言った。	"My doctor told me that I should take a good rest, among otherthings."		
+TJ046S007	1	46	彼女は新しい計画を実行するため，懸命に努力している。	She has tried hard to carry out the new plan.		
+TJ046S008	1	46	私たちは学位取得のために一生懸命勉強しなければならない。	We are obliged to work hard in attaining a degree.		
+TJ046S009	1	46	辞書で “leukemia（白血病） ” という単語を調べなさい。	Look up the word “leukemia” in the dictionary.		
+TJ046S010	1	46	ジムはいつも的外れなことを言う。	Jim always speaks wide of the mark.		
+TJ046S011	1	46	この機械の出力は発電所のそれに匹敵する。	The output of this machine is equal to that of a power plant.		
+TJ046S012	1	46	君はきっとうまくやるよ。幸運を祈る。	You’ll do fine. We’ll keep our fingers crossed.		
+TJ046S013	1	46	その事件に関する彼の陳述は疑わしかった。	His statement about the incident was in question.		
+TJ046S014	1	46	われわれは幾多の苦難を切り抜けてきた。	We have come through many hardships.		
+TJ046S015	1	46	勤勉さによって，彼らは全ての障害を乗り越えることができるだろう。	Industriousness will enable them to overcome all the obstacles.		
+TJ047S001	1	47	ジョン・オストロム教授は恐竜と鳥類との関連性を提唱した。 	Professor John Ostrom put forward a link between dinosaurs and birds.		
+TJ047S002	1	47	会議は20分早められた。	The meeting has been put forward by 20 minutes.		
+TJ047S003	1	47	ケントは，私に学生会館までコンサートのチケットを買いに立ち寄らせた。	Kent made me run over to the Student Union Center to buy concert tickets.		
+TJ047S004	1	47	クリスティーンは自身のテーマに関する研究中，あらゆる手段を尽くした。	Kristine left no stone unturned during her research on her subject.		
+TJ047S005	1	47	パーティーの準備をする間，君の友達のことを考慮した。	"While preparing for the party, I took your friends into account."		
+TJ047S006	1	47	彼は生まれつき数学の天才だ。	He is a mathematical genius by nature.		
+TJ047S007	1	47	船長は船員を召集した。	The captain called out the crew.		
+TJ047S008	1	47	全体として，この国では人々の栄養状態は良好です。	People at large are well nourished in this country.		
+TJ047S009	1	47	残念なことに，銀行強盗たちはまだ捕まっていない。	"Unfortunately, the bank robbers are still at large."		
+TJ047S010	1	47	ホワイト博士は素晴らしい医者で，今や裕福である。	Dr. White is an excellent physician and is now well-off.		
+TJ047S011	1	47	この土地は耕作に適している。	This land is suitable for cultivation.		
+TJ047S012	1	47	ピーターが委員長の代行をする予定です。	Peter will fill in for the committee chairperson.		
+TJ047S013	1	47	事務所に連絡を取りたいのですが。	I’d like to get through to the office.		
+TJ047S014	1	47	これが私の公式行事への最後の出席になることを聴衆に理解させるのは難しいだろう。	It will be difficult for me to get it through to the audience that this will be my last public appearance.		
+TJ047S015	1	47	彼に昇進のことでお祝いを言った。	I congratulated him on his promotion.		
+TJ047S016	1	47	公園管理者は私たちに，毒蛇に近寄らないようにと警告した。	The park ranger warned us to keep away from poisonous snakes.		
+TJ047S017	1	47	スーザンは，標準的なコンピューターの代わりに携帯用コンピューターを購入した。	Susan bought a portable computer instead of a standard one.		
+TJ047S018	1	47	トムはテレビゲームをしてばかりいる。	Tom does nothing but play video games.		
+TJ047S019	1	47	私はアドミッションオフィス（入学審査事務局）からの返事を待つしかない。	I can do nothing but wait for a reply from the admission office.		
+TJ048S001	1	48	私たちは遺伝子工学の賛否を討論した。	We discussed the pros and cons of genetic engineering.		
+TJ048S002	1	48	何としても今月末までに，このプロジェクトを仕上げなければならない。	I have to finish this project by the end of this month at all costs.		
+TJ048S003	1	48	発展途上国における多くの貧しい人々は，その日暮らしの生活を送っている。	Many impoverished people in developing countries live from hand to mouth.		
+TJ048S004	1	48	とりわけ，この冬はお体を大事にしてください。	"Above all, please take care of yourself this winter."		
+TJ048S005	1	48	君は写実主義とロマン主義を区別することができますか。	Can you tell realism from romanticism?		
+TJ048S006	1	48	スーザンはクラシックバレエを好きになった。 	Susan took to classical ballet.		
+TJ048S007	1	48	彼は妻が亡くなった後，酒を飲むようになった。	He took to drinking after his wife died.		
+TJ048S008	1	48	大気汚染に関して，大気中の二酸化炭素を削減する方法の一つは，化石燃料の使用を代替することです。	"As to air pollution, one of the ways to reduce carbon dioxide in the air is to replace the use of fossil fuels."		
+TJ048S009	1	48	心配するな。スーザンはいずれにしてもやって来るよ。	Don’t worry. Susan will come at any rate.		
+TJ048S010	1	48	武装車は暴徒を抑制した。	The armed vehicles held the mob back.		
+TJ048S011	1	48	神部博士は，ナノテクノロジーの分野で有数の科学者として知られている。	Dr. Kambe is known as a leading scientist in nanotechnology.		
+TJ048S012	1	48	外に行く前に，宿題を放っておいてはいけません。	Don’t leave your assignments undone before you go out.		
+TJ048S013	1	48	パーティーを開きます。ぜひともおいでください。	We are going to have a party. Please come by all means.		
+TJ048S014	1	48	彼の作品は綿密さを欠いている。	His works are devoid of scrutiny.		
+TJ048S015	1	48	警察はここで麻薬常習者を徹底的に取り締まる。	The police crack down on drug addicts here with a vengeance.		
+TJ048S016	1	48	物理学を履修するとしたら，私は公式の詰め込み勉強をしなければならない。	I have to bone up on formulas if I’m to take physics.		
+TJ049S001	1	49	トムは初めから，その事故の原因を知っていた。	Tom knew the cause of the accident all along.		
+TJ049S002	1	49	チンパンジーの赤ちゃんの世話をしてくれませんか？１時間ほどで戻ります。	Would you please see after the baby chimp? We will come back in an hour.		
+TJ049S003	1	49	お返事いただけるのを楽しみにして待っています。	I’m looking forward to hearing from you soon.		
+TJ049S004	1	49	取締役会は新規プロジェクトに許可を与えた。	The board of directors gave the green light to the new project.		
+TJ049S005	1	49	ジョンソン教授の授業は，概して満足できる。	"Professor Johnson’s class is, by and large, satisfactory."		
+TJ049S006	1	49	私にはアジア象とアフリカ象を見分けることができない。	I can’t tell Asian elephants and African ones apart.		
+TJ049S007	1	49	私は学生の頃，マザー・テレサを尊敬していた。	I looked up to Mother Teresa during my school days.		
+TJ049S008	1	49	あなたが成年に達したら，自分の生き方を選んでよい。	You can choose your own way when you come of age.		
+TJ049S009	1	49	君の仕事は所定の水準まで達しなかった。	Your work didn’t come up to the required standards.		
+TJ049S010	1	49	実を言うと，夏期講習を受けなければならないかもしれない。	"As a matter of fact, I may have to take summer classes."		
+TJ049S011	1	49	喜んで新入生のオリエンテーションの準備をお手伝いします。	I’m willing to help you prepare for the freshmen orientation.		
+TJ049S012	1	49	新しい生産方式が根付き，高品質の製品を製造できるようになった。	The new production system took hold and they were able to start manufacturing high quality products.		
+TJ049S013	1	49	彼は自分で起業すると宣言さえした。	He went so far as to declare that he would start up his own venture.		
+TJ049S014	1	49	君の助けなしでやっていくことはできない。	I can’t do without your help.		
+TJ049S015	1	49	気楽にやりなさい。きっと今日の試験はよくできるよ。	Take it easy. I’m sure you’ll do well on today’s exam.		
+TJ050S001	1	50	★：パーティーに行くかい？ ☆：もちろん，行くわ！	★：Are you going to the party? ☆：You bet I am!		
+TJ050S002	1	50	★：寮を出るって聞いたけど。 ☆：私のルームメートのキャシーを知っている？彼女はいつも，私をいらいらさせるのよ。	★：I heard you’re leaving the dorm. ☆：You know my roommate Cathy? She always gets on my nerve.		
+TJ050S003	1	50	☆：ジェイソン！私やったわ！ ★：試験に合格したのかい？よくやったね！	☆：Jason! I did it! ★：You passed the test? Good for you!		
+TJ050S004	1	50	☆：ボブはずっと図書館で詰め込み勉強しているわ。 ★：彼は，大学に残れるか危ういから，中間試験で失敗できないんだ。	"☆：Bob’s been cramming in the library. ★：Since he is on thin ice to remain at the college, he can’t fail the midterm exam."		
+TJ050S005	1	50	★：これらの本は君が今読んでいる本よりもいいよ。 ☆：私が何を読もうが，あなたには関係ないわ！	★：These books are better than the ones you are reading now. ☆：What I read is none of your business!		
+TJ050S006	1	50	★：ジェーンはパーティーに来るかな？ ☆：どうかしらね。彼女は，何日もずっと熱心に勉強しているわ。	★：Will Jane come to the party? ☆：I doubt it. She’s been hitting the books for days on end.		
+TJ050S007	1	50	★：しまった！ボールで花瓶を壊しちゃった。どうすれば良いかな？ ☆：うわー！お母さんがカンカンになるわよ！	"★：Oops! I smashed the vase with the ball. What should I do? ☆：Oh, no! Mom will hit the roof!"		
+TJ050S008	1	50	☆：トム，グループ・ディスカッションはどうだったの？ ★：良かったよ！僕たちがまさにお手上げになりそうだった時にジョンソン教授が何とか間に合って来たんだ。	"☆：Tom, how was your group discussion? ★：Good! Professor Johnson arrived in the nick of time, just before we were about to give up."		
+TJ050S009	1	50	☆：この重いスーツケースを運んでくださらない？★：もちろんです，簡単なことです！	"☆：Will you please carry this heavy suit case? ★：Sure, it’s a piece of cake!"		
+TJ050S010	1	50	★：今日は上の空だね。 ☆：ええ，本当に。昨晩，ジョージが突然に結婚してくれって言ったの。	"★：You seem absent-minded today. ☆：Yeah. Out of the blue, George asked me to marry him last night."		
